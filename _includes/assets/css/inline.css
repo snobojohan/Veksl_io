@@ -2,9 +2,9 @@
 /* Can be forced with data-theme="light" */
 [data-theme="light"],
 :root:not([data-theme="dark"]) {
-  --primary: #3536fc;
-  --primary-hover: #0203b0;
-  --primary-focus: rgba(53, 54, 252, 0.125);
+  --primary: #1292EE;
+  --primary-hover: #005CA4;
+  --primary-focus: rgba(0, 119, 204, 0.125);
   --primary-inverse: rgba(0, 0, 0, 0.75);
 }
 
@@ -12,10 +12,10 @@
 /* Automatically enabled if user has Dark mode enabled */
 @media only screen and (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --primary: #fdd835;
-    --primary-hover: #ffeb3b;
-    --primary-focus: rgba(253, 216, 53, 0.25);
-    --primary-inverse: rgba(0, 0, 0, 0.75);
+    --primary: #FDD88E;
+    --primary-hover: #FFF2D7 ;
+    --primary-focus: rgba(250, 179, 71, 0.25);
+    --primary-inverse: rgba(2, 2, 2, 0.75);
   }
 }
 

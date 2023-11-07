@@ -1,0 +1,838 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1493",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-skinnskatteberg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1494",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f717bd8966995e60684cdb7c8b019088",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där exploateringstrycket inte är så hårt måste det gå att bygga strandnära. Det ska också bli möjligt att bygga i närheten av små vattendrag och diken.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "95deb27481e7a450cc38213a2a89b19f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, åtminstone initialt när företaget startas. Ett företag behöver få chansen att etableras och komma igång, och då är det bra om kommunala avgifter inte sätter käppar i hjulet det första som händer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b72ed03022d38b87da4a33860e3c267",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a07b3c71e0066e2bf51b5992299599b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87565f12375f5e08e59ae41823e5aff3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "465863b5105e84d30ed10ad462cbd10b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett språkkrav stärker medborgarskapets status och är en viktig symbol för principen om att i ett samhälle ska alla kunna kommunicera med varandra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1e24c25832f0ef4388f5f3e899476cf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a3dff46c8d7f36d2c2952f3b6d2c7ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4b4a0467cafc01648f9c47c493677f10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13659df26336fb900cb868bc5ce83c55",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82edd4391c197a40782595a9045eff90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ce6334b23c908009a32a5d009b7f98ff",
+        "questionType": "RANGE",
+        "reasoning": "Inte möjligt överhuvudtaget i den lilla kommunen. Därför blir svaret \"samma som idag\".",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cd2310dd58d37719fc409304e4174cfc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0f43441c45a37bc91d0caf8a21680ddc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "fa7fa27678aec14f811da2ed9dcf6c9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2271",
+          "2269",
+          "2274"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;D;A;D;C;B;C;D;B;2/5;2/5;1/5;[2271,2269,2274]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Egentligen inte, men vissa frågor är svåra att driva och genomföra i en liten kommun, såsom LOV, Lagen om valfrihet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna tillsammans med någon eller några av dagens oppositionspartier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kultur- och fritidshemsverksamhet även utanför tätorten",
+        "description": "Vi vill att kommunen ska ha verksamhet även utanför tätorten. Därför vill vi  att kulturskolans verksamhet även ska finnas i andra delar av kommunen, inte bara inne i tätorten. Vi vill också ha fritidshemsverksamhet i södra kommundelen. Det är många barn som går i annan kommuns skola. Skinnskatteberg behöver erbjuda fritidshemsverksamhet i södra kommundelen och så småningom även förskoleklass"
+      },
+      {
+        "category": "Bättre arbetsmiljö i skolan",
+        "description": "Vi vill hitta en långsiktig lösning på att skolan är trångbodd, fler klassrum för\r\nmindre klasser."
+      },
+      {
+        "category": "Mer samarbete för trygghet och transparens",
+        "description": "Vi vill arbeta mer aktivt med att motverka spridningen och användningen av narkotika. Kommunen behöver samarbeta mer med polisen, föreningar osv. Vi vill också att politiken, förvaltningen och medborgarna ska ha bättre samarbete och att styrningen av kommunen ska vara mer transparent."
+      }
+    ],
+    "motivateVote": "För att vi kommer arbeta för att alla ska ha en möjlighet att bo och arbeta på landsbygden och ha tillgång till en grundläggande samhällsservice. Det handlar om saker som att kunna utbilda sig, driva företag, bli årsrik, ha tillgång till kultur, sport, fritid och en fungerande infrastruktur. Liberalerna behövs för ett bättre Skinnskatteberg!\r\n",
+    "name": "Liberalerna Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-skinnskatteberg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1495",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f717bd8966995e60684cdb7c8b019088",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skinnskatteberg har 244 sjöar och vattendrag, det finns alla möjligheter att bygga strandnära samtidigt som naturvärden skyddas och allmänhetens tillgänglighet tas tillvara.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "95deb27481e7a450cc38213a2a89b19f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Säkra etablering och tillväxt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b72ed03022d38b87da4a33860e3c267",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a07b3c71e0066e2bf51b5992299599b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "87565f12375f5e08e59ae41823e5aff3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "465863b5105e84d30ed10ad462cbd10b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d1e24c25832f0ef4388f5f3e899476cf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "5a3dff46c8d7f36d2c2952f3b6d2c7ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4b4a0467cafc01648f9c47c493677f10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men förutsätter att kommunen växer",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13659df26336fb900cb868bc5ce83c55",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beroende på vad som avses med stor tillgång, efterfrågan är än så länge inte stor. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82edd4391c197a40782595a9045eff90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce6334b23c908009a32a5d009b7f98ff",
+        "questionType": "RANGE",
+        "reasoning": "Underlaget är troligen för lågt idag. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cd2310dd58d37719fc409304e4174cfc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "0f43441c45a37bc91d0caf8a21680ddc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en hög kommunalskatt",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "fa7fa27678aec14f811da2ed9dcf6c9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2271",
+          "2268",
+          "2270"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;C;C;A;C;_;B;C;C;D;3/5;1/5;0/5;[2271,2268,2270]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi bildar gärna ett styre tillsammans med ett eller flera partier på högersidan",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte styra tillsammans med Socialdemokraterna och Vänstern",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Näringsliv",
+        "description": "Underlätta etablering. Ta fram nya detaljplaner och marknadsföra industritomter. Vi vill att upphandlingen sköts av kommunens egna upphandlare att lokala företag får stöd och hjälp för att kunna lämna anbud."
+      },
+      {
+        "category": "Budget i balans",
+        "description": "Vi måste se över kommunens kostnader, så att skattepengarna används på bästa sätt."
+      },
+      {
+        "category": "Inflyttning",
+        "description": "Kommunen måste få till inflyttning, en förutsättning för en levande kommun med service och där välfärdsuppdragen och den kommunala servicen säkerställs."
+      }
+    ],
+    "motivateVote": "Vi tar ansvar och vill se till att Skinnskatteberg blir en trygg och hållbar kommun för alla, oavsett ålder. Vi kommer föra en politik som gynnar utveckling, kreativitet och värde för våra invånare. ",
+    "name": "Moderaterna Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-skinnskatteberg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1496",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f717bd8966995e60684cdb7c8b019088",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns många sjöar i kommunen vilket gör kommunen mer attraktiv",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "95deb27481e7a450cc38213a2a89b19f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Delvis genomfört",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b72ed03022d38b87da4a33860e3c267",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med tanke på miljön, nästan genomfört. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a07b3c71e0066e2bf51b5992299599b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ej aktuellt i vår kommun",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87565f12375f5e08e59ae41823e5aff3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket återstår att göra innan dess",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "465863b5105e84d30ed10ad462cbd10b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsgivaren ska hjälpa till med språkutveckling, ge personalen förutsättningar för att klara språkkraven",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1e24c25832f0ef4388f5f3e899476cf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket bra förslag",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a3dff46c8d7f36d2c2952f3b6d2c7ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borde även hjälpa privata företag, vi måste hjälpas åt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4b4a0467cafc01648f9c47c493677f10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skinnskatteberg har redan idag en äldreomsorg i toppklass",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "13659df26336fb900cb868bc5ce83c55",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör samverka med privata företag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82edd4391c197a40782595a9045eff90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner ska tilldelas rättvist efter förmåga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce6334b23c908009a32a5d009b7f98ff",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cd2310dd58d37719fc409304e4174cfc",
+        "questionType": "RANGE",
+        "reasoning": "Vi lägger i dag en ansenlig summa på kulturen, bland annat fri kulturskola upp till 18år",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0f43441c45a37bc91d0caf8a21680ddc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "fa7fa27678aec14f811da2ed9dcf6c9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;C;D;B;B;D;D;D;A;C;A;2/5;2/5;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har för tillfället en viss avvikande åsikt när det gäller vindkraftsfrågan",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Satsar på att få så stort röstetal som möjligt, vänstermajoritet. Dialog med övriga partier",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola för alla",
+        "description": "Vi vill ge alla elever relevant stöd för att få godkända betyg och gymnasiebehörighet"
+      },
+      {
+        "category": "Miljö och klimat",
+        "description": "Vi ska vara en klimat smart kommun med inriktning på fastigheter och VA."
+      },
+      {
+        "category": "Attraktiva bostäder",
+        "description": "Färdigställa attraktiva hållbara bostäder och projektera strandnära tomter."
+      }
+    ],
+    "motivateVote": "Vi slår vakt om välfärden i Skinnskatteberg, arbetar för en grön omställning  samt en ökad inflyttning. Fortsätta arbetet med att förbättra skolan. Färdigställa 65 plus boende",
+    "name": "Socialdemokraterna Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-skinnskatteberg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1497",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f717bd8966995e60684cdb7c8b019088",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "95deb27481e7a450cc38213a2a89b19f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b72ed03022d38b87da4a33860e3c267",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a07b3c71e0066e2bf51b5992299599b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87565f12375f5e08e59ae41823e5aff3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "465863b5105e84d30ed10ad462cbd10b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1e24c25832f0ef4388f5f3e899476cf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a3dff46c8d7f36d2c2952f3b6d2c7ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4b4a0467cafc01648f9c47c493677f10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13659df26336fb900cb868bc5ce83c55",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82edd4391c197a40782595a9045eff90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce6334b23c908009a32a5d009b7f98ff",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cd2310dd58d37719fc409304e4174cfc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0f43441c45a37bc91d0caf8a21680ddc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "fa7fa27678aec14f811da2ed9dcf6c9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2273",
+          "2268",
+          "2270"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A;D;D;D;C;C;B;A;D;2/5;2/5;1/5;[2273,2268,2270]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, jag kommer inte på något.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna en samverkan med Moderaterna, Centerpartiet och Liberalerna efter valet, kommunen behöver ett stabilt majoritetsstyre. Om KD ställer upp i valet så ser vi gärna en samverkan även där.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna och Vänsterpartiet.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Budget i balans",
+        "description": "Vi behöver se över hela kommunens ekonomi för att säkerställa att kommuninvånarnas skattepengar används på bästa sätt."
+      },
+      {
+        "category": "Inflyttning",
+        "description": "Vi behöver inflyttning till kommunen, vi behöver ökade skatteintäkter. Vi vill att landsbygden skall leva och frodas. \r\nEn viktig sak att göra då är att marknadsföra kommunen på bästa sätt.\r\nVi måste ge människor de bästa förutsättningarna för att kunna bo på landsbygden. Kommunen måste säkerställa att servicen till medborgarna är god, en fungerande skola, barnomsorg och kommunikationer är viktiga."
+      },
+      {
+        "category": "Näringsliv",
+        "description": "Vi vill ha flera företagare till kommunen, vi måste se till att underlätta för företag att etablera sig i Skinnskatteberg. Industritomter måste iordningsställas.\r\nGynnsamma villkor som gör att företagare finner det intressant att etablera sig i Skinnskatteberg."
+      }
+    ],
+    "motivateVote": "Vi har den politik som är mest \"jordnära, vi vill se till så att landsbygdsfrågorna kommer högt upp på agendan. Vi arbetar för bättre levnadsvillkor för pensionärer, arbetare och företagare. Vi ser också att ett aktivt föreningsliv gynnar kommunen. Sverigedemokraterna har den bästa politiken inom alla områden, vi är originalet, de andra partierna har närmat oss och tar våra förslag till sina egna.",
+    "name": "Sverigedemokraterna Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-skinnskatteberg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1498",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f717bd8966995e60684cdb7c8b019088",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsbyggande vid stränder kan tillåtas i begränsad omfattning. Allemansrätten och naturen måste skyddas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "95deb27481e7a450cc38213a2a89b19f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b72ed03022d38b87da4a33860e3c267",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a07b3c71e0066e2bf51b5992299599b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "87565f12375f5e08e59ae41823e5aff3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "465863b5105e84d30ed10ad462cbd10b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att personalen kan kommunicera på svenska, men för det behövs inget test",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d1e24c25832f0ef4388f5f3e899476cf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är emot friskolor, men om de finns ska de förstås ha samma skyldigheter som kommunala skolor",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5a3dff46c8d7f36d2c2952f3b6d2c7ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4b4a0467cafc01648f9c47c493677f10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "13659df26336fb900cb868bc5ce83c55",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82edd4391c197a40782595a9045eff90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce6334b23c908009a32a5d009b7f98ff",
+        "questionType": "RANGE",
+        "reasoning": "Egentligen inget alls eftersom inga privata skolor finns i kommunen. Vi vill att det ska förbli så.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "cd2310dd58d37719fc409304e4174cfc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0f43441c45a37bc91d0caf8a21680ddc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "fa7fa27678aec14f811da2ed9dcf6c9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2271",
+          "2269",
+          "2272"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;C;A;D;A;D;D!;A;D;A;0/5;3/5;2/5;[2271,2269,2272]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I första hand vill vi att Vänsterpartiet och Socialdemokraterna ska styra kommunen, men vi är beredda att samarbeta med alla partier utom Sverigedemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Få fart på bostadsbyggandet",
+        "description": "Bostadsmarknaden har stagnerat. Praktiskt taget ingenting har byggts de senaste tio åren. Kommunen måste bygga allmännyttiga hyreslägenheter och seniorboende. Mer bostäder är en överlevnadsfråga för kommunen."
+      },
+      {
+        "category": "Bättre lokal demokrati",
+        "description": "Den representativa partidemokratin har chanserat till en prestigekamp. Det mörkas för mycket. Genomskinlighet för medborgarna och media. Den inre organisationen görs om med nya nämnder och förvaltningar för att förhindra en sådan maktkamp som paralyserade kommunen 2020-2021."
+      },
+      {
+        "category": "Ta ansvar för klimatet",
+        "description": "Kommunen måste ta ansvar för klimatet. Fossildrivna bilar byts ut. En kommunal solpark. Solceller på kommunala byggnader. Förbättra lokal och regional busstrafik. Vi säger ja till vindkraft i kommunen."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är ett feministiskt och grönt socialistiskt parti. I kommunen verkar vi för ökat bostadsbyggande, klimatpolitiken och bättre demokrati.",
+    "name": "Vänsterpartiet Skinnskatteberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-skinnskatteberg"
+  }
+]

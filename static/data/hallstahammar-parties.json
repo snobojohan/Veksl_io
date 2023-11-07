@@ -1,0 +1,1396 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "491",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "144",
+          "140",
+          "141"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "131",
+          "134",
+          "130"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;C;D;C;C;B;C;C;C;C;C;3/5;2/5;2/5;[144,140,141];[131,134,130]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ibland behöver man gå emot beslut som tagits på riksnivå pga ekonomiska skäl.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V och SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler alternativa förskolor, förstklassig skola där alla elever lyckas",
+        "description": "Barnen är olika och behöver olika behov. Tidiga insatser till elever som behöver stöd är av största vikt. Vi vill underlätta etableringen av olika alternativa förskolor i kommunen. När det gäller grundskolan behöver vi ta ett större ansvar att lösa problematiken kring betygsutfallen. Extra resurser till måluppfyllelse behövs."
+      },
+      {
+        "category": "Kompetensförsörjning och arbetsmarknad",
+        "description": "Vi ser ett glapp på arbetsmarknaden mellan behov och utbud på kompetens.  Vuxenutbildningen måste få utökade resurser för att få rätt person till rätt yrke.  Det behövs lärlingsutbildningar och kortare fortbildningskurser för att snabbare komma ut på arbetsmarknaden."
+      },
+      {
+        "category": "Värdig kvalitativ vård och omsorg ",
+        "description": "Vi blir fler äldre i vår kommun. Vi måste ha en proaktiv planering för detta. Etablering av nytt äldreboende, rusta upp de som har blivit slitna. Fortsätta utveckla demensvården. Bästa möjliga vård och omsorg för individen i centrum."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård. \r\nVår politik får fler i jobb sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar.",
+    "name": "Centerpartiet Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-hallstahammar"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "492",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "144",
+          "140",
+          "141"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "133",
+          "135",
+          "134"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D!;D!;A;C;A;D;A;D;A;C;4/5!;2/5;1/5;[144,140,141];[133,135,134]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett väl fungerande samarbete med i första hand Moderaterna sedan får valresultatet visa på resterande",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokratin ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning och reda i skolan",
+        "description": "År efter år har vi usla resultat i skolan, förvaltningen vidtar åtgärder men inget blir bättre. Det är hög tid att det blir en ny majoritet i Hallstahammar som tar ansvar för våra barn och ungdomar. Ny majoritet för en bättre skola"
+      },
+      {
+        "category": "Ökad trygghet",
+        "description": "I Hallstahammar är det en förhållandevis hög narkotika hantering. Vi behöver se till att ungdomarna har fler aktiviteter att lägga sin ernergi på. Det behövs kameraövervakning i Centrum och även på vissa andra platser som är kändsa för bus. Vi behöver ocksåse till att vi får ett mer levande Centrum där vi har rörelse bäde vad gäller ungdomar och även vuxna."
+      },
+      {
+        "category": "Utökad Hemtjänst, Fler trygghetsboenden",
+        "description": "Varje plats på ett äldreboende kostar idag ca 1 miljon\r\nDärför behöver vi tänka om för att kunna möta framtidens demografi på ett bra sätt\r\nVarje plats på ett äldreboende kostar ca 1 miljon det betyder att det nya äldreboendet i Kolbäck kostar runt 50 miljoner i drift. Vi måste hitta ett bättre sätt att ta hand om våra gamla till rimligare kostnad"
+      }
+    ],
+    "motivateVote": "Det är hög tid för förändring vi måste få ordning på skolan med dess dåliga resultat plus börja projektera för ett trygghetsboende i Hallstahammar ",
+    "name": "Kristdemokraterna Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-hallstahammar"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "493",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vill ha en självständig idrottsrörelse med demokratiska värderingar som ger alla möjligheter till positiva upplevelser av idrott. Engagemanget och sammanhållningen inom idrottsrörelsen betyder mycket för samhället och hälsan. Idrotten är en folkrörelse var de egna medlemmarna bestämma och ta ansvar. Hallen ska byggas söder om E18 för att förstärka föreningslivet i kommunen söder om E18",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning är ofta en bra metod för att öka tryggheten och säkra bevisning. Men det måste alltid göras en avvägning mot enskildas rätt att vara i fred. Vi vill att det ska bli lättare att sätta upp kameror på ställen med brott och otrygghet, till exempel på gator och torg eller utanför skolor och akutintag. Samtidigt måste det finnas kontroll av att kamerorna används på avsett vis.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla föräldrar ska ha rätt att välja förskola för sina barn finansierad med en förskolepeng som följer barnet till den förskola som väljs. Barn som gått i förskolan har lättare att sedan klara skolan. Förskolan är bra för alla barn, men fyller en särskild roll för barn med utländsk bakgrund som inte har svenska som modersmål. Vi vill stärka förskolans uppdrag att lära barnen det svenska språket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan får bestämma, vi ska inte lägg oss i vad barn ska äta eller inte. Man kan ju erbjuda kött fria rätter för de som vill såsom det ska finnas tex. laktos och gluten fria rätter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska absolut inte konkurrera med näringslivet med hjälp av skattepengar. Satsningar för att hjälpa folk att komma in i arbetet är ok.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetet ska organiseras så att man kan jobba heltid utan överansträngning  eller orimliga arbetstider osv. Det gäller alla yrkesgrupper.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara möjligt att ställa tydliga krav på likvärdiga regler som främjar kvalitet, kunskap och långsiktighet för friskolor. Det gör det också möjligt att sätta upp krav på långsiktigt åtagande, kompensatorisk resursfördelning och bl.a. vara skyldig att ta emot nyanlända elever.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansvar ligger hos kommunala bostadsbolaget som i sitt tur har begränsade möjligheter att erbjuda billiga lägenheter. I viss mån finns såna lägenheter. Som hyresgäst ska man ha möjlighet att få stöd från staten.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja gärna, men med samma eller bättre kvalité, samma villkoren. Kunden får välja själv.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Knappast ett kommunal ansvar, oavsett begränsade tekniska möjligheter och infrastruktur frågor. Men ja, iaf installera laddare till kommunens egna fordon och se till att de kommunalt ägda bostadsbolagen erbjuder laddning till sina hyresgäster.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan bli jobbigt i vissa kommuner. Man får resonera och diskutera men man ska ta sitt ansvar inom regionen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "Det finns få privata skolor",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är vem vi är. Dessutom ser framtiden ljust ut för turistnäringen. Satsa nu är skörda sen.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Definitivt inte mer. Vi kan bli mer effektiv istället.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "131",
+          "135",
+          "134"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;C!;B;D;B;C;B;C;A;B;3/5;3/5;2/5!;_;[131,135,134]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tycker att det behövs mer långvarig stöd till mindre orter, att utveckla landsbygden mer och satsa på infrastruktur och näringslivet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberala idéer borde vara lika självklara som luften vi andas:\r\ndemokrati, jämlikhet, kunskap och öppenhet. \r\nStyret efter valet stöttar i grund och botten våra liberala idéer.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det blir nog svårt med partier byggt på populism såsom SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "SKOLAN, MER TID ATT LÄRA OCH LÄRARNA SKA FÅ ÄGNA MER TID ATT UNDERVISA",
+        "description": "Hallstahammars skolan ska upp i topp, och varenda elev ska ha lärt sig det grundläggande när de går sin sista dag, redo för nästa steg. Lärarna ska få ägna mer tid att undervisa tex med stöd av lärarassistenter och mindre administration"
+      },
+      {
+        "category": "SATSA MER PÅ INTEGRATION",
+        "description": "Invandringen har berikat Hallstahammar genom århundraden, och vi vill att det ska fortsätta vara så. Nya svenskar ska släppas in i samhället på riktigt, lära sig språket, jobba och bli en del av vår kommun som växer och utvecklas. Förbättra integrationen på bred front, men också tydliga krav och förväntningar."
+      },
+      {
+        "category": "Mer motion och idrott gör oss friskare och ger bättre resultat på skolan.",
+        "description": "Elever som idrottar presterar också generellt bättre i teoretiska ämnen än de som inte motionerar. Fler idrottstimmar i skolan är en bra början.\r\nIdrott, lek och rörelse är viktigt för alla. Idrottsrörelsen bör erbjuda verksamhet också för dem som inte vill tävla. Det är viktigt att idrottsplatser i hela Hallstahammars kommun finns och utvecklas samt att vi får en fullstor idrottshall söder om E18."
+      }
+    ],
+    "motivateVote": "Vi sätter skolan först - Allt börjar med en bra utbildning!\r\nSkolan behöver vara en institution där varje elev får förutsättningar att lyckas. Där är vi inte i dag i Hallstahammars kommun. Det börjar i förskolan hela vägen upp. Utbildning är en av grundstenarna i vårt liberala demokratiska samhälle.",
+    "name": "Liberalerna Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-hallstahammar"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "494",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Befolkningen i kommunen ökar just nu och det finns ett visst tryck på de stora hallarna i kommunen idag men det finns också lediga tider. Det finns också väldigt många lediga tider i de mindre hallarna. Rörelse och motion är viktigt och skapar livskvalitet och bättre folkhälsa. Men vi anser att vi i första hand ska använda de hallar vi har. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att resurserna ska läggas på förebyggande. Kommunen behöver verka för ett mer levande centrum, satsa på trygghetsvandringar, \"nattvandrare\" och andra initiativ som skapar trygghet genom att fler människor är i centrum. Satsningar på psykisk ohälsa bidrar till trygghet. Vi tror att övervakning är fel väg att gå, det är integritetskränkande och skapar inte trygghet utan flyttar buset. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "De flesta aktörer på marknaden drivs av ett vinstintresse, vilket Miljöpartiet är emot. Däremot ideellt drivna och icke-religiösa förskolor har historiskt utvecklat pedagogiken. Vi anser dock inte att kommunen ska stötta just förskolor mer än  kommunen stöttar andra företag som vill etablera sig inom kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra för hälsa och miljö att minska intaget av kött för våra barn och unga. Däremot att tvinga folk genom att göra detta obligatoriskt kan ge motsatt effekt. Vi förordar att servera växtbaserad mat som grund i skolor och förskolor. Kött och mejeriprodukter kan utgöra ett tillval. Vi vill sprida och informera om köttets betydelse för hälsan och klimatet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Principiellt ska kommunen inte konkurrera med näringslivet. Hallstahammars kommun bör äga bolag under följande förutsättningar: Att tillgodose behovet av bostäder till alla samhällsgrupper, dvs. allmännyttan.  Där det inte är möjligt att få till en fungerande marknad, tex. inom elnät eller bredband. Starta initiativ inom områden där en marknad behövs men inte finns idag, ex byggåterbruk, bilpool.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor behöver hålla över tid. Samhället i stort behöver gå över till 6 h arbetsdag, där de arbeten som finns fördelas i hela den arbetsföra befolkningen. Minskad arbetstid kan leda till ökad folkhälsa, minskade sjukskrivningar, att föräldrar får mer tid över för barnen men kanske också till att tid finns för ideellt engagemang. Det bör införas succsseivt för att klara det kostnadsmässigt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart tycker vi. Alla skolor ska solidariskt hjälpa till för minskad segregation.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Billiga bostäder innebär ofta dålig kvalitet som exempelvis innebär hög uppvärmningskostnad och större behov av underhåll! Det håller inte i längden! Vi anser att införande av basinkomst är ett bättre sätt att ge invånare möjligheter till en tillfredställande ekonomi. Inom Hallstahems bostadsbestånd finns både nybyggda lägenheter men även billigare boenden med enklare standard.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärd ska inte skötas av privata med vinstintresse. Genom kommunal drift säkerställs kontinuitet och långsiktighet. Kvalitetsförbättringar kan införas omgående i verksamheten och begränsas inte av upphandlingar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör bygga ut möjligheten att ladda elbilen inom kommunen.  Laddstolpar är en av pusselbitarna i infrastrukturen för hållbara transporter. Kommunala initiativ ska göras i samråd med privata initiativ och i första hand bör publika laddstolpar driftas av näringslivet. Kommunen kan vara \"motorn\" i övergången till eldrift av fordon.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, fördelningen ska göras av staten och vara solidarisk. Kommuner som vill ta emot fler än den kvot de blivit tilldelade kan anmäla sig frivilligt för att ta emot fler.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "Hallstahammar har en låg andel förskolor och skolor som bedrivs av extern part. Vi anser inte att förskolor och skolor ska drivas av privata företag med vinstintresse. För planeringen och långsiktigheten för den kommunala skolverksamheten bör också antalet ideella aktörer vara begränsat eftersom kommunen alltid ska kunna ta emot alla elever inom kommunen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": "Mer tillgänglig kultur, framförallt för barn och unga. Alla ska kunna delta i musikskolan/kulturskolan och kultur i anslutning till skoldagen bör lyftas. Inom kommunen ordnas mycket bra inom kultur idag, men kulturutbudet i Hallstahammar bör lyftas och marknadsföras mer för att öka deltagandet. Kulturutbudet i Västerås behöver också uppmärksammas och marknadsföras i Hallstahammar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att nivån som är idag är bra. Skulle det behövas för att säkra välfärden är vi beredda att höja kommunalskatten, men just nu ser vi inte behovet av det. Kommunen kommer i närtid t.ex. behöva anställa fler för att ta hand om våra äldre. En del av utmaningarna kan mötas genom att sluta slösa med materiella resurser och energi samt genom lönsamma investeringar så som solceller.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": "Relationen mellan lärare och elev är central för lärandet och genom fler anställda lärare så kan lärmiljön förbättras exempelvis genom mindre klasser eller flera lärare i samma klass. Fler vuxna ger också bättre förutsättningar att hålla ordning och skapa lugn och ro i klassrummet. Forskning visar att fysisk aktivitet gynnar lärandet och vi vill att fysisk aktivitet ordnas på skolorna dagligen.",
+        "value": [
+          "139",
+          "144",
+          "140"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": "Mjuka värden ska lyftas tydligare i kommunen och förebyggande arbete för att förhindra ohälsa är viktigt, tex. jämställdhet, integration och alla människors rätt att få vara sig själva (HBTQI+). Kommunen behöver verka för hållbart resande men också för hållbart näringsliv. Kommunen planerar redan att bygga äldreboende för att möta behovet.",
+        "value": [
+          "131",
+          "136",
+          "134"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;A;B;C;C;D!;C;C;A!;D;A;2/5;3/5;2/5;[139,144,140];[131,136,134]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja, vi vill testa basinkomst på riktigt. Exempelvis genom partiell basinkomst för personer med psykisk ohälsa, eftersom det är många idag där den privata ekonomin är orsaken till den psykisk ohälsa. Försörjningsstödstagare ska kunna behålla en del av stödet när de börjar jobba som incitament.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill befinna oss i den konstellation där vi kan få igenom våra frågor på bäst sätt, utan att behöva göra avkall på viktiga grundläggande värderingar så som solidaritet med djur, natur och ekosystem,  solidaritet med världens alla människor och solidaritet med kommande generationer. Vi kommer inte ingå i ett samarbete med Sverigedemokraterna (SD).",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna (SD).",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa klimatförändringarna och minska resursförbrukningen",
+        "description": "Hallstahammar som geografiskt område är koldioxidneutralt år 2028 och som\r\nkommunorganisation år 2023 genom energibesparing och konvertering till fossilfria alternativ. Materiell resurshushållning ska öka inom kommunorganisationen. Informationskampanjer till invånarna om kopplingen mellan konsumtion och förbrukning av materiella resurser. Kommunen ska se till att byggvaror återanvänds."
+      },
+      {
+        "category": "Förstklassig skola och omsorg",
+        "description": "Hallstahammar ska ha en skola som stå sig bra i internationella jämförelser. Barn och ungdomars välbefinnande och livskvalité ska öka och ohälsa ska förebyggas. Det ska vara lätt att ta sig till skolan till fots eller med cykel. Äldreomsorgen och omsorgen för funktionsnedsatta ska vara lyhörda för brukarens behov. Det ska vara lätt att få plats i önskad boendeform."
+      },
+      {
+        "category": "Ökad livskvalité",
+        "description": "Alla ska kunna vara den dom är. Jämlikhet och HBTQI+ personers rättigheter behöver stärkas. Hallstahammar ska vara en plats som karaktäriseras av öppenhet, jämställdhet och mångfald. Ingen ska lämnas utanför vilket betyder att kommunen ska ha ett generöst flyktingmottagande och socialtjänstens skyddsnät ska finnas där när det behövs."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda partiet som bryr sig om miljö- och klimatfrågor på riktigt. Extremväder och förlust av biologisk mångfald talar sitt tydliga språk. Miljöpartiet bryr sig om människan i ett större sammanhang, och också om framtida generationers möjligheter till ett gott liv. Vi vill ha en skola där pedagogiken baseras på forskning,  och som ger goda förutsättningar för barn och ungdomar.",
+    "name": "Miljöpartiet Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-hallstahammar"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "495",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är klart att Hallstahammar ska ha en fullstor idrottshall. Föreningslivet behöver rimliga förutsättningar till både spets och bredd i verksamheterna. En fullstor idrottshall ger sådana förutsättningar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ökad trygghet ger ökad frihet. Frihet att röra sig som man vill, frihet att bestämma över sitt eget liv. Förra året uppgav nästan varannan kvinna i Hallstahammar att man avstått från att gång ensam på grund av otrygghet. Det är inte ett sådant samhälle vi vill ha.\r\nÖvervakningskameror bidrar till ökad trygghet samtidigt som de också kan verka förebyggande och brottsutredande. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hallstahammar växer och har behov av nya förskoleplatser. Alla familjer är olika och har olika behov. Med olika pedagogiska inriktningar och utförare att välja mellan blir det möjligt att hitta en förskola som  passar just ditt barn. Det tror vi är bra för både familjer och för att barn ska kunna utvecklas på bästa sätt. Bra också att medarbetare får fler arbetsgivare att välja mellan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket dumt förslag. Skolorna ska servera en allsidig och näringsrik mat. I det ingår kött av alla de slag. Vi ska köpa in bra kött som är producerat med bra villkor för djuren, gärna viltkött. \r\n\r\nVi har föreslagit att skolorna ska servera två rätter varje dag.\r\nSvenskproducerat kött är bra för klimatet och för vår livsmedelsproduktion, det är viktigt inte minst i tider av krig och kris. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hallstahammars kommun ska inte snedvrida konkurrensen. Finns ingen anledning att kommunen ska konkurrera med vårt lokala näringsliv. Kommunen ska fokusera på kärnuppgiften och tillsammans med näringslivet utveckla kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsvillkoren i äldreomsorgen är jätteviktiga. Med sex timmars arbetsdag betyder det att vi behöver rekrytera ännu fler medarbetare för att få ekvationen att gå ihop, det när det redan idag är svårt att hitta rätt kompetens. Vi tror att det är annat som behövs, som att minska administration, satsa på kompetensutveckling av både chefer och medarbetare samt att 7/24-arbete ska premieras.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hallstahammar har idag inga friskolor. \r\nDet är rimligt att alla är med och delar på ansvaret för en god integration. Precis som kommuner har olika förutsättningar så har olika skolor det. Men att alla är med och bidrar efter sina förutsättningar tror vi är bra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte bygga hyresrätter alls. Däremot är det en viktig uppgift för det kommunala bostadsbolaget Hallstahem. Hallstahem har ett viktigt uppdrag att bidra till att det finns bostäder i olika prisklasser och med olika storlekar. Tillsammans med andra fastighetsaktörer. Kommunen har redan idag ett stort borgensåtagande i Hallstahem. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att man som äldre ska ha makt över sitt eget liv och vem som kommer innanför den egna dörren. Vi är alla olika och vill göra olika val, det ska man kunna göra även som årsrik. \r\nMed fler utförare kan man välja den som passar en själv bäst. Medarbetare får också fler arbetsgivare vilket vi tror är bra. \r\nKvaliteten ska aldrig tummas på, oavsett privat eller kommunal utförare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska möjliggöra god laddinfrastrukrur. Kommunen ska däremot inte varken bygga eller drifta publika laddstolpar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige har misslyckats med både migrationen och integrationen. Idag är det för många nyanlända som inte blir en del av samhället eller får ett jobb. \r\nVar och hur man bor är centralt. \r\nAlla kommuner ska bidra med sin del men kommuner har olika förutsättningar. Det måste finnas utrymme för kommuner att bedöma hur många nyanlända man kan ta emot utifrån just bostäder och möjlighet till integration",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns inga friskolor i vår kommun. Vi tror att en bra friskola skulle kunna förbättra studieresultat och ge elever en chans att välja skola. Vi ser gärna att en profilskola etablerar sig i Hallstahammar, som exempelvis inriktning dans/musik eller någon språkinriktning/internationell skola. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är oerhört viktig del i samhället. Vi vill få ut mer kultur för de skattepengar vi satsar idag. Idag är det mycket stuprör, vi vill öka kulturen inom skolan, äldreomsorgen och i den offentliga miljön. \r\nVi vill också rikta insatser för kultur mot barn och unga. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska aldrig ta ut mer skatt än absolut nödvändigt för att finansiera kärnverksamheter. Det finns ett stort behov av investeringar både för nya skolor, äldreboenden och vägar.  Men också för ett under många år eftersatt underhåll. \r\nMed de behov som finns ser vi det inte som möjligt att sänka skatten de närmaste åren, tyvärr. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "142",
+          "144",
+          "141"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "133",
+          "131",
+          "135"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D!;D!;A;D;A;C;A;D!;A;C;3/5;2/5;2/5;[142,144,141]!;[133,131,135]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, grunderna och värderingarna är gemensamma på alla nivåer. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val på ett borgerligt styre där Moderaterna tillsammans med Kristdemokraterna utgör grunden. Utöver det är vi öppna för samtal och  samarbeten med alla partier som vill driva likartad politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi är öppna för samtal och samarbeten med alla partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre skolresultat och studiero",
+        "description": "För många elever går ut skolan med otillräckliga betyg. Tryggheten och studieron är också för låg. \r\nVi vill se tydligt fokus på kunskap. Det ska vara ordning och reda i klassrummet. Elever ska få hjälp och stöd utifrån sina förutsättningar, mer nivågruppering och fler särskilda grupper. Ökad undervisningstid genom hela grundskolan och tydliga, höga förväntningar på elever och föräldrar."
+      },
+      {
+        "category": "Otrygghet ger ofrihet",
+        "description": "I Hallstahammar uppgav förra året varannan kvinna att man avstått från att gå ut ensam av rädsla att bli överfallen eller rånad. Det är absurda siffror som måste minska.\r\nModeraterna vill se fler poliser, ordningsvakter och kameror på våra gator och torg. Vi vill också ta krafttag mot våld i nära relationer och mot hedersproblematik."
+      },
+      {
+        "category": "Låt drömmen växa – bygg Hallstahammar klokt",
+        "description": "Hallstahammar har det perfekta läget och vi växer. Man ska kunna förverkliga sin dröm i Hallstahammar oavsett om man vill ha en plats för sina barn att växa upp på eller om man vill starta ett högteknologiskt företag.\r\nModeraterna vill se fler småhustomter och byggklar industrimark. Målmedvetna satsningar på företagsetableringar men också villor och egna hem i attraktiva områden."
+      }
+    ],
+    "motivateVote": "Hallstahammar ska vara en trygg plats att längta hem till. En röst på (M) ger tydligt fokus på skolan där kunskap, studiero och tidiga insatser prioriteras. \r\nOtrygghet ger ofrihet därför måste trygghetsarbetet växlas upp med ordningsvakter, kameror och ökad polisiär närvaro samtidigt som vi jobbar socialt förebyggande, tar krafttag mot narkotika, hedersproblematik och våld i nära relationer. ",
+    "name": "Moderaterna Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-hallstahammar"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "496",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idrott främjar folkhälsa, motverkar utanförskap och skapar gemenskap. Att ge förutsättningar för våra föreningar i kommunen att kunna bedriva denna viktiga verksamhet tycker vi Socialdemokrater är bra. Behovet av en arena för större publik är stort.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trygghetskameror bör sättas upp på platser där det är motiverat, kan vara på andra ställen än i centrum också.  Vi behöver också jobba bredare med trygghetsfrågor och förebyggande insatser i samhällsplaneringen exempelvis belysning och översyn av buskage mm.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alternativa förskolor finns redan i dag och det är samma regler som krävs för att öppna en privat som en kommunal förskola. Kommunen har tagit fram tydliga dokument som visar vilka krav som ställs enligt lag för att få öppna en verksamhet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vegetariska dagar finns redan i skolan. För oss socialdemokrater är inte antalet dagar det viktigast utan att all mat är näringsrik och vällagad. Det är också viktigt för klimatet att vi lagar mat som är årstidsanpassad.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra kommunala bolag, exempelvis Hallstahem står som en garant för att viss service och standard hålls mot våra medborgare. Om bara marknaden ska styra så ökar risken för marknadshyror att de som står långt ifrån bostadsmarknaden får svårare att få tag i en lägenhet. Hallstahem bidrar exempelvis även med möjlighet att få sociala kontrakt om man inte kan vara verksam på den vanliga bostadsmarknaden",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god men det är ett oerhört kostnadsdrivande förslag. Det är också redan i dag svårt att hitta utbildad personal inom äldreomsorgen och med detta förslag skulle vi behöva anställa ännu fler.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska man ta del av den skattefinansierade skolpengen ska man också ha samma skyldigheter och ansvar som kommunala skolor har, det vill säga alla barn ska vara välkomna på alla skolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska se till att det finns en variation på boenden som passar medborgarna efter deras behov i livet. För att stötta de med lägst inkomster ska socialförsäkringen träda in via ex bostadstillägget.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattepengar ska stanna där dom hör hemma, det vill säga i välfärden! Vi har sett allt för många vinstdrivande bolag som sätter utdelning till aktieägarna före kvalitet och arbetsmiljö inom äldreomsorgen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste alla bidra till den ökade efterfrågan och till att ställa om till ett hållbarare samhälle.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner ska solidariskt vara med och ta sin del av nyanlända när det behovet finns. Fördelningen ska ske enligt de regler som idag gäller, det vill säga ekonomiska förutsättning samt hur många man tagit emot vid tidigare tillfällen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "I dag finns det inte några privata skolor i vår kommun och det tycker vi är bra. Genom den kommunala skolan har vi god insyn i skolans verksamhet och kan också få en likvärdighet i barnens skolgång. På det sättet motverkar vi också möjligheten för skolor att välja bort barn med särskilda behov.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": "Kultur bidrar till ökad hälsa och välmående. Forskning visar också på att kulturella inslag inom skolan stimulerar barns hjärnor till att lättare kunna ta till sig ny kunskap. Vi har också pekat ut våra natur och kulturområden som viktiga att satsa på för kommunens attraktivitet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Skatten i Hallstahammar som ligger på 21,81 har varit oförändrad sedan början på 80-talet. Vi har också en av länets lägsta kommunalskatter. Dock ser vi att med kommande utmaningar så kan det bli aktuellt med en skattehöjning i framtiden.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "137",
+          "144",
+          "141"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "135",
+          "134",
+          "130"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C;B;B;A;B;D;B;A!;D;A;2/5!;3/5;2/5;[137,144,141];[135,134,130]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi tycker att det är viktigt med ett starkt styre som kan få genomslag för sin politik. Vi kan tänka oss samarbeten med partiet som delar våra värderingar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre förutsättningar för barn och unga",
+        "description": "Vi socialdemokrater vill ge barn och unga bättre förutsättningar att lyckas i skolan och på fritiden. Fler trygga vuxna i barnens närmiljö behövs, oavsett om det är i skolan, på fritidsgården eller via föreningslivet. Vi vill därför fortsätta de satsningar som påbörjats med att stärka dessa grupper och viktiga funktioner i samhället."
+      },
+      {
+        "category": "Äldrevänlig kommun",
+        "description": "Hallstahammar är idag utsedd till ”Äldrevänlig kommun” och det är ett koncept som vi vill fortsätta att satsa på. Fler mötesplatser, trygga boenden, förebyggande insatser för att motverka ensamhet, möjlighet till att kunna leva en aktiv fritid. Allt det är viktigt i Socialdemokraternas Hallstahammar."
+      },
+      {
+        "category": "Bygg en fullstor idrottshall",
+        "description": "Idrotten har länge flaggat för att behovet av en fullstor idrottshall. Vintertid är det svårt då flera föreningar har behov av match- och träningstider i ex handboll och innebandy. Flera lag spelar i sina divisioner på dispens i hallfrågan. En fullstor idrottshall som möter framtida behov gällande utrusning, tillgänglighet och publikytor tycker vi vore ett lyft för kommunen och föreningslivet."
+      }
+    ],
+    "motivateVote": "Vi står för en politik som gynnar de flesta medborgarna. Vi tycker att välfärden är viktig och att våra gemensamma skattepengar ska gå till sådant som det är avsatt för, det vill säga vård, skola och omsorg. Vårt parti står för trygghet för vanligt folk!",
+    "name": "Socialdemokraterna Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-hallstahammar"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "497",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs en ny hall",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ökar säkerheten på torget",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med alternativ så llänge det inte är vinsten som  styr",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som det är nu är kött ingen dag i veckan så mitt förslag minst 2 dagar kött alt fläsk i veckan",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fri konkurrens om det är på lika villkor",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det går att genomföra att det finns personal och ekonomi",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har ingen erfarenhet av privata skolor hur ddom arbetar",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag då första bostaden bör vara billig för nyinflyttade från familjehemmet till eget boende ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge dom kan erbjuda bra service till samma kostnad som kommun",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge dom som utnyttjar ledstolparna får betala ett skäligt på för laddningen ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste själva se vilka möjligheter som finns att ta emot nyanlända",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "Ingen förnedring mot vad som finns idag",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har bra koll på kulturen   ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Med en  bra planering behöves ingen ändring",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "139",
+          "137",
+          "143"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;C;B!;B;C!;B;C!;C;C;C!;2/5;2/5!;2/5!;[139,137,143];_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inget jag kan säga på rak arm",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "M KD L SD Största parti  stadsministers posten",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "MP V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolrsultat",
+        "description": "Skolresultaten måste bli bättre och mer ordning i klassrummen så elever kan få koncentrera sig Förslag mer lärare och mindre elever i varje klass"
+      },
+      {
+        "category": "Trygghet",
+        "description": "Många vågar inte gå ut kvällstid då dom anser att det är osäkert \r\nmer närvaro av polis och vakter är en lösning"
+      },
+      {
+        "category": "Äldreomsorgen",
+        "description": "mer trygghetsboenden behövs och hemtjänsten släpar efter och många har svårt med Svenska språket som jobbar på äldreboende"
+      }
+    ],
+    "motivateVote": "för att få ett säkrare samhälle bekämpa gängkriminaliteten.\r\n",
+    "name": "Sverigedemokraterna Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-hallstahammar"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "498",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b5a41e660a9ed5be74d5ffbda8f91519",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har tagit första spadtaget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "27935273619907a49ca01e1acdeebffc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "5786e62202917005ecccc54de97d9a3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det blir dyrt för kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e12157d6ff0e54766b0c7d1c82a8d58e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöskäl",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "810e0f3de3425aa05ffbb4f38c4282a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samhällsintresset styr.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8c11f6c8910e45dc20b7233f875903ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lättare att rekrytera. Att man orkar jobba till sin pensionering.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78335c9fb5dfa3f8d65b71cdf09bd0e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "358cc324e1dee4d62b576eea72976f4c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostaden är en rättighet inte en handelsvara.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9ba1fb0cab51e7bbc9fb7b63814c8946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samhället skall återta kontrollen av välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4bdf024d932beb932df6a93b77e7bbed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samhället måste främja utbyggnaden av elstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f283ca1b23979cbaafe4307addc6c914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla måste bidra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6348e57e39d09482ecb9c1b1047a12b6",
+        "questionType": "RANGE",
+        "reasoning": "Inte alls.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "dfb9c4edd48196cdd42ea38392c7215c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "1f66b9b36515946535d299a0117cf7fd",
+        "questionType": "RANGE",
+        "reasoning": "Behövs för att klara välfärden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "4b1236600a4c5e1e29027375c94ad904",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "139",
+          "137",
+          "138"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "201b86f40759803bc3534a337b193bf0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "131",
+          "132",
+          "134"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;_;A;C;A;D!;D;D!;A!;D;B;0/5;4/5!;3/5;[139,137,138];[131,132,134]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "S,V,Mp. eventuellt .",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD,Kd.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolfrukost.",
+        "description": "Läxhjälp i skolan.Skolfrukost.Fler vuxna,fler böcker.Behöriga lärare.Högre status för läraryrket."
+      },
+      {
+        "category": "",
+        "description": "Äldreomsorgen och LSS kortare arbetstid.Bra arbetsmiljö bra lön.Fondera pengar för framtida äldreboenden.Utökad bemanning.Inte så många vikarier växlar i omsorgen om de äldre.SE över förbättra och utbilda personal."
+      },
+      {
+        "category": "Miljö/Kultur.",
+        "description": "Rädda kulturarvet.Rex,bågbron,sporthallen,Valstasjön.Fortsatt systematiskt miljöarbete.Våtmarker ökar den biologiska mångfalden.Cykelväg till Kolbäck via Eriksberg."
+      }
+    ],
+    "motivateVote": "Vi för en politik för alla.För rättvisa och utveckling.Nå jämställdhet mellan kvinnor och män.Ge ungdomar en bra start i livet med skola,utbildning och arbete.\r\nStödja och underlätta tillvaron för äldre och personer med särskilda behov.\r\nVi vill skydda vår miljö,natur och utveckla närmiljön för hälsans skull.\r\nFörhindra utförsäljning och privatisering av kommunal egendom.",
+    "name": "Vänsterpartiet Hallstahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-hallstahammar"
+  }
+]

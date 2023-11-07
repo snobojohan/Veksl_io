@@ -1,0 +1,1366 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1905",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grunden är det kvalite och service som ska spela roll, inte vem som är huvudman.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Platsen för ett nytt bibliotek kommer att utformas kommande mandatperiod. Väsby Entre är också ett bra område att placera ett nytt bibliotek. Vi vill införa skolbibliotek som komplement i skolorna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vet efter medborgardialog att många fördrar exempelvis klassisk stil. Vi vill bygga så att människor trivs.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förbjuda fattiga att söka hjälp genom att be om pengar är inte rätt väg. Däremot behöver EU ta ett större ansvar för att stötta utsatta grupper i deras hemländer.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om människor flyr för sina liv måste det finnas möjlighet att hjälpa. Upplands Väsby är en kommun som tar ansvar på ett bra sätt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de som är beroende av äldreomsorg och hemtjänst är det viktigt att förstå och bli förstådd. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att fördela ansvaret lika mellan fristående och kommunens skolor. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bostadsbyggande ska vara både kostnadseffektiva och tillgängliga.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har tillsammans med företag, brf och fastighetsbolaget en stor möjlighet att utveckla och samordna bra laddinfrastruktur",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar ska finnas som en demokratis möjlighet när så krävs",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Upplands Väsby behöver skolor som levererar kvalitet på utbildning och att elever klarar skolan oavsett huvudman. Fokus på eleven och rätt insatser till varje individ behövs.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Coronapandemin har visat behovet av kultur och idrottsaktiviteter för en ökad trivsel och inkludering. Vi behöver öka investeringar i nya lokaler och sänka tröskel så att alla barn och unga kan delta i kultur och idrottsaktiviteter.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Så lite skatt som möjligt ska invånare behöva betala och få god samhällsservice för skattemedel.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill bygga multihall med 50m bassäng som också möter kamp-, dans-, bollsporternas behov, och med publika platser. Även omklädningsrum för issporter. Vi vill utreda mindre barngrupper i förskolan för att ge varje barn bättre förutsättningar som individ och att pedagoger får mer tid för varje barn.",
+        "value": [
+          "2670",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;C!;D!;A!;A!;C;D!;C!;C!;B;2/5!;4/5!;1/5!;[2670,2673,2667]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val som ett grönt liberalt parti i mitten med målet att leda tillsammans med partier som vill öka kommunens attraktivitet och service till kommuninvånare och företag, med fokus klimat och miljöfrågor tillsammans med bostadsbyggande. Samhället står inför stora utmaningar och Centerpartiet vill fortsatt ta ansvar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sd ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Att alla barn ska nå minst godkända betyg i skolan",
+        "description": "C satsar på fler stödfunktioner i skolan för att stötta varje barn att nå minst godkända betyg i alla ämnen. Med skolsociala team och skolsocionom, samt nollvision mot hemmasittande barn och aktivt arbete att stötta barm med särbegåvning  och med NPF diagnos. Utveckla skolbibliotek, tryckta läroböcker i kärnämnen till varje elev och digitala läromedel. Inför daglig rörelse och motion i skola /fsk"
+      },
+      {
+        "category": "Trygghet i hela Väsby",
+        "description": "C vill stärka samarbete mellan olika aktörer för att fånga unga innan de hamnar på glid och införa avhopparprogram för unga i kriminell miljö. Genomsöka offentliga lokaler med narkotikasökhund. Stärka samarbetet med kvinno-, tjej- och brottsofferjourer. Öka samarbete mellan polis, kommun och företag för att minska brott mot företag. Utöka krisberedskapsarbetet i regionen."
+      },
+      {
+        "category": "Nära vård och social omsorg",
+        "description": "C vill att du som person ska få rätt att få välja boende, att bo hemma eller omsorgsboende. Erbjuda kostnadsfria trygghetslarm och hälsofrämjande insatser för äldre. Anpassad dagverksamhet  för individer med sjukdom som demens. Alla inom vård och omsorg ska erbjudas möjlighet till heltid"
+      }
+    ],
+    "motivateVote": "För ett inkluderande, grönt och företagsamt samhälle där individens behov är fokus och jämställdhet och jämlikhet en självklarhet.",
+    "name": "Centerpartiet Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-upplands-vasby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1906",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ge den enskilde valfrihet när det gäller hemtjänstutförare är viktigt. Detta gäller även möjligheten att välja en kommunal utförare. Detta måste dock återinföras utan alltför stora ekonomiska konsekvenser. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om biblioteket behöver nya lokaler är platsen på Centralvägen ett alternativ. Detta måste dock prövas på olika sätt, inte minst ekonomiskt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mångfalden av byggnadsstilar, material och utseende är det viktigaste. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska använda \"förbjuda\" i så liten utsträckning som möjligt. Tiggeri i kommunen är nu inte en stor fråga, och vi måste också titta på vem som ska köra bort och ev lagföra dessa människor. Vi har större bekymmer än någon enstaka tiggande människa.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot de flyktingar som Migrationsverket anvisar till vår kommun samt de som på egen hand kommer till kommunen. Om detta innebär färre eller fler flyktingar är ointressant.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ska då gälla alla nyanställda, även de med svenska som modersmål. Även tidigare anställda ska på ett eller annat sätt kunna klara det svenska språket. Det är också viktigt att man som anställd inom äldreomsorgen också förstår sig på svenska traditioner och sätt att möta äldre.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla elever ska vara välkomna till den skola som de väljer, oavsett huvudmannaskapet. Ingen skola ska kunna, på otydliga premisser, kunna avvisa en elev. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är inte en kommunal kärnverksamhet. Det skulle behövas annan lagstiftning och mer kunskap om hur detta skulle kunna genomföras. \r\nVi har en allmännytta som på ett annat sätt än andra hyresvärdar ska vara kommunen behjälplig med bostäder.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan ansvara för att det finns plaster för att installera laddstolpar, på kommunens mark. Dock ska inte kommunen finansiera laddstolparna utan detta ska överlämnas till de som vill distribuera elen och deras samverkanspartners.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre att före stora beslut ha en regelrätt dialog med medborgarna. Folkomröstningar har en förmåga att splittra medborgarna i olika grupperingar, och det är aldrig bra för det gemensamma viljan att föra kommunen framåt.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt med både kommunala och fristående skolor. Valfriheten för de enskilda familjerna är viktig. Oavsett skolform ska skolorna präglas av kvalitet och engagemang för de enskilda eleverna.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är att kulturpengarna till största delen går till barn, ungdom och till de äldre som på egen hand inte kan tillgodogöra sig den kultur som erbjuds.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "När tillfälle ges ska kommunalskatten sänkas. Det är dock viktigt att kommunen kan erbjuda en välfärd med bibehållen kvalitet. En sänkt skatt kan locka fler till kommunen och ge de enskilde en störra valfrihet till hur man vill använda sina förvärvsinkomster.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2666",
+          "2671",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C!;C;C;A;A;C!;D!;A!;C;A!;2/5!;3/5!;1/5;[2666,2671,2667]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta samarbeta på det sätt som vi har gjort den senaste mandatperioden - Alliansen tillsammans med ett lokalt parti.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Att styra tillsammans med Sverigedemokraterna är otänkbart.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Våga Vara Vårdnadshavare",
+        "description": "Vi vill med ett ta fram ett utbildningspaket hjälpa föräldrar och andra vårdnadshavare att förstår skolan, socialtjänsten och andra delar av kommunen bättre. Hur fungerar skolsystemet? Hur fungerar betygssystemet? Vad har jag för skyldigheter och rättigheter i förhållande till socialtjänsten? Många frågor och vi vill utrusta de vuxna i barns närhet med kunskap."
+      },
+      {
+        "category": "Äldrefältare och äldrepedagoger inom omsorgen",
+        "description": "Vi har idag idag ungdomsfältare som jobbar uppsökande. Vi ser att vi även behöver fältare som jobbar på liknande sätt till seniorer för att minska och helst ta bort den ofrivilliga ensamheten.\r\nÄldepedagoger. Motsvarigheten till skolans socialpedagoger. Ska vara ett kompletterande socialt stöd på våra särskilda boenden. En funktion som ska vara ett stöd i det kurativa arbetet för de boende."
+      },
+      {
+        "category": "Kommunens beslut ska föregås av Funktionsrättskonsekvensbeskrivningar",
+        "description": "Vid sidan av Barnkonsekvensbeskrivningar vid förslag till beslut ska det också finnas beskrivning av om besluten kommer att ge konsekvenser ur ett funktionsrättsperspektiv och om det gör det, hur denna ser ut för den enskilde eller för en grupp med personer med en funktionsnedsättning."
+      }
+    ],
+    "motivateVote": "Vi vill forma ett samhälle där den enskilde, tillsammans med andra, får möjlighet att leva sitt liv. Familjen och andra små gemenskaper är av största betydelse. Vi har barn och äldre i fokus. Trygghet i det lilla ger trygghet i det stora. Även valfrihet i vardagen är viktigt.",
+    "name": "Kristdemokraterna Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-upplands-vasby"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1907",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vilken aktör det är som ansvarar för hemtjänsten är inte det som avgör att omsorgen håller hög kvalitet. Vi är för en mångfald av aktörer, och vill säkra kvaliteten, men har inte som förslag att inrätta en kommunal hemtjänst. Vi ser gärna att en idéburen hemtjänst etablerar sig i kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi liberaler vill ha ett stort, nära och tillgängligt bibliotek i Upplands Väsby och vill utveckla biblioteket. Att ha det centralt, där människor rör sig är absolut positivt. Det måste inte vara på platsen för gamla medborgarhuset, men det är ett bra förslag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi liberaler är för en mångfald av bostadsbebyggelse och ser gärna både den äldre och moderna stilen i våra bestånd. Eftersom attraktiviteten ökar med vacker bebyggelse och trivseln därmed kan öka, är det mycket bra att bygga i klassisk stil som våra medborgare dessutom varit med och tyckt till om genom medborgardialog.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förbjuda tiggeri är att förbjuda fattigdom. Det kan vi liberaler inte acceptera. Vi ska istället arbeta för att ingen ska behöva tigga och för att komma till bukt med människohandel och annat som kan vara förknippat med tiggeri, i samarbete med andra länder.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot den kvot vi blir tilldelade och ska säkerställa att de som kommer till Väsby blir väl integrerade i vårt samhälle genom en bra skola, goda möjligheter till arbete och språkstudier.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att säkra att äldre personer inom omsorgen får kvalitativ omsorg och blir lyssnade på är av yttersta vikt. Att personalen kan svenska är absolut ett krav och vi tycker att det är viktigt att säkerställa det. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolaktörer ska delta på samma villkor när det gäller att ta emot elever inom Upplands Väsby kommun. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi liberaler uppmuntrar blandad bebyggelse och blandade boendeformer. Att tillhandahålla hyresrätter till ett rimligt pris är absolut nödvändigt, på samma sätt som vi förespråkar att vi ska ha fler äganderätter för att möjliggöra för dem som vill äga sitt boende. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi som kommun ligger i framkant när det handlar om klimatomställningen, men det är också viktigt att näringslivet och marknaden är med och driver förändringen. Vi ser positivt på anläggning av fler laddstolpar för att säkerställa tillgång på laddning av elbilar via det kommunala bostadsbolaget, via bostadsrättsföreningar och andra aktörer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en representativ demokrati, vilket innebär att medborgarna vid valet röstar fram de kandidater de tror kan driva Upplands Väsby i rätt riktning. Resultat av folkomröstningar är inte bindande och det finns andra möjligheter att påverka, utöver folkomröstning, för att föra dialog med medborgarna. Det finns t.ex. möjlighet att lämna medborgarförslag och kommunen håller ofta medborgardialoger. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inte en magisk gräns för hur stor andel av skolorna som ska vara fristående. Vi är glada att så många fristående skolor valt att etablera sig i kommunen och vi tror på valfrihet. Det viktiga är att kvaliteten är hög oavsett vilken aktör som driftar skolan. Men vi vill också ha fler kommunala skolor, för att säkra tillgången på skolplatser, ha bred valfrihet och för kommunens rådighet. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Vi liberaler tycker att kulturen är oerhört viktig och tycker att det är viktigt att barn och unga har nära till kultur, både instrument, konst, teater och dans. Vi tycker också att det är viktigt att biblioteket är ett kulturcentrum. Att ha offentlig konst i kommunen är också något som höjer attraktiviteten och trivseln i kommunen.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Upplands Väsbys invånare ska betala så lite som möjligt i skatt, men med bibehållen välfärd. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2670",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;C;A;B;D;D;D;C;A;1/5;3/5;1/5;[2670,2673,2667]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill ingå i samma sammansättning som nu, en Väsbyallians med Moderaterna, Kristdemokraterna, Centerpartiet och det lokala partiet Väsbys Bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte ingå i ett styre med Vänsterpartiet eller Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "I Väsbys skolor når eleverna sin fulla potential",
+        "description": "Liberalernas sätter skolan först. I Väsbys skolor ska alla elever nå sin fulla potential, mötas av höga förväntningar och rätt stöd från skickliga lärare i bra miljöer. Samarbetet mellan skola, socialtjänst och föreningsliv ska öka, elevhälsan stärkas, rätt stöd ges, spetsklasser ska finnas, akutskola startas och fler pedagoger tillsättas i förskolan- där kunskapsresan börjar."
+      },
+      {
+        "category": "En kvalitetssäkrad omsorg för ökad frihet, självständighet och egenmakt",
+        "description": "Att öka människors frihet, självständighet och egenmakt är centralt för Liberalerna, särskilt inom omsorgen. Det är alltid den enskildes behov som styr vilka insatser som erbjuds och vi vill att större hänsyn tas till ensamhet och otrygghet. Liberalerna vill bl.a. öka kvaliteten, säkra heltid som norm, inrätta funktionen Äldreombudsman som bevakar frågor för äldre och de med funktionsnedsättning."
+      },
+      {
+        "category": "En rik fritid, med mer kultur och idrott, ger ökad frihet för Väsbyborna",
+        "description": "Alla barn och unga ska kunna delta i idrotten och inom kulturen, även barn med funktionsnedsättning. Kulturskolan, naturskolan, biblioteket och föreningslivet är så viktiga och vi vill värna och utveckla dem vidare. Vi vill bl.a. öka samarbetet mellan föreningsliv och skola genom särskilt föreningsbidrag, utreda möjlighet till multisporthall och skapa fler badplatser vid sjöar och nya plaskdammar."
+      }
+    ],
+    "motivateVote": "Liberalerna är det hållbara socialliberala alternativet i Upplands Väsby. Vi arbetar för individuell frihet, för att ansvar och ansträngning ska löna sig och att det ska finnas ett socialt skyddsnät när vi behöver hjälp. Vi sätter skolan och förskolan först. I Väsbys skolor ska alla elever nå sin fulla potential och mötas av höga förväntningar och rätt stöd från skickliga lärare i bra miljö.",
+    "name": "Liberalerna Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-upplands-vasby"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1908",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver öka inflytandet över hemtjänsten och erbjuda Väsbys äldre det de efterfrågar. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill utveckla ett attraktivt stadsbibliotek och ge plats för kulturskolan att växa. Biblioteket måste ha långsiktiga lokaler där läslust, informationshämtning och bildning kan blomstra. Kulturskolan har kö och behöver mer plats vilket detta skulle medföra. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bygga vackra och klimatsmarta bostäder och bygga i trä. Vi låser oss inte till någon stil. Varken klassisk eller modern men tycker att nybyggnation sker med omsorg och att det blir vackert.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser inte att det kan eller ska förbjudas men ser det inte heller som en hållbar lösning på människors situation i fattigdom.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatförändringar och konflikter kommer att ge fler människor på flykt. Vi anser att vi har förutsättningar att ta emot människor på flykt men behöver arbeta mer med integrationen och hur vi skapar förutsättningar för dem som kommer hit.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja alla ska kunna tillräckligt bra svenska för att omsorgen ska fungera. Testet bör funktionellt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja detta är en fråga som MP Väsby har drivit i Utbildningsnämnden den senaste tiden. Det är orimligt att de kommunala skolorna ska ta det största ansvaret. Alla Väsbys skolor är en del av Väsby och välkomnandet av nyanlända elever bör fördelas jämnt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom kommunens bostadsbolag kan vi möta behovet av hyreslägenheter till en lägre kostnad. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Precis som vi ansvarar för tillgången till p-platser så ska vi ansvara för att det finns tillgång till publika laddstolpar på p-platser vid strategiska platser. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är lyhörda för vad Väsbybor säger och vi vill utveckla dialogen med medborgare. Vi ser gärna olika former av medborgardialoger och folkomröstning kan vara en form. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet vill stoppa vinstjakten i skolan och istället investera i varenda elev. De kommande nya skolorna som startas i kommunen bör drivas i annan form än i bolagsform. Vi behöver ha en stark kommunal skola som kan ta det lagstadgade ansvaret som läggs på dem. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Det ska läggas mer pengar på kulturen i Väsby. Den senaste mandatperioden har Kulturskolan och biblioteket drabbats av kortsiktig finansiering, bristfälliga lokaler och neddragningar. Representanter för kulturlivet i Väsby\r\nefterfrågar ökade satsningar och tilltro till kulturens kraft! \r\nKonst och utsmyckning är även en viktig del av stadsrummet och ska finnas med i planeringen av nya områden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Skattemedel ska användas klokt och gå till förskola, skola och fler trygga vuxna bland våra unga och till omsorg om våra äldre som byggt det samhälle vi lever i. Vi behöver ett aktivt föreningsliv, idrott, bibliotek, konst och kulturliv. Vi måste samtidigt göra nödvändiga investeringar för att säkra omställningen till det energieffektiva hållbara samhället. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2672",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;B;A;A;C;D;C;D;C;1/5;3/5;3/5;[2672,2673,2667]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ingå i en majoritet som leder kommunen tryggt och genomför åtgärder för en hållbar omställning. Vi är öppna för en bred blocköverskridande dialog och kommer att styra med dem som ger mest utrymme för den politik som vi går till val på.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimat och miljö i fokus",
+        "description": "Väsby behöver stärka det strategiska och konkreta miljö - och klimatarbetet.\r\nVäsbys behöver säkra och ge förutsättningar för;\r\n- koldioxidbudget\r\n-energieffektiva fastigheter\r\n- tillagningskök för god klimatsmart mat och mindre svinn\r\n- skydda våra skogar \r\n- närproducerad mat\r\n- cirkulär ekonomi \r\n- kraftfullt mobilitetsarbetet för att minska bilberoendet\r\n- levande sjöar och vattendrag"
+      },
+      {
+        "category": "Skola ",
+        "description": "Väsbys elever, lärare och rektorer behöver likvärdiga förutsättningar att klara skolan och sitt uppdrag. \r\nVi vill säkra;\r\n- fler lärare och vuxna i skolan och förskolan\r\n- ledarskap och kompetensutveckling\r\n- mindre barngrupper\r\n- stärkt elevhälsa\r\n- pojkar och flickor lyckas lika bra\r\n- välskötta miljöer utan mobbning\r\n- nyanländas lärande & integration SPI på Messingen\r\n- utomhuspedagogik & klimatlyft"
+      },
+      {
+        "category": "Skydda Väsbys skogar",
+        "description": "Miljöpartiet vill inte se mer bebyggelse i skogen. Vi vill se en framtid där skogarna bevaras och där vi alla har nära till naturen!\r\n-Skydda Väsbys skogar i enlighet med vår motion om fler\r\nnaturreservat. Börja med Bergaskogen.\r\n -Ge minst tio procent av kommunens areal strikt skydd senast 2030. \r\n- Kartlägg höga naturvärden och vidta åtgärder för att stärka områdena.\r\n- Investera i friluftsområdena."
+      }
+    ],
+    "motivateVote": "Vi lever i en tid med dagliga rapporter om klimatförändringar och krig. Det är nu, mer än någonsin, som vi behöver en politik för långsiktig hållbarhet och gemensam trygghet!\r\nVår generation måste lösa klimatkrisen och bygga ett samhälle där vi tar hand om varandra.\r\nVåldsspiralen måste vändas redan i skolan. Klimatomställningen ska drivas av innovationslust, målinriktad upphandling och nya vanor!",
+    "name": "Miljöpartiet Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-upplands-vasby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1909",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har utretts flera gånger och varje gång är slutsatsen att det skulle kosta tiotals miljoner bara för att få till en kommunal hemtjänst. \r\n\r\nVi tror inte att driftsform är det viktiga. Det viktiga är vilket kvalitet som de offentligt finansierade verksamheterna levererar. Vi vill hellre använda resurser till att höja kvaliteten genom bland annat en kvalitetspeng.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill planera för ett nytt bibliotek i centralt och tillgängligt läge i kommunen. Om det är på denna plats eller någon annan är vi positiva till att undersöka.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här har väsbyborna som deltagit i de medborgardialoger om arkitektur och gestaltning tydligt markerat att de gärna vill se nya hus i äldre, klassisk arkitektur, snarare än modernistisk. Det har vi tagit fasta på under mandatperioden och på flera sätt leder vi utvecklingen i Sverige i att involvera medborgarna i planeringen och stadsbyggandet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tiggeri är ett problem som inte är övergående. Ett lokalt förbud kan bara delvis lösa detta. De effektiva förändringarna kan huvudsakligen åstadkommas på nationell nivå genom lagstiftning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vår integration både lokalt och nationellt ska ha en möjlighet att fungera så behövs en stram migration under överskådlig tid. Men migrationsfrågor bestäms inte lokalt. Upplands Väsby ska följa de lagar som styr landet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till språktest för anställning inom äldreomsorgen. Det viktiga är främst att de som träffar de äldre eller i behov av omsorg har denna kompetens. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väsbys friskolor bidrar på ett mycket bra sätt med olika pedagogiska tankar och verksamhetsinriktningar. De tar idag ett stort ansvar för det historiska flyktingmottagande som funnits sedan tidigare i Väsby. De bör kunna få lagliga möjligheter att frångå de regler om kö som begränsar dem att även i det framtida mottagandet enklare ställa upp. Det är dock en fråga för riksdagspolitiken.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler prisvärda bostäder kommer väsbyborna till del genom att befintliga bostäder blir tillgängliga, så kallade flyttkedjor. Det blir dem om de som bor i dem idag kan få nya bostäder. Att bygga nya bostäder billigt leder till lågstandardhus och ett nytt framtida miljonprogramsbyggande, vilket är socialt och ekonomiskt inte hållbart.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta löser marknaden på ett bra sätt självt, utan att skattebetalarnas pengar behöver gå till det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarinflytande är bra. Folkomröstningar är däremot ofta problematiska eftersom det alltid blir svårt med nog avgränsade frågeställningar, informationsunderskott i delar av befolkningen och av flera andra skäl. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Väsbys skolor presterar väldigt goda resultat idag. Niondeklassarna i Väsby är bland de 25 % bästa i hela landet. Detta tack vare skolor som finns i kommunen, såväl kommunala som fristående. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är inte storleken på pengapåsen utan på vilket utbud och vilken kvalitet som finns tillgängliga för kommunens barn och unga, vilket är den grupp som vi i första hand vill fokusera på. Här kan vi både samverka med civilsamhälle och näringsliv men också med andra kommuner i högre grad för att öka tillgängligheten och utbudet.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Lägre skatt leder till att de som jobbar får mer i plånboken och ett större inflytande över sin egen tillvaro. Både av samhällsekonomiska och rättviseskäl bör skatteuttaget hållas på så låg nivå som det går. Vi vill sänka skatten under ordnade former som samtidigt säkrar välfärdens finansiering och kvalitet.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2669",
+          "2671"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;C;D!;C;B;C;C;A;B;B;2/5;2/5;1/5!;[2669,2671]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi söker förnyat förtroende för Väsbyalliansen, dvs. M, VB, KD, L och C",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Nolltolerans mot mobbing - införa en skolakut",
+        "description": "Vi vill upprätta handlingsplaner för nolltolerans mot mobbning och sexuella trakasserier och använda metoder som är validerade av forskning. Dels ska uppföljningen stärkas så att lägesbilden blir tydligare, dels ska en nolltolerans införas med som möjlig konsekvens att flytta på de som mobbar till en annan skola, inte de som blir mobbade. Det gör vi genom att införa en så kallad skolakut."
+      },
+      {
+        "category": "Leda trygghetsarbetet i Sverige - dra lärdomar från andra länder",
+        "description": "Vi har genomfört de flesta åtgärder som en kommun kan enligt det som lagen medger och som är kända sedan tidigare. Nu vill vi gå vidare och utveckla nya former för hur att göra Väsby tryggare.\r\nVi vill att kommunen ska utreda hur framgångsrika trygghetsskapande åtgärder i andra länder kan anpassas efter svensk lagstiftning och för de förhållanden som råder i Upplands Väsby"
+      },
+      {
+        "category": "Bygga tryggt och snyggt centralt. Bygga småhus och trädgårdsstad perifert",
+        "description": "Vi vill inte se nya miljonprogramsmiljöer och strukturer. Det ska inte planeras för fler punkthus, lamellhus och loftgångar.\r\nIstället vill vi i de centrala delarna av kommunen bygga med traditionell stadskaraktär, slutna kvarter, lokaler i bottenvåningen och med klassisk arkitektur. I övriga delarna av kommunen vill vi att fler ska kunna bo i villa eller radhus."
+      }
+    ],
+    "motivateVote": "Moderaterna är partiet för ordning och reda, för valfrihet och för trygghet. Vi fokuserar på att öka studieron i skolan, att säkra en äldreomsorg som utgår ifrån de äldres egna önskemål och att vi kommunalt har ett offensivt lokalt trygghetsarbete med ordningsvakter, kamerabevakning mm. När Väsby växer ska kommunen utvecklas på ett sätt som väsbyborna uppskattar, med en större folklig delaktighet ",
+    "name": "Moderaterna Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-upplands-vasby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1910",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill skapa ett kommunalt alternativ i hemtjänsten för att förbättra kvaliteten, öka valfriheten och bättre följa upp hemtjänsten som helhet. Den ska präglas av hög kvalitet, god service och omtanke. De som använder hemtjänsten ska känna sig trygga med den omsorg de får, känna igen de som jobbar och känna sig trygga med att kommunen gör allt som går för att stoppa fusk och kriminalitet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagens bibliotek är en provisorisk lösning som inte är tillräcklig för de behov som finns. Ett nytt bibliotek vid gamla Medborgarhuset kan byggas utifrån behov och med entré ut mot vägen. Det är bra att kommunstyrelsen röstade ja till socialdemokraternas förslag om att undersöka möjligheterna till ett bibliotek här. En flytt av biblioteket kan frigöra lokaler till ex kulturskolan och föreningsliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna i Upplands Väsby vill bygga fler hyresrätter som vanligt folk vill bo i och har råd att bo i. Där ligger vårt fokus. Vi vill bygga en mix av attraktiva hyresrätter, bostadsrätter, villor och radhus som människor i regionen har råd att efterfråga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna vill bekämpa fattigdom, arbetslöshet och ofrihet, där ligger vårt fokus. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "På samma sätt som flyktingmottagandet måste bäras mer solidariskt inom EU måste vårt mottagande fördelas i hela Sverige. Våra möjligheter att klara ett bra mottagande och nyanländas etablering har dock gränser och då kan vi inte ta emot ett obegränsat antal. Människor som får skydd i Sverige ska kunna etablera sig här på ett bra sätt så att vi kan upprätthålla höga ambitioner för jobb och trygghet",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som tar hand om våra äldre ska kunna bra svenska. Personal ska ges möjlighet att lära sig och/eller förbättra sin svenska på arbetstid.  För att den äldre ska få god omsorg är det avgörande att personalen förstår och kan prata svenska. Därför behöver vi införa skärpta språkkrav för personalen och se till att fler anställda har rätt utbildning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan är till för barnen. Elever ska kunna välja skola, men skolor ska inte kunna välja elever. Antagningen ska ske rättvist, med lika chanser och samma möjligheter. Orättvisa urvalsgrunder ska inte få förekomma och vårdnadshavare, oavsett socioekonomisk bakgrund, ska få mer likvärdiga möjligheter att välja skola för sina barn.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs bostäder för alla åldrar och olika behov. Vi ska verka för att fler hyresrätter med rimliga hyror ska byggas, inte minst för att unga ska kunna flytta hemifrån. Det behövs fler hyresrätter och blandade bostadsområden med villor, radhus och flerfamiljshus som bryter den växande bostadssegregationen. Vi behöver bygga fler bostäder som folk har råd med - så att alla får ett tryggt boende",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska i samarbete med externa aktörer driva på utbyggnaden av laddstolpar. Vi vill uppmuntra och underlätta för fastighetsägare och bostadsrättsföreningar att installera laddstolpar på sin mark. Vi ska också underlätta för företag som vill sätta upp laddstolpar. Varje del av kommunen ska ha minst en laddgata och målet är att det ska vara enkelt och smidigt att ladda där du bor",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att Sveriges modell med representativ demokrati i grund är en mycket bra modell. Väljarna utser politiker i ex kommunvalet och dessa  jobbar i den anda som de har lovat inför valet. Det är bra att det finns möjlighet till folkomröstningar när folket samlar in namn för att genomföra en folkomröstning, samtidigt ser vi inget behov i största allmänhet av att öka antalet folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Vi värnar rätten att välja skola och vill se en ökad mångfald av pedagogiska inriktningar. Vi vill inte att det ska vara tillåtet att ta ut skolans pengar som vinst. Att driva skola är inte som att driva vilken verksamhet som helst. Det innebär ett ansvar över barn och ungas framtid. Idag gör vinstdrivande skolkoncerner vinst på lägre lärartäthet och färre specialpedagoger. Det är inte acceptabelt",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Konsten och kulturen bidrar till att skapa ett rikare samhälle att leva i. Kulturen är en viktig del av välfärden. Investeringar i kultur banar väg för nya jobb, både inom och utanför de kreativa näringarna. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill se ett starkare samhälle med mer resurser till skolan, omsorgen och en kompromisslös kamp mott brotten och dess orsaker. Framtidsinvesteringar går före stora skattesänkningar. När fler jobbar ökar skatteintäkterna, vår högsta prioritet är därför att få fler i arbete. Skattenivån sätts efter en samlad bild utifrån bla omvärldsläge, välfärdsbehov, politiska prioriteringar och statliga stöd. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2673",
+          "2668",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D;B;A;B;D;D;D;D;B;0/5!;3/5;2/5!;[2673,2668,2667]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-upplands-vasby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1911",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler valmöjligheter är alltid ett bra utgångsläge. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna anser att det är en bra placering av det kommande biblioteket i kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt undersökningar vill Väsbys invånare ha äldre stil och vi lyssnar på invånarna. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna har länge varit tydliga med att det krävs åtgärder för att stoppa den hänsynslösa människohandel som följt i spåren av organiserat tiggeri.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hjälp ska i första hand ske i närområdet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det svenska språket är nyckeln in i samhället. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tvång är aldrig lösningen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna är positiva till fler billiga hyreslägenheter i synnerlighet när det gäller studentbostäder och äldrebostäder.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgången till laddstolpar är just nu ett gigantiskt hinder till varför fler inte väljer elbil. Kan kommunen ta sitt ansvar och underlätta detta, är det en självklarhet att de också borde göra det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna ser inget behov just nu av att förändra nuvarande fördelning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna anser att det i nuläget finns viktigare prioriteringar att göra i Upplands Väsby än kultursatsningar. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraternas ambition är att sänka kommunalskatten i Upplands Väsby.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2666",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;D!;D!;D!;D!;A;C;D;D;2/5;0/5;0/5!;[2666,2673,2667]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "På riksnivå har ett framgångsrikt block med Moderaterna, Kristdemokraterna och Sverigedemokraterna etablerats. Vi är övertygade om att ett liknande samarbete skulle fungera utmärkt även i Upplands Väsby.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi är öppna för ett samarbete med alla partier som vill göra Väsby bra.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghetscenter",
+        "description": "Trygghetscenter i kommunalt regi som agerar som samordnare för olika grannsamverkansföreningar, väktare och Polisen."
+      },
+      {
+        "category": "Tiggeriförbud",
+        "description": "Att i kommunens lokala ordningsföreskrifter införa ett lokalt förbud mot aktiv och passiv insamling av pengar på olika platser i kommunen."
+      },
+      {
+        "category": "Energieffektivisering av fastigheter",
+        "description": "Införande av intelligent energieffektivisering av fastigheter genom prognosstyrning. Om det blir två grader varmare inom en kort tid kunna begränsa energianvändningen och invänta skiftet i väderlek för uppvärmning."
+      }
+    ],
+    "motivateVote": "Därför att vi inte är som alla de andra partierna. ",
+    "name": "Sverigedemokraterna Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-upplands-vasby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1912",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2672",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D!;B;A;A;C;D!;D!;C;C;0/5;4/5!;3/5!;[2672,2673,2667]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Majoritetsstyre med S, Voch MP. Vi är öppna för andra samarbeten för att bilda majoritet, exempelvis med Väsbys Bästa, L och C.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Moderaterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "ALLA I MÅL I SKOLAN",
+        "description": "Alla i mål, Det är inte ok att 20 % av de unga i Väsby  inte klarar skolan. Skolan ska vara likvärdig och kompensatorisk Ökat fokus och förstärkta insatser för att få alla barn att bli behöriga att söka till gymnasiet. Styr resurser dit behoven är störst, såväl till skolor med socioekonomiska utmaningar som till elever med särskilda behov. Alla skolor ska upprätta en handlingsplan för Alla i mål."
+      },
+      {
+        "category": "KLIMATNÖDLÄGE",
+        "description": "Genomför konkreta handlingsplaner för omställning. Utgå från en koldioxidbudget som sätter ramar utifrån vilka utsläpp som kan ske globalt nedbrutet nationellt, regionalt och lokalt.  Minska bilanvändadet så att de som verkligen måste ha bilen prioriteras och får bättre framkomlighet. Styr med stadsplanering för mer gång, cykel och kollektivtrafik. Uppmuntra bilpooler."
+      },
+      {
+        "category": "OMSORG ATT LITA PÅ",
+        "description": "Omsorgslyft. Arbeta långsiktigt och systematiskt för att höja omsorgsyrkenas status. Löner, arbetsvillkor, fortbildningsmöjligheter och möjlighet till inflytande över sitt arbete behöver förbättras. Heltid ska vara norm – deltid en möjlighet. Insatser för att få fler män att arbeta med omsorgsyrken behövs."
+      }
+    ],
+    "motivateVote": "Mer pengar till välfärden. Stärkt fokus på att alla barn ska klara skolan. Styr resurserna bättre till skolor och barna som behöver mest. Klimatnödläge för en fossilfri kommun. Omsorgslyft med bättre arbetsvillkor.",
+    "name": "Vänsterpartiet Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-upplands-vasby"
+  },
+  {
+    "abbreviation": "VB",
+    "altingetCandidateId": "1913",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "642233ffebc6a867d19fd5fb0ce53951",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kommunens invånare ska ha full valfrihet behövs även ett kommunalt alternativ inom hemtjänsten. Det behöva även för att säkra upp servicen till alla hemtjänsttagare vid händelse om något privat alternativ går i konkurs eller läggs ner plötsligt. En kommunal hemtjänst kan drivas som ett separat kommunalt aktiebolag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "025b63d1da69b77f4c79a31163a9cb22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väsbys Bästa har länge önskat ett nytt bibliotek utanför Messingen och de provisoriska lokaler som biblioteket har idag. Vi önskar att ett nytt bibliotek med samlingslokaler och café i bottenvåningen och senior- och trygghetsbostäder på de översta våningarna, byggs på platsen för det gamla medborgarhuset.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76f3aa531d6a8f6aed8998f6ee5eab30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarna ska ha betydligt större möjligheter att påverka arkitektur och gestaltning av de hus som byggs i kommunen genom medborgardialoger. All nybyggnation överallt i kommunen behöver dock inte vara i äldre stil utan bör anpassas efter de förutsättningar och de byggnader som redan finns på platsen och stilen ska baseras på vad medborgarna helst önskar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3e8ce587a6689a16eabb7006915f019c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fattigdom kan inte förbjudas. Däremot ska kommunen ha möjlighet att besluta att tiggeri inte ska tillåtas på vissa platser i kommunen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ce74f62f4ee311b4b7b839786bc29411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör solidariskt med övriga kommuner i Sverige ta emot det antal flyktingar som Migrationsverket fördelar. Om flyktingströmmarna är stora orsakade av till exempel kriget i Ukraina kan vi inte ta emot \"färre\" flyktingar i Upplands Väsby. Vi måste ställa upp och vara hjälpsamma mot människor som tvingas fly från sitt hemland på grund av krig.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a274a9002e6e88962fc0d9e35953562c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att nå upp till en bra servicenivå bör alla anställda inom hemtjänst och äldreomsorg kunna prata och förstå svenska på en tillräckligt bra nivå. Det är också viktigt att de nyanställda kan dokumentera utförda uppdrag korrekt. Om brukaren/kunden själv inte talar svenska kan det vara ett extra plus om den nyanställda utföraren pratar och förstår hemspråket.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "38ba92dcfd6b3944a3f8ab35489aeb6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara ett fritt skolval i kommunen. Barnen och föräldrarna ska själva kunna välja skola utan begränsningar eller friskolors egna kösystem. Väsby Bästa vill se ett fritt skolval för alla - det gäller även nyanlända elever. Friskolor ska inte kunna neka att ta emot nyanlända elever utan måste ta sitt ansvar för att skapa jämställda och integrerade skolor i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3ef85f407d146d34b820d5f85dae0890",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera \"billiga\" hyreslägenheter. Däremot ska det kommunalägda bostadsbolaget utmana och samverka med byggföretagen att få fram prisvärda bostäder utan att ge avkall på en god kvalité. Kommunen kan medverka till hålla nere markpriset för kommunal mark, minskad byråkrati, kortare handläggningstider och endast ta ut skäliga avgifter. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dcc2440f8197b6e7cdc4ccfa1c684a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varje bilägare måste själv ansvara för alla kostnader som ett bilinnehav innebär. Kommunen bör mot avgift tillhandahålla publika laddstolpar vid kommunala anläggningar såsom idrottsplatser, skolor eller kommunala besöksmål. Privata markägare, bostadsrättföreningar, arbetsplatser eller stormarknader ska själva står för investeringen av laddstolpar på sina parkeringsplatser.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c86ba122deec731d02b6cd97b07d0893",
+        "questionType": "PROPOSITION",
+        "reasoning": "De politiska företrädarna i kommunfullmäktige bör vara så ödmjuka mot Väsbys invånare att de själva föreslår folkomröstningar då det gäller stora investeringar och viktiga frågor. Exempelvis borde det hållas en folkomröstning om miljardprojektet Väsby Entré där kommunen tänker bygga en bussterminal för 340 miljoner och sedan skänka den till Region Stockholm och AB Storstockholm lokaltrafik!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9d552d267adb5e792ce7876a301e1e3b",
+        "questionType": "RANGE",
+        "reasoning": "Väsbys Bästa anser att förskolan och skolan är grunden för ett livslångt lärande där kvalitén på undervisningen är den enskilt viktigaste faktorn så att alla elever kan gå ut med godkända betyg. Kommunen har en skyldighet att ge alla barn skolundervisning och nya skolor som byggs på kommunal mark bör därför ägas av kommunen så att balansen mellan kommunalt och privat upprätthålls. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "03c5d2ab2f5585df1f60edef235c68ad",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är lika viktig för hälsan och välbefinnandet som friskvård och idrott. Väsbys Bästa anser att vi måste satsa ordentligt på de som redan bor här. Det innebär att vi måste höja anslagen till kultur och fritidsverksamheten. Goda möjligheter till föreningsstöd är mycket viktigt för ett levande, rikt och bra kulturliv i kommunen.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "1157b2fae724ed8a2efbc5fa455070b8",
+        "questionType": "RANGE",
+        "reasoning": "All kommunal service kostar pengar. Vi måste se till att varje skattekrona fyller sin funktion och inte slösar bort pengar på byråkrati, onödiga utredningar och långa handläggningstider. Enormt tidsödande och komplicerade projekt som Väsby Entré som pågått sedan 2010 och hittills kostat över 400 miljoner kronor måste undvikas. Kommunen måste bli bättre på service och leverans till Väsbyborna. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "52a215c57db6b5171346196c2dd0fff0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2670",
+          "2673",
+          "2667"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D!;C;B;B;D!;D!;B;B;D!;1/5!;4/5!;2/5!;[2670,2673,2667]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Väsbys Bästa är ett lokalt parti som enbart fokuserar på frågor som rör Upplands Väsby kommun och våra medborgare. Frågor som vi inte kan påverka inom kommunpolitiken eller har möjlighet att besluta över är inte prioriterade hos oss.  ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Väsbys Bästa vill styra tillsammans med de partier som sätter Väsbybornas önskemål och vilja i främsta rummet. Ideologiska begränsningar får inte hindra eller försvåra arbetet med att göra det så bra som möjligt för de som valt att bosätta sig i Upplands Väsby.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer samarbeta med de partier som tydligast delar våra åsikter.  ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Väsbys Bästa vill skapa bättre förutsättningar för idrott och folkhälsa",
+        "description": "Väsbys Bästa vill förbättra förutsättningarna för idrott och folkhälsa som gör att såväl unga som äldre mår bra fysiskt och psykiskt. Genom att bygga ut fler idrotts- och spontananläggningar vill vi erbjuda alla våra medborgare möjlighet till fysisk aktivitet och rörelse, både organiserat och spontant. Psykiskt välmående skapas genom bra mötesplatser och goda natur- och kulturupplevelser."
+      },
+      {
+        "category": "Väsbys Bästa vill bygga nytt bibliotek och seniorbostäder där Medborgarhuset är",
+        "description": "Väsbys Bästa vill bygga ett nytt bibliotek på platsen för gamla Medborgarhuset. Idag har biblioteket undermåliga och provisoriska lokaler i Messingen. Ett nytt modernt bibliotek med samlingslokaler, konditori och butiker på bottenvåningen. Senior- och mellanboendeformen trygghetsbostäder för kommunens äldre vill vi se på de övre våningarna. Bibliotekets gamla lokaler kan övertas av kulturskolan."
+      },
+      {
+        "category": "Väsbys Bästa vill inte ge bort 340 mkr till AB Storstockholm Lokaltrafik (SL)",
+        "description": "Väsbys Bästa vill inte att kommunen skänker en bussterminal värd 340 miljoner kronor till Regionen och SL i miljardprojektet Väsby Entré. Vi betalar skatt till Regionen för hållplatser och bussterminaler. Vi menar att SL själva ska bekosta sina anläggningar. Väsbys Bästa är tveksamma till stora delar av det kostnadsdrivande miljardprojektet Väsby Entré som förstör Väsbys natur och fornlämningar."
+      }
+    ],
+    "motivateVote": "Väsbys Bästa (VB) är ett lokalt parti som grundades 2014. Vi behöver inte följa något moderpartis ideologiska inriktning, utan vi fokusera endast på frågor som rör Väsby och dess invånare.\r\nIdag är vi Upplands Väsbys fjärde största parti tack vare vår målsättning att satsa på och förbättra för alla som redan bor här.\r\nVi som representerar VB bor i alla kommundelar och vi känner väl till vårt Väsby.",
+    "name": "Väsbys Bästa Upplands Väsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vasbys-basta-upplands-vasby"
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1946",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Invånarna, för att trivas i Vaggeryds kommun, måste ha ett gott utbud av kultur och fritidsverksamhet som exempel",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Byggnation styrs till stor del av statsbidrag och regelverk, alla förbättringar på området ökar byggnation och inflyttning/omflyttning",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": "All kommunal verksamhet inom konkurensutsatta område gynnar varandra",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vara den lokala tillgången på råvaror som styr menyerna",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte generellt, dock inom vissa tyngre delar kan detta vara en väg att gå",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste vara en långsiktighet och inte en \"media\"dagssländefråga",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Yrkessvenska är viktigt för alla som jobbar i Vaggeryds kommun och gör att man snabbare kommer in i samhället",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då skall också resurser avsättas för stöd till friskolorna",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dock skall kontrollen från kommunen vara ordentlig",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Huvudansvaret skall ligga på nätägaren ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar hand om dom vi blir tilldelade, solidariskt ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har huvudansvaret och kan inte bli helt beroende av privata aktörer, föräldrakooperativ välkomnar vi efter den goda erfarenheten vi har idag",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": "Invånarantalet ökar och satsningar måste hänga med",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger klart under snittet i länet.\r\nOm viktiga satsningar krävs är vi inte främmande för en viss höjning",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2697",
+          "2693",
+          "2700"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C!;B;A!;B;B;D!;C;C;C;B;3/5!;3/5!;2/5;[2697,2693,2700]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det skall vara ett starkt majoritetsstyre där centerpartiet får ut mesta möjliga av vår politik!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Alla partier som vill kommunens bästa enligt vårt valprogram är tänkbara!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hemtjänsten som vi själva vill ha den.",
+        "description": "Vi vill införa små självstyrande personalgrupper i Hemtjänsten, med 4-5 vårdare i varje grupp. För närvarande kan en vårdtagare ha upp till 20-25 vårdare under en kortare tidsperiod.\r\nSkrota tidsberäkningssystemet som är föråldrat och otidsenligt.\r\nVi vill skapa en Hemtjänst, som vi alla kan vara nöjda med i framtiden."
+      },
+      {
+        "category": "Hela Vaggeryds kommun skall leva",
+        "description": "Samhällsutvecklingen är viktig i hela kommunen.\r\nKommunen skall se till att det finns tomter för boendeutveckling i hela kommunen. Detta för att stärka underlaget för all landsbygdsservice, inte minst skolorna.\r\nUtveckla fler LIS-områden.\r\nDet finns stor potential för utveckling i våra småorter och landsbygden.\r\nTillsätt en resurs som aktivt arbetar med landsbygdsfrågorna."
+      },
+      {
+        "category": "Hållbar fastighetsutveckling",
+        "description": "Underhållsskulden är stor och måste åtgärdas.\r\nEn hållbar fastighetsutveckling kräver framförhållning i planer när kommunen växer så snabbt. Både ekonomiskt och praktiskt.\r\nUpphandlingar som innefattar allt är viktigt.\r\nProfessionell Fastighetsskötsel måste också finnas."
+      }
+    ],
+    "motivateVote": "Centerpartiet är det enda partiet som tar tillvara hela  kommunens intresse!\r\nVi vill att alla skall känna ett sammanhang och delaktighet i kommunen!\r\nCenterpartiet tar alltid ansvar för kommunens ledning!",
+    "name": "Centerpartiet Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vaggeryd"
+  },
+  {
+    "abbreviation": "EMP",
+    "altingetCandidateId": "1947",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den kommunala verksamheten styrs i mångt och mycket av lagar och förordningar. Det är viktigt att hålla sig inom dessa ramar både av ekonomiska och politiska orsaker.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga billigt är näst intill ogörligt utan att göra avkall på kvalitet och säkerhet. Vi ska inte bygga andra klassens bostäder. Kommunen borde istället subventionera boende för de grupper som har svårt att finansiera sitt boende.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska utföra all verksamhet som är till nytta för invånarna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kosten i skolan ska vara nyttig, balanserad och näringsrik. Vi anser att vi har en kostorganisationen som upprätthåller dessa riktlinjer. Ingen politisk påverkan är nödvändig.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalen inom äldreomsorgen behöver bättre förutsättningar för att utföra sitt arbete. En förkortad arbetstid med bibehållen lön ger en bättre arbetsmiljö för de anställda och bättre omsorg för de äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har valt politiker för att ta beslut i de frågor som berör kommunen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska all personal behärska svenska. Ett språktest är ett bra sätt att säkerställa personalens kunskaper i svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansvaret inom skolväsendet måste fördelas lika.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen är uppdragsgivare för vård/omsorg och skall även vara utförare av den service som invånarna behöver. På så vis upprätthåller vi det demokratiska kravet på insyn, ansvar och kvalitet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för de offentliga verksamheterna att främja alternativa energikällor.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige och dess kommuner har tagit ett stort ansvar för invandring och flyktingmottagande. Ytterligare invandring och flyktingmottagande skulle belasta ekonomin och försämra välfärden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": "Skolans likvärdighet måste säkerställas och för att uppnå detta måste all skolverksamhet drivas offentligt.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": "Föreningslivet är grunden i all kultur och fritidsverksamhet. Ett ökat stöd till föreningar ger mer livskvalitet till invånarna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har gjort stora investeringar de senaste mandatperioderna. Utgifterna ökar och därmed ökar också behovet av högre skatter.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2694",
+          "2695",
+          "2692"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A!;C;D;A;C;C;A!;C;D!;0/5;3/5;3/5;[2694,2695,2692]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ett lokalt parti utan tvång och riktlinjer från riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En tydlig politisk majoritet med en tydlig politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldrevården",
+        "description": "Gruppen äldre ökar i vår kommun och därmed också behovet av en större och utvecklad äldrevård. Empartiet vill bygga ut äldrevården i form av mer platser, mer personal och högre kvalitet. Ingen äldre med behov av hjälp och stöd i vardagen ska behöva vänta, lida eller vara orolig på grund av brister i kommunens omsorg."
+      },
+      {
+        "category": "Dricksvattnet.",
+        "description": "Vaggeryd har en unik tillgång på vatten tack vare Hjortsjön. Sjön ger vatten med utmärkt kvalitet och hittills i obegränsad mängd. Det är viktigt att skydda denna fantastiska vattentäkt mot påverkan av bebyggelse och annan infrastruktur. Hjortsjön med strandområden är dessutom ett populärt område för rekreation. Empartiet vill skydda och bevara Hjortsjön som vattentäkt och friluftsområde."
+      },
+      {
+        "category": "Politisk styrning och ansvar.",
+        "description": "Den politiska verksamheten måste styras av tydliga och aktiva politiker. I dagsläget hamnar många beslut på hög och det kan ta flera år innan de genomförs. Empartiet lovar att arbeta för en effektiv beslutshantering och en  noggrann uppföljning av de politiska besluten. Varje skattekrona är värdefull och ska hanteras med respekt."
+      }
+    ],
+    "motivateVote": "Vi är ett lokalt parti med fullt fokus på de kommunala behoven och förutsättningarna. Äldrevården, miljön och föreningslivet är frågor som vi kommer att kämpa för.",
+    "name": "EMPA(R)TIET Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "empa(r)tiet-vaggeryd"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1948",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att renodla den kommunala verksamheten och göra det man ska riktigt bra",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Låga hyror för kommuninvånarna är bra. Gynnar kommunens utveckling. Bygga bostäder även på mindre orter är viktigt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan också tillåtas tjäna pengar om det är på lika villkor",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska erbjuda vegetariskt som alternativ men det ska vara valfritt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har vi inte råd med. Höj lönerna istället och de som vill kan jobba mindre. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns goda möjligheter att påverka politiken i olika frågor genom medborgardialoger. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Instegsjobb behövs. Även de med dålig svenska kan göra ett fantastisk omvårdnadsjobb. Det finns olika sätt att kommunicera på. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": "Vi är en liten kommun, det finns privata alternativ. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2695",
+          "2693",
+          "2698"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A;A;B;B;B;C;D;B;A;2/5;2/5;2/5;[2695,2693,2698]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "FAMILJ & SKOLA",
+        "description": "Utveckla familjecentralernas roll\r\nMax 12 barn i småbarnsgrupperna i förskolan\r\nSmå undervisningsgrupper i grundskolan"
+      },
+      {
+        "category": "ÄLDREOMSORG",
+        "description": "Vårdcentral centralt i Vaggeryd\r\nBättre personalkontinuitet i hemtjänsten\r\nNytt äldreboende i Vaggeryd\r\nGenerösare biståndsbedömningar"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vaggeryd"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1949",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kultur och fritid är inte kärnverksamhet men är till viss del ändå viktigt",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre om bostadsmarknaden får sköta detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": "På lång sikt bör detta ske.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Protein är bra för tankeverksamheten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta skulle betyda att vi behöver utöka antalet anställda med 25 %. Det är redan nu dålig tillgång på kompetent personal.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarna har valt ombud för att sköta kommunens ärenden mellan valen. För att kommunen ska kunna skötas effektivt krävs kunskap och ett metodiskt framåtskridande.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mycket viktigt att kommunikationen mellan de äldre och personalen fungerar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gäller friskolor som erhåller skolpeng.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här är det viktigt att kvalitén säkerställs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga kommunala bensinstationer. Varför ska vi ha kommunala laddstolpar?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingar bör spridas över hela landet på ett sätt som gynnar deras framtida behov av att försörja sig själva.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": "Hur mycket friskola som ska finnas är inget som ska regleras av politiker.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2694",
+          "2695",
+          "2693"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;C;A;A;A;D;C;D;A;B;2/5;2/5;2/5;[2694,2695,2693]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi förespråkar inte skattesänkning.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Eftersom chansen till majoritetsstyre inte finns så kommer samarbete i första hand sökas med centern, moderaterna och kristdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har inte dragit några röda linjer.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rusta upp skolan",
+        "description": "Lägga mer resurser på att bygga och renovera skollokaler.\r\nVi vill också arbeta för en bättre skolarbetsmiljö och att alla elever ska uppnå sin fulla potential."
+      },
+      {
+        "category": "Bygga ny simhall i Vaggeryd",
+        "description": "Att renovera befintlig simhall blir i förlängningen dyrare."
+      },
+      {
+        "category": "Underlätta bostadsbyggandet",
+        "description": "Arbeta för att bostadsbyggandet ska ske över hela kommunen."
+      }
+    ],
+    "motivateVote": "En röst på liberalerna värnar den politiska mitten och de liberala värderingarna. De värderingar som den demokratiska världen är uppbyggd på.\r\nLiberalerna är socialliberala och vill att samhället alltid ska ha ett skyddsnät för de svaga.",
+    "name": "Liberalerna Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-vaggeryd"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1951",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden och kommunala bolag kan hantera detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2695",
+          "2693",
+          "2696"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;C!;C!;A;B;A;C;C;C;B;C;2/5;2/5;2/5;[2695,2693,2696]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tycker det är viktigt med nya stambanor",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Allians styre M+KD+L+C",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygga nya samt renovera upp våra skollokaler till en bättre nivå.",
+        "description": "Dels har kommunen en positiv tillväxt vilket har gjort att det fattas skollokaler. Dels har våra tidiga lokaler inte underhållits på ett bra sätt det behövs verkligen en kraftsamling i nya lokaler och renoverade lokaler så att vi kan avveckla temporära och provisoriska lokaler."
+      },
+      {
+        "category": "En hållbar ekonomisk politik.",
+        "description": "Att verkligen prioritera kärnverksamheten. Att undvika skattehöjningar.\r\nVi vill inte beskära framtida generationer deras frihet och handlingsutrymme genom att höja kommunalskatten nu."
+      },
+      {
+        "category": "Stärka möjligheten att bo var och hur man vill i Vaggeryds Kommun. ",
+        "description": "Måste få finnas frihet och möjligheter till boende som tar alla hänsyn.\r\nEn del vill bo landsbygden andra i tätort, valfriheten får avgöra.\r\nEn del vill äga andra vill hyra, valfriheten får avgöra."
+      }
+    ],
+    "motivateVote": "Vi har ett helt partiprogram och ser helheten i frågorna.",
+    "name": "Moderaterna Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vaggeryd"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1952",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att enbart fokusera på kärnverksamhet skapar inte attraktivitet. Invånarna behöver så mycket mer för att trivas och må väl De behöver finnas i ett socialt sammanhang. Föreningsliv, simhall, tillgång till kultur och bildning, levande centrum och handel, attraktiva hållbara miljöer mm.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med tillgång till billiga bostäder då många inte har råd med dyra bostäder annars riskerar trångboddheten att öka.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att man funderar över om man har bolag som konkurrerar med det privata näringslivet. Men även en kommun behöver ha exempelvis bostadsbolag. .",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror att man kan använda arbetstidsförkortning till viss del i äldreomsorgen men inte så mycket pga ekonomiska skäl.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror inte att folkomröstningar är en bra modell för att öka demokratin. Det kan bli väldigt fel.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tycket att det är en säkerhetsfråga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att även friskolor tar emot alla sorters elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattemedel ska användas till det de är avsatta för inte till vinster i stora internationella företag. Privata företag har dessutom sämre arbetsvillkor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kommunen har ett stort ansvar för att det finns laddstolpar är rimligt men \r\nkommunen behöver inte stå för alla själva.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Känns som det finns ett rimligt fördelningssystem gällande detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": "Det behövs inte fler vinstdrivande privata skolor och förskolor i vår kommun.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger i botten när det gäller kulturen. Det måste vi ändra på annars får inte barn och unga tillgång till kultur som andra barn vilket är bekymmersamt. Långt ifrån alla har råd att åka till andra kommuner och ta del av detta och vi blir mindre attraktiva som kommun.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": "Det känns som kommunen ligger på en rimlig nivå idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2694",
+          "2695",
+          "2692"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;B;B;B;B;D;D;A;C;B;2/5;4/5;2/5;[2694,2695,2692]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns det säkert men inte som jag kan komma på just nu.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "S, V och MP",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygga och fräscha skolor och skolmiljöer för barn, elever och personal.",
+        "description": "Elever och personal behöver väl fungerande skolor med en bra arbetsmiljö. Eleverna behöver även sammanhängande skolområden med skolgårdar som är trygga där det finns utrymme för att göra olika aktiviteter.  Tillfälliga lösningar med paviljonger måste arbetas bort och underhållet på våra fastigheter måste skötas på ett hållbart sätt."
+      },
+      {
+        "category": "Fler platser i äldreomsorgen genom att tillskapa biståndsbedömt trygghetsboende.",
+        "description": "Vi behöver fler platser på våra äldreboenden och vi behöver fler platser för äldre som behöver olika insatser. Därför vill vi tillskapa biståndsbedömt trygghetsboende."
+      },
+      {
+        "category": "Ny simhall i Vaggeryd.",
+        "description": "Simhallen i Vaggeryd är i väldigt dåligt skick. Den är 50 år gammal och har många brister. Den läcker in, den är rostangripen, betongen är skör på många ställen och den har inte renoverats på länge. Därför behöver vi bygga en ny simhall i Vaggeryd. Simhallen behöver ligga nära allmänna kommunikationer så att alla kan ta sig dit på ett lätt sätt."
+      }
+    ],
+    "motivateVote": "Vi är bättre på att styra och leda kommunen. Vi ska skapa trygga skolmiljöer, arbeta bort tillfälliga lösningar och satsa på förebyggande insatser. Arbetsmiljön för våra anställda ska bli bättre så att de inte blir sjuka pga bristande underhåll. Vi skapar fler platser på våra äldreboenden snabbare och vi vill ha en tillitsbaserad hemtjänst, en ny simhall och bättre öppettider i bibliotek. ",
+    "name": "Socialdemokraterna Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vaggeryd"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1953",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vaggeryd"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1954",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "00a0d2006367c2148e998ca8ee3e1fdf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allt inom kommunen är viktigt för medborgare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c114c356d4ce303fae548920101ec048",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket bra , alla ska ha rätt att ha en bostad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "522b0d11065092633d459604f68d4601",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eb407cee7cfe2c2864638b99af7b3c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "det är bra med variera mat, det är bra att vi lära ut barnen att konsumera mindre kött, bra för de och bra för miljön.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ecd842c3f604529be82cb9cdf11dc686",
+        "questionType": "PROPOSITION",
+        "reasoning": "De har Västerpartiet kämpa på längre, den ge möjligheter till att jobba längre och ha en bättre pension.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2f394592ba8af5b10d0e13a75f963227",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är klart att folket ska kunna bestämma  när det  gäller viktiga ändring i samhäler.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6fe2aa45a81050b4017ba00890033929",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tycker att det är bra förslag när det gäller fast anställda, sen måste finnas möjligheter för de nya svenskar att komma in i arbetsliv i form av praktik eller introduktion innan de kan få ta själv ansvar på jobbet. Då kan  de lära sig mer svenska och lära sig bättre arbetet och rutiner.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cc02c618e30297ec795bf1ebd70b523d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför inte?",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4f1ebbf5834aefe6fa86013182300cf4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dåligt, vi har sett att för privata företag allt handla om att känna pengar, de prioriterar inte varken brukare eller personalen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6fa1bc35c420477b828e7459abce2fe5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska vi jobba för att lämna en bra värden till vara barn ska vi i kommunen ta ansvar för detta.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4df2f0fce94911b68fee3415b7f8a9d0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver mycket arbetskraft , en bra och ansvarig migration politik ge oss en stor möjlighet att utbilda  flyktingar för att fylla Sverige behov.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "de4c23384afa15bcb06864e4a34c36f9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "341b208be2d84fc32c9a685ed639c994",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "9bf534d743badda5efdf4f750dbb74a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "055c645cc4d233ec5427c4102430b457",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;D;A;C;A!;C!;C!;D;A!;C!;A!;2/5;4/5;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna, Miljöpartiet,  Vänsterpartiet ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD  Moderaterna KD\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vårdbiträde utbildning till personen men     andra modersmål än svenska",
+        "description": "Det finns många bra arbetskraft inom  vård och äldreomsorgen,  men de har inte utb eller de har svårt med språket,  att hitta en utb som är anpassad till den målgrupper skulle lyfta kvalitet på vården och ge mer trygghet till både brukare och medarbetare."
+      },
+      {
+        "category": "Att hitta en billig sätt att bygga.",
+        "description": "Det byggs bostäder som aldrig innan,  men till vem bygger vi , hur många kan betala den hyra som de nya byggnad kräver,  inte en ensamstående föräldrar  eller pensioner eller låg inkomst arbetare, bla.\r\nDet finns kommunen som har lyckas hitta en modell för att bygga så att de kan ta ut humana hyror."
+      },
+      {
+        "category": "Förkortning arbetstid med bibehållen lön till de  som är över 60 år.",
+        "description": "Vi vill att alla som jobbar på de kommunala verksamhet och är över 60 år ska få möjligheter  att gå ner i tjänster efter 60 år och bibehålla sitt lön , så att de orkar jobbar  fram till pension särskild nu när pensionsålder höjs."
+      }
+    ],
+    "motivateVote": "För att vi är en parti som vill att alla ska ha samma möjligheter att studera, att ha rätt och råd till en bostad   att man ska kunna leva på sin lön eller pension, vi vill  införa förkorta arbetstid  så att vi ska ha mer tid till familjen och för att vi tror på inkludering och integration är de mer viktiga order om vi vill ha en fullt fungerande samhället.\r\n",
+    "name": "Vänsterpartiet Vaggeryd",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vaggeryd"
+  }
+]

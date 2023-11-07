@@ -1,0 +1,935 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1802",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver el . El på rätt plats",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver inte att äta så mycket kött.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunen som skall driva företag. Starta upp....men sen överlåta företagen till marknaden",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ej ekonomi för detta",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver inga fler. Folkomröstning är rådgivande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt med rekrytering. Vi behöver all hjälp vi kan få. Blir det språkkrav kan det hindra rekryteringen",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vara lika för alla. Kan man inte lösa hyran finns det annan hjälp att få",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mångfald under kontroll. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både ock kommun och företag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skall man hjälpa till skall det göras på ett bra sätt. Vi skall alltid vara berädda med en hjälpande hand. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata skolor i vår kommun idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": "Vi lägger bra med pengar på kultur i vår kommun. Det är klart att det kan alltid läggas mer...",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ett högt skattetak ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2554",
+          "2550",
+          "2558"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;C;D;C;B;C;A;C;C;D;2/5;2/5;2/5;[2554,2550,2558]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler händer i vården",
+        "description": "Vi behöver fler utbildade i vården"
+      },
+      {
+        "category": "Stärk föreniningslivet",
+        "description": "De olika föreningarna i kommunen behöver mer pengar för att bedriva sin verksamhet"
+      },
+      {
+        "category": "Stärk företagen i Kommunen",
+        "description": "Vi behöver underlätta för nya och gamla företag att expandera och etablera sig i vår kommun"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-torsby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1803",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Torsby har vi ett väl fungerande kommunalt bostadsbolag och det står för bostäder i kommunen vid sidan av privata aktörer",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kontroll ska naturligtvis genomföras regelbundet så att det är ett väl fungerande boende.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den frågan anser vi är en fråga för staten, men kommunen ska naturligtvis vara behjälplig",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårat svar baseras i första hand på att vi vill själva kunna sätta ett tak för vad vi klarar av.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2552",
+          "2550",
+          "2553"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;A;B;B;A;C;B;C;B;C;2/5;2/5;1/5;[2552,2550,2553]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "KD och M, sen får valresultatet visa vilket tekniskt samarbete som kan bli tänkbart efter att väljarna sagt sitt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela kommunen ska Leva",
+        "description": "Få stopp på centraliseringen  kommunen"
+      },
+      {
+        "category": "Delade turer en rättighet, inte en skyldighet",
+        "description": "Kommunen som arbetsgivare ska vara öppen för individuellt anpassade anställningar i den mån avtal tillåter för att inte få brist på arbetskraft"
+      },
+      {
+        "category": "Föreningslivet är en del av kommunens ryggrad",
+        "description": "Fler mindre bidrag till små föreningar ger mer än stora bidrag till få.\r\nPolitiker ska inte ha åsikter om vilka föreningar som är bra eller dåliga."
+      }
+    ],
+    "motivateVote": "Vi vill öka demokratin genom tidig dialog med berörda och skapa breda lösningar genom mer dialog med oppositionen om vi får komma i majoritet i motsats till nuvarande majoritet i Torsby. Vi är till för väljarna.",
+    "name": "Kristdemokraterna Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-torsby"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1804",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-torsby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1805",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi reagerar även på konkurrens från statliga aktörer",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sett till dagens personallförsörjning",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid behov (demokratifråga)",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Integration måste fungera.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2551",
+          "2552"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A;C;B;C;D;A;C;A;C;2/5;2/5;1/5;[2551,2552]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Produktion av vindkraft där behovet finns",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderat kommunalråd",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara alla våra kommunla Äldreboenden",
+        "description": "Vi vill inte centralisera  s k Särskilda boenden."
+      },
+      {
+        "category": "Allaktivitets-Arena",
+        "description": "Behovet av  en hall/arena är stort för Idrottsarrangemang. \r\nBehov även vid övriga Event i vår kommun."
+      },
+      {
+        "category": "Utveckla utbildningar i egen regi och i samarbet med andra",
+        "description": "Vi vill utveckla vår fina gymnasieskola ( Stjerneskolan)\r\nVi vill i samarbete med andra tillgodose de behov som vi har av arbetskraft och kompentensutveckling i nutid och framtid."
+      }
+    ],
+    "motivateVote": "För en positiv förändring",
+    "name": "Moderaterna Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-torsby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1806",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Torsby kommun är 20 % av hela Värmlands yta. Om kommunen får inflytande i planering från start och ges ekonomisk kompensation som är högre än i dag borde vi kunna medverka till en säkrad hållbar elproduktion för jobben och våra barns framtids skull. Att bara säga \"nej\" utan att presentera alternativ är inte att ta ansvar för framtiden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens kostavdelning ska ta fram en en matsedel som bygger på hållbar produktion  - det ingår i uppdraget. Hur det bäst gör det är upp till dem att planera.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Pris och kvalitet måste dock också vara en viktig del i det avgörandet. Om kommunen driver t ex ett HVB-hem som är billigare än ett privat med lika bra kvalitet är det helt OK att konkurrensen inte kommer i första hand.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": "En jättebra förslag den dag det finns tillräckligt med utbildad arbetskraft men inte innan dess. Då riskerar vi personalbrist och dålig vård.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politik handlar om att sätta sig noga in i frågor och bedöma utifrån ett helhetsperspektiv - det är oftast inte så lätt att utforma alternativ i folkomröstningar som motsvarar det behovet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det råder personalbrist är det bättre att det kommer någon till ett arbetslag som kan fungera tillsammans med arbetskamraterna än att det blir tomt. Personalbrist råder över hela kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyresbidrag är inte ett kommunalt uppdrag. Det kommunala bostadsbolaget har uppdraget att tillhandahålla lägenheter som alla har råd med. Det finns bostadsbidrag att söka från staten för de som har behov av stöd. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en god offentlig vård och vi kan inte se vad privata vårdgivare skulle göra som inte kommunen kan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har kommunen också redan gjort och mer planeras!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen vet hur många man kan ta emot för att prestera god utbildning och en bra integration och bör därför få avgöra. Vår kommun har alltid tagit ansvar för det uppdraget.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": "Det fungerar bra helt utan privata skolor. Vi ligger bra till sett i ett riksperspektiv.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle kunna göra mer kultur i samverkan med förskola och skola samt äldre om det fanns mer pengar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": "Rimligt för att ge den service vi förmår. Ligger ändå på den övre halvan i Värmland.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2554",
+          "2556",
+          "2558"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;B;C;D;A;B;A;A;D;D;2/5;3/5;2/5;[2554,2556,2558]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi anser att säsongsarbetare ska skatta på den ort de arbetar eftersom de tar del av servicen den tid de är på sitt säsongsjobb.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I den lilla kommunen är det viktigt att samverkan mellan partierna fungerar och att det finns en stabil majoritet. Det gör att såväl allmänhet som anställda känner förtroende och trygghet i sin vardag.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Gratis mensskydd på skolorna",
+        "description": "Vi tycker att det ska finnas tillgång till gratis mensskydd på skolorna. Det är en jämlikhets- och trygghetsfråga för alla tjejer."
+      },
+      {
+        "category": "Mer inflytande för anställda - bort med delade turer",
+        "description": "Vi vill att kommunens anställda ska ges större inflytande över planering i det dagliga arbetet inom alla verksamheter. Delade turer ska tas bort för de som så vill."
+      },
+      {
+        "category": "Aktiviteter för alla åldrar",
+        "description": "Trivseln är viktig för att folk ska stanna i kommunen och även flytta hit. Stöd till föreningar och utbyggnad av lekplatser och aktivitetsytor/aktivitetslokaler är ett prioriterat område."
+      }
+    ],
+    "motivateVote": "Vi jobbar aktivt med utveckling av hela Torsby kommun. Det handlar om allt från att medverka till att skapa nya jobb till utbildning och bostäder.\r\nBåde unga och gamla ska känna trygghet med att den goda kvalité vi har i förskola, skola, LSS-verksamhet och äldrevård utvecklas hela tiden. En viktig del i det arbetet är en god arbetsmiljö för våra anställda och möjlighet till fortbildning.",
+    "name": "Socialdemokraterna Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-torsby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1807",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte på vindkraft. Verken måste producera el oavsett väder",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att alla ska få äta det dom vill.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte om det ligger inom kommunens verksamheter exempelvis hvb hem och kommunala bostadsbolag",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om personal och ekonomi tillåter",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har inte funnits aktuella frågor",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": "Minskar missförstånd. Gamla människor har rätt att bli förstådda",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte aktuellt i Torsby",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte aktuellt i Torsby",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ingen kommunal angelägenhet",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen vet vilken kapacitet de har att ta hand om flyktingar",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": "Så mycket att det blir ett rikt kulturliv",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": "Inte möjligt att sänka skatten i nuvarande läge",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "D!;B;B;C;B;D;B;B;B;D;_;2/5;2/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Beror på valresultatet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det finns partier som är mer eller tänkbara",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Samarbete SOC BUN",
+        "description": "Tecken på vilka ungdomar som kommer att få problem under och efter sin skoltid kan oftast ses redan i förskolan och de lägre årskurserna i skolan. Genom ett utvecklat samarbete mellan SOC och BUN. Kan man hjälpa barnen och familjerna på ett tidigt stadium. Det är oftast i skolan som problemen blir synliga. SOC och BUN får härmed ett gemensamt ansvar för att hjälpa barnet och familjen"
+      },
+      {
+        "category": "Aktivitetskort för äldre",
+        "description": "Äldre som deltar i fysiska aktiviteter håller sig friska längre både fysiskt och psykiskt. De är också i mindre utsträckning beroende av hemhjälp och stöd från kommunen."
+      },
+      {
+        "category": "Psykisk ohälsa bland unga och äldre",
+        "description": "Ovanstående förslag är en del i vårt arbete för att bekämpa psykisk ohälsa i Torsby. Åtgärder för att den ska minska är en prioriterad del av SD Torsbys politik. Vårt nämndinitiativ  att ge SOC och BUN pengar till aktiviteter för att minska den psykiska ohälsan har antagits av Kommunstyrelsen."
+      }
+    ],
+    "motivateVote": "Vi värnar om de unga och gamla i samhället samt det svenska språket",
+    "name": "Sverigedemokraterna Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-torsby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1808",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdf420a3ce69e17039f021250ddcdce5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5de54af0775f1faf7d84e1a525dec341",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e82568c15945b35b458db2546e5f0d78",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "470d4ecdcff6fd3256102f823f846515",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det innebär att de som harbetar i detta både ansvarsfulla och ibland tunga arbete skulle kunna får ut mer av sitt liv och samtidigt kan fler arbetstillfällen skapas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8fe6917b479cb4dc91246806daf9a6ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "96dfc43efb0f897db2dd7dd63cd42598",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språktest låter negativt, men det är viktigt att kommunikationen fungerar och det är till gagn både för de som vårdas och de som arbetar inom vården. Det höjer kvalitéen på båda sidor.\r\n",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "408b4880b106d29dc891962515f6c3d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Unga människor och de med en inte alltför god ekonomi ska kunna leva hyggligt, tryggt och säkert (utan ekonomisk oro).",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e142f29751f3824c80f88d4cc0f51670",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ingen realitisk tanke i vår glesbygdskommun.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cfc41745f96a8dd9f0931b1d699ea163",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9ec77a66b20a2622d8d287645f8daf04",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar om en solidaritet gentemot de nyanlända, förstås, men också sinsemellan kommunerna i Sverige – att vi delar på ansvaret för en human och bra flyktingpolitik.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c36f96e8a26f17183a0afd778a20003d",
+        "questionType": "RANGE",
+        "reasoning": "Det är en fråga som inte är så aktuell.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a270880bcf1f9d2dd2205aca62fc1be8",
+        "questionType": "RANGE",
+        "reasoning": "Kulturskolan är viktig, skolbiblioteken ska vara bemannade och kulturen är en nödvändig ingrediens i samhällskroppen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "064e76f77f6ee86aefe64624640d009b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3cb20cef14005e79b0b4720383717261",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2552",
+          "2550",
+          "2553"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D;B;D!;C;C!;D!;A;D;B!;2/5;3/5!;2/5;[2552,2550,2553]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "När det gäller vindkraftutbyggnaden så menar vi att hänsyn måste tas till lokala förhållanden med hänsyn till både natur och människor. Vi skulle också gärna se att landsbygdens befolkning kunde kompenseras för höjda bränslepriser.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas att våra idéer och drömmar ska få gehör hos väljarna och att politiken kan utformas för folkflertalets bästa. Detta skulle innebära att Vänsterpartiets politiska ideer får ett större inflytande på politiken.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla Torsby kommun i samklang med naturen och i ett barnperspektiv.",
+        "description": "I 2020-talets Sverige har vi ett ansvar inte bara för framtiden utan också gentemot den historia och de naturliga förutsättningar som vi fått oss tilldelade. I naturen finns stora värden, som är viktiga för vår överlevnad: vatten, luft, de möjligheter som jordens odling erbjuder. Med en bra regionalpolitik kunde en ny grön våg med nya satsningar som går i samklang med både klimat och miljö."
+      },
+      {
+        "category": "Världen är vår hembygd ...",
+        "description": "Vi lever i en tid som kan tyckas kaotisk och fylld av konflikter och problem. Krigshotet som blev verklighet i Ukraina, klimatet och miljöproblemen. Vi vill skapa förutsättningar för samarbete över gränserna men också att möjliggöra för nyanlända att skapa sig en framtid i Nordvärmland. Samarbete i olika former, småskaligt och i större strukturer. Det krävs nytänkande och experimentlusta ..."
+      },
+      {
+        "category": "Torsby är mer än en tätort, det är en stor kommun!",
+        "description": "Det gäller att utveckla ett konstruktivt samspel mellan kommunens centrum och dess yttre delar. Samhällsservicen måste får kosta, delaktigheten skall tas till vara och utvecklas. Den kommunala demokratin är medborgarnas instrument för att föra fram sina krav. Allt i ett barnperspektiv."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet kämpar för ett rättvist samhälle som ger varje människa möjlighet till ett bra liv. Jämlikhet och jämställdhet, omsorg och välfärd – allt detta kan bli bättre med ett rättvist skattesystem. Höjda pensioner, lägre hyror och en politik som sätter klimatfrågan i främsta rummet.\r\nRätt till arbete, tid att leva: 6 timmars arbetsdag.\r\n",
+    "name": "Vänsterpartiet Torsby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-torsby"
+  }
+]

@@ -1,0 +1,961 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2190",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Örkelljungas ungdomar behöver ett bra alternativ till långa resor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2911",
+          "2916",
+          "2912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;A;B;B;C;D;C;B;B;0/5;4/5;3/5;[2911,2916,2912]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Fritt skolval, privata skolor och ersättningar till dessa,",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alliansstyrt med C som innehavande av kommunalrådsposten",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Återkommer vi till efter valet, dock ligger SD väldigt långt från våra värdering",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "FolKtandvården tillbaka till Örkelljunga",
+        "description": "Vi vill få tillbaka folktandvården till Örkelljunga kommun. Den enda kommunen i skåne utan en Folktandvård, vilket innebär dryga resor för invånarna."
+      },
+      {
+        "category": "Utbyggnad Industriområde",
+        "description": "Vi vill att Örkelljunga skall satsa mer på industriområde, att färdigställa dessa och därmed få fler arbetstillfällen till Örkelljunga kommun."
+      },
+      {
+        "category": "Likvärdig grundskola i HELA vår kommun",
+        "description": "Att man även fortsatt skall kunna gå de första 7 åren i sin kommundel."
+      }
+    ],
+    "motivateVote": "Om man vill att hela Örkelljunga kommun skall leva, med en väl fungerande skola, vård och föreningsliv så är vi enda valet. Vi vill även göra en rejäl satsning på Näringslivet",
+    "name": "Centerpartiet Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-orkelljunga"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2191",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslutet är taget. De elever som har börjat bereds möjlighet att gå ut gymnasieskolan i Örkelljunga",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är inte brännande i Örkelljunga",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eleverna kan varje dag välja mellan två rätter, där en av rätterna är vegetarisk",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstiden regleras av arbetsmarknadens parter och är inte en kommunal fråga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "All personal inom omsorgen som jobba vårdnära måste kunna kommunicera på god svenska.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot efter den tilldelning som görs av migrationsverket och länsstyrelsen",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": "Ingen skola i vår kommun drivs av ett privat företag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2914",
+          "2915",
+          "2912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;D;A;B;C;B;A;C;B;B;2/5;2/5;2/5;[2914,2915,2912]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har styrt med alliansen sedan 1994. Vi är ett borgerligt parti och söker allianser inom borgerligheten",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Kristdemokraterna är beredda att samtala med alla partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill verka för en levande landsbygd",
+        "description": "Vi kämpar för en levande landsbygd och det innebär att vi måste vara beredda att axla lite högre kostnader för att kunna erbjuda service även utanför Örkelljunga tätort. Dt ska vara ekonomiskt hållbart att leva, bo och verka utanför tätorterna."
+      },
+      {
+        "category": "Vi ska fortsätta arbeta för ett förbättrat företagsklimat",
+        "description": "Vi anser att det fria företagandet är av central vikt för Örkelljunga och dess utveckling. Det utgör dessutom grunden för välfärden i Sverige. Därför kommer vi fortsätta att stödja och arbeta för att ge företagarna bästa möjliga förutsättningar för att kunna verka och etablera sig i vår kommun."
+      },
+      {
+        "category": "Vi vill skapa en trygg och god skolmiljö för våra barn och unga",
+        "description": "Som en del i detta arbete anser vi att Beringskolan och Kungsskolan i Örkelljunga görs om till F-9 skolor med två paralleller i varje skola. Vi vill även fortsätta att verka för att det blir mindre barngrupper i förskolan och fortsätta arbeta för ökad valfrihet inom barnomsorgen"
+      }
+    ],
+    "motivateVote": "Vi vill stärka familjen! Sverige står inför ett familjepolitiskt vägval. Vi kristdemokrater vill stärka familjens roll i samhället.  Familjen är den viktigaste gemenskapen och den grund som samhället står på. Barn som växer upp i trygga familjer får goda förutsättningar att klara livets alla utmaningar. Kristdemokraterna vill möjliggöra olika barnomsorgsformer.",
+    "name": "Kristdemokraterna Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-orkelljunga"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2192",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ungdomar i Örkelljunga kommun som inte vill resa långt för att gå på gymnasiet, och som inte har möjlighet att flytta. Vi måste erbjuda utbildning även för dem. Dessutom har vi behov av utbildade exempelvis undersköterskor som vi ibland har svårt att fylla.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den psykiska ohälsan är för stor bland ungdomar och köerna till BUP är långa. Att träffa en skolkurator i sin egen skola skulle vara ett enklare första steg än att försöka få komma till BUP i en annan kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det lönar sig ur ett samhällsperspektiv att samhället upprätthåller vissa viktiga verksamheter, t ex ser till att det byggs lägenheter inte enbart där det är mest lönsamt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttkonsumtionen behöver styras om till lokalproducerat kött. Sådant kött är dyrare och därför behöver mängden serverat kött minska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver locka folk att arbeta inom äldreomsorgen, och göra så att de mår bra och inte slits ut av sitt jobb. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns frågor där folkomröstningar passar bör det hållas folkomröstningar.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialförvaltningen bör ha frihet att anställa de personer som de behöver anställa. De kommer inte att anställa folk som inte klarar av arbetet på ett bra sätt om det finns sökande. Om de nyanställda inte är tillräckligt bra på svenska för att arbeta direkt med brukarna kan det finnas andra arbetsuppgifter som de kan utföra medan de bättrar sin svenska.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska kunna få en bostad.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vill ha en mångfald och valfrihet mellan äldreboenden, men utan att privata företag tillåts utarma välfärden genom överpriser.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar för att det finns laddningsmöjligheter även där det inte är som allra mest lönsamt, så att exempelvis folk som bor i lägenhet och inte kan installera laddare hemma, ändå kan ladda elbil.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta sin del i att ta hand om dem som har rätt att fly till Sverige. När det är krig i vårt närområde så kommer fler människor att behöva fly och det är alltså inte realistiskt att tro att antalet människor som behöver fly kommer att minska.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": "Vi har stora underskott i socialförvaltningen och barn i behov av mer stöd i skolan. Det har inte gått att hålla budgeten i socialförvaltningen på flera år, så det är tydligt att det behövs mer resurser där.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": "Arbeta för att personalen, på alla nivåer, trivs och vill fortsätta arbeta i Örkelljunga kommun.",
+        "value": [
+          "2917",
+          "2915"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;B;C;C;C;B!;C!;C;D;A;2/5;2/5;3/5;[2917,2915]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Gärna blocköverskridande, men utan Sverigedemokraterna",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Anställ en kommunekolog",
+        "description": "Miljöpartiet vill att kommunen ska anställa en kommunekolog som driver olika projekt för att gynna biodiversiteten i kommunen (exempelvis artrika  vägkanter), söker bidrag för att bekosta projekten och är rådgivare åt markägare om bland annat innehållet i Naturvårdsprogrammet,"
+      },
+      {
+        "category": "Gör naturreservat av Pinnåreservatet",
+        "description": "Örkelljunga kommun är den enda skånska kommun som inte har något naturreservat. Pinnåområdet brukar kallas reservat inom kommunen, men har inte status som naturreservat. Vi vill att det ska få det, för att öka dess skydd."
+      },
+      {
+        "category": "Öka den biologiska mångfalden på kommunens marker",
+        "description": "Vi vill att mer av kommunens marker ska skötas som ängsmarker, så att den biologiska mångfalden av ängsväxter och insekter ökas."
+      }
+    ],
+    "motivateVote": "Vi lyfter miljöfrågor, rättvisefrågor och vård- och omsorgsfrågor",
+    "name": "Miljöpartiet Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-orkelljunga"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2193",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostnaden för att driva en gymnasieskola med få elever kostar allt för mycket. Pengar som vi anser skall satsas i grundskolan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte konkurrera med näringslivet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns ett alternativ till dagens som är vegetariskt och det anser vi är tillräckligt och ger valmöjlighet för den som inte vill ha kött.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan idag svårt att hitta personal till våra verksamheter och att då minska arbetstid med bibehållen lön gynnar inte våra brukare. Däremot måste nya vägar tas för att människor skall klara av att arbeta heltid och hela livet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är nyckeln till samhället. Dock anser vi att testet inte löser problemet. Alla måste ut på arbetsmarknaden och språkkrav i nära omsorg är rätt. Men det finns andra arbetsuppgifter som man kan ha även om språknivån idag inte är tillräcklig.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej! Fler bostäder skall byggas men andelen bostadsrätter, villor mm skall öka. Helt i linje med vår bostadsförssörjningsplan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, Staten måste tydligare ta sitt ansvar i denna fråga. Även en privat marknad har sin uppgift i detta.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2914",
+          "2916"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;D;B;B;B;B;A;D;A;D;3/5;2/5;2/5;[2914,2916]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi samtalar med alla partier och vi stänger inga dörrar för samarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skärp kraven på SFI",
+        "description": "Ett stort ansvar för integrationen av nyanlända ligger hos kommunerna. \r\n\r\nVi måste bl a förbättra vår resultatstyrning vad gäller språkundervisningen och se till att fler lär sig Svenska språket snabbare.\r\n\r\nSkolverkets statistik från 2017 visar att fler än sex av tio inte klarade sin SFI-kurs inom ett år\r\noch var femte deltagare avbröt studierna. \r\nDet måste därför, från början, finnas ett uttalat hög"
+      }
+    ],
+    "motivateVote": "En röst på Moderaterna i Örkelljunga är en röst på att arbetslinjen skall gälla. Det skall inte löna sig att gå på bidrag. Satsning på grundskola för att våra barn är vår framtid.",
+    "name": "Moderaterna Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-orkelljunga"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2194",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;B;A;A;A;C;C;C;B;B;2/5;3/5;3/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Säkert, men kommer inte på någon nu",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Social-Liberalt ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, mycket tveksam till M",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "höjd nivå på kommunal service",
+        "description": "Höjd skatt som ska användas i vardagen för att fler ska anställas inom vård, skola och omsorg, fler i skolan för att höja kvaliteten och resultaten, fler i vården för att klara vårt behov av nyrekrytering samt höja kvaliteten i vardagen för våra brukare"
+      },
+      {
+        "category": "avbryt nedläggningen av Örkelljungas gymnasium",
+        "description": "Nedläggningen av gymnasiet görs av ekonomiska skäl, ett tankesätt vi anser är helt felaktigt då vi tror att detta leder till att färre av våra ungdomar kommer gå ut gymnasiet och därmed kostar samhället mer pengar. Dessutom kan vårt lokala gymnasium bättre tillmötesgå våra lokala företagares behov av kompetens."
+      },
+      {
+        "category": "Bättre framförhållning i alla beslut",
+        "description": "Alldeles för många beslut tas oförberedda, vi måste helt enkelt lära oss att planera bättre, tänka mer långsiktigt, vara bättre pålästa och förberedda. Höja medvetenheten hos alla, anställda och personal."
+      }
+    ],
+    "motivateVote": "Ska vi få människor att vilja bo och trivas i Örkelljunga måste nivån på den kommunala servicen höjas, skolan måste bli en trygg plats att utvecklas på, vi måste bli bättre på att planera vårt arbete i förväg. ",
+    "name": "Socialdemokraterna Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-orkelljunga"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2195",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "430f0cc0daa6069003392aa824f05d4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Örkelljungas gymnasium attraherar för få sökande för att bära sig ekonomiskt vilket innebär att en fortsatt drift tar resurser från grundskolan. Vi behöver istället lyfta vår grundskola som kan ta över och utvecklas i lokalerna som idag används av gymnasiet. Vi vill även inrätta ett kulturhus med bibliotek och särskilt stöd till eleverna, i det som idag är UC.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9548abcba892576d2f08a2e910900cff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att alla elever får en naturlig relation med skolkuratorn så är vi övertygade om att tröskeln för att söka hjälp minskar vilket ger bättre psykisk hälsa hos våra elever. Vi har som enda parti tillskjutit medel i vår budget för detta under de senaste åren. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9ac7e3b445f80ebaf426f2558166a3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett fåtal bolag och det är få av dem som på något sätt konkurrerar med det privata. Örkelljungabostäder är ett bolag som möjligen kan anses konkurrera med privata, men de har ett särskilt uppdrag att bygga i våra mindre orter, där övriga bolags intresse är lågt. Vi vill inte avveckla Örkelljungabostäder utan istället utveckla till att bygga mer ägarlägenheter och radhus i byarna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "59a04c22e60b41ef5fbc523ea1f5bd75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har fått igenom vårt förslag med 2 valfria rätter varje dag, där en rätt är vegetarisk. På så sätt kan alla elever nu välja om de vill äta vegetariskt och vilka dagar de i så fall vill det. Den rätt som innehåller kött, så ska köttet komma från Sverige och leva upp till våra högt ställda krav. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19510b638c443e1567441fbe55921a4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan brist på personal inom äldreomsorgen och bristen är svår kompensera. För oss är det också viktigt att äldrevården aldrig blir ett integrationsprojekt utan att personalen är kunnig och har goda kunskaper i det svenska språket. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "400c7b46b8d3721503ddd88b0381a3b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna mer inflytande från våra medborgare, särskilt när det handlar om byns utveckling och gestaltning av det gemensamma rummet. Därför ser vi gärna folkomröstningar eller ännu hellre, tävlingar och röstningsförfarande där medborgarna får säga sitt om vad som ska byggas eller hur byn ska utvecklas. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2e6d9da2afe704c5679479240730c5f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslog nyligen i en motion att språktest skulle användas, men den avslogs av samtliga övriga partier med motiveringen att Örkelljunga arbetar utifrån ett integrationsprojekt där anställda får olika roller utifrån sina kunskaper. Vi tycker det är fel och vill kräva att alla som arbetar med äldre ska ha goda kunskaper i det svenska språket. Integrationsprojektet ska avslutas. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "56de40a02b33f19e6843d0472d178ea0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska satsa på att bli en landsortsidyll, inte en förort till Helsingborg som de övriga partierna vill. Som landsortsidyll är det villor och radhus som bäst passar in i bilden av Örkelljunga som en trygg mindre ort, där man kan växa upp i trygghet. Med fler småhus frigörs också genom flyttkedjorna hyreslägenheter som idag är upptagna av människor som helst vill bo i småhus.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9991f3917143c4c245eab426a75fa518",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker det är bra med alternativ som tillför något och är positiv till att flera aktörer etablerar sig på orten. Valfriheten är viktig och den kommunala verksamheten kan behöva den avlastning som privata aktörer kan ge. Det är dock viktigt att det ställs lika höga krav på de privata aktörerna som vi ställer på kommunens verksamhet och att de privata aktörerna därmed blir bra komplement.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce3daba93c49b3ac9d2b7444a99afe28",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens kärnverksamhet att sätta upp laddstolpar. Detta bör lösas av andra, så att resurser inte tas från skolan och äldrevården. Bostadsbolaget bör däremot tillse att deras boende har tillgång till laddstolpar och det ska krävas av dem som bygger flerbostadshus i kommunen att de också löser laddstolpar till de boende. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d20cfd23545458b7ebdae6bbd448b9bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Örkelljunga bör enbart ta emot flyktingar från Ukraina och bara under begränsad tid. Utgångspunkten ska vara att flyktingar ska återvända så snart det är möjligt. Vi är definitiva motståndare till den folkomflyttning som skett från mellanöstern och vill ge stöd åt de tidigare flyktingar som nu inte längre behöver beskydd och därför väljer att flytta hem igen. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1f2819ed8bacebf5d0ea91c6b0749cce",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en privat skola som är mycket bra och där eleverna lyckas i större utsträckning än i vår gemensamma skola. Det finns också privata alternativ i grannkommuner som används av våra elever. Vår uppfattning är att det fria skolvalet är viktigt och ska värnas. I dagsläget ser vi däremot inte att någon ytterligare aktör är på väg att etablera sig och vi är nöjda med de alternativ som finns.  ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "15c145d1a44c9180a546677edd5cd150",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är att pengarna läggs på rätt typ av kultur. Kommunen bör bättre fokusera på sådant som är kopplat till det svenska kulturarvet och som uppskattas av flertalet. Udda inslag som inte har något med vårt gemensamma att göra bör undvikas av kommunen. Mer kulturhistoria och mindre mens-konst.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "87e14c6e54b656b63d6d18a82f42ac52",
+        "questionType": "RANGE",
+        "reasoning": "Örkelljunga gjorde en mindre höjning av kommunalskatten för några år sedan. Vi har ett mål om att återgå till den tidigare, något lägre nivån, så fort som vi ser att det är ekonomiskt möjligt. Detta ska göras när det är möjligt utan att sänka kvalitén på verksamheten. En låg skatt är viktig för att våra låginkomsttagare ska ha råd att leva på sin inkomst. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "947220db3de0cc286cf574f036262c40",
+        "questionType": "PRIORITY",
+        "reasoning": "Att korta köerna till äldrevården är extremt viktigt och det borde aldrig accepterats att den fått bli så lång som den är idag. Ett politiskt misslyckande från de styrande som vi måste ta tag i, när vi tar över. Detta kommer innebära att det behövs mer personal i äldrevården. Folktandvården borde aldrig lagts ner vilket vi även röstade emot i regionen (till skillnad mot alliansen). ",
+        "value": [
+          "2917",
+          "2913",
+          "2912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;B;A!;A;D!;D!;A!;D;B;D!;2/5!;2/5!;1/5!;[2917,2913,2912]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi anser att Örkelljunga bör satsa på småskalighet och att bli en landsortsidyll även om det givetvis inte gäller för all form av verksamhet på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst ser vi ett eget styre med egen majoritet som möjliggör att faktiskt satsa på kärnverksamheten på riktigt. I andra hand så vill vi ha ett samarbete med annat parti eller partier för att uppnå majoritet i kommunfullmäktige och då med det parti som tillåter mest Sverigedemokratisk politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, men vi kommer inte att sälja oss billigt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Psykisk ohälsa i skolan",
+        "description": "Att en särskild satsning görs för att minska den psykiska ohälsan bland elever i grundskolan. Alla elever kallas till ett samtal med skolans kurator, för att avdramatisera kontakten och minska tröskeln mellan kurator och elev samtidigt som man får en möjlighet att tidigt upptäcka brister i välmående, utsatthet eller missförhållande. Fler möjliga arbetssätt ska också utredas för stärkt elevhälsa."
+      },
+      {
+        "category": "Tryggare äldrevård utan köer",
+        "description": "Äldrevården behöver bli bättre och köerna till den behöver kortas. Om kommunen inte kan tillhandahålla en plats inom rimlig tid ska så närliggande platser som möjligt hyras in tills dess att kommunen har löst platsbristen. Köerna har uppstått till följd av en pågående renovering och tills dess att den är klar bör de äldre som inte får plats i kommunen erbjudas plats så närliggande som möjligt."
+      },
+      {
+        "category": "Höjda betygsresultat",
+        "description": "Örkelljungas trend med allt sämre betyg måste brytas så att fler elever får möjlighet att välja det gymnasium som eleven helst önskar. En satsning på ökade kunskaper och bättre studiero. Ordning och reda ska råda i skolans miljö, genom tydliga regler och särskild satsning på eleverna."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna vill att Örkelljunga ska uppfattas om en landsortsidyll med fokus på småskaliga lösningar och närhet. Vår kommun ska hushålla med resurserna och framförallt satsa på att skapa en trygg kommun med välfungerande skola och äldrevård.",
+    "name": "Sverigedemokraterna Örkelljunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-orkelljunga"
+  }
+]

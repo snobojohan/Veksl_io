@@ -1,0 +1,950 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "333",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan nu åkre några av våra elever hemifrån före 07.00 och de kommer hem sist. Blir restiderna ännu längre vad betyder då likvärdig skola? Vi vet historiskt att när skolan läggs ner dödas det mesta av livet i bygden och då blir det svårare att utveckla den delen av kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Besparingen är kortsiktig. På sikt kan det till och med bli enkostnadsökning. Vi har redan familjer som flyttat från kommunen för barnens utbildnig.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är motiverat. Totalt subventioneras hela tiden tätorterna med sitt större utbud av samhällsservice, som invånarna i hela kommunen betalar. Det är rimligt att viss service ges även om det råkar kosta lite mer per kapita i området.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas en varierad kost i skolan. Jag litar på personalens kompetens. Blir resultate att elever inte äter eller äter skräpmat i stället blir det kontraproduktivt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns det väl fungerande alternativ ska kommunen inte bedriva verksamhet som ligger utanför kommunens kompetensområde.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag men ekonomin och personaltillgången lägger hinder i vägen.\r\nDet finns andra sätt att förbättra arbetsmiljön.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska arbeta med likvärdiga förutsättningar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "Boendet ska inte subventioneras generellt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrensutsättning är bra om tillsynen är tillräckligt potent. Vilket inte är fallet och det har skapat problem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det borde inte vara en kommunal fråga. Initialt har det varit nödvändigt men på sikt ska marknaden tillhandahålla den servicen efter företagsekonomiska premisser.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": "För många smiter från sitt ansvar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": "Skatte ska vara så låg som möjligt. Effektiv kommunal verksamhet men samtidigt garantera en god servicenivå",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;A!;C;B;C;C;C;B;C;B;A;2/5;2/5;2/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte direkt vad jag kan komma på.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det beror på valresultatet vad som är möjligt. Kommunen skulle vitaliseras av ändrad majoritet, men det viktigaste är politikens innehåll",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi ser helst att SD och V hålls utanför, men det beror på valresultatet, se ovan",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolfrukost",
+        "description": "Vi har elever som hämtas före kl. 07.00 på morgonen, de får väldigt lång tid till lunch.\r\nVi har elever som hoppar över frukost hemma. Vi har elever som har svårt att komma till skolan överhuvud taget. \r\nVi anser att skolfrukost skulle förbättra skolresultatet för alla dessa elever och sannolikt ge en bättre studiero."
+      },
+      {
+        "category": "Kommunikationer",
+        "description": "Infrastrukturen behöver förstärkas. Vägnätet behöver rustas på flera sträckor. Bussförbindelserna till och från Filipstad bör förstärkas för att möjliggöra för fler att pendla till arbete och studier. Det gäller både inom kommunen och mot närliggande tätorter. \r\nJärnvägen bör elektrifieras till Filipstad för att effektivisera godstransporter och möjliggöra persontrafik. Vi verkar för att inlandsban"
+      },
+      {
+        "category": "Attraktivt byggande",
+        "description": "Kommunen ska verka för att tillhanda hålla attraktiva tomter att bebygga både med sjönära lägen som i tätorten och byarna."
+      }
+    ],
+    "motivateVote": "Vi värnar om närmiljön och möjligheterna att bo och verka i hela kommunen.\r\nVi är en balanserande kraft som motverkar ytterligheterna.",
+    "name": "Centerpartiet Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-filipstad"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "334",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": "år målsättning är att hela Filipstads kommun ska leva. Att lägga ner skolorna skulle allvarligt inskränka valmöjligheten att leva på vår landsbygd. Men, vi kräver god kvalitet i samtliga skolor. Också landsbygdens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med ett brett utbud på utbildningar ökar vi möjligheten att fler kommer i egen försörjning. Det behöver Filipstad.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela kommunen ska leva. Vill vi utveckla och inte enbart administrera en långsam avveckling så behöver vi vara noga med att viktiga förutsättningar för liv på landsbygden finns. Det kan gälla snabbt fiberbredband som förskolor och skolor för barn i låg- och mellanstadiet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn mår bra av en allsidig kost, som innehåller animalisk föda (ägg, kyckling, mjölk, ost, kött, fisk). Det är svårt och dyrt att kompensera för allt nyttigt som den animaliska födan ger. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Offentlig verksamhet finns först och främst för att utföra de nödvändiga nyttigheter som det privata inte kan eller ska utföra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "I förstone en utopi som bygger på tron att skatteunderlaget är oändligt. Sen ska man förstås alltid vara öppen för kreativa sätt att organisera arbete, för de äldres bästa, för att minska belastningar och sjukskrivningar hos personalen. Om sextimmarsdagen införs, riskerar vi inte att de äldre möta av än fler utförare i sina hem? Ett problem redan idag. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är inte fel. Anta att samtliga skolor skulle drivas som entreprenad. Då funnes inget alternativ än just att ta emot. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med Filipstads ekonomi och nu efter alla investeringar dessutom höga belåning så låter det som en väldigt avlägsen utopi. Bättre att vi samverkar väl med de privata hyresvärdarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Av omsorgen om den kommunala verksamheten och dess anställda är detta ett bra förslag. De anställda får fler arbetsgivare att välja mellan. Det underlättar kvalitetsjämförelser. Dessutom, viktigast av allt, det ökar de äldres valmöjligheter. Verksamheten finns för dem. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där så är möjligt bör kommunen, via sitt energibolag, underlätta för denna infrastruktur. Helt nödvändigt i hela vårt stora skogslän. De privata gör sitt, men det räcker inte.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Filipstad har erfarenheter att vila sig mot sedan den senaste stora flyktingströmmen. Vi fick ta ett för stort ansvar. Staten var generös en kort tid. Men tyvärr för kort tid. Så det är att föredra att dem med dem lokala kännedomen får mer att säga till om. Varje flyktingvåg ser olika ut. Ukrainarna som kommer nu är generellt sett mer välutbildade än förra flyktingvågen. Det påverkar integrationen",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": "Det har vi liberaler ingen synpunkt på. Vårt fokus ligger på kvalitén i utbildningen eleverna får, inte vem som driver skolan. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": "Ett rikt kulturutbud, inte minst för barn, är viktigt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": "Målsättningen, på lång sikt är förstås att få ner skattetrycket. Kortsiktigt är de flesta nog bäst betjänta av sänkta skatter på el och drivmedel. Jobbpendlandet, som bidrar till individens frihet, har blivit dyrt.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;C;C!;B;D;B;C;B;D;C;C;2/5;2/5;1/5;_",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "På marginalen är nog vi som lever ute i landet mer fokuserade på att utveckla landsbygden och dess areella näringar än storstadens företrädare som mer fokuserar på bevarandefrågor i miljöpolitiken. Men det gäller nog generellt inom politiken oavsett parti.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst vill vi styra själva, som individen med de många valmöjligheterna styr över sitt liv. Men i realiteten vet vi att vi behöver hjälp för att bilda ett hållbart styre. Det är därför vi samarbetar med C och M i Filipstad. De partierna står oss tillräckligt nära för att underlätta våra diskussioner samtidigt som vi konsekvent bemöter varandra på ett värdigt sätt. Ett gott utgångsläge.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, men såväl V som SD kommer att utgöra problem utifrån olika perspektiv. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Behöriga lärare i Filipstads skolor",
+        "description": "Filipstad har LÄGST andel behöriga lärare i Värmland. Det ska vi ändra på. Lärarnas löner behöver höjas. Vi behöver se över frågan om lektorat och mycket mer."
+      },
+      {
+        "category": "Stärk landsbygdens skolor",
+        "description": "Förverkliga byggvision för Filipstads landsbygd. Vi kan lära av grannen Karlstad och arbeta aktivt med att få allt fler att bo kvar och bygga nytt på  landsbygden. Då stärks underlaget för landsbygdens skolor. Vi ska också se över arbetet för de lärare som arbetar på våra mindre skolor. De ska också ha fungerande kollegialt utbyte samt bra löner förstås."
+      },
+      {
+        "category": "Ordningsvakter i Filipstad",
+        "description": "Filipstad borde vara idyllen där tre sjöar möts. Men allt för ofta störs stadsbilden av oro, missbrukare som sköter sina konflikter inför öppen ridå. Det stör boende, besökare och handel. Så kan vi inte ha det. Det inkräktar på folks frihet. Därför behöver kommunen stärka ordningen och tryggheten i centrum med ordningsvakter."
+      }
+    ],
+    "motivateVote": "Vi är det enda svenska parti som bildats för att forma samhället efter liberala ideal. Främst av våra tankar är individens rätt att söka sin lycka. Att ha friheten att göra genomtänkta val. Därför är vårt främsta fokus skolan. Med en god utbildning följer goda valmöjligheter under resten av livet. ",
+    "name": "Liberalerna Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-filipstad"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "335",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gymnasieskolans attraktivitet bygger naturligtvis på att skolan har ett brett programutbud.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en kommun med begränsade ekonomiska resurser måste alltid prioriteringar göras vad gäller såväl centralort som landsbygd beroende på vad frågan gäller.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste för barnen är att skolmaten bygger på vetenskap och är hälsoriktig.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska helst inte konkurrera med det privata näringslivet, men om vissa verksamheter gör anses göra detta, så ska det ske på lika villkor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en kommun med begränsad ekonomi är inte detta en prioriterad fråga för oss moderater. -Vem ska betala ?",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samma villkor ska gälla för alla skolor oavsett driftsformer.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Filipstads kommun är hyresnivåerna för lägenheter låga och hyresnivåerna ska självklart inte skattefinansieras.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre medborgare ska självklart kunna välja driftsformer för service och omvårdnad och ffa. kunna välja bort verksamhetsaktörer som man inte är nöjd med.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Precis som att bensinmackar inte har varit ett kommunalt ansvar så ska heller inte ”laddstolpar” vara det. Detta ska hanteras av den fria marknaden i den mån det finns intresse och förutsättningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingmottagande i kommunerna ska ske utifrån vilka resurser såsom t.ex. arbetstillfällen, utbildningsmöjligheter, bostäder mm. som finns i respektive kommun. Migrationsverket ska alltså inte kunna tvinga på en kommun som inte har tillräckliga resurser ett alltför stort antal flyktingar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": "Konkurrens i olika verksamheter är alltid bra och höjer kvalitet och engagemang hos de olika driftformerna för att ge elverna bästa möjliga undervisning.\r\nReligiösa friskolor är däremot inget vi förespråkar.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": "Kultur- och föreningsliv fyller en viktig funktion i samhället och i politisk enighet sen flera år tillbaka så har Filipstads kommun valt att satsa förhållandevis ganska stora resurser inom detta område.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": "Den politiska majoriteten måste ta ekonomiskt ansvar för kommunens ekonomi och det anser vi moderater inte att man har gjort i Filipstads kommun.\r\nDen skattehöjning med 75 öre som S och V drev igenom from 2022.01.01. måste återställas och istället måste effektiviseringar göras som anpassar den ”kommunala kostymen” till verkligheten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1063",
+          "1062",
+          "1060"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "_;D!;C;B;D!;B;C;A!;D!;B!;C!;3/5;2/5!;1/5!;[1063,1062,1060]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, vi är nog överens i de flesta frågor.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Styret ska efter valet kännetecknas av att ge kommuninvånare och företag bästa möjliga service så att man stannar och utvecklas i Filipstads kommun.\r\nDetta ger kommunen ett bra rykte som medför fler företagsetableringar och därmed också fler arbetstillfällen i kommunen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Valresultatet den 11:e september är avgörande vad gäller denna fråga.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Moderaterna vill sänka skatten - Du ska ha mer pengar kvar i plånboken",
+        "description": "Den onödiga skattehöjningen som S och V drev igenom inför 2022 ska återställas. Om Filipstads kommun ska vara en attraktiv kommun att flytta till för såväl medborgare som företag, så måste vi se till att skattenivåerna hålls så låga som möjligt. Detta gäller naturligtvis för att både medborgare och företag som redan finns i kommunen ska stanna kvar."
+      },
+      {
+        "category": "Ökad valfrihet",
+        "description": "Moderaterna vill öka medborgarnas valfrihet genom fler aktörer inom vård, omsorg, skola och barnomsorg. Ökad konkurrens inom såväl kommunal verksamhet som näringsliv bidrar till utveckling och effektivisering. -Det ska vara möjligt att välja bort aktörer som inte ”håller måttet” !"
+      },
+      {
+        "category": "Stärk möjligheten till fler arbetstillfällen",
+        "description": "Moderaterna vill att det ska vara enkelt att starta och driva företag i hela Filipstads kommun. Företag som vill etablera sig och växa är viltalt för kommunens fortsatta utveckling och möjligheterna att leva och bo i kommunen.\r\nVi ska särskilt stimulera och bistå unga som vill starta företag. Arbete och sysselsättning är en förutsättning för att HELA kommunen ska kunna utvecklas och leva."
+      }
+    ],
+    "motivateVote": "Moderaterna har kraft att leda Filipstads kommun nu och in i framtiden. Vi står för trygghet, stabilitet och handlingskraft.\r\nFilipstads kommun behöver en NY politisk majoritet och ett NYTT ledarskap som kännetecknas av transparens och kvalitet. -Det är viktigt att bry sig om medborgarna också mellan valen.\r\nFör oss Moderater är det viktigt att hela kommunen ska leva.",
+    "name": "Moderaterna Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-filipstad"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "336",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att elevantalet fylls på och undervisning sker med utbildade lärare för att ge eleverna en fullgod utbildning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gärna starta Bergteknik och då tillsammans med företag i branschen för att få undervisning i senaste tekniken. \r\nGällande Handelsprogrammet har ansökningarna varit få och därmed har man sett begränsade möjligheter att bedriva en bra undervisning. Om efterfrågan ökar kan frågan åter väckas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag strävar vi efter att tillhandahålla så god service som möjligt i hela kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas både kött o vegetariskt varje dag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommun ska kunna bedriva bolag då vinsten går tillbaka till kommunkassan och därmed också invånarna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om staten står för ekonomin det kostar och fler utbildar sig till USKOR, SSK. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge vi har friskolor ska det vara ett krav att ta emot alla elever oavsett etnicitet eller funktionsnedsättning. Skippa kösystemet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt bostadsbestånd är idagsläget tillräckligt inom allmännyttan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärdens pengar ska stanna inom välfärdssystemet och ska inte drivas av företag vars intresse är aktieutdelning. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att staten tillskjuter medel till detta då alla kommuner har olika ekonomiska förutsättningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommuner som tog emot många nyanlända 2015 och fortfarande kämpar med att integrera dem i samhället. Ska kunna undantas tills de andra kommunerna kommit ikapp. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": "Skola o utbildning ska bedrivas av offentliga aktörer och inte vinstdrivande företag. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inte minskat på budgeten till kulturlivet som vi gjort i andra nämnder o styrelser. Det är även en del i vår vision om en välmående kommun. Där kulturen är med och bidrar positivt till folkhälsan. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": "Vi höjde kommunalskatten inför 2022 för att finansiera simhall, skola och idrottshall. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1064",
+          "1062",
+          "1065"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;C;A;A;C;D;D;A;C;A;0/5;2/5;2/5;[1064,1062,1065]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Etableringstiden vill vi ha i 10 år i jämfört med 2 år som det är idag\r\nÖvergivna hus som ägarna struntar i ska kunna rivas med hjälp av statliga medel.\r\nStrandskyddet ska vara lättare att ta bort i glesbyggd med flera 100 sjöar o tjärnar.\r\nÖvergivna bilar ska undanröjas o skrotas",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna har minst 51% i kommun, region och riksdag",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fortsätta bedriva välfärden i kommunal regi",
+        "description": "Vi vill fortsätta att driva välfärden i kommunal regi. Inga bolag ska ta sortera bort elever, brukare m fl. Vinsten ska återinvesteras i kommunen inte privata plånböcker."
+      },
+      {
+        "category": "Fortsätta investera i miljö o klimat",
+        "description": "Vi bygger en skola, idrottshall och simhall som är klimat och energisnåla. De har bl a solceller. Vi ska bygga en biogasanläggning. Ett företag tittar på elutvinning i våra nedlagda gruvor. Finns idéer om en solcellspark. Flera fastigheter inom kommunen har solceller. Alla nya fastigheter eller vid takbyte på befintliga installeras solceller.\r\nVi diskuterar gärna utveckling inom detta område."
+      },
+      {
+        "category": "Våra kommuninvånare ska känna sig trygga",
+        "description": "Invånarna ska kunna vistas ute i vårt samhälle utan att känna oro. Vår blåljuspersonal ska mötas med respekt o uppskattning. \r\nVi vill fortsätta utveckla samarbetet med polisen. Regelbundna trygghetsvandringar i hela kommunen. Arbeta för ökad polisnärvaro i vår kommun."
+      }
+    ],
+    "motivateVote": "Vi står för en rättvis och solidarisk politik. Plånboken får inte styra barnens möjligheter till utveckling. Välfärden ska drivas av kommuner o regioner och inte vinstdrivande företag. Viktigt att satsa på föreningslivet för alla åldrar. Fortsätta utvecklingen av näringslivet och få nya företag till vår fina kommun. Vi satsar också på sjönära tomter med tillgång till gemensam brygga. ",
+    "name": "Socialdemokraterna Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-filipstad"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "337",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har varit en katastrofal utveckling för kommunens mindre samhällen sett över en längre tid. Den måste vändas! Därför vill vi satsa mer på de mindre samhällena, och byskolorna är en viktig del i detta. \r\nMed lite god vilja går det att få mindre skolor att fungera bra och ofta är de betydligt bättre för barnen än exempelvis skolor i storstädernas förorter. Det är viljan det hänger på!\r\n",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett brett utbud av utbildningar på gymnasiet gör kommunen mer attraktiv. För de aktuella utbildningarna är det dessutom billigare att utbilda ungdomarna på hemmaplan än att de ska behöva söka sig till andra kommuner.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela kommunen måste leva. Den kommunala servicen och möjligheten till arbete på nära håll har försämrats och befolkningen i kommunens mindre samhällen har minskat kraftigt under ett stort antal år. Utvecklingen mot allt mer centralisering från mindre samhällen till storstäder har gått för långt. Det gäller både människor och företag. Den utvecklingen behöver vändas!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vilken mat som serveras i skolorna är inget som klåfingriga politiker ska styra över. Barn behöver bra mat som är god och näringsrik. Barn ska varken vara integrationsverktyg eller klimatverktyg. \r\nVuxna påtvingas inte detta. Varför vill då vissa partier utsätta barnen i Filipstad för sådant?\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att generalisera. Det som ska styra är om det finns anledning att tro att verksamheten kommer bedrivas på ett bättre sätt. Det måste göras en bedömning från fall till fall och med fingertoppskänsla där man väger många faktorer innan sådana beslut fattas. Driftsformen är ingen helig ko där det ena alternativet alltid är bättre än det andra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "Villkoren för anställda inom vård och omsorg behöver förbättras. Detta kan vara ett sätt, även om det blir dyrt för kommunen. Det pågår försök med sex timmars arbetsdag så därför bör vi avvakta resultaten innan vi fattar beslut om det.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska ta emot de elever som söker sig till aktuell skola. Det ska inte vara styrande vad du har för ursprung utan alla elever som söker ska ha lika stor chans att bli antagna om eleven uppfyller de villkor som gäller.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns idag sociala kontrakt. De som står långt från bostadsmarknaden ska få hjälp därigenom. Hyran idag är inte marknadsanpassad och således bör hyran fungera även för en person som tjänar lite mindre. Men att kommunen ska bygga eller tillhandahålla extra billiga lägenheter är inte rätt väg att gå. Däremot om kommunen är byggherre så ska hänsyn tas till att bygga prisvärt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand ska kommunens äldreboenden hålla så hög kvalitet att det inte ska behövas privata aktörer. Men om det finns önskemål från medborgarna ska privata aktörer kunna etablera sig. Det är bra med valfrihet, men det får inte resultera i oskäliga vinster eller utarmning av den kommunala äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte satsa pengar på att gynna företag som borde klara sig på marknadsmässiga grunder. Skattepengarna ska inte slösas bort genom att gynna den ena eller andra typen av drivmedel. Det är inte en kommunal angelägenhet. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Filipstad är ett avskräckande exempel på hur det blir när många med stora hjälpbehov kommer och ska dela på den kommunala servicen med andra som också behöver stöd.\r\nMed en sund migrationspolitik på riksnivå ska detta inte vara något problem. Som det ser ut nu skulle det bli bättre om kommunerna fick bestämma själva. De bör ha lite bättre förståelse för konsekvenserna än EU- och riksdagspolitiker. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": "Det är upp till medborgarna hur många privata skolor det ska finnas. Om de kommunala skolorna fungerar bra kommer inte behovet uppstå.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": "I stort sett fungerar det bra idag, men vi vill se en något större satsning på lokal kultur som bidrar till att stärka den lokala identiteten och ger en större förståelse för vårt lokala kulturarv. Samtidigt vill vi minska stödet till projekt där kulturen används för att stärka andra kulturer än den svenska.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": "Vi betalar en relativt hög kommunalskatt i Filipstad och vi får mycket lite för pengarna. Vi har en extremt hög kostnad för försörjningsstöd samt andra migrationsrelaterade kostnader (SFI, arbetsmarknadsåtgärder, etc.).\r\n\r\nSamtidigt bidrar de utrikesfödda i mindre grad till skattebasen, vilket gör att pengarna inte räcker trots att skatten är hög. Den kommer sänkas om vi får styra.\r\n",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1061",
+          "1064",
+          "1060"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;A!;B;C;B;A;D;A!;D!;3/5!;3/5!;1/5!;[1061,1064,1060]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Genom att Socialdemokraterna vägrat att samarbeta med SD på riksnivå har partiet tvingats ut på högersidan vilket är missvisande. Vi är inget högerparti utan ser oss som ett tredje block som tar det bästa från både vänster och höger.\r\nI politiska frågor följer vi partiets program.\r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kan styra med båda blocken. \r\nEtt samarbete med S skulle ge ett starkt lag efter att de nu har tappat sina fyra mest kompetenta politiker. Vår syn på exempelvis migrationsfrågorna skulle resultera i bättre politik än S + V.\r\nSamma sak gäller för samarbete med den borgerliga sidan. De har stagnerat och vi går starkt framåt. Vi skulle bli garanten för den sociala omtanken.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi respekterar väljarna och kan samarbeta med alla demokratiska partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara byskolorna",
+        "description": "Om vi ska kunna vända utvecklingen med en minskande befolkning i kommunens mindre samhällen måste byskolorna utanför Filipstad finnas kvar. Den styrande majoriteten kommer med all sannolikhet lägga ner byskolor när valet är avklarat i höst. Vi vill vända utvecklingen och få de mindre samhällena att blomstra! Då behöver vi inte bara bevara utan också satsa på byskolorna."
+      },
+      {
+        "category": "Återvandring",
+        "description": "Många invandrare upptäcker efter ett tag att det inte blev så bra som de tänkt sig i det nya landet. Att som flykting söka skydd i ett annat land en tid och sedan flytta tillbaka när det lugnat ner sig i hemlandet är oftast den bästa lösningen för alla parter. Då blir det mer pengar över till skola, barnomsorg och äldrevården. Därför behöver kommunen börja arbeta aktivt med återvandring!"
+      },
+      {
+        "category": "En levande landsbygd",
+        "description": "Det går utför med de mindre samhällena i kommunen. De som har bott här en längre tid är väl medvetna om den dystra utvecklingen. Det största partiet får ta på sig en stor del av skulden tillsammans med de röda och blå regeringar vi haft under tiden. Lösningen kanske är enklare än man kan tro – prova att byta ut det parti som bevisligen misslyckats i mer än 50 år och låt något annat få chansen!"
+      }
+    ],
+    "motivateVote": "Tänk långsiktigt 50 år bakåt i tiden – vad har de styrande åstadkommit i Filipstad? I nästan alla jämförelser hamnar vi i botten!\r\nDet är bara vi som har lösningen på kommunens problem. Integration fungerar inte – vi måste börja arbeta med återvandring. Ekonomin är en katastrof och hålls vid liv med konstgjord andning.\r\nVi har en bra balans mellan höger och vänster i vår politik.",
+    "name": "Sverigedemokraterna Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-filipstad"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "338",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4510aee220ab1c545d5f24aff091fcd6",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att bevara en levande landsbygd och även kunna erbjuda en lugnare miljö för barn som behöver det. Det optimala vore om staten åter tog över ansvaret för skolan för att kunna uppnå målet med en likvärdig skola för alla.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "969e34ddb1daad522574d2f5b07beebd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste är att kunna erbjuda gymnasieprogram som det finns en efterfrågan och ett behov av.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ddfaec7cfefbf33fcdcaeb1b44e0a74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Resurserna ska fördelas efter behov och där de behövs",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b79e2086d2ebae923e7a9f7587a9b215",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste alla minska.vårt köttintag,",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a655cc8bf1d20e3a22eee359cf8beafa",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en bättre omsorg och friskare personal",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef5166fa94dfc96ee8c757fd887594df",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en bättre omvårdnad och friskare personal",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bf342cb6ba115f1ba730ff292e2d4411",
+        "questionType": "PROPOSITION",
+        "reasoning": "De ska inte få välja ut vilket elevunderlag de vill ha.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8bbf63f16e12ec55407b707b197de137",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja för att förhindra trångboddhet och kunna erbjuda ekonomiskt svaga grupper bostad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b7c37af57fbee597fd0afbfeae82bac4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är emot privatisering av vård, skola och omsorg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7ca37a4199264f3e7841563d345b4dd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "e421059adde7f7cfa0bfd161acf82b05",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08e60c42b594d18a7ed3a0dc6fcdc62d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "47d85811e7ccec7268882f41bbd5ccf8",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är mycket viktigt för bl.a. integration, kreativitet och sammanhållning och gemenskap.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "dd0356ba0a78f917d8c0bb510e8dc2c4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b4d8bf44015ed84ef0adb02039c7f812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1063",
+          "1064",
+          "1062"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;B;C;D;D;D;D;D;A;_;A;2/5;4/5;3/5;[1063,1064,1062]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Filipstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-filipstad"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "altingetId": "4904",
+    "description": "Förslaget innebär att Region Värmland ska införa vårdval inom psykiatrin. Privata vårdgivare får då möjlighet att öppna psykiatrimottagning och patienten får välja var den söker vård.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "9ce8409ef2842a353199ff22a616741d",
+    "slug": "privata-vardgivare-ska-fa-oppna-psykiatrimottagningar-i-varmland",
+    "title": "Privata vårdgivare ska få öppna psykiatrimottagningar i Värmland",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4905",
+    "description": "Syftet med förslaget är att vårdpersonal ska få mer återhämtning mellan arbetspassen.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "58abcba9a13928c52a9aecfcf7c554bf",
+    "slug": "personal-pa-akutmottagningar-ska-fa-ga-ner-till-30-timmars-arbetsvecka-med-bibehallen-lon",
+    "title": "Personal på akutmottagningar ska få gå ner till 30 timmars arbetsvecka med bibehållen lön",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4906",
+    "description": "Syftet med förslaget är att säkra att patienter och vårdpersonal kan kommunicera och förstå varandra på svenska.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "3adcb1a3034df7852ef41228f22c0501",
+    "slug": "vardpersonal-som-traffar-patienter-ska-ha-klarat-spraktest-i-svenska",
+    "title": "Vårdpersonal som träffar patienter ska ha klarat språktest i svenska",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4907",
+    "description": "I dag ansvarar landets 21 regioner för sin egen hälso- och sjukvård. Invånarna betalar skatt till regionerna för dess verksamhet.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "291fba2d6983ecfd53f991bc693fffb3",
+    "slug": "regionerna-ska-lamna-over-ansvaret-for-sjukvarden-till-staten",
+    "title": "Regionerna ska lämna över ansvaret för sjukvården till staten",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4908",
+    "description": "Det är regionerna och kommunerna som ansvarar för kollektivtrafiken, ofta genom ett gemensamt länstrafikbolag.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "3c45fd67967708a848a1e04f72045f7b",
+    "slug": "kollektivtrafiken-i-gles-och-landsbygd-ska-byggas-ut",
+    "title": "Kollektivtrafiken i gles- och landsbygd ska byggas ut",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4909",
+    "description": "Lagen om valfrihetssystem, LOV, innebär att privata vårdgivare som uppfyller uppställda krav har rätt att driva primärvård, till exempel hälso- och vårdcentraler, med ersättning från regionen.",
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "5f5af1f39cd55a8df3ca44e43459adad",
+    "slug": "regionen-ska-verka-for-att-begransa-privata-vardcentralers-ratt-att-etablera-sig-var-dom-vill",
+    "title": "Regionen ska verka för att begränsa privata vårdcentralers rätt att etablera sig var dom vill",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4910",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "6307286bc0fa55d8a76baf923bd91aac",
+    "positions": [
+    ],
+    "slug": "hur-mycket-skattemedel-ska-regionen-satsa-pa-kollektivtrafik",
+    "title": "Hur mycket skattemedel ska regionen satsa på kollektivtrafik?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4911",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "7c0b8f08d63e78b35b7211fa2c5df9db",
+    "positions": [
+    ],
+    "slug": "hur-mycket-av-sjukvarden-ska-drivas-av-privata-foretag",
+    "title": "Hur mycket av sjukvården ska drivas av privata företag?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4912",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "64cf9c54034debe8e4920d75dd7dc3f5",
+    "positions": [
+    ],
+    "slug": "hur-mycket-ska-medborgarna-betala-i-regionskatt",
+    "title": "Hur mycket ska medborgarna betala i regionskatt?",
+    "type": "RANGE"
+  },
+  {
+    "alternatives": [
+      {
+        "id": "2134",
+        "title": "Erbjuda fler vårdbesök digitalt över nätet"
+      },
+      {
+        "id": "2131",
+        "title": "Erbjuda patienter mer hembesök av läkare"
+      },
+      {
+        "id": "2133",
+        "title": "Korta köerna till barn- och ungdomspsykiatrin"
+      },
+      {
+        "id": "2130",
+        "title": "Korta väntetiderna till 1177"
+      },
+      {
+        "id": "2129",
+        "title": "Minska inhyrningen av sjukvårdspersonal"
+      },
+      {
+        "id": "2132",
+        "title": "Rusta upp Fryksdalsbanan för att säkra tågtrafiken"
+      },
+      {
+        "id": "2137",
+        "title": "Subventionera bredbandsutbyggnad på landsbygden"
+      },
+      {
+        "id": "2135",
+        "title": "Utöka vårdcentralernas öppettider på kvällar och helger"
+      },
+      {
+        "id": "2136",
+        "title": "Öka antalet ambulanser i Värmland"
+      }
+    ],
+    "altingetId": "4913",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-varmland",
+    "id": "2fb37a546e60872682730314bbd2a61d",
+    "slug": "vilka-av-foljande-forslag-ska-min-region-prioritera",
+    "title": "Vilka av följande förslag ska min region prioritera?",
+    "type": "PRIORITY"
+  }
+]

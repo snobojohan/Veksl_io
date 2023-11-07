@@ -1,0 +1,1473 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "355",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Efterfrågan finns på fler avdelningar för att klara kraven. Det är viktigt att bygga nya avdelningar i nära anslutning där kunderna bor",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mobil skall inte användas i skolan förutom det ingår i undervisningen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att ha trygga och anpassade bostäder så de boende kan klara att bo själva och senarelägga insatser eller anpassa insatser så livskvaliteten är hög.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fokusera på sätta kunden i fokus för att höja kvaliteten i omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktig fråga att alltid pröva och även utveckla exempelvis kommunal verksamhet som omvandlas till socialt företagande",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag har vi inte prövat 6 timmarsdag det vore intressant att pröva det och göra en utvärdering. Attraktion för vårdyrken kan bli bättre och lättare att rekrytera.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ar ett viktigt verktyg att använda när det behövs för att bekräfta den kommunala självbestämmandet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation är viktig att man förstår varandra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enklare bostäder som student och ungdomslägenheter är viktiga att utveckla.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Prövas när intresse finns",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns ett intresse av företag att utveckla dessa tjänster vilket innebär att vi som kommun kan arrendera ut kommunala parkeringsplatser där de kan etablera sig. Kommunala laddningsstationer skall utnyttjas så exempelvis anställda kan köpa laddningar när inte kommunens fordon utnyttjar dessa.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "Det finns idag möjlighet att välja skolor med olika huvudmän. Kvaltetsuppföljning skall vara lika oavsett huvudmän. Begränsning ang vinstuttag skall finnas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har ett bra stöd till kulturverksamhet. Det är viktigt att ha en ständig dialog med utövare och civilsamhället så vi kan ge stöd för att supporta och ge möjlighet till utveckling.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi en balans i ekonomin med 21,87 kronor i kommunalskatt på kort och 5 års sikt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1086",
+          "1091",
+          "1092"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;C!;D!;D!;C;C;C;C;D;B;2/5;2/5;2/5;[1086,1091,1092]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna fortsätta det arbete vi startat och fullfölja ledning till ett ännu bättre kommun att bo och verka i.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckling av hela Forshaga kommun",
+        "description": "Att satsa på centrumutveckling i våra tätorter för att skapa en trivsam och fin miljö. Fortsätta att utveckla våra olika orter i kommunen i nära dialog med civilsamhället för att stärka befintliga och nya attraktioner samt service."
+      },
+      {
+        "category": "Trygghet i hela kommunen",
+        "description": "I dialog med polis, räddningstjänst och myndigheter stärka medborgarnas trygghet och skydd. Så vi har beredskap för att hantera nödvändiga behov vid olika typer av händelser och angrepp."
+      },
+      {
+        "category": "Skapa en effektiv organisation av kommunen",
+        "description": "Vi måste ständigt värdera hur vi kan utföra kommunens huvuduppgifter så effektivt som möjligt till bra kvalitet. Att samarbeta med andra är en framgångsfaktor för effektivitet och kompetens. Det ställer krav på organisationen att leverera lösningar efter beslut som är tydliga och snabbt går att utvärdera."
+      }
+    ],
+    "motivateVote": "Vi har under innevarande mandatperiod suttit i majoritet och är mycket stolta över resultatet med tillväxt och utveckling av kommunen.",
+    "name": "Centerpartiet Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-forshaga"
+  },
+  {
+    "abbreviation": "KomBä",
+    "altingetCandidateId": "356",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen växer i invånarantal så det lär behövas fler förskolor",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn och ungdomar behöver mindre orosmoment under sina lektionstimmar",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett slitsamt arbete för de anställda och iom kortare arbetsdag kanske man sparar på kropparna som man slipper personalbrist i långa loppet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dom styrande politikerna är framröstade att föra medborgarnas talan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är en av de viktigaste punkterna för att kunna kommunicera så det torde vara en självklarhet",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det saknas boende idag med låg med inte dålig standard så att våra unga kan få eget boende",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Låt marknaden ta hand om dessa stolpar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1088",
+          "1091",
+          "1087"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D!;C;D;D!;D;B;C;C;_;A;2/5;1/5;2/5;[1088,1091,1087]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är lokala",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett brett politiskt samarbete i möjligaste mån",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ge barn och ungdom de platser de behöver",
+        "description": "Det har pratats i många år i kommunen om fritidsgårdar eller liknande, och så fort det anordnas något liknande så ska det vara en himla massa pedagogik och kultur inblandat. låt istället barn och ungdom \"hänga\" på sin ungdomsgård utan att peta in en massa gör si och gör så.\r\nvill dom spela dator, lyssna på musik, eller bara vara sittande i en soffa så låt dom göra så"
+      },
+      {
+        "category": "Rätt till likvärdig service i hela kommunen.",
+        "description": "Som det verkar nu sker mer centralisering än decentralisering, iom. att väg 62 byggs ut norr ut så torde det gynna framtida etableringar även norr om Kvarntorp"
+      },
+      {
+        "category": "Sluta med flumpolitiken",
+        "description": "Man har som kommun olika visioner beroende på hur vinden vänder, på 90-talet \"Sportfiskekommun\" Och sedan \"Barnkommun\" och nu \"MR\" kommun.\r\nVad som dock inte pratas om är vad mycket pengar detta kostar skattebetalarna. Det senaste påhittet t.ex. MR som då står för mänskliga rättigheter, där kan man inte precisera vad det hela kommer att kosta ens, Följer inte alla kommuner mänskliga rättigheter?"
+      }
+    ],
+    "motivateVote": "Vi är ett lokalt parti som inte är fastcementerade i den sk. Blockpolitiken, \r\ndärför kan vi lägga lokala motioner och eller stödja andra partiers motioner \r\n på det sättet Vi tycker är bra för vår kommun och dess invånare.",
+    "name": "Kommunens Bästa Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kommunens-basta-forshaga"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "357",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen växer glädjande nog. Så det behövs fler förskolor. men alla behöver inte vara kommunala ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": " det ska varta ordning och reda i skolan",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill  införa en äldreboendegaranti där varje person över 85 år har en lagstadgad rätt att få en plats på ett anpassat boende när och om de så vill\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rättvis konkurrens är inte något problem. Men kommunen ska alltid ha fokus på sitt kärnuppdrag och inte ge sig in i fler affärsmässiga uppdrag. Forshaga Kommun  har för lite privata utförare idag. \r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det leder direkt till fler olika personal hos brukarna. 6-timmarsdag kan vara ett bra förslag. Det viktiga är en hållbar arbetssituation\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska användas om det behövs",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "All personal inom omsorgen som jobbar vårdnära måste kunna kommunicera på god svenska.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det byggs en blandad bebyggelse i hela  kommun. Här ingår även billigare hyreslägenheter. Men det är inte rimligt att skattebetalarna står för kostnaden.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vården ska kännetecknas av värdighet, kvalitet och tillgänglighet och vi anser att vården och omsorgen behöver många olika utförare - för kvalitetsutveckling och valfrihet - och vi välkomnar privata, kooperativa och ideella vårdgivare.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": " Lika lite som bensinstationer är kommunalt uppdrag, lika lite är publika laddstolpar kommunalt uppdrag. Detta ska det privata näringslivet tillhandahålla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Politikens uppgift är inte att styra kulturen utan att ge den möjlighet att växa fritt, både på amatörnivå och på professionell nivå. Vi vill verka för mer kulturverksamhet i skolan\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "det viktiga är att få ballans i ekonomin. Men ges möjlighet att sänka skatten ska det göras \r\n",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1085",
+          "1091",
+          "1087"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D!;D;C;B;B;D;B;D;A;2/5;2/5;1/5;[1085,1091,1087]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det är väljarna som avgör vilka förutsättningar som finns efter valdagen. Vi i KD är redo att prata med alla partier för att komma överens om ett stabilt och ansvarstagande styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är redo att prata med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ungdomsgårdar i Forshaga och Deje",
+        "description": "KD vill ha ungdomsgårdar i Forshaga och Deje."
+      },
+      {
+        "category": "Skolor ska införa kunskapskontroller och alla elever testas för skrivsvårigheter",
+        "description": "Alltför många barn klarar inte grundskolan. Det är ett stort svek att så många barn lämnas efter. Vi menar att vägen framåt inte är sänkta kunskapskrav eller att sänka kraven för att fler ska kunna komma in på gymnasiet. Istället vill vi införa tidiga kunskapskontroller och stödinsatser."
+      },
+      {
+        "category": "Äldreboendegaranti som ger alla över 85 år rätt till anpassat boende",
+        "description": "Många äldre vill bo kvar i sitt hem så länge som möjligt. Samtidigt finns det en stor grupp äldre som känner att de behöver en annan boendeform men som nekas en plats. Biståndsbedömningarna har blivit hårdare. Vi vill därför införa en äldreboendegaranti där varje person över 85 år har rätt att få en plats på ett anpassat boende när och om de så vill."
+      }
+    ],
+    "motivateVote": "Välfärden och de goda värderingarna utmanas på ett sätt som inte skett förut. Då behövs samhällskrafter med en trygg värderingskompass och politiker som vågar prioritera. Vi kristdemokrater lovar inte allt till alla, men vi håller det vi lovar",
+    "name": "Kristdemokraterna Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-forshaga"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "358",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förskola nära bostaden är vad barnfamiljerna vill se. Stämmer med barnens önskan - nära kamrater - och sparar tid för föräldrarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skapar bättre arbetsförhållanden och ger stöd till de elever som drabbas mest av mobilerna.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart! Vi vill också se fler trygghetsboenden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror vi kan lita på att personalen klarar detta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror att de viktiga bolagen - bl a Forshagabostäder - behövs, men behöver bli bättre.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men vi vill framför allt se att alla som vill jobba heltid ska kunna få det.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är istället att göra mer för att lyfta den politiska debatten och skapa ökat intresse för det som sker i nämnder och fullmäktige.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Språket är en viktig del av kompetensen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framfört allt behövs fler detaljplaner och en aktiv insats för att intressera byggföretag att ta fram hyres- och bostadsrätter. Även radhus och villatomter behövs. Intresse finns, men kommunens långsamhet med detaljplanering är ett problem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kräver att kommunen har kompetens att ställa krav och följa upp att de efterlevs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "En del av ett attraktivare Forshaga. Går långsammare här än i andra kommuner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "Tror kanske att intresset är litet från aktörer m h t kommunens storlek. Bättre att skolan förstatligas.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Kulturintresset har svalnat på senare tid. Kammarmusikdagarna försvann. Gamla Kraftstationen i Dejefors är hotad.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "Riktade statsbidrag är inte idealiskt, men behöver förvaltas bättre.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1085",
+          "1091",
+          "1092"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D!;D;B!;C;A;D;C;C;D;3/5;4/5!;2/5;[1085,1091,1092]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill medverka till en mer samordnad och effektiv opposition.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En ännu bättre skola",
+        "description": "Att samtliga elever efter nio år får gymnasiebehörighet ska vara grundskolans ansvar. I Forshaga lämnar 18% åk 9 utan att ha behörighet till gymnasiestudier. Den siffran måste ner! Det är viktigt att skolan finns nära. Vi vill säkra Olsäterskolans framtid. Högstadiet i Deje ska finnas kvar. Och skolorna i Skived och Grossbol! Barngrupperna i förskolan ska vara små. Ett skäl till att Forshaga inte"
+      },
+      {
+        "category": "Respekt för de äldre",
+        "description": "Kommunen ska visa äldre som behöver hjälp respekt för deras behov, livsval och intressen. En fast omsorgskontakt är viktig. Idag möter hemtjänsttagaren 23 olika personer på två veckor. Ofrivillig ensamhet är ett stort problem. Ett praktiskt och organiserat samarbete med civilsamhället bör inledas och utvecklas. En granskning av äldreomsorgen behöver genomföras med externt stöd."
+      },
+      {
+        "category": "Utveckla varje del av kommunen",
+        "description": "Kommunen ska ta fram generella områdesplaner där områdenas helhetsbehov beaktas. Det skapar bättre förutsättningar för att bygga ut kommundelar som innehåller allt från bostäder till arbetsplatser, handel, skolor, äldreboenden, föreningslokaler och idrottsytor. Detaljplaner ska vara flexibla med kommundelens behov i centrum."
+      }
+    ],
+    "motivateVote": "Vi har lagt motioner om äldreomsorgen, om nytt centrumhus i Deje, nya trygghetsboenden och mycket annat. \r\nNu går vi vidare med ett program för de kommande fyra åren.\r\nEn ännu bättre skola. Fler bostäder – runt om i kommunen. En plan för en klimatneutral kommun. Ökad jämställdhet. Satsning på integration. Utveckling av hemtjänsten. Mer samverkan med föreningar: fler gräsplaner för ungas fotboll!\r\n",
+    "name": "Liberalerna Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-forshaga"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "359",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom det till följd av inflyttning och folkökning finns ett växande behov av förskoleplatser så är fler förskolor ett sätt att möta det, alternativt att bygga ut de befintliga. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att rektorer ska få bestämma om arbetsmiljön i skolan och när de vill införa mobilförbud så är det rätt att de har den möjligheten ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att man ska kunna ha ett bra liv i alla åldrar här i kommunen. Många över 85 behöver anpassat boende, och det behöver vi som kommun vara förberedda för, så att den valmöjligheten finns tillgänglig.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, det är viktigt att anställda inte blir pressade under schemat, samtidigt behöver fasta tider ändå finnas för att tillgodose efterfrågan på omsorg. Äldre ska var trygga i att personalen infinner sig, vilket underlättas av i görligaste mån fasta tider. Utrymme behöver samtidigt finnas för oförutsedda händelser.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag såsom Forshagabostäder och Forshaga Fiber är viktiga då de fyller uppgifter som privata bolag inte behöver göra. T.ex vill inte privata bolag byggga nya hyresbostäder i kommunen trots att behovet är stort. Motsvarande gäller Forshaga Fiber.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi går till val på förkortad arbetstid i hemtjänsten. Exakt antal timmar per vecka och om nedgången i arbetstimmar ska ersättas 100% eller mindre är frågor som vi ser fram emot att diskutera med övriga partier.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Delaktighet är viktigt, och när det lämpar sig bör kommunala folkomröstningar vara en del av den demokratiska processen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kunskaper i svenska språket är viktigt, men även många andra språk är berikande för arbete i hemtjänst och äldreomsorg. \r\nVill man ta hjälp av språktest för att hjälpa anställda att förbättra sin svenska så må det vara hänt, men det bör inte användas som ett medel att stänga dörren för nya anställda.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla nuvarande och framtida kommuninvånare ges möjlighet till en bostad. Den vanligaste begränsningen är oftast inte utbud utan ekonomiska möjligheter att ta emot det som erbjuds. Det är viktigt att unga som gamla m.fl. inte blir ekonomiskt segregerade och här har kommunala bostadsbolaget FaBo en viktig uppgift.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata vinster i vård och omsorg tenderar att öka risken för att kvaliteten försämras, då de prioriterar vinning på bekostnad av att ge god vård och omsorg.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att minska fossila utsläpp behöver elfordon kunna laddas. För att detta ska kunna genomföras är det viktigt att kommunen är delaktig i den utvecklingen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser det är viktigt att skolan inte ska bli en marknad, men verksamhet som Forshaga Akademin är ett viktigt tillskott! ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det viktigt stärka stödet till kultur, natur och idrottsföreningar. \r\nKultur berikar demokratin och ökar livskvaliteten för invånarna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens ekonomi är god idag och vi bedömer att befintliga medel är tillräckliga för att klara kommande satsningar. Klimat och miljöåtgärder är dessutom oftast direkt lönsamma.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill bygga Forshagas samhällen mer barnvänliga, så att den nära, snabba och säkra vägen är till fots eller per cykel. För allas rörlighet är det viktigt att förbättra kollektivtrafiken, speciellt på kvällar och helger. Vi vill att alla elever ska få det stöd och den tid de behöver för att klara skolgången väl. ",
+        "value": [
+          "1090",
+          "1086",
+          "1089"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;C;C;B;D;C;A;D!;B;D!;2/5;3/5!;2/5;[1090,1086,1089]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det är vår förhoppning att Miljöpartiet kommer att kunna fortsätta ha inflytande på svensk politik, helst i regeringsställning. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ingen kommentar ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimatneutralt Forshaga",
+        "description": "I kommunfullmäktige i Forshaga har vi gemensamt beslutat att kommunen ska vara klimatneutral senast 2030. Vi vill verka för:\r\nAttraktivare kollektivtrafik\r\nlokala tankställen för el- och biogasfordon\r\nsolenergi från kommunala tak\r\ncykelbana till Kil\r\nökad andel ekologiska och närproducerade råvaror i kommunens kök"
+      },
+      {
+        "category": "Förkortad arbetstid",
+        "description": "Kommunens personal har gjort viktiga insatser för samhället, inte minst under coronan. För att ge personalen ett hållbart arbetsliv, så vill vi införa förkortad arbetstid. Vi tycker att det är lämpligt att först genomföra ett försök inom hemtjänsten."
+      },
+      {
+        "category": "Människovänlig samhällsplanering",
+        "description": "Vi vill bygga Forshagas samhällen mer barnvänliga, så att den nära, snabba och säkra vägen är till cykel eller till fots. Attraktiv närnatur ska vara en resurs för boende och besökare. Vi behöver bygga ut cykelvägar på landsbygden."
+      }
+    ],
+    "motivateVote": "Att värna om miljön och motverka hänsynslös exploatering för kortsiktig vinning är en ödesfråga för mänsklighetens fortlevnad, och inget annat parti tar denna fråga på tillräckligt stort allvar. ",
+    "name": "Miljöpartiet Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-forshaga"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "360",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen växer snabbt och därmed behovet av förskolor. Under 2022 öppnas flera nya avdelningar men här måste kommunen ha en planberedskap för ytterligare förskoleavdelningar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara ordning, reda och lugn på lektionerna. Ett mobilförbud är ett sätt att nå det målet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan absolut bli bättre på att anpassa boende för personer som efter biståndsbedömning anses vara i behov stöd och hjälp. Detta gäller oavsett ålder.  Vi bör därför rent budgetmässigt prioritera vård-och omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den omfattning det förekommer måste vi arbeta för att minutscheman där explicita minuter anges för brukare bör det tas bort. Vi arbetar med människor!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där finns en politisk enighet om att något sådant inte ska förekomma.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den situation vi och andra kommuner befinner sig där behovet av undersköterskor är stort tror vi inte att det i dagsläget är genomförbart. Däremot ska vi hela tiden arbeta för att vara en bra arbetsgivare där dialogen med fackliga organisationerna är viktigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på den representativa demokratin där medborgarna väljer sina ombud på valdagen. Huvudregeln måste därför vara att ansvaret ligger hos valda politiker. Det kan finnas tillfällen där det är relevant att lyssna in folkviljan via kommunala folkomröstningar. Det kan handla om t.ex en större vindkraftspark.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre brukare av kommunal service har rätten att förstå och bli förstådda. Ett grundläggande krav är naturligtvis att personalen kan prata svenska. Det kan ske via språktest men vi har förtroende för de chefer som anställer att man beaktar detta redan idag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara nödvändigt initialt för att stressa marknaden. Fler hyreslägenheter behövs i både Deje och Forshaga tätorter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det den kvalitet som erbjuds våra brukare det väsentliga Om, det sedan sker via enskild aktör eller kommunen är oviktigt.. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det klan inte vara en kommunal uppgift att stå för en i grunden statlig eller privat infrastruktursatsning. Våra skattepengar behövs inom äldreomsorg, skola och socialtjänst.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "Vi har redan en stor privat aktör inom skolan i Forshaga akademin. Det är för gymnasieskolan och i övrigt är nästan all skolverksamhet kommunal. Vi säger inte nej om någon privat vill etablera sig men vi tror att det är osannolikt då vår kommun ligger nära Karlstad där det finns ett antal enskilda aktörer. Inom förskolan har vi idag några aktörer som är enskilda och det fungerar bra. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt och kommunen satsar på bibliotek samt stöd via föreningsbidrag till olika aktörer inom kultursektorn.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill naturligtvis sänka skatten men vi vore inte trovärdiga om vi i dagsläget föreslog skattesänkningar, givet de utmaningar  kommunen har de närmaste åren. Vi säger dock bestämt nej till skattehöjningar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;D!;D;D;B;B;D;C;C;A;2/5;2/5;2/5;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill slå vakt om det skydd våra grundlagar ger människor och media. Det kommunala självstyret är viktigt och staten bör inte inskränka det på något sätt. Det är inget som skiljer oss mot partiet centralt men ett starkare fokus vore önskvärt,.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se hela kommunen växa. Idag har en dynamisk och positiv utveckling i i södra delen av kommunen. Det är bra och något vi vill bygga vidare på I norra delen, tätorten Deje och landsbygden i kommunen ser vi stagnation, tillbakagång och missnöje. Det vill vi ändra på, vilket också låter södra delen minska på bördan att bära kommunen. M vill Marknadsföring, detaljplaner, lägre markpriser i norr",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samtalar ed alla demokratiska partier och därmed utesluter vi ingen.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela kommunen ska leva!",
+        "description": "Kommunen upplever f.n en stark attraktionskraft och vi vill aktivt verka för att detta kommer hela kommunen till del.\r\nTätorterna som måste synas bättre och vi vill förbättra infarterna genom skyltning, belysning m.m. Forshaga kommun ska fortsätta att växa med flerdetaljplaner för boende och företagande. Vi vill också genomföra en uppfräschning av Forshaga/Deje centrum. Satsa också på landsbygden!"
+      },
+      {
+        "category": "1000 kronor mer!",
+        "description": "Vi vill ge tillsvidareanställda undersköterskor inom äldreomsorgen 1000 kr/månaden som en särskild bonus. Undersköterskorna behöver ett lönelyft dels för att uppvärdera deras arbete men också för att attrahera undersköterskor att jobba i vår kommun."
+      },
+      {
+        "category": "Mobilförbud i skolan",
+        "description": "Ordning och reda på lektionerna är en förutsättning för lärande. Därför vill vi ha ett mobilförbud under lektionstid på samtliga våra skolor. Brott som begås på skolan ska alltid polisanmälas. Skolan ska inte utreda brott - det är polismaktens uppgift. Vi vill öka tryggheten på gator och torg. Kommunen bör därför anställa ordningsvakter så ingen ska behöva vara rädd att vistas ute."
+      }
+    ],
+    "motivateVote": "Vi sätter alltid den enskilde individen främst. Vi tror på frihet o också ansvar. För oss är människan fräst till skillnad från våra politiska motståndare som tror på stora system som lägger livet tillrätta. I Forshaga kommun behövs maktskifte, där socialdemokraterna styrt i 28 år. Det är en trött socialdemokrati, utan idéer som låter tjänstemän/personer skriva fram ärenden som sedan genomförs.   ",
+    "name": "Moderaterna Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-forshaga"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "361",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen växer och det finns ett stort behov av nya förskolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan idag finns möjligheter att använda sig av digitala verktyg i undervisningen i den utsträckning som behövs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en behovsfråga snarare än en åldersfråga. Du kan vara 66 år och vara i stort behov av ett anpassat boende. Det är behovet som ska styra och inte åldern.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "En god och nära vård har sin utgångspunkt i de behov som brukaren har och att personalen har möjlighet att stödja i aktuellt behov. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är alltid viktigt att kommunala bolag verkar inom kommunal lagens intentioner.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "En bra ambitionsnivå som behöver tid och pengar för att kunna genomföras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en demokratisk rättighet och möjlighet. Den tar dock sällan hänsyn till helheten för kommunen och riskerar att förenkla komplexa frågor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den enskilde brukare har alltid rätt att kunna kommunicera med den personal som den möter i sin vardag. Hur det säkerställs kan ske på olika sätt. Det är snarare än ledningsfråga med hur man fördelar personal utifrån kunskaper i olika språk och färdigheter. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har alltid intresse  av att det finns lämpliga bostäder med rimlig hyra. Det man kan önska är att det finns möjligheter för statligt stöd till kommunala bostadsbolag att satsa på bostadsbyggande där hyran blir låg.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "De skattemedel som bekostar äldreomsorg och hemtjänst ska användas i verksamheten och inte vara ett medel för att kunna ta ut privata vinster.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här behövs ett gemensamt ansvar både från statligt, kommunalt och privata intressen för att kunna bygga ut laddstolpar i den omfattning som behövs för att klara våra miljömål.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "De skattemedel som finansierar skola ska användas i verksamheten och inte finansiera privata vinster.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Barn, ungdomar och äldre ska ha en god tillgång till olika kulturella upplevelser. Därför behöver bland annat kulturskolan kunna både behålla och även till viss del utveckla sin verksamhet. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": "Utmaningen är stor bland de skattefinansierade verksamheter. Demografin, prisutveckling och höga välfärdsmål utesluter inte eventuella framtida förändringar av kommunalskatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": "1.Bygga fler förskolor utifrån det behov som finns.\r\n2.Våra ungdomar ska vara väl förberedda för studier och arbetsliv.\r\n3.Trygg och individanpassad äldreomsorg.\r\nEn del av de förslag som kunde väljas är inte våra aktuella frågor och som vi inte heller har svarat på i valkompassen. De frågor som S prioriterar är de tre som vi skrivit här i fritext. En mycket märklig konstruktion på frågan. ",
+        "value": [
+          "1090",
+          "1086",
+          "1093"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;D;C;C;B;B;C;A;C;2/5;3/5;2/5;[1090,1086,1093]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "S lokalt önskar en tydligare styrning av utbyggnaden av infrastrukturfrågor t ex järnväg, vägar och laddstolpar på landsbygden. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "S går till val som eget parti som söker egen majoritet. Det är valresultatet som är grund för vilka dialoger som S kan ha med övriga partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det är viktigt för S  att det finns en gemensam värdegrund att styra utifrån",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En stark offentlig äldreomsorg med kvalitet",
+        "description": "Behoven ska styra omsorgen . Integritet, respekt, självständighet och delaktighet är viktigt för att äldreomsorgen ska hålla hög kvalitet och den äldres rätt till självbestämmande. Därför vill S ta bort minutscheman och låta den äldres behov mer styra tiden i hemtjänsten. Utveckla anhörigstödet inom omsorgen. Införa en \"fixarservice\" till våra äldre inom digitalisering och det egna hushållet."
+      },
+      {
+        "category": "Öka möjlighet till fina boendemiljöer i hela kommunen.",
+        "description": "Med bra möjligheter för en växande kommun  vill vi planera för fler förskolor i våra bostadsområden. Vi vill fortsätta satsa på älvnära promenadstråk. Det ska finnas möjlighet till grönområden för lek och avkoppling. Fortsatt bygga ihop nya och gamla bostadsområden med cykelbanor. Vi vill utveckla en egen solcellspark för att arbeta vidare för en klimatneutral kommun."
+      },
+      {
+        "category": "Ett livslångt lärande",
+        "description": "Alla barn ska ges en god start i livet. Förskolan och skolan ska ge förutsättningar för ett livslångt lärande. Inget barn ska halka efter eller hållas tillbaka. Läxhjälp erbjuds till de som behöver. Våra ungdomar ska vara väl rustade för gymnasiet och kommande arbetsliv. En stark studie- och yrkesvägledning, fortsatt brett utbud av kulturskolans verksamhet, trygg och inspirerande studiemiljö."
+      }
+    ],
+    "motivateVote": " Redan idag tar S ett stort ansvar för helheten. Vår kommun växer och nya utmaningar kommer. S ska fortsätta bygga en kommun som är hållbar idag och i framtiden. S tar ansvar för kommunens klimatomställning och för att fortsätta utveckla en stark offentlig välfärd inom  barnomsorg, skola och äldreomsorg. Trygghet genom livet ger möjlighet att bo och leva i hela vår kommun.         ",
+    "name": "Socialdemokraterna Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-forshaga"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "362",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan bli verklighet en vacker dag, men behöver utredas först.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar är viktiga när det gäller saker som berör stora grupper av människor i ett geografiskt område, till exempel när en byskola planeras att läggas ned. Då kan det vara viktigt att avlyssna opinionen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddinfrastrukturen måste byggas ut för att klara omställningen på sikt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1085",
+          "1091",
+          "1087"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;C;D;B;C;C;D;C;C;C;2/5;2/5;2/5;[1085,1091,1087]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det behövs en ny politisk ledning i Forshaga kommun.. Där vill SD gärna vara en del av styret.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan samarbeta med alla. Vi har ingen hink och spade.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunal utveckling",
+        "description": "Vi anser att hela kommunen skall leva och utvecklas för alla medborgares väl och ve! Så att inte vissa delar av kommunen glöms bort, framförallt T.ex. Ullerud!"
+      },
+      {
+        "category": "Treenighet.",
+        "description": "Treenigheten, invånarna, näringsliv och kommunen ska stå stadigt tillsammans."
+      },
+      {
+        "category": "Skola Vård och omsorg",
+        "description": "Livskvalitet genom hela livet, för allas lika värde."
+      }
+    ],
+    "motivateVote": "Vill ni se en framåtsträvande kommun med ansvarsfulla politiker som era företrädare, då röstar man på SD.",
+    "name": "Sverigedemokraterna Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-forshaga"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "363",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "787953f4a8ec03ac413d45ab95146a8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det föds fler barn då krävs det förskolor. Enkel ekvation.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5064f61d4ce61a09a17756cac5424d15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ingen politisk fråga utan en professionsfråga. Lärare, skolledare och elever avgör detta tillsammans och möjligheten finns redan i dag. Detta är en fråga som inte hör hemma i politiska församlingar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c49d4daebf5ce9dac4c81c77d5783f93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men ärligt talat, vård och omsorg ska garanteras utifrån behov och inte ålder.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15dca59bc73afeb7699c83bc0f55f93a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Minutschema är en absurditet. Tidsstudiemannen är liemannens sändebud. Minutschema leder till sämre omsorg för dem som behöver och sämre arbetsmiljö med ohälsa som följd för anställda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad806b50818c9602c73a351ab05c7d3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gemensamt ägande är bättre och förvandlar inte skattemedel till profit.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e37ff52547f60d61b84e4c1d6d9eca6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket bra, men inte bara inom äldreomsorgen. Sex timmars arbetsdag bör bli det nya arbetstidsmåttet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb87efeedc9d5a73dfa9117e2f5977d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att formulera folkomröstningsfrågor som inte blir banala och sådana frågor bör de folkvalda ändå kunna fatta beslut om. Folkomröstningar kan bli ett sätt att undvika politiskt ansvar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f4172d3460638124e25a083945ca4af5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs inget språktest utan det är hyggligt uppenbart om någon kan, eller inte kan, ett språk och eventuell anställningsbarhet inom hemtjänst eller äldreomsorg. Språktest är ett dolt sätt att institutionalisera indirekt rasism.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "224517a613cc430cb978e9ffd4d6de22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ligger i linje med Vänsterpartiets politik.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1b711ccc65b3a333acf087b8d060204e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha gemensamt ägande av samhällsservice. Grundläggande ideologisk fråga för Vänsterpartiet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "825e442d55cb44d143834ce39c6f86be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatomställningen kräver en utbyggd infrastruktur av bland annat laddmöjligheter. Marknadslösningar betyder enbart att det byggs där det går att maximera vinster och då väljs det som är mindre lönsamt bort.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac2274cf8776a2c4474e9c4f1386e70d",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha gemensamt ägande av samhällsservice. Grundläggande ideologisk fråga för Vänsterpartiet.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "3f0d97ebabef6c931979e54f61c9bfb2",
+        "questionType": "RANGE",
+        "reasoning": "Det saknas skolbibliotek på ett flertal skolor i kommunen och bibliotek är en av de viktigaste kulturinstitutionerna som barn och ungdomar möter.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "7fb71e48cc39842cc5bcbe9d98aaf1bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a9cd35a7df9909b982741cdbde9d00f",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi säger jämställda löner i kommunen, bättre kollektivtrafik under helger samt att bättre personalkontinuitet inom hemtjänsten, alltså att brukare möter färre personer som hjälper dem.",
+        "value": [
+          "1089"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;C;D;A;D;A;A;D;A;D;0/5;4/5;2/5;[1089]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi önskar ett styre som svänger vänsterut i kommunpolitiken.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jämställda löner för kommunens anställda",
+        "description": "Kommunens anställda kvinnor tjänar mindre än kommunalt anställda män. Det finns inget rimligt motiv att det ska vara så. Jämställda löner är förutom en viktig markering, betydelsefullt för att höja kvinnors livsinkomst och därmed en bättre pension. Ett jämlikt och jämställt samhälle är ett bra samhälle."
+      },
+      {
+        "category": "Bättre kollektivtrafik under helger",
+        "description": "Bättre kollektivtrafik på helgerna, till exempel genom kommunalt tillköp av trafik. En väl fungerande och prisvärd kollektivtrafik är en viktig utjämnande insats. Idag är det ungdomar, kvinnor, äldre och de med funktionsvariation som främst utnyttjar kollektivtrafiken, alltså grupper som inte har egen bil i lika hög grad. Det ska vara lätt att göra ett klimatvänligt val, även under helger."
+      },
+      {
+        "category": "Antal personal som brukare inom hemtjänsten möter bör minska",
+        "description": "Personalkontinuitet, alltså antal personal som en brukare möter under 14 dagar, har över tid legat högt för Forshaga kommun. Verksamheten bör organisera så att goda arbetsvillkor går hand i hand med god personalkontinuitet för brukarna."
+      }
+    ],
+    "motivateVote": "Vi vill:\r\n- se en arbetstidsförkortning med bibehållen lön och försök med sex timmars arbetsdag,\r\n- behålla samhällsservice i kommunal regi,\r\n- att resurser tilldelas så att alla barn når så långt de kan i skolan,\r\n- miljöaspekten vägs in vid alla inköp och nybyggen,\r\n- att  medel till föreningar och arrangemang fördelas utifrån\r\nett jämlikt och jämställt perspektiv.\r\n",
+    "name": "Vänsterpartiet Forshaga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-forshaga"
+  }
+]

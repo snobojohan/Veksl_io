@@ -1,0 +1,1028 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2362",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla människor förtjänar att möta vården utifrån sina förutsättningar. Då personal ständigt byts ut måste utbildning ges kontinuerligt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken ska alltid vara trygg och andra åtgärder måste genomföras istället, till exempel flexibla nattstopp och tillgängliggöra trygghetsnumret via till exempel Skånetrafikens app.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rätt patient ska finnas på rätt vårdnivå. Vårdcentralerna ska stärkas så att fler kan få sin vård nära. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgängligheten och valfriheten måste öka och alla resurser användas för både diagnos och behandling. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionen ska göra allt de kan för att rädda klimatet. Att utlysa nödläge hjälper inte. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra arbetsmiljö med möjlighet att påverka sitt eget schema är viktigare, vi behöver fler barnmorskor i tjänst, inte färre. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Det är rimligt att en relativ stor del betalas av den som åker medan resten betalas av skattekollektivet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Alla resurser måste användas för att korta köer. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Regionen ska inte ta ut mer skatt än vad som behövs. Det är viktigare att de pengar som invånarna betalar i skatt går till rätt saker. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2102",
+          "2099",
+          "2101"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;B;D!;D!;B;B;2/5;3/5;2/5;[2102,2099,2101]",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Centerpartiet i Skåne har fler frågetecken kring höghastighetsbanan. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta att styra med våra nuvarande allians-kollegor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Sveriges överlevnad kräver en skånsk levande landsbygd",
+        "description": "Den skånska landsbygden är viktig för Sveriges beredskap. 50 procent av all svensk livsmedel produceras i Skåne. Åkermark måste bevaras, lönsamheten måste förbättras och möjligheter att bo och verka i hela Skåne måste stärkas."
+      },
+      {
+        "category": "Vårdkvalitet först, organisation sen",
+        "description": "Driftsformen är oväsentlig. Offentlig, privat eller idéburen – alla resurser måste användas och samma krav på vårdkvalité måste ställas och följas upp."
+      },
+      {
+        "category": "Framtidens vård kräver modernare arbetssätt",
+        "description": "Digitalt när det är möjligt och fysiskt när det går. Moderna verktyg måste användas för att avlasta så att personalen kan användas för fler patientmöten."
+      }
+    ],
+    "motivateVote": "Centerpartiet vill ge kraft åt varje skåning att leva sitt liv fullt ut. Vi vill att hela Skåne ska leva, både nu och i framtiden. Med hjärta, beslutsamhet och sunt förnuft ser Centerpartiet positivt på Skånes framtid.",
+    "name": "Centerpartiet Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-skane"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2363",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla personer som behöver hjälp i Region Skåne ska bemötas på rätt sätt och med respekt. Särskilt viktigt är det när det kommer till hälso- och sjukvården. Det är viktigt att det finns utbildning för detta inom Region Skåne, det gäller även HBT+-personer. Däremot tror vi att det är bättre och mer kostnadseffektivt att göra det inom Region Skåne istället för att anlita oss av externa organisationer",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trygghet inom kollektivtrafiken är jätteviktigt. Det är därför vi varit med om att införa trygghetslinjen inom Skånetrafiken. Dessutom har vi ett pilotprojekt med flexibla nattstopp. Ordningsvakter kan användas som komplement om det skulle behövas i enskilda fall men är inte en generell och effektiv lösning på problemet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste vara naturligt för alla att primärvården är där man först söker vård. Det kan inte bara avlasta akutmottagningarna som kan fokusera på de akuta fallen utan blir också bättre för patienterna. Därför vill vi också att 90% av skåningarna ska få en fast läkarkontakt under nästa mandatperiod. Det ska vara lika självklart att kunna namnet på sin läkare som sin frisör",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker fortsatt det är ett bra förslag att införa ett vårdval inom barn och ungdomspsykiatrin. Antalet remisser till BUP har mer än dubblerats de senaste årtiondet och den psykiska ohälsan bland unga ökar. Det kräver en kraftsamling av alla. Därför menar vi att genom att öppna upp för fler aktörer och jobba tillsammans med dem kan vi stärka arbetet mot den psykiska ohälsan bland unga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatfrågan är en av de viktigaste frågorna vi står inför. Därför måste vi jobba med att minska regionens utsläpp inom sjukvården och kollektivtrafiken, minska svinn på mat och läkemedel och verka för mer och bättre mat som är närproducerad. Däremot att utlysa ett nödläge är bara plakatpolitik utan någon som helst effekt. Vi jobbar hellre med praktisk politik än symbolpolitik för klimatet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsmiljön måste bli bättre på förlossningsvården. I det ingår självklart att barnmorskor och all annan vårdpersonal ska få lättare att få olika former av anställningar och jobba med olika saker. Däremot tror vi inte att en generell arbetstidsförkortning är lösningen. Fler barnmorskor och undersköterskor behöver anställas på förlossningsvården. Det är viktigt för patienten och för arbetsmiljön.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Det är bra uppdelning mellan skattepengar som subventionerar kollektivtrafiken och en egenavgift. Vi hoppas att fler åter väljer kollektivtrafiken efter pandemin så att självförsörjningsgraden också ökar. Vi är ett parti som främst prioriterar sjukvården. Om regionen får mer pengar kommer vi argumentera för att de istället läggs på hälso- och sjukvården.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Det är svårt att säga. Det är bra med både privata och offentliga aktörer inom sjukvården. Inom vissa områden ser vi gärna fler privata aktörer, till exempel inom barn- och ungdomspsykiatrin. Samtidigt finns det områden där vårdval eller ackrediteringsvillkor måste förändras och förbättras. Det är olika behov inom olika områden.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga förslag på att höja skatten i Region Skåne. Vi har under de senaste åren sagt nej till förslag om skattehöjningar från vänstern. Det är viktigt att vi inte tar ut mer än nödvändigt från skånska familjers plånböcker och regionskatten behöver inte höjas i dagsläget.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": "Den viktigaste uppgiften vi står inför är att minska köerna. Där kommer det behöva anställas fler men enbart det kommer inte att räcka, vi måste jobba på nya och effektivare sätt regionövergripande. Där har vi haft framgångsrika exempel i Skåne på hur man effektivt arbetat ner köerna, som fler kan ta efter.",
+        "value": [
+          "2096",
+          "2102",
+          "2095"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;B;D!;D!;A;B;2/5;2/5;2/5;[2096,2102,2095]",
+    "color": "#331D79",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja, vi vill att staten ska ta ett större ansvar för sjukhusinvesteringar innan förstatligandet.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "- Vi går till val på att fortsätta styra ihop med de borgerliga partierna vi styr med i idag. Det styret har fungerat väl och det vill vi gärna fortsätta med. Sen är det valresultatet som avgör vilka styren som är möjliga men vårt mål är att bli omvalda med de borgerliga partier som styr idag.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "- Det enda vi utesluter är att sitta i ett styre under socialdemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inför nationell vårdförmedling",
+        "description": "Skåningarna ska kunna söka vård på andra ställen där det finns kapacitet – nationell plattform med tydlighet var och när det finns möjlighet att göra ingrepp runt om i Sverige."
+      },
+      {
+        "category": "Nivåstrukturera mera inom den skånska sjukvården",
+        "description": "Mindre sjukhus ska få större uppdrag med planerad sjukvård. Större sjukhus ska hantera mindre andel planerad sjukvård för att kunna förbättra tillgängligheten."
+      },
+      {
+        "category": "Fler vårdplatser i Skåne",
+        "description": "Skånes befolkning växer och därmed måste åka skåningarna få fler vårdplatser. Målet ska vara en beläggning på 90% i snitt."
+      }
+    ],
+    "motivateVote": "- För att på riktigt vända utvecklingen i hälso- och sjukvården behöver vi ändra själva systemet. Staten behöver ta över ansvaret för sjukvården från regionerna, dels för en mer jämlik sjukvård men också för att det ska vara ett samlat ansvar för sjukvården. Till dess finns mycket att göra. Psykiatrin behöver stärkas, fler behöver få en fast läkarkontakt och vårdplatserna behöver bli fler.",
+    "name": "Kristdemokraterna Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-region-skane"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2364",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är ställd som att Region Skåne har upphört att HBTQI-utbilda sin personal. Det stämmer inte. Dock köper regionen inte längre in den utbildning som RFSL ger. Vi liberaler tycker att det är viktigt att Region Skånes medarbetare får HBTQI-utbildning. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna tycker inte att det är ett klokt sätt att använda skattemedel på. Det finns andra sätt för att minska fuskåkande och öka säkerheten ombord. Vi har exempelvis infört livekameror på vissa busslinjer. Dessa möjliggör för föraren att exempelvis sända live till trafikledningen, som i sin tur kan vidta snabba åtgärder. Det ökar tryggheten och fungerar brottsförebyggande.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdcentralerna ska vara skåningens första kontakt med vården. Om vårdcentralerna har tillräckligt med resurser minskar belastningen på akutsjukhusen samtidigt som tillgängligheten och tryggheten för den enskilde patienten ökar. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Psykisk ohälsa har ökat dramatiskt de senaste åren och alldeles för många ungdomar står i kö för att få stöd och hjälp. Då måste vi ta hjälp av de fristående alternativ som finns. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna menar att klimatfrågan kräver konkret politisk handlingskraft, inte symbolåtgärder. Under mandatperioden har vi liberaler tagit initiativ till en rad beslut som minskat regionens klimatavtryck. Det handlar bland annat om att få ner matsvinn och att återbruka möbler och byggmaterial. Det gör skillnad på riktigt. \r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag brist på barnmorskor. Liberalerna vill satsa på arbetsmiljön så att fler vill arbeta i  förlossningsvården.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna tycker att det idag är en bra mix mellan skatte- och egenfinansiering. Däremot ser vi att turtätheten behöver öka, främst utanför de större orterna. Prissättningen i trafikzonerna måste omarbetas för ett mer rättvist pris som anpassas mer efter hur skåningarna faktiskt reser.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna är för konkurrens och tror att fristående alternativ är bra. Det är dock viktigt att konkurrensutsättning sker med förnuft. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Region Skåne har en god ekonomi, tack vare Allians för Skånes målmedvetna arbete. Liberalerna ser därför inget behov av att öka skattenivån. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2100",
+          "2096",
+          "2102"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "C;B;D!;C;A;B;2/5;2/5;2/5;[2100,2096,2102]",
+    "color": "#1e69aa",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalernas förstahandsalternativ är att fortsätta styra tillsammans med de partier som utgör Allians för Skåne. Vi har haft ett välfungerande samarbete i många år och vill fortsätta att styra tillsammans. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Liberalerna kommer inte att sätta sig i ett styre tillsammans med SD och V. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rätt vård i rätt tid för fler skåningar",
+        "description": "Liberalerna vill se fler medarbetare i vården, nyttja operationskapaciteten bättre och satsa på vårdcentralerna. Senast 2024 ska skåningar som önskar ha en fast läkarkontakt på sin vårdcentral. Liberalerna vill införa ett tak för hur många personer som varje läkare maximalt ansvarar för. Det kommer stärka tillgängligheten och tryggheten för patienten samtidigt som arbetsmiljön blir bättre."
+      },
+      {
+        "category": "Från bristyrke till drömjobb",
+        "description": "Medarbetarna är vårdens viktigaste resurs. Alla som arbetar i den skånska vården ska trivas på sin arbetsplats och ha inflytande över sin arbetssituation. Vi vill skapa tydliga karriärmöjligheter, ge medarbetarna större möjlighet att påverka sitt schema för att få ihop sitt livspussel, höja ersättningen för arbete vid obekväm arbetstid och utöka möjligheten till fortbildning och specialisering."
+      },
+      {
+        "category": "En stabil och grön elförsörjning i Skåne",
+        "description": "När Skånes städer växer, företagen utvecklas, när transportsektorn och industrin elektrifieras ökar efterfrågan på el. Det maximala effektbehovet i Skåne förväntas öka med 30 procent till 2040. Att säkerställa en trygg elförsörjning är därför avgörande för vår regions utveckling. För att klara tillväxten och klimatmålen måste tillgången till fossilfri el garanteras."
+      }
+    ],
+    "motivateVote": "Liberalerna i Region Skåne går till val med en omfattande reformagenda för att korta vårdköerna och förbättra villkoren för Region Skånes medarbetare. Liberalerna är vårdcentralernas företrädare i regionpolitiken. Vi vill att alla skåningar ska ha nära till en vårdcentral som kan erbjuda högkvalitativ vård. Som patient ska du ha rätt till egen husläkare som har god kännedom om dig och dina behov. ",
+    "name": "Liberalerna Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-region-skane"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2365",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många HBTQI-personer känner att vården inte lyssnar på dem eller att de blir dåligt bemötta, ofta på grund av sjukvårdens bristande kunskap kring HBTQI-frågor. Därför undviker de i vissa fall att söka vård. Generellt är hälsan sämre hos HBTQI-personer. MP var starkt kritiska när M, C, L och KD la ner HBTQI-utbildningen och har sedan dess arbetat för att den ska återinföras och byggas ut. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara enkelt, trivsamt och tryggt att använda kollektivtrafiken i Skåne. Att sätta in ordningsvakter på regionens bussar är en väldigt kostsam och omotiverad åtgärd. Vi anser att det är klokare att använda pengarna till andra trygghetsåtgärder samt till att utveckla kollektivtrafiken.   ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "MP vill att det blir enklare för dig som patient att snabbt och enkelt få vård. Vi vill se en stor satsning på primärvården och på det förebyggande folkhälsoarbetet. Vi vill också ha fler specialister inom olika discipliner på vårdcentralerna och göra det möjligt att få hjälp av sjukhusens specialister direkt på vårdcentralen. Detta kommer att avlasta sjukhusen och korta köerna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "MP vill genomföra ett stort psykiatrilyft i Skåne, med betydligt mer resurser till BUP. Dagens långa köer, där barn tvingas vänta i månader eller i vissa fall över ett år på att få hjälp, är helt oacceptabla. Ett vårdval är inte lösningen, vilket Region Skånes egen utredning visat. Tvärtom skulle ett vårdval ge dyrare och sämre vård.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatkrisen är akut. MP vill att Region Skåne driver en tuff klimatpolitik och kraftigt minskar utsläppen. Vi vill skrota klimatskadliga subventioner till flygplatser, satsa på kollektivtrafiken istället för att bygga bredare motorvägar och satsa på klimatneutralt byggande när regionen bygger nya sjukhus. Vi vill dessutom ha en koldioxidbudget och införa ett klimatpolitiskt råd.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "MP vill genomföra en stor satsning på förlossningsvården i Skåne. De senaste åren har krisrubrikerna avlöst varandra, med barnmorskor som inte hinner gå på toaletten eller äta lunch. Stressen får barnmorskor att säga upp sig. Vi vill ha kortare arbetstider, högre löner, bättre scheman och mindre övertid. Då blir det attraktivare att jobba som barnmorska och personalflykten kan stoppas.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Kollektivtrafiken i Skåne ska vara billig, snabb och enkel att använda. Miljöpartiet anser att det behövs en stor regional och statlig satsning på billigare biljettpriser och en mer utbyggd kollektivtrafik, efter flera år av Alliansstyrets nedskärningar.  Billigare biljettpriser och fler avgångar leder till fler resenärer, vilket också är en stor klimatvinst.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "MP vill ha en stark offentlig vård, där adress och plånbok inte spelar någon roll för den vård patienten får. Vi säger bestämt nej till att sälja ut akutsjukhus och är kritiska till att Alliansen slentrianmässigt lagt ut vård på privata företag. Vi vill däremot se tätare samverkan med idéburna organisationer och icke vinstdrivande företag samt underlätta för personalkooperativ.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Region Skåne har en av Sveriges lägsta regionskatter. Samtidigt är köerna till sjukvården orimligt långa, personalen går på knäna, sjukhusen har tvingats till stora sparpaket och Skånetrafiken har dragit ner på kollektivtrafiken. Vi vill framförallt se mer statlig finansiering, men även regionskatten kan behöva höjas. Det är pengar som i så fall ska gå direkt till sjukvård och kollektivtrafik.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": "Snålfinansieringen av den skånska sjukvården måste upphöra. Den gångna mandatperioden har sjukvården drabbats hårt av stora sparpaket. Detsamma gäller kollektivtrafiken, med indragna bussturer och nedlagda linjer som följd. MP vill ha en annan politik i Region Skåne, med satsningar både på sjukvården och kollektivtrafiken.",
+        "value": [
+          "2096",
+          "2097",
+          "2098"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;A;C!;A;D!;D!;4/5!;1/5!;3/5;[2096,2097,2098]!",
+    "color": "#82c882",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. Tvärtom har Miljöpartiet i riksdagen lagt förslag om att öka de statliga satsningarna på sjukvården och kollektivtrafiken. Det är betydande resurstillskott som skulle bidra till kortare köer i sjukvården och en bättre kollektivtrafik, med fler avgångar och lägre biljettpriser i Skåne.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi tror att Region Skåne bäst styrs av ett rödgrönt styre efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa mer på sjukvården och dess personal",
+        "description": "Både personal och patient ska må bra i den skånska vården. Alla skåningar ska få snabb och rätt hjälp oavsett om det handlar om cancer, ett brutet ben eller psykisk ohälsa. Region Skåne måste satsa mer på personalen, med högre löner, bättre scheman, mindre övertid och fler kollegor. Mer resurser behöver läggas på det förebyggande hälsoarbetet, som sparar senare kostnader och ger ökad livskvalitet."
+      },
+      {
+        "category": "Satsa på det som är hållbart",
+        "description": "Det måste bli enklare och billigare att åka kollektivt både i stan och på landsbygd. Skåne ska knytas ihop med mer järnväg och bussförbindelser, inte med sexfiliga motorvägar. Elen i Skåne ska produceras med effektiv havsbaserad vindkraft istället för radioaktiv kärnkraft. Det ska vara lätt att ta sig ut i naturen och njuta av vad naturen har att ge."
+      },
+      {
+        "category": "Satsa på likarätt, kultur och föreningsliv",
+        "description": "Skåne ska präglas av en tillit som låter människor vara den hen vill vara och älska den hen vill älska. Därför måste Region Skåne återuppta sitt HBTQI- och demokratiarbete. Kultur och föreningsliv behöver mer stöd. Alla skåningar ska få utrymme att lyckas och njuta av den kultur, eller mångfald av kulturer, som de gillar. Alla ska ges möjlighet att bidra utifrån de förutsättningar var och en har."
+      }
+    ],
+    "motivateVote": "Det behövs ett grönt parti som driver på i klimat- och miljöfrågor, även i Region Skåne. Tyvärr har dessa frågor prioriterats ner den gångna mandatperioden, och det vill vi ändra på. Vi driver också på för mer resurser till psykiatrin, kvinnosjukvården och för att personalen ska få en hållbar arbetsmiljö. Det här är frågor vi brinner för och som inte prioriteras tillräckligt av andra partier.",
+    "name": "Miljöpartiet Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-region-skane"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2366",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Skåne har redan ett mycket aktivt likarättsarbete. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar passagernas och förarnas trygghet genom övervakningskameror, trygghetsnummer och flexibla nattstopp. Ett införande av ordningsvakter måste motiveras av att det finns ett behov. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vård som inte behöver utföras på sjukhus ska flyttas närmare patienterna, bland annat till vårdcentralerna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Erfarenheter från andra regioner som infört vårdval inom barn- och ungdomspsykiatrin visar på kortare köer, ökad tillgänglighet och större patientnöjdhet. Det är dessutom särskilt viktigt att barn- och unga får möjlighet att välja psykolog. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Skåne ska leverera god vård och fungerande kollektivtrafik. Det gör vi givetvis med hänsyn till klimatet. Vi anser inte att utlysande av klimatnödläge är regionens uppgift. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Skåne arbetar redan aktivt med arbetstidsförkortning i olika avtal. Den som arbetar natt har förkortad arbetstid med nästan 8 timmar i veckan redan. Det är en fråga för arbetsgivare och fackförbund att komma överens om.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Kollektivtrafiken har återhämtat sig otroligt bra efter pandemin, vilket gör att det finns tillräckligt med pengar för att erbjuda tillgänglig kollektivtrafik. En utbyggd kollektivtrafik måste styras av vad som är ekonomiskt hållbart.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga för oss är inte vem som bedriver vård, utan att vården som levereras är bra och tillgänglig för skåningarna. Det är viktigt för den utbildade vårdpersonalen att kunna välja mellan olika arbetsgivare och för patienten att kunna hitta vård som passar dennes behov - därför behöver vi en ökad kapacitet där regionen och privata vårdmottagningar hjälps åt. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Vår ambition är alltid att hålla skatten så låg som möjligt. Ser vi utrymme att sänka skatten utan att tumma på kvaliteten i vården och kollektivtrafiken så kommer vi att göra det. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2096",
+          "2102",
+          "2098"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;C;D;D;A;C;2/5;3/5;2/5;[2096,2102,2098]",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Att avskaffa elprisområdena så att vi får samma priser på el i hela landet. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Moderaterna är öppna för en rad olika alternativ som möjliggör att vi får igenom så mycket av vår egen politik som möjligt. Vi är beredda att samtala och samarbeta med alla. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kortade väntetider i vården",
+        "description": "Kortade vårdköer genom att flytta ut vård som inte behöver utföras på sjukhus till primärvården, nya arbetssätt som frigör mer tid för vårdpersonalen att träffa patienter, förebyggande arbete, möjlighet att välja mellan olika vårdmottagningar inom fler områden - både privata & regionala mottagningar behövs för en bättre kapacitet.  Mer resurser till vården måste ge mer vård."
+      },
+      {
+        "category": "En förändrad psykiatri för barn och unga",
+        "description": "Unga och föräldrar ska kunna välja psykolog och alla barn inom BUP ska ha rätt till en sammanhållen vårdplan med skolan. En person ska vara ansvarig för varje barns hela situation - så att barnet inte fastnar mellan olika utredningar och slussas mellan behandlingar som inte hänger ihop. Vi vill ha fler psykiatriambulanser i hela regionen."
+      },
+      {
+        "category": "Säkra Skånes elförsörjning",
+        "description": "Det behövs mer el till konkurrenskraftiga priser i Skåne och Sydsverige för att tillväxten inte ska hämmas. Vi behöver därför avskaffa elprisområdena. Sverige behöver börja planera för att vi även på regionala nivåer har ett överskott av elproduktion. Energipolitiken måste planeras efter prognoser om framtida behov - inte dagens - för att vi ska kunna klara den ökande efterfrågan på el."
+      }
+    ],
+    "motivateVote": "Vi är garanten för en stabil ekonomi i regionen. Vi tar ansvar och prioriterar en snabb och fungerande vård, upprustat väg- och järnvägsnät och vill ge större makt åt invånarna att själva bestämma. ",
+    "name": "Moderaterna Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-skane"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2367",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Skåne HBTQI-utbildar idag sin personal och det är viktigt att detta arbete fortsätter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ordningsvakter kan i vissa fall vara befogat vid bråk eller liknande, men generellt behövs inte ordningsvakter på bussarna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdcentralerna måste byggas ut, men det får inte ske på bekostnad av den specialiserade vården på sjukhusen. Hela sjukvården behöver mer resurser för att korta vårdköerna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdval i specialistvården är vare sig bra för patienterna eller för det samlade uppdrag som sjukvården har. Forskning, utveckling och utbildning blir lidande och riskerna är stora att de svårast sjuka patienterna får stå tillbaka för dem som har i sammanhanget lättare diagnoser. Istället vill vi bygga ut den offentliga vården. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi befinner oss i ett allvarligt läge och alla delar av samhället måste agera för att minska utsläppen. Region Skåne ska här göra sin del genom att minimera utsläppen av klimatgaser. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är generellt för bättre villkor för de som arbetar i Region Skåne, men det är inte rimligt att lyfta ut en yrkesgrupp. Avtal, löner och arbetstider måste vara en fråga för förhandling mellan fack och arbetsgivare. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Tågen behöver rustas upp och flera sträckor behöver högre kapacitet. Det är inte rimligt att passagerare tvingas stå hela eller delar av vägen till sitt arbete. En del busslinjer behöver också utökas och få fler avgångar. \r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Förhållandevis lite av den skånska sjukvården bedrivs idag av privata aktörer. Det är främst i primärvården som det privata inslaget är stort. Det systemet var vi med om att ta fram och har inga planer på att föreslå förändringar. Däremot kan det finnas skäl att återta vissa andra delar av sjukvården i egen regi. Främst här är ambulansverksamheten som vi menar bör drivas i egen regi. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Vi kan tänka oss lite högre skatt för att korta vårdköerna. Sjukvården kostar lika mycket oavsett var i landet du bor. Därför är det inte heller långsiktigt hållbart att Region Skåne har lägre skatt än övriga landet såsom fallet är idag. Den skånska skattesatsen kommer på sikt att behöva anpassas till rikssnittet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2096",
+          "2097",
+          "2101"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;B;C;A;C;C;3/5;1/5;3/5;[2096,2097,2101]",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi går till val med ett socialdemokratiskt styre som målsättning, men med tanke på dagens parlamentariska situation är vi naturligtvis öppna för olika samarbeten som kan ge ett bra och effektivt styre av Region Skåne. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att styra tillsammans med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "1.\tVårdköerna ska bort",
+        "description": "Alla ska garanteras vård enligt den nationella vårdgarantin, som innebär kontakt med vårdcentral samma dag, medicinsk bedömning inom tre dagar och besök i specialistvården, operation/åtgärd inom 90 dagar. \r\nS i Skånes främsta vallöfte är att få bort de extremt långa skånska vårdköerna. Alla sparpaket i vården måste bort, arbetsmiljön bli bättre, fler utbildningsplatser för vårdyrken skapas."
+      },
+      {
+        "category": "2.\tStopp för alla besparingar",
+        "description": "Under pandemin har det nuvarande alliansstyret i Region Skåne sparat på skånsk sjukvård varje år. Det är orimligt och har lett till sämre arbetsmiljö och längre vårdköer. Vi socialdemokrater lovar att ta bort alla sparpaket i den skånska sjukvården och anställa mer vårdpersonal."
+      },
+      {
+        "category": "3.\tKollektivtrafik",
+        "description": "På många mindre orter är turtätheten i kollektivtrafiken dålig. På de större pendlingsstråken är det snarare regel än undantag att man får stå delar eller hela vägen. Många tåg och bussar är också slitna. Den skånska kollektivtrafiken kan bli bättre. Vi vill förbättra turtätheten, öka kapaciteten så att alla kan få sittplats och förbättra underhållet på bussar och tåg."
+      }
+    ],
+    "motivateVote": "Vi accepterar inte att människor står i månad efter månad i kö för att få sjukvård som de har rätt till. Men så ser det ut idag. Socialdemokraterna är det parti som tar den här frågan på allvar. För att lösa det krävs mer resurser till sjukvården och bättre villkor för de som arbetar i skånsk sjukvård.",
+    "name": "Socialdemokraterna Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-skane"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2368",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla människor oavsett individuella förutsättningar ska bemötas korrekt och med samma respekt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tyvärr förekommer hot och våld inom  kollektivtrafiken och då behövs det  ordningsvakter för att trygga resorna för både resenärer, bussförare och kontrollanter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdköerna kan kortas genom att omfördela resurser till vårdcentralerna. Då frigörs tid på sjukhusen så att de bättre kan fokusera på sina specifika uppgifter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan har utretts och utredningen visar att risken för bristande vårdkedjor är stor, det vill säga nackdelarna överväger fördelarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige står för cirka en promille av världens utsläpp av koldioxid. Klimatfrågan är en global fråga som inte löses genom plakatpolitik i vare sig Sverige eller Region Skåne.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flexiblare arbetstidsmodeller och utökat medarbetarinflytande är en bättre väg att gå än att förkorta arbetstiden för vissa personalgrupper. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser inte att mer skattepengar ska gå till kollektivtrafiken så länge vården behöver mer skattepengar för att korta köerna.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att fördelningen är bra idag. Det viktigaste är inte vem som bedriver vården utan hur mycket kvalitativ vård vi får för skattepengarna.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det viktigt att inte ta ut mer skatt än som behövs. Det viktigaste är att fler arbetsföra asyl- och anhöriginvandrare i Skåne blir självförsörjande och betalar skatt. Då kanske till och med skatten kan sänkas på sikt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi behöver anställa fler barnmorskor för att nå upp till en barnmorska per förlossning. \r\n\r\nFör att korta vårdköerna behöver mer vårdpersonal anställas och administrationen minskas. \r\n\r\nFler vårdplatser behövs för att kunna korta vårdköerna.\r\n\r\n",
+        "value": [
+          "2100",
+          "2096",
+          "2095"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;D!;C;B;A;B;2/5;2/5;2/5!;[2100,2096,2095]!",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ingen fråga som jag kan komma på här och nu.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi ser att det kan finnas möjlighet att bilda ett styre med Moderaterna, Kristdemokraterna och eventuellt Liberalerna. Förutsatt  att valresultatet möjliggör detta.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad tillgänglighet inom sjukvården",
+        "description": "Tillgängligheten till sjukvård är inget annat än skamligt låg. En av anledningarna är bristen på vårdplatser, vilken endast kan lösas med mer vårdpersonal.  Vi behöver därför arbeta aktivt med personalfrämjande åtgärder. Vårdgarantin ska uppfyllas. Kan Region Skåne inte själv erbjuda vård i tid, ska patienten få vård hos annan vårdgivare, antingen i privat regi, annan region eller utomlands."
+      },
+      {
+        "category": "Lägre pris på el och ökad tillgång på el",
+        "description": "Priset och tillgången på el är avgörande om vi ska lyckas med elektrifieringen och upprätthålla en bra välfärd och sjukvård i Skåne. Kan vi inte öka tillgången på el och få ner priset kommer det att leda till sämre tillväxt och lägre skatteintäkter, något som slår mot finansieringen av sjukvården och byggandet av nya sjukhus. Lösning på problemen är att bygga nya små modulära kärnkraftverk."
+      },
+      {
+        "category": "Öka tryggheten med fler ordningsvakter",
+        "description": "Otryggheten är utbredd bland Skånes invånare som en följd av gängkriminalitet, hot och våld. Det behövs ett flertal insatser och åtgärder för att öka tryggheten, exempelvis ordningsvakter på akutmottagningar och bussar och krafttag mot gängkriminaliteten. Invånarna och Region Skånes personal ska kunna känna sig trygga i kollektivtrafiken, i vården och i det offentliga rummet."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna är det enda partiet som hela tiden förstått hur oansvarig invandringspolitiken är. Nu kopierar flera andra partier vår migrations- och kriminalpolitik. Med andra ord en röst på SD är en röst för en bättre migrationspolitik som leder till mindre kriminalitet och ett tryggare samhälle. Med en bättre migrationspolitik finns det mer pengar till sjukvården och den övriga välfärden.",
+    "name": "Sverigedemokraterna Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-skane"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2369",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fc21f680727b65badb6e80a7b40822ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att personalen är utbildad i frågor om lika-rätt och detta arbete behöver alltid vara aktivt för att alla – oavsett vem du är – ska bli bemött med kunskap och respekt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45f8cdaac49e0728caaa6e8e7295fe9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara tryggt att åka kollektivt. Vi vill hellre satsa på värdar i kollektivtrafiken än vakter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "50f7b8d231a84a3c8ac1fbff13865875",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdköerna idag beror inte på att människor egentligen kan få vård på vårdcentralen, utan på resurs- och personalbrist i sjukvården. Vänsterpartiet vill satsa på personalens arbetsmiljö i hela vården, för att kunna öka antalet vårdplatser och korta vårdköerna. Vårdcentralerna behöver också mer resurser överlag för att kunna ta om hand alla människors behov av vård på ett jämlikt sätt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b5026a2af962a38c2947be7f237c2d96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdval innebär att vården delas upp och att samarbete kring barnen försvåras. Det vore oerhört olyckligt och är något både personal och patientföreningar motsätter sig. Vårdval innebär också att privata företag får fri rätt att etablera sig där de vill, inte där behoven är störst. Barn- och ungdomspsykiatrin behöver förstärkas i offentlig regi för att garantera alla barn- och unga vård i tid.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f05d9bbba752daed54700a42ee32b1f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett jätteviktigt förslag för att få hela samhället på banan när det gäller att inse allvaret i klimathotet, men också för att mobilisera alla krafter för att göra något åt situationen. Tillsammans kan vi som samhälle förändra, men det krävs kraftfulla åtgärder nu. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6e5bd0ded09303210d2e8e862ef5a559",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förkortad arbetstid med heltidslön är en viktig reform som ger bättre arbetsmiljö och hälsovinster för personalen, men det innebär också vinster för patienterna som möter personal som har möjlighet till återhämtning. Runt om i Sverige genomförs arbetstidsförkortning och det fungerar väl. Det är dags för Skåne nu också t ex för de som arbetar i förlossningsvården. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9ab461ca02a55cb6c7703a2bdedc3df5",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet vill på sikt att kollektivtrafiken ska vara avgiftsfri. Under lång tid har priset för kollektivtrafik ökat långt mer än priset för andra tjänster i samhället. Detta behöver vi vända. Vänsterpartiet vill sänka priset och på sikt ha helt avgiftsfri kollektivtrafik. Alla ska kunna transportera sig på ett klimatneutralt sätt, i hela Skåne.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "0491653db4e45ff02312dceaf369073e",
+        "questionType": "RANGE",
+        "reasoning": "V vill ha en offentligt finansierad och driven hälso- och sjukvård. Idag har de privata aktörerna rätt att starta precis där de vill, utan att ta hänsyn till invånarnas behov av vård. Detta märks när många vårdcentraler öppnar i storstäderna men väldigt få i andra delar av i Skåne. Vänsterpartiet vill att skattemedel ska gå till vård, inte till privata vinster. Sjukvård är inte en marknad. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "67c5a812bc87be6cb0479dac0d2eed2b",
+        "questionType": "RANGE",
+        "reasoning": "Vi i Vänsterpartiet vill stärka den offentliga välfärden och sjukvården. En skattepolitik som beskattar höga inkomster, kapital, arv och förmögenheter är vårt alternativ för en ny ekonomisk politik. Får vi inte till en förändrad statlig skattepolitik, höjer vi hellre regionskatten än äventyrar välfärden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8028bd7fdef8c97f248caf36d9ad2fe6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2096",
+          "2097",
+          "2098"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;A;B;A!;D!;D;4/5;0/5!;3/5!;[2096,2097,2098]",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. Vänsterpartiet driver samma politik för ökad jämlikhet och rödgrön omställning i hela landet. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vänsterpartiet går till val på att få väljarnas mandat att genomföra stora satsningar på en jämlik hälso- och sjukvård, och en politik för en röd och grön omställning där vi till exempel möter klimathotet med stora satsningar på kollektivtrafik i hela Skåne. Vi vill att styret i regionen ska ha denna inriktning. De rödgröna partierna ligger närmast oss.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet samarbetar aldrig med partier som för en rasistisk politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "30 timmars arbetsvecka med bibehållen lön för sjukvårdens personal",
+        "description": "För Vänsterpartiet är det viktigt att sjukvårdens medarbetare får en bättre arbetsmiljö. Därför vill vi genomföra arbetstidsförkortning med bibehållen lön. När man har infört det på andra platser i Sverige har arbetsmiljön blivit bättre, fler patienter har kunnat få vård och personalen har fått fler kollegor. Detta är en viktig reform för en jämlik sjukvård och hållbar arbetssituation."
+      },
+      {
+        "category": "Sänk taxorna i kollektivtrafiken och kör fler turer i hela Skåne",
+        "description": "Biljettpriserna i kollektivtrafiken är alldeles för höga. Vi i Vänsterpartiet vill att det ska bli billigare för den enskilde att åka kollektivt. Det är bra för alla och envar, samt en viktig fråga för miljö och klimat. Men för att fler ska kunna börja åka kollektivt behöver vi bygga ut kollektivtrafiken. Alla i Skåne - oavsett var man bor - ska ha tillgång till en riktigt god kollektivtrafik."
+      },
+      {
+        "category": "En jämlik sjukvård fri från vinstjakt",
+        "description": "Vänsterpartiet vill sätta stopp för vinstjakten i välfärden och i sjukvården. Vi vill att alla resurser som vi lägger på vården och ska gå till vård, inte till vinst i privata företags kassakistor. Det är så vi får en jämlik sjukvård som garanterar alla invånare vård efter behov."
+      }
+    ],
+    "motivateVote": "Man ska rösta på Vänsterpartiet om man vill ha en trygg välfärd där personalen i sjukvården får bra förutsättningar att ge en jämlik vård till alla. Där skattepengarna går till vård och inte till privata vårdföretags vinster. Man ska rösta på V om man vill ha en billig och bra kollektivtrafik i hela Skåne. Man ska rösta på V om man vill ha ett parti som står vid sitt ord och inte bara lovar högt.",
+    "name": "Vänsterpartiet Region Skåne",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-skane"
+  }
+]

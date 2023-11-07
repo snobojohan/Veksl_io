@@ -1,0 +1,1200 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "831",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste värna de naturresurser vi har och bevara jordbruksmark och skog, så att det också är tillgängligt för framtida generationer. Konsekvensbeskrivning  måste alltid göras vid byggnation på åkermark.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolmaten är viktig för att barn och ungdomar ska orka med hela skoldagen. Centerpartiet anser det viktigt att maten är allsidig och då ingår även kött i kosten. Så stor andel av maten som möjligt ska vara närproducerad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna kommunicera med varandra är avgörande för en god vård.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med valfrihet, framför allt i de lägen där man är beroende av andra människor för att vardagen ska fungera.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": "Publika laddstolpar bör finnas i samtliga basorter samt i Kristianstad.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med en god integration är nya invånare i vår kommun positivt för oss alla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "275",
+          "282",
+          "276"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "268",
+          "272",
+          "270"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D!;B;A;A;B;C;A;D;C;A!;2/5;2/5;2/5;[275,282,276]!;[268,272,270]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet är ett mittenparti och samarbetar inte med ytterkantspartier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela kommunen ska leva",
+        "description": "Hela Kristianstad betyder att oavsett var i kommunen man bor ska man kunna leva sitt liv med så fria ramar som möjligt. Basorterna och staden är kärnan för den kommunala servicen men alla orter tillsammans, stora som små, gör kommunen stark och attraktiv. Hela Kristianstad är inte bara en fråga om jämlik infrastruktur och förutsättningar. Det är också en fråga om demokrati!"
+      },
+      {
+        "category": "Bevara jordbruksmarken och skogen",
+        "description": "Vi måste värna de naturresurser vi har och bevara jordbruksmark och skog, så att det också är tillgängligt för framtida generationer. Konsekvensbeskrivning  måste alltid göras vid byggnation på åkermark."
+      },
+      {
+        "category": "Ett tryggt Kristianstad",
+        "description": "Ett tryggt Kristianstad kan vara till exempel en nattvandring eller flytten till ett omsorgsboende. Det kan vara att det finns stöd för den med funktionsvariation. Den upplevda tryggheten är viktig. Kriminaliteten måste bekämpas med aktiva och förebyggande åtgärder. Straffen för begångna brott ska vara trovärdiga. Vi vill också betona vikten av en god skolgång och hög sysselsättning."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa bra villkor för alla människor i hela landet, på landsbygden, i städer och i förorter. En röst på Centerpartiet är för klimatets bästa, för ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb och sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar mot rasism och främlingsfientlighet.",
+    "name": "Centerpartiet Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kristianstad"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "832",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": " Vi har en av landets första biogasanläggningar och vill gärna utveckla den, men har svårt att få avsättning för gas när nu alla tror på el som framtid och biogasbussar byts ut. Elproduktion måste också ske någonstans och behoven ökar hela tiden. Vi värnar också bevarandet av naturområden, viktigt för oss och för framtiden. Vindkraft är ett gott komplement. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår kommun ligger i stort låglänt med stor översvämningsrisk, risk för havsnivåhöjning vid kust samt errosionsrisk. Vi har områden som är skyddade naturområden och ett vattenrike mm. All bebyggelse kan inte ske genom förtätning. Så långt möjligt ska bebyggelse på åkermark undvikas, men ibland finns ingen annan lösning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga sådana kommunala bolag, men principen är bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte styra människors kost.Skolmaten ska vara bra mat för alla! Det får vara nog med pekpinnar och överförmynderi! Det är dessutom tveksamt om köttfritt är en bra kost. se t.ex artikel i SvD (13/6), som bekräftar vilka risker det finns med dåligt näringsupptag av järn. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur ska det gå till rent praktiskt? Det är redan brist på personal och framtiden ser definitivt inte ljusare ut. Dessutom skulle en sådan reform bli oerhört dyr utan att den gynnade dem  som det egentligen gäller; våra äldre.  Däremot bör lönerna höjas rent allmänt, så yrket blir mer attraktivt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar ger ingenting i praktiken. Man är inte ens skyldig att följa ett eventuellt utslag. Det är bättre med goda kontakter. Vi har t.ex dialogmöten i olika delar av kommunen, öppet rådhus, möjlighet att skriva medborgarförslag och naturligtvis kan alla ta kontakt med politiker.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har föreslagit att man kan kombinera en första tjänst med studier i SFI. Detta är på samma spår. Kontentan blir ett krav att alla som är anställda inom omsorgen ska kunna kommunicera på god svenska. Viktigt i alla lägen, men speciellt viktigt för den äldre som dessutom själv har problem att kommunicera  på grund av demenssjukdom eller liknande. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Går inte att markera i ruta på ett korrekt sätt.\r\nVi har redan Bostad Först, Kvinnojour samt hjälp via social. Allt detta kan utvecklas, men målet är att du ska klara dig själv. Detta sker genom hjälp till utbildning och arbete, inte genom fler bidrag. Det är en utopi att alla ska klara det, men det är ändå målet att sträva efter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett utmärkt alternativ i valfrihetens tecken under förutsättning att det privata företaget lever upp till rätt kvalitet.  Observera, lika viktigt med självkontroll på den kommunala verksamheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": " Kommunen kan inte ta ansvar för allting, men vara med och bidra där det finns kommunal mark att använda. Väldigt många har inte elbil och parkeringsplatser kan inte hur som helst omvandlas/ reserveras för dessa. Någonstans ska även andra bilar få plats. Ännu en gång, denna enögdhet att bara tro på elbilen är inte bra! Biogasen är ett utmärkt kretslopp/ miljömedel. Tyvärr motarbetat skattemässigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot den del som avses för vår kommun. Det är i solidaritet så hela landet måste agera. Däremot måste man på riks agera kraftfullt mot dem som fått avslag på uppehållstillstånd och vägrar lämna landet. Där är det stora problemet. Vi måste få stopp på samhället \"vid sidan om\".",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen får yttra sig men bestämmer inte vem/ vilka som får etablera sig som privata skolföretag. Det är en omöjlig fråga. Vi ska ha en bra kommunal skola som visar att vi ger vad eleverna behöver och måste ha för framtiden. Sedan är det friheten att välja den eller ett alternativ som står högst.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": "Ännu en omöjlig fråga. Vi har ett mycket rikt kulturutbud med Musik i Syds huvudkontor i staden, en mycket aktiv teaterförening, regionmuseum, konsthall, kulturhus mm. Vi ligger nog ganska bra. Nya saker kan uppstå och då får man ta ställning till det.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": "Som situationen är idag med en enorm låneskuld och flera stora investeringar att vänta framöver är det svårt att sänka skatten. Men vi ligger högt och på sikt bör den sänkas.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill inför  synlig kommunal polis som verkar som tidigare närpolis. De ska arbeta brottsförebyggande ihop med föräldrar och skola. De föräldrar som behöver stöd måste fortsätta få det. ",
+        "value": [
+          "276"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "268",
+          "269",
+          "270"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;C;A;A;A;C;C;D;C;B;2/5;2/5;1/5;[276];[268,269,270]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är samma parti där frågorna ibland har olika infallsvinklar beroende på den praktiska politiken. Till exempel driver vi hårdare vikten av närpolis i våra bostadsområden efter all oro, våld mm som har varit. Dock finns frågan också på riksplanet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vårt mål är att vårt parti ska bli större för att därmed få mer inflytande för de frågor vi driver. Vi tror att det sker bäst genom en fortsatt Allians.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som står långt ifrån våra grundläggande värderingar. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Frihet att välja för våra äldre",
+        "description": "Inför äldreboendegaranti utan biståndsbedömning från 85 år.\r\nDen som är äldre ska ha valfrihet och tillgång till god vård och omsorg när så behövs. Dessutom kompetenshöjning inom omsorgen."
+      },
+      {
+        "category": "Frihet i vardagen!",
+        "description": "Inför kommunal polis som ska verka som tidigare närpolis, patrullerande, god lokal- och personkännedom, förebyggande för ökad trygghet och säkerhet. Vardagsbrotten ska i första hand förhindras, i andra hand klaras upp."
+      },
+      {
+        "category": "Frihet för kommunen!",
+        "description": "Behåll vetorätten!  Behåll kommunens rätt att säga nej till etableringar av vindkraft på olämplig plats. Bygg ut biogasproduktionen och antalet tankställen för biogas liksom antalet laddstolpar för el. Tillåt dispens från strandskydd inom vissa begränsade områden."
+      }
+    ],
+    "motivateVote": "Vi vill ha ett samhälle där alla människor kan leva tryggt sida vid sida oavsett ålder, utseende, bakgrund eller läggning. Vi vill ha ett samhälle där alla som kan arbetar, där alla elever utvecklas efter sin förmåga, där valfriheten hålls högt för alla åldrar. Det är högt uppsatta mål, men om inte vi jobbar för dem, vem ska då göra det?",
+    "name": "Kristdemokraterna Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-kristianstad"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "833",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristianstad är medlem i Viable Cities och siktar på att vara en klimatneutral kommun år 2030.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermarken måste skyddas men ska Kristianstad kunna växa kan vi inte utesluta mindre byggnation på åkermark.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kristianstad finns både kommunalt energibolag och bostadsbolag. Dessa tänker vi inte att avveckla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "I våra skolor kan eleverna alltid välja vegetariska alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att förstå och göra sig förstådd när man jobbar med människor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kristianstad finns kommunal och privat äldreomsorg. Båda behövs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna uppgift lägger vi på det kommunala energibolaget C4-Energi.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom åren har Kristianstad tagit ett oproportionerligt stort mottagningsansvar. Trångboddhet och segregation har skapat stora sociala problem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "275",
+          "274",
+          "276"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "267",
+          "265",
+          "271"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;B;B;A;B;C;A;C;B;D;2/5;2/5;2/5;[275,274,276];[267,265,271]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi fortsätter gärna att styra tillsammans med Moderaterna, Centerpartiet och Kristdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samarbetar med alla men vill inte bilda \"regering\" med V eller SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Lärare måste få vara lärare",
+        "description": "Andelen elever som tar sig in på gymnasiet har ökat men mer behöver göras. Lärarna i grundskolan måste få ägna sin tid åt det de är utbildade för, att undervisa. Alltför mycket tid går idag åt till elevsocialtarbete. Lärare ska få vara lärare, inte socialarbetare. Fler professioner behövs på våra skolor och samarbetet med de sociala myndigheterna och ungdomspsykiatrin behöver utvecklas mer."
+      },
+      {
+        "category": "Tryggt liv i centrum och i bostadsområden",
+        "description": "Narkotikahandel, hänsynslösa skjutningar och personrån måste bekämpas. Antalet poliser och trygghetskameror behöver öka och vi måste fortsätta satsa på förebyggande insatser i skolor. En långsiktig omdaning av Gamlegården för att bryta bostadssegregationen är en viktig pusselbit för att komma tillrätta med sociala problem och otrygghet i hela Kristianstad."
+      },
+      {
+        "category": "Mer pengar till vårdcentralerna",
+        "description": "Det skånska sjukvårdssystemet måste ställas om så att vårdcentralen blir skåningens första kontakt med vården. Vi fortsätter därför driva på för att vårdcentralernas andel av de totala vårdresurserna ska öka. Idag får vårdcentralerna ca 20% av Skånes totala vårdbudget. Vårt mål är att andelen ska vara 25% precis som i våra grannländer Danmark och Norge."
+      }
+    ],
+    "motivateVote": "När vardagen fungerar blir möjligheterna fler. Vår uppgift som Kristianstads liberala parti är att skapa trivsel, möjligheter och ordning och reda i kommunen. På så vis ger vi er Kristianstadsbor kraft att forma era liv på det sätt som ni tycker passar er och era familjer allra bäst.",
+    "name": "Liberalerna Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kristianstad"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "834",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "275",
+          "281",
+          "276"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "273",
+          "265",
+          "271"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;C;B;A;B;D;B;D;C;C;3/5;2/5;1/5;[275,281,276];[273,265,271]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre där vi får så mycket genomslag för vår politik som möjligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan samtala med alla, men att styra med Vänsterpartiet kan bli svårt. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Från bidragsberoende och utanförskap till arbete och gemenskap",
+        "description": "Arbete ska alltid löna sig i Moderaternas Kristianstad. För att klara välfärden behöver vi fler människor som är med och bidrar, och färre som lever på bidrag. Vår utgångspunkt är att alla som kan arbeta också ska göra det. Språkhinder måste övervinnas genom en kombination av teori och praktik."
+      },
+      {
+        "category": "En trygg kommun",
+        "description": "Alldeles för länge har invånarna tvingats anpassa sig till de som vägrar respektera svenska lagar och normer. Vi vill ha trygghetsskapande åtgärder i innerstan och trygghetsvärdar i hela kommunen. Och vi vill se ett ökat samarbete mellan skolan, socialtjänsten och polisen för att förebygga att ungdomar lockas in i kriminalitet."
+      },
+      {
+        "category": "Nolltolerans mot slöseri med skattebetalarnas pengar",
+        "description": "Lika viktigt som att bestämma var pengarna ska gå, är att kontrollera att pengarna går till verksamhet med högsta kvalitet till lägsta kostnad. Det är inte vem som utför tjänsten eller levererar varan som är det viktigaste, utan att den håller hög kvalitet till rätt pris."
+      }
+    ],
+    "motivateVote": "Moderaterna tror på varje människas förmåga att nå sina drömmars mål. Det är individens ansträngningar, utifrån förmåga, som skapar vårt samhälle, ett tryggt samhälle där alla har möjligheter. Alla människor är inte och ska inte vara lika men alla ska behandlas lika. I Kristianstad ska individen vara fri och inte begränsas av sociala experiment, hedersnormer eller beroende. ",
+    "name": "Moderaterna Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kristianstad"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "835",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi ska vara mer motståndskraftiga vid förändringar eller kriser och för klimatets skull.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår självförsörjningsgrad gällande livsmedelsproduktionen behöver höjas. Odlingsbar jord är en ändlig resurs.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag har ett ansvar för grundläggande samhällsfunktioner. Genom att vi äger dem tillsammans är verkar de för gemensamma intressen och inte utifrån krasst vinstperspektiv. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kosten ska vara allsidig, näringsrik och bidra till goda vanor. Vi står för ett ekologiskt procentmål och närproducerad mat.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetet ska vara en friskfaktor och det är viktigt att arbetsmiljön och arbetstiderna är sådana att man orkar arbeta heltid ett helt arbetsliv. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "De politiska partierna har ansvar för att fånga upp åsikter men har även ett ansvar för helheten och att väga olika gruppers behov mot varandra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inför en fast omsorgskontakt inom hemtjänsten och satsa på att stärka de anställdas kunskap och kompentens. Därför har vår s-regering föreslagit en utökning av den pågående språkträningen för anställda inom äldreomsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Boende är en social rättighet och det är viktigt med en blandad bebyggelse gällande olika ägandeformer. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för olika driftsformer men vi måste ta tillbaka den demokratiska kontrollen över välfärden och stoppa vinstjakten. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste gå före i omställningen för en fossilfri och hållbar framtid. Marknaden kommer inte att lösa behovet av laddstolpar på landsbygden utan här krävs samhällets initiativ. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige som nation har ett ansvar och staten ska ta ansvar för att dela upp ansvaret mellan kommunerna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": "Andelen är inte det viktigaste men dagens marknadsskola medför att en del utbildningsanordnare sätter vinsterna före kvalitén. Vi ska återta den demokratiska kontrollen över välfärden för att varje elev har rätt till en jämlik kunskapsskola.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": "Konsten och kulturen bidrar till att skapa ett rikare samhälle att leva i. Socialdemokraterna ser kulturen som en viktig del av välfärden. Investeringar i kultur banar väg för nya jobb i de kreativa näringarna.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": "Genom att få fler medborgare i arbete kan välfärden förbättras och utvecklas utan ökad skattesats. Kristianstads kommun behöver bli effektivare både vad gäller kompetensförsörjning och arbetsmarknadspolitik. Det finns lediga arbeten men rätt kompetens saknas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": "Den s-ledda regeringen har ökat antalet poliser och infört ett stort antal straffskärpningar men det förutsätter också ett väl fungerande förebyggande arbete på lokal nivå för att bryta rekryteringen till kriminalitet. ",
+        "value": [
+          "275",
+          "281",
+          "276"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi prioriterar utbildning och kompetensutveckling för att alla ska kunna växa och växla under hela arbetslivet. Vi har fokus på tidiga insatser så att alla barn och elever får det stöd som krävs för att lyckas i skolan. Vi vill ha låga trösklar för insatser till äldre med tillgång till hemtjänst av bästa kvalitet och kontinuitet oavsett var du bor i Kristianstads kommun. ",
+        "value": [
+          "268",
+          "266"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D!;A!;B;C;B;B;C;C!;C!;B;1/5!;3/5!;2/5!;[275,281,276]!;[268,266]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kristianstad ska ha en jämlik kunskapsskola med höga resultat",
+        "description": "Med fokus på tidiga insatser och ett språkutvecklande arbetssätt redan i förskolan kan stöd ges som tar bort eller lindrar framtida svårigheter. Genom förstärkt specialpedagogisk kompetens och elevhälsa ska varje barn och elev få det stöd som krävs för att lyckas i skolan.   \r\nDet krävs fler vuxna i förskolan och skolan och satsningar på barn och unga krävs för att bryta segregationen."
+      },
+      {
+        "category": "Kristianstad ska vara en äldrevänlig kommun",
+        "description": "Vinstjakt hör inte hemma i omsorgen och det behövs fler händer i vården. Hälsan ska tas tillvara genom mötesplatser, rörelse och ett rikt föreningsliv. Förutsättningen för att klara framtidens omsorg med hög kvalitet och god tillgänglighet är fler väl utbildade medarbetare med trygga villkor och bra arbetsmiljö. I hemtjänsten ska vi avskaffa minutjakten och se till att kontinuiteten prioriteras."
+      },
+      {
+        "category": "Vi tar kampen för ett hållbart Kristianstad!",
+        "description": "Hållbarhetsmålen i Agenda 2030 utgör grunden i vår framtidsvision. Att främja den gröna omställningen är den självklara vägen framåt och ger styrka och konkurrenskraft.\r\nVi föreslår en ”Målbild för Energi till år 2030” som motsvarar 80 % av vårt lokala energibehov och att det tas fram en färdplan för lokalt producerad energi med avsikt att på sikt ska bli en energipositiv kommun"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kristianstad"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "836",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatet bryr sig inte om utsläppen från Kristianstads kommun, vi skall inte forcera fram dyra åtgärder med skattebetalarnas pengar som inte har någon effekt på klimatet. Vi tycker i grunden förslaget är bra, men man måste balansera kostnaderna mot miljömässig påverkan. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "I stort sätt all byggbar och attraktiv mark är åkermark runt Kristianstad, därför får man väga för och nackdelar med en befolkningstillväxt på bekostnad av just odlingsbar åkermark. Vi har en restriktiv hållning i frågan, eftersom självförsörjningsgraden av närodlade livsmedel avtar när befolkningen ökar och åkermarkerna minskar.  SD är landsbygdens parti!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska upprätthålla sin kärnverksamhet, vård, skola och omsorg i första hand dvs. verksamhet vi är bra på. Vår grunduppfattning är att kommunen inte skall ge sig in på områden för att konkurrera med näringslivet där så inte behövs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att barn inte ska påtvingas en vegansk livsstil mot sin vilja, utan skall få en näringsrik måltid i skolan byggd på traditionell husmanskost och kostcirkeln; för att kunna orka med skoldagen. Vi ser gärna att det finns ett vegetariskt alternativ till barn som efterfrågar en köttfri livsstil. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bisarrt vänsterförslag som endast ökar lönekostnaderna och personalbristen för kommunen utan att få bättre kvalité för skattepengarna. För att finansiera förslaget krävs skattehöjningar som slår mot hushåll med låga inkomster t.ex. pensionärer och barnfamiljer; där skattehöjningen endast finansierar andras ledighet. Tvärtom tror vi att det behövs fler timmar och händer i vården, inte färre.\r\n",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till direktdemokrati där medborgarna får vara med och tycka till, där man får inflytande och kan göra sin röst hörd. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det säger sig själv att arbetar man med äldre och sköra människor, är det viktigt att det ska kännas tryggt att möta personalen på vårt eget språk. Det är också viktigt för att upprätthålla patientsäkerheten, att rätt ordination ges till rätt patient. Det ska också kännas tryggt att släppa in pålitlig personal i sitt eget hem, där svenska språket är en nyckelfaktor. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska inte finansiera hyreslägenheter, eftersom marknaden kan göra det billigare genom ökad konkurrens bland byggbolagen. Kommunen ska dock underlätta genom att tillhandahålla byggbar mark, och snabba beslutsprocesser som detaljplanearbete. Det blir alltid dyrare och ineffektivare när staten ska betala för något marknaden sköter bättre själv. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är kvalitén hög, är inte ägandeformen ett problem. Kommunerna kommer i framtiden inte ha råd att fullt ut investera i nya vård- och omsorgsboenden i takt med fler äldre som behöver mer vård. Kostnaden per vårdplats är oftast inte högre i privatägt boende. Tvärtom sker privata vinster ofta pga. avsaknad av hög byråkrati och ineffektivitet, som finns i kommunal verksamhet tack vare dåligt ledarskap.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": "Publika laddstolpar ska marknaden ansvara för och inte kommunen finansiera med skattepengar. Däremot är kommunen ansvarig för att t.ex. äldreomsorgen har en fullt utbyggd laddinfrastruktur för t.ex. hemtjänsten så att dessa kan ta sig runt i vår vidsträckta kommun. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristianstad ska ta emot flyktingar från Ukraina som ligger i vårt närområde, men övriga som söker asyl från andra länder får tillsvidare pausas. Vi behöver också fokusera på återvandring för människor som kommit hit och inte anpassat sig till vårt samhälle. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser positivt på privata skoletableringar men vi vill inte öka antalet friskolor då det kan riskera att slå ut våra befintliga kommunala skolor. Det är inte försvarbart att ha halvtomma klassrum, det är slöseri med skattepengar; dock ska vi vara lyhörda om friskolor vill starta en specifik utbildning som är efterfrågad på arbetsmarknaden.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": "Vi är positiva till kultur och konst, men det får inte ske på bekostnad av skola, vård och omsorg. Konsten behöver inte alltid vara samtidskonst, utan lyft gärna fram kulturarv, vår historia och vackra ideal som ökar trivseln för medborgarna. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att kommunskatten ska bli lägre genom effektiviseringar och minskad byråkrati, men med tanke på (S) öppna gränser-politik ska nu många fler dela på samma välfärd. Det är ett problem, eftersom kostnaderna således därför ökat. Med minskad invandring och återvandring frigörs också resurser, vilket möjliggör sänkt kommunalskatt. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill egentligen göra alltihop av dessa förslag, förutom att ABK ansvarar för allmännyttan; bolaget har god ekonomi och finansierar själv sitt fastighetsbestånd. Vi vill anlita fler ordningsvakter och trygghetsvärdar för att skapa trygghet, där övervakningskameror också är självklart. Elevhälsan och förebyggande arbete är också viktigt. Polisen bör också kartlägga kriminella gäng. ",
+        "value": [
+          "277",
+          "275",
+          "276"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill att man som äldre ska känna sig trygg, och få hjälp med sina behov istället för att personalen stressar och tittar på klockan. \r\nVi vill också att fler specialpedagoger anställs så att inget barn halkar efter. För att minska lärarnas administration bör byråkratin minskas, och administrativa arbetsuppgifter överföras på annan personal så att lärarna har tid att se varje elev. ",
+        "value": [
+          "267",
+          "268",
+          "271"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;C;B;A;A;D!;D!;A;C;B;D!;2/5;2/5;1/5;[277,275,276]!;[267,268,271]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kristianstad behöver nytt politiskt ledarskap. Vi är beredda att axla ansvaret och gör det gärna i första hand tillsammans med M och KD. Men vi utesluter inte att samarbeta med alla partier som vill återskapa vårt en gång trygga Kristianstad.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Återskapa tryggheten!",
+        "description": "•\tEn patrullerande polisnärvaro.\r\n•\tNytt områdeskontor för polisen ute på Gamlegården.\r\n•\tInrättande av trygghetsvärdar.\r\n•\tFler nattvandrare.\r\n•\tStärkt ekonomiskt och praktiskt stöd till kvinnojouren.\r\n•\tObligatorisk anmälan av bidragsfusk.\r\n•\tKommunalt finansierade väktare och trygghetskameror.\r\n•\tUpplysta platser."
+      },
+      {
+        "category": "Få ordning på skolan!",
+        "description": "•\tPrioritera svenska språket, svensk kultur och svenska värderingar. \r\n•\tLäraren är chef i klassrummet och känner rektorns tydliga stöd i arbetet.\r\n•\tObligatorisk kvarsittning för elever som stör ordningen eller inte håller tiden.\r\n•\tNolltolerans mot kränkande behandling.\r\n•\tJourklasser för bråkiga barn.\r\n•\tGratis pedagogiska måltider till lärare.\r\n•\tFörbjud slöja på barn i för- och grundskola."
+      },
+      {
+        "category": "Gör Kristianstad till en idyll igen!",
+        "description": "•\tUnderlätta för etablering av nya butiker i centrum.\r\n•\tMöjliggör mysiga uteserveringar på torgen fler månader under året.\r\n•\tGe kulturarvet en viktig plats i kommunen.\r\n•\tIndragna bidrag för islamistiska föreningar och studieförbund.\r\n•\tÅterskapa Christianstadsdagarna.\r\n•\tFler multiaktivitetsanläggningar och utegym i våra basorter.\r\n•\tSkydda vår viktiga ålakust. Lyft fram den generella fiskekulturen."
+      }
+    ],
+    "motivateVote": "Vi är många kristianstadsbor som under de senaste tolv åren sett hur kriminaliteten och otryggheten brett ut sig i vår stad. Det finns så många problem som de styrande politikerna inte tar tag i. När trötta politiker inte ens erkänner att man har problem, hur ska man då kunna lösa dem? En röst på oss är en röst för förändring. Vi tänker ta tag i problemen och vända utvecklingen. ",
+    "name": "Sverigedemokraterna Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kristianstad"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "837",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "cfac00952534dd5a694ff02087014f9b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god men i nuläget svårt att veta vad ett sådant förslag skulle kosta att realisera.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f3c222ef30af1346cce4f4068363747",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand skall vi bygga genom förtätning men detta är inte möjligt i alla situationer eller i alla kommunens tätorter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a2c8a0d490cacdb05288211218dc84f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag gör mycket viktigt och skall absolut finnas kvar. Detta berör både bostäder genom ABK och el genom C4 energi att avveckla dessa bolag skulle vara direkt dumt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cf133e2875a81250cc30f22a9b21b9ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den köttfria dag vi redan har behöver först utvärderas. Vi ser hellre att fler vegetariska alternativ erbjuds övriga dagar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cb0606bb985601a1690b1d09c45e5c46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helst bör 6-timmars arbetsdag införas i hela kommunens verksamhet men äldreomsorgen kan vara ett bra första steg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "af852cff20efc38bf0ef1a4f37e71bb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna fler kommunala folkomröstningar men frågorna måste vara konkreta nog och intresset så pass stort att utfallet får legitimitet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c63f3ca10a68ce067c4e80f4c6a17964",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna typ av test ökar bara klyftorna i samhället och kommer att göra det än svårare att hitta människor som är beredda att jobba inom hemtjänst och äldreomsorg.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "71089507cb9dac3a499e683f1fbf4cb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör ställa krav på sitt eget bostadsbolag ABK att bygga fler och billiga lägenheter. Detta görs enklast genom att det vinstkrav som idag finns på ABK tas bort.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f90d8d13dc95961285e488e695e2f81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreboende och hemtjänst skall drivas i offentlig regi med full insyn och alla vinstkrav borttagna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d7cb74b0e31ed774d9d3b6848d5cfb98",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör även agera för att fler lägenheter och bostadsrätter ges möjlighet till laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cd16c9678b6661b5d411380a1c44ebde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi som kommun skall välkomna alla de som behöver fly undan krig, förtryck och förföljelse. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "dd000c92afd7786262d24b187577edb1",
+        "questionType": "RANGE",
+        "reasoning": "Helst bör alla aktiebolag förbjudas att driva skolor. Marknadsexperimenten inom skolan har under många år visat sig ge dåliga resultat, en segregerad skola med resurser som försvinner i vinster istället för att gynna eleverna.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "a236d0b3148eecb5e20fd03da8a073ac",
+        "questionType": "RANGE",
+        "reasoning": "Vi skall som kommun satsa på en bredd inom kulturen som kommer alla tätorter till gagn. Bland annat bör vi öppna upp de bibliotek som lagts ner och stödja en bred folkbildning.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bb77150380f7adf623e331ab1e1344a9",
+        "questionType": "RANGE",
+        "reasoning": "Allra helst kommer mer resurser genom att staten beskattar företag, höginkomsttagare och förmögenheter. Skulle detta inte gå så måste kommunalskatten sättas efter behoven.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "126411e0299d3c837141e9d6ab3fa840",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "274",
+          "276",
+          "280"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "74c1a5266fcdba98c0eb4a680c9b1378",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "268",
+          "265",
+          "266"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;A;B;D!;C;A;D!;A!;D;A;0/5!;3/5;3/5;[274,276,280]!;[268,265,266]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Med en så stark vänster som möjligt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Alla rasistiska partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola",
+        "description": "Större satsningar på skolan så att det blir slut på de eviga nedskärningar som skett de senaste åren. Målsättningen måste vara att de elever som behöver mest stöd ska få det från första början."
+      },
+      {
+        "category": "Arbetsrätt",
+        "description": "Rätt till jobb – rätt på jobbet Genom tillsvidareanställningar, bra arbetsmiljö, ett stimulerande arbetsinnehåll och 6-timmars arbetsdag med bibehållen lön."
+      },
+      {
+        "category": "Levande kommun",
+        "description": "En kommun där det går att bo och leva i hela kommunen. Innebärande fler bussturer, fritidsgårdar, biliotek, mötesplatser, service och näringsliv i hela kommunen."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet vill slå vakt om den gemensamma offentliga sektorn. Vi vill driva en politik som bidrar till att minska klyftorna och skapar en rättvis fördelning. Som stärker skolan och ger goda arbetsförhållanden i hela kommunen.",
+    "name": "Vänsterpartiet Kristianstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kristianstad"
+  }
+]

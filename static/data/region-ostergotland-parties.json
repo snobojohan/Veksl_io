@@ -1,0 +1,1028 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2324",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "För barn och unga som mår dåligt är det viktigt att få hjälp snabbt. Idag är köerna alldeles för långa till BUP i Östergötland. Vi vill att de med lättare psykisk ohälsa ska kunna få hjälp med samtalsterapi som inte behöver vara av en specialist. På så sätt frigörs resurser till de som har tyngre besvär och samtidigt ges den behövande snabb hjälp. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan om att införskaffa en ambulanshelikopter tillsammans med grannlänen har varit föremål för en utredning. Utredningen visar att det finns behov men länen har inte tillsammans kunnat besluta om att skaffa en egen ambulanshelikopter pga ekonomiska skäl. Vi anser att när det finns ekonomiska möjligheter ska en egen ambulanshelikopter införskaffas.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "En närvarande barnmorska under förlossningen är grundläggande förlossningsvård – ingen födande ska lämnas ensam mot sin önskan. .\r\nTryggheten för den födande måste öka och vi vill kunna erbjuda den födande fler valmöjligheter, såsom konceptet \"Min barnmorska”. Det innebär att det är samma barnmorska som följer dig genom graviditeten, under förlossningen och i eftervården.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är av yttersta vikt att en patient och vårdpersonalen kan förstå varandra språkligt, men med den personalbrist som råder inom vården idag är det en större fara att inte ta vara på den kompetens som finns tillgänglig. Vi kan i dagsläget inte ställa ett sådant krav, det är inte testet som är det viktigaste utan förmågan att kunna förstå och göra sig förstådd.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det är viktigt att fler utbildar sig inom vårdyrkena då det råder brist på specialistutbildade medarbetare. Därför tycker vi att det är ett bra förslag att erbjuda fortbildning och specialistutbildning under betald arbetstid. Detta är också något som redan idag praktiseras i Region Östergötland.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken i Östergötland kostar idag ca 1000 000 kronor. Ungefär 55 procent av detta finansieras av skattepengar att helt ta bort resenärsfinansieringen och låta alla resenärer resa avgiftsfritt skulle inte bara innebära att det inte skulle komma några som helst intäkter utan också att kostnaderna skulle öka ytterligare. Det är inte försvarbart.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Under pandemin har staten tillfört stora summor skattepengar till kollektivtrafiken för att kompensera för minskade biljettintäkter, tack vare detta har trafiken kunnat upprätthållas i oförminskad storlek under pandemin. Nu behöver resenärerna återvända till kollektivtrafiken för att resenärernas finansiering av kostnaderna ska öka, för att trafiken ska kunna fortsätta utvecklas ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att det ska finnas en mix av regiondriven och privatdrivna vårdinrättningar. Genom att införa vårdval inom fler vårdområden tror vi att tillgänligheten till vården blir större. När fler aktörer verkar inom vårdområdet och det finns större valmöjlighet för patienten kan man få hjälp snabbare och kvaliteten i vården ökar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "Region Östergötland höjde skatten för några år sedan och vi ser inte att det finns behov av förändringar av skattesatsen igen inom överskådlig tid. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2175",
+          "2174",
+          "2177"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;C;D!;B;D!;A!;2/5;3/5!;2/5;[2175,2174,2177]",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att ge SD makt över hur Sverige ska styras. Ingen budget med V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En satsning på lokala energi och matförsörjning.",
+        "description": "Landsbygdens frågor är en del av vår själ som parti. Vi vill ta vara på möjligheterna för produktion av förnyelsebar energi. Skogsnäringen ska vara en viktig resurs för ett växande näringsliv i Östergötland. Vi arbetar för att hålla Vättern rent från föroreningar och kemikalier. De gröna näringarna är nödvändiga pusselbitar i ett cirkulärt hållbart samhälle."
+      },
+      {
+        "category": "Satsningar på förlossningsvården",
+        "description": "Vi vill att förlossningsvården ska prioriteras högre och att mer resurser läggs på denna synnerligen viktiga vård. Förlossningsvården ska kunna erbjuda en kvalitativ, trygg och stressfri vård. För detta krävs större följsamhet för varje födande kvinnas behov. Vi vill att det ska finnas större valfrihet inom förlossningsvården, så att varje kvinna kan känns sig så trygg som möjligt."
+      },
+      {
+        "category": "Mer nära vård i hela länet",
+        "description": ". För att ytterligare stärka mindre vårdcentraler långt ifrån sjukhusen får vårdcentralerna en extra ersättning. Detta för att kunna erbjuda bra vård i hela Östergötland. Vi vill värna denna extra ersättning även framåt. Karriärmöjligheterna behöver också utvecklas för dem som arbetar i primärvården. För att nå dessa mål kommer vi stå upp för konceptet och utveckla ”Nära Vård”."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb sänker skatter. ",
+    "name": "Centerpartiet Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-ostergotland"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2325",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Region Östergötland får endast 13 % av barn och unga i behov av behandling hos BUP vård inom 30 dagar. Dessutom får endast 31 % tid för sitt första besök inom 30 dagar. Det här är fullständigt oacceptabelt och ett väldigt högt precis unga i behov av vård får betala. Östergötlands barn och unga måste kunna lita på att de kan få den vård de behöver och har rätt till i tid.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sydöstra sjukvårdsregionen har idag ingen egen ambulanshelikopter. En helikopter kan vara i luften inom 5 minuter och vara på skadeplats 10 mil bort inom 20-25 minuter. Avancerade medicinska åtgärder kan sättas in och svårt skadade patienter kan flygas direkt till specialistsjukhus. En helikopter tar sig fram i terräng och kan landa på otillgängliga platser som vägambulanser kan ha svårt att nå.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristdemokraterna skulle vilja att Region Östergötland inför en arbetsmodell som heter ”Min barnmorska”, såsom man redan gjort på Karolinskas Huddinge och mödrahälsovården i södra Stockholm. Detta är en vårdform där ett team av barnmorskor följer hela graviditeten, är med vid förlossningen och ger eftervård i hemmet. Målet är att kvinnor ska känna sig trygga och stärkta inför föräldraskapet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker det är viktigt att du som patient är trygg i mötet med vården. Att få ett gott bemötande och att båda parter förstår varandra är viktigt. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hållbar kompetensförsörjning är en av de största utmaningarna för Region Östergötland. Att både behålla personal och attrahera nya medarbetare är ett viktigt fokus just nu. Region Östergötland behöver därför öka antalet medarbetare som genomgår specialistutbildningar för olika professioner i vården, samt säkerställa att kunskaperna används efter genomförd utbildning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken finansieras för närvarande ca 56 % av skattemedel och cirka 44 procent av biljettintäkter. För en resenär innebär det att man betalar ca 44 % av en resa. Kollektivtrafiken är redan i dag kraftigt subventionerad för alla. Utöver det finns olika rabatter utifrån exempelvis ålder och studerandestatus. Det är inte ekonomiskt möjligt att införa gratis kollektivtrafik för alla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Kollektivtrafiken i Östergötland finansieras med en kombination av skattemedel och intäkter från biljettköp. Det långsiktiga målet är att gå mot ett läge där 50 procent subventioneras. Det innebär att hälften av kostnaden täcks av kunderna. Men ambitionen att sänka subventionsgraden kommer även att kräva kontinuerliga effektiviseringar av trafiksystemet.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "KD är för valfrihet inom hälso- och sjukvården. Under lång tid förespråkade vi ett vårdval inom ögonvården, då köerna var så långa att människor blev blinda i väntan på sin ögonoperation. Slutligen släppte styret sitt ideologiska motstånd mot privata utförare och fler kan nu få vård i tid. Privata utförare är ett bra komplement till den regiondrivna vården. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "I Region Östergötland föreslås skatten vara oförändrad för 2023, vilket motsvarar 11,55 procent av den beskattningsbara inkomsten. Vi vill sänka skatten så snart som det är möjligt. Skattesänkningarna leder till att fler får ett arbete, att det lönar sig bättre att jobba i stället för att gå på bidrag och därför växer även ekonomin. Det innebär att skatteintäkterna ökar när Östergötland går bra.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2175",
+          "2177",
+          "2173"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;D!;C;C;D!;A;2/5;3/5!;1/5!;[2175,2177,2173]",
+    "color": "#331D79",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi har goda erfarenheterna av att under åtta år styra med övriga allianspartier. Då kortade vi köerna och förbättrade ekonomin. Därför anser vi att ett alliansstyre vore det bästa lösningen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte söka aktivt politiskt samarbete med SD eller V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utöka antalet vårdplatser och inför vårdplatsgaranti",
+        "description": "Idag väntar allt för många på operation för att det inte finns tillräckligt med vårdplatser. Antalet bemannade vårdplatser måste därför bli fler. För det krävs att fler sjuksköterskor arbetar på sjukhusens olika vårdavdelningar. Sjuksköterskor som helt lämnat vårdyrket, eller gått till annan arbetsgivare, måste erbjudas attraktiv arbetsmiljö och arbetstidsmodell så att de återvänder till yrket."
+      },
+      {
+        "category": "Stärk och uppvärdera den nära vården för mer tillgänglig vård - Projekt VC 777",
+        "description": "Primärvården behöver stärkas genom generösare öppettider på vårdcentraler. Vi vill därför avsätta mer ekonomiska resurser samt föreslå ett pilotprojekt i Östergötland. VC 777 - där sju vårdcentraler under sjutton månader på försök ska ha öppet sju dagar i veckan, från sju på morgonen till sju på kvällen. Om pilotprojektet blir framgångsrikt, bör modellen implementeras brett i hela Östergötland."
+      },
+      {
+        "category": "Investera i ambulanshelikopter för en mer jämlik vård",
+        "description": "Sydöstra sjukvårdsregionen (Region Östergötland, Region Kalmar län & Region Jönköpings län) har idag ingen egen ambulanshelikopter. En helikopter kan snabbt vara på skadeplats. Vid t.ex. trauma, stroke och akut hjärtinfarkt kan läkare påbörja behandling direkt. Är patienten svårt skadad kan den flygas till specialistsjukhus. En helikopter kan landa på platser som vägambulanser kan ha svårt att nå."
+      }
+    ],
+    "motivateVote": "Vi vill att du ska få bra vård i rätt tid, oavsett var i länet du bor. Vårdcentraler ska ha mer öppet och kunna ta över visst ansvar från våra sjukhus. Vi vill att du ska kunna pendla smidigt till arbete och studier i hela länet, och vill bl.a. utveckla tågtrafiken på Stångådalsbanan. Vi vill göra den östgötska kulturen tillgänglig för fler och få fler unga östgötar att vilja bli företagare.",
+    "name": "Kristdemokraterna Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-region-ostergotland"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2326",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man ska kalla sig ett välfärdsland borde barn och unga garanteras behandling inom 30 dagar. Det är oacceptabelt som det är idag. Det ska vara en väg in för de som mår dåligt och sedan hjälp på rätt vårdnivå utan långa ledtider. Liberalerna vill också utöka uppdraget till Barnhälsor och Ungdomsmottagningar, för hjälp och stöd att återta kontrollen i tillvaron och livet. Egenmakt ger framtidstro.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östergötland har med sin geografi inte samma behov av ambulanshelikopter som län med mer skärgård och ö-liv. En regionägd ambulanshelikopter är svår att kostnadsmässigt försvara i vårt län. Då finns det andra helikopterlösningar som blir effektivare än just ett eget ägande. Skattemedel måste alltid läggas där de behövs och kan nyttjas som bäst av våra östgötar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förlossningsvården behöver förstärkas med fler barnmorskor så de hinner göra sitt arbete utan för hög stress och oro för att inte räcka till. Det är viktigt även för att den födande kvinnan ska känna trygghet och få goda förutsättningar vid ett av livets viktigaste stunder. Exakt hur arbetet ska läggas upp avgörs bäst inom verksamheten, men att förstärka barnmorsketätheten är en nödvändighet.  \r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna ser språket som en mycket viktig nyckel i relationen mellan patienter och vårdpersonal, så att det blir kvalitet och trygghet i vårdsituationen. Liberalerna driver på i språkfrågan även när det gäller kommunal omsorg och lika viktigt är det förstås att patienter och vårdpersonal verkligen förstår varandra. Det är en förutsättning för trygg och säker vård.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, vi har länge erbjudit specialistutbildning med bibehållen lön för sjuksköterskor i Region Östergötland inom flera inriktningar, bland annat för utbildning till barnmorska. Även specialistutbildning med lön för undersköterskor och fysio- och arbetsterapeuter införs nu, och vi Liberaler arbetar för att så ska ske för fler yrkeskategorier framöver.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen avgiftsfri kollektivtrafik. Om resenärerna skulle slippa betala sina resor i kollektivtrafiken innebär det att våra gemensamma skattemedel måste täcka hela kostnaden. Skattemedel som tas ifrån något annat. Liberalerna anser att det finns viktigare områden att gemensamt finansiera via skatten än biljettfri kollektivtrafik, exempelvis tillgänglighet till sjukvården.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "För att kunna behålla en levande landsbygd kommer Liberalerna att gå till val på en omprövad politik för bussar på landsbygden. Ökad hänsyn måste tas till de som bor utanför tätorterna där bussen är en symbol för att ett område inte är övergivet. Kollektivtrafikens mål behöver förändras så det bidrar till attraktivare ytterområden och landsbygd i stället för det motsatta.\r\n",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Rätt vård i rätt tid för varje patient, det är grunden i liberal sjukvårdspolitik. Om det sker med en offentlig eller privat vårdgivare är mindre viktigt så länge kvalitén är hög och de gemensamma resurserna används effektivt. Med rätt förutsättningar skulle fler privata vårdgivare innebära fler etableringar i Östergötland och därmed att tillgängligheten och valfriheten förbättras. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "Region Östergötland behöver fokusera på kärnverksamheterna. Liberalerna vill genomföra en ekonomisk genomlysning (med så kallad nollbasbudgetering) för att säkerställa att varje skattekrona används klokt och där den ger mest nytta. Då kan både skattesänkning och kvalitetshöjningar bli verklighet. Prioriteringar kräver politiskt mod. Liberalerna vill och vågar sätta ljuset på denna viktiga fråga. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": "En hög personaltäthet är nyckeln till en tillgänglig och bra vård med tillräckligt många vårdplatser. För det krävs attraktivare villkor för sjuksköterskor och andra yrkegrupper. Därutöver finns det vårdområden som behöver prioriteras upp rent resursmässigt, bland annat psykiatrin, vårdcentralerna och förlossningsvården.",
+        "value": [
+          "2176",
+          "2175",
+          "2174"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;B;C;D;D;A;3/5;3/5!;1/5;[2176,2175,2174]!",
+    "color": "#1e69aa",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Många östgötska liberala företrädare anser att den specialiserade sjukvården borde förstatligas i ökad utsträckning mot idag. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Liberalernas naturliga hemvist är tillsammans med de borgerliga partierna/Allianspartierna, men ytterst handlar det om inom vilken konstellation som vi kan få allra störst genomslag för vår liberala politik och angelägna reformer för sjukvården och kollektivtrafiken i Östergötland. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte bilda styre med vare sig Sverigedemokraterna eller Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värdig vård för äldre - ingen ska lämnas att dö ensam",
+        "description": "Visste du att nästan var femte äldre person som avlider inom sjukvården gör det utan att ha någon vid sin sida i dödsögonblicket? Liberalerna vill införa volontärer i vården som kan finnas där som ett medmänskligt stöd för den som behöver. Ingen ska behöva dö ofrivilligt ensam. Vi värnar ALLA äldre och vi vill fortsätta utveckla äldremottagningar som tar särskild hänsyn till äldres behov."
+      },
+      {
+        "category": "Förstärk förlossningsvården och kvinnosjukvården - nu är det kvinnornas tur!",
+        "description": "Svensk hälso- och sjukvård är inte jämställd enligt flertal studier på området. Kvinnor får sämre bemötande i vården och det råder fortfarande okunskap samt tabun kring kvinnosjukdomar. Alltför många kvinnor drabbas av undvikbara bristningar och depression i samband med födandet. Det är hög tid att förstärka både förlossningsvården och kvinnosjukvård. Nu är det kvinnornas tur!"
+      },
+      {
+        "category": "Användningen av skattemedel måste ske smartare och mer varsamt",
+        "description": "Respekten för skattemedel måste öka. Varje skattekrona ska värnas och användas där den gör mest nytta för befolkningen. Nonchalant attityd och slapphänthet hör inte hemma när det gäller förvaltningen av våra gemensamma resurser. Kärnverksamheten måste prioriteras tydligare så vi får en mer tillgänglig och välfungerande sjukvård."
+      }
+    ],
+    "motivateVote": "Liberalerna står för bra sjukvård, pålitlig kollektivtrafik, dynamiskt näringsliv och ett spännande fritids- och kulturutbud som i symbios ska göra Östergötland attraktivt, för såväl människor som företag. Huvudfokuset i Region Östergötland behöver dock sättas där det hör hemma, på fler händer i vården och trygghet i att det finns en ledig tid eller vårdplats när du behöver det.",
+    "name": "Liberalerna Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-region-ostergotland"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2327",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köerna är för långa för dem som behöver specialistpsykiatri. Förslaget är bra men högt satt. Dagens mål om högst 30 dagar för utredning och sedan högst 30  till behandling är svårt att nå. Det beror i huvudsak på personalbrist. Nya arbetssätt, mer digital vård, mer förebyggande arbete och tidiga insatser krävs. Och så förstås  hitta personal. Kommunicera att BUP inte alltid är den enda vårdformen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "En ambulanshelikopter skulle helt klart fylla en medicinsk funktion. En kortad tid till vårdinsatser är ofta viktig, exempelvis vid stroke. Samtidigt är det dyrt och resurskrävande och måste vägas mot alternativa insatser. På sikt och när ekonomin tillåter det tror vi att en ambulanshelikopter tillsammans med Region Kalmar och Region Jönköping är rimligt,",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en prioriterad fråga för Miljöpartiet att stärka kvinnors vård och hälsa.  Förlossningsvården och barnmorskekontinuiteten före, under och efter förlossningen är viktiga exempel. En aktiv fas, särskilt hos förstföderskor, kan ta många timmar. Vården ska inte ha någon annan ambition än att kvinnan ska ha samma barnmorska under aktiv fas. Men ibland kan det säkert vara planeringsmässigt svårt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rekryterande chef som ansvarar för att medarbetare som anställs har rätt kompetens. I Östergötland måste alla som jobbar med patienter förstå och prata svenska. För  läkare och sjuksköterskor krävs nivå C1 i svenska. Givet personalbristen är det viktigt att regionen erbjuder språkutbildning och olika snabbspår. Ofta har de som kan prata svenska också klarat ett språktest. Men inte alltid.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs mer specialistutbildad personal, i synnerhet sjuksköterskor och då ska det vara så attraktivt som möjligt att utbilda sig till det. Kompetenshöjande insatser är nödvändigt för att vården ska fortsätta vara patientsäker och av god kvalitet. Till detta och andra satsningar krävs mer statliga medel.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. Skattebetalarna står redan idag för ca 60% av kollektivtrafikens kostnader. Helt gratis skulle betyda höjd skatt eller att färre resurser satsas på exempelvis sjukvård. Vi vill att fler åker kollektivt, men inte till priset av minskad gång eller cykel. Eller tomma bussar på landsbygden. Vi vill konkurrera med bilen mellan punkter där många åker. Då kan turtäthet vara viktigare än pris. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet vill att fler åker kollektivt. Förhoppningsvis innebär det att kostnaderna sjunker på lång sikt. Men pandemin har inneburit att ekonomin för kollektivtrafiken försämrats påtagligt. Vi vill fortsätta ge ekonomiskt stöd åt kollektivtrafikens återhämtning och att resenärer återvänder fullt ut. Det har hög prioritet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Privata alternativ i vården kan spela en viktig roll för en ökad \r\ntillgänglighet och valfrihet för patienten och utgör en viktig jämförelse för den vård som sker i egen regi och bidrar till att säkerställa kvalitet. Privat vård får aldrig innebära sämre kvalitet eller att försäkringspatienter går före patienter med större behov. Vi motsätter oss helt privatisering av högt specialiserad vård",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "Regionskatten har de senaste tio åren höjts två gånger och relativt kraftfullt. Det finns stora behov av resurstillskott inom offentlig sektor. T. ex sjukvård. Men det måste ske på annat sätt än genom icke-statlig inkomstskatt. Ökade statsbidrag till vård och omsorg är en nödvändighet om kvalitet ska kunna bibehållas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2176",
+          "2174",
+          "2173"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;C;D!;C;D!;A;3/5!;2/5;2/5;[2176,2174,2173]!",
+    "color": "#82c882",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i någon avgörande mening.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi tycker att det samarbete som vi har nu med S, C och L fungerar bra, men vi är också öppna för andra konstellationer och partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi utesluter ett samarbete med Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vården ska vara fossilfri",
+        "description": "Sjukvårdsmaterial står för mer än hälften av regionens påverkan på klimatet. Det är framför allt den stora mängden engångsprodukter i plast som ger denna effekt. En del material kan ersättas av flergångsprodukter och andra bytas ut mot biobaserade. Upphandling och inköp måste bli mer klimatsmart. Mängden av avfall per vårdtillfälle ska minska och regionen bli bättre på återanvändning och återbruk."
+      },
+      {
+        "category": "Goda arbetsvillkor för vårdens medarbetare",
+        "description": "Goda arbetsvillkor för vårdpersonalen är avgörande för att patienten ska få en god vård. Återhämtning och tid för reflektion är en viktig del. Lönebildning som stärker kompetensförsörjningen, jämställda löner, arbetstidsmodeller, förbättrat ledarskap, generationsväxling och riktade satsningar mot specialistutbildade sjuksköterskor och undersköterskor är andra viktiga åtgärder."
+      },
+      {
+        "category": "Prioritera kvinnors hälsa",
+        "description": "Vi vill att kvinnors hälsa prioriteras och vården blir jämställd. Mottagandet av kvinnor som utsatts för våld måste förbättras. Vi vill utveckla förlossningsvården så att möjligheten att ha en barnmorska per födande i aktiv fas ökas och att möjligheterna att få träffa samma barnmorska under och efter graviditeten stärks. Arbetet med att förebygga och behandla förlossningsskador är viktigt."
+      }
+    ],
+    "motivateVote": "Vi vill satsa på vårdpersonalen och deras arbetsvillkor, satsa på jämställdhet och förstärkt förlossningsvård. Vi är en garanti att regionen fortsätter prioriritera klimatarbetet och omställningen till ett hållbart samhälle. Vi vill ha en nära, hälsoinriktad och förebyggande vård . Då måste vårdcentralerna få mer resurser och samarbetet med kommunerna bli bättre. Om du håller med ,rösta på oss!",
+    "name": "Miljöpartiet Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-region-ostergotland"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2328",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Östergötland är köerna till BUP alldeles för långa, vilket skapar stort lidande för barnet/ungdomen i behov av vård – men också för hela familjen.   Moderaterna vill att barn och unga ska få sin första bedömning och behandling till BUP inom 30 dagar och har flera konkreta förslag för att göra det möjligt.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Moderaterna är det viktigt med tillgång till snabb och jämlik vård. Om Region Jönköpings län och Region Kalmar län är villiga att satsa på en ambulanshelikopter i sydöstra sjukvårdsregionen ska självklart Region Östergötland ingå i det utifrån vårt behov. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla har rätt till en trygg och säker förlossning. För att uppnå det är det för Moderaterna självklart att födande kvinnor ska ha en barnmorska hos sig under den aktiva fasen av förlossningen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte bara viktigt att kunna prata så att andra förstår vad man säger, utan också att kunna skriva och formulera sig i svenska språket när man arbetar inom hälso- och sjukvården. Vi vill därför införa tydliga krav som slår fast vad man behöver kunna för att vara anställningsbar inom vården och omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att fler får möjlighet till betald specialistutbildning på arbetstid. Det är också viktigt att en genomgången specialistutbildning även syns i löneutvecklingen. Tyvärr är fortbildning generellt ofta eftersatt. Moderaterna har under lång tid drivit frågan om att införa krav på, och rätt till, fortbildning för vårdpersonal. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gratis kollektivtrafik för alla skulle vara oerhört kostsamt, där resurser i sådant fall skulle behöva tas från regionens övriga delar i budgeten, dvs från hälso- och sjukvården främst. En sådan lösning anser vi är en mycket dålig idé, där vården redan är under stor press. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Nuvarande budgetnivå känns väl avvägd för att regionen ska kunna upprätthålla en god kollektivtrafik. Samtidigt vill vi utveckla och förbättra kollektivtrafiken, men det får främst ske genom att fler finner trafiken attraktiv och därmed bidrar till ökade intäkter som kan användas till förstärkningar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver fler vårdgivare som kan vara med och kapa vårdköerna och utveckla vården. Privata vårdgivare bidrar till ökad konkurrens och ökad valfrihet för både patienter och medarbetare. Vi välkomnar alla som vill och kan vara med och bidra till vår gemensamma välfärd, där kvalitet och patientens bästa alltid står i fokus.  ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "Skatten ska, så snart det är möjligt, sänkas. Vi är måna om att östgötarna ska få behålla så mycket som möjligt av sina intjänade pengar. Vi vet också att hög skatt inte per automatik leder till bättre vård, utan att det snarare handlar om god ledning och styrning och förmåga att hantera våra gemensamma resurser bäst. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": "Region Östergötland måste blir en mer attraktiv arbetsgivare, där man både lyckas rekrytera medarbetare – men inte minst behålla de man redan har. Moderaterna har förslag som handlar om förbättrad arbetsmiljö, fler karriärvägar och god löneutveckling. Men också att det måste löna sig mer att arbeta på obekväm arbetstid, därför vill vi höja OB-tillägget. ",
+        "value": [
+          "2176",
+          "2175",
+          "2174"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;C;D!;D;D!;A;2/5;4/5!;1/5;[2176,2175,2174]!",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det behöver byggas ut kapacitet för snabba tåg där tidsintervallet mellan regioner och städer minskar för ökad rörlighet och tillväxt. Vi vill se en satsning på ny stambana för höghastighetståg söderut från Linköping mot kontinenten och Göteborg. På riksnivå förordar man inte ny höghastighetsbana.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Moderaterna vill helst bilda styre med övriga borgerliga partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, för oss är sakpolitiken det viktiga. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rätt vård i rätt tid ",
+        "description": "Vårdköerna har ökat kraftigt de senaste åren. Det måste gå snabbare att få rätt vård i rätt tid. Vi välkomnar därför alla aktörer som vill och kan bidra till en bättre välfärd, där du som patient ges flera valmöjligheter. Vi behöver fler, inte färre, som kan vara med och kapa vårdköerna. Det krävs också satsningar på vårdcentralerna, som ofta är första kontakten in, för att öka tillgängligheten."
+      },
+      {
+        "category": "Förbättra villkoren för vårdens medarbetare",
+        "description": "Vi måste vi satsa på vårdens viktigaste resurs – medarbetarna – på ett helt annat sätt än som görs idag. Det handlar bland annat om förbättrad arbetsmiljö, fler karriärvägar och god löneutveckling. Men också att det måste löna sig mer att arbeta på obekväm arbetstid, därför vill vi höja OB-tillägget. Lika viktigt är det att möjliggöra ett hållbart arbetsliv, med möjlighet till återhämtning."
+      },
+      {
+        "category": "Korta köerna till BUP",
+        "description": "Köerna till BUP är för långa, vilket skapar stort lidande för barnet/den unge i behov av vård – men också för hela familjen. Vi vill korta köerna genom att bl.a. utbilda fler psykologer och tillåta fler aktörer erbjuda barn- och ungdomspsykiatrisk vård. En del av kömiljarderna vill vi särskilt ska riktas till BUP i syfte att barn och unga ska få en första bedömning och behandling inom 30 dagar."
+      }
+    ],
+    "motivateVote": "Moderaterna har förmåga att ta tag i de problem vi står inför. Vi har en vårdkris i Östergötland med växande vårdköer och utarbetade medarbetare. För att vända utvecklingen behöver vi framför allt satsa på vårdens medarbetare på ett helt annat sätt än som görs idag. Vi har förslag för bättre arbetsmiljö, ett hållbart arbetsliv och att det ska märkas i plånboken när man jobbar obekväm arbetstid.",
+    "name": "Moderaterna Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-ostergotland"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2329",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag är väntetiderna till ungdomspsykiatrin allt för långa. Det tänker vi ändra på.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östergötland kan redan idag kalla i helikopter från andra delar av landet. Vi får många ambulanser för samma kostnad som en helikopter och bedömer att vi då får mer vård till östgötarna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det självklart att man som födande ska kunna känna sig trygg under sin förlossning, inte minst i slutskedet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att vårdpersonalen förstår vad du som patient säger handlar om känslan av trygghet men framför allt om patientsäkerheten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag tvingas vårdplatser hållas stängda p.g.a. personalbrist. Genom att vidareutbilda fler och satsa på arbetsmiljön kan vi öka tillgängligheten i vården.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken är redan idag subventionerad till cirka 50 procent av skattemedel, för att hålla nere priserna. Vi tycker att det är rimligt att den som åker med kollektivtrafiken också betalar en del. Om det finns pengar att satsa på kollektivtrafiken så vill vi främst utöka antalet linjer och avgångar så fler kan åka kollektivt, snarare än sänka priserna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Sjukvård och kollektivtrafik är regionens största utgifter. Eftersom behoven i vården växer tycker vi att det är viktigt att fortsätta satsa på vården. Därför vill vi behålla stödet till kollektivtrafiken som det är idag, i stället för att lägga mer pengar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Privata vårdgivare kan bidra i vården, men tyvärr ser vi också många exempel på företag som bara är ute för att vinstmaximera, inte minst oseriösa appläkare som lockar friska patienter att kontakta dem och sedan fakturerar vården.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "Vi tänker fortsätta satsa på vården men eftersom regeringen satsar mycket på sjukvården bedömer vi inte att regionskatten behöver höjas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi genomför redan idag lönesatsningar på specialistutbildade sjuksköterskor och tänker fortsätta att göra det, men nu när vi tvingas välja tre förslag här tycker vi att lönesatsningar som en del av att locka fler att jobba i vården omfattas av förslaget om att höja personaltätheten. ",
+        "value": [
+          "2175",
+          "2174",
+          "2173"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;B;D!;D!;D!;B;2/5;1/5!;2/5;[2175,2174,2173]",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vår politik för en starkare sjukvård med bättre villkor för medarbetarna hänger ihop från regering till regioner och kommuner. Det ser vi som en styrka. T.ex. har S-regeringen tillfört regionerna 6 miljarder kr i år som vi nu använder för att ta igen vård som behövde skjutas upp under pandemin.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi socialdemokrater är öppna för att leda regionen tillsammans med många olika partier. Det viktigaste för oss är att vi får genomslag för så mycket av vår politik som möjligt, så att vi kan fortsätta att satsa på vården och vårdens medarbetare och säkerställa att alla östgötar har tillgång till en god och trygg vård.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att samarbeta med eller göra oss beroende av SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi tänker satsa på personalen – vårdens viktigaste tillgång",
+        "description": "När medarbetarna är för få ökar väntetiderna och vårdplatser stängs. Vi kommer utbilda fler i vårdens bristyrken och satsa på att de som redan jobbar i vården trivs och vill jobba kvar. Det gör vi bl.a. genom att låta fler vidareutbilda sig med bibehållen lön och göra riktade lönesatsningar. Vi ska också fasa ut hyrpersonalen till förmån för fast personal."
+      },
+      {
+        "category": "Vi ska ha trygg vård som finns där när du behöver den",
+        "description": "Det finns en stor trygghet i att snabbt kunna få kontakt och få ett besök i vården. I dag är det för få som känner den tryggheten och därför måste tillgängligheten bli bättre. Vi tänker korta väntetiderna till 1177 och öka tillgängligheten i vården. I alla regionens 13 kommuner ska det finnas familjecentraler, där kommunerna och regionen erbjuder såväl vård som stöttning till familjer."
+      },
+      {
+        "category": "Vi tänker ta tillbaka den demokratiska kontrollen över vården",
+        "description": "Sjukvård ska ges efter behov – inte efter plånbok. Vi vill ta tillbaka den demokratiska kontrollen över vården och göra upp med den borgerliga marknadsstyrningen. Pengar till vården ska gå till just vården. Östergötlands befolkning växer och därför tänker vi öppna nya vårdcentraler som drivs utan vinstjakt. Vi tänker också öka regionens beredskap för krig, kriser och pandemier."
+      }
+    ],
+    "motivateVote": "För att korta väntetiderna i vården ska vi anställa fler medarbetare och förbättra arbetsvillkoren. Vi vill göra upp med den borgerliga marknadsstyrningen. Den som är i störst behov av att träffa en läkare, få en operation eller en behandling ska gå först, inte den som har råd att betala för en dyr vårdförsäkring. Du ska ha rätt till en förstklassig vård oavsett inkomst, kön eller bostadsort.",
+    "name": "Socialdemokraterna Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-ostergotland"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2330",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag är väntetiderna till BUP alltför långa, detta måste åtgärdas. Sverigedemokraternas åsikt är att barn- och ungdomspsykiatrin avsevärt måste förbättras med tanke på att den psykiska ohälsan bland barn och unga ökar.  Vi vill anställa fler psykoterapeuter, öka antalet vårdplatser samt förbättra kommunikationen mellan regionen, kommunerna och verksamheterna för att förbättra tillgängligheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det viktigaste att det finns ett bra och fungerande ambulansflyg. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de födande kvinnor som har ett behov av att ha en barnmorska hos sig under hela den aktiva fasen ska självfallet ha den möjligheten. Detta förutsätter att vi har en god grundbemanning, något som Sverigedemokraterna har för avsikt att förbättra. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser det som en självklarhet att vårdpersonalen kan tala samt kommunicera på svenska. Därför vill Sverigedemokraterna se att språkkrav inom hälso- och sjukvården införs. Detta i syfte att förbättra patientsäkerheten men även för att stärka upp arbetslagen inom vården. Vi är av åsikten att en god hälso- och sjukvård grundar sig i en god kommunikation mellan patient och vårdpersonal. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna är för all form av kompetensförsörjning och utbildning som leder till en förbättrad hälso- och sjukvård. Vi ser det som viktigt att man som vårdpersonal erbjuds karriärmöjligheter och vidareutbildning i syfte att förbättra arbetsmiljön och göra sjukvårdsyrket mer attraktivt. Detta har vi även budgeterat för i vår treårsbudget 2022. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Biljetterna i kollektivtrafiken är redan subventionerade, dock kan vi idag se at kollektivtrafiken inte är anpassat efter landsbygdens behov, där kollektivtrafiken idag har låg tillgänglighet. Vi ser en stor problematik kring tjuvåkning, vilket höjer biljettpriserna för övriga resenärer. Vi vill se fler kontrollanter inom kollektivtrafiken för att förbättra tryggheten för resenärer och personal.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste för oss är att det finns en tillgänglig kollektivtrafik på stad och landsbygd, att den är trygg och att den motverkar tjuvåkning. I vårt förslag till budget 2023 så satsar Sverigedemokraterna totalt 114 miljoner kronor extra till kollektivtrafiken, i syfte att göra kollektivtrafiken mer tillgänglig och trygg.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Så mycket som behövs för att sjukvården i Östergötland ska bli mer tillgänglig och bra. Vi vill inte inskränka de privata vårdgivarnas arbete förutsatt att de håller en hög kvalité. För oss är det viktigaste att kvalitén i vården förbättras, oavsett om det drivs i privat eller offentlig regi. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget vill vi se en oförändrad skattesats, men ifall möjlighet ges så är vi inte främmade till en skattesänkning. Med tanke på hur läget ser ut idag så behöver vi göra satsningar inom såväl hälso- och sjukvården som kollektivtrafiken. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": "För att säkerställa en tillgänglig hälso- och sjukvård behöver vi höja grundbemanningen och göra vårdyrket mer attraktivt. För att minska belastningen så behöver vi förbättra tillgängligheten till vårdcentralerna i syfte att vägleda patienter bättre samt skapa incitament för att vända sig dit. I syfte att möta dagens vårdbehov och för att minska vårdskulden så behöver vi satsa mer på slutenvården.",
+        "value": [
+          "2175",
+          "2177",
+          "2173"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;C;C;D!;D!;A;3/5;3/5;2/5;[2175,2177,2173]!",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "För Sverigedemokraterna är det viktigaste att styret efter valet, ger oss tillräckligt mycket inflytande för att påverka den situation vi har idag med nutida vårdköer, otacksamma arbetsvillkor och en otillgänglig kollektivtrafik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej. För oss är östgötarnas behov det viktigaste, inte det politiska spelet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättra barn- och ungdomspsykiatrin.",
+        "description": "Sverigedemokraterna har under hela mandatperioden varit drivande i frågan om att förbättra barn- och ungdomspsykiatrin. Vi har lagt förslag som psykiatriska mobila enheter, fokus på första linjens psykiatri samt fler anställda inom barn- och ungdomspsykiatrin. Vi ser det även som viktigt att samverkan med skolor och kommuner ökar för att ge alla barn bästa möjliga hjälp och stöd."
+      },
+      {
+        "category": "Vårdpersonalens arbetssituation måste avsevärt förbättras.",
+        "description": "Vårdpersonalen arbetar idag med ohållbara arbetsförhållanden. Beroendet på bemanningsföretag måste minska för att säkerställa hållbara arbetslag. Rätt använd kompetens måste implementeras i större omfattning för att säkerställa att vårdpersonalens kunskap och erfarenhet används på bästa sätt. Vi kommer behöva se fler händer i vården för att minska stress och arbetsbelastning för vårdpersonalen."
+      },
+      {
+        "category": "Tillgänglig och hållbar kollektivtrafik i hela länet.",
+        "description": "För att hela länet ska kunna frodas och utvecklas så krävs det en tillgänglig kollektivtrafik i hela länet, även på landsbygden. Kollektivtrafiken ska inte enbart utgå ifrån ekonomi utan måste även ta behov i beaktande. Vi föreslår därför mer resurser till kollektivtrafiken så kollektivtrafiken i städerna kan utvecklas samtidigt som personer boende på landsbygden får tillgång till kollektivtrafik."
+      }
+    ],
+    "motivateVote": "För att vi idag kan se att vi har en ohållbar situation vad gäller långa väntetider till vården, barn- och ungdomspsykiatrin, och 1177 telefonrådgivning, för att nämna några exempel. Styrande koalition har under ett flertal år försämrat tillgängligheten på landsbygden genom borttagandet av landsbygdslinjer. Tryggheten inom kollektivtrafiken och vårdmiljön är viktiga frågor för Sverigedemokraterna.",
+    "name": "Sverigedemokraterna Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-ostergotland"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2331",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a05eb9b0a06c908b46e201e8d0688327",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag har vi orimligt långa köer för unga med behov av stöd och behandling. Det är ett verklig skandal som måste lösas så snart som möjligt!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f20a93b2a8c19f8abc3809cb3c30a672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi ska prioritera resurserna till sjukvården behöver vi först och främst anställa mer personal och öppna stängda vårdplatser. Då får dyra investeringar i helikopter vänta!",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4762d8df8c260996493efa293a21af43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östergötland har minst antal barnmorskor i hela landet. Det vill Vänsterpartiet ändra på. Vi vill bland annat öppna en ny barnmorskeledd förlossningsavdelning i regionen!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ea5df755f1e5777db07d44a838a903c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla kan Svenska och kan kommunicera med patienterna. Men språktest är fel väg att gå.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d75b1bf945b86a3020fed51455878400",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet avsätter resurser för att både sjuksköterskor och undersköterskor ska kunna specialistutbilda sig med lön under arbetstid. Vi behöver mer kompetent personal!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecf4ae9caaaef10e3489915ec1eb878f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet skulle helst vilja ha gratis kollektivtrafik i framtiden. Fram till dess satsar vi på billiga sommarlovsbiljetter för ungdomar och att pensionärer ska kunna köpa månadskort för 100 kr per månad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a43d7e89b05f7e6b5f6d8fb744da27bf",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet satsar 30 miljoner per år för att bygga ut kollektivtrafiken på landsbygden. Men sänker vi avgifterna så kommer fler att resa och finansiera mer av kollektivtrafiken på kort sikt. På lång sikt vill vi gärna att skattemedel finansierar med av trafiken.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "75f73638ee7996124df98a5c77ccada8",
+        "questionType": "RANGE",
+        "reasoning": "Marknadsvården ska avskaffas. Skattemedel ska gå till sjukvård inte vinstutdelningar. Här är Vänsterpartiet det enda partiet som sagt nej till stora privatiseringar i Östergötland den senaste mandatperioden.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "be8828676b8abfed9aa8f77f7062f4e8",
+        "questionType": "RANGE",
+        "reasoning": "De kommande åren behöver inte skatten ändras. Pengar till sjukvården kan tas ur regionens välfyllda bankkonton där man lagt miljarder på hög de senaste åren.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ff8293c53f80e6143189de4a631ad4fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2175",
+          "2174",
+          "2173"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;B;D!;B;D;D;3/5;0/5!;2/5;[2175,2174,2173]!",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vänsterpartiet i Östergötland har gjort uppgörelser med alla partier utom SD de senaste åren. Det är vi beredda att fortsätta med. Alla som är beredda att arbeta tillsammans med för en bättre sjukvård kan vi samarbeta med!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler vårdplatser i sjukvården",
+        "description": "Vänsterpartiet vill ha fler vårdplatser i sjukvården. Idag ser vi konstanta överbeläggningar och allt längre vårdköer. Det måste vi ändra på! Därför vill vi anställa fler sjuksköterskor och sätta stopp för besparingar i vården!"
+      },
+      {
+        "category": "Mer - inte mindre - resurser till sjukvården!",
+        "description": "Sjukvården behöver mer resurser. Därför är det helt galet att de andra partierna är helt överens om att spara in pengar på sjukvården och minska antalet anställda. Vänsterpartiet är det enda partiet som på riktigt vill att sjukvården ska få mer resurser."
+      },
+      {
+        "category": "Mer personal med bättre arbetsvillkor!",
+        "description": "Om sjukvården ska funka för alla Östgötar så måste vi få fler sjuksköterskor och undersköterskor. Annars kommer sjukvården bli sämre och köerna längre! Därför satsar vi bland annat 100 miljoner kr på höjda löner."
+      }
+    ],
+    "motivateVote": "Sjukvården behöver mer resurser - inte mindre! En röst på Vänsterpartiet är en röst för att avskaffa marknadsvården, fler vårdplatser och sjuksköterskor. Vi sätter stopp för besparingar och sätter patienterna först.",
+    "name": "Vänsterpartiet Region Östergötland",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-ostergotland"
+  }
+]

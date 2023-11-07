@@ -1,0 +1,1460 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1785",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2535",
+          "2532",
+          "2537"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;A;C;A;A;C;C;C;C;A;2/5;3/5!;2/5!;[2535,2532,2537]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet är den främsta motvikten till främlingsfientlighet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En väl fungerande skola för alla.",
+        "description": "På Tjörn behöver vi enas om en skolstruktur som vi kan arbeta med i många år. Den viktigaste delen är att eleverna skall kunna tillgodogöra sig kunskap i en trygg och stimulerande miljö. Även lärarnas arbetsförhållande måste beaktas. Vår skola skall vara en bra arbetsplats. Som i alla beslut måste man även här vara beredd att kompromissa. Det sämsta alternativet är att inte ta något beslut alls."
+      },
+      {
+        "category": "Ett levande hav.",
+        "description": "Som en kustkommun är vi beroende av havet både som arbetsplats och rekreationsområde. Havsmiljön är hotad bl.a. av nedskräpning och överfiske. Vi måste arbeta tillsammans med våra grannkommuner för att säkerställa att havsmiljön förbättras."
+      },
+      {
+        "category": "Omställning krävs för att klara klimatutmaningen",
+        "description": "Satsa på gröna näringar och stärkt innovationskraft. Bygg ut land- och havsbaserad vindkraft, solenergi och annan lokal elproduktion. Påskynda utbyggnaden av laddinfrastrukturen för såväl privatbilismen som för tunga fordon. Stoppa mikroplaster från att hamna i våra hav och sjöar"
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar mo",
+    "name": "Centerpartiet Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-tjorn"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1786",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tjörn ska ha lågstadieskolor på de fem serviceorterna, Skärhamn, Rönnäng, Kållekärr, Myggnäs, Höviksnäs samt 4-9 skolnav I Häggvall och Bleket. Samt att vi vill värna friskolan i Långekärr",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ha vindkraft som är ett resultat av lokalt förankrade beslut. Dessutom har Havsmyndigheten inventerat lämpliga platser för havsbaserad vindkraft nationellt och dessa platser ska användas först.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte aktuellt på Tjörn",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en fråga för arbetsmarknadens parter",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om förutsättningarna för kommunal folkomröstning enligt kommunallagen är uppfyllda ska frågan om folkomröstning beslutas i kommunfullmäktige",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att anställda inom serviceyrken måste kunna förstå och kommunicera på svenska med vårdtagarna",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan ske genom det kommunala bostadsbolaget",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska tillse att en laddinfrastruktur skapas där kommunen kan vara en aktör",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fördelning mellan kommuner ska ske på nationell nivå",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": "Varje ansökan om etablering av friskola får bedömmas från fall till fall",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": "Prio är vård, skola, omsorg",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A!;B;A;A;A;B;D;D;D;D;A;3/5;1/5;2/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "På kommunal nivå är vård, skola, omsorg prioriterat och det stämmer med riks",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill vara del i/skapa en beslutsför och öppen politisk majoritet.  Sedan får valresultatet ligga till grund för förhandlingar med andra partier",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Valresultatet får styra",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Våra barn och ungdomar i centrum",
+        "description": "Tjörns framtid ligger i händerna på kommande generationer. Därför är det kommunens skyldighet att ta ansvar för en förskola och skola med hög kvalite´. För välbefinnande krävs också trygga miljöer och möjlighet att utveckla sina fritidsintressen. Idrott, musik och andra estetiska uttrycksformer är möjligt genom samverkan mellan kommun och föreningsliv."
+      },
+      {
+        "category": "Underlätta livspusslet",
+        "description": "Kommunen ska sörja för att människor i alla livets faser har en bra livskvalite´. Se till att förskola och skola finns nära och att öppettider och val av förskola svarar mot familjernas behov. Se till att det finns snabba direktförbindelser för arbetspendling från västra Tjörn. Och att det finns boendealternativ för våra äldre när önskemål om mer lättskött boende blir aktuellt."
+      },
+      {
+        "category": "Hållbar framtid för Tjörn",
+        "description": "Behovet av fossil energi ska succesivt minska och hand i hand med detta måste nya alternativ skapas. Ny infrastruktur som möjliggör elektrifiering behövs. En större egen energiproduktion på Tjörn är en del av detta. Fler arbetsplatser på Tjörn för att minska transportbehov och alternativa kommunikationer till havs för att avlasta Tjörnbron bidrar också."
+      }
+    ],
+    "motivateVote": "Viktigast är att behålla lågstadieskolorna på våra fem serviceorter och skapa två 4-9 skolnav i Bleket och i Häggvall. Minska barngrupperna i förskolorna i första hand för de yngsta barnen och fler boendealernativ för våra äldre med trygghets-/seniorboenden. Få till en laddinfrastruktur på Tjörn och underlätta för investeringar i solcellspaneler.                                    ",
+    "name": "Kristdemokraterna Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-tjorn"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1787",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2535",
+          "2539",
+          "2540"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;B;B;C;B;C;B;C;C;C;2/5;2/5;2/5;[2535,2539,2540]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Självklart ett starkt liberalt parti, men god samverkan med övriga partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De partier som står långt från mitten",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "skolan på tjörn",
+        "description": "För att möta behovet av lärare och bästa skola vill vi på Tjörn införa två nav, två skolor från åk F-9. Viktigt att få bästa skola för elever, lärare och vårdnadshavare. Två nav betyder inte två stora skolor utan skolor i nära anslutning"
+      },
+      {
+        "category": "Nytt äldreboende",
+        "description": "Att möta behovet med boende för alla grupper inom samhället, ett flexibelt boende för våra invånare som behöver stöd i vardagen, \r\nBehoven har ändrats hur vi vill ha hjälp från samhället när vi behöver detta"
+      },
+      {
+        "category": "minskad heltidsnorm",
+        "description": "Att rekrytering till offentliga verksamhet kommer att vara en svårighet framöver, \r\nUndersköterskor, teknisk personal, socionomer, lärare ja många grupper kommer att saknas framgent. För att behålla och ge ett hållbart arbetsliv vill vi sänka heltidsnormen heltid på Tjörn är kanske 80-90% med bibehållen lön"
+      }
+    ],
+    "motivateVote": "Vi är partiet för dom som är unga, mitt i livet och äldre, stabila och erfarna. Vi tror på den enskildes kraft och är stöttande när det behövs.\r\nPå lokalpolitisk nivå har vi utvecklat vår Ö till en av de bästa kommuner att bo och leva på. Bra skolor och föreningsliv, bästa äldreomsorg, Sveriges lägsta arbetslöshet. ",
+    "name": "Liberalerna Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-tjorn"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1788",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det enda förslaget som tar ett samhällsperpektiv och skapar förutsättningar för en skola med hög abitionsnivå. Utöver detta får vi 250 nya bostäder, äldreboende och en samlad socialtjänst. Utan att behöva ta ny mark i anspråk. Det enda socialt, ekonomiskt och ekologiskt hållbara förslaget.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "ALLA SKALL med när Sverige ställer om. Dessutom kan kommunen få ekonomiska vinster om vi agerar smart. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala har tillskillnad från dom privat har ofta även allmänyttigt uppdrag. Frågan är inte så självklar. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte bara. Vi tänker att alla kommunens medarbetare skall arbeta 6 timmars dagar som en del av hållbart arbetsliv. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker kanske att dialogen och samtalet skall vara bättre mellan valen. Exempelvis via medborgardialoger. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta finns redan via utbildningskraven som finns. Bättre att arbete för att ha en inkluderande arbetsplats. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skall ha förutsättningar till ett gott liv. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör begränsa vinstuttag och ha högre krav på uppföljning. Snarare satsa på intrapenader och personalkooperativ. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstolpar är ett gemensamt ansvar. Här behöver näringslivet och kommunen arbeta tillsammans. Näringsliv äger och kommunen skapar förutsättninger. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att vi skall ta emot utifrån behoven. För oss handlar det om solidaritet med alla världens människor. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": "Skolan skall förstatligas!",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": "Vi får oerhört mycket samhällsnytta för lite pengar idag. Kommunens arbete inom aktuell nämnd är kärnan av vårt förebyggande sociala arbete. Vårt kulturutbud är dessutom en del av vår attraktivitet. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": "Skall vi klara av omställningen måste vi våga investera. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2535",
+          "2540",
+          "2534"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;B;B;D!;B;B;D;B;B;A!;0/5!;3/5!;3/5!;[2535,2540,2534]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Grönt styre med fokus på långsiktig hållbarhet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill samtala med alla men samarbetar inte med SD och Tjörnpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Koldioxidbudget och klimat och energiplan ",
+        "description": "Att kommunen skall ta fram en koldioxidbudget som visar med vilken fart vi ska fasa ut kommunens utsläpp. Denna ska vi sedan kunna mäta våra utsläpp mot varje år. Även anta en klimat- och energistrategi. Tjörns kommun har goda förutsättningar att bli självförsörjande på el med hjälp av sol, vind och vågkraft. Målet är att nå dit år 2040."
+      },
+      {
+        "category": "Öka hållbar närproduktion av livsmedel.",
+        "description": "Kommunen ska  bistå och underlätta för etablering av mindre gårdar för närproduktion av livsmedel"
+      },
+      {
+        "category": "En skolstruktur med hög ambitionsnivå.",
+        "description": "Samverkan mellan lärare samt strukturer som förbättrar lärarnas och rektorernas förutsättningar att lyckas med sitt uppdrag är viktiga faktorer för goda kunskapsresultat.\r\nHur vår skolstruktur är utformad har stor betydelse. Vi har en hög ambitionsnivå och efter att lyssnat på professionen är vi för 2 st nav. Vi låter expertisen bedöma och styra var de olika naven ska ligga och utvecklas."
+      }
+    ],
+    "motivateVote": "Vi är det ENDA miljöparti som finns. Vi vill tillsammans med övriga samhälls aktörer skapa den gröna omställningen,  det nya GRÖNA folkhemet. \r\nVi vill föra en politik där vi lever inom naturens ramar, med insikt om vårt djupa beroende av varandra. Vi vill vara en röst för dem som inte kan göra sina röster hörda. ",
+    "name": "Miljöpartiet Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-tjorn"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1789",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste konsertera våra resurser till färre skolor",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bohus kusten är allt för unik för att sätta vindkraftsparker till havs ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behövs inte",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall hantera Vård, Skola , omsorg primärt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": "NEJ!!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara ett bra alternativ för att höja kvalitén på vården",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A!;A!;D!;A;A;D!;A;D;A;C;2/5;2/5;2/5;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Stark borgerlig styre med Ulf Kristersson som stadsminister. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "S, V och MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolstruktur",
+        "description": "Tjörns kommun  står inför att antaga en ny skolstruktur och lokalförsörjningsplan vilket kommer att vara viktigt för våra invånare att ta del av och debattera inför valet."
+      },
+      {
+        "category": "Säkra vattenförsörjning för framtida expansion, bebyggelse och verksamhet ",
+        "description": "Säkra vatten tillförsel till vår ö genom ledning från Göta älv."
+      },
+      {
+        "category": "Kommunalt veto gällande vindkraftsparker till havs. ",
+        "description": "Vi är en kust kommun som vill bevara värdet av en fri horisont linje i västerhavet.\r\nEnergi försörjning skall säkras via en stärkt el försörjning via befintliga anläggningar."
+      }
+    ],
+    "motivateVote": "Förändring av förd S rikspolitik är nödvändig.",
+    "name": "Moderaterna Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-tjorn"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1790",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha två skolnav med 4-9 skolor och låta de mindre  barnen F-3 gå kvar i skolor när hemmet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tycker vi ska utreda frågan och därefter ta ställning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": "För dåligt insatt i frågan för att varken säga ja eller nej.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att de politiska partierna är tydliga vad de vill innan valet. Då slipper man ha folkomröstningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en solidarisk skyldighet att tillsammans med övriga kommuner i Sverige lösa detta och får då ta vår del av ansvaret.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2535",
+          "2538",
+          "2539"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;C;A;C;C;D;D;B;D;B;2/5;2/5;2/5;[2535,2538,2539]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ingen fråga som vi aktivt driver ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En socialdemokratisk majoritet med samarbete med de partier som delar våra värderingar",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som inte delar vår värdegrund om alla människors lika värde ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan",
+        "description": "Socialdemokraterna Tjörn anser att skolan på Tjörn behöver ett stort resurstillskott. Dessutom måste beslut om ny skolstruktur tas omgående. Vi vill satsa på två skolnav åk 4-9 i Bleket och Häggvall samt F-3 skolor på befintliga platser. Till skolnaven knyts kultur och fritidscentra."
+      },
+      {
+        "category": "Äldreomsorg",
+        "description": "Socialdemokraterna Tjörn vill satsa på att bygga världens bästa äldreomsorg. I detta ingår att bygga ett nytt äldreboende fler trygghetsboende och att satsa på vår personal. Äldreomsorgspersonalen behöver kompetensutveckling och trygga heltidsanställningar."
+      },
+      {
+        "category": "Hyresrätter",
+        "description": "Socialdemokraterna Tjörn vill satsa på byggande av fler hyresrätter på Tjörn. Idag har vi som kommun den lägsta andelen hyresrätter inom göteborgsområdet. Detta skapar problem för såväl yngre som har svårt att hitta sin första bostad som äldre som vill flytta från sin villa. Att bygga fler hyresrätter är ett måste för att hela Tjörn skall kunna leva åtet runt."
+      }
+    ],
+    "motivateVote": "För att vi vill värna om välfärdssamhället och först och främst satsa pengar på skola och omsorg. ",
+    "name": "Socialdemokraterna Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-tjorn"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1791",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2535",
+          "2538",
+          "2539"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;A!;C;A;C;D;D;C;C;C;C;2/5;2/5;2/5;[2535,2538,2539]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att vi finns med med så många mandat som möjligt i kommunfullmäktige.\r\nTillsammans med de partier som driver de frågor vi anser viktigast.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, inte så länge de i stort har samma grundsyn på våran ideologi.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolstruktur",
+        "description": "Vi vill värna de små, lokala skolorna på Tjörn. De yngre barnen ska gå på en skola nära hemmet medan de äldre ska gå på någon av de två senareskolorna vi vill ha."
+      },
+      {
+        "category": "En attraktiv kustkommun",
+        "description": "Under sommaren växer befolkningen på Tjörn kraftigt. Genom att erbjuda en mängd olika aktiviteter, både naturupplevelser och kulturevenemang, kan vi förlänga turistsäsongen."
+      },
+      {
+        "category": "En hållbar utveckling och miljö",
+        "description": "En utbyggnad och förbättring  av vårt va-nät är en prioriterad fråga. Vi bör satsa på solpaneler och laddstolpar. Vi är mot en planerad vindkraftspark utanför Tjörn"
+      }
+    ],
+    "motivateVote": "Vi håller vad vi lovat. Vi driver de frågor som våra innevånare ser som viktigast,t.ex. skola, vård, omsorg och trygghet.",
+    "name": "Sverigedemokraterna Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-tjorn"
+  },
+  {
+    "abbreviation": "TJÖP",
+    "altingetCandidateId": "1792",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tjörnpartiet säger nej till att ändra och lägga ner dagens skolor och flytta eleverna  Flytta eleverna ökar endast mobing i storskolor",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att fylla havet utanför Tjörns kuster med kraftverk är ett hårt slag mot naturen, fisket och vårtkulturarv. Tjörnpartiet kommer inte på någotvis att medverka att vindkraftverken uppföres och vi kommer att konsekvent att rösta nej sådana förslag. Tjörns kuster och västkusten skall inte\r\nvara ett hav för politiska expriment för en havererad energipolitik. \r\nHavet skall vara fritt",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut inte, Tjörns kommun har svårt att sköta sina bolag och behöver knappast ytterligare ett bolag.  Kollektivtrafiken är också kostsam och därem skulle Tjörnborna få betala för att subventionera kollektivtrafiken. Vi har västtrafik i dag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": "På Tjörn har vi inte dessa konkurrens problem. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej,  Även om det vore önskvärt så kostar det för mycket.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan behövas i viktiga frågor eftersom politkerna har tappat kontakten med kommuninnevånarna",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självfallet måste anställda och vårdtagare kunna kommunicera med varandra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, det vore bra med fler hyresrätter på Tjörn som ligger bra i pris.  Så att undgomar kan få en bostad",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tjörns kommun har svårt att hindra privata aktörer att utföra tjänster\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte Tjörns kommuns ansvar att \"vara tanksstation\"  Vi anser att laddstationer behöves men löses bäst via privata aktörer. tex: Bensinmackar och livsmedelsbutiker",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore självklart eftersom tilgången på bostäder är liten på Tjörn",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": "Kultur kostnaderna måste minskas och ge mer pengar till föreningslivet istället",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": "Skattenivån får inte öka men förhoppningsvis med rätt politisk styrning så kan skatten eventuellt sänkas i framtiden. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2538",
+          "2533",
+          "2539"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A!;A;A;A;C;D;C;C;A;D;2/5;0/5!;2/5;[2538,2533,2539]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har inget parti på riksnivå",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att Tjörnpartiet får en avgörande roll i viktiga frågor",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet de är för radikala för att driva kommunalpolitik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa vindkraftverken med kusten",
+        "description": "Ett helidiotiskt förslag från miljöradikala i Stockholm som inte förstår att Bevara de kulturella värden som Bohusläns kust är.\r\nVärna turism och fisket och rekreation\r\n\r\nBohusläns kust är inte en expriment-låda för politiker med klimatångest."
+      },
+      {
+        "category": "Låt eleverna gå kvar i sina skolor och behåll kommunens skolor",
+        "description": "Små gemytliga skolor med närhet till lärare och trygghet är får oss viktiga saker.\r\nSkolan är en plats för trygghet och lung inlärning. Stora klasser och stora skolenheter motverkar det lung som en kustkommun kan erbjuda.\r\nDe som vill ha sina barn i storskolor lär i så fall flytta till Angered eller Södertälje"
+      },
+      {
+        "category": "Jaga korrupta politiker och stoppa tokiga politiska förslag och upplysa folk",
+        "description": "Vara transparent och upplysa allmänheten om galna eller korrupta beslut inom kommunen."
+      }
+    ],
+    "motivateVote": "Andra politiker delar in människor utfrån deras åsikter,\r\nhöger eller vänster Tjörnpartiet ser istället kommuninnevånarna som Tjörnbor. Skall vi få ett rättvist samhälle där alla har ett lika värde måste vi utgå från\r\nmännsikan och inte åsikter. Tjörnpartiet har alltid stått bakom den enskilda individen.I en liten kommun som Tjörn är det viktigt att motverka att politiker och deras bekanta skor sig ",
+    "name": "TJÖRNPARTIET Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "tjornpartiet-tjorn"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1793",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0925aafceab7938adb709b686043731b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att alla skolor ska vara kvar! Vi anser att skolor F-6 är en lugnare miljö och mindre restid för de yngre eleverna vilket påverkar deras möjlighet att lära sig bättre. Dessutom anser vi att den pedagogiska verksamheten blir lidande av för stora skolor/klasser och barnens restid, samt risk för att barn faller mellan stolarna. Vi poängterar kraftigt närhetsprincipens roll i detta beslut! ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b94582edb0ea4fdc7e324aa92c0de3fe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d225e590cd74b5385a753549bb7cfc76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha tätare turer med kollektivtrafik i kommunal regi och i samarbete med (STO) Orust, Tjörn och Stenungsund. Att erbjuda kollektivtrafik gör att man inte nödgas till att äga en bil och bli del i den stora klimatkris som nu äger rum.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bef8526b2164a2f6bc1323372cdc8ae8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med fri prissättning kommer med största sannolikhet priserna på dessa varor att skjuta i höjden, vilket gör att de mindre ekonomiskt bemedlade invånarna inte kan ta del av alla samhällstjänster som finns. Vi tror på ett gemensamt samhälle där vi alla kan ta del av det utbud som finns till en rimlig kostnad. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f7835aa97a161243daa60ca08513c2d",
+        "questionType": "PROPOSITION",
+        "reasoning": "V centralt arbetar för 6h arbetsdag! Vi på Tjörn har nyligen lagt fram förslag om 7h arbetsdag som en inledande process för att i framtiden nå ner till 6h.  Människor behöver få mer tid med familj och vänner, mer tid att hinna med livspusslet och fritiden och vara del i en hållbar arbetsmarknad där människor orkar jobba till pensionsåldern utan att slitas ut i förtid.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29f77062699694a485a9f2cafc99eb50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att i sin kommun få vara del i den demokratiska processen är inte bara viktigt för den aktuella frågan som avgörs, utan en grundsten i det vi kallar demokratiskt inflytande. Det är alltså alla som berörs i frågan som ska få komma till tals. I kommunkrets har de lokala kommuninvånarna mer kunskap om lokal politik än politiker i riksdagen som inte har förankring i orten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c806be7a2a3d7472ee7384b0b2646909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grunden är att personal skall kunna kommunicera med vårdtagare, därför måste personalen behärska det svenska språket. Dock tror Vänsterpartiet inte på att språktest.  Vi anser att grunden för nyanlända skall lära sig svenska är SFI och tidigt komma ut i arbetslivet. Att en nyanländ skall kunna arbeta bredvid inom hemtjänst eller äldreomsorg är enlig vår syn en bra ingång för framtida jobb. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e9b2c30b722c3279fd0a5f83d0e31bc5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tjörn är en kommun med många villor och få lägenheter och i synnerhet få billiga hyreslägenheter. För att unga och gamla skall kunna få bostad behöver kommunen finansiera billiga hyreslägenheter. Vänsterpartiet vill se ett växlat samhälle med villor och lägenheter blandat.  Partiet vill också att utförsäljning av kommunala hyreslägenheter ska upphöra.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "edb7a9aafa0aef6c13995f634c50c740",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet anser att äldreboende och hemtjänst skötas i kommunal regi. Vi har under åren sett flera exempel på när äldreomsorgen drivits i privat regi och den katastrof det inneburit för brukarna. Pengarna skall gå till de äldre och inte till bolag och kapitalister som kalkylerar hur många blöjor som får gå åt per brukare.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e6f2db057957bf3fbf1274d9350fa350",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste vara proaktiva och skapa ett större intresse och infrastruktur för att vi alla ska dra vårt strå till stacken genom att erbjuda laddmöjligheter för de som nödgas använda bil som transportmedel, men vi vill samtidigt arbeta för att bygga ut kollektivtrafiken i STO och tätare turer för hela området i Västtrafik. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa71a4469e4d1222c471d66d50f29d94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut inte då både segregation och svårigheter att bli inkluderad i samhället ökar markant beroende på var man bor. Att alla kommuner, rika som fattiga, delar på ansvaret ger större integrationsmöjligheter för att kunna bli en del i vårt samhälle. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5ba152afb6bfea1f3e1e465e680665c1",
+        "questionType": "RANGE",
+        "reasoning": "Vi motsätter vi oss marknadsskolor och vill ha skolor i kommunal regi. I de kommuner som marknadsskolan har etablerats sig i så har skolans demokratiska, kompensatoriska och sociala uppdrag försvåras. De ekonomiska konsekvenserna för kommunen när en marknadsskolan etablerar sig är också omfattande. Dessutom har kvalitén på utbildningen försämrats och elevernas kunskapsnivå rasat. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "6aadbe187e249c1a28d54883df69f0d0",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste väsentligt öka anslagen till kulturen. Kultur, fritid och idrottsrörelsens huvuduppgift är att bedriva en glädjerik och meningsfull sysselsättning och demokratisk fostran. Alla ska ha samma rätt och möjlighet att utöva kultur och idrott. Barn och ungdomar ska erbjudas gratis kultur- och fritidsaktiviteter oavsett var de bor, detta för att motverka klasskillnader och segregation. \r\n",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "10d089b115ac127228e2e425f1eaaff9",
+        "questionType": "RANGE",
+        "reasoning": "Vård omsorg och skola är enligt vänsterpartiet eftersatt i de flesta kommuner idag. Det måste till stora satsningar för att återställa dessa områden. \r\nVi kan se att det finns andra sätt att skjuta till medel för att återställa god verksamhet, men är heller inte främmande för att vi kan komma att höja skatten för att nå dessa mål. idag har vi i Sverige en mycket snedfördelad skattepolitik. \r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "275b1300aaf20b50a8edbdd7ebb36083",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2538",
+          "2533",
+          "2532"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;D!;A;D;D;C;D!;A!;D!;A;0/5;4/5;2/5;[2538,2533,2532]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vår strävan är alltid att få så stort genomslag för vår politik som möjligt vilket innebär att vi vår målsättning är att ta över makten efter valet 2022. Vänsterpartiet är beredda att samarbeta med alla partier som vill bidra till att vi tar tydliga steg mot ett mer jämlikt, jämställt och ekologiskt hållbart samhälle. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte styra tillsammans med SD eftersom de inte delar våra värderingar",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan ",
+        "description": "Tjorns kommun skall vara en attraktivt arbetsgivare så att kompetenta lärare söker sig hit och stannar kvar. Det skall finnas ett tydligt pedagogiskt ansvar på alla nivåer. Lärarna och förskollärarna skall ha mer tid att fokusera på barnens och elevernas utveckling. Personalen ska fortbildas kontinuerligt. \r\nAlla elever och barn skall ha det stöd som behövs för att utveckla & nå sin fulla potential"
+      },
+      {
+        "category": "Vård och omsorg ",
+        "description": "Mer vårdpersonal till både hemtjänsten och äldreboende \r\nVårdpersonal ska ges tid att kunna ge personlig och meningsfullt omsorg.\r\nAtt finansieringsansvaret ska ligga på stat, ej kommun.\r\nAtt vårdtagarna betalar i proportion till betalningsmöjlighet. De med högre inkomst betalar mer än de med lägre. \r\nLön ska bestämmas efter utbildningen och erfarenheter. \r\n6 timmars arbetsdag med bibehållen lön."
+      },
+      {
+        "category": "Kollektivtrafik för alla. ",
+        "description": "Det ska vara möjligt att resa billigt, effektivt och klimatsmart utan tvång på att äga en bil. \r\nVårt mål är en avgiftsfri/gratis kollektivtrafik för alla, framförallt skolungdomar som pensionärer. Vi vill underlätta för ett samhälle att ta tillvara på sina resurser och agera klimatsmart. Vi vill ha tätare turer, kollektivtrafik i kommunal regi och i samarbete med (STO) Orust, Tjörn och Stenungsund"
+      }
+    ],
+    "motivateVote": "Man ska rösta på Vänsterpartiet om man vill se ett jämlikt samhälle där alla barn får chansen att lyckas, där män men framförallt alla kvinnor som dominerar inom välfärdsyrkena så som skola, vård och omsorg får bättre arbetsvillkor. Om man vill se ett krafttag mot utanförskap genom skapa förutsättningar för utbildning, jobb och bostad åt alla . Om man vill att våra äldre ska få en värdig ålderdom ",
+    "name": "Vänsterpartiet Tjörn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-tjorn"
+  }
+]

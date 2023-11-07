@@ -1,0 +1,1174 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "294",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jonslunds skola och förskola är väl fungerade verksamheter, men i väldigt slitna lokaler. Centerpartiet vill se väl fungerande skola och barnomsorg i hela kommunen och då måste det finnas bra lokaler för verksamheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur många dagar det ska serveras kött i skolan ser vi som en fråga för verksamheten. Vi tycker det är viktigare för politiken att säkerställa att köttet som serveras är uppfött i Sverige och att öka andelen lokalproducerade råvaror.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en liten kommun så är närheten mellan politiker och kommuninvånarna en styrka. Detta gör att behovet av folkomröstningar är mindre i en liten kommun.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att personal kan göra sig förstådd med brukare. Vi tror inte att språktester är rätt verktyg, utan nivån på språkkunskaper är något som anställande chef får avgöra utifrån vilken tjänst det handlar om.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att uppnå kommunens vision om 10 000 invånare år 2040 behövs fler bostäder. Kommunen behöver använda sina resurser för att skapa möjligheter att bygga många nya bostäder och inte på att subventionera ett fåtal. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata företag inom hemtjänsten kan exempelvis kombinera hemtjänstuppdrag med rut-tjänster, vilket ger ett mervärde för de som brukar hemtjänst. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver säkerställa att det finns tillräckligt stor tillgång till publika laddstolpar. I bästa fall så byggs och drivs stolparna av företag och kommunens roll blir då att underlätta med bygglov mm.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har idag en väl fungerande integration där många kommer ut i arbete. Att ta emot färre flyktingar kommer göra att kommunen behöver avveckla eller minska på integrationsavdelning och SFI undervisning, vilket kan leda till att vi kommer kunna ta emot få på ett sämre sätt än vi gör idag.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": "Centerpartiet vill att vi ska ha skolor i Bredöl, Jonslund och Nossebro. Det finns inte elever till ytterligare skolor. En etablering av ytterligare skola kommer leda till att kommunen behöver avveckla skolor utanför Nossebro. Således finns inte utrymme för att starta en friskola i vår kommun enligt oss. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver säkerställa resurser till våra kulturföreningar. Mycket kultur skapas i dessa föreningar och när ideella eldsjälar finns inblandade så blir det väldigt mycket kultur per investerad skattekrona.   ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": "Centerpartiets målsättning är att behålla nuvarande skattenivå. Dock kan renoveringarna av våra skolor leda till att skatten behöver höjas framöver. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1016",
+          "1020",
+          "1018"
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "D!;B;_;_;B;B;A;C;C;A;2/5;2/5;2/5;[1016,1020,1018]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta vårt samarbete med M, Kd och Mp. Det har varit ett stark samarbete som fört kommunen framåt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sd",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "skola och barnomsorg ",
+        "description": "Tidiga insatser som börjar i förskolan och har en röd tråd över till grundskolan. Satsningar på elevhälsan som kan stötta elevers lärande och utveckling, men som även kan vara ett stöd till lärarna."
+      },
+      {
+        "category": "lokaler för skola och barnomsorg",
+        "description": "Den stora utmaningen kommande mandatperiod kommer vara renoveringar av våra skollokal. Vi vill att det ska finnas moderna skolor i hela vår kommun som också har en bra utemiljö som stimulerar barns rörelse. Lokalrenoveringar kommer påverka kommens budget mycket och vi måste säkerställa att detta inte påverkar personaltäthet och kvalitén i verksamheterna."
+      },
+      {
+        "category": "boendemiljön ",
+        "description": "Kommunen har en vision att öka befolkningen i kommunen. Detta kommer ställa  krav på att det ska finnas attraktiva tomter i hela vår kommun. För att människor ska vilja flytta hit så krävs det också hög kvalité i kärnverksamheten och att vi arbetar med vår omgivning såsom cykelvägar mm"
+      }
+    ],
+    "motivateVote": "Centerpartiet vill att hela kommunen ska leva och känna utveckling. Detta görs bäst när kommen samarbetar med företag och föreningar. I ett samarbete är det viktigt att alla inblandade engagerar sig, men kommunen behöver vara navet i detta samarbete. Det ska finnas bra barnomsorg och skola i hela kommunen. Att vi får igång bygget av en ny skola och förskola i Jonslund är ett viktigt steg.",
+    "name": "Centerpartiet Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-essunga"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "295",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolorna i Essunga är eftersatta. Vi ser positivt att skolorna i ytterområdena satsas på då vi har en vision om att Essunga ska växa och bli en attraktiv kommun att bo i. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är många barn som får sitt huvudmål mat i skolan vilket behöver vägas in så att det är en näringsrik måltid. Att ta till vara hållbarhetsaspekter, vilket är syftet med köttfria dagar, kan göras på många olika sätt, tex genom att handla närodlat och se till att minska matsvinnet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska underlätta att privata aktörer etablerar sig i kommunen. Det är inte kommunens sak att konkurrera ut dessa företag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver göra yrket mer attraktivt genom att som arbetsgivare vara mer flexibla genom mer anpassade scheman, utvecklingsmöjligheter och få möjlighet att påverka på arbetsplatsen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska hålla de folkomröstningar som folket vill ha och initierar i  enlighet med lagen om kommunala folkomröstningar (1994:692). Vi politiker beslutar inte om flera omröstningar, vi hanterar de omröstningar folket vill ha.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldre har en rätt att dom ska bli förstådda i så hög grad som möjligt. Det är av stor vikt att personalen ska förstå vad den äldre uttrycker så att deras behov blir tillgodosedda. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste inte finansiera lägenhetsbyggen som sedan konkurrerar på marknaden. Däremot ska kommunen uppmärksamma de familjer som inte har möjlighet att själva bekosta sitt boende så att barn inte bor i fattigdom. Tex familjer med försörjningsstöd så att de kommer ut i egen försörjning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att både idéburna-, privata- och kommunala organisationen engagerar sig och driver äldreomsorgen framåt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas fler laddstolpar men det är inte bara kommunens som skall stå för detta. Fastighetsägare har också ett ansvar i att skapa förutsättningar för hyresgästerna att kunna ladda sina bilar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att vara flykting är ett temporärt och ofta akut tillstånd. Kommunen ska ta emot de flyktingar som anvisas kommunen enligt avtal med Migrationsverket. Det är viktigt att asylsökandes ärenden behandlas skyndsamt så att de vet om de får stanna i Sverige eller inte.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": ". Finns det företag som vill driva skola i kommunen så blir denna fråga aktuell. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en viktig del i en kommun. Kultur kan se ut på olika sätt och Essunga har en utpräglad tanke kring kultur som är viktig att underhålla och fortsätta med. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna att invånarna i Essunga får möjlighet att styra mer över sina pengar. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1015",
+          "1016",
+          "1018"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;B;D;A;B;D;B;D;B;B;2/5;2/5;1/5;[1015,1016,1018]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Gärna en klassisk allians, men vi är öppna för samtal med alla som respekterar våra värderingar om det okränkbara människovärdet, solidaritet och förvaltarskap.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Innan valet är avgjort behöver vi inte spekulera i denna fråga. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ungdomen i fokus",
+        "description": "Genom att utöka samarbetet med föreningar så vill vi skapa mer arenor för ungdomar att vistas i."
+      },
+      {
+        "category": "Äldres röst ska bli hörda",
+        "description": "Det är av stor vikt att våra äldre är med i utformningen av äldreomsorgen därför vill vi se ett samarbete med våra äldre i hur framtidens äldreomsorg ska se ut i Essunga."
+      },
+      {
+        "category": "Behöriga lärare",
+        "description": "Vi vill jobba för att skolorna i Essunga ska bli än mer attraktiva för behöriga lärare att söka sig till. Vi har ett mål om att Essunga kommun ska växa och då behöver vi satsa på en än mer attraktiv skola."
+      }
+    ],
+    "motivateVote": "Om man röstar på KD vet man att man får en människovänlig politik som ser de som är i behov, men också har tillit till att de som klarar sig själva gör det utan påtryckningar från politiken.  \r\n\r\n",
+    "name": "Kristdemokraterna Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-essunga"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "296",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1017",
+          "1021",
+          "1020"
+        ]
+      }
+    ],
+    "answersCount": 1,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;[1017,1021,1020]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldres rättigheter i Essunga",
+        "description": "Vi Liberaler ger aldrig upp kampen för att det även i Essunga skall finnas möjligheter för äldre, Seniorkort på busstrafik är något vi fått igenom under 2022."
+      },
+      {
+        "category": "En skola där alla barn kan utvecklas och känna trygghet",
+        "description": "Vi Liberaler jobbar för att alla barn skall trivas och kunna utvecklas i skolan."
+      },
+      {
+        "category": "Barn och unga måste må bättre och en utökad omsorg för de svaga",
+        "description": "Vi Liberaler tar alltid kampen för att alla barn skall kunna utvecklas i skolan. Barn är unika och skall därför ges möjlighet till utveckling baserat på varje barns behov och möjligheter, \r\nVi Liberaler tar alltid kampen för ett ökat trygghetsnät för de som behöver det bäst.  Rätten till assistans (LSS) är en självklarhet för oss Liberaler så att alla kan få leva ett bättre liv."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-essunga"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "297",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nuvarande skola är dåligt underhållen och det behövs en ny.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vara ett fritt personligt val om man skall äta kött eller inte",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": "På landet fungerar inte alltid marknadsekonomin. Det finns inte alltid långsiktigt  ekonomiskt hållbara privata allternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att få personal som orkar arbeta heltid och inte går ner i arbetstid och därmed får lägre lön.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Under förutsättning att frågorna är lämpliga för att avgöras genom folkomröstningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man måste kunna kommunicera med vårdtagarna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finansiera är fel ord. Bygga billigt är ett bättre ord.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "På landet är det inte aktuellt, inga privata bolag kan bedriva verksamhet långsiktigt när underlaget är varierande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns en koppling till kommunal verksamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver solidaritet i samhället och en större befolkning i kommunen är bra för alla kommuninvånare.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": "Är invånarna inte nöjda med kommunens verksamhet skall de kunna starta föreningsdrivna skolor eller barnomsorg.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1015",
+          "1023",
+          "1016"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;B;B;C;C;C;B;B;C;A;2/5!;2/5;2/5;[1015,1023,1016]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Många Stad kontra Land frågor. Bygglov nära vatten, kollektivtrafik mm.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En majoritet som utgörs av många partier så att många åsikter kommer fram i ett tidigt skede.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Nybyggnation i tätorterna och på landsbygden",
+        "description": "Erbjuda olika typer och placeringar av bostäder genom vårt kommunala bostadsbolag med en klar miljöpolicy (laddstolpar o solceller) och underlätta för byggnation utanför planlagt område med snabb bygglovshantering. Erbjuda villatomter och industrimark i attraktiva områden.\r\nMåna om närheten till naturen. Underlätta boendet på landet med bra bredband och uppmuntra till bildandet av VA-föreningar."
+      },
+      {
+        "category": "Ökning av invånarantalet",
+        "description": "Säkerställa att vatten och avloppskapaciteten räcker för en befolkningsökning. Utnyttja översiktsplanens möjlighet att bevilja byggnation även utanför tätbebyggda områden."
+      },
+      {
+        "category": "Skolelevers lärande och mående",
+        "description": "Närhet till skola och fritidverksamhet är viktigt, framför allt för de yngre barnen. Vi måste erbjuda trivsamma skolor med inspirerande utemiljö. Behöriga lärare och ändamålsenliga skollokaler skapar bra förutsättningar för goda resultat för eleverna. Alla elever som har behov av stöd skall ha tillgång till resurser så att målen kan uppnås. Psykisk ohälsa hos unga måste uppmärksammas tidigt."
+      }
+    ],
+    "motivateVote": "För att få en röst i fullmäktige som kommer med frågor som inte de andra partierna tar upp.",
+    "name": "Miljöpartiet Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-essunga"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "298",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är det bästa alternativet ur ett långsiktigt perspektiv ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi moderater värnar svenskt jordbruk samt värnar starkt om valfrihet för den enskilde. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med det privata näringslivet ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en bra tanke, Men svårt för oss som arbetsgivare då vi har ansvar alla kommunens anställda.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om behov uppstår",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi alla som jobbar inom kommunal sektor bedriver samhällsservice till våra invånare. Och vi ska tala så folk förstår ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vet inte hur detta ska gå till utifrån gällande lagstiftning, Staten behöver ta sitt ansvar i detta. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag hög kvalite och duktiga medarbetare i vår verksamhet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden ska sköta detta och inte kommunala skattepengar ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot och hjälpa till efter den förmåga som vi klarar av och få dessa nya invånare inkluderade i samhället och vara tydliga med vad som förväntas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": "Inget, Vi har idag bra personal och verksamheter ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": "Vi har hittat en bra nivå ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska inte ta mer pengar än vad som behövs från våra invånare. Staten/Regeringen tar alldeles för mycket som det är idag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": "Fortsätta med våra skolor \r\nAlltid prioritera våra kärnverksamheter\r\nBostäder/Tomter ",
+        "value": [
+          "1015",
+          "1020",
+          "1018"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;B!;D;B;C;B;D;A;A;C;2/5;2/5;2/5;[1015,1020,1018]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Finns flera frågor. Tag gärna kontakt med oss så berättar vi gärna mer",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kan jobba ihop med alla  partier som vill fortsätta utveckla Essunga kommun ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, Alla som tar plats i vårt fullmäktige är demokratiskt valda. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vision 2040",
+        "description": "Jobba för att öka invånarantal för att fortsätta leverera Kommunal service av hög kvalite till våra medborgare. Fortsätta med arbetet med nya tomter för olika typer av bostäder och företagande. Fortsätta med vårt landsbygdsutvecklingsbidrag. Föreningsliv och näringsliv och kommun tillsammans utvecklar vi vår bygd."
+      },
+      {
+        "category": "Bygga nytt/renovera våra skolor ",
+        "description": "Fortsätta på den inslagna vägen med våra skolor, Först ut vill vi moderater se en    nybyggnation av Jonslunds skola. Och sedan fortsätta med våra andra skolor"
+      },
+      {
+        "category": "Vår äldreomsorg ",
+        "description": "Vi moderater vill fortsätta arbetet med utveckling av vår äldreomsorg såsom trygghetsbostäder. Vi vill jobba för ökad valfrihet för våra äldre. Vi vill tillgodose våra medborgares önskemål så långt som möjligt."
+      }
+    ],
+    "motivateVote": "Vi lyssnar, Är engagerade och får saker gjorda ",
+    "name": "Moderaterna Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-essunga"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "299",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-essunga"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "300",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsmiljön för elever och personal ska vara god i Essunga kommun . Enda alternativet är att bygga nytt när underhållet varit mycket bristfälligt under alltför lång tid .",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det saknas personal inom äldreomsorgen och det är ett mycket krävande och viktigt jobb, så 6 timmars arbetsdag med full lön är ett steg i att lösa personalbristen och se till att personalen orkar jobba inom detta yrke en längre tid.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Invånarna har denna rättighet för att själva kunna påverka viktiga beslut , så självklart ska folkomröstningar användas i större utsträckning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet för patientsäkerheten och en självklar rättighet för brukaren att  bli förstådd , så deras rättigheter kan tillgodoses på bästa sätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att få ungdomar att vilja bo kvar i Essunga är det viktigt att det byggs lägenheter för just ungdomar i en \"lantlig\" utformning som de flesta är uppvuxna i . Det är inte billigt att bygga idag men ungdomsboende borde vara rejält subventionerade fram tills man är 25 år, det är en långsiktig satsning men ett vinnande koncept för alla parter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfriheten är viktig för en kommun, då alla människor har olika önskningar om hur de vill ha det när de kommit i det stadiet då de behöver samhällets tjänster.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": "Kulturskolans terminsavgifter borde vara betydligt billigare så alla barn har en chans att kunna delta. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": "Det finns andra sätt att få mer pengar över till kärnverksamheterna än att höja skatten. Personalkostnaderna inom det administrativa ökar drastiskt, olika samarbetsorgan kommuner emellan utvärderas inte med fokus på kostnad mot \"verkan\" och sedan köper vi väldigt mycket IT som kan ifrågasättas om den nyttjas till fullo. Dessa områden bör granskas årligen .",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": " ",
+        "value": [
+          "1021",
+          "1016",
+          "1020"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A;D;D;D;D;D;D;B;D;2/5;3/5;2/5;[1021,1016,1020]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att SD styr .",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska administrativa tjänster",
+        "description": "Att administrativa tjänster ökar okontrollerat i både region och kommun är ett välkänt problem . Personalkostnaderna inom denna kategori ökar med miljoner årligen  (även i småkommuner),som enligt oss bör användas till att förbättra kärnverksamheterna ."
+      },
+      {
+        "category": "Fria arbetsskor till omsorgspersonal",
+        "description": "De som arbetar administrativt har ergonomiska bord och stolar mm , medan omvårdnadspersonal inte själva har  råd att prioritera  att köpa ergonomiska arbetsskor . Vårt förslag är ett led i att minska sjukskrivningstalen och att arbeta för en mer jämställd arbetsmiljö inom de olika yrkeskategorierna."
+      },
+      {
+        "category": "Förskola på obekväm arbetstid",
+        "description": "Här har många kommuner inte hängt med i samhällsutvecklingen, då de flesta individer har arbetstider utanför förskolans ordinarie arbetstider. Att få ihop livspusslet för en familj är i dag mycket stressande , därför anser vi att förskola på obekväm arbetstid ska vara obligatorisk i varje enskild kommun , oberoende av kommunens storlek."
+      }
+    ],
+    "motivateVote": "Vi ser den verkliga verkligheten och har enkla ,sunda och effektiva lösningar för att Essungas invånare ska kunna få den bästa samhällsservicen samtidigt som vi kan utveckla kommunen i rätt takt och på rätt sätt. ",
+    "name": "Sverigedemokraterna Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-essunga"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "301",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e5241a8d0e7dcf2251b31c435dbe9b44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att det satsas på de mindre orterna i kommunen. Dock är våran kommun såpass liten att lärarunderlaget är svårt att fylla på flera små skolor, lokalkostnaderna för flera skolor mot en större centraliserad sådan blir också högre.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8a732adb91095710dc534fa28f644999",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi ska nå klimatmålen måste vi agera med starkare medel och utgå ifrån vegansk kost. Den är både bättre ur allergiperspektiv och kostnad. Tillsätt därefter protein om så önskas en väldigt liten andel kött eller baljbaserat/ärtbaserat. Fläsk men framförallt nötkött står för en väldigt hög klimatkostnad och det är något vi inte har råd med. Bättre med två dagar än inga, dock inte gott nog.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "68b43c820ce092ad97692a454cc60094",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en skyldighet att driva skola, vård och omsorg. I detta innefattas även samhällsnyttiga organisationer, infrastruktur av el och kommunikation men även bostäder. Alla har rätt till dessa saker och ska inte vara något som ska upphandlas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ff7756326f4eb8b45cbc2c4ed60fdcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en fråga partiet drivit under mycket lång tid. Vi sliter ut våran personal, ersätter med obehöriga in i en ohållbar arbetsmiljö och trygghet för de som behöver vården. Sex timmars arbetsdag skulle dessutom få bort delade turer. Stärk rösten och höj statusen bland vårdpersonalen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1da2b781e55043131b9c070de826dd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att vi är ett land med god demokrati är något vi får höra men sällan gäller det beslut på kommunal nivå, något som indirekt påverkar dig som boende i kommunen. Att i god tid gå ut med fakta och information och sen hålla lokala val är ett sätt att ge en rättvis röst till dig som väljare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8e4553fad3bf2411cb9e7932b8a29229",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att känna sig trygg vid behov av vård är en självklarhet och god kommunikation är en stor faktor i detta. Vi får dock inte blunda för det faktum att vi står för en väldigt ansträngd personal och all avlastning är oerhört viktig för alla. Att tidigt få ut kunnig personal som parallellt med sin anställning har möjlighet till deltidsstudier (kompletterande utbildning) kan vara en väg att gå.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3916af55bb14c129d9ce30a59ebe4965",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens vision 2040 med stor tillväxt måste innefatta flera kommunägda bostäder i alla storlekar och med reglerad hyra. Vi kan inte räkna med att alla har en medelinkomst och vi måste finnas där för alla. Att ha tak över huvudet är en mänsklig rättighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c8e8b5ac44ddcc70634486e3250cd975",
+        "questionType": "PROPOSITION",
+        "reasoning": "De väldiga kostnader som regionen får betala ut till privata bolag hade kunnat gå till bättre upprustning av kommunägda boende, bättre villkor  för personalen och en tryggare miljö för de som behöver vård.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a04f7e459c4c9db712cca1df634a5062",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi tillsammans ska nå de klimatmål som forskningen och EU tagit fram måste vi hjälpas åt med omställningen. Många har kanske redan möjlighet att ha laddstolpar hemma men våra turister till blandannat marknaden, campingen och kulturevenemang måste ha möjlighet att kunna ladda hos oss.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9af094f18a16adc26d6260dabbe9d1c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan inte främja en kultur där folk i nöd inte känner sig välkomna. Inte minst nu när vi har en kris i Europa, en dag kanske vi behöver någonstans att fly till.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "11a498ad1818f09582eb70a95cbab726",
+        "questionType": "RANGE",
+        "reasoning": "Skolan är en av de viktigaste byggstenarna vi har i samhället. Oavsett vart man bor i landet ska skolan vara likvärdig, det innebär en ökning mindre segregerat samhälle. De oerhörda kostnader som försvinner i skattepengar till riskkapitalt ägda skolor dränerar våra statliga skolor till den grad att vårat land är påväg i en riktigt oroväckande riktining.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d6e0a15355640ed0e02e032484a7ee60",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är dessvärre något som nerprioriteras. Det finns klar och tydlig statistik på att kultur har stor påverkan på vårat mående inte minst hos våra unga. Att det ska finnas möjlighet till kostnadsfri utbildning för våra elever inom estetiska uttryck är ett sätt att skapa ett bättre mående hos våra barn. Vi får inte heller glömma att kulturen bringar liv, förstärker demokratin i fira uttryck m.m.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8427f72adf487bc5a0ff5bd73293dd9f",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en relativt hög kommunskatt i nuläget och om vi ska kunna locka hit fler invånare behöver vi hålla hos på denna nivån, detta för att vi inte ska göra avkall på våra samhällsviktiga organisationer.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4d1dd08d7997bb13150c13de344ddc9a",
+        "questionType": "PRIORITY",
+        "reasoning": "1. Miljöstrategi borde vara den största frågan att driva i kommunen.\r\n\r\n2. Undomshälsan måste tas på allvar.\r\n\r\n3. Ett gott samarbete med regionen för utvecklingen av kollektivtrafiken, både för klimatets skull men även för den mänskliga rättigheten att kunna röra sig utan körkort eller bil.\r\n",
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C;C!;A;D;C;C;D!;A;D;A;0/5!;3/5;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Essunga",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-essunga"
+  }
+]

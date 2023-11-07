@@ -1,0 +1,779 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2111",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e08f687019f28ec6b2d575837a10dc49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "495c66c8dc3acfed4d1f9cb13376667a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1454642ae8eaf9e702bceb797faf6646",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "27d76a317d08ed8cf82c98993783e0bc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fbedb5cb97efecba5d141a8feb5eeb31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0416944b5ae6bb647e4be84195484c1c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a066468e9aa9b39a7e2e61c5bf816a5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "57cf8c2dcf03b10ef31011b1530bffa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e27b792545309f31f6a1a061fb2e2bde",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b9a7b7785aac8033c46f7a13cd07d946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f83c4f140813678181708cdf00203d31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0b23365afb774961cac980df47b73f70",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "49e0ab2bee03477968907ff1ea028ece",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1742e0503afbcbb4f61258f88d503e9c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e2520810f4310371792a2da8f7601bd5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2840",
+          "2837",
+          "2838"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;A;D;C;C;D;A;A;C;2/5;2/5;2/5;[2840,2837,2838]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi kan vara öppna att samverka med alla partier lokalt",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Fortsatt egen majoritet. Konstruktiv samverkan med de andra partierna",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skapa flera alternativa boende med attraktiva lägen",
+        "description": "För Ydres bästa måste vi öka vår befolkning och vi vill skapa flera alternativa boenden både som äldre kommuninvånare men även yngre för att få bo med livskvalité med närheten till större städer. Infrastrukturen är viktig med bredband, mobilmaster, vägar och cykelvägar vilket vi måste försöka få med satsning från staten. Ydre ska också kunna cykla till skola och arbete"
+      },
+      {
+        "category": "Framtidens äldreomsorg",
+        "description": "Vi vill skapa äldreomsorg som är anpassad efter vad som efterfrågas. Vårdcentral och hemsjukvård ska vara fungerande för att man ska kunna bo kvar i Ydre. Ge förutsättningar till närproducerad mat för de äldre som ej är fryst."
+      },
+      {
+        "category": "God kvalité i förskolan och skolan",
+        "description": "Vi vill ha en god kvalité på förskolan och skolan i alla 4 kommundelar med Österbymo, Asby, Hestra och Rydsnäs. Skola har vi dock bara i Österbymo och Hestra men förskola och fritids finns i alla 4 delar."
+      }
+    ],
+    "motivateVote": "För att värna om Ydre som egen kommun. En levande kommun med plats för alla. God service, bra skola och äldreomsorg. Snabbare skolskjuts",
+    "name": "Centerpartiet Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-ydre"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2112",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e08f687019f28ec6b2d575837a10dc49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett mycket bra förslag då det idag inte finns några godkända skyddsrum i Ydre kommun! Finns det skyddsrum så ökar det även säkerheten för invånarna i kommunen!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "495c66c8dc3acfed4d1f9cb13376667a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket bra förslag då det idag inte finns några bostadsrätter i Österbymo och Ydre kommun. Det skulle gynna kommunen då fler skulle vilja flytta hit!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1454642ae8eaf9e702bceb797faf6646",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det tycker jag skulle vara en självklarhet för kommunen då många som är äldre också är ensamma och mår dåligt pga. det! Det skulle göra att fler mår bättre i våran kommun!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "27d76a317d08ed8cf82c98993783e0bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Också borde vara en självklarhet! Idag jobbar man alldeles för lång och för tunga arbetsskift vilket gör att man går in i väggen eller tar förtids pension pga. att man inte orkar!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fbedb5cb97efecba5d141a8feb5eeb31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0416944b5ae6bb647e4be84195484c1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs byggas bostadsrätter. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8a066468e9aa9b39a7e2e61c5bf816a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns alldeles för lite i Österbymo. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "57cf8c2dcf03b10ef31011b1530bffa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har bäst insyn i det. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e27b792545309f31f6a1a061fb2e2bde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vad det rör sig om. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b9a7b7785aac8033c46f7a13cd07d946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f83c4f140813678181708cdf00203d31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrens är bra, det kan finnas både kommunalt och privat. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0b23365afb774961cac980df47b73f70",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "49e0ab2bee03477968907ff1ea028ece",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen satsar mycket på kulturen och det vill vi att vi fortsätter med. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1742e0503afbcbb4f61258f88d503e9c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har nyss höjt skatten, det borde räcka. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e2520810f4310371792a2da8f7601bd5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2839",
+          "2835",
+          "2838"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;D!;D;B;D;D;C;A;B;3/5;2/5;2/5;[2839,2835,2838]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Att kunna få en bra säkerhet i Ydre kommun som gör invånarna trygga!",
+        "description": "Vi vill att vi i Ydre kommun ska kunna ha en stark säkerhet som gör invånarna trygga och kan trivas och vilja bo och stanna kvar i Ydre. Det ska finnas en bra krisberedskapsplan där lättillgänglig information ska finnas för våra invånare,bland annat på kommunens hemsida så att invånarna känner en ökad trygghet. Även vill vi att det ska finnas skyddsrum och VMA-larm i vår kommun vilket vi inte har!"
+      },
+      {
+        "category": "Vi vill verka för de äldre i Ydre kommun!",
+        "description": "Då vi i vår kommun har en ökande äldre befolkning så vill vi värna om de äldre genom att verka för att det ska finnas närhet till servis och boenden för äldre på markplan! Det ska kunna finnas attraktiva tomter som man vill bygga nytt på, bla. Bostadsrätter som inte finns idag. Samt vill vi att det ska byggas ett nytt äldreboende som är på markplan så att de äldre lätt kan ta sig ut om de vill!"
+      },
+      {
+        "category": "Sänkt hastighet i tätbebygt område i Ydre kommun!",
+        "description": "Vi vill verka för att hastigheten för motortrafik ska sänkas i tätbebygt område från 50 km/h till 30km/h. Framför allt på villagatorna. Då vi har märkt att många kör alldeles för fort i Österbymo men även i byarna runt omkring i Ydre kommun. Vi tror att på det sättet kan det bli en bättre trygghet och säkerhet för våra invånare på våra gator."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-ydre"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2114",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e08f687019f28ec6b2d575837a10dc49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "495c66c8dc3acfed4d1f9cb13376667a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1454642ae8eaf9e702bceb797faf6646",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "27d76a317d08ed8cf82c98993783e0bc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fbedb5cb97efecba5d141a8feb5eeb31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0416944b5ae6bb647e4be84195484c1c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8a066468e9aa9b39a7e2e61c5bf816a5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "57cf8c2dcf03b10ef31011b1530bffa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e27b792545309f31f6a1a061fb2e2bde",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b9a7b7785aac8033c46f7a13cd07d946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f83c4f140813678181708cdf00203d31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0b23365afb774961cac980df47b73f70",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "49e0ab2bee03477968907ff1ea028ece",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1742e0503afbcbb4f61258f88d503e9c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "e2520810f4310371792a2da8f7601bd5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2842",
+          "2835",
+          "2838"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;B;A;D;B;B;C;A;B;D;2/5;2/5;1/5;[2842,2835,2838]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi kan samtala med alla partier i kommunen för att få gehör för vår politik i praktiska sakfrågor. Ett fortsatt samstyre med centern är vårt förstahandsval.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ydre - ett ställe att upptäcka",
+        "description": "Naturen, jorden och skogen är fantastisk i Ydre och den vill vi vårda. Vi vill se över möjligheten att öka intresset för besöksnäringen i hela kommunen. Vi vill att Ydre ska få en bättre marknadsföring för sin natur och sina verksamheter."
+      }
+    ],
+    "motivateVote": "Vår målsättning är att Ydre ska växa och förbli en egen attraktiv kommun. Vi ska bygga Ydre tillsammans och bevara vår fina kommun där Du vill bo och verka för ett liv med livskvalité och trygghet. Vi har en bred kompetens och en bra ålders- och könsfördelning bland våra kandidater. ",
+    "name": "Moderaterna Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-ydre"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2115",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e08f687019f28ec6b2d575837a10dc49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "495c66c8dc3acfed4d1f9cb13376667a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "1454642ae8eaf9e702bceb797faf6646",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "27d76a317d08ed8cf82c98993783e0bc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "fbedb5cb97efecba5d141a8feb5eeb31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0416944b5ae6bb647e4be84195484c1c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8a066468e9aa9b39a7e2e61c5bf816a5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "57cf8c2dcf03b10ef31011b1530bffa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "e27b792545309f31f6a1a061fb2e2bde",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "b9a7b7785aac8033c46f7a13cd07d946",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "f83c4f140813678181708cdf00203d31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0b23365afb774961cac980df47b73f70",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "49e0ab2bee03477968907ff1ea028ece",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "1742e0503afbcbb4f61258f88d503e9c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "e2520810f4310371792a2da8f7601bd5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska barngruppernas storlek i förskolan",
+        "description": "Förskolan är första steget i utbildningskedjan och lägger grunden för en lyckad skolgång. För att ge bästa förutsättningar för barnen är barngruppernas storlek avgörande. Med mindre grupper får pedagogerna mer tid till varje barn och tempot blir lugnare."
+      },
+      {
+        "category": "Tillsätt en äldrecoach, en samordnare för aktiviteter för äldre.",
+        "description": "Vi ser ett behov av en samordnare för aktiviteter för äldre. Det ska vara en person som kan hålla i trådarna vid kulturella sammanhang, rörelse och gymnastik, högtider mm. Den ska även vara ett stöd för verksamheten att upprätthålla våra traditioner. Tillsammans med ideella föreningar och organisationer motverkar vi ensamhet och stärker både den fysiska och psykiska hälsan."
+      },
+      {
+        "category": "Investera i klimatsmarta åtgärder",
+        "description": "Genom att satsa mer på energieffektivisering, investera i mer solenergi och andra smarta innovativa lösningar, kan kommunen sänka sin klimatpåverkan. Genom att nyttja det närproducerade, både varor och tjänster när det är möjligt, kan vi kapa långa transporter och med det sänka vår miljöpåverkan. Det bidrar till utveckling av bygden och underlättar för ökad beredskap vid kris."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-ydre"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2116",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-ydre"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2117",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e08f687019f28ec6b2d575837a10dc49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "495c66c8dc3acfed4d1f9cb13376667a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hellre att det byggs mer hyreslägenheter i kommunen",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1454642ae8eaf9e702bceb797faf6646",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att äldre inte sitter ensamma och isolerade",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "27d76a317d08ed8cf82c98993783e0bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att orka ett helt yrkesliv behövs förändringar av heltidsmåttet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fbedb5cb97efecba5d141a8feb5eeb31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigare att personalen är duktiga på att ge en god omvårdnad",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0416944b5ae6bb647e4be84195484c1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att alla skall ha råd att bo",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a066468e9aa9b39a7e2e61c5bf816a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för omställningen som behövs för klimatet",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "57cf8c2dcf03b10ef31011b1530bffa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e27b792545309f31f6a1a061fb2e2bde",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra om medborgarna för möjlighet att tycka till",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b9a7b7785aac8033c46f7a13cd07d946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för omställningen för klimatet",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f83c4f140813678181708cdf00203d31",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0b23365afb774961cac980df47b73f70",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "49e0ab2bee03477968907ff1ea028ece",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1742e0503afbcbb4f61258f88d503e9c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e2520810f4310371792a2da8f7601bd5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C;A;D;D!;B;C;C;A;C;C;_;2/5;3/5;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Näringsprogram",
+        "description": "Låt oss i Ydre ta tillbaka förädlingen av bygdens råvaror. Idag tas allt fler arbetstillfällen och därmed skatteunderlag bort av rationaliseringar och ägande \"utifrån\". Det finns flera exempel på hur ydrebor utvecklar företagande genom att förädla det som finns här."
+      },
+      {
+        "category": "Äldreomsorgen",
+        "description": "I Ydre bor många äldre som i gemenskap med andra ska kunna ha ett fortsatt gott liv i kommunen. Åldrandets olika skeden och behov behöver kunnas tillgodoses tillsammans den äldre av en kunnig och engagerad personal.\r\nVänsterpartiet vill ge de bästa förutsättningar till personalen att själva kunna påverka sitt arbete och kontakten med äldre utan samvetsstress."
+      },
+      {
+        "category": "Kommunikationer",
+        "description": "För att ha en levande landsbygd måste alla i Ydre kunna delta i samhällslivet via farbara vägar, vettiga bussförbindelser, fungerande telefon och internet i hela kommunen. Vi i Vänsterpartiet anser att man ska komma fram och tillbaka till US samma dag, även utan egen bil. Man ska kunna arbetspendla med kollektivtrafik och bo kvar i Ydre."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet i Ydre vill bygga ett samhälle där alla är med och alla gynnas lika av frukterna av det gemensamma arbetet.",
+    "name": "Vänsterpartiet Ydre",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-ydre"
+  }
+]

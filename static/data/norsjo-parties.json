@@ -1,0 +1,560 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1259",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela Norsjö Kommun skall utvecklas ",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. Fler behöver tillgång till bredband, vi behöver bättre belysning och snöröjning på våra små vägar, det ska vara lättare att bygga bostäder, också i strandnära lägen. De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen och för en ökad livsmedelsproduktion."
+      },
+      {
+        "category": "En skola där varje elev får förutsättningar att lyckas",
+        "description": "Alla barn har rätt att få en bra utbildning, oavsett var i landet eller kommunen man bor, med elevernas trygghet och kunskapsutveckling i fokus. Vi vill utveckla elevhälsan och samarbetet med BUP och att samverkan mellan skola och socialtjänst utvecklas. Fler unga ska få hjälp i tid."
+      },
+      {
+        "category": "En tillgänglig omsorg med bra arbetsmiljö för de anställda",
+        "description": "Det är en trygghetsfråga att veta att man får hjälp när man behöver det. Vi vill bl.a. stärka den medicinska kompetensen i kommunerna för att kunna ge mer vård i hemmet. Kommunen ska vara en god arbetsgivare, inte minst för att kunna rekrytera kompetent och engagerad personal till omsorgen."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-norsjo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1260",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "fe5f2a9209ad91749debe586829ab101",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar om att utbildad personal ska mera få ägna sig åt det man är utbildad för, d.v.s vårdnära uppgifter.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "63ca117afe5159111d5de20e17140a5b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86f5715fd80368f3de02468a9f0a2119",
+        "questionType": "PROPOSITION",
+        "reasoning": "Servera gärna alternativa vegetariska maträtter men plocka inte bort att kött ska vara möjligt att servera.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3530403898d9149816fccfc1f9570c4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att vara för generell i en liten kommun där det ibland krävs kommunal insats eftersom förutsättningar för privat tillväxt saknas.\r\nSen handlar det också om bristande konkurrens på den privata marknaden är lika illa som kommunalt monopol.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0f401b2f21d9d60f9e21309622343",
+        "questionType": "PROPOSITION",
+        "reasoning": "Goda arbetsvillkor handlar inte enbart om att arbeta färre timmar utan tillräckligt med personal skapar mindre stress och därigenom bättre livsvillkor för brukarna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "afa2b12fcaa3bcbd506de2d24b572bec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Handlar om kvalitet i äldreomsorgen. En brukare som inte upplever sig bli förstådd blir otrygg i sitt boende.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88876e0fb95e77aba7cd341511041ef3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi hade någon friskola skulle det naturligtvis vara rimligt med den typen av regler.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0200e845780cf2319128b5d762915d9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler hyreslägenheter men att kommunen ska börja subventionera hyror är orimligt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9cbc15ab8d0350f117fde35527a60a51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ideologiskt har KD inga problem med ägandeformen utan det handlar uteslutande om att uppnå en bra kvalité till gagn för brukarna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82b7287a254ff846f6ee2d83db3b72c2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler laddstolpar i vår kommun men gärna att marknaden kan hantera det på ett bättre sätt än idag.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "bb8106b718c8fa1912ca0836e153afb6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom vi är en liten kommun blir det små tal som vi får ta emot enligt de nationella reglerna. Det blir då svårt att bedriva ett bra integrationsarbete. Vi har stort behov av fler invånare och flyktingar kan bidra på ett positivt sätt för både industri och kommunal service.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed0f88475c190c42f41f84dc2a92c460",
+        "questionType": "RANGE",
+        "reasoning": "Idag saknas friskolor i vår kommun och vår litenhet gör att förutsättningar saknas för flera huvudmän.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c2753f83f5041926e715cee264acf84c",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för ökad trivsel i en kommun. Arbete, goda livsvillkor med bra fritid och bra kulturutbud är förutsättningar för att människor ska trivas.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "4016049c332b539ba59f70a7f2665c34",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ett högt skatteuttag men förhoppningen är med ökad inflyttning att vi en dag ska kunna sänka skatteuttaget något.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f05f056528002ed1f879349af61aebfc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1871"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A;C;B;D!;C;B;C;C;C!;2/5;3/5;1/5;[1871]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det är helt beroende av vilket valresultat som uppnås. Vi är öppna för flera lösningar där KD:s värderingar kan få så stort genomslag som möjligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej men det handlar också om förtroende för olika företrädare. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla kvaliteten i äldreomsorgen",
+        "description": "Service, vård och omsorg ska vara tillgänglig och ges utifrån en helhetssyn på den enskilde. Trygghet, värdighet och delaktighet ska prägla omsorgen. Återinför serviceboende för äldre för ökad närvaro av personal och ökad gemenskap med gemensamma måltider. Vårdserviceteam ska kunna avlasta undersköterskor med icke-medicinska uppgifter. Personalen ges bättre arbetsvillkor och kompetensutveckling."
+      },
+      {
+        "category": "Ökade resurser för att jobba med kompetensförsörjning",
+        "description": "Industrin, servicenäringar och kommunal service ser alla ett behov av att hitta fler goda medarbetare. En förutsättning kan vara att människor måste kunna bygga sig egnahem i attraktiva lägen med möjligheter att låna pengar. Någon form av kommunala garantier behövs. En förskola och grundskola med bra resurser är också en nyckelfaktor vid inflyttning. Goda levnadsvillkor överlag eftersträvas."
+      },
+      {
+        "category": "Företagsklimatet behöver vara i fokus för jobben och tillväxten",
+        "description": "Ett gott företagsklimat handlar både om kommunens möjligheter till god service vid tillståndsgivning, snabb handläggning, upphandlingar som gör det möjligt för alla företag att delta men också goda möjligheter till en bra fritid. Civilsamhällets villkor med en mångfald av föreningar är betydelsefulla samt att kommunen upplevs som trygg och säker för invånarna."
+      }
+    ],
+    "motivateVote": "KD i Norsjö är redo att utveckla kommunen. Trygghet, värdighet och delaktighet ska prägla omsorgen. Personalen ges bättre arbetsvillkor och kompetensutveckling. Återinför serviceboende för äldre för ökad närvaro av personal och ökad gemenskap. Företagsklimatet i fokus för jobben och tillväxten. Gör det möjligt att bygga egnahem i attraktiva lägen. Bra kommunal service och bra fritid för alla.",
+    "name": "Kristdemokraterna Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-norsjo"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1261",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fe5f2a9209ad91749debe586829ab101",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utbildad personal ska ägna sin arbetstid till att utföra de arbetsuppgifter de är utbildade för.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "63ca117afe5159111d5de20e17140a5b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86f5715fd80368f3de02468a9f0a2119",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god. Men vi ser hellre att det satsas mer på inköp av lokalproducerade råvaror för att på så vis minska transporterna och därmed bidra till att minska på koldioxidutsläppen. \r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3530403898d9149816fccfc1f9570c4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0f401b2f21d9d60f9e21309622343",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "afa2b12fcaa3bcbd506de2d24b572bec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är en självklarhet för oss i Norsjö.\r\nMen då våra äldre talar Norsjömålet är det önskvärt att vår personal även kan förstå även detta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88876e0fb95e77aba7cd341511041ef3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0200e845780cf2319128b5d762915d9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "ofta är en liten kommuns ekonomi redan ansträngd. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9cbc15ab8d0350f117fde35527a60a51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Andelen äldre kommer att öka och när den  kommunala kapaciteten når sitt tak, är det bra om det finns privata alternativ.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82b7287a254ff846f6ee2d83db3b72c2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur kan detta vara kommunens ansvar? \r\nSkellefteå kraft har t ex satt upp laddstolpar vid Frendo i Malå, liksom att Setra har satt upp laddstolpar inom sitt område.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb8106b718c8fa1912ca0836e153afb6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ju den enskilda kommunen som kan svara på frågan hur många nyanlända flyktingar de har möjlighet att ta emot.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ed0f88475c190c42f41f84dc2a92c460",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att skolan ska förstatligas. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c2753f83f5041926e715cee264acf84c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4016049c332b539ba59f70a7f2665c34",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f05f056528002ed1f879349af61aebfc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1872",
+          "1870",
+          "1877"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;C;C;D;D;B;C;B;D;2/5!;2/5;2/5;[1872,1870,1877]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vindkraften är en sådan fråga.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Den nuvarande majoriteten ska bytas ut mot ett borgerligt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan",
+        "description": "Vi vill att barn med NPF-problematik ska få det stöd de har rätt till enlig lag. \r\nAtt barn med problematisk skolfrånvaro ska få det stöd och den utbildning de har rätt till enligt lag.\r\nAtt den fysiska skolmiljön SKA vara en trygg och säker plats för alla att vistas på.\r\nInga elever ska lämnas eller hämmas.\r\nVi vill se en kartläggning kring förekomsten av hedersrelaterat våld i Norsjö kommun."
+      },
+      {
+        "category": "vård och omsorg",
+        "description": "Vi vill öka personalens delaktighet vid planering och bemanning inom verksamheterna.\r\nVi vill öka bemanningen inom vård och omsorg.\r\nVi vill att alla ska ha en fast husläkare.\r\nVi ska ha tre sjukhus och BB i länet."
+      },
+      {
+        "category": "Badhuset",
+        "description": "Enligt skolans läroplan ska barnen kunna simma 200 meter (varav 50 meter i ryggläge) i årskurs 6, för att eleverna ska få godkänt betyg i ämnet Idrott & hälsa. \r\nVi har idag en aktiv simklubb i Norsjö som genom sitt ideella arbete är ett viktigt led i att lära våra barn vattenvana och att simma. Även vuxna personer utnyttjar badhuset idag och vi vill främja och stöttar varje form av aktiv rörelse"
+      }
+    ],
+    "motivateVote": "Vi är vanliga medborgare som idag bedriver vårt politiska arbete på fritiden. Vi har en bra mix vad gäller livserfarenhet, yrkeserfarenhet och hur det är att bo, leva och verka inom Norsjö kommun idag.\r\n\r\nVi vill ha en långsiktigt hållbar kommunal ekonomi och vi vill genomlysning den kommunala organisationen för att hitta nya sätt att utföra uppdragen.",
+    "name": "Liberalerna Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-norsjo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1262",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "fe5f2a9209ad91749debe586829ab101",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "63ca117afe5159111d5de20e17140a5b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86f5715fd80368f3de02468a9f0a2119",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3530403898d9149816fccfc1f9570c4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0f401b2f21d9d60f9e21309622343",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "afa2b12fcaa3bcbd506de2d24b572bec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88876e0fb95e77aba7cd341511041ef3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0200e845780cf2319128b5d762915d9d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9cbc15ab8d0350f117fde35527a60a51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82b7287a254ff846f6ee2d83db3b72c2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb8106b718c8fa1912ca0836e153afb6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ed0f88475c190c42f41f84dc2a92c460",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c2753f83f5041926e715cee264acf84c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4016049c332b539ba59f70a7f2665c34",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f05f056528002ed1f879349af61aebfc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1871",
+          "1872"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;B;C;B;D;D;B;A;B;B;2/5;2/5;2/5;[1871,1872]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "God och nära vård ska finnas i din närhet",
+        "description": "God och nära vård är inte bara en regionfråga utan också en kommunal fråga.\r\n I nära samarbete med regionen tillskapa en familjecentral."
+      },
+      {
+        "category": "Bygga nytt och renovera för att möta morgondagens krav.",
+        "description": "För att klara kompetensbehovet måste nya bostäder tillskapas. Bygga och renovera skolor och förskolor för att våra barn ska få de bästa förutsättningar. Antalet särskilda boendeplatser ska motsvara behovet. Slutföra bygget av nytt sim och sporthall"
+      },
+      {
+        "category": "Förenings och kulturlivet ska stärkas",
+        "description": "I nära samarbete ta fram en strategi för att långsiktigt utveckla och förbättra hela förenings- och kulturlivet."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-norsjo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1263",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-norsjo"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1264",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Norsjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-norsjo"
+  }
+]

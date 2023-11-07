@@ -1,0 +1,1302 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1508",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett verktyg för att att våra invånare ska fortsatt känna sig trygga i vår kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nu är det ju Västra Götalands regionen som är huvudman för Västtrafik och också just nu utreder hur denna fråga kan hanteras likvärdigt i hela regionen. Centerpartiet är för en utbyggnad och att det ska vara enkelt att välja att åka kollektivt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet vill att vårt näringsliv är starkt och bidrar till vår samhällsutveckling.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framtidens kompetensförsörjning är en utmaning för både den offentliga sektorn och för näringslivet. Vi behöver fler som arbetar mer. Däremot är det viktigt att vi hittar olika lösningar för att människor ska trivas med sitt arbete och att vi fortsatt ska vara en attraktiv arbetsgivare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som arbetsgivare ska vi fortsätta att ge förutsättningar att komma in på arbetsmarknaden, vi behöver all arbetskraft vi kan få. Vi måste ge förutsättningar för att lära sig svenska språket genom utbildning och genom att också prata. Det är viktigt också att man kan det svenska språket inte minst när man möter våra äldre inom omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte generellt, däremot är kommunen ansvarig för att alla ges möjlighet till en bostad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet tycker det är viktigt att våra invånare har rätt till valfrihet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen och den privata marknaden måste tillsammans se till att tillgången av publika laddstolpar ökar för att öka vårt nuvarande och framtida behov.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, genom samverkan av alla nivåer och ett gemensamt ansvar, Europa, nationellt och kommunalt ska vi hjälpa de som söker asyl och flytt sitt land.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Utifrån att våra invånare ska ha en valfrihet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt att kommunen ger förutsättningar till ett rikt kulturliv i vår kommun. Det är också viktigt att vi gör det i samverkan av organisationer, föreningsliv och privata aktörer.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "Det finns aldrig ett egenvärde i att ha hög skatt däremot ska vi som kommun arbeta för att använda våra resurser effektivt och ge en kvalitativ service till våra medborgare.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2288",
+          "2290",
+          "2284"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "_;D;B;D;A;D;D;A;D;C;A;2/5;2/5;1/5;[2288,2290,2284]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna fortsätta att styra tillsammans med Moderaterna, Liberalerna och Kristdemokraterna som vi gjort sedan kommunsammanslagningen 1973",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "Alla människors lika rätt och värde är grunden för Centerpartiets politik. Vi vill fort-sätta att bygga ett hållbart samhälle både miljömässigt, socialt och ekonomiskt vilket innefattar en förskola och skola med god arbetsmiljö, lärande står i fokus, en god samverkan med arbetsliv, trygga boenden för äldre, ett rikt kultur- och fritidsliv i hela kommunen.",
+    "name": "Centerpartiet Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-skovde"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1509",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att snabbt ställa om för större etableringar är viktigt för att säkra arbeten för Skövdes framtid. Kommersiell trafik upphörde efter 11 sept. attacken, då säkerhetskontrollerna blev rigorösa och företag valde större flygplatser att flyga ifrån. Ambulanshelikoptrar är idag utrustade med navigeringssystem och kan flyga vid sämre sikt. Flygklubbarna har erbjudits annat flygfält för sin verksamhet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka tryggheten behöver det tyvärr på vissa utvalda platser, finnas möjlighet till kameraövervakning, dels för att förebygga kriminalitet, dels för att lättare säkra bevis när något hänt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns inget som är gratis. Vi anser att 50% av kostnaden ska vara offentligt finansierad. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett förslag som inte är genomförbart varken ekonomiskt eller bemanningsmässigt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "All personal inom omsorgen som jobbar vårdnära måste kunna kommunicera på god svenska. Vid behov införa svenskundervisning på arbetstid för utrikesfödd personal inom äldrevården..",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": " ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen varken ska eller kan finansiera billiga hyreslägenheter genom skatter.  ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är kvalitén på utförda tjänster och boenden inte vem som utför den.  Det utökar möjligheten till större valfrihet och även möjlighet att anpassa boende och hemtjänst för att möta varje persons behov vad gäller intressen, språk, livsåskådning och vårdbehov genom exempelvis profileringar .\t",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "När elektrifieringen ökar, ökar också behovet av laddstolpar. Kommunen behöver säkerställa att tillräckligt med laddstolpar finns. Men det innebär inte att kommunen måste äga och driva dem.  Här ska kommunen inte osunt konkurrera med privata företag.  Vi är också måna om laddning för tunga fordon.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner behöver hjälpas åt. Men det behövs en samordning inom större områden exempelvis Skaraborg. Tilldelningen av flyktingar borde göras till Skaraborg och kommunerna emellan fördelar flyktingar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna står upp för elevers och föräldrars rätt att välja skola oavsett om de väljer en kommunal eller fristående skola. Friskolor som presterar goda kunskapsresultat innebär en vinst för Sverige. Skolor som inte följer skollagen och läroplanen eller inte förmår att leverera kunskapsresultat ska däremot stängas oavsett driftsform. Det väsentliga för oss är kvalitet och kunskapsfokus.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "I förhållande till många andra kommuner lägger Skövde kommun mindre pengar på kultur. Vi önskar se en utökning av musikskolan/kulturskolan med två tjänster där del av tjänst inriktas mot kommunens förskolor, för att genom musiken stimulera till språkutveckling och kommunikation samt en tjänst för El Sistema för grundskoleelever (musikundervisning som främjar barns framsteg och utveckling). ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "På kort sikt föreslår vi oförändrad skatt. Varje skattekrona ska användas på ett så effektivt sätt att bästa möjliga kvalité uppnås. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": "Det behövs mer medicinsk kompetens inom äldreomsorgen. Därför vill vi att det anställs fler sjuksköterskor. Vi vill införa en äldreboendegaranti där varje person över 85 år har en lagstadgad rätt att få en plats på ett anpassat boende när och om de så vill. Möjliggöra kolonilotter i stadsnära område. Då ökningen av lägenheter ökar i stadskärnan finns behov av möjlighet att kunna odla stadsnära.",
+        "value": [
+          "2288",
+          "2283",
+          "2286"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;A;C;A;D;D;A;D!;D;C;3/5;3/5!;1/5;[2288,2283,2286]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alliansen med KD, M, C och L. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola",
+        "description": "Vi har en skolpolitik som fokuserar på trygghet, kunskap och arbetsro. Där varje elev ska ges förutsättningar att lyckas. Därför vill vi bygga en ny grundsärskola årskurs 7–9, ämne och ämnesområde på Science City (Mariesjö) tillsammans med ordinarie grundskola för 7–9. De elever som idag läser ämnesområde är inte åldersintegrerade på ordinarie skola utan går på skola för 4-6. Detta vill vi ändra."
+      },
+      {
+        "category": "2 timmars gratis parkering i Centrum",
+        "description": "För att öka tillgängligheten till centrum bör 2 timmars gratis parkering på kommunens parkeringar införas genom att använda P-skiva. En grupp människor utestängs från att besöka Skövde centrum med bil pga. av digitalt utanförskap då det endast kommer att gå att betala parkeringsavgifter digitalt."
+      },
+      {
+        "category": "Brottsförebyggande arbete",
+        "description": "Motverka människohandel efter Helsingborgsmodellen, vilken försvårar för människor att köpa sex och hjälper de utsatta. Målet är att stadens invånare ska känna sig trygga med att Skövde är en plats som inte främjar eller tolererar människohandel samt kameraövervakning på utsatta ställen."
+      }
+    ],
+    "motivateVote": "Kristdemokratin vilar på en tydlig etik som innebär bl.a. det okränkta människovärdet, frihet, personligt ansvar och solidaritet.  I vår politik fattas beslut som rör individen så nära individen som möjligt. En politik för hela livet och som värnar om ett gott näringslivsklimat. ",
+    "name": "Kristdemokraterna Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-skovde"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1510",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vill skapa arbetstillfällen i kommunen. Därför önskar vi att stå klara att ta emot industrier och företag som snabbt vill etablera sig i Skövde. Flygplatsområdet är ett mycket lämpligt område för detta. Näringslivet har inte tryckt på att flygplatsen behövts. Den har heller inte använts av näringslivet till någon större del. Vi har relativt nära till andra flygplatser.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna arbetar för trygghet och säkerhet. Kameror är ett bra verktyg att använda där flera brott begås. Att bevara identiteten för en person är givetvis viktig, men den som inte begår brott har inget att dölja.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framför allt är det viktigt för ungdomar och pensionärer. Skövde kommun kan i samverkan med Västtrafik resonera sig fram och genomföra steg för steg. Flera personer skulle använda kollektivtrafik i stället för bilen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vissa fall kan Allmännyttan för bostäder ha mycket sociala uppdrag för kommunens del. Därför kan det ibland bli konkurrens med privat näringsliv. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag är bra att erbjuda med heltidslön, där schematiderna är sådana att det är svårt att rekrytera personal, t ex helger och kvällar/nätter. \r\nArbetsvillkoren inom äldreomsorgen ska vara sådan att anställda orkar arbeta heltid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, egentligen självklart. När det är svårt att rekrytera är en variant att gå bredvid en svensktalande och att samtidigt få språkträning i arbetet. Kunderna som är beroende av personalen ska alltid förstå och bli förstådda.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska friskolor ta emot alla elever. Det har ibland varit så att friskolor inte tagit emot elever med behov av särskilt stöd. Friskolor ska givetvis ta emot nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för att ungdomar ska kunna flytta hemifrån. Det är också viktigt av sociala skäl för familjer med låg inkomst och äldre med låg pension.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs alternativ för att jämförelser mellan offentlig och privat vård ska kunna göras. Olika ideologier och metoder kan också kräva privata lösningar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bilen kommer att leva kvar. Miljövänliga bilar drivna av el ökar alltmer. I framtiden kommer också vätgas. Bostadsrättsföreningar, företag, handelscentrum m fl satsar på laddstolpar. Kommunen behöver också satsa mera.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner i Sverige behöver ta på sig ett visst ansvar. Det finns idag kommuner som försöker komma undan. De kommuner som inser att arbetskraften behövs inför framtiden tar gärna på sig större ansvar. Men det behövs en jämn fördelning över landet för att flyktingarna tidigt ska kunna etablera sig på arbetsmarknaden.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Det beror ju på hur många elever som väljer privata. Jag kan tänka mig 20 procent.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "Kultursatsningarna i Skövde bygger idag mycket på externa inkomster. \r\nMin kommun behöver satsa mera på kultur för barn-och ungdom och för äldre.\r\nSkolbiblioteken behöver rustas upp med personal för levande bibliotek.\r\nKulturskolan som nyss startat behöver utvecklas.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "Skatten höjdes för några år sedan. Idag har vi överskott vid boksluten. Men framtiden är ekonomiskt osäker, så vi behöver ligga kvar med god marginal. Vi har ett 3-procentigt mål över mandatperioden.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2288",
+          "2290",
+          "2284"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D!;C!;C!;B!;C;D!;C!;D!;D!;B!;2/5!;3/5!;2/5!;[2288,2290,2284]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad jag kan se för Skövdes del.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna vill fortsatt verka i en Allians med Centern, Kristdemokraterna och Liberalerna. Vi vill vara en aktiv del av Skövdes ledning med ledamot i Kommunstyrelsens Arbetsutskott och Arbetsgivarutskott. Vi önskar ordförandepost i Barn- och utbildningsnämnden samt kultur-och Fritidsnämnder samt ledamot i Bolagen styrelser.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänstern.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skol-/utbildningsstad byggd på Kunskap, Likvärdighet och Valfrihet",
+        "description": "•\tSkövde – en trygg skol- /och utbildningsstad grundad  i kunskap, likvärdighet och valfrihet för alla elever. Det är en trygg skola som lyckas med sitt kunskapsuppdrag. För alla elevers möjligheter ska skolan vara likvärdig. Det handlar om att ge möjligheter för dem som inte lyckas och samtidigt öka stimulansen för dem som hålls tillbaka. Valfrihet är viktig för elever, föräldrar och pedagoger."
+      },
+      {
+        "category": "Vård och omsorg där de friska åren blir fler och där valfriheten till  stöd ökar",
+        "description": "•\tSkövde – vård och omsorg som syftar till att de friska åren blir fler och som ökar valfriheten för dem som behöver stöd. Det handlar om individuellt stöd för personer med funktionsnedsättning . Friheten till ett självständigt liv ska försvaras för \"årsrika\" personer. Deras erfarenheter ska tas tillvara. Valfriheten till boendeform och utförare i omsorgen samt kulturupplevelser ska förstärkas."
+      },
+      {
+        "category": "En trygg,  växande kommun där nya områden för bostäder och företag utvecklas ",
+        "description": "•\tSkövde – en kommun där nya områden för bostäder och företag utvecklas och där kultur- / och fritidsverksamhet är en prioriterad del. För att klara tillväxten måste kommunikationerna till och genom Skövde förbättras. Nya områden för bostäder och företag ska planeras och utvecklas i hela kommunen såväl i innerstaden som mindre orter i kommunen. Klimat- och miljöinsatser ska göras parallellt."
+      }
+    ],
+    "motivateVote": "Liberalerna sätter alltid skolan först. En trygg och framtidsinriktad kunskapsstad bygger på utbildning, likvärdighet och valfrihet för alla.\r\nSynen på årsrika måste förändras. Ålder är ett dåligt mått på människors förmåga. Vi verkar för en tillväxtkommun där attraktiva miljöer för bostäder och företag utvecklas. Skövdes kultur- och fritidsverksamhet måste stärkas.",
+    "name": "Liberalerna Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-skovde"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1511",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har antagit en koldioxidbudget som visar på hur svårt det kommer att vara för oss att uppnå målen i Parisavtalet. Då finns inget utrymme för fortsatt flygtrafik i Skövde.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ger en falsk känsla av trygghet. Lägg istället energin på att bygga bort otrygga miljöer i staden.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en jämlikhetsfråga, det kan inte vara dyrare att åka kollektivt än var och en i egen bil om vi skall kunna bygga ett hållbart samhälle.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ger medborgarna möjlighet till inflytande över staden.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "På sikt vill vi att alla människor skall få mer tid till annat än jobb, men äldreomsorgen är en bra sektor att börja med då vi behöver göra yrkesrollen mer attraktiv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att äldre har en bra kontakt med personalen som vårdar dem och då är språket viktigt. Vi är inte negativa till ett språktest, men då måste också nyanlända få det stöd de behöver för att kunna klara det.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi skall ha ett system där både privata och offentliga skolor får lika mycket pengar så måste de också ta lika mycket ansvar för exempelvis integration.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag är det dyrare att bo i en kommunal hyresrätt än en privatägd bostadsrätt, men ändå är det bara personer med god ekonomi som har ett val i frågan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är i grunden positiva till valfrihet för att exempelvis kunna driva verksamheter i form av föreningar eller samfälligheter, men dagens system leder till att välfärden urholkas av vinstlystna vårdkoncerner.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall absolut vara med och ansvara för elektrifieringen av fordonsflottan, men all bilism (även elbilism) ska stå för sina egna kostnader. Fokus bör vara på att förbättra tillgången till laddstolpar nära resmål och vid flerbostadshus.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både kommuner som inte tar emot några flyktingar och kommuner som tar emot fler än de klarar av för att få ekonomiska fördelar bidrar till en dålig integration. Vi behöver tänka långsiktigt med människornas bästa för ögonen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Det svenska skolexperimentet har inte blivit som det var tänkt. Idag urholkas systemet genom vinstjakt och segregation. Det måste få ett slut.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "Idag lägger jämförbara kommuner 556 kr per invånare på bibliotek, vi i Skövde lägger 298. Kulturskolan får 213 kr istället för 353. Studieorganisationerna får 20 kr istället för 31. Kulturen är kraftigt underfinansierad och det går ut över invånarna.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "Om vi går fram med skattehöjningar så är det för att finansiera specifika satsningar som ger kommuninvånarna en större samhällsnytta tillbaka. Det finns inget egenvärde i att höja skatten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": "Barn- och utbildningsnämnden är den enskilt största nämnden. Vi har dåliga skolresultat i nationella mätningar samtidigt som nämnden är kraftigt underfinansierad.",
+        "value": [
+          "2287",
+          "2288",
+          "2285"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A;D!;B;D!;C;D!;D!;B;D;A;1/5;4/5!;2/5;[2287,2288,2285]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Skövde är en kommun med både stad och land. Landsbygdsfrågor kommer helt naturligt att komma högre upp på dagordningen här än på nationell nivå. Vi vill att hela kommunen skall frodas, inte bara staden. I Skövde värderar vi även dricksvattenfrågan, Vätternvattnet, mycket högre än på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi styr kommunen tillsammans med de partier som jobbar för en hållbar framtid. I dagsläget har vi ett bra samarbete med Socialdemokraterna och Vänsterpartiet. Även Centerpartiet kan vi se många samarbetsmöjligheter med.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samarbetar bara med partier som ställer upp på en feministisk politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimat och miljö",
+        "description": "Använd kommunens skogar för kolinlagring, rena avloppsvattnet från läkemedelsrester innan det går ut i vattendragen, plantera inhemska lövträd i staden för att gynna den biologiska mångfalden och göra stadsmiljön tolerabel under de många skyfall och värmeböljor som lär komma."
+      },
+      {
+        "category": "Nollvision mot mäns våld mot kvinnor",
+        "description": "Alla kommunanställda ska genomgå en obligatorisk utbildning för att förebygga våld i nära relationer, anslagen till Kvinnohuset Tranan ska höjas kraftigt och kommunen måste ha en konkret handlingsplan för hur våldet ska upphöra."
+      },
+      {
+        "category": "Fler utbildade vuxna i skolan",
+        "description": "Inför ett tvålärarsystem i alla Skövdes kommunala skolor, anställ fler specialpedagoger och kuratorer samt HBTQI-certifiera barn- och elevhälsan."
+      }
+    ],
+    "motivateVote": "Miljöpartiet driver en politik som sätter naturen, klimatet och människor i centrum. När staden växer är det viktigt att den växer på rätt sätt och i lagom takt, inte på ett sätt som utmanar planetens resurser. Människor som kommer till oss måste bemötas med vänlighet och respekt, deras kompetens måste tillvaratas och de måste få möjlighet att utvecklas och trivas.",
+    "name": "Miljöpartiet Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-skovde"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1512",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna är beslutna om att Skövde ska vara en betydelsefull ort för tillverkningsindu-strin även framåt. Vi behöver stå väl förberedda för att ta del av den omställning som sker, då är marken på Locketorp en viktig pusselbit. Att hitta och detaljplanera annan lämplig mark tar många år. Att bevara arbetstillfällen och skapa möjligheter för ännu fler är högt prioriterat.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna har ett tydligt fokus på att upprätthålla lag och ordning. Vi prioriterar brotts-förebyggande arbete och vi samverkar mycket och bra med polisen.  Kameraövervakning är viktig både för att förebygga brott och att bistå i polisens utredning så att förövare kan ställas till ansvar och lagföras.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken är redan subventionerad av skattebetalare. Det finns ett värde i att hålla kostnaderna nere för att öka motivationen att välja kollektiva resor när det är möjligt. Kostnaden för att helt skattefinansiera kollektivtrafiken kan däremot inte motiveras, det är rimligt att var och en också tar ett ansvar för sina egna resekostnader.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stat, region och kommun ska inte göra det som andra kan göra lika bra eller bättre. Vissa kommunala bolag är dock ett viktigt verktyg för kommunens förmåga att leverera inom andra grundläggande uppdrag. Bostadsbolaget är ett tydligt exempel på det. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behovet av arbetskraft är stort framöver och fler behöver jobba mer för att vi ska kunna både bemanna och finansiera grundläggande välfärd som skola, vård och omsorg. Att då lägga stora belopp på att enbart minska veckoarbetstid är inte hållbart. Däremot behöver vi pröva och utvärdera arbetstidsmodeller som säkerställer kompetensförsörjning och underlättar för personalens återhämtning.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt både ur kvalitets- och patientsäkerhetsperspektiv samt arbetsmiljö att alla anställda inom äldreomsorgen förstår och pratar tillräckligt bra svenska för att tryggt och säkert kunna utföra alla arbetsuppgifter och kommunicera väl med både äldre och kollegor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor och kommunala skolor ska så lågt som är rimligt ha likvärdiga uppdrag och förutsättningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tar genom sitt bostadsbolag ansvar för att det produceras lägenheter med rimliga hyror så att även unga och äldre kan bo bra. Däremot finansierar vi inte hyror genom subvention om inte särskilda skäl föreligger vid tex låga inkomster och kostnader för plats i särskilt boende (äldreboende).",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja vi ser att valfriheten inom äldreomsorg tillför värde för våra innevånare. Det är viktigt att behålla eget inflytande även när man behöver samhällets hjälp i vardagen. Det är också en tillgång i samhället att personal kan välja mellan olika arbetsgivare.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en viktig roll i samhällsutveckling och att underlätta för Skövdeborna att följa med i utvecklingen till en klimatsmart kommun. Här kan offentlig verksamhet behöva visa vägen men ska inte ensam ta ansvaret. I takt med att tillgången ökar så är vi övertygade om att utvecklingen kommer ske genom att flera aktörer bidrar i högre grad och då minskar också kommunens uppdrag.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala förutsättningar för att kunna ta emot nyanlända och erbjuda värdigt mottagande och goda förutsättningar för integration, arbete, studier och livsvillkor varierar och behöver kunna påverka volymer vid ett givet tillfälle. Men vi anser också att vår kommun, likt alla andra, har ett ansvar för att Sverige klarar sitt åtagande på ett bra sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Vi är tacksamma för de utbildningstillfällen av god kvalitet som erbjuds genom Skövdes utbud av friskolor från förskola till gymnasium. Det ger vår region goda förutsättningar för att barn och unga kan välja en skola som passar deras behov och förväntningar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ett bra utbud i kommunen som däremot skulle behöva göras mer känt så att fler tar vara på de fina möjligheter till rikt kulturliv som Skövde erbjuder. Lägger vi till utbudet som finns tillgängligt i Skaraborg så finns det ett riktigt bra utbud för Skövdeborna",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna har stor respekt för skattebetalarnas pengar och är måna om att de används an-svarsfullt. Med de ökande behoven inom utbildning och omsorg samt de nödvändiga investeringarna i närtid ser vi inte möjlighet att sänka kommunalskatten de närmsta åren men långsiktigt vill vi se en utveckling där skatteintäkterna ökar för att fler arbetar och att skattebördan på enskilda därmed kan minska",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": "Behoven hos barn, unga och äldre ökar till följd av demografiutveckling och att tillhandahålla vård skola och omsorg av god kvalitet är ett kommunalt kärnuppdrag. För att skapa resurser att fördela till välfärden behöver fler bo och verka i Skövde. Tillväxt och därmed tillgång på bostäder är därför högt prioriterat.",
+        "value": [
+          "2288",
+          "2285",
+          "2284"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;A;C;A;D!;C!;A;D!;C!;C!;3/5;2/5;1/5!;[2288,2285,2284]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i de stora strategiska frågorna. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se en stark majoritet för en moderatledd Allians (M, C, KD och L) ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skapa förutsättningar för nya arbetstillfällen ",
+        "description": "Med fler barn och fler äldre samt färre i arbetsför ålder så behöver kommunen ta höjd för både kompetensförsörjning och finansiering. Det förutsätter tillväxt. Ett bra företagsklimat och ett starkt näringsliv blir helt avgörande för att finansiera skola, vård och omsorg.\r\nTillverkningsindustrin behöver plats att utvecklas så att Skövde kan bli vinnare när industrin ställer om."
+      },
+      {
+        "category": "En skola som ger alla barn och unga rätt start i livet",
+        "description": "Trygghet, studiero och en skola fri från mobbing ska ge våra barn goda förutsättningar för lyckas i livet. Vi vill säkerställa kunskapsutveckling utifrån individens förutsättningar så att man kan gå vidare till arbete eller högre studier. För att höja kvaliteten och kunskapsresultaten krävs förändringar som t.ex. ger elever mer tid med sina lärare och bättre tillgång till läromedel."
+      },
+      {
+        "category": "Den lilla stadens charm med den stora stadens möjligheter",
+        "description": "Vi behöver öka mängden bostäder som byggs både i staden och på landsbygden. Skövde behöver förtätas och fler behöver bo och verka i centrum för en livfull stadskärna. Kultur- och fritidsutbudet ska stärkas genom ökad samverkan kommun-förening-näringsliv. Billingen ska fortsätta sin utveckling mot att bli en välbesökt plats för såväl Skövdebor som mer långväga gäster."
+      }
+    ],
+    "motivateVote": "Moderaterna värnar om människors frihet och ansvar. Vi lovar inte allt till alla men lovar att vi i ljuset av ny kunskap ständigt är redo att vårda, utvärdera och ompröva lösningar på samhällsproblemen. Att vi ständigt prövar våra idéer mot såväl vetenskap som verklighet. Moderaterna har den kraft, vilja och mod som behövs för att fullfölja utvecklingen som vi redan har startat.",
+    "name": "Moderaterna Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-skovde"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1513",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marken behövs till andra verksamheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameratekniken har gått framåt och nu kan kamerorna användas för att identifiera och inte endast i avskräckande syfte.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill införa sommarlovskortet för unga men att göra hela kollektivtrafiken gratis är inte realistiskt ur ett ekonomiskt perspektiv.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner måste kunna vara med och agera på en öppen marknad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har som det ser ut i nuläget svårt att få tag på personal, att då minska arbetstiden vore i princip omöjligt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Istället ska svenska-utbildning erbjudas på arbetstid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fristående skolor ska ta samma ansvar som kommunala skolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan ska producera många olika typer av boenden, däribland lägenheter i den lägre prisklassen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge de inte tar ut oskäliga vinster.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer att vara nödvändigt för kommunen att tillse att det finns ladd- infrastruktur.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla måste vara med och dela på ansvaret, det ska inte kunna vara upp till en kommun att välja sina i innevånare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Driftsformen är inte det viktigaste utan att skolor inte drivs enbart i vinstsyfte. Kommuner ska också kunna säga nej till fristående skolor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": "Kultur - och fritidsverksamhet är viktigt ur många hänseenden, inte minst ur ett folkhälsoperspektiv. Därför bör kommunen lägga mer på denna verksamhet än vad som görs idag.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "Skatten är inget självändamål utan ska vara på en sådan nivå att verksamheten kan drivas på ett kvalitetssäkert sätt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2287",
+          "2288",
+          "2284"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;B;A!;A;B;D;C;C;C;A!;2/5;3/5;2/5;[2287,2288,2284]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i någon större ideologisk fråga.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill naturligtvis styra för att implementera vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer resurser till Skövdes skolor.",
+        "description": "Skolan i Skövde har under ett flertal år dragits med för dåliga resurser, detta vill vi åtgärda. Lärarna måste få förutsättningar för att kunna bedriva verksamheten på ett hållbart sätt med tillräckligt med kollegor. Det kan knappast finnas en viktigare fråga för oss som kommunpolitiker än att säkerställa att kommande generationer får en fullgod utbildning."
+      },
+      {
+        "category": "Våra äldre.",
+        "description": "Det är våra äldre som bidragit till och byggt upp det välfärdssamhälle vi har idag, därför är det också vårt ansvar att se till att deras ålderdom blir rik och värdig. Pandemin visade på brister i äldreomsorgen i hela Sverige, i Skövde ska vi ha en verksamhet som lever upp till höga krav på kvalitet och därför behöver vi anställa fler så att alla kan få den hjälp de har rätt till."
+      },
+      {
+        "category": "Framtiden.",
+        "description": "Skövde växer och ska fortsätta att göra det, men för det krävs det att vi som beslutsfattare är både kloka och modiga. Vi måste se till att människor vill flytta hit och att det finns bostäder för dem. Vi vill därför jobba med Skövdes attraktivitet genom att bland annat skapa ett Show - room där vi kan visa upp vad som händer i kommunen och vi vill på allvar korta tomtkön."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna strävar efter ett jämlikt och jämställt samhälle där alla får möjlighet att sträva efter att utvecklas och bidra till samhället.",
+    "name": "Socialdemokraterna Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-skovde"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1514",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "EN kommun med framtidstro lägger inte ner en välskött flygplats.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tryggheten är det viktigaste för medborgarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslår gratis kollektivtrafik för pensionärer. Att gå längre är väldigt dyrt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar gärna en diskussion i ämnet, men ser i dagsläget inte några akuta konflikter i Skövde. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vansinnesförslag som skulle ge en mycket dålig service för våra mest behövande. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre är inte en integrationsåtgärd. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nyanlända som saknar basala kunskaper i Svenska ska placeras i förberedelseskola för att inte sänka studienivån för alla andra. Ansvaret är primärt statens. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skövde Bostäder ska se till att det byggs erfoderligt med bostäder, men prissättningen behöver vara mer marknadsmässig. Fler små lägenheter kan dock med fördel byggas city-nära och de blir ju billigare än större dito. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man måste kunna välja bort dålig service. Valfriheten är central. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ska ske klokt och återhållsamt, men givetvis måste kommunen vara delaktig i utvecklingen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att Skövde ska kunna säga nej! Skövde får aldrig bli som många andra svenska kaos-städer. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Vi välkomnar privata initiativ, men ser det inte som ett självändamål. Skolan i den kommunala regin ska vara så bra att privata initiativ inte behövs annat än i begränsad omfattning. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": "SD:s mål är att vi ska ner under riksgenomsnittet. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2289",
+          "2283",
+          "2290"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;B;B;A!;D!;A;B;D;C;D!;2/5;1/5;1/5!;[2289,2283,2290]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inga uppenbara konflikter, men lokalpolitiken är ju ofta något annat än rikspolitik. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD som kommunstyrelsens ordförande, samarbete med partier som delar våra mål om riktningen för Skövde. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "”Bevara och utveckla Skövde flygplats!”",
+        "description": "Skövde och Skaraborg behöver en flygplats med certifikat som medger kommersiellt flyg – likt ambulansflyget. Vi vill riva upp beslutet att lägga ner flygplatsen och menar att det finns gott om mark till industrietableringar runt omkring flygplatsen."
+      },
+      {
+        "category": "”Återvandringskontor – vi hjälper invandrare att återvända hem!”",
+        "description": "Skövde kommun kan inte utgöra permanent hem för migranter från hela världen. Målsättning för asylmigranter måste vara att de ska återvända hem när omvärldsläget tillåter det. Detta gäller för såväl ukrainska flyktingar som de ekonomiska migranter som tidigare sökt asyl i Sverige. Vi föreslår därför ett aktivt återvandringsarbete inom Skövde kommun med bland annat ett återvandringskontor."
+      },
+      {
+        "category": "”Kommunala ordningsvakter för att stärka tryggheten!”",
+        "description": "Sverigedemokraterna på riksnivå verkar för fler poliser men i väntan på en rimlig polisnärvaro finns det behov av andra lösningar för att stärka tryggheten i Skövde. Vi anser därför att Skövde kommun ska kontraktera ordningsvakter till gatorna i Skövde."
+      }
+    ],
+    "motivateVote": "Det finns många skäl att få till en förnyelse i styret i  Skövde. Tystnadskulturen, den tilltagande otryggheten, den galna flygplatsnedläggningen m.m.",
+    "name": "Sverigedemokraterna Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-skovde"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1515",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8ec7e8be9b226cc0ed8bf70a88efe5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyget är mycket klimatskadligt och Skövde behöver inte en flygplats",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fb2c02b5cfed1fcdc355ed9c5a162629",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kanske inte den första åtgärden man ska ta till för att undvika brott men kan vara ett komplement ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3d547fa66e2692434859f2997ce75ace",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha rätt att kunna röra sig i samhället. Fler skulle åka kollektivt om det bara var att hoppa på och hoppa av",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0f438cae3332069eaca75cbd807d6aed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut inte, det är viktigt att våra gemensamma bolag går in och täcker upp behoven på marknaden där privata saknas eller inte gör ett tillräckligt bra jobb",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "777a7c9e9a943a1ee450fe4a21924a3b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstidsförkortning kommer bli den nya normen, fler måste komma i arbete och stressen minskas",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe68353fa3eee093f91856c8badbf197",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att de som jobbar med våra äldre kan göra sig förstådda ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b1cb081c904d843b1c845e613ec0ab83",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska privata skolor finnas ska de gå under precis samma förutsättningar som de kommunala",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a4851dbc980730abc0bbc7fe2eeed784",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tak över huvudet är en rättighet, alla måste ha råd till en bostad. För många är hyresrätt det enda alternativet ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4dfea4b9c2ab417af98c79f19194ca56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska gå till verksamheten, inte vinst",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d4edfe5a0515b03f9c506bf338b0818d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omställningen måste ske snabbare. Elbilar kommer vara det vanligaste persontransportmedlet inom kort, därför måste kommunen möta upp behovet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10e62dadf96b8dbdaf180b57142eff8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige som nation ska bestämma och därmed får kommunerna ställa upp likvärdigt ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f7467404a858a4db8d9d72da6c49faf1",
+        "questionType": "RANGE",
+        "reasoning": "Skattepengar ska gå till verksamheten, inte privata vinster",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "e5c17ec0e90bcb5e1cefa44c43560580",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f5336222251cccf11f593532fbaffed",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "af3ef3ea319a46a6ba67927c51cd8839",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2290",
+          "2284",
+          "2286"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;D;A;D;C;D;D;A!;D;A;0/5!;2/5;2/5;[2290,2284,2286]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokalt är vi emot Cementas fortsatta utbredning vilket partiet på riks inte är",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att vi sitter med i den styrande majoriteten så vi kan genomföra vår politik som ökar jämställdheten och rättvisan för vanligt folk",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer resurser till skolan",
+        "description": "Skolan och förskolan i Skövde är underfinansierade och behöver mer personal men också färre barn per klass/barngrupp. V satsar över 25 miljoner mer i vår budget än alliansen"
+      },
+      {
+        "category": "6 timmars arbetsdag",
+        "description": "V vill att i omsorgen gå ner till 6 timmars arbetsdag med bibehållen lön. Där detta har införts har resultatet blivit färre långtidssjukskrivna, gladare brukare och lättare att hitta personal"
+      },
+      {
+        "category": "Fri kollektivtrafik ",
+        "description": "Vänsterpartiet vill på sikt införa helt fri kollektivtrafik inom Skövde kommun. Vi vill börja med att erbjuda alla ungdomar mellan 15-17 fri kollektivtrafik på lov och efter skoltid samt ge alla över 65 år fri kollektivtrafik"
+      }
+    ],
+    "motivateVote": "Vi är ett socialistiskt, Feministiskt, antirasistiskt parti som vilar på ekologiskt grund",
+    "name": "Vänsterpartiet Skövde",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-skovde"
+  }
+]

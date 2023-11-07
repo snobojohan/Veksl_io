@@ -1,0 +1,864 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "920",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9779a0f052409a88a31f4fd36994607e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finnerödjabacken är förutom en flaskhals för pulsådern E20 även en stor säkerhetsrisk",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "788a94095373bfe88cb8ca4241639d37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkviljan påverkar infrastrukturen runt ett eventuellt allaktivitetshus. Exempelvis kan fritidsaktiviteter utvecklas mer lokalt",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a9bab2bb8f22194bcfe7050dd4f36694",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personal och föräldrar vittnar om de goda förutsättningar som lokalerna o Finnerödja skola erbjuder",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ba307e5c62b0607acd861d3a4c2512d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar om valfriheten",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8263832241378374e51b66f8c75166f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Individen bör själv kunna påverka sin arbetstid och utöva inflytande över sitt schema",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9923a05579b20f0d9b4517d463ddd701",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är god målsättning men resursbehovet måste prioriteras",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0becdc3f0d0ff580b45fe87cca41112c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för ändamålsenliga och bra boendealternativ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "05e15933431b24af50fcd9483b601f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska uppmana och medverka till att aktörer samordnas och effektiv handläggning för en så enkel utbyggnad som möjligt",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fd233e89ea1415526033c45accebd308",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9873c91135ad33ff456244c94a366fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en samhällsfråga och inte upp till enskilda kommuner att bestämma om integration ska fungera",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8ab28bcbaa988004e57e33753a5b073",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart\r\nIntegration är inte ett kommunalt arbete, det bör ligga i samhällets intresse",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "452e3aae3dd610a97fdc9fad508fde5c",
+        "questionType": "RANGE",
+        "reasoning": "För valfrihet",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "cbbb2866f3c817e678a5ad2538c4dab3",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt, inte minst vad gäller fritidsverksamhet. Kulturverksamheten bör därför vara en tydlig bärare och aktivt ansvara för fritidsverksamhet i kommunen",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "463e515c1d043fbdf119fbc8d7c5459f",
+        "questionType": "RANGE",
+        "reasoning": "Offentlig förvaltning kan inte effektiviseras sönder, men smarta lösningar och fokus på frågor som skapar värde ger utrymme",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "64a2b18fe0690ffe478b2712624dbbdc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1549",
+          "1550",
+          "1548"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C!;A!;C;B!;C!;B;B!;A;A;D;3/5;3/5!;1/5;[1549,1550,1548]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Absolut! Rikspolitik skiljer sig ofta mot lokala förutsättningar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "På lokalnivå ser vi möjligheter till ett brett samarbete grundat på liberala värderingar och framtidstro",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har svårt att samarbeta med partier som är öppet demokratifientliga",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fokus på kommunens framgångsfaktorer",
+        "description": "Framgångsfaktorer ska identifieras, formuleras, prioriteras och konkretiseras. \r\nFaktorerna bör representera hela kommun och inkludera samtliga medborgare. Dessa ska bli gemensamma mål att styra och förvalta."
+      },
+      {
+        "category": "Kommun, näringsliv och föreningsverksamhet",
+        "description": "Parterna kan genom gemensamma krafter och investeringar skapa förändring. Gemensamma drivkrafter och resurser med medborgaren i centrum som skapar synergieffekter inom hela kommunen."
+      },
+      {
+        "category": "Fokus på det systematiska arbetsmiljöarbetet",
+        "description": "I kommunen finns en tydlig och välformulerad arbetsmiljöpolicy. Politiken som arbetsgivare och ytterst ansvarig måste ta sitt ansvar, att följa upp att policyn efterlevs samt att åtgärder vidtas."
+      }
+    ],
+    "motivateVote": "Centerpartiet i Laxå är ett stark lag med bred kompetens. Starkt samhällsförankring och med tro på framtiden!",
+    "name": "Centerpartiet Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-laxa"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "921",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9779a0f052409a88a31f4fd36994607e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finnerödjabacken och området längs E20 drabbas varje vinter av trafikstopp som påverkar stora områden och många företag runt om i Sverige.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "788a94095373bfe88cb8ca4241639d37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom det är en frivillig verksamhet men kommunen kan arbeta för att stödja liknande verksamheter i alla kommundelar som genomförs  av föreningar inom det civila samhälelt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a9bab2bb8f22194bcfe7050dd4f36694",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta beslut har redan fattats och förskolans personal är mycket positiv till denna förändring och detta beslut.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ba307e5c62b0607acd861d3a4c2512d7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns företag som vill göra detta så är kristdemokraterna positiv till detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8263832241378374e51b66f8c75166f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laxå är en liten kommun och vi ser inte att varken ekonomin eller tillgänglig personal räcker för detta.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9923a05579b20f0d9b4517d463ddd701",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart - personal som arbetar med äldre måste de kunna förstås och förstå det som sägs. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0becdc3f0d0ff580b45fe87cca41112c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Laxå kommun är det AB LaxåHem som hanterar och bygger kommunala hyreslägenheter. Som bolag måste LaxåHem få ekonomi i både byggande och uthyrning. Laxå kommun kan inte subventionera några människors boende medan andra får betala hela kostnaden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "05e15933431b24af50fcd9483b601f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det inte finns privata företag, som hotell, restauranger, bensinstationer som kan och vill etablera laddstolpar kan kommunen bli tvungen att göra detta, men det är inte en grundläggande del av kommunernas uppgifter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fd233e89ea1415526033c45accebd308",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de situationer där kommunen eller dess  bolag direkt konkurrerar med privata företag ska kommunen och dess bolag avstå eller lägga ned denna konkurrerande verksamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9873c91135ad33ff456244c94a366fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att varje kommun tar sin  proportionerliga del av antalet nyanlända flyktingar. Varje kommun ska också kunna erbjuda sig att ta emot fler, endera i samverkan med någon annan kommun eller via länsstyrelsen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e8ab28bcbaa988004e57e33753a5b073",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag sker antagande av elever i friskolor via en kö, detta bör finnas kvar. När man kan ställa sig i en kö kan förändras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "452e3aae3dd610a97fdc9fad508fde5c",
+        "questionType": "RANGE",
+        "reasoning": "Om det finns intresserade företag så bör de ta kontakt med kommunen. Eftersom Laxå kommun idag inte har någon privat driven skola kan vi ju inte ha mindre, och det är omöjligt att säga hur mycket innan intresse visats.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cbbb2866f3c817e678a5ad2538c4dab3",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att kultur är något som bör finnas i varje kommun och det ger generellt en positiv effekt för både boende och inflyttningsvilliga familjer.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "463e515c1d043fbdf119fbc8d7c5459f",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle gärna sänka skatten men behoven via kommunen fortsätter att öka. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64a2b18fe0690ffe478b2712624dbbdc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1550"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A;C;B;D!;B;B;C;B;B;2/5;3/5;2/5;[1550]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi eftersträvar en majoritet tillsammans med Centerpartiet. Vi har styrt tillsammans i 8 år och vi har ett förtroendefullt samarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte tänka oss att styra med Socialdemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utvecklingsplaner för varje kommundel",
+        "description": "Under de senaste 8 åren har vi påbörjat arbetet med lokala utvecklingsplaner och ekonomiska medel för varje kommundel. Vi vill fortsätta detta med utvecklingsplan 2.0 i varje kommundel."
+      },
+      {
+        "category": "Utveckla Bodarneparken till en stadspark",
+        "description": "Nuvarande Bodarneparken i centrala Laxå ska utvecklas till en stadspark med blommor, parkbänkar, stigar och konst. Även en utbyggnad av nuvarande lekparken och etablering av en \"plaskdamm\" för mindre barn."
+      },
+      {
+        "category": "Utveckla skolans arbete",
+        "description": "Vi vill satsa på att elevernas resultat i skolan höjs och att alla ska trivas i skolan. Elever som har svårigheter och de som har det lätt för sig ska få stöd att  fortsätta utvecklas. \r\nVi vill se detta som ett samhällsarbete där skolan, föräldrar och elever står tillsammans."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som varit ledande i Laxå kommun under de senaste 8 åren. Vi har fått ordning på ekonomin, där vi lett kommunen från Sveriges fattigaste kommun när vi tog över till en kommun som har en relativt god ekonomi, helt skuldfri som kommun. \r\nVi har nu reparerat den som (S) inte klarade av under sina år som kommunens styrande parti, nu vill vi jobba framåt och skapa ett bättre Laxå.",
+    "name": "Kristdemokraterna Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-laxa"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "922",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-laxa"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "923",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9779a0f052409a88a31f4fd36994607e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "788a94095373bfe88cb8ca4241639d37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dä det idag inte finns något Allaktivitetshus. Vi vill istället skapa en lokal i Finnerödja och Hasselfors och Laxå där våra ungdomar kan träffas på orten. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a9bab2bb8f22194bcfe7050dd4f36694",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba307e5c62b0607acd861d3a4c2512d7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8263832241378374e51b66f8c75166f2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9923a05579b20f0d9b4517d463ddd701",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0becdc3f0d0ff580b45fe87cca41112c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "05e15933431b24af50fcd9483b601f12",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fd233e89ea1415526033c45accebd308",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9873c91135ad33ff456244c94a366fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e8ab28bcbaa988004e57e33753a5b073",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "452e3aae3dd610a97fdc9fad508fde5c",
+        "questionType": "RANGE",
+        "reasoning": "Finns ingen privat skolar i Laxå skulle vars bra med andra alternativ ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "cbbb2866f3c817e678a5ad2538c4dab3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "463e515c1d043fbdf119fbc8d7c5459f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "64a2b18fe0690ffe478b2712624dbbdc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1555",
+          "1556",
+          "1554"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B!;D!;D;A;D;A;B;D;D;C;4/5!;0/5;0/5;[1555,1556,1554]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ej bebyggelse på jordbruksmark ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna leder kommunen tillsammans med de partier som vi kan hitta bästa genomförbar politik med. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan kan och måste bli bättre i Laxå. ",
+        "description": ""
+      },
+      {
+        "category": "Vi samarbetar för att utveckla Laxå till ett tryggt och en väl fungerande kommun",
+        "description": "Vi kommer samtala med alla partier efter valet för att kunna driva moderat kommun politik."
+      },
+      {
+        "category": "Ta bort krav/avbyråkratesera bygglovsplikter utanför tätort",
+        "description": "Krav på detaljplan vid byggnation utanför kommunen ska ses över för att underlätta för sökande. Bygglov handläggningstider måste bli snabbare."
+      }
+    ],
+    "motivateVote": "Vi vet att kommunen kan drivas effektivare och vi vill att kommunen skall utvecklas genom att skolorna skall målmedvetet arbeta för hög kvalitet i undervisningen. Så Laxå blir attraktivt för barnfamiljer. ",
+    "name": "Moderaterna Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-laxa"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "924",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9779a0f052409a88a31f4fd36994607e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "788a94095373bfe88cb8ca4241639d37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är något som kommunen tittar på. Bra att ge ungdomar möjligheten att delta i fler aktiviteter och att sedan kunna ta sig till sin hemort.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a9bab2bb8f22194bcfe7050dd4f36694",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tyvärr har kommunen sålt fastigheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba307e5c62b0607acd861d3a4c2512d7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8263832241378374e51b66f8c75166f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan genomföras i samarbete med facklig organisation, när ekonomin tillåter det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9923a05579b20f0d9b4517d463ddd701",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men ska få förutsättningar att få lära sig yrkes svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0becdc3f0d0ff580b45fe87cca41112c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det möjliggörs för ungdomar att kunna flytta hemifrån.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "05e15933431b24af50fcd9483b601f12",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "fd233e89ea1415526033c45accebd308",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9873c91135ad33ff456244c94a366fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta emot det antal som tilldelas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8ab28bcbaa988004e57e33753a5b073",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är emot marknadsskolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "452e3aae3dd610a97fdc9fad508fde5c",
+        "questionType": "RANGE",
+        "reasoning": "Inga.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cbbb2866f3c817e678a5ad2538c4dab3",
+        "questionType": "RANGE",
+        "reasoning": "Fast i annan organisation.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "463e515c1d043fbdf119fbc8d7c5459f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64a2b18fe0690ffe478b2712624dbbdc",
+        "questionType": "PRIORITY",
+        "reasoning": "I arbetsmiljö ingår schema och återhämtning.",
+        "value": [
+          "1549",
+          "1556",
+          "1548"
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "_;C;D;A;D;C;C;_;_;A;D;2/5;2/5;2/5;[1549,1556,1548]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi ser ett samarbete med partier som är villiga att satsa på välfärden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och Kd.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Elevernas rätt till utbildning och tillgång till stöd och resurs i klassrummet",
+        "description": "Ge lärarna förutsättningar genom att ha tillgång till kollegor och välanpassade lokaler och inte för stora klasser. Skolresultaten har försämrats och vi har påtalat dessa brister men mötts av majoritetens enda mål för skolan att 85 % skall klara måluppfyllelsen för yrkesprogrammen i gymnasiet. För oss S finns bara ett mål för våra barn, 100% skall få förutsättningar för en bra framtid."
+      },
+      {
+        "category": "Fortbildning för personal inom omsorgen och förbättrade scheman och arbetsmiljö.",
+        "description": "Under mandatperioden har införts ett så kallat ”hälsoschema” som skapat stort missnöje bland personalen. Likaså har det inte satsats seriöst på fortbildning. Vi Socialdemokrater går därför till val på att införa ett schema i omsorgen anpassat till tid för återhämtning, familjeliv och fortbildning. Då får vi en omsorg som bäst gagnar de som är i behov av stöd och hjälp."
+      },
+      {
+        "category": "Utveckla fritidsgårdsverksamheten för en aktiv fritid för barn och unga",
+        "description": "Vi vill stärka den sociala hållbarheten för barn och ungas uppväxtvillkor i Laxå kommun. Vi ska ha en ny fritidsgård. All socialforskning pekar på just fritidsgårdsverksamheten med dess aktiviteter som en av de viktigaste faktorerna för ungdomar. Det är en oerhört lönsam verksamhet på lång sikt, varje förlorad ungdom kostar samhället stora summor."
+      }
+    ],
+    "motivateVote": "För att det är barnen och framtiden som är vår högsta prioritet därför satsar vi på välfärdsfrågorna. De senaste två mandatperioderna har välfärden i kommunen sats på undantag och vi vill förändra det.",
+    "name": "Socialdemokraterna Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-laxa"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "925",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-laxa"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "926",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9779a0f052409a88a31f4fd36994607e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "788a94095373bfe88cb8ca4241639d37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är ett av Vänsterpartiets förslag som vi la fram i samband med budget för 2022.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a9bab2bb8f22194bcfe7050dd4f36694",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi drev på för att förskolan skulle renoveras. Men nu när ombyggnation av skolan och skolgården gjorts och förskolan redan flyttat in i skolan är det inte en fråga vi driver.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ba307e5c62b0607acd861d3a4c2512d7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8263832241378374e51b66f8c75166f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att jobba inom äldreomsorgen är ett jobb som måste bli mer attraktivt för att säkra personal i framtiden. Det är också ett krävande jobb där många redan idag väljer att gå ner i tid för att orka med. 6 timmars arbetsdag med heltidslön är ett sätt att komma tillrätta med båda dessa problem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9923a05579b20f0d9b4517d463ddd701",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart måste de som arbetar inom hemtjänst och äldreomsorg kunna kommunicera med brukarna. Ett språktest kan vara ett sätt, om det läggs på rätt nivå. Men framförallt måste arbetsgivare (kommunen) aktivt jobba med språkutveckling under arbetstid för de som behöver utveckla språket. De som behöver utveckla språket ska kunna anställas, men med en plan för språkutvecklingen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0becdc3f0d0ff580b45fe87cca41112c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Laxå kommun är det onödigt dyrt att bygga, på grund av de redovisningsregler som finns. Kommunen och det kommunala bolaget Laxåhem behöver jobba för att tillräckligt med hyresrätter i olika prisklasser finns i kommunen, men att kommunen rakt av ska finansiera billiga hyresrätter är inte rätt väg att gå när det finns mycket annat som kommunen behöver satsa på.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "05e15933431b24af50fcd9483b601f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga ut laddinfrastrukturen är viktigt och kan också ge fördelar i form av fler som stannar till och handlar i kommunen. Ansvaret för att bygga ut laddinfrastrukturen måste tas av både staten och kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fd233e89ea1415526033c45accebd308",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vilken typ av bolag och vad de har för funktion. Samhällsviktig service som till exempel billiga hyresrätter måste samhället ta ansvar för och den typen av kommunala bolag ska inte avvecklas för att det finns privata alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9873c91135ad33ff456244c94a366fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste hjälpas åt att ta emot de som flyr från krig, förtryck och katastrofer. Samtidigt måste kommunerna ges tillräckligt med stöd och resurser för att kunna ta emot nyanlända på bästa sätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e8ab28bcbaa988004e57e33753a5b073",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "452e3aae3dd610a97fdc9fad508fde5c",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns inga privata företag som driver skolor i Laxå kommun.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cbbb2866f3c817e678a5ad2538c4dab3",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns en bra balans mellan hur mycket kommunen lägger på kultur och hur mycket kommunen får i stöd för kulturen. De pengar som kommunen själv lägger är ganska lite sett till kommunens hela budget. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "463e515c1d043fbdf119fbc8d7c5459f",
+        "questionType": "RANGE",
+        "reasoning": "För att finansiera en bra skola, vård och omsorg i Laxå kommun kan det vara aktuellt med en liten skattehöjning. Det bästa vore dock om skatteutjämningssystemet förändrades så att det blir en rättvisare fördelning mellan de rika storstadsnära kommunerna och de fattigare mindre kommunerna på landsbygden. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "64a2b18fe0690ffe478b2712624dbbdc",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1549",
+          "1552",
+          "1548"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;C;A;D!;B;B;C;B;B;D;2/5;2/5;3/5;[1549,1552,1548]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att vår politik ska kunna genomföras. I Laxå kommun finns flera partier som skulle kunna vara möjliga för oss att samarbeta med och flera partier där vi tror det är svårt att få igenom vår politik. Hur möjligheten till samarbeten ser ut vet vi först efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sd och övriga partier som ligger långt ifrån vår politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skrota hälsoschemat",
+        "description": "Det så kallade hälsoschemat som införts för vårdpersonalen måste tas bort. Det påverkar personalens arbetsmiljö och privatliv negativt och har dessutom inte gett de besparingar som utlovats. Vi vill att ett nytt schema ska tas fram i samarbete med personalen. Det nya schemat ska vara hållbart sett till både ekonomin och personalens mående."
+      },
+      {
+        "category": "Fler vuxna, med rätt kompentens, i skola och förskola",
+        "description": "För många elever slutar åk 9 i Laxå kommun utan gymnasiebehörighet. Det är inte okej. Att komma tillrätta med detta innebär många olika insatser, men en del i det är att ha tillräckligt med resurser för de elever som har behov av stöd. Vi vill att förskola och skola ska få mer resurser för att anställa fler. Vi vill också att fler inom skola och förskola får utbildning inom NPF."
+      },
+      {
+        "category": "Meningfull fritid för kommunens alla unga",
+        "description": "Vi vill att den öppna fritidsverksamheten, som tidigare fanns i allaktivitetshuset, ska få nya, egna och ändamålsenliga lokaler så att de kan fortsätta sitt viktiga arbete. Vi vill också utreda möjligheten att införa hemskjutsning av de elever som bor utanför Laxå tätort efter att de deltagit i fritidsverksamhetens aktiviteter."
+      }
+    ],
+    "motivateVote": "För att vi prioriterar kommuninvånarnas välfärd och trygghet lika högt som den kommunala ekonomin. Hela Laxå kommun ska vara en trygg och bra plats att leva och utvecklas på och då måste fokus ligga på att skapa den platsen, inte på att gå med överskott. Men samtidigt måste ekonomin såklart skötas på ett hållbart sätt, men den får inte vara ensamt prioriterat.",
+    "name": "Vänsterpartiet Laxå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-laxa"
+  }
+]

@@ -1,0 +1,1458 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1529",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med valfrihet inom hemtjänsten, men det är också viktigt att oseriösa aktörer inte finns i Sollentuna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Platser på äldreboende ska tilldelas efter behov, inte ålder. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "På Centerpartiets initiativ har kommunen tagit fram en koldioxidbudget för att minska utsläppen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha konkurrens mellan privata och kommunala aktörer inom vissa verksamheter, så som skola, vård och omsorg. Konkurrens ska ske på lika villkor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill hålla en kontinuerlig dialog med Sollentunaborna om kommunens utveckling. Folkomröstningar bör ske endast i undantagsfall.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kunskaper i svenska språket är viktigt i arbetet med äldre. Redan idag ställs kravet genom Socialstyrelsens rekommendationer. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi eftersträvar en jämlik skola för alla. Därför ska kommunala såväl som fristående skolor ha samma förutsättningar och krav. Vi vill se ett bra samarbete mellan kommunala och fristående aktörer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte ge subventioner till externa byggaktörer. Men vi tycker det är viktigt att Sollentunahem kan erbjuda lägenheter i olika storlekar och prisklasser. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna minska utsläppen i Sollentuna vill vi göra allt för att underlätta omställningen från fossila bränslen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna ska vara en trygg plats för människor på flykt. Fördelningen av flyktingar ska ske jämt över alla kommuner i Sverige.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att det ska finnas en kommunal skola i varje kommundel som kompletteras med fristående skolor för ökad valfrihet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig för Sollentunaborna. Den ska vara tillgänglig för alla. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha en så låg skattesats som möjligt, men tillräckligt hög för finansiera en kvalitativ välfärd.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "483",
+          "479",
+          "486"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill öka antalet sommarjobb genom att samarbeta med näringslivet.",
+        "value": [
+          "471",
+          "477",
+          "475"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;D!;B;B;C;D!;A;D!;A;2/5!;2/5;2/5;[483,479,486]!;[471,477,475]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta styra kommunen tillsammans med Moderaterna, Liberalerna och Kristdemokraterna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna och Vänsterpartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill minska övergödningen i Edsviken",
+        "description": "Vi vill att varje Sollentunabo ska ha tillgång till ren luft, gröna naturområden och friska sjöar. Vi vill höja vattenkvalitén i Edsviken genom en aluminiumbehandling. Det skulle ge rent vatten att bada i och gynna den biologiska mångfalden. Vi vill också minska kommunens klimatpåverkan, bland annat genom att arbeta den framtagna koldioxidbudgeten."
+      },
+      {
+        "category": "Kvalitativa skolor i hela Sollentuna",
+        "description": "En likvärdig, kunskapsdriven skola är ett av de viktigaste verktygen för att barn ska få möjlighet att lyckas. Alla skolor i Sollentuna, oavsett huvudman eller kommundel, ska hålla en likvärdig, hög kvalitet. Vi vill öka resurserna till barn med särskilda behov och NPF-säkra alla våra skolor och förskolor."
+      },
+      {
+        "category": "Fler i arbete ger kraft till Sollentuna",
+        "description": "I Sollentuna ska det både vara enkelt att få ett jobb och att skapa arbetstillfällen. Vi ska erbjuda vuxenutbildning, kvalitetssäkrad SFI och effektiv jobbcoaching för att fler ska få ett jobb att gå till. Sollentuna ska ha Sveriges bästa företagsklimat. Det ska vara enkelt att starta och driva företag. Kommunen ska tillsammans med näringslivet skapa fler möjligheter till sommarjobb för ungdomar."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett borgligt, liberalt parti som vill skapa lika villkor för alla Sollentunabor, oavsett bakgrund. Vi är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För en skola där alla barn får lyckas. För fler i arbete och en meningsfull fritid. För ökad jämställdhet. Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism",
+    "name": "Centerpartiet Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-sollentuna"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1530",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att upphandla dessa tjänster kan man sätta krav och se till att alla aktörer sköter sig på bästa sätt. För brukarnas skull, för närståendes skull och för skattemedlens skull",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreboende är ett brett begrepp och bör då innefatta även seniorbostäder/trygghetsboende. Göra det möjligt att lämna villa/hus och bo där man träffar andra i samma eller liknande situation. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen är en viktig del av samhället och alla kan inte göra allt. Om alla gör lite så kommer vi nå våra mål enklare. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska konkurrerar på lika villkor som de företag som tillhör det privata näringslivet",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har val vart fjärde år och då ger man olika partier mandat att tillsammans styra kommunen. Det behövs inte lokala folkomröstningar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett viktigt och bra förslag som gör det bättre för brukare men även personal. Brukaren förstår vad personalen säger och det är mycket viktigt då det finns behov och önskemål som behöver kommuniceras. Det är en trygghetsfråga",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om integrationen skall fungera så måste alla hjälpa till och då tror vi detta kan vara en väg framåt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker det är viktigt att det finns flera olika upplåtelseformer av boenden i kommunen. Vem som är ägare av fastigheterna är inte lika viktigt som att det sköts bra och att invånare kan få ett boende.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstolpar är en av nycklarna för att få fler att gå över till elbil/laddhybrid. Finns det en laddinfrastruktur som fungerar så vill/vågar fler gå över till att köra på el. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska självklart ta sitt ansvar tillsammans med övriga kommuner att ta emot flyktingar. Staten behöver bli snabbare och tydligare med vad som gäller och vad för ersättning som kommunen får. Vi ska ta emot så många som vi kan ta hand om ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Sollentuna har ett brett utbud av både kommunala och friskolor idag. Så ska det forsätta vara. Det är bra både för friskolor och kommunala skolor. Då blir det bra även för eleverna",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Vi är en kommun med ett bra kulturutbud men vi bör kunna nå fler. Fler som tar del av kulturen men även fler som har kulturen som sin aktivitet. På kulturskola och andra aktörer. Dans, musik, bild och form och övrigt. En scen för kulturen som möjliggör fler konserter och uppvisningar vore bra",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Vi kristdemokrater talar ofta om att skatten ska vara så låg som möjligt men samtidigt så hög som det krävs. Det står vi fast vid. Vi ska inte sänka för att sänka och vi ska inte höja för att höja. Man måste veta vad man ska göra av pengarna innan man höjer skatten",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": "Ordningsvakter håller koll och skapar trygghet vilket gör att detta är rätt väg framåt. \r\nOm man ser till att belysning är god så skapar det trygghet för personer som går eller vistas just där. Ljuset tränger också bort kriminella handlingar.\r\nSkolor som fått ta ett större ansvar när det gäller integration måste få de resurser som dom behöver. Så är det idag och så ska det fortsätta vara.",
+        "value": [
+          "482",
+          "484",
+          "479"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": "Lärarna är otroligt viktiga för skolan och eleverna. Lönen är inte allt men självklart en viktig parameter för läraren.\r\nVi måste ta vårt miljöansvar på största allvar och då är detta ett steg i rätt riktning.\r\nElevhälsan är en fråga vi drivit hårt och kommer fortsätta göra. Att kunna erbjuda eleven kontakt med elevhälsan inom 24 timmar skulle betyda väldigt mycket för många",
+        "value": [
+          "473",
+          "471",
+          "474"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;C;B;A;D!;C;B;D!;B;2/5;3/5!;2/5!;[482,484,479];[473,471,474]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi önskar fortsätta med ett borgerligt styre så som vi har idag. Det är stabilt och ansvarsfullt. Ett styre som klokt respekterar skattemedel samtidigt som vi satsar på skola, sociltjänst och äldrefrågor. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Enklare biståndsbedömning ",
+        "description": "KD vill att personer över 85 år ska garanteras plats på ett äldreboende när personen bedömer att behov finns. Förenklad biståndsbedömning ska även gälla enklare serviceinsatser som hushållsnära tjänster. Antalet hemtjänstpersonal per brukare ska inte vara fler än att den enskilde kan lära känna alla. KD vill givetvis värna du ska kunna välja äldreboende eller hemtjänstutförare."
+      },
+      {
+        "category": "Elevhälsogaranti",
+        "description": "Psykisk ohälsa bland barn och unga är ett växande problem. Kd vill starta igång elevhälsa online där alla som söker kontakt ska få återkoppling inom 24 timmar. Detta gäller framförallt kontakt med kurator och psykolog."
+      },
+      {
+        "category": "Tillgänglig fritid för alla",
+        "description": "Kd vill jobba för att fler ska kunna ta del av de aktiviteter som finns i kommunen och bland föreningar. Det kan göras genom en fritidsbank där du kan låna utrustning. Fler kostnadsfria prova-på-tillfällen både inom kultur och idrott."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna lovar inte allt till alla men vi håller det vi lovar. Du ska kunna lita på Sverige oavsett var du bor eller vilken ålder du har. Vården ska inte vara ett postkodslotteri utan fungera i hela Sverige. Föreningsliv och civilsamhälle är en av grundstenarna i det förebyggande arbetet i samhället.",
+    "name": "Kristdemokraterna Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-sollentuna"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1531",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslutet att gå ifrån Lagen om valfrihet till Lagen om offentlig upphandling är taget då vi arbetat med fusk och oegentligheter inom hemtjänst och vi har landat i att vi ska begränsa antalet utförare för att höja kvaliteten och skärpa uppföljningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslut om särskilt boende ska ges efter individuellt behov och inte ålder som bestämmande faktor. Däremot behövs andra typer av icke biståndsbedömda boenden med trygghet och social gemenskap för de äldre som önskar och behöver det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för att minska kommunens koldioxidutsläpp. En koldioxidbudget är under framtagande. För att kunna uppnå målet om minskade utsläpp vill Liberalerna fortsätta utbyggnaden av cykelvägar och kollektivtrafik, fler laddplatser för elbilar och se till att kommunens verksamheter följer utsläppsmålen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser en fördel med att ha ett kommunalt bostadsbolag och energibolag för att exempelvis kunna erbjuda rimliga elpriser till Sollentunaborna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjlighet att få lära sig språket ska även erbjudas till befintlig personal.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att se till att eleven kan tillgodogöra sig utbildningen och få bästa möjliga start i ett nytt land det bra att eleverna fördelas ut så att även friskolorna kan bidra till detta så viktiga arbete.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inte rådighet över bostadsmarknaden på det viset. Kommunens roll är att tillgodose det behov Sollentunaborna har av olika typer av bostäder. Detta görs bland annat genom det kommunala bostadsbolaget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska möjliggöra för fler laddstolpar främst genom SEOM, kommunens energi- och miljöbolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna ska ta emot de flyktingar som anvisas av migrationsverket. Alla kommuner måste ta sitt ansvar i att hjälpa människor på flykt.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna vill ha en kommunal skola i varje kommundel för att säkra valfrihet och närhet till skolan för alla elever.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Fokus skall ligga på barn och ungdomars möjlighet till kulturaktiviteter. En satsning på kultur och hälsa ska göras på träffpunkterna för personer över 65 år.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "I budgeten för 2023 kommer skattesatsen fortsättningsvis att vara på samma låga nivå som idag. Vi ska ha rätt skatt för att täcka behoven inom framförallt kärnverksamheterna som är skola, vård och omsorg samt socialtjänst.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "483",
+          "481",
+          "486"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": "Liberalerna vill utöka kuratorverksamheten på ungdomsmottagningen och tillgängliggöra mottagningen genom flexibla öppettider och även digitala besök. ",
+        "value": [
+          "473",
+          "471",
+          "474"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;C;B;A;D!;C;B;C;A;2/5!;3/5;2/5;[483,481,486]!;[473,471,474]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalerna i Sollentuna har en tydligare åsikt i att inte samarbeta med partier som värderingsmässigt står långt ifrån oss, som SD och V gör.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna ska fortsätta styra med M, KD och C i Sollentuna. Vi har sedan länge ett gott och väl upparbetat samarbete. Vi en lång erfarenhet av att styra tillsammans. Våra partier kompletterar varandra bra och den liberala politiken får stort genomslag i vårt samarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Liberalerna vill inte styra tillsammans med ytterkantspartierna V och SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan först",
+        "description": "För oss liberaler är skolan viktig eftersom där läggs grunden för elevens möjligheter att lyckas i livet. Satsa resurser på förskolan. Stärk elevhälsan. Utveckla studie- och yrkesvägledning för att fler ska få gymnasiebehörighet. Lärare ska främst ägna sig åt undervisning. De bästa lärarna där behoven är som störst. Frihet att välja - en kommunal skola i varje kommundel."
+      },
+      {
+        "category": "Högre kvalitet i hemtjänsten",
+        "description": "Äldre ska ha tillgång till en trygg hemtjänst med god kvalitet. Vi vill höja kvalitén genom att ställe högre krav i avtalen med utförarna dels vad gäller uppföljning som personalens kompetens och att kunna göra sig förstådd i mötena med de äldre samt en bättre kontinuitet. Vi vill även motverka ofrivillig ensamhet genom fler mötespunkter riktade mot äldre."
+      },
+      {
+        "category": "Smarta och trygga trafiklösningar för stora och små och bevara grönområden",
+        "description": "Vi vill ge människor möjlighet att välja klimatsmarta resor. Barnperspektivet är viktigt, alla ska kunna gå eller cykla till sin förskola/ skola. Främja säkerheten genom att separera gående och cyklister. Skapa trygga vägar genom ökat underhåll och belysning. Fler laddplatser för elbilar. Bevara grönområden i människors närhet, tillgängliggöra naturreservaten. Fler hundrastgårdar och utegym."
+      }
+    ],
+    "motivateVote": "Skolan ger förutsättningar att välja sin väg i livet. Duktiga lärare, bra skollokaler, trygga utemiljöer. En kommunal skola i varje kommundel för valfrihet. Skolhälsovården ska utvecklas för stärkt elevhälsa. En trygg hemtjänst med god kvalitet. Personalen ska ha rätt kompetens och språkkunskaper. Grönområden och villasamhällen ska värnas. Nya bostäder ska framförallt byggas nära kollektivtrafik. ",
+    "name": "Liberalerna Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-sollentuna"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1532",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som verkligheten ser ut idag med företag som fuskar behöver kommunens kontroll öka. För att kostnaden för kontrollen ska vara rimlig måste kommunen upphandla verksamheten. Men! MP kommer verka för att det även i fortsättningen finns en valfrihet där brukaren kan byta hemtjänstaktör. Det är även viktigt att SOLOM, det kommunala bolaget, finns kvar.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta kommer inte leda till en anstormning till äldreboendena. De allra flesta vill bo kvar i sitt eget hem, även när man fyllt 85 år. Förändringen är snarare en trygghetsreform där alla ska veta att de FÅR flytta till ett äldreboende OM de vill. \r\nNär ingen biståndsbedömning behöver utföras längre spar kommunen pengar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Koldioxidbudgeten visar hur stort utsläppsutrymme kommunen har. Det är ett verktyg som på ett tydligt sätt visar om kommunen följer sitt eget löften om att minska utsläppen och gå mot ett klimatneutralt Sollentuna.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen äger inte så många bolag, och flera av dem konkurrerar egentligen inte med det privata näringslivet. AB SOLOM är ett exempel på bolag som är en konkurrent till andra vård- och omsorgsbolag. Men eftersom det är kommunen som har slutansvaret för den typen av verksamhet är det bra att det finns ett kommunalt sådant bolag.Det hjälper också kommunen att förstå den marknaden vid upphandlingar ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "När det dyker upp en fråga som påverkar och engagerar många kommuninvånare är det bra att möjligheten finns. \r\nNär många invånare kräver en folkomröstning kommer MP ställa sig bakom det kravet. \r\nDet finns även andra sätt att påverka beslut. MP vill se fler medborgardialoger, och politiker ska vara tillgängliga.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna göra sig förstådd i yrken med människor. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla skolor (även friskolorna) består av elever från alla samhällsklasser och bakgrunder som finns i vårt samhälle idag. Detta för att motverka segregationen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nya hyresrätter har i regel högre hyra än äldre har. Det är därför viktigare att Sollentunahem behåller de äldre huset än att bygga nya med högre hyra. Då tryggare vi ett blandat bestånd av hyresrätter i Sollentuna, alltifrån nya och gamla, till dyrare och billigare lägenheter. \r\nMP säger Nej till utförsäljningen av lägenheterna i Edsberg. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Avsaknaden av laddstolpar får inte vara orsaken till att någon väljer att köpa en fossilbil framför en elbil. Vi behöver därför fler laddstolpar! \r\nDe flesta laddningar ska ske hemma, under natten. Men de som bor i lägenhet eller samfällighet kan ha begränsad möjlighet till detta, jämfört med villaägaren. Kommunen ska därför hjälpa bostadsrättsföreningar och samfälligheter med uppförandet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska följa de lagar som Riksdagen beslutat, samt ta sin del av det antal flyktingar som Sverige tar emot. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Det ska finnas kommunala skolor, men även friskolor, i kommundelarna så föräldrar tillsammans med sina barn kan välja den skola som de tycker är bäst. Därför är det svårt att svara på om det blir fler eller färre privata utförare. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är mums för själen! För att utveckla och öka kommunens arbete för mer kultur vill MP att kommunen skapar ett kulturbolag. I MP:s budgetförslag förstärks kulturbudgeten med  1 Mkr, till 9 Mkr.  ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inget egenvärde i att höja skatten. Kommunen ska inte ta ut mer skatt än den behöver. Dock lever vi i en osäker tid nu, med räntehöjningar och ökad inflation. Kriget i Ukraina har redan lett till högre priser på el, asfalt, drivmedel, skolmat med mera. \r\nI denna osäkra tid förordar därför MP att skatten ligger oförändrad. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "483",
+          "479",
+          "480"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "471",
+          "474",
+          "477"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D!;B;C;D!;D;C;D!;A;2/5;4/5!;2/5;[483,479,480]!;[471,474,477]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler solpaneler och fler laddstolpar i Sollentuna",
+        "description": "För att rädda klimatet måste koldioxidutsläppen minska. \r\nMP vill att kommunens tak utnyttjas till solpaneler för en ökad produktion av förnyelsebar el.\r\nFör att underlätta bytet till elbil behövs fler laddstolpar. Även för dem som bor i flerfamiljshus. Kommunen ska därför hjälpa bostadsrättsföreningar och samfälligheter att utrusta sina bilparkeringar med laddstolpar. Det gäller även Sollentunahem."
+      },
+      {
+        "category": "Stoppa utförsäljningen av Sollentunahem",
+        "description": "Det behövs fler hyresrätter med olika standarder och storlekar i kommunen. Att sälja ut hyreslägenheter kommer inte leda dit. Istället kommer antagligen den genomsnittliga hyran i Sollentuna öka. Dessutom får vi ett mindre och svagare Sollentunahem."
+      },
+      {
+        "category": "Stoppa utförsäljningen av Sollentunahem",
+        "description": "Det behövs fler hyresrätter med olika standarder och storlekar i kommunen. Att sälja ut hyreslägenheter kommer inte leda dit. Istället kommer antagligen den genomsnittliga hyran i Sollentuna öka. Dessutom får vi ett mindre och svagare Sollentunahem."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-sollentuna"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1533",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna värnar valfriheten i hemtjänsten och genom att upphandla aktörer säkerställer vi att det finns både valfrihet och ordning i hemtjänsten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varje person är en individ, och för Moderaterna är det viktiga att allt stöd ska utformas enligt vad individen behöver. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den gröna omställningen måste ske genom utveckling och innovation. Vi arbetar idag med många av målen i Agenda 2030 vilket är ett bra riktmärke. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Generellt anser inte Moderaterna att offentlig sektor ska tävla med privata företag utan att kommun och näringsliv kompletterar varandra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentunabornas viktigaste folkomröstning är på valdagen. Det viktiga är att det kontinuerligt förs dialog mellan förtroendevalda och invånare men folkomröstningar är inte något vi förespråkar annat än i exceptionellt stora frågor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att införa språktest säkerställer vi att äldre och andra med behov med stöd kan förklara sina behov och lära känna de som arbetar med dem. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna tror inte på att tvinga fristående aktörer. Däremot är det viktigt att det förs dialog med friskolor så vi tillsammans kan möta dagens, och framtidens, behov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Sollentuna har det under de senaste åren byggts relativt många små hyreslägenheter. Moderaterna tror att det måste främst måste byggas fler äganderätter under de nästkommande åren. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstolpar är främst något privata fastighetsägare bör bygga. Däremot ska Sollentuna kommun säkerställa att det är enkelt att bygga sådana. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna ligger i Sveriges mest snabbväxande region. Det finns en regional bostadsbrist. Utöver det har vi i dagsläget två utsatta områden där utanförskap redan existerar med låga svenskkunskaper. Vi måste säkerställa att de som redan har kommit till Sollentuna kommer in i samhället och ut på arbetsmarknaden. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "För Moderaterna är inte det viktiga vem som är huvudman, utan kvaliteten på skolan. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Ett rikt kulturliv är viktigt för alla åldrar. Men kulturlivet mår bäst av att politik och offentlig sektor håller sig borta. Vi tror att genom stöd till fristående aktörer får vi en bra och fri kultur. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Sollentuna är en välskött kommun med stabila finanser. Trots både pandemi och krig i Europa går vi ur den här mandatperioden med ordning och reda i ekonomin. Det visar att det sannolikt finns utrymme att sänka skatten under nästkommande mandatperiod.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi har satsat 20 miljoner extra per år de senaste åren på skolor i utsatta områden. Nu ser vi ett behov av fler ordningsvakter men också att vi har välstädade utemiljöer som uppmuntrar till liv och rörelse. Vi har skapat en samverkansgrupp för fastighetsägare i Tureberg och vill skapa en likartad platssamverkan även i Edsberg. ",
+        "value": [
+          "482",
+          "485",
+          "486"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": "Det blir missvisande att redovisa prioriteringar mellan ett begränsat antal specifika alternativ. Men av de alternativ som finns prioriterar vi fler utegym då det är hälsofrämjande. ",
+        "value": [
+          "472"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;B;C;B;D;B;A;A;C;2/5;2/5;1/5!;[482,485,486]!;[472]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inga utsatta områden i Sollentuna 2030",
+        "description": "Nationell otrygghet ska inte påverka Sollentunaborna. Därför satsar vi särskilt på att lyfta Sollentunas två utsatta områden - med allt från extra skolresurser till ordningsvakter. Genom en tät dialog med Polisen har även trygghetskameror kommit upp i fler delar av Sollentuna."
+      },
+      {
+        "category": "Värna valfriheten i skolan",
+        "description": "Vi tror på kvalitet och valfrihet. Moderaterna i Sollentuna kommer verka för det fria skolvalet. Det är rätt och riktigt att föräldrar ska kunna välja fritt mellan både kommunala och fristående skolor. Det är viktigt med en hög kvalitet bland både kommunala och fristående aktörer vilket alltid kommer vara Moderaternas huvudfokus."
+      },
+      {
+        "category": "Sollentuna som trädgårdsstad",
+        "description": "Sollentuna ska utvecklas med försiktighet. Vi ska vara stolta över våra naturområden och vara noggranna med var det exploateras. Tätare bebyggelse ska endast ske vid våra pendeltågsstationer och vid Väsjön."
+      }
+    ],
+    "motivateVote": "",
+    "name": "Moderaterna Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-sollentuna"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1534",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Sollentuna har vi haft stora problem med fuskande hemtjänstföretag, mycket på grund av den fria etableringen. Nu när kommunen ska handla upp enligt LOU vill vi ställa högre kvalitetskrav så att personalen har goda arbetsvillkor, rätt utbildning, och tid att göra sitt jobb. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna kommun nekar var fjärde ansökan om äldreboende, näst högst i landet. Det tycker vi är oacceptabelt. Ingen över 85 år ska nekas plats på äldreboende. Samtidigt behövs alternativ som senior- och trygghetsboenden för den som inte har stora omvårdnadsbehov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna ska bli den första kommunen som inte tär på jordens resurser. Nu behövs en konkret handlingsplan för att minska utsläppen och en koldioxidbudget som innefattar även upphandlade aktörer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentunahem ska utvecklas och bygga fler hyresrätter för att minska bostadsbristen, inte säljas ut. Även AB SOLOM ska bevaras, så att möjligheten att välja kommunal vård och omsorg finns kvar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan i vissa fall vara motiverat. Grunden i den representativa demokratin bör dock vara att de som väljs också tar ansvar för helheten i kommunpolitiken och står för de beslut som fattas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som jobbar i omsorgen ska kunna förstå och göra sig förstådd på svenska. Det är en viktig rättighet för de äldre att kunna kommunicera med personalen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolsegregationen måste brytas, och då måste alla skolor ta sitt ansvar för nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler hyresrätter behövs för att minska den akuta bostadsbristen. Därför behöver utförsäljningarna stoppas, och Sollentunahems uppdrag att bygga 1500 hyresrätter fram till 2029 ska inte ses som en slutpunkt, utan som inledningen på en långsiktigt växande allmännytta i Sollentuna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utvecklingen inom digitalisering, innovation och teknik går framåt. Vi vill att Sollentuna ska använda den nya tekniken för att att bli en mer hållbar och grön kommun. Därför behövs fler laddstolpar till elbilar, där vi idag halkar efter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna ska ta ansvar för flyktingmottagande i proportion till sin storlek, precis som alla andra kommuner.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha en balans och valfrihet mellan kommunala och fristående skolor i hela kommunen. Därför behövs en större andel kommunala skolplatser i norra Sollentuna, där det i dag råder brist. Vi vill bevara det fria skolvalet men stoppa vinstuttagen - skattepengarna ska gå till undervisningen.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Sollentunas kulturutbud är inte tillräckligt, vi i S vill satsa mer på den lokala kulturen. \r\nEn aktiv och meningsfull fritid är en förutsättning för en god folkhälsa.  Det är främst genom kultur- eller idrottsaktiviteter som man får träffa nya människor, lära sig nya saker och få nya perspektiv. Det är viktigt för både yngre och äldre. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Sollentuna har de resurser som behövs för att både ha rimliga skatter och en fungerande, stark välfärd. Vi ser därför att Sollentunabor ska betala samma skatt som idag, däremot ska pengarna användas till att göra kommunen bättre, inte läggas på hög som det gjorts av högerstyret. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "482",
+          "479",
+          "480"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "476",
+          "477",
+          "475"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;A;B;D;D;C;D;B;1/5;3/5;2/5;[482,479,480];[476,477,475]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa fusket och styr upp hemtjänsten!",
+        "description": "Hemtjänsten i Sollentuna kommun har drabbats av återkommande fuskande aktörer där de äldre inte fått den omsorg de har rätt till. Vi måste kasta ut fuskande företag och minska antalet utförare, vi ska ha kvar valfriheten men bara ha seriösa alternativ. \r\nVi ska även ställa krav på att hemtjänstpersonalen ska vara utbildad, ha bra arbetsvillkor och ska få tillräcklig tid för att ge en värdig omsorg"
+      },
+      {
+        "category": "En likvärdig skola förebygger brottens orsaker",
+        "description": "I vissa kommundelar är det en tredjedel som inte klarar grundskolan. Nu måste vi börja satsa på skolan och se till att alla får en bra och likvärdig utbildning oavsett var i Sollentuna man växer upp. Vi vill införa mindre skolklasser, fler behöriga lärare och  fördela resurserna efter behov. \r\nAlla ska klara grundskolan och uppnå gymnasiebehörighet för att sedan kunna komma i arbete."
+      },
+      {
+        "category": "Bryta segregationen och bygga ett tryggare Sollentuna",
+        "description": "Segregationen göder otryggheten. Utförsäljningar av allmännyttan, nedskärningar i socialtjänsten och en underfinansierad skola ökar problemen.\r\nFör att bryta segregationen krävs ordningsvakter, kameror och samverkan med poliser, men också satsningar på skola, vuxenutbildning, fler kommunala sommarjobb, avhopparverksamhet och socialtjänst, för att förebygga kriminalitet innan det är för sent."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-sollentuna"
+  },
+  {
+    "abbreviation": "SPA",
+    "altingetCandidateId": "1535",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "På detta sätt uppnås högre kvalitet i verksamheten och målet är att kravställning och uppföljning kan utvecklas. Kvaliteten för den enskilde förbättras och fusk beivras genom stärkt samverkan mellan utförare och kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett av våra tydliga vallöften som vi inte kan tänka oss att kompromissa om. Detta har andra partier lovar men inte levt upp till. De vill vi ändra!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till att kommunen inför en koldioxidbudget för att utveckla arbetet med att minska kommunens utsläpp. Klimatfrågan är komplex och det är viktigt att vi ser hela värdekedjans miljö- och klimatpåverkan. Föroreningar relaterat till trafik måste minska och vi vill utöka miljökraven i våra upphandlingar för att minska kommunens klimatpåverkan. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill satsa på näringslivet och specifikt möjliggöra för det lokala näringslivet att vara med och verka på bred front i Sollentuna. Kommunen ska fokusera på sin kärnverksamhet och vara mycket varsamma när det gäller att konkurrera med näringslivet. Vi vill behålla och utveckla SEOM, SKAB, SH och Solom. Vi är positiva till affärsverksamhet som är allmännyttigt och utan vinstsyfte. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till möjligheten att kunna väcka förslag om folkomröstning i en fråga som våra invånare tycker är viktig. Ett folkinitiativ och görs genom en namninsamling och kräver stöd av 10 % procent av de röstberättigade i kommunen. Denna möjlighet värnar vi och antalet omröstningar ska styras av folkviljan. Vi är också positiva till att införa allmänhetens frågestund i kommunfullmäktige.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förmåga att kommunicera på svenska är avgörande för att kunna möta den enskilde äldres behov och önskemål. Svenskkunskaper är också viktiga för att kunna ta till sig instruktioner och rutiner, att utföra dokumenta­tionskraven korrekt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till att kommunen allt mer samarbetar med friskolorna vid mottagandet av nyanlända elever. Kommunen hanterar all information när det gäller nyanlända elever. Det gör att en friskolehuvudman inte har kunskap om när det kommer nyanlända elever. Det förutsätter att kommunen informerar dem och utvecklar samverkan. Vi utgår från att viljan finns hos alla skolledare oavsett driftform.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna bygga fler billiga hyreslägenheter krävs det att innovativa och effektiva byggbolag kan konkurrera på lika villkor. Vi vill uppdra åt Sollentunahem att bygga fler mindre och billigare lägenheter. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut! Detta är en förutsättning för att vi ska nå våra miljömål och underlätta för de som investerat i en elbil.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sollentuna har planerat för ett högre mottagande av flyktingar från Ukraina. Detta ställer vi oss bakom.  Vår oroliga omvärld kräver att vi är beredda på att människor tvingas fly. Solidaritet med människor på flykt är viktigt för oss. Vi står upp för en kommun som visar medmänsklighet. Vi vill berömma de flesta kollegor i politiken för att vi gemensamt står stadigt i våra värderingar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill satsa på alla bra skolor oavsett driftform. Vi vill fokusera på att få upp kunskapsresultaten för elever i eftersatta kommundelar och barn med behov av särskilt stöd måste få den stöttning de har rätt till. Vi vill öka samarbetet mellan alla skolor, oavsett driftsform. Tillsammans kan de komma med utvecklingsförslag i syfte att höja resultaten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": "Vi är det partiet som vill göra tydligaste satsningar på kulturen. I Sollentuna vill vi bygga broar mellan människor genom ett kvalitativt kulturutbud och en utvecklad god hälsa genom ett rikt föreningsliv som ökar kommunens attraktivitet. Vi vill utveckla Sollentuna med en vision om en kommun som tar integration och tillgänglighet på allvar. I det arbetet är kulturen ett viktigt verktyg. \r\n",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": "Vi föreslår en oförändrad kommunalskatt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "483",
+          "481",
+          "480"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "476",
+          "473",
+          "475"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;D!;D!;D!;D!;D!;D!;A!;2/5!;4/5!;2/5!;[483,481,480]!;[476,473,475]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ett av Sveriges äldsta lokalpartier. Vi är inte styrda av något parti på riksnivå. Vi var med och räddade Järvafältet när vi grundades och som alltid har våra ställningstaganden fullt fokus på Sollentunas och våra kommuninvånares bästa. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre som är beredda att investera i ett tidigt stöd när barnen börjar få problem i förskolan och skolan. Ett styre som stärker lärarna och avlastar dem med möjligheter för fler vuxna i skolan. Vi vill ingå i en majoritet som värnar om våra äldre genom att föreslår tillräckliga resurser för att kunna erbjuda en omsorg som ligger över en skälig levnadsnivå. Vi är varken höger eller vänster. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD. De står för en helt annan politik och helt andra grundläggande värderingar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rättssäker demokrati med insyn, inflytande och integritet för alla. ",
+        "description": "INSYN: Kommunen (K) ska AKTIVT informera berörda I GOD TID FÖRE BESLUT, så att de kan påverka besluten. INFLYTANDE är ett måste om man vill uppnå en fungerande demokrati. Medborgarna och föreningarna ska ges ökade möjligheter att delta i offentliga diskussioner. Det behövs nya diskussionsforum där alla kan delta. INTEGRITET: K bör upprätta en integritetsplan för att stärka medborgarnas integritet."
+      },
+      {
+        "category": "Satsa på skola, fritid och kultur",
+        "description": "Vi måste ge alla barn det stöd de behöver. Skolans lärmiljöer måste utvecklas för att bättre kunna utgå från elevers behov av inlärning. Barnens ute– och inomhusmiljö ska vara säker och stimulera till aktivitet. Vi vill möjliggöra god bemanning och barngrupper som harmoniserar med antalet pedagoger och skapa fler trygga ungdomsmiljöer genom kultur, idrott, fältarbetare, och fritidsgårdar."
+      },
+      {
+        "category": "Tillgodose de äldres behov",
+        "description": "Tillförsäkrad mer än en skälig levnadsnivå för de äldre genom en tydlig och generös beslutsprocess för hemtjänst. Erbjud äldreboenden och LSS-boenden som täcker de faktiska behoven. Hänsyn ska tas till att äldre och personer med funktionsnedsättning ska ha rätt att välja bostadsort. Starta seniorträffar i alla kommundelar med generösa öppettider. En servicebuss ska finnas i alla kommundelar."
+      }
+    ],
+    "motivateVote": "Vi vill särskilt lyfta upp det viktiga arbetet med en jämlik skola för alla. Skolor som har resurser att kompensera för elevernas olika bakgrund. Det krävs mer omfattande insatser med social karaktär som hjälper de barn och ungdomar som har stora utmaningar. Vi måste satsa på det socialt förebyggande arbetet, det tror vi är helt avgörande för att motverka kriminalitet och sociala problem i framtid",
+    "name": "Sollentunapartiet Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sollentunapartiet-sollentuna"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1536",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skapar trygghet för de äldre",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "482",
+          "483",
+          "484"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "473",
+          "477",
+          "478"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D!;B!;C!;C!;D!;D!;B!;D!;D!;1/5!;2/5!;2/5!;[482,483,484]!;[473,477,478]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I Sollentuna har Moderaterna varit det starka partiet i decennier och har styrt kommunen i allians med L, KD och C. Vi hoppas på att få någon form av vågmästarroll och att då få möjlighet att påverka - om inte ingående i styret - \r\ni alla fall få  representation i flera arbetsutskott och samtliga nämnder",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Sollentunapartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Garant för tryggheten",
+        "description": "Fler ordningsvakter med utökade befogenheter, kameraövervakning i alla utsatta områden, obligatorisk utbildning i svensk rättighets- och skyldighets-lagstiftning för nyanlända, ökade satsningar på arbetet mot droger och ungdomsbrottslighet, motverka förekomst av hedersrelaterad brottslighet, klankriminalitet, radikal islamism och politik extremism"
+      },
+      {
+        "category": "Sollentunas äldre har rätt till en god, aktiv och värdig ålderdom",
+        "description": "Öka antalet timmar i hemtjänsten och ge de äldre möjlighet att i större utsträckning bestämma hur timmarna används, ge ökad möjlighet till social samvaro t ex gemensamma måltider och utomhusvistelser, generösare biståndsbedömningar, garantera alla över 85 år äldreboende om så önskas, dokumenterade svenskkunskaper hos all äldrevårdspesonal"
+      },
+      {
+        "category": "Sverigedemokraterna är bilistens ende vän i Sollentuna",
+        "description": "Idag behandlas bilisterna som något oönskat som man helst vill bli av med. Vi anser att det ska vara enkelt att köra och parkera bil i kommunen. Cyklister ska inte prioriteras på bilisters och gåendes bekostnad. Anlägg minst 1,5 nya parkeringsplatser per bostad vid nyproduktion och ordna fler kommunala laddningsstolpar, Bygg ut vägnätet i takt med befolkningsökningen och förbättra vägunderhållet"
+      }
+    ],
+    "motivateVote": "Vi är garanten för att de förändringar som behövs för Sverige och Sollentuna blir verklighet och inte bara tomma löften under valrörelsen. Utan oss sverigedemokrater hade inte övriga partier idag drivit de frågor vi ansett viktiga redan från 2014 t ex tryggheten, kontrollen över invandringen mm.",
+    "name": "Sverigedemokraterna Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-sollentuna"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1537",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "08e88a09b071d46199777a71a66b7f3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d56c4017f4477066a4f384001a07fa2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d0f2fa74d8d0dd9dc279a7eb6619b76f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3ecd849cb92f99bb254ad624d12a2dd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ad4a8b7e6ca9821fc9f76aab4ba305d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1d128f1d7d7e0dd4dc30bf87e972aa1e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c7cc71e98a258e261d9ee30bd0d1c7b6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88448a6560e6d3e5fe5662b075346cad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ab7c7b48cd366f1ecc552f6ad5c268b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "845ddcf6f21b0d7764b50e47c89d235d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b47eadcce6def8cc3970064029053068",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "149c1faeb159ab88d31dca97f9e5c926",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2152522ac01e15169eaf46d15fb42b88",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3f2af32148de792c550b00efaefbfe45",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "483",
+          "479",
+          "486"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7ab456b204fa0f342433d421d3fc94f4",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "473",
+          "474",
+          "475"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D;A;D;A;D;D;D;A;0/5;4/5;2/5;[483,479,486];[473,474,475]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en regering tillsammans med Socialdemokratin och Miljöpartiet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och höger alliansen.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa utförsäljning av kommunala skolor till privata bolag.",
+        "description": ""
+      },
+      {
+        "category": "Stoppa utförsäljning av kommunala hyresrätter.",
+        "description": ""
+      },
+      {
+        "category": "Kommunen ska behålla vårdbolag Solom, hemtjänsten ska inte drivas av privata akt",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Vi är den enda parti som står på arbetarklassens sida. Värdiga löner och rättvisa löner oavsett kön. Ett samhälle som präglas av medmänsklighet, solidaritet och rättvisa. Vi i Vänsterpartiet tycker att politiker ska ta ansvar för välfärden, klimatet, jobben, infrastrukturen och trygghetssystemen.",
+    "name": "Vänsterpartiet Sollentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-sollentuna"
+  }
+]

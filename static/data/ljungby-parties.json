@@ -1,0 +1,1209 @@
+[
+  {
+    "abbreviation": "ALTER",
+    "altingetCandidateId": "1001",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi ska gynna handeln i vår kommun så att vi behällar våra butiker ",
+        "description": "Vi vill ha en levande handel i vår kommun"
+      },
+      {
+        "category": "Utbildning i privatekonomi för våra ungdomar",
+        "description": "Eftersom många ungdomar råkar illa ut med snabblån och dylikt är det viktigt att informera dom i skolarna om detta problem"
+      },
+      {
+        "category": "Skola, vård och omsorg",
+        "description": "En förbättring av äldreomsorgen och en större hjälp, evt. bildning av resursskola för elever med för elever med en diagnos - hemmasitterbarn"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Alternativet Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "alternativet-ljungby"
+  },
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1002",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1630",
+          "1632",
+          "1636"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;D!;C!;D!;C;A;C;B;C;C;2/5;2/5;2/5;[1630,1632,1636]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "-",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alliansstyre i första hand.\r\nMen eftersom vi är ett mittenparti är vi även öppna för andra lösningar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar energiproduktion.",
+        "description": "Satsa på grön el genom solceller på kommunens alla fastigheter. Utred möjligheten att producera biogas tillsammans med kommunens lantbruksföretag."
+      },
+      {
+        "category": "Underlätta för människor där de vill bo och verka.",
+        "description": "Det ska finnas byggklara tomter för bostäder i alla nu planlagda orter.\r\nDet ska även vara en väl utbyggd infrastruktur i kommunen, så det blir lättare att starta företag."
+      },
+      {
+        "category": "Bra skola är viktig för både elever och näringsliv.",
+        "description": "Skolorna på landsbygden ska bibehållas.\r\nVi vill ha mer personal i skolan, bl.a. för att motverka psykisk ohälsa."
+      }
+    ],
+    "motivateVote": "Vi vill att hela kommunen ska utvecklas. Inte bara de större orterna, utan även småorterna. \r\nVi vill satsa på en mångsidig och hållbar energiproduktion, såsom solenergi, vindkraft, bioenergi och vätgas.\r\nVi vill satsa mer på skolan, bl.a. genom att tillsätta mer personal för att motverka psykisk ohälsa.\r\n",
+    "name": "Centerpartiet Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-ljungby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1003",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att säkerställa framtida vatten och avloppsförsörjning i våra utvecklingsområden. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid behov skall kameror placeras ut för ökad trygghet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Särskilt under lågkonjuktur krävs det att kommunala bolag hjälper övriga näringsliv med arbetstillfällen samt utveckling av serviceorter ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra sätt att sammarbeta. LOU kan ibland försämra för denna möjlighet. Den bör ses över för att mer gynna lokala näringsidkare",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för omställning och landsbygds utveckling. Sammarbeta kommun näringsliv",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rätt person är viktigare än erfarenhet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att säkerställa personalförsörjning för framtida vårdbehov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på marknadshyror och ser gärna fler byggnationer i vår kommun från privata aktörer",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för valfrihet och tillgänglighet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "kommunen kan i samarbeta med privata aktörer upplåta platser för en utveckling av publika laddstolpar. Gärna uppförda av privata aktörer",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige i stort bör minska flyktingmottagandet för att få ordning på integrationsproblematiken. Således bör detta även gälla Ljungby. Arbete bör vara den naturliga vägen in i samhällsgemenskapen. De som finns i Ljungby skall vi hjälpa att hitta sin plats  samhällsgemenskapen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Valfriheten är viktigt och att en kommunal verksamhet utmanas på detta sett ser vi fler fördelar än nackdelar med.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "I rådande konjunkturläge ser vi inte möjligheten att minska på kommunalskatten vilket annars vore önskvärt för att öka köpkraften. Detta innebär dock inte heller att vi ser behovet av att öka den heller.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1630",
+          "1633",
+          "1636"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;D;D;D!;A;B;B;D;C;C;3/5;2/5;2/5;[1630,1633,1636]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En klassisk Allians ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I sakpolitiska frågor kan vi samtala med alla partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Särskilt tillpassad undervisning för barn med NPF redan från förskolan.",
+        "description": "Elever med NPF och Autism möter fler hinder under sin skolgång än andra elever. Redan från förskola erbjuda stöd, tillpassad undervisning så som särskild undervisningsgrupp samt uppföljning av elever med NPF och deras unika behov. Utbildning inom NPF för all personal inom skolan inklusive elevassistenter. Tillsätta fler speciallärartjänster inom förvaltningen. Vid behov starta upp Resursskola."
+      },
+      {
+        "category": "Inga Äldre skall behöva känna sig ofrivilligt ensamma.",
+        "description": "Ett stort antal äldre lider av långvarig ofrivillig ensamhet. Inrätta ett ensamhetspaket med fler möjligheter till sociala besök på äldreboende från civilsamhället, ökade anslag till aktivitetscentra samt utökade anslag  till socialtjänstlots för identifiering och uppföljning av äldre som är i behov av mellanmänsklig gemenskap."
+      },
+      {
+        "category": "Sol, Vind & Vatten men Vindkraft skall vara på lokalbefolkningens villkor ",
+        "description": "Förändringar i den fysiska miljön påverkar en kommuns invånare. Vi har således både rättighet och skyldighet när det gäller att pröva lämpligheten i byggandet av vindkraft,som vi i Ljungby finner olämpligt. Samtliga av kommunens nybyggnationer skall om lämpligt förses med solpaneler. Utveckla fler biogasanläggningar tillsammans med lokala jordbrukare & ökade satsningar på kommunens vätgasprojekt."
+      }
+    ],
+    "motivateVote": "För att bygga ett gott samhälle tillsammans krävs goda värderingar som bygger samhället underifrån. I våra politiska förslag tar vi fajten för familjen, för skolan, för de äldre, för vården, för landsbygden och för jobben. ",
+    "name": "Kristdemokraterna Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-ljungby"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1004",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-ljungby"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1005",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många bra va-lösningar på landsbygden. Det är slöseri med resurser och gynnar inte miljön att bygga överföringsledningar långt utanför staden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste alltid vara lönsamt att bygga bostäder i kommunala bolag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att det inte inbjuder till lokal korruption.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helt i linje med framtidens drivmedel. Biogas, vätgas är bra drivmedel på.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har vi i vårt valprogram och är en viktig fråga. Det handlar om människor som tar hand om människor och då måste erfarenhet av att jobba i verksamheten vara ett krav för att ha rollen som chef.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra förslag om ekonomin tillåter och man kan lösa bemanningen för att fylla på med de 20% som behövs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är knappast en kommunal fråga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vinsterna stannar kvar i bolaget är det ok men skickas vinsterna från skattekollektivet till bolagsägare är det mycket dåligt förslag som inte Sverige har råd med. Vi skall behandla alla lika.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behövs för att få fart på utbyggnaden av laddstolpar. Elen skall dock säljas till marknadspriser och av annan än kommunen som inte får sälja el. Kommunens elbolag kan ju vara lämplig elleverantör.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tycks inte vara något problem i vår kommun.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Om pengarna stannar i verksamheten är det ok och att bolagen inte ges möjlighet att ”plocka russin ur kakan”  kan det vara ok.   Att skicka pengar från skattekollektivet till bolagsägare har vi inte råd med. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "Absolut inte mer. Man skall hushålls med våra gemensamma resurser, inte lägga hundratals miljoner på överföringsledning, riva fullt fungerade byggnader. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1630",
+          "1634",
+          "1629"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;C;C;D!;D!;C;A;C;C;C;0/5!;3/5;2/5;[1630,1634,1629]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, vi är mer jordnära och för en praktisk politiken",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "MP Ljungby är varken höger eller vänster utan rakt fram mot framtiden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det kan vara svårt att styra med SD eftersom våra ideologier skiljer för mycket.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "När MP Lkungby får bestämma ",
+        "description": "Vi vill finansiera skolan fullt ut\r\nVi vill finansiera äldreomsorgen fullt ut\r\nKommunen skall hushålla med resurserna\r\nMotverka utanförskap\r\nSkydda vårt vatten \r\nInföra Koldioxidbudget"
+      },
+      {
+        "category": "Vi vill finansiera äldreomsorgen fullt ut ",
+        "description": "Vi vill återställa och öka personalresurserna inom äldreomsorgen för att äldre skall få en värdig livskvalité och anställda en bra arbetssituation. \r\n\r\nVi vill skapa förutsättningar för låg personalomsättning, det skall löna sig vara trofasta sin arbetsgivare. \r\n\r\nVi vill ha bra chefer som har erfarenhet av att jobba inom hemtjänsten. \r\n\r\nVi vill ha en bra arbetsmiljö"
+      },
+      {
+        "category": "Motverka och förebygga utanförskap",
+        "description": "Vi vill motverka segregation (ekonomisk, kulturell, religiös etc.)\r\n\r\nVi vill bryta ojämlikheten och segregationen i samhället och motverka växande klyftor och ökad segregation i samhället som  påverkar oss alla. \r\n\r\nVi vill ha delaktighet i samhället och samhällsbyggandet.\r\n\r\nVi vill ge ge kvinnojouren, kultur- och idrottsföreningar det stöd de behöver."
+      }
+    ],
+    "motivateVote": "Politik som gör skillnad!\r\nMiljöpartiet de gröna är en del av en global grön rörelse som strävar efter en värld där alla kan leva goda liv utan att försämra förutsättningarna för kommande generationer.",
+    "name": "Miljöpartiet Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-ljungby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1006",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vår kommun ska utvecklas så måste också landsbygden ha möjlighet att utvecklas. Utbyggnaden av VA gynnar dessutom miljön",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här gäller det att välja rätt platser så att kamerorna gör nytta",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "En förutsättning för att hela kommunen ska leva är att det byggs på landsbygden",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lagen om offentlig upphandling sätter tyvärr stopp för en del av de lokala inköpen. Men vår mening är att miljöaspekten med korta transporter och service på nära håll gynnar både miljö, den kommunala ekonomin och medborgarna",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framtidens behov av bränsle kommer att täckas av el, fossilt bränsle, biogas, vätgas och västbaserat bränsle. Dock bör detta utredas av kommunens energibolag Ljungby Energi",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart finns det goda chefsämnen inom hemtjänsten men att ha ett absolut krav tror vi inte på. Man kan komma från många olika verksamheter och vara en god chef.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan förstå tanken med förslaget men en ökning av kostnaderna inom äldreomsorgen med ca 25% skulle innebära neddragningar inom andra stora verksamheter för att få ekonomin att gå ihop, inte minst inom barn och utbildningsförvaltningen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla vill ha billiga lägenheter, men nybyggnation är dyrt. Däremot innebär nybyggnation att gamla lägenheter med billigare hyra frigörs. \r\nDet pratas ofta om att bygga billigt och visst går det att med olika stöd få ner kostnaderna men inte så mycket som många tror\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ha flera alternativ att välja på är viktigt för oss moderater. Det är också viktigt tycker vi, att till viss del konkurrensutsätta kommunal verksamhet. Dock anser vi att man måste vara väldigt noggrann vid upphandling så att vi som kommun får det vi vill ha och att medborgarna får maximal service för pengarna",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inga bensinmackar av förklarliga skäl och då ska vi inte heller ha några laddstolpar. marknaden måste klara av detta. Dock ska vi vara välvilligt inställda som kommun när någon extern aktör vill sätta upp laddstolpar",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingkrisen 2015 har lärt oss att ett för stort flöde av flyktingar innebär en enorm belastning på samhället inte minst skolan. Kvaliteten på det vi gör blir sämre när fler behöver mer hjälp. Ett mer kontrollerat flöde ger oss möjlighet att förebygga dessa problem. I andra vågskålen ligger att näringslivet i Ljungby kommun behöver mer folk. Men som sagt, 2015 års kris vill vi inte ha tillbaka",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Privata initiativ kommer i framtiden att bli viktigare för att komplettera den kommunala verksamheten både i stad och på landsbygd",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": "En attraktiv kommun måste ha ett levande kulturliv och de regler till exempel vid investeringar, som kommunen har tycker vi är bra.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "Vi moderater tycker att medborgarna ska bestämma över större del av sin vardag. En viktig del i detta är att bestämma över större del av sin egen ekonomi.\r\nI dagsläget tillåter inte ekonomin i kommunen en skattesänkning men det är vårt långsiktiga mål",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;C!;D;C!;C;B;A;C;C;A;D!;3/5;2/5!;1/5!;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tycker att det behövs nya stambanor, det tycker inte partiet på riksnivå",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En borglig allians",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samarbetar med alla partier men regeringsbildandet vill vi hålla inom allians",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Vi moderater har i vår vision sagt att vi ska ha Sveriges tryggaste invånare. Med detta menar vi trygghet för alla i alla skeden av livet. Enskilda lösningar för att uppnå detta handlar om kameraövervakning, bättre belysning längs cykelvägar och i parker, mer utbildning för unga i trafiksäkerhet, tätare samarbete mellan polis och kommun och mer pengar till våra brandvärn"
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Våra barn är vår framtid och dem vill vi ge alla förutsättningar vi kan. Exempel på åtgärder är heltidsmentorer, ett bredare gymnasieutbud och bättre kommunikationer från våra serviceorter"
+      },
+      {
+        "category": "Näringsliv",
+        "description": "I Ljungby har vi landets bästa näringsliv, vi vill göra det ännu bättre. Hurdå? Genom nya industriområden utmed E4 och Rv 25 vid Hamneda, Lagan, Ryssby och Ljungby. Vi vill också skapa utbildningar för nästa generation företagare. Dessutom vill vi skapa förutsättningar för en camping utmed sjön Bolmen"
+      }
+    ],
+    "motivateVote": "Vill man i så stor utsträckning som möjligt bestämma över sitt eget liv och sin egen ekonomi då ska man rösta på Moderaterna",
+    "name": "Moderaterna Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-ljungby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1007",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vatten är vårt viktigaste livsmedel. Att människor har tillgång till rent vatten är viktigt för samhället. Ur miljösynpunkt är det viktigt att ta hand om vatten och avlopp på bästa sätt. Ljungby kommun har flera vattentäkter som levererar vatten till andra kommuner. Om va-anläggningar ska skötas av enskild innebär kontrollen av enskilda va anläggningar förmodligen ökad administration på kommunen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning kan vara EN källa till trygghet. Vi kan dock konstatera att kameror löser inga samhällsproblem. Det förebyggande arbetet för att stoppa kriminalitet och droger är grundläggande.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sagt hela tiden: Tror vi på en landsbygdsutveckling på riktigt så ska kommunen gå före och visa det genom att ta initiativ till byggnation på orter utanför Ljungby tätort. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Verkligen! Lagen om offentlig upphandling (LOU) kan göra att vi inte kan gynna lokala butiker. Däremot kan vi påverka kommunens önskan och krav i förfrågningsunderlag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver alternativa energikällor. det är också helt i linje med regeringens klimatpolitik.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det underlättar självklart om en chef varit verksam inom området, däremot inget krav. Det viktigaste för en bra chef är att lyssna på personalen och gemensamt arbeta mot mål för  en god fysisk och psykisk arbetsmiljö för personal och god service till medborgarna. Viljan att kommunicera och förmågan att vara lyhörd viktiga egenskaper hos en bra chef.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har lämnat förslag om att i projektform prova sex timmars arbetsdag med bibehållen heltidslön för att få en god arbetsmiljö och minska sjukskrivningstalen. Med en ökad äldre befolkning i kommunen behöver vi prova alla tänkbara sätt för att få personal till kontaktyrken.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Det är grundläggande för människor att ha ett bra boende oavsett inkomst. Ljungbybostäder skall tillhandahålla bostäder för alla.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte ha vinster i välfärden. Vi är för valfrihet i kommunen, men då skall det gälla alla i hela kommunen inte enstaka områden för då blir det bara vissa utvalda som får valfriheten. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en fråga för marknaden. Vi behöver göra en klimatomställning och staten och kommunen kan likt som i många andra fall gå före i omställningen och stimulera marknaden, men inte äga och driva laddstolpar på sikt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, vi styr inte krig i vår omvärld, som exempelvis kriget i Ukraina. Av humanitära skäl behöver vi visa solidaritet för människor på flykt. Vi behöver invånare i Ljungby för att nå vårt mål med 35.000 invånare. Att satsa på utbildning för att de som saknar utbildning är viktigt. Alla som kan jobba ska jobba. \r\n",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att skattemedel skall användas till elever i skolan och inte till vinster. Det handlar om att skolan inte är till för vinstjakt utan skattemedel skall användas till att utbilda eleverna. Däremot har vi förskola och skola i vår kommun inte är vinstdrivande i den bemärkelsen att vinster går till aktieägare utan tillbaka till verksamheten. Elevens kunskap i centrum.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror på ett rikt kulturliv och många föreningar och organisationer gör redan idag enorma insatser för kommunens medborgare. Ett rikt kulturliv förenar människor och fungerar som ett skyddsnät för inkluderande samhälle. Det finns många möten mellan människor och det behövs för ökad förståelse i samhället och kultur är möten mellan människor. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "I rådande världsmarknadsläge är det svårt att se in i framtiden. Det viktigaste är att kommunen klarar de åtaganden som ingår i kärnverksamheten i kommunen. Dvs vård, skola och omsorg. Vi utesluter inte en skattehöjning i en framtid för att klara kommunens uppdrag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1630",
+          "1634",
+          "1632"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C!;D!;D;D!;B;C!;D!;A!;A;A;0/5!;3/5!;2/5;[1630,1634,1632]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha egen majoritet, men en demokrati kräver samverkan, antingen i styre eller i valteknisk samverkan.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan under inga omständigheter styra tillsammans med Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "målet att alla skall lämna grundskolan med godkända betyg",
+        "description": "fler lärare med behörighet. individuellt utformat stöd till elever som behöver extra stöd för att klara målen."
+      },
+      {
+        "category": "Bra bostäder till alla även på landsbygden",
+        "description": "Genom att driva utvecklingen av bostäder i kommunal regi på landsbygdens orter så stimulerar vi befolkningsutveckling i hela kommunen. En kartläggning av ödehus i kommunen har gjorts efter ett socialdemokratiskt förslag. Ljungby har mål att nå 35000 invånare år 2035. Billiga och bra bostäder till alla är en viktig fråga."
+      },
+      {
+        "category": "en god äldreomsorg",
+        "description": "en god omvårdnad av äldre och för personer inom LSS är viktig i den offentliga sektorn. för att uppnå detta krävs demokratisk kontroll över verksamheten samt en god arbetsmiljö, god lön, heltid som norm, inga delade turer i schemat för personalen. då kan vi bli en attraktiv arbetsgivare. Vi vill inte ha utmaningsrätt för kommunal verksamhet och inga vinstuttag utan tak i välfärdens företag."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna står för en stark offentlig välfärd, att barn skall växa upp med trygga förhållanden och klara sin skoltid med godkända betyg. En god och trygg äldreomsorg i kommunal regi. Inga vinster i välfärden. God och tillgänglig vård. När individen är som svagast skall samhället vara som starkast. Mäns våld mot kvinnor skall upphöra. Ett välmående och tryggt näringsliv, god arbetsmiljö.",
+    "name": "Socialdemokraterna Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-ljungby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1008",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns inga miljömässiga eller ekonomiska fördelar med dessa.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet med tanke på utvecklingen i landet när det gäller otrygghet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både för och nackdelar, bra i vissa orter medan det i andra kan göra att utanförskapet ökar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid upphandlingar bör man ha med som kriterie att gynna lokalt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som ett komplement till vätgassatsningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska viktigt på alla chefspositioner att ha bra koll på verksamheten där ute.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ser inte några fördelar med det.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara nyckeln till att få unga att stanna och studenter att komma hit.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte några problem med det så länge kvalitén upprätthålls och att eventuella vinster återinvesteras i företaget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte det är en kommunal fråga, bättre externa aktörer har hand om dessa.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna att vi har full sysselsättning och integration innan kommunen tar emot fler flyktingar, dock ska vi hjälpa flyktingar från närområdet exempelvis Ukraina.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser helst att alla skolor har statlig styrning så den blir likvärdig.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att kommunen har ett brett och välfungerande kulturliv, bevara det vi redan har.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "Som det ser ut i dagsläget klarar vi ekonomiska mål med nuvarande skattesats, dock finns utomstående faktorer som kommer påverka kommunens ekonomi som superinflation, höjda räntor etc. som en följd av regeringens oansvarigta politik.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1630",
+          "1635",
+          "1636"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;D;D;C;A;C;C;B;D!;0/5;2/5;2/5;[1630,1635,1636]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi utesluter inte något utan inväntar valresultatet, dock har vi mest gemensamt med moderaterna och kristdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet blir det svårt att kompromissa med likaledes Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Budget i balans ",
+        "description": "Att ha stort fokus på ekonomin och en budget i balans är grundförutsättningar för allt vi gör i kommunen. Vi väger investeringar noga och slösar inte pengar på icke nödvändiga investeringar som exempelvis kommunala va-anläggningar på landsbygden."
+      },
+      {
+        "category": "Tryggheten.",
+        "description": "Trygghet är ett oerhört brett begrepp, det kan vara att medborgarna känner sig trygga att gå ut på gator och torg. Det kan även innebära att man har en bra skola, äldrevård och omsorg eller att man får den hjälp man behöver om man hamnar i svårigheter i livet."
+      },
+      {
+        "category": "Skolresultaten",
+        "description": "Vi har med fasa sett hur skolresultaten blir sämre över tid, det är ohållbart att var fjärde i nionde klass inte är behörig att söka in på gymnasiet. Vi anser att tidiga insatser är viktiga och förespråkar att kommunen inför resursklasser/ resursskolor och att man får gå om en klass om man inte når målen. Vi anser även att vi ska ha en förberedelseklass för nyanlända innan ordinarie skolgång."
+      }
+    ],
+    "motivateVote": "Vi tar ansvar för Ljungby och för de skattemedel medborgarna betalar.",
+    "name": "Sverigedemokraterna Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-ljungby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1009",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "28c88d58d24749bb0c824570e251f4a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Överföringsledningen till Bolmens Östra Strand ska stoppas då det är ett orimligt dyrt projekt som kommer att drabba alla med kommunalt va. Men vi vill t.ex. bygga ett minireningsverk i Bollstad.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8572d00da3bc5e0540fcd0c80f4745cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte ha en generell övervakning, men  på otrygga platser kan det vara motiverat.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "79243b26ff22e682a86e113c895190b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns hyreslägenheter på alla orter, så att ungdomar kan flytta hemifrån och äldre sälja sina villor/gårdar utan att behöva flytta från hembygden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a3e5090d59c62f4b3b47890c6d6c0e82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt pga Lagen om offentlig upphandlking, men genom att ge möjlighet att lägga anbud på t.ex. mindre leverenser kan det fungera. Och då ska det göras, det är bra både för näringslivet och klimatatet då det blir mindre transporter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ebdb4f3e918b47e82976cfe7ee19a8c9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, men i samarbete med andra företag, och organisationer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "714b40d0db96dfd439e23a81463c0789",
+        "questionType": "PROPOSITION",
+        "reasoning": "Visst kan det vara en bra erfarenhet, men det kan inte vara ett krav. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "54cd932d23294cc16e89d1e50a50a166",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra sätt att få fler att vilja jobb inom hemtjästen, men det behöver införas succesivt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c2244beb2797e85d5854706d7fba059c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bostadsföretaget ska bygga billiga hyreslägenheter. Kommunen kan gå i borgen för att bostadsföretaget ska få bättre lån, men inte finansiera lägenheterna. Det är bra om kommunen ställer krav på en rimig hyresnivå vid försäljning av attraktiv mark ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "df58b192b4200e40a4c037278af7a560",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inga vinster i välfärden! Skattepengar ska användas till äldreomsorgen, inte till vinster.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3221d18db49f798c5feb1727ab4a4f86",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte ta ansvaret, men kommunala energibolaget om det behövs. Det är viktigt att det finns laddstolpar över hela kommunen för att vi ska våga köpa elbilar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6256c90db1dae8a3834009c75c80e1b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här finns gott om plats och dessutom lediga jobb. Företagen efterfrågar arbetskraft för att kunna växa. Vi måste värna asylrätten!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "664389133f5d80ee9a7059e6880efec1",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska ha en skola utan glädjebetyg, risk för segregation och där barn för det stöd de behöver och har rätt till..  Alltså inga privata företag i Ljungbys skolor.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "ddbcb70a7c34ee08f2992d6b9f6961ad",
+        "questionType": "RANGE",
+        "reasoning": "Vi får så mycket för pengarna inom kulturen. Det ökar trivseln och gemenskapenen.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9cd1a030ba4baa0dc80a0a82a6aeaac3",
+        "questionType": "RANGE",
+        "reasoning": "Om pengarna används på rätt sätt bedömmer vi att det räcker med dagens skattenivå.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "40a433f8db547a431f7365e09b8b1edb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1634",
+          "1633",
+          "1636"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;B;D!;C;D;B;D!;C;A!;C;A;0/5;3/5!;2/5;[1634,1633,1636]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett vänsterstyre, med s, v och mp, i första hand.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "sd!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre förskola och skola",
+        "description": "Förskolan och skolan behöver mer resurser för att kunna ge stöd åt alla barn och ungdomar.  Det kan handla om mindre barngrupper/klasser, bra elevhälsa och skolbibliotek, stöd till elever som behöver det. En fullföljd gymnasieutbildning är allra bästa skyddet för att förebygga utanförskap."
+      },
+      {
+        "category": "Förbättra äldreomsorgen ",
+        "description": "Vi behöver förstärka äldreomsorgen och förbättra arbetsvillkoren för personalen för att kunna rekrytera tillräckligt med personal.Vi vill ge makt åt personal och brukare inom äldreomsorgen att planera omsorgen och stödet, utan detaljstyrning."
+      },
+      {
+        "category": "Kultur- o fritid",
+        "description": "Vi behöver ha ett rikt kultur- och fritidsliv i hela kommunen för att människor ska trivas i kommunen, även på landsbygden. Det handlar om avgiftsfri kulturskola, fritidsgård med bra verksamhet och öppettider, teater, idrott och annan kultur."
+      }
+    ],
+    "motivateVote": "Vi kämpar för en förskola/skola med mindre barngrupper och ett gott stöd från elevhälsa, speciallärare m.m. En fullföljd gymnasieutbildning är bästa skyddet mot utanförskap, så här är det lönsamt att satsa. Äldreomsorgen ska inte detaljstyras, utan brukare och personal ska ha möjlighet att gemensamt planera för stödet som ska ges. Kommunen ska stötta lokala kulturutövare och anlägga solcellpark!",
+    "name": "Vänsterpartiet Ljungby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-ljungby"
+  }
+]

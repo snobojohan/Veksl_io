@@ -1,0 +1,858 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1585",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "567417d058ee8174cbe8124da3062fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att gå samman med enbart en kommun då vi kan ha tre olika riktningar som vi vill tillhöra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c49c6d92bd9ca52dde648ce490a36256",
+        "questionType": "PROPOSITION",
+        "reasoning": "SFI undervisningen har fungerat mycket bra när den ligger i vargbroskolan ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0761cac3560c6f4c1a9ff5b61d84e2a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ca3900 innevånare,\r\nprocentuellt så har vi en nära kontakt med väljarna .",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "79d7f5f8578d2763432154a617f4fb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sådana bolag bör bara finnas i nödfall om det har en samhällsfunktion/ arbetsmarknads åtgärd.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "72d87c4de940807c264a7516f8335e6f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bara om lönen justeras,\r\nVarför är det bara inom kommunal verksamhet som sådana förslag läggs, övriga löntagargrupper driver inte den frågan speciellt starkt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "623471cc87acb2a7da7f77c647428279",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkvalda har den uppgiften.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29dcf0e0e6e18a517f84d03447a4d517",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1595012f75833dc4c5f994fc45f61834",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är marknaden som sköter det .",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5fffdced0f3f8484f18fae43a2f6d880",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om brukaren vill ha alternativ kan det tillhandahållas .",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3496f4e368d9175e3e058134a5b6c4f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stor tillgång är överdrivet.\r\nKan vara en privat aktör som tillhandahåller det.\r\nKommunen drev inga bensinmackar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb6ab2e510f9e349392755cef372f028",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan ju låta bra ,,men.\r\nbättre om kommunerna får det stöd som staten lovar , många kommuner blir utnyttjade i flykting kriser.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "33aa708a2e4e492dce681fb74d6fa841",
+        "questionType": "RANGE",
+        "reasoning": "Funkar bra som det är.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0eb5166e7495bfd3857cc61e71fa5037",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen har en liten budget i dag som man skulle vilja öka.\r\nmen samtidigt så finns det många ideella krafter som gör stordåd.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f2bc0d2ececfb8b74d14c465c71e3651",
+        "questionType": "RANGE",
+        "reasoning": "Det bör inte vara olika skattesatser i kommunerna .\r\nVi bör sträva efter en så jämn skatt i hela landet",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ec0bc1b29aca5eaa367249ce6e8a82b5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2346",
+          "2344"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;C;D;B;A;B;B;C;B;B;2/5;2/5;1/5!;[2346,2344]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "inte i stort",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Generationsboenden",
+        "description": "Underlätta för alternativa boenden ,\r\ndär äldre villaägare eller andra kan tänka sig att bo i ett 60+boende med service faciliteter. \r\nVilket medför att hus kommer på marknaden för nyinflyttning alternativ ej lämnar kommunen."
+      },
+      {
+        "category": "Företagar kommun med framåtanda ",
+        "description": "Göra allt som bara är möjligt för ett gynnsamt företagsklimat."
+      }
+    ],
+    "motivateVote": "Vi kommer att jobba för att hela kommunen blir uppmärksammade o att alla känner sig lika värda.\r\nVi vill göra allt vi kan för att företagandet skal ha dom bästa förutsättningar för att kunna konkurrera företag i andra kommuner.\r\nGe arbetslös ungdom en meningsfull sysselsättning.\r\nStimulera fritidsaktiviteter för äldre och unga.\r\nMöjliggöra alternativa boenden.",
+    "name": "Centerpartiet Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-storfors"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1586",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "567417d058ee8174cbe8124da3062fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Risk att vårdcentral, skola och omsorg försämras. Kommer att centraliseras till närliggande större stad. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c49c6d92bd9ca52dde648ce490a36256",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte så insatt i frågan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0761cac3560c6f4c1a9ff5b61d84e2a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "De små partierna skulle i så fall försvinna.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "79d7f5f8578d2763432154a617f4fb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste ju ha ett bra klimat för privat verksamhet. Om det finns privata aktörer så bör inte kommunen konkurrera. Viktigt förstås att den privata är bäst på det den gör. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "72d87c4de940807c264a7516f8335e6f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ta bort delade turer och låt personalen vara med och ta fram arbetstiderna. Mer personal behövs också. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "623471cc87acb2a7da7f77c647428279",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är en viktig fråga så behövs säkert folkets syn på saken. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "29dcf0e0e6e18a517f84d03447a4d517",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut ja. För att säkra för de äldre. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1595012f75833dc4c5f994fc45f61834",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en liten kommun som Storfors så behövs pengarna till annat. Står idag lägenheter tomma. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5fffdced0f3f8484f18fae43a2f6d880",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om omsorgen blir bättre till samma kostnad är det bra. Viktigt också att det finns tillräckligt med personal.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3496f4e368d9175e3e058134a5b6c4f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "På kommunala parkeringar så ska det nog finnas laddstolpar för elbilar. Borde vara elbolagens eller bensinbolagens skyldighet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cb6ab2e510f9e349392755cef372f028",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tycker det är viktigt att kommunerna själva får bestämma. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "33aa708a2e4e492dce681fb74d6fa841",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt med bra resultat. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0eb5166e7495bfd3857cc61e71fa5037",
+        "questionType": "RANGE",
+        "reasoning": "Bra kultur ger stimulans. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f2bc0d2ececfb8b74d14c465c71e3651",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste prioritera vård, skola omsorg. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ec0bc1b29aca5eaa367249ce6e8a82b5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2343",
+          "2349",
+          "2346"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;B;A!;C!;B!;D!;D!;B;C!;B;D!;2/5!;2/5!;1/5!;[2343,2349,2346]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "M+KD med stöd från andra partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Storforsdemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Allas rätt till skola.",
+        "description": "Vi vill hjälpa hemmasittare att komma till skolan.\r\nMindre förskolegrupper.\r\nFler behöriga lärare och fler av annan personal på skolorna."
+      },
+      {
+        "category": "Omsorg",
+        "description": "Den äldres rätt att åldras värdigt. \r\nNärodlad och närproducerad bra mat. \r\nVill även att det byggs ett seniorboende dit äldre kan flytta till när de inte vill bo hemma.\r\nDetta kan på sikt bli en mötesplats för alla i kommunen"
+      },
+      {
+        "category": "Familjen",
+        "description": "Vi vill värna om trygga familjer som ger trygga barn. Snabb och bra hjälp när det behövs."
+      }
+    ],
+    "motivateVote": "Vi prioriterar följande:\r\nVård, skola och omsorg där ingen glöms bort eller hamnar mellan två stolar.\r\nVi vill att det serveras närodlad och närproducerad mat i kommunen.\r\nVi vill att Storfors ska bli en levande kommun där förbipasserare gärna stannar till. En levande landsbygd. ",
+    "name": "Kristdemokraterna Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-storfors"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1587",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "567417d058ee8174cbe8124da3062fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska sammarbeta mer med grannkommunerna, men vi ska behålla vårt självstyre. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c49c6d92bd9ca52dde648ce490a36256",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn ska vara trygga i skolan, trygga i att hitta sin egen person och utvecklas i den riktning man själv önskar.\r\n\r\nAtt vuxna, kanske föräldrar vistas i samma lokaler, delar samma skoltider kan leda till att en del barn inte får den möjligheten.\r\n\r\nSkolans resurser dräneras av sammanslagningen, de utlovade besparingarna har blivit till ökade extra kostnader, ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0761cac3560c6f4c1a9ff5b61d84e2a0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "79d7f5f8578d2763432154a617f4fb52",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72d87c4de940807c264a7516f8335e6f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "623471cc87acb2a7da7f77c647428279",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29dcf0e0e6e18a517f84d03447a4d517",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1595012f75833dc4c5f994fc45f61834",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5fffdced0f3f8484f18fae43a2f6d880",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3496f4e368d9175e3e058134a5b6c4f7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cb6ab2e510f9e349392755cef372f028",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "33aa708a2e4e492dce681fb74d6fa841",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0eb5166e7495bfd3857cc61e71fa5037",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f2bc0d2ececfb8b74d14c465c71e3651",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "ec0bc1b29aca5eaa367249ce6e8a82b5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A;D!;A;A;A;D;D;D;C;D;D;2/5;4/5;_;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill sänka Kommunalrpdetstjänst till 75%\r\n\r\nVi vill öka Kommunchefens ansvar för verksamheten och medarbetarna.\r\n\r\nVi sammarbetar med alla partier i sakfrågor där vi tycker lika.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej\r\nKommunpolitik är baserad på  individens förmågor, inte färg på flaggan.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunalrådposten minskas till 75 % ",
+        "description": "Kommunalrådstjänsten minskas till 75 %\r\n\r\nKommunchefens ansvarsområde utökas, medarbetare skall inte tillsättas politiskt.\r\n\r\nKommunalrådet erbjudes utöver den 75%  tjänsten, att arbeta 25 % inom den kommunalaverksamheten, med samma lön, samma villkor som övriga anställda.\r\n\r\nEfter, förmåga, kunskap, kompetens mm."
+      },
+      {
+        "category": "Stoppa slöseriet med skattemedel",
+        "description": "Vi avser att använda skattepengarna till det som de är avsedda för.\r\n\r\nVård, Omsorg, Förskola,Skola,Hemtjänst,Våra gator och vägar samt vårt gemensamma.\r\n\r\nVi avser att bygga ett överskott, ett överskott som vi när vi skapat det, kan användas till olika investeringar."
+      },
+      {
+        "category": "Hålla det som lovats och inte lova något vi inte kan hålla.",
+        "description": "Socialdemokraterna har i 12 år utlovat en skola i Bjurtjärn/Alkvettern/Kyrksten, Vi avser att infria det löftet."
+      }
+    ],
+    "motivateVote": "Vi vill få ordning på Storfors, vår ekonomi, demokratin, öka inflytandet och transparensen.\r\n\r\nVi vill minska Politikernas inflytande i det kommunala arbetet, politikerna ska sätta Mål, Mening och tilldela Medel, därefter ska den kommunala organisationen arbeta efter dem.\r\n\r\nVi vill öka kommunchefens ansvar, det ska inte vara kommunalrådet som tillsätter och avsätter medarbetare.",
+    "name": "Moderaterna Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-storfors"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1588",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "567417d058ee8174cbe8124da3062fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill vara en egen Kommun. Idag har vi bra samarbete med våra grannkommuner.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c49c6d92bd9ca52dde648ce490a36256",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då jag som politiker har och får information från skolchefen om att det fungerar bra, så ser jag ingen anledning att flytta SFI från Vargbroskolan. Skulle det bli problem framöver så får vi ta ett nytt beslut i frågan.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0761cac3560c6f4c1a9ff5b61d84e2a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då vi är en så pass liten kommun så skulle det räcka med 21 ledamöter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "79d7f5f8578d2763432154a617f4fb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun ska inte konkurrera med näringslivet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "72d87c4de940807c264a7516f8335e6f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på att det är ett tungt arbete i vården över lag så är förslaget inte dumt. Men frågan om hållbart schema är lika viktig.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "623471cc87acb2a7da7f77c647428279",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag förstår inte vitsen med det. Det är dyrt och inte alltid tillförlitligt. Vi har förtroendevalda politiker.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "29dcf0e0e6e18a517f84d03447a4d517",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart! Det är så mycket som kan gå fel om man inte förstår en instruktion muntligt eller kan skriva o dokumentera som idag är en stor del i vårdens arbete. Dessutom är ett lagkrav.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1595012f75833dc4c5f994fc45f61834",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som hyr av Stiftelsen Björkåsen har möjlighet att söka bostadsbidrag, som övriga medborgare i Sverige.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5fffdced0f3f8484f18fae43a2f6d880",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tycker jag inte. Våra skattepengar ska inte hamna i fickan på privata ägare.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "3496f4e368d9175e3e058134a5b6c4f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar för att bidra till en bättre miljö. Detta skulle vara toppen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cb6ab2e510f9e349392755cef372f028",
+        "questionType": "PROPOSITION",
+        "reasoning": "Efter flyktingvågen 2015 är vår erfarenhet att Migrationsverket svek kommunerna som tog emot många människor och som resulterat att inte få den ersättning som utlovats. Självklart måste vi stå upp för o hjälpa människor som flyr undan krig o förtryck o ge dem en fristad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "33aa708a2e4e492dce681fb74d6fa841",
+        "questionType": "RANGE",
+        "reasoning": "I vår kommun har vi en inackorderings skola Lundsbergs skola. För övrigt har vi vår kommunala skola.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0eb5166e7495bfd3857cc61e71fa5037",
+        "questionType": "RANGE",
+        "reasoning": "Önskvärt lite mer.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f2bc0d2ececfb8b74d14c465c71e3651",
+        "questionType": "RANGE",
+        "reasoning": "Min utgångspunkt är samma som idag, men för att möta de utmaningar även i den lilla kommunen har, så skulle jag kunna tänka mig ”lite mer”för välfärden och våra medborgare.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ec0bc1b29aca5eaa367249ce6e8a82b5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2343",
+          "2349",
+          "2347"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A!;C!;C!;C!;A!;D!;A;A!;D!;A!;2/5;3/5;2/5;[2343,2349,2347]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det jag kommer på just nu är de statsbidrag kommunerna får, bör vara generella och inte riktade bidrag, eftersom varje kommun har sina egna utmaningar så är det viktigt att kunna förstärka vilken enhet i kommunen som behöver det mest.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna vinner valet med Magdalena som Statsminister. Att vi i Storfors fortsätter hålla i taktpinnen för våra invånare. Gärna samarbete med andra partier för att få en bredare politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och Moderaterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan",
+        "description": "Att vi fortsätter vara Regionens bästa skola, vi satsar på våra barn o ungdomar så de ska få en meningsfull fritid och att klara betygsmålen för att kunna söka gymnasium."
+      },
+      {
+        "category": "Vård och omsorg",
+        "description": "Vi vill ge vård och omsorg möjlighet att fortsätta utvecklas med smarta hjälpmedel och arbeta för en god arbetsmiljö. Socialdemokraterna har sagt nej till delade turer på schemat. Vi vill ha ett hållbart schema för personalen."
+      },
+      {
+        "category": "Näringsliv",
+        "description": "Att ha ett bra näringslivsklimat i Storfors är något vi arbetar för, vi behöver fler företag som flyttar hit och som genererar arbete. Vi har möjligheter att att bygga o bo i strandnära områden. Nära till skog o sjöar för ett rikt friluftsliv."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna är ett modernt parti väljarna kan lita på med Magdalena som statsminister. I vår kommun vill vi fortsätta utveckla skolan, vård o omsorg att också arbeta för att få företag att vilja etablera sig här. Att våra ungdomar kommer in i arbetslivet. Att våra äldre får leva ett gott liv. Vi är en liten kommun med gemenskap o trygghet.",
+    "name": "Socialdemokraterna Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-storfors"
+  },
+  {
+    "abbreviation": "StDe",
+    "altingetCandidateId": "1589",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Storforsdemokraterna Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "storforsdemokraterna-storfors"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1590",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "567417d058ee8174cbe8124da3062fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Storfors är en liten kommun med ca. 3 950 invånare och detta ger en mycket begränsad skattekraft. Den ekonomiska politiken måste därför vara extremt ansvarsfull och transparent för kommunens skattebetalare att följa upp. Kommunens storlek begränsar politikens möjligheter att utveckla kommunen. Sammanslagning medl en större kommun skulle kunna ge bättre förutsättningar för framtiden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c49c6d92bd9ca52dde648ce490a36256",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vuxenutbildningen och den kommunala grundskolan skall inte lokaliseras till samma skola eftersom den kan begränsa grundskoleelevernas frihetskänsla.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0761cac3560c6f4c1a9ff5b61d84e2a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, 27 st. kommunfullmäktigeledamöter är bra nivå för Storfors.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "79d7f5f8578d2763432154a617f4fb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beror på situationen och utbudet av privata företag.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "72d87c4de940807c264a7516f8335e6f",
+        "questionType": "PROPOSITION",
+        "reasoning": "När den dagen kommer att samhället har resurser till det. Skall samordnas i tid med det privata näringslivet. Mera viktigt är att resurserna inom äldreomsorgen är tillräckliga och personalens arbetsmiljö - trivsel är bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "623471cc87acb2a7da7f77c647428279",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, vi anser att det är viktigt att öka öppenheten vid hantering av kommunala angelägenheter genom att kommunen löpande ska t.ex. redovisa sin postlista (diarielistan) varefter allmänheten och politiken kan vid behov/intresse begära ut de handlingar som anses vara väsentliga. Att komplettera med kommunala folkomröstningar är ett bra sätt att öka intresset för kommunpolitiken. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "29dcf0e0e6e18a517f84d03447a4d517",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja absolut, de som behöver vård och äldreomsorg ska kunna kommunicera med någon som behärskar deras eget språk. Alla vårdgivare i hemtjänsten ska kunna tillräckligt bra svenska.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1595012f75833dc4c5f994fc45f61834",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tyvärr är inte Storfors en växande kommun och frågan är inte aktuell.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5fffdced0f3f8484f18fae43a2f6d880",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, under rätt utformad insyn och kvalitetskontroll från kommunens sida.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3496f4e368d9175e3e058134a5b6c4f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte aktuellt i en kommun med 3950 invånare på landsbygden. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cb6ab2e510f9e349392755cef372f028",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, i Storfors bor 540 personer som inte är självförsörjande. Det ger en självförsörjningsgrad på 72,4% i kommunen (rikssnitt är 75,1%). Vi vill motverka inflyttning av nya bidragstagare. Asylmottagande och invandring i kommunen – Ansvarsfullt mottagande ska omfatta det lagen föreskriver och inte belasta andra verksamheter. Inflyttning till kommunen ska inte orsaka kommunen ekonomisk belastning",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "33aa708a2e4e492dce681fb74d6fa841",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bra erfarenheter av en privat skola i kommunen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0eb5166e7495bfd3857cc61e71fa5037",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f2bc0d2ececfb8b74d14c465c71e3651",
+        "questionType": "RANGE",
+        "reasoning": "Storfors har en relativt hög kommunalskatt 34,38 (rikssnittet 32,24) och växande investeringsbehov. Politiken med höga skatter lockar inte till nyinflyttning till kommunen och invånarantalet fortsätter att minska. Detta leder till stora problem för att orka driva Storfors som en egen kommun i framtiden. Vi ligger nu på en hög skattenivå och den skall helst minska.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ec0bc1b29aca5eaa367249ce6e8a82b5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2349",
+          "2346",
+          "2341"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;C!;B!;C;C!;D;D!;B;C;B;D!;3/5;2/5;1/5!;[2349,2346,2341]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Målet är att det nuvarande styret S+V hamnar i opposition.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan förhandla med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättra kommunens ekonomi",
+        "description": "Förbättra ekonomistyrningen och genomför översyn av kommunens organisation – arbetssätt - resursanvändning. De tyngsta kommunala verksamheterna har gått med underskott under de tre senaste åren på grund av brister i budget och ekonomistyrning. Vi vill ha bättre kontroll av kommunens hushållning med skattebetalarnas pengar. Arbeta med mål att bidragsförsörjda skall gå över till egen försörjning."
+      },
+      {
+        "category": "Återskapa en bra skola i Storfors",
+        "description": "Uppföljning från SKR (Svenska Kommuner och Regioner) visar tydligt att skolan i Storfors inte förbereder ungdomarna på bästa sätt för fortsatta gymnasiestudier i andra kommuner. Rättvis betygsättning eller betygsinflation? \r\nSkolans hela organisation och betygsättning skall genomgå en grundlig genomlysning - analys varefter korrigerande åtgärder skall vidtas."
+      },
+      {
+        "category": "Upprätta transparent ärendehantering i kommunen",
+        "description": "Viktiga ärenden som berör kommuninvånarna skall läggas i kommunfullmäktiges ärendelista för att öka invånarnas insyn och intresse för politiken. Fler lokala frågor skall behandlas i kommunfullmäktige. Innan viktiga beslut fattas i politiken skall risk- och konsekvensanalyser genomföras och resultaten beaktas. Inga chefstillsättningar skall ske på grundval av enbart politiska motiv."
+      }
+    ],
+    "motivateVote": "Vi vill skapa ett politiskt styre som ser konsekvenserna av sitt handlande.\r\nInnan viktiga beslut fattas i politiken ska seriösa konsekvensanalyser genomföras och resultat beaktas. Storfors ska styras för Storforsarnas bästa.\r\nInsatser som är viktiga för kommunens invånare ska prioriteras. Storfors behöver klokare, mera genomtänkt politik utan arrogans.\r\n\r\n",
+    "name": "Sverigedemokraterna Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-storfors"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1591",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Storfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-storfors"
+  }
+]

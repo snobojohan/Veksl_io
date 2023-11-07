@@ -1,0 +1,1256 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1739",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste värna allemansrätten vid kusten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man måste lösa ett antal frågor, placeringen rätt ( fisk, fisket, fågelliv, militären) Matningen av elen när man kommer in mot land ?\r\nMen vi måste ha mer elkraft så havsbaserad vindkraft måste nog användas men på rätt sätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget obligatorisk utan det ska erbjudas som alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mångfald i konkurrens leder ofta till ökad kvalitet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det man måste titta på är arbetssituationen så att alla orkar. Vi behöver göra detta då alla behövs framöver.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi inför detta litar vi inte på den demokratiska processen vi har idag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att undvika felaktigheter i vården och kommunikation på arbetsplatsen är språket otroligt viktigt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte använda skattemedel för att subventionera hyran. Däremot ska vi via det kommunala bostadsbolaget skapa möjligheter att bygga lägenheter som folk har råd med.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Loven ger denna möjlighet redan idag men intresset i vår kommun från privata företag är lågt",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är redan med i vår klimatpolicy.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall hjälpa till men vi ska också se till att flyktingmottagningen blir bra för vi behöver också bli fler. Idag skulle Sverige inte klarat vården utan de flyktingar som etablerat sig i samhället.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": "Skolan skall drivas av stat och kommun.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "Man skall också se att de pengar som läggs på kultur används rätt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "Vi hoppas och tror att vi ska klara oförändrad utdebitering även om det ser dystert ut idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": "Prioritera cykelvägar, solcellsparker och minska antalet elever i klasserna.",
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;B;B;B;B;A;D;B;C;D;A;0/5;3/5;2/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, känner inte till det.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna fortsätta i den borgerliga majoriteten som styrt kommunen sedan kommunsammanslagning. Men naturligtvis vill vi bli största partiet i majoriteten och ta över ordförandeskapet i KS.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi hoppas slippa styra tillsammans med ytterkantspartierna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "verksamhetsmark",
+        "description": "Vi vill skapa verksamhetsmark och tomtmark för bostäder i hela kommunen utan att äventyra åkermarkens betydelse."
+      },
+      {
+        "category": "Helhetsgrepp på skolan",
+        "description": "Centerpartiet vill ta helhetsgrepp i kommunen för att få ordning på kommunens skolor. Ett ökat samarbete mellan omsorgsnämnden och barn och utbildningsnämnden. Med ett ordentligt förebyggande arbete kommer dagens situation att vändas. Vidare vill vi fortsätta arbetet med att bygga ut våra förskolor för att möta efterfrågan."
+      },
+      {
+        "category": "seniorboende",
+        "description": "Under kommande mandatperiod vill vi i Centerpartiet jobba för att förverkliga seniorboende i Tanumshede och Hamburgsund i samarbete med det kommunala bostadsbolaget."
+      }
+    ],
+    "motivateVote": "Centerpartiet vill att hela kommunen skall leva och utvecklas,att. Att vi ger våra kommuninvånare den bästa service och omvårdnad oavsett ålder.\r\nAtt vi satsar förebyggande och tar hand om varandra.\r\nAtt vi ser till behoven och gör det bästa av våra skattemedel.\r\nAttraktiva boenden utan att äventyra allemansrätten.\r\nÖka förutsättningarna för lokalproducerad mat.\r\nUnderlätta för alla företaga\r\n\r\n\r\n",
+    "name": "Centerpartiet Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-tanum"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1740",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att få fri rörelse vid våra stränder och kobbar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A!;A;B;C;C;B;D;D;B;C;D;1/5;2/5;2/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Utbyggnad av havsburen vindkraft.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Samlad höger styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänstern,Miljöpart, centern, socialpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vindkraft utbyggnad i havet.",
+        "description": "Finns ingen logisk förklaring som kan motivera utbyggnad av vindkraft på havet, detta medför mycket belastning för fiske och den marina miljön.\r\nKostnader för dessa vindkraftverk kommer att belasta kunder och ej producenter. ( Avser i första hand kopplingar till land där man har bestämt att\r\ndet ej skall belasta producenterna.)"
+      },
+      {
+        "category": "Nej tack till havsbunden vindkraft.",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Partiet har tryckt på med sjukvårdsproblem ( Statligt förvaltarskap )energilösningar, låta kommuner behålla vetorätt (avser b.l.a utbyggnad av vindkraftverk) invandringsproblemen med\r\ntillhörande intregeringsproblem.\r\nSkolan, mer hjälp i form av lärarbehörigheter samt mer ordning i skolan.",
+    "name": "Kristdemokraterna Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-tanum"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1741",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är för dyrt för åretruntboende.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver en kontinuerlig elförsörjning som ger stabila elpriser.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi förespråkar en varierad kost som verksamheten erbjuder. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viss allmän verksamhet kräver mångfald i ägandeform. Där det är motiverat kan kommunala bolag vara ett alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har representativ demokrati i Sverige, vilket innebär att vi väljer våra företrädare. Därför ska vi vara försiktiga med folkomröstningar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra gamla ska känna sig trygga i mötet med personalen. Viktigt också utifrån att kunna läsa och förstå förskrivningar från sjukvården.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens ska medverka till bra och billiga bostäder.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mångfald är bra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är miljömässigt motiverat för en framtid med allt fler elbilar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot de flyktingar vi tilldelas på ett bra sätt, genom ett gott integrationsarbete.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "I ett levande samhälle är kulturen en grundförutsättning för ett gott liv.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "Skattetrycket i Sverige är totalt sett för högt och bör sänkas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": "1 Minska antalet elever per klass i kommunens skolor\r\n2 Anställa mer personal i äldreomsorgen\r\n3 Bygga fler cykelvägar\r\n",
+        "value": [
+          "2484",
+          "2480",
+          "2483"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;A;B;B;A;D;A;D;D;B;2/5;3/5;2/5;[2484,2480,2483]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-tanum"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1742",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privatiseringen av kusten i årtionden, på grund av ständiga undantag från strandskydd, gynnar rika på bekostnad av andra allmäna intressen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "All havsbaserad vindkraft är inte önskvärd. Om alla kommuner säger nej till vindkraft, \"inte på vår bakgård\", så blir de svaret skyldiga - behovet av ny elproduktion är störst i södra Sverige.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Obligatoriskt eller inte. Vad är problemet? Många av oss vet att ändrade kostvanor är en del av lösningen på klimatfrågan. Att det är svårt att ändra personliga vanor är en annan sak.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tvärtom. Tanums kommunala bolag, som hamn- och bostadsbolagen, ska utvecklas som verktyg för kommuninvånarnas bästa.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sextimmars arbetsdag med bibehållen lön kan vara bra för anställda med kvälls- natt och helgtjänstgöring. Andra alternativ kan vara 30 timmars arbetsvecka men med längre pass.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Verkar fungera bra i Schweitz. Kan med fördel kopplas till vissa medborgarförslag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan ses som rimligt utifrån omsorgstagarnas perspektiv. Samtidigt och av samma skäl är flerspråkighet ett stort plus.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "En liten kommun som Tanum har svårt att subventionera billiga hyreslägenheter.   Det tidigare investeringsbidraget bör återinföras med det är en fråga för riksdagen. Enklare byggemenskaper bör uppmuntras lokalt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokalt kan det fungera och vara bra. Det kan vara tvärtom. Den moderatstyrda kommun i Skåne som tog tillbaka all äldreomsorg hade förmodligen goda skäl.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara viktigt i glesbygdskommuner där privata intressen inte hittar lönsamhet. Alla krafter behövs för att underlätta elektrifieringen av bilanvändning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner med få flyktingar eller invandrare har inga skäl att begränsa. Kommuner med segregation kan ha goda skäl för ett minskat flyktingmottagande. Tanums kommun har rekryterat många goda medarbetare från båda grupperna under senare år.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": "Skolor och förskolor med lokal förankring eller särskild pedagogisk inriktning har en självklar plats.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "Långa avstånd till statligt finansierad kultur (storstäderna) motiverar höga lokala ambitioner. Minst två procent av kommunens verksamhetskostnader är miljöpartiets mål. Trollhättans kommun lägger tre procent.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "Det är politiskt omöjligt att ändra nuvarande skattesats. Allianspartierna och socialdemokraterna är överens.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B!;C;D;A;C;D;C;C;B;D;B;2/5;4/5;2/5;_",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Miljöpartiet på riksnivå har liksom andra partier en otillräckliga klimatpolitik.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Miljöpartiet Tanum samarbetar med  partier som maximerar mp:s egen politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimatanpassa det lokala näringslivet",
+        "description": "I en liten kommun, 13 000 invånare, med ca 2700 företag som utför allt från transporttjänster, bygger hus, avverkar skog, driver jordbruk, restauranger, affärer är risken stor att klimatförståelse inte är en prioriterad fråga. Brist på kunskap och engagemang kan påverkas av att kommunen tar på ledartröjan och utbildar samt skärper krav vid upphandling av varor och tjänster."
+      },
+      {
+        "category": "Rädda naturen så räddar den oss",
+        "description": "Rader av rapporter från FN:s klimatpanel IPCC visar att bevarad biologiskt mångfald är en av förutsättningarna för en i övrigt tvingand anpassning till ett varmare klimat. En turistkommun som Tanum har all anledning att gå i spetsen och i all sin verksamhet prioritera just den frågan."
+      },
+      {
+        "category": "Den Blå översiktsplanen kan rädda ålgräs och kustfisk.",
+        "description": "Ålgräs och kustnära fiskebestånd har försvunnit på flera kuststräckor. Flera kustkommuner har upprättat en gemensam översiktsplan för hav och skärgård. Använd den som ett skarpt verktyg för att minska hotet mot ålgräs och fiskyngel från motorbåtar och nyanlagda bryggor."
+      }
+    ],
+    "motivateVote": "För en lokal klimatpolitik för nuvarande och  framtida generationer i nivå med Parisavtalet. För ett arbetsklimat i skolan där lärare och elever känner sig hemma och trivs. För en samhällsplanering som ger unga chans att hitta bostad utan att det kostar miljoner. För äldreomsorg i alla kommundelar. För ett lokalt klimatmedvetet näringsliv. ",
+    "name": "Miljöpartiet Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-tanum"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1743",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill erbjuda byggnation i attraktiva lägen men samtidigt värna tillgängligheten till våra natursköna stränder.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar tydligt avstånd från detta. Förutom stor visuell påverkan på den unika Tanumskusten riskerar den havsbaserade vindkraften ge katastrofala effekter för vårt yrkesfiske och den fria sjöfarten. Sverige behöver mer planerbar elproduktion och därför vill Moderaterna bygga mer kärnkraft.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska alltid erbjuda bra veganska och vegetariska alternativ. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill satsa på att alla som vill ska erbjudas heltidstjänster.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att modellen med medborgarförslag är bra och tillräckliga för att demokratin ska vara bred och tillgänglig.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett mycket bra förslag. Språket är förutsättning för en god integration, ingången till det land man bor i, öppnar dörrar till arbetsliv och socialt liv. Och särskilt om man arbetar med människor är goda kunskaper i svenska språket avgörande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen äger ett kommunalt bostadsbolag, TBAB. Genom ägardirektiv styr vi så att TBAB bygger och bygger hyresrätter. De senaste åren har TBAB byggt mindre lägenheter som så får en lägre hyra. Det är dock inte aktuellt att subventionera några hyror med skattepengar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sedan flera är tillämpas LOV i Tanum. Det ger privata företag möjlighet att verka i Tanum.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bidra till och stötta initiativ för att fler publika laddstolpar byggs. De laddstolpar som kommunen själv kan finansiera kommer i närtid att bygga för kommunens egen personal.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna driver en stram invandringspolitik. Vi menar att Sverige behöver en minskad invandring för att få ordning på integrationen. Nationellt vill vi införa ett volymmäl för minskad invandring som innebär att Sverige inte ska ha högre invandring än våra grannländer. Av en minskad invandring till Sverige följer en minskad invandring till Tanum.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns ett föräldrakooperativ i kommunen. Skulle en fristående skola komma med en ansökan att verka i Tanum kommer moderaterna att ställa sig positivt till detta.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "Idag bidrar kommunen genom föreningsbidrag och andra bidrag som kan sökas. Vi bistår också ex Gerlesborgsskolan med ett årligt ekonomiskt bidrag. Den kommunala kulturverksamheten svarar för många kulturevenemang tillgängliga för allmänheten som konserter, teaterföreställningar mm. För närvarande ser vi inte att den kommunala ekonomin tillåter större tillskott till kulturen. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "Tanums kommun under kommande år genomföra mycket stora investeringar. Det gör det utmanande att i närtid sänka skatten men långsiktigt är det vår självklara ambition. Genom att vara en attraktiv kommun som lockar till sig fler innevånare och genom att föra en ansvarsfull ekonomisk politik skapar vi förutsättningar för en lägre kommunalskatt.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2480",
+          "2486",
+          "2479"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A!;A;C;A;A;D;B;D;C;D;2/5;2/5;1/5;[2480,2486,2479]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Fortsatt alliansstyre med m, c, l, kd. Vilket har varit den stabila och trygga majoriteten sedan kommunen bildades. Vi vet att vi kan arbeta har kraft att leda Tanum.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är lösningsorienterade och kan diskutera med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fortsatt ökat bostadsbyggande",
+        "description": "Vi vill fortsätta verka för en ökad byggnation. Under de senaste två mandatperioderna har vi tillskapat fler än 800 nya bostäder, både i kommunal och privat regi, runt om i kommunen. Detta skapar förutsättningar för ökad inflyttning och därmed en stärkt kommunal ekonomi. Bostäder i alla former ger stor valfrihet att välja boendeform. Vi har många spännande bostadsprojekt på gång!"
+      },
+      {
+        "category": "En trygg kommun",
+        "description": "Vi arbetar för en ökad polisnärvaro och tillsammans med bättre gatubelysning, ordningsvakter och andra åtgärder skapar vi ett tryggt Tanum. Vi bygger nu ny räddningsstation och en ny ambulansstation för att öka servicen för våra kommuninnevånare. I Tanums kommun ska skola och omsorg hålla en hög kvalitet och vara trygg och säker."
+      },
+      {
+        "category": "Tanumsborna ska få Sveriges bästa service",
+        "description": "Service mot kommunmedborgare och vårt näringsliv är den högst prioriterade frågan. Detta har gett resultat! Vi är dock inte nöjda innan vi blir Sveriges bästa servicekommun. Detta gör vi genom dialoger med näringslivet, med föreningslivet och genom att vara lyhörda mot kommuninnevånarna. Fortsatt arbete för en effektivare och smidigare ärendehantering, ex snabbare i återkoppling i bygglovsfrågor."
+      }
+    ],
+    "motivateVote": "Vi är det parti som är ansvarstagande, har en framtidstro och vill arbeta för att hela kommunen ska leva, så att fler väljer att bo, verka och besöka Tanum året om. En röst på moderaterna är en röst på fortsatt ordning och reda i ekonomin, fler bostäder, utveckling av näringslivet och den kommunala servicen. Din röst - vårt ansvar.",
+    "name": "Moderaterna Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-tanum"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1744",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att dels värna kustremsan som redan är hårt exploaterad, men också att bygga där människor har råd att bo.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gärna mer vegetariska alternativ, men inte obligatoriskt ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att alla som arbetar kan göra sig förstådda. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt även för kommuner att ” bygga billigt” men viktigt att kommunerna prioriterar och underlättar. Viktigt med statliga stöd för bostadsbyggande . Kommunen har ett bostadsförssörjningsansvar",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara en aktör för ta fram laddstolpar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I nuläget tar Tanums kommun inte emot så många flyktingar så frågan är inte aktuell. Vi ska ta vårt ansvar som kommun att hjälpa och integrera. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata skolaktörer ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "Medel för Kulturskolan och stödet till kulturföreningar är idag för lågt.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "I nuläget inte aktuellt med varken höjning eller sänkning av kommunalskatten ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2484",
+          "2483",
+          "2479"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "B!;C!;B;_;_;B;D!;C!;B!;C!;B;2/5!;3/5!;2/5!;[2484,2483,2479]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Med Socialdemokraterna i majoritet men med konstruktiva samarbeten ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla barn i Tanum skall klara sin skolgång",
+        "description": "Tanums skolor håller inte måttet! Allt för många barn hamnar utanför och få inte det stöd har rätt till.  Vi vill stärka skolan genom att skapa mindre grupper, öka lärartätheten  och tillföra fler vuxna nära barnen. Vi  vill införa resursskola/klasser där vi skapar förutsättningar för att alla elever skall lämna grundskolan med godkända betyg. Trygghet och trivsel är ledorden."
+      },
+      {
+        "category": "Tanum skall vara en kommun där du kan bo och leva hela livet",
+        "description": "Socialdemokraterna i Tanum vill att det kommunala bostadsbolaget skall verka och bygga i en större del av kommunen. Vi stöttar också nya bostadslösningar som t.ex. kooperativa hyresrätter och Tiny Houses. Du ska ha råd att bo här oavsett om du är ung, mitt i livet eller pensionär. Hela kommunen ska leva"
+      },
+      {
+        "category": "Öka personaltätheten i omsorgen ",
+        "description": "Vi Socialdemokrater ökar personaltätheten. På så sätt skapar vi en bättre arbetsmiljö, lägre sjukskrivningar och förutsättningar att orka arbeta heltid. Heltidsanställningar och god arbetsmiljö är viktigt för att klara personalförsörjningen i framtiden och därmed en god omsorg."
+      }
+    ],
+    "motivateVote": "För att vi är det enda partiet som ser helheten. Vi behöver både ett bra näringsliv och en bra välfärd. Långsiktiga satsningar kommer ge goda resultat i framtiden.",
+    "name": "Socialdemokraterna Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-tanum"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1745",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan alldeles för mycket byggt nära kustremsan",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommer att påverka landskapsbilden påtagligt och inverka på fritidslivet",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skall orka fram till pensionen och detta är ett särskilt slitsamt yrke",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är särskilt viktigt för tryggheten för de äldre",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Unga skall ha möjligheten att stanna kvar och etablera sig i kommunen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör i vart fall finnas fler laddstolpar än vad det finns idag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": "Beskattningen av våra kommuninvånare skall inte vara större än nödvändigt",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2484",
+          "2485",
+          "2481"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;B;B;D;C;D;D;B;C;C;2/5;2/5;2/5;[2484,2485,2481]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha att Tanum leds av ett värdekonservativt styre som har god relation med samtliga partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tryggt Tanum",
+        "description": "Tanums kommun skall vara en trygg plats att bo på."
+      },
+      {
+        "category": "Levande landsbyggd",
+        "description": "Det skall vara möjligt att leva och verka på landsbygden."
+      },
+      {
+        "category": "Nej till utbyggnad av vindkraft",
+        "description": "Vi vill med stöd i det kommunala vetot säga Nej till vidare utbyggnation av vindberoende kraftproduktion."
+      }
+    ],
+    "motivateVote": "Vi verkar för ett tryggt och sammanhållet Tanum där det är möjligt att bo och verka på landsbygden. ",
+    "name": "Sverigedemokraterna Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-tanum"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1746",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "54048b959f328394c8de58ec0a0ca3f1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det innebär inskränkning av allemansrätten Stränderna är viktiga för att havet skall må bra och för den biologiska mångfalden. Det är riskfyllt att bygga strandnära med tanke på klimatförändringar där stormar och höjning sv havsnivån och bebyggelse nära vatten bidrar till att förvärra effekterna av fet d försämrade klimatet",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "97ddcafe6635af3746a225642801752a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanums kommun har redan många vindkraftverk på land. De skapar konflikter med boende, med orörd natur. Framtida vindkraftverk bör därför läggas långt ute till havs där det blåser oftare men framför allt kraftigare vindar och man kan bygga mycket höga och större verk ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "58edd3d28ad534b2dbf5d5c41600bfad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttkonsumtionen har ökat under de senaste årtiondena och ur klimatsynpunkt är vegetarisk mat att föredra. Men den skall naturligtvis vara ekologiskt odlad",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c2ebef23d6865c454c5b59b717e9ee49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag kan drivas väl så bra som privats",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "153906bbcee80e54075747662a840fb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att man bör göra försök på några boenden och utvärdera och därefter bedluts om genomförande inom hela äldreomsorgen",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ce3edb6f340f3fe04e687f90e728b40",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2bac9c68244dbbe9e33979ddd827ae01",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "983040da6cd735a975d920ba83040848",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nuvarande hyror framför allt nybyggda hyresbostäder är orimligt dyrs inte minst för ungdomar, ensamstående. Staten bör åter införa investeringsstödet",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e3c21815a32ac5c207153be944240ec0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hittills har Tanums kommun inga privata boenden. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "386603bce44d2fd7d5ab146d955dd1b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste påskynda övergång till elbilar och ett sv skälen till att det inte går tillräckligt  fort är oron för elstop",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7940dbb8ff306a7943468269fca191b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner skall ta sitt ansvar och finns resurser för att ta emot alla fritidsboende och sommarturister så nog har vi resurser att ta emot",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "55e9b016801bc924a71a14dfb0448b21",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ingen privat skola. Det finns en föräldrakooperativ skola som fungerar bra ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "06fb6fbfb7006c7c3c8c89edb1b30ba4",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen satsade tidigare mer på kultur.\r\n",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ed82f2139e2a6b1326357c2acc953aa9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1659527a819f589ec82df19c0694a0d9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A!;D!;D;A;C;B;_;D;A!;D;A;0/5;4/5!;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tycker att partiet skulle vara mer drivande i miljö- och klimatpolitiken ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill framför allt att moderaternas inflytande minskar.  ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Främst Sverigedemokraterna som är ett främlingsfientligt psrti",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska klimatutsläppen från transporter och bornde.",
+        "description": "I Tanum kommer klimatutsläpp främst från biltransporter. Vi har näst mest bilåkande per person i landet. V vill planera handel och bostäder för mindre bilberoende och öka solcellsanläggningar  och laddstolpar och bygga fler hyresrätter i tätorterna och alternativa cykelvägar."
+      },
+      {
+        "category": "Sluta med nedskärningar på personal i vård,omsorg och skola- anställ fler.",
+        "description": "Kommunen har effektiviserat varje år, vilket har betytt mindre personal i verksamheterna. Nu saknas stödpersonal som kuratorer och psykologer,förskolelärare,fritidspedagoger,fritidsledare,undersköterskor och annan vårdutbildad i kommunen . Underbemanning och timanställningar av outbildade är vanligt."
+      },
+      {
+        "category": "Bevara strandskyddet - ingen privatisering av stränderna som Grönemad och Svinnä",
+        "description": "Till Tanum kommer många besökare. På sommaren 10-dubblas invånarantalet i flera orter. Så klart vill många ha en privat strandtomt och en privat brygga men då räcker inte stränderna till alla som söker bad och sol. Havets liv försämras av för många bryggor och båtar. Vi vill ha kvar naturstränder och tillgång till ett rent hav."
+      }
+    ],
+    "motivateVote": "Vi tycker att kommunens omställning när det gäller koldioxidutsläpp måste ske betydligt snabbare  Vi värnar om strandskyddet som majoriteten vill minska. Vi behöver förstärkning av lärarresurser. Vi vill ha en hemtjänst där personalen kan ge mer tid till de som behöver denna viktiga tjänst. Vi vill göra en ordentlig satsning på cykelbanor i hels kommunen",
+    "name": "Vänsterpartiet Tanum",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-tanum"
+  }
+]

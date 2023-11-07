@@ -1,0 +1,993 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1336",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med valfrihet inom barnomsorgen. Vi ska erbjuda god kvalitet i våra förskolor och hos våra dagbarnvårdare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Osby kommun har näst högst skatt i Skåne idag och skatten ska inte höjas mer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, det är ett bra förslag. Alla skolor borde ta emot de elever som söker sig dit.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi arbetar för att öka andelen närproducerad mat i våra förskolor, skolor och äldreboenden, det är viktigt för den svenska livsmedelsproduktionen. Varje dag erbjuds ett alternativ till ordinarie mat i skolan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga kommunala bolag som konkurrerar med privat näringsliv.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi satsar väldigt mycket på äldreomsorgen i Osby kommun, Osby kommun är den bästa kommunen för äldre i Skåne. Undersköterskor kan själva önska sin arbetstid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi försöker ha en god dialog med kommuninvånarna även mellan valen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att anställas i äldreomsorgen i Osby kommun måste man kunna svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt kommunala bostadsbolag Osbybostäder bygger många nya lägenheter, men ofta blir de dyrare när det är nyproduktion.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Osby kommun driver kommunen alla äldreboenden och hemtjänst med väldigt god kvalitet. Men vi förhindrar ingen annan som vill att göra det heller.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer att installeras fler laddstolpar när den nya transformatorstationen på nordöstra industriområdet är klar i november.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Osby kommun har tagit emot många flyktingar per kommuninvånare vilket har gjort att vi har väldigt få anvisningar till kommunen idag. Antalet flyktingar måste fördelas mer över alla kommuner.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": "Inga skolor i kommunen drivs av privata företag idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste satsa mer på kulturen, vi satsar mycket på fritidsaktiviteter idag.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1950",
+          "1946",
+          "1947"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;D;A;C;A;B;D;B;C;D;C;2/5;3/5;[1950,1946,1947]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Centerpartiet i Osby kommun går till val på att få fortsätta att styra kommunen med Moderaterna, Kristdemokraterna och Liberalerna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte styra tillsammans med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fortsätt att förbättra företagsklimatet för att få fler i arbete ",
+        "description": "Kommunen måste ständigt förbättra relationerna med näringslivet i kommunen, det görs bäst genom god dialog och kommunikation. Färdigställ industrimark i hela kommunen och upphandla på ett sätt så att vi inte missgynnar lokala entreprenörer. Ett bra företagsklimat skapar fler arbetstillfällen vilket leder till att fler människor blir självförsörjande och bidrar till kommunens utveckling."
+      },
+      {
+        "category": "Färdigställ investeringar i förskola, grundskola, brandstation och ishall",
+        "description": "Vi måste sätta spaden i marken och färdigställa våra investeringar med förskola, grundskola och idrottshall i Killeberg, en ny högstadieskola och äldreboende i Lönsboda samt ny brandstation och ishall i Osby. Dessa investeringar är viktiga för att möjliggöra utveckling och skapa attraktionskraft i hela kommunen."
+      },
+      {
+        "category": "Trygghet i hela kommunen ",
+        "description": "För att öka tryggheten måste vi ha en polisstation i Osby kommun, tillsammans med brandstation och ambulans när vi bygger nytt. Kommunen och polisen ska fortsätta arbeta förebyggande med medborgarvandringar i hela kommunen för att öka synligheten. Trygghet handlar också om att kommunen erbjuder en bra barnomsorg, skola och äldreomsorg så att vi är trygga hela livet."
+      }
+    ],
+    "motivateVote": "Centerpartiet arbetar för hela Osby kommuns bästa! Vi är många kandidater från hela kommunen, kvinnor och män i olika åldrar. Vi vill fortsätta vårt arbete med förbättrat företagsklimat, färdigställa investeringar i skolor i Killeberg och Lönsboda, ishall och brandstation/polisstation i Osby.",
+    "name": "Centerpartiet Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-osby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1337",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn har olika behov och förutsättningar, de behöver därför olika stöd och stimulans beroende på ålder, mognad och social bakgrund. Barn är olika och behöver inte alla passa in i en form. Pedagogisk omsorg är ett alternativ till förskolan. Pedagogisk omsorg erbjuder flera alternativ, mindre barngrupper och färre pedagoger för barnen att anknyta sig till.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns andra åtgärder för att lösa bostadsfrågan för de äldre. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska ta samma ansvar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns lagstiftning som reglerar detta. Så länge kommunen förhåller sig till lagen har även kommunen rätt att driva bolag. Utgångspunkten ska vara för kommuninvånarnas bästa",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Aktivt deltagande skapar en levande demokrati och legitimerar besluten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldra måste kunna förstå personalen. Det finns dock frågetecken på hur dessa språktest ska genomföras och vart kostnaderna hamnar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver hjälpas åt för att skapa förutsättningar till flyktingar att integrera i det svenska samhället",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": "Det ska finnas möjlighet för nya företag att etablera sig i kommunen. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver förbättra möjligheterna till fritidssysselsättning för alla åldrar.  Bättre premier till föreningar som bedrivs ideellt. ",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1945",
+          "1946",
+          "1947"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;D;B;A;B;D;C;C;D;C;B;3/5;4/5!;[1945,1946,1947]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Osby ska styras av Kristdemokrater, Centerpartister, Moderater och Liberaler.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Miljöpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygden ska leva",
+        "description": "Bättre infrastruktur mellan kommunens olika orter, större utbud av regionala bussar och mer cykelvägar i kommunen."
+      },
+      {
+        "category": "Psykisk ohälsa",
+        "description": "Förebyggande av psykisk ohälsa genom integration och socialt arbete. Alternativ till fritidssysselsättning för alla åldersgrupper."
+      },
+      {
+        "category": "Familjen",
+        "description": "Ge föräldrar bättre stöd. Mindre barn i förskolans yngsta grupper. Behåll och utveckla pedagogisk omsorg."
+      }
+    ],
+    "motivateVote": " Osby är en landsbygdskommun där hela kommunen måste fungera! Vi arbetar strategiskt och noggrant för att möta kommuninvånarnas behov. Viktiga områden är att förebygga psykisk ohälsa, värna familjen, öka tryggheten och förbättra livskvalitén för de äldre. \r\n\r\n\r\n",
+    "name": "Kristdemokraterna Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-osby"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1338",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Integration ",
+        "description": "Liberalerna har länge haft integration som en prioriterad fråga. Nu vill vi att det tillsätts en fullmäktigeberedning med uppgiften  att hitta vägar för en bättre integration."
+      },
+      {
+        "category": "Valfrihet i barnomsorgen ",
+        "description": "Vi i liberalerna vill att kommunen erbjuder plats hos dagbarnvårdare för de familjer som så önskar. Vi ser det som ett bra komplement till våra förskolor."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-osby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1339",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de fall det finns ett underlag med antalet sökande barn samt en stabil ekonomi som tillåter denna investering så är vi alltid för valfrihet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "En höjd skatt är aldrig ett bra förslag! En omprioritering samt ett systematiskt arbetssätt kan istället ge en stabil ekonomi som kan ge utrymme för en bostadsinvestering.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser hellre att man aktivt får göra sitt skolval själv och att då även möjligheten att gå i en friskola finns.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kött är fortfarande en bra källa för bland annat järn vilket är viktigt för barn och unga, så att helt ta bort det två dagar är inget bra alternativ.\r\nDet finns andra alternativ för att minska konsumtionen utav kött, tex, att dryga ut rätten med bönor osv.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen lockas av att investera i en kommun där kommunen konkurrerar mot företagen. Kommunen ska fokusera på att vara kommun och låta \r\nföretagarna vara företagare. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan man bör ställa sig är konsekvenserna utav ett sådant beslut, hur ska det finansieras? Höjda skatter?  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att höra vad invånarna i kommunen vill i vissa frågor för att få ett vägledning, men det kan även göras via olika råd, tex. pensionärsråd eller ungdomsråd.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en självklarhet för att få jobba inom vården. Det gäller att säkerställa vården och att de äldre alltid ska kunna kommunicera med personalen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens fastighetsbolag ska bygga hyresrätter med rimliga hyresnivåer, men inte påtvinga privata hyresvärdar vilken hyresnivå de ska hålla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna at det finns flera alternativ att välja för att få den vård man själv vill ha. Att privata aktörer bedriver omsorg är inget vi ser som negativt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att det finns möjlighet att ladda sin elbil är bra och att kommunen har detta med sig vid kommande nyproduktioner i kommunalregi samt vid markarbeten på parkeringsytor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste kunna ta hand om de flyktingar vi tar emot och som det ser ut idag båda regionalt som nationellt så har vi inte lyckats med detta. Det måste bli en bättre fördelning på vart flyktingar placeras när de kommer till Sverige.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna att alternativet med privata företag finns i kommunen men att huvudfördelningen är att det är kommunen som bedriver merparten utav skolverksamheten i kommunen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": "Osby har idag ett kulturliv med många olika evenemang under året men vi kan alltid göra lite mer. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1950",
+          "1949",
+          "1947"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;C;A;C;A;B;D;A;C;C;C;2/5;3/5;[1950,1949,1947]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Som enskilt parti så strävar man alltid efter egen majoritet i samtliga val.\r\nI det fall vi inte uppnår detta så tittar vi på att samarbeta med de partier som tänker/tycker som vi. Idag är detta Centerpartiet, Kristdemokraterna samt Liberalerna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna och Vänsterpartiet ligger för långt isär från oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning på utbildningen",
+        "description": "Vi kommer att verka för att se till att skapa en bra lärmiljö för våra barn i skolan.\r\nDet är av yttersta vikt att de får den bästa lärmiljön som går för att vi ska nå målen med att samtliga elever ska uppnå gymnasiebehörighet efter 9 år i grundskolan."
+      },
+      {
+        "category": "Ett tryggt åldrande",
+        "description": "Vi vill se att det byggs fler bostäder som är anpassade för äldre då fler och fler bor i sina egna hem längre. Det gäller bland annat trygghetsbostäder, marklägenheter, Handikappanpassade hyresrätter osv. \r\nVi vill även säkerställa att samtlig personal inom äldrevården kan bra svenska för att kunna kommunicera med våra äldre."
+      },
+      {
+        "category": "Stark och stabil ekonomi",
+        "description": "Vi vill se en sänkning utav kommunalskatten så att man får behålla mer utav sin lön. Får man ordning och reda på kommunens prioriteringar så stärker vi ekonomin. Investeringar måste planeras på längre sikt och med en realistisk genomförandeplan för att undvika onödiga kostnader."
+      }
+    ],
+    "motivateVote": "Vi vill verka för en trygg och trivsam kommun. Vi vill att hela kommunen ska leva, både centralort som landsbygd. Vi kommer att prioritera ordning och reda i kommunen. En stabil ekonomi kan möjliggöra att sänka skatten och låta invånarna behålla mer utav sin lön. Vi kommer även verka för att alla ska känna sig trygga att leva i Osby kommun genom livets alla skeenden.",
+    "name": "Moderaterna Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-osby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1340",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med den nya läroplanen för förskolan kommer det i framtiden att vara svårt att erbjuda denna barnomsorgsformer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsfrågan för äldre är viktig men kan lösas på annat sätt än genom skattehöjning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska ha samma ansvar och skyldigheter som den kommunala skolan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill prioritera en mer klimatvänlig kost, men det måste inte ske på detta sätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ansvar för att helheten fungerar, även i de fall det inte finns privata alternativ som tillgodoser alla behov. Därför måste det ibland finnas både offentliga och privata alternativ.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": "På sikt vill vi socialdemokrater korta arbetstiden till 6 timmar för alla yrken.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid behov ska kommunala folkomröstningar kunna hållas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna prata svenska. Ibland är ett arbete en bra väg att lära sig språket. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostad är en rättighet och bostadsförsörjning är ett kommunalt ansvar. Naturligtvis måste alla ha råd att betala sin hyra. Hyrorna ska därför inte vara högre än nödvändigt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett att LOV (lagen om valfrihet) inte höjer kvalitén men försämrar den kommunala ekonomin och våra förutsättningar att organisera äldreomsorgen på ett bra sätt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver bygga ut laddinfrastrukturen i samarbete med andra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att alla kommuner hjälps åt är en förutsättning för en lyckad integration.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver öka utbudet av kultur för att vara en attraktiv boendekommun.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1945",
+          "1946",
+          "1947"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;A;D;C;C;D;A;D;A;2/5;3/5;[1945,1946,1947]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "En tydlig majoritet och stabilt samarbete är det bästa för Osby kommun",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla stödet till de som vårdar en anhörig.",
+        "description": "Att vårda en anhörig i hemmet är ibland ett tungt arbete. Vi vill ge mer och bättre stöd för att öka livskvalitén för äldre människor som tar ett stort ansvar. Stödet ska utvecklas i nära samarbete med de som ska ta ta emot det."
+      },
+      {
+        "category": "Bättre stöd till barn med särskilda behov så att alla elever når målen.",
+        "description": "Vi vill avsätta mer resurser till barn- och elevhälsan samt utveckla en bredare kompetens när det gäller att möta barn med särskilda behov i skolan. Att alla barn mår bra i skolan och lär sig det de ska är en viktig förutsättning för att samhället ska fungera bra i framtiden."
+      },
+      {
+        "category": "Mer resurser till kost och måltider i den kommunala organisationen.",
+        "description": "Kosten är en viktig del av livet, såväl inom äldreomsorgen som skolan. Vi vill utveckla kvalitén och därför avsätta mer resurser när priserna på mat höjs."
+      }
+    ],
+    "motivateVote": "För att styra en kommun räcker det inte att ha bra idéer. Välfärden är en komplex verksamhet som ständigt måste utvecklas och anpassas efter nya förutsättningar. Vi vill bygga samhället starkt och hållbart, med erfarenhet och kompetens. Vi värnar det demokratiska samtalet och respekten mellan politiker.",
+    "name": "Socialdemokraterna Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-osby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1341",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör ha denna valmöjlighet. Alla barn behöver kunna utvecklas i sin egen takt. Det är inte alla barn som passar i storgrupper utan kan behöva denna valmöjlighet för att kunna utvecklas .",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Sverigedemokraterna vill inte höja skatten. Däremot vill vi se över kommunens omkostnader och omfördela. det finns säkerligen en hel del man kan spara in på och lägga på våra äldre och barn.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skulle vara bekymmersamt om man tvingar fram att man måste ta emot några elever överhuvudtaget. Man kanske inte har ekonomi/kapacitet att tillgodose elevernas samt lärarnas behov.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför skall man ta bort möjligheten för dom som vill äta kött samt fisk.\r\nidag salladsbuffé samt vegetariskt alternativ.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte driva verksamhet enligt dom givna exempel. Vi värnar on vårt näringsliv.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett ganska bra förslag. på detta sätt kanske man har möjlighet att plocka bort delade turer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi har idag inte haft några folkomröstningar. Det kan vara bra om det finns ett behov om beslutet är av stor vikt för invånarna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta borde vara genomfört och en självklarhet.för alla att det är av stor vikt för patientsäkerheten och deras trygghet. Det borde även göras språktest för befintlig personal.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett initiativ då kommunens invånare om det finns prisvärda bostäder.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med valmöjligheter förhoppningsvis så höjer konkurrensen även kvaliteten på äldrevården.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag elbrist och infrastrukturen tillåter inte dagsläget utbyggnad av detta. Tillåter därför inte detta i dagsläget.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte att vi skall ta emot några alls . vi istället ha nya invånare som bidrar positivt till vårt skatteunderlag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": "Det kan vara bra med valmöjligheter för elevernas utveckling.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": " Vi tycker att det skall finnas kultur för dom som är intresserade. Men vi skulle vilja se att kulturen finansierar sig själv i högre grad.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1953",
+          "1950",
+          "1947"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A!;A;A!;C!;C;C;D!;D!;D!;A;D!;3/5!;1/5;[1953,1950,1947]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns det säkert men vi har inget kongkret att komma med just nu. Vi för en politik som vi tycker gynnar just vår kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Efter valet så ser vi ju helst att vi kan styra med egen majoritet. Men vi kan naturligtvis samarbeta med alla partier om vår politik får genomslag.vi är skyldiga våra väljare att föra vår egen politik .",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Så länge det är vår politik som förs så nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre ordning på kommunens ekonomi ",
+        "description": "Vi vill se bättre ordning på kommunens ekonomi. Har man bra ordning på ekonomin så är det en grundplåt till förbättringar."
+      },
+      {
+        "category": "Förbättra skolresultaten",
+        "description": "Vi vill se bättre resultat in skolan."
+      },
+      {
+        "category": "Näringslivet ",
+        "description": "Vi vill se att företagen får rätt förutsättningar att kunna etablera sig, samt utveckla sig i Osby Kommun."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna i Osby vill att vi skall hushålla med skattebetalarnas pengar och prioritera trygghet, vård, skola och omsorg.\r\nGör din plikt kräv din rätt i den ordningen skall det ske.",
+    "name": "Sverigedemokraterna Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-osby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1342",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2f797eb5e41899697d14f8bddf0147f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte alla barn som fungerar i större grupper utan behöver vara i det lilla (funktionshinder)",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4afc27d3b93aefd0f12e778926a5f946",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs nya bostäder för alla och att det äldre beståndet behöver renoveras/moderniseras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dbc73801174b49f7b2ff696c8a5e9a44",
+        "questionType": "PROPOSITION",
+        "reasoning": "alla skolor ska vara öppna för alla ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "17cbe28b45652f405fb66727289dc17d",
+        "questionType": "PROPOSITION",
+        "reasoning": "barn som växer behöver bra mat från hela kostcirkeln och de behöver fett/proteiner för att växa och orka med skolan ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3f6c59af1443e5c24219b13b4082c7a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi behöver olika företag privata som kommunala. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "42f3fceb4e44d357e2f8409babc0cc40",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs bättre arbetstider, schema och att man kan jobba 80% med full lön. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc288b584f7155028f943f6dc9100d30",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi har inte behövt göra det (inte än men man vet aldrig)",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "30245493eb9f8360b559aab0573cfed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att klara ett jobb särskilt inom sjukvården där det är viktigt att man förstår talat och det skrivna. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "21eac3142640bf03e349c58065383412",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi behöver fler bra billiga lägenheter, då många ungdomar inte kan flytta hemifrån och även att det finns bostäder för alla. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4b3d921a450041f4a9cb276eb8a31909",
+        "questionType": "PROPOSITION",
+        "reasoning": "risken ökar för att privata vill öka sina vinster utan att tänka på de äldre och sin personal. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "94973d19ca8c8b7fa3c7ff55906bb5c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "visst det är bra om det finns fler stolpar, men det är nog bäst att det finns någon som kan köpa en elbil. Tror att det inte kommer att lösa våra miljöproblem. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "1307de0a0db3899f858f07265d43090b",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi måste ta emot vår kvot av flyktingar som är på flykt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "840284cc524848b30531763365411f7b",
+        "questionType": "RANGE",
+        "reasoning": "Det är staten och kommunen som ska driva skolan, inte privata med vinstintressen och som ska göra försämringar i lagstadgad utbildning. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "9297c3fe2dddececf94b0830611552a6",
+        "questionType": "RANGE",
+        "reasoning": "Det behövs bra kultur i vårt samhälle ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8cf15a3fb760ee7ca3b6d78aa84fde73",
+        "questionType": "PRIORITY",
+        "reasoning": "1 behövs mer peronal",
+        "value": [
+          "1948"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C!;D;B!;B!;D!;C;C!;D!;A!;C;B!;0/5!;2/5!;[1948]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "kanske det som har med lantbruk och jordbruk att göra. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "att socialdemokraterna och Vänsterpartiet ska kämpa för ett bra samhälle, med bra demokratisk värderingar. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och Moderaterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård och omsorg ",
+        "description": "Se över vården i vår kommun och anställa mer personal på våra boenden/hemtjänsten. 6 timmars arbetsdag och bättre scheman/löner."
+      },
+      {
+        "category": "Förskolan och skolan ",
+        "description": "Se till att bemanningen på våra skolor och förskolor är tillräcklig. Höja kompetens och löner."
+      },
+      {
+        "category": "Företag hur får vi hit fler?",
+        "description": "Göra vår kommun attraktiv för företagarna och Göra mer plats till byggnation."
+      }
+    ],
+    "motivateVote": "för att vi vill se till den som inte har så mycket, pensionärer och lever på existensminimum. Värnar om skolan och äldreomsorgen. ",
+    "name": "Vänsterpartiet Osby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-osby"
+  }
+]

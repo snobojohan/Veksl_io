@@ -1,0 +1,1355 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "61",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget som kommunen ska lägga pengar på iallafall. Men om någon annan intressent skulle vilja det, så säger vi inte nej. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. Ska istället finnas möjligheten att välja.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar om den representativa demokratin, där väljare har valt oss. \r\n\r\nKostar också väldigt mycket pengar att anordna folkomröstningar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut! Otroligt viktigt med valfriheten och mångfalden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har alla ett ansvar! ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "794",
+          "799",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D!;B;A;A;A;C;D;A;D;C;A;4/5;2/5;1/5;[794,799,798]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet går till val som enskilt parti, men huvudfokus att få ut så mycket av våran politik i ett framtida samarbete. \r\n\r\nMen vi tycker att tiden är inne för ett maktskifte. Det vore bra för kommunen, efter många år av S-styre. Därför ligger de andra borgerliga partierna oss nära till hands, då vi länge haft en gott samarbete mellan varandra. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "säkra vägar till och från busshållplatserna ute på landsbygden i kommunen.",
+        "description": "Föräldrar på landsbygden ska kunna vara lugna och känna sig trygg med att sitt barn tar sig till busshållplatsen säkert. Därför vill vi att kommunen tar fram en plan för att se över vägar ute i hela kommunen."
+      },
+      {
+        "category": "Servicepunkter ute i kommunens mindre orter",
+        "description": "För en likvärdig kommunal service i hela kommunen, så vill vi att det ska finns servicepunkter runt om i kommunen. Det finns till för företagare och invånare. På servicepunkterna ska det finnas kommunala tjänstepersoner."
+      },
+      {
+        "category": "Strandpromenad i hamnen ",
+        "description": "För att hamnen ska kunna bli en plats för alla, så vill vi se en strandpromenad.  Där människor i alla åldrar ska kunna gå och umgås."
+      }
+    ],
+    "motivateVote": "Vi är det gröna, liberala och borgerliga partiet i Arvika. Vi vill att hela kommunen ska leva, därför jobbar vi med att utveckla hela kommunen. Vi vill jobba för ett grönt Arvika, vi ska vara en miljökommun i toppklass. Vi vill även starkt förbättra företagsklimatet i kommunen. Utan företagen har vi ingen grund. ",
+    "name": "Centerpartiet Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-arvika"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "62",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "801",
+          "794",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;B;A;B;B;C;B;B;D!;B;B;3/5;1/5;1/5;[801,794,798]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser ett naturligt samarbete med allianspartierna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi talar med alla partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygd",
+        "description": "Vi vill att HELA Arvika ska leva. Vi värnar landsbygden och dess service. Med skolor, vägar och andra servicepunkter. Landsbygden behövs för att staden ska leva. Civilsamhället och föreningslivet behöver stöttas, de gör ett ovärderligt arbete för hela samhället."
+      },
+      {
+        "category": "Vård & Äldreomsorg",
+        "description": "Äldreomsorgen är en viktig fråga för oss. Vi ser en akut personalbrist och även brist på platser på äldreboenden. Vi vill bygga ett trygghetsboende i Arvika. Vi måste även jobba förebyggande med folkhälsan för alla kommuninvånare."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Vi vill att alla ska känna sig trygga i kommunen. Det är viktigt att polisen kommer när det behövs. Men trygghet är ett stort begrepp som kan handla om så mycket. Att tillhöra en gemenskap och inte känna sig ensam är viktigt. På landsbygden kan tryggheten handla om att ha gatubelysning, att posten kommer eller att byskolan och lanthandel får finnas kvar."
+      }
+    ],
+    "motivateVote": "För att vi är ett parti för vanligt folk. Vi ser verkliga problem och vill lösa dem. Vi vill att hela kommunen ska leva och prioriterar vård och äldreomsorg. Kärnverksamheten är viktig. Alla ska kunna känna sig trygga.",
+    "name": "Kristdemokraterna Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-arvika"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "63",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika står upp för offentlighetsprincipen och att människor ska ha insyn i kommunala verksamheter. Det finns dock stöd i lagen för en låg administrativ avgift om någon på distans begär ut en stor mängd handlingar. Detta är rimligt. Människor kan fortfarande begära ut och läsa handlingar gratis på plats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika har lyft denna fråga. Det är en bra idé att anlägga en strandpromenad i kommunens fina hamn. Det är en bra grund för utveckling av hamnområdet, för att skapa ett attraktivt centrum. Gärna kombinerat med en utomhusbassäng för bad! ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är Liberalerna i Arvika som föreslagit att bygga ett kulturhus i hamnen i Arvika. Vi kämpade för utbyggnaden av Ritz och det här ser vi som ett komplement. Kulturstaden och -kommunen Arvika behöver fler scener för teater och klassisk musik. Det är ett sätt att utveckla hamnen och är klokt med tanke på närheten till Musikhögskolan Ingesund. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika står för valfrihet och vill inte politiskt detaljstyra matsedeln. Dessutom är vi en landsbygdskommun där köttbönder gynnas av kött på matsedeln. Det ska dock finnas ett stort utbud av icke-kött i skolmatsalen, vilket är bra för klimatet och hälsan. Det är också en valfrihet!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika har förståelse för att äldreomsorgen innehåller krävande arbetsuppgifter. Det kan finnas fördelar med kortare arbetsdag och bibehållen lön, men med tanke på personalbrist är det svårt att se hur det ska gå ihop. Det kan dessutom påverka kvaliteten för omsorgstagarna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika är mot de flesta kommunala folkomröstningar. Sverige är en representativ demokrati, där folkvalda politiker fattar beslut baserat på väljarnas påverkan och på underlag från tjänstepersoner. Vi har val vart fjärde år och då väljs de politiker som ska fatta de olika besluten som dyker upp under kommande mandatperiod.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är Liberalerna i Arvika som föreslagit språkkrav vid nyanställning inom vård och omsorg samt inom förskolan. Det är en trygghet för omsorgstagare att kunna förstå personalen och att personalen förstår dem. Det är också en kvalitetsfråga, då utvärderingar har visat att en brist i hanteringen av pandemin var språkliga brister hos personalen. Dessutom är det en viktig integrationsfråga!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjligheten finns för friskolor att använda sig av en särskild kvot för nyanlända. Få skolor har dock använt sig av den kvoten. Idag är antalet nyanlända barn i skolåldern betydligt lägre, men det finns fortfarande behov av att motverka att nyanlända elever ansamlas på några få skolor. Med anledning av det vill Liberalerna att alla skolor, så väl fristående som kommunala, ska ha en kvot.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arvika kommun upplever inte samma bostadsbrist som andra kommuner. Liberalerna i Arvika stöttar dock att kommunen ska bygga nya bostäder, men att bygget ska ske efter behov och skapa flyttkedjor, vilket kräver ett varierat utbud. Just billiga hyreslägenheter kanske inte är rätt för tillfället.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika gillar valfrihet, särskilt om det byggs trygghetsboenden. Det offentliga står inte alltid för det största utbudet eller det bästa innehållet, därför behövs fler aktörer. Det rödgröna majoritetsstyret i Arvika är dessutom alldeles för långsamma i att bemöta det faktum att kommunen har en åldrande befolkning som vill kunna påverka hur de ska leva när de blir äldre. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika går till val på att bland annat utveckla miljön i kommunen och göra vår del för att kämpa mot klimathotet. En del av detta är att vi vill se en satsnings på publika laddstolpar för elbilar. Det måste bli mer attraktivt att köpa en elbil, oavsett om du bor i centrum eller kör in från utanför centralorten. Liberalerna nationellt ville satsa tre miljarder på laddstolpar. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna i Arvika anser att det måste vara ordning och reda i Sveriges migrations- och asylpolitik. Det är inte en kommunal fråga och alla kommuner måste bidra och ingen ska kunna säga nej. Det bör dock finnas en dialog mellan kommunerna och länsstyrelserna och Migrationsverket om mottagandet för varje kommun med utrymme för anpassningar, framför allt för flyktingarnas skull.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna i Arvika är nöjda med kommunens skolorganisation, även om vår viktigaste valfråga är att utveckla skolan på olika sätt. Vi har en fristående högstadieskola och ett fristående gymnasium i kommunen. Dessa är av hög kvalitet och bidrar till valfrihet. Det duger för kommunen med tanke på elevunderlaget.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna i Arvika är kommunens kulturparti. Arvika är en kulturstad och -kommun där mycket mer pengar borde läggas på kulturen för att stödja den. Vi vill bygga ett kulturhus i hamnen, att kommunen följer enprocentregeln om konstnärlig utsmyckning vid nybyggnation och vi vill finansiera ett kulturmiljöprogram för hela kommunen. Det sista var en liberal motion som fick bifall.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna i Arvika anser att lägre skatt är ett steg i rätt riktning. Det är en frihetsfråga att få behålla så mycket av sina egna pengar själv och att du är bäst lämpad att bestämma över dessa. Vi är dock medvetna om att kommunal service och kommunala satsningar kostar. Vi vill därför ha råd med kärnverksamheter med hög kvalitet och med att utveckla Arvika till möjligheternas kommun - för alla.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": "Liberalerna i Arvika är partiet som skrivit motioner i och lyft dessa frågor på olika sätt. Anpassat centrum efter att vi fick signaler om att människor väljer bort centrum på grund av detta. I skolan vill vi satsa på särskilt stöd för att fler ska bli godkända och på särskilt begåvade elever för att de ska nå nya höjder. Arvika har flest antal elever per skolsköterska i länet och det håller inte.",
+        "value": [
+          "801",
+          "795",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D;D!;B;B;A;D!;D;B;D;D;B;2/5;4/5!;1/5;[801,795,798]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalerna i Arvika skiljer sig från Liberalerna i det att vi uttryckligen vill bygga järnvägen Oslo-Sthlm 2.55. Vi stöttar också att kommuner och regioner ska kompenseras om de exempelvis säger ja till vindkraft. Liberalerna gillar uppluckrat strandskydd, men vi gillar det ännu mer.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna i Arvika vill se ett maktskifte till Alliansen i Arvika efter valet. I Alliansen vill vi att Liberalerna ska bli så stora som möjligt och helst störst. Socialdemokraterna och den rödgröna majoriteten har styrt kommunen för länge och utvecklingen går långsamt eller åt fel håll. Det behövs ett nytt ledarskap som utvecklar Arvika snabbare och vänder utvecklingen där det går åt fel håll.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. Vi är för olika ideologiskt och sakpolitiskt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla skolan med mer särskilt stöd, fler läromedel och fler skolsköterskor!",
+        "description": "Utbildning ger makt att hitta vägen i livet oavsett hur starten såg ut. En avslutad skolgång och fullständiga betyg är den största skyddsfaktorn mot ohälsa och mot insatser från samhället senare i livet. Skolan ska vara stimulerande och glädjefull. Vi vill utveckla skolan genom att satsa på mer särskilt stöd, mer ledning och stimulans för särskilt begåvade, fler läromedel och fler skolsköterskor."
+      },
+      {
+        "category": "Högre kvalitet och mer valfrihet i äldreomsorgen. Bort med åldersdiskriminering!",
+        "description": "Pandemin satte fokus på bristerna i äldreomsorgen. Nu måste vi göra bättre! Stimulera personalen till fortsatt utbildning. Alla ska tala och förstå svenska. Inför fast omsorgskontakt för alla. Du ska som äldre bestämma mer hur just du vill ha det. Trygghetsboenden måste byggas. Vi måste ta bättre vara på äldres kompetens och arbetsförmåga. Bort med åldersdiskrimineringen! Den har vi inte råd med."
+      },
+      {
+        "category": "Utveckla staden Arvika med kultur och miljö och anpassa för funktionsnedsatta!",
+        "description": "I pandemins kölvatten föreslår vi en levande stadskärna och utveckling av staden Arvika. Vi vill ha attraktiva tjänster (gratis wifi) och aktiviteter (trivselkvällar och natur- och utomhusgym), anpassningar för funktionsnedsatta i centrum, bilfritt bredvid torget mot luftföroreningar, fler laddstolpar för elbilar. Bygg ett höghus i trä och ett kulturhus i hamnen. Det behövs i kulturstaden Arvika!"
+      }
+    ],
+    "motivateVote": "Om du anser att varenda människa ska ha möjlighet att bestämma över sitt eget liv och jobba hårt för att uppfylla sina drömmar ska du rösta på oss. Hela Sverige ska vara möjligheternas land, för alla. Arvika ska vara möjligheternas kommun, för alla. ",
+    "name": "Liberalerna Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-arvika"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "64",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "En utskrivningskostnad likt den på bibliotek kan dock vara försvarbart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till konceptet allmän strandpromenad och ser gärna att möjligheterna utreds.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till konceptet men är tveksamma till hur något sådant skulle finansieras och drivas på ett bra sätt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttproduktionen är en av de stora utsläpparna av växthusgas, och ska vi klara Parisavtalet behöver konsumtionen minska. Vi står bakom tanken \r\n”mindre kött - bättre kött”. Med två köttfria skoldagar i veckan vill vi se till att det kött som serveras är svenskt och ekologiskt samt håller hög kvalité och följer svensk lagstiftning kring djurhållning.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstidsförkortning kan vara en väg till ett ökat välmående bland kommunalt anställda. Med den stress, den stora arbetsbelastning och de höga sjuktal som vi ser inom den allt viktigare äldreomsorgen är vi positiva till att det är just i denna sektor som konceptet arbetstidsförkortning skulle introduceras först.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konceptet direktdemokrati, där folkomröstning är en grundläggande del, är bra om det används på rätt sätt. Det kräver dock stora resurser, såväl ekonomiska som organisatoriska, och därför ser vi helst att kommunala folkomröstningar används sparsamt och endast i sådana fall där den representativa demokratin inte kan anses räcka till för att fatta ett beslut.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är något som redan görs inom kommunen. Till skillnad från språkkrav för exempelvis svenskt medborgarskap så är förmågan att göra sig förstådd genom det svenska språket en grundförutsättning för arbetet inom hemtjänst och äldreomsorg. Ett sådant krav är lika självklart som att kräva att taxichaufförer har körkort.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det nuvarande, enhetliga systemet för skolpeng ser ut som det gör bör även verksamma friskolor har samma skyldigheter som de kommunala.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Boendesituationen i t.ex. Stockholms stad visar vilken viktig roll kommunerna har i tillhandahållet av billiga hyreslägenheter. Arvika kommun ligger i nuläget bra till på den fronten, men en hög beredskap med stor handlingskraft är grundläggande för att säkerställa ett fortsatt säkert bostadsklimat och för en garanti att motverka hemlöshet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arvika kommun tillåter redan privata företag att driva exempelvis hemtjänst enligt lagen om valfrihet (LOV), även om det är kommunala biståndshandläggare som bedömer brukarens behov eftersom kommunen betalar hälften av kostnaden. Detta ser vi som ett bra system som möjliggjör privat företagande inom sektorn på ett reglerat sätt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgängligheten till laddstolpar är en viktig del i omställningen till fossilfritt, och självklart ska kommunen göra sin del för att underlätta. Dessutom ser det kommunala fastighetsbolaget redan nu över möjligheterna för att förbereda för laddstolpar på sina hyresgästers parkeringar när det behovet kommer.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Erfarenheter från flyktingkrisen 2015 där vissa svenska kommuner, såväl som hela EU-länder, vägrade ta emot flyktingar visar hur viktigt det är att alla tar sitt ansvar och gör sin beskärda del av arbetet för att undvika kollaps annorstädes. Skulle en kommun ha viljan och möjligheterna att ta emot fler än vad som har tilldelats dem bör dock vara ok. En nära kontakt med Migrationsverket är A och O.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": "Den stora frågan är inte hur mycket, utan på vilket sätt. Vi vill se en differentierad skolpeng där vinstdrivande företag inte ska kunna kräva lika mycket som de betydligt mer kravbelagda kommunala skolorna. Vi önskar även ett förnuftigt vinsttak på privata skolverksamheter. Så som de idédrivna friskolorna drivs idag ser vi inga problem, och dessa får gärna öka i antal där det är möjligt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en enormt viktig del i ett aktivt och levande demokratiskt samhälle. Arvika har ett brett och mångskiftande kulturliv, speciellt för en så liten kommun, och så vill vi att det ska förbli.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": "”En slösad skattekrona är en stöld från folket” ska Gustav Möller ha sagt. Det är dock viktigt att inte vara dumsnål. Arvika kommun har ett stort antal verksamheter såväl som ett ansvar att gå före och leda vägen för exempelvis klimatomställningen. Men omständigheterna förändras med tiden, och på samma sätt kommer skattesatsen att behöva förändras. Kommunens ekonomi ska gå runt, inte gå med vinst.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "796",
+          "794",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;C;B;D!;D!;B;C;D;D!;C;D!;A!;2/5;2/5!;2/5;[796,794,798]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte i några frågor som påverkar den kommunala verksamheten.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi finner att det nuvarande samarbetet mellan Miljöpartiet, Vänsterpartiet och Socialdemokraterna fungerar bra och ser gärna att detta fortsätter även under nästa mandatperiod. Vi är dock öppna för nya samarbetskonstellationer om så skulle krävas.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna. Övriga partier är vi öppna för att förhandla med.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer kontinuitetsskogsbruk",
+        "description": "Vi vill skydda den biologiska mångfalden. Detta gör vi bland annat genom att arbeta för mer kontinuitetsskogsbruk, alltså skogsbruk utan kalhyggen, i kommunalt ägda skogar."
+      },
+      {
+        "category": "Mer förnybart i tanken",
+        "description": "Vi vill minska vår negativa påverkan på naturen och klimatet. Detta gör vi bland annat genom att arbeta för en utfasning av fossila bränslen och en övergång till mer förnyelsebart inom den kommunala verksamheten."
+      },
+      {
+        "category": "Mer jämställdhet",
+        "description": "Vi vill inte att våra invånare ska diskrimineras eller bli negativt påverkade på grund av exempelvis sitt kön. Detta arbetar vi kontinuerligt med genom motioner såsom att införa gratis mensskydd i samtliga kommunala grundskolor som en av de tillgängliga sanitetsprodukterna."
+      }
+    ],
+    "motivateVote": "I en värld som hotas av klimatförändringar kämpar vi för ett Arvika som tar ansvar.\r\nI ett samhälle med ökande klyftor kämpar vi för ett Arvika som står för jämlikhet, jämställdhet och mångfald.\r\nI en kommun med mycket skog och utmaningar kring mående kämpar vi för ett Arvika som står upp för miljön och arbetar för invånarnas välbefinnande. I dessa frågor måste kommunen kunna vara i framkant.",
+    "name": "Miljöpartiet Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-arvika"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "65",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man som medborgare använder rättigheten att få ut allmänna handlingar på ett sunt sätt så är det inget problem. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hamnområdet i stort är viktigt för att skapa attraktiva bostäder i, då får vi fart på inflyttning och flyttkedjan så det frigörs hus för familjer istället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi gjorde en stor satsning på RITZ härom året och Musikhögskolan Ingesund har också fina lokaler.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn och unga behöver en varierad kost. Att sätta gränser ska inte behövas om variationen är stor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har gjorts på prov inom regionen och skulle kunna testas även inom kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns det en tydlig kommunikation och dialog med medborgarna så ska det inte behövas. En folkomröstning är \"bara\" vägledande och är mycket kostsam. Men ett bra verktyg om man verkligen behöver.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man kan använda sig av provanställning tills språkkravet uppnåtts, det är viktigt att komma in i arbete så snart det går. Att kunna förstå och göra sig förstådd, men perfekt svenska är inget mål.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att blanda i alla skolor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste i så fall vara delfinansierat från staten, det är svårt att bygga \"billigt\".  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då finns möjlighet även för arbetstagare att välja arbetsgivare. Vi måste så klart se till att det är en etablerad och seriös aktör.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även här behövs delfinansiering från staten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att fördela till alla kommuner är bra, annars blir det lätt att vissa kommuner säger nej.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt att det finns valmöjligheter även inom skolan, det blir mer anpassat utifrån elevens intressen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": "Varje skattekrona ska användas så effektivt som möjligt och vi har ett mål att inte ligga högre än medel i Sverige. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "794",
+          "799",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D!;B;B;C;B;C;C;B;D!;C;B;3/5!;2/5;1/5!;[794,799,798]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kan inte komma på något just nu...",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Borgligt styre vore bra för Arvikas utveckling. Det har bara varit borgligt styre en gång och det var 1977-1979. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill helst styra med C, L och KD men valutgången avgör slutgiltigt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättra näringslivsklimatet",
+        "description": "Kommunen behöver bli mycket bättre på att lyssna in våra företagares behov och bli möjliggörare för bästa möjliga utveckling."
+      },
+      {
+        "category": "Landsbygden",
+        "description": "Om vi ska bli mer självförsörjande måste det också gå att bo och leva på landsbygden, då behövs viss nivå av service i form av förskola, skola och nära vård."
+      },
+      {
+        "category": "Miljö",
+        "description": "Alla måste bidra till energiomställningen och i vår kommun har vi goda förutsättningar för att satsa på solenergi. Här har vi både forskning, produktion av solceller och solcellspark."
+      }
+    ],
+    "motivateVote": "Vi vill utveckla Arvika, förbättra näringslivsklimatet och konkurrensutsätta delar av de kommunala verksamheterna för att skapa valfrihet för våra medborgare.",
+    "name": "Moderaterna Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-arvika"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "66",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att det sker med kvalitet och används relevant.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hamnen ska utvecklas i nära samarbete med arvikaborna och ge ett mervärde.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ritz har renoverats och Arvika har mycket fin kultur att stoltsera med.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt ur ett hälso - och miljöperspektiv.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att få mer personal först och främst.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den representativa demokratin är bra. Svårt att få högt valdeltagande och därmed svårt värdera folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med språket för kvaliteten, men också viktigt med åtgärder för att få in folk till arbete inom vården.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med inkludering, men också att det blir bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med hög boendekvalitet och rimlig belastning för skattekollektivet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skatten ska gå till dom äldre, inte till vinster och den kommunala verksamheten sker med demokratisk insyn.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men finansieringen bör ske genom nationell samordning av utbyggnaden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att det finns bostäder och arbetsmarknad för bra integration.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": "Dvs inte alls. Skatten ska gå till eleverna, inte vinster och det ska finnas demokratisk insyn. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": "Kultur ger mycket och behöver komma många till del. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt med bra välfärdsverksamhet. Och med bra företagsklimat. Med många i arbete blir välfärden bra och till rimlig skattesats.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "797",
+          "794",
+          "799"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;C;B;C;C;B;C;C;B;A!;C;B;2/5;3/5;2/5;[797,794,799]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi försöker få partiet centralt att se dom viktiga infrastruktursatsningar vi ser utifrån vårt läge.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokratiskt ledd kommun med ett eller två samarbetspartier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja. Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på vård, skola, omsorg ",
+        "description": "Behålla den demokratiska kontrollen och stoppa privatisering. Arvika ska vara en skolkommun och en bra kommun för dom äldre som behöver omsorg."
+      },
+      {
+        "category": "Hela Arvika ska utvecklas",
+        "description": "Bredbandsutbyggnaden ska följas upp med satsningar på föreningsliv och servicepunkter i alla Arvikas subcentra.  Välfärden ska finnas nära."
+      },
+      {
+        "category": "Arvika ska ha ledartröja i klimatomställningen ",
+        "description": "Vi satsar på Solceller, vattenkraft , bioekonomi och innovationer i syfte att  minska klimatavtryck och visa ledarskap. Vi ska vara en robust kommun som har beredskap och motståndskraft mot extremväder och översvämningar."
+      }
+    ],
+    "motivateVote": "Vi vill behålla den demokratiska kontrollen över välfärden, prioritera välfärden, och undvika att det tillåts göra stora vinstuttag på vår gemensamt finansierade välfärd. Med välfärd menar vi barnomsorg, skola, vård, omsorg och kommunal infrastruktur som t. ex vägar, vatten och avlopp. Det ska fungera bra i HELA kommunen. Våra subcentra är viktiga nav. ",
+    "name": "Socialdemokraterna Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-arvika"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "67",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så har det alltid varit i Arvika kommun tills nu. Nu har S-styret beslutat att avgifter skall tas ut. Detta motverkar medborgarnas insyn i Arvika kommun och är inte bra för demokratin.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha ett hamnen som rekreationsområde för invånare och besökare där ingår såklart en strandpromenad som delvis redan finns. Inga bostäder skall byggas i hamnen. S-kommunalrådet vill bygga 350 bostäder i hamnen vilket han tidigare garanterat inte skulle gå upp över 100 miljoner kr att färdigställa    för byggnation. I måndags på KF har han ändrat sig till att bara sanera för 200 miljoner kr.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns redan flera lokaler för att utöva kultur i olika former av kultur. Kulturlivet är en viktig och naturlig del av Arvika. Tyvärr har kommunen en av de största skulderna per invånare av Sveriges kommuner. Att betala dessa lån kommer med dagens avbetalningstakt ta upp mot hundra år utan att ta några ytterligare lån.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Proteiner och naturligt fett är viktiga byggstenar i en växande kropp. dessutom är de energi.  Kolhydrater är endast energi. Därmed är det av yttersta vikt att växande kroppar får i sig naturligt fett och proteiner. Kött består av nästan allt våra kroppar behöver bla olika aminosyror, proteiner, och naturligt fett. Yttersta vikt att eleverna har möjlighet att äta sig mätta på kött/ fisk varje dag.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åtta timmars arbetsdag men slopade delade turer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beroende på ärende så skall möjligheten finnas i viktiga specifika frågor att kunna fråga invånarna om deras åsikt som är vägledande för politikerna när de skall fatta beslut.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart skall alla som jobbar inom hemtjänst och äldreomsorg kunna kommunicera med vårdtagarna. Vårdtagarna skall inte belastas med ett integrationsprojekt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den volym på invandring har gjort att skolan utöver lärandet måste lägga oerhört mycket tid och  pengar på integreringen ett problem som skapats under decennier. Det är inte friskolors uppdrag att lägga massa krut/pengar på integrering.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt kommunallagen skall kommunen äga och förvalta bostäder. De har ett socialt ansvar och åtagande. Därmed skall kommunen så gott som det går skapa billiga hyreslägenheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjligheten skall finnas. En effektivare drift av den kommunala verksamheten kan vara bra då med tanke på ineffektiva organisationer. Där finns förbättringar att göras och ett privat alternativ skulle i vissa fall vara en lösning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är väldigt stora investeringar och i flera fall räcker inte befintligt ledningsnät i gatan inte till. Tillhör inte kärnverksamheten.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen är bäst lämpad att se vilken kapacitet den har att ta emot flyktingar och integrera dem. Många kommuner är för många flyktingar endast en mellanstation för att senare söka sig till större städer och platser med mer likasinnade. Integrationen har väldigt stora brister.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": "Det finns idag en friskola i Arvika kommun - Estetiska skolan - som fyller en viktig roll i samhället idag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser inte att det kan satsas  mycket pengar ytterligare på kultur. Kommunen har gett felaktiga bidrag genom åren till kulturföreningar som inte uppfyller kraven på att få föreningsbidrag. Det rör sig om 10 tals miljoner kr.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten skall tillbaka till den lägre nivå den varit för tre år sedan.\r\nDen har höjs närmare en krona varvid kommunen var tvungen att göra en tilläggsbudget under året för att \"göra av\" med överskottet. Bedrövlig hantering av kommunen.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A;A!;A!;C;D!;B;C;C;B;D!;2/5!;2/5!;0/5!;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Mig veterligen inte!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att få till ett nytt majoritetsstyre med SD, M, KD och Arvikapartiet. Om det inte räcker även med hjälp av L.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna, Vänstern och Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett antal åtgärder för att förbättra vård en och omsorgen i kommunen.",
+        "description": "SD har arbetat fram ett eget program på åtgärder för att förbättra vården och omsorgen för vårdtagarna. Med respekt för de behövande kommer vi vara stolta för den vård kommunen ger, från undersköterskor upp till chefer och politiker. Det är vårt mål för vården. Bl.a. slopade delade turer för hemtjänstpersonalen, Att arbetsscheman förändras tillsammans med undersköterskorna så att det finns i all"
+      },
+      {
+        "category": "Lärandet i grundskolan.",
+        "description": "Lärande i grundskolan skall vara kunskapsbaserad och ske med arbetsro i klassrummen, en bra arbetsmiljö både för elever och lärare. Lärarna skall utföra det arbete som de är där för och inte ägna sig åt ordningsfrågor på lektionstid. De få störande eleverna som försvårar lärandet för övriga elever skall placeras i hjälpklass. Där skall de få extra stöd så att de kommer tillbaka till klassen."
+      },
+      {
+        "category": "Vindkraftfri kommun",
+        "description": "Arvika kommun skall förbli en vindkraftfri kommun. Naturen skall förbli orörd från vindkraftparker som har en negativ inverkan på floran och faunan. Risken för att utländska bolag blir ägare till dessa parker är överhängande. SD kommer slåss för kommunens veto skall finnas kvar. Det är inte vindkraft Sverige behöver utan kärnkraft."
+      }
+    ],
+    "motivateVote": "SD är det enda partiet som kämpar oförtrutet för att få bort Socialdemokraterna från det dåliga styret av Arvika kommun, som nu pågått i 50 år. ",
+    "name": "Sverigedemokraterna Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-arvika"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "68",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4d985bb13187265c187ba307011fda9d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser det som viktigt att det är möjligt att få ut kommunala handlingar, men om det är stora mängder krävs det personal som tillhandahåller dessa handlingar. Det gör att det blir nödvändigt att ta ut en administrativ avgift för detta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a5d0288ee45a8743d44ae5faa667c016",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93b18b988b6060fb367b49a733298025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver satsa på kulturen då den är mycket viktig för människors välbefinnande. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7d61f8cd39ba20a06254c70d12886af7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatet kräver detta och vi ser att alla kommunala verksamheter bör servera mer vegetarisk kost. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "378523546ba72b91a68f09b570fa1800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga arbetet inom vård och omsorg är krävande både fysiskt och psykiskt och pandemin visade tydligt att personalen gjorde sitt yttersta till ett högt pris. 6 timmars arbetsdag är framtiden och vi ser att personalen inom VoO behöver gå i framkant för en arbetstidsförkortning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f345175962ebbf102deb49518a4ab442",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ca72cc20abf21782161e116fb292587a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att personal inom vård och omsorg känner stor förtrogenhet med svenska språket men V ser att vi måste satsa på språkombud i verksamheterna för att utveckla språket på arbetsplatsen. Vi vill stötta flerspråkiga att ta sig in i arbetet och att utvecklas i språket under tiden de arbetar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3cf934af1dd4aadedd2fa7c6b303bb33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a0ed7009c60d2bc1725b1300d2557dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med hjälp av statliga medel. Det måste satsas på hyreslägenheter i alla prisklasser så att alla har råd att bo. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8149e8fd1f31b417456ca60c0de150a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är emot vinstdrivande företag. Idéburna företag och kooperativ som vill bedriva en bra verksamhet utan vinstintresse är inte inkluderade i vårt svar men så länge det är tillåtet att ta ut vinst från allmänna medel är V negativa till privatiseringar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "599e182a2383be0b5bc7aaeb75c8cf7e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ff53a961f761822472e454b2a6ed73c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge Migrationsverket finasierar placeringarna ser vi det som positivt. Kommunen har vikande befolkningssiffror och nya svenskar är ett positivt tillskott. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1cd1dd197f2b818902c1e889ffef75cd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c8e22905f709705a708d64633e422771",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "edd07d48e35af93d2d5d604b262f8255",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8100a05ad646c42f62789030ed76306b",
+        "questionType": "PRIORITY",
+        "reasoning": "Stärka elevhälsan\r\nInföra gratis mensskydd i skolan\r\nAnpassa centrum",
+        "value": [
+          "801",
+          "797",
+          "798"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D;D;D;D;C;B;D;D;A;D;A;2/5;3/5;3/5;[801,797,798]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är nöjda med det politiska styret som finns nu och ett starkt V ger mer feministisk, socialistisk och antirasistisk politik på ekologisk grund. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "arbetstidsförkortning ",
+        "description": "Att se över hur man ´kan förbättra arbetsmiljö och arbetsvillkor för anställda inom vård och omsorg."
+      },
+      {
+        "category": "språkombud ",
+        "description": "att införa språkombud i Vård och omsorgs verksamheter för att öka trivseln  på arbetet och tillvarata allas kompetenser"
+      },
+      {
+        "category": "Förstärka elevhälsan ",
+        "description": "För att tidigt upptäcka elever som mår dåligt och kunna hjälpa dem"
+      }
+    ],
+    "motivateVote": "Vi är ett parti som kämpar för jämlikhet och jämställdhet och klimatet. Dessa frågor är i fokus för vår politik. ",
+    "name": "Vänsterpartiet Arvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-arvika"
+  }
+]

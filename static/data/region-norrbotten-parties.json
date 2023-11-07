@@ -1,0 +1,737 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2453",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdavgiften bidrar till förstärkt status vid vårdbesöket. \r\nDet ska finnas möjligheter att jämka/sänka för personer med socioekonomisk utsatthet och det ska vara tydliga regler som underlättar för den med varaktig och komplicerad problematik. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språktest krävs för den som i egna uppgifter jobbar nära patienten och ska innebära möjlighet att göra vårdsatsen begriplig och hanterbar för patienten. \r\nFör viss specialiserad personal kan brister i språket kompenseras av att omvårdnadspersonal avdelas att följa patienten i vårdmötet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barnmorskor kan i sin tjänstgöring erbjudas olika typer av tjänstgöring där deras kompetens tas väl till vara. \r\nFöreslår i stället att förlossningsvården görs mer attraktiv med tjänstgöring som kan kombineras med tex viss öppenvård, möjlighet att följa vissa kvinnor och erbjuda utbildningsinsatser. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": "en statlig styrning av sjukvården skulle orsaka en alltför stor distans till de lokala och regionala förutsättningarna som måste beaktas. \r\nDen roll som staten redan idag har kring styrning och ledning av vårdkvalitet och uppföljning kan utvecklas utan förändrat huvudmannaskap. Den  närhet till ledning och styrning som verksamheterna ofta efterfrågar behöver tillgång till lokal politisk ledning.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": "utvecklas i samverkan med både nationell och lokal ansvarsnivå",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": "Kan bidra med viktiga komplement i ett läge där den offentliga vården har svårt att klara rekrytering och vårdutveckling inom vissa områden. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2089",
+          "2094",
+          "2088"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A;B!;C;B;A!;D;3/5;3/5;2/5;[2089,2094,2088]!",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, vi har goda möjligheter att spela in våra prioriteringar och därmed påverka den samlade politiken för Centerpartiet på riksnivå. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Hoppas på fortsatt möjlighet att jobba i bred mittensamverkan med möjlighet att verka för ett förnyat politiskt ledarskap där kontakten med vårdens företrädare möjliggör ett medvetet och brett ansvarstagande för Region Norrbottens Bästa!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bra vård för alla i hela länet med närhet och tillgänglighet till insatser.",
+        "description": "Alla människor ska ha nära till vården och möjlighet till kontinuitet och fast vårdkontakt, fysiskt eller digitalt.  det ska finnas fler och tillgängliga ambulanser med utvecklat samarbete med räddningstjänsten över länet. En god och tillgänglig tandvård ska finnas i hela länet. Samarbetet i den Nära vården ska utvecklas och prioriteras för individer med varaktiga behov oavsett ålder."
+      },
+      {
+        "category": "Satsning på kvinnors hälsa, förlossnings- och mödravård ",
+        "description": "Vi vill prioritera en trygg förlossningsvård med mer resurser. Det krävs förstärkta insatser till gravida med avstånd till förlossningsklinik. Ingen kvinna ska behöva föda i bilen.  Även Kiruna nya sjukhus ska erbjuda fullvärdig vård. \r\nEftervården vid förlossningsskador måste förbättras och kvinnors sjukdomar samt hälsa måste tas på större allvar bland annat med utökad forskning."
+      },
+      {
+        "category": "Personalen ska trivas i vården, satsa på mer resurser och kompetensutveckling ",
+        "description": "Sjukvården behöver mer resurser och fler händer kring uppdragen.  Vi behöver uppmärksamma ledarskapets utmaningar och ge förutsättning till förtroendefullt ledarskap som tar vara på medarbetarnas engagemang för vården. För att vara en attraktiv ledare och arbetsgivare ska återhämtning, utbildning och kompetensutveckling utgöra faktorer för att behålla och rekrytera personal."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, frihetligt parti med fötterna på jorden. \r\nFler ska få ett jobba att gå till. Stoppa klimatförändringarna. Fler  måste vara med och ta ansvar. Vi satsar på Hälso-och sjukvårdens utveckling, minska köerna, minska risk för nya skattehöjningar, grön omställning, personalens arbetsmiljö, jämställdhet, tillgänglighet till vården och att tryggt kunna leva och bo i hela länet. ",
+    "name": "Centerpartiet Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-norrbotten"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2454",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för kärnkraft med nya modern teknik för att säkra elförsörjningen, men det skall genomföras med god genomlysning och tillståndsprocess som måste gå fort.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har högkostnadsskydd som gör att patientavgiften på totalen blir rimlig för den vård vi levererar. Det är viktigt med en ekonomi i balans för att kunna leverera hög kvalité både på lång och kort sikt",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "All omsorgspersonal ska klara språktest. Däremot så finns det flera specialiteter där det inte är avgörande. Vi behöver kompetens.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att många barnmorskor väljer bort att jobba heltid. Vi behöver utreda i samråd med barnmorskor och fackliga representanter hur vi bäst kan minska belastningen. Allt från flexibla scheman, till längre återhämtning och med vårt förslag om en barnmorska per födande kvinna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag för kostsam kollektivtrafik. Det är viktigt att hushålla med skattebetalarnas pengar. Ökar vi i befolkning som planerna just nu ser ut behöver vi däremot bygga ut",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": "Just n u kan vi inte sänka skatten men det är ett långsiktigt mål.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2087",
+          "2094",
+          "2088"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "C;A;C;C;A;A;2/5;3/5;2/5;[2087,2094,2088]",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill leda Region Norrbotten med partier som driver politik i linje med våra värderingar och idéer.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Personcentrerad vård med förflyttning mot Nära god vård",
+        "description": "Införandet av arbetssättet och tankesättet Nära vård i hela länet. Stärka primärvården som skall vara navet i Hälso - och sjukvården. Skapa förutsättningar för nya arbetssätt där ingen patient hamnar i tomrummet mellan slutenvård, primärvård i egen regi och kommunernas primärvård."
+      },
+      {
+        "category": "Personalpolitik",
+        "description": "Se till att alla personalkategorier inom Hälso- och sjukvård ligger över medianlön i jämförelse med riket. Ge chefer nära verksamheten större beslutsmandat. Förbättra arbetsmiljön genom fler anställda där flexibilitet skall vara vägledande med ett under ifrån och upp perspektiv."
+      },
+      {
+        "category": "Norrbotten för jämställdhet",
+        "description": "En viktig överlevnadsfråga är att vi som län blir mer jämställda och öppna. Därför vill vi genomföra Norrbotten för jämställdhet i samarbete med flera regionala aktörer."
+      }
+    ],
+    "motivateVote": "Vi är garanten för utveckling, valfrihet och tillgänglighet till Hälso-och sjukvården. Vi kan erbjuda ett modernt, inkluderande ledarskap som tar oss in i den framtid där vi som län tar ledartröjan i den gröna omställningen.",
+    "name": "Moderaterna Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-norrbotten"
+  },
+  {
+    "abbreviation": "SJV",
+    "altingetCandidateId": "2455",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står redan nu för en mycket stor del av Sveriges elproduktion. Den är fossilfri. Problemet är tillgången till elproduktion i södra Sverige. Man bör se över möjligheterna till så kallade minireaktorer i det området.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör se över patientavgifterna, som i vissa delar kan anses vara för höga.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att språket är mycket viktigt, men kommunikation kan ske på många sätt. Det finns exempelvis automatiserade översättningsfunktioner. Ibland går man miste om mycket kvalificerad personal på grund av en övertro på språktest.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förkortad arbetstid för barnmorskor och annan sjukvårdspersonal är en modell man måste se över med tanke på arbetsmiljöfrågor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": "En stat utan lokal- eller regional kännedom innebäör alltid centralisering. Den en gång aktuella storregiondebatten visade med all önskvärd tydlighet på detta. Det innebär med säkerhet bara 2 sjukhus i Norrbotten. Däremot kan staten få ta huvudmannaskapet för regionsjukhusen med högre specialiserad vård. Staten har redan idag många riktade stadsbidrag för att styra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte i dagsläget. Det är stora underskott, inte minst beroende på överkapacitet på linjer. Få resenärer och ofta för stora fordon. Mer anropsstyrd trafik behövs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": "Nivån upplevs för låg, men det är mycket beroende på en struktur som inte är optimal. Pendeltågstrafiken har tyvärr inte fallit så väl ut, men kostar mycket. Mer anropsstyrd trafik och mindre fordon behövs.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": "Sjukvården skall vara offentligt skattefinansierad. Vi har idag ett fritt vårdval med hälsocentraler som bedriver ett utmärkt arbete, de bör finnas som alternativ och \"benchmarking\". Vi är inte för att utöka privat driven vård, som exempelvis nätläkarföretag m fl.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": "Dagens nivå är tillräcklig. Den skattehöjning söm genomfördes tidigare (1.16) försvann på några få år och man var tillbaka på ruta 1.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 9,
+    "answersString": "B;C;B;C;B;B;2/5;2/5;2/5;_",
+    "color": "#8c8c8c",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi finns inte på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Ett styre där sjukvårdspartiet är en del av ledningen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Många sjukvårdspartister har svårt för SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utöka vårdplatserna",
+        "description": "Sverige har nått vägs ände när det gäller tillgången på vårdplatser. Vi har lägst antal per capita i OECD länderna och numer ständig vårdplatsbrist. Vi måste säkra tillgången till disponibla vårdplaser och det innebär också säkra tillgpngen till personal. Alla kategorier. Vi behöver fler undersköterskor, sjuksköterskor, läkare, medicinska sekreterare och även biomedicinsla analytiker."
+      },
+      {
+        "category": "Regionens nära vård",
+        "description": "Regionen behöver i nära samarbete med kommunerna se till att vården, särskilt primärvården kommer närmare medborgarna. Det kan ske genom etablering av servficepunkter och filialer runt om i länet. Länet är stort och därför är det en nödvändighet inför framtiden. Vi kommer att behöva fler vårdplatser i kommunerna i anslutning till hälsocentraler. Vi behöver över 100 fler primärvårdsläkare."
+      },
+      {
+        "category": "En översyn av länets förlossningsvård",
+        "description": "Kirunas nya sjukhus måste planeras med utgångspunkt från framtiden i länet. Länet växer i samband med näringslivsutveckling och en ny vårdstruktur,  och särskilt akut- och förlossningsvård måste ses över. Översyn måste ske, innan det nya sjukhuset byggs. Vi ska se till att funktionerna för akutkirurgi ch förlossningsvård måste finnas i det nya sjukhuset. Gyn mottagning måste till redan nu"
+      }
+    ],
+    "motivateVote": "Sjukvårdspartiet prioriterar sjukvården. Vi har höjt lönerna för undersköterskor och sjuksköterskor. Vårdyrken måste omvärderas och prioriteras. Vi har infört en lönestrategi som innebär att ALL hälso- och sjukvårdspersonal skall ha en medianlön som minst motsvarar riksgenomsnittet. Vi måste också bygga ut antalet disponibla vårdplatser. Prmärvården behöver minst 100 fler primärvårdsläkare.",
+    "name": "Sjukvårdspartiet Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sjukvardspartiet-region-norrbotten"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2456",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": "Norrbotten har den förnybara energin i form av vatten- och vindkraft. Det vi behöver är utbyggt kraftnät som räcker till både för våra samhällen, för industrierna, och för export.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vården ska vara bra, jämlik, trygg och tillgänglig. Principen ska vara vård efter behov - inte storlek på plånbok.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdpersonal i Norrbotten ska kunna prata svenska. Däremot är det en stor tillgång med personal som talar mer än ett språk. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste gällande arbetstiderna är att facken får säga sitt, att personalen får fler kollegor och att anställda ges större möjlighet att påverka sina scheman. Förlossningsvården behöver utvecklas, och även arbetet med förlossningsskador och eftervård ska prioriteras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är människorna som bor i Norrbotten som har bäst uppfattning om vilka behov som finns i Norrbotten. Demokratin behöver vara nära folket. Däremot behöver staten ta ansvar för att vården är jämlik i hela landet, trots alla regioners olika förutsättningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken i länet behövs för att vi ska kunna ta oss mellan orter, inte minst för den del av befolkningen som inte har körkort är det en nödvändighet. Buss och tåg kan även bli goda alternativ till bilen för flertalet, bara vi satsar på kollektivtrafiken.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": "Kollektivtrafiken bör vara något som binder samman orterna i vårt län. Den måste gå att lita på, för att bli ett alternativ till bilen för flertalet, och det kräver resurser.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": "Socialdemokraterna vill fokusera på att utveckla den offentliga vården, inte lämna över den till privata bolag vars främsta mål är att gå med vinst. Den demokratiska kontrollen över välfärden måste värnas.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste är hur skattemedlen används. Norrbottningarna ska känna att de pengar de betalar i skatt också ger dem en bra, jämlik, trygg och tillgänglig välfärd.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2087",
+          "2093",
+          "2088"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A;C;C;B;B;C!;3/5;1/5!;2/5;[2087,2093,2088]",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Socialdemokraterna står för ett ledarskap som lyssnar på personalen, och som tillsammans med fackförbund och verksamheter arbetar för en bättre arbetssituation för de anställda inom välfärden. Både för att välfärdens personal ska må bra på jobbet – men också för att de ska få förutsättningar att kunna göra bästa möjliga jobb.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En bättre personalpolitik",
+        "description": "Personalen är grunden för välfärden. Region Norrbotten ska vara en attraktiv arbetsgivare där det ska vara möjligt att utvecklas, ha kollegor och goda arbetsförhållanden. En god arbetsmiljö är en förutsättning för att sjukvården ska kunna rekrytera och få medarbetare att bli kvar inom regionens olika verksamheter."
+      },
+      {
+        "category": "En tillgänglig vård",
+        "description": "Vi vill att den som är i behov har vården tillgänglig och nära. Man ska inte behöva kämpa för att få kontakt med vården och alla som söker vård i Norrbotten ska behandlas jämlikt. Principen ska vara vård efter behov. Vi vill införa en bättre samordning kring vårdbesöken, bättre samverkan mellan sjukhusen och alla hälsocentraler, och utveckla de digitala vägarna till kontakt med vården."
+      },
+      {
+        "category": "Ett attraktivt Norrbotten",
+        "description": "Vi vill göra Norrbotten mer attraktivt att leva och arbeta i. Regionen måste ta ansvar för regional utveckling med alltifrån kollektivtrafik till kultur och fritidsaktiviteter, och för att stärka den allmänna folkhälsan. Detta är viktigt för alla oss som redan bor i Norrbotten, och för alla de vi vill ska flytta hit i samband med den gröna omställningen."
+      }
+    ],
+    "motivateVote": "Socialdemokraternas utgångspunkt är att vi ska ha en stark välfärd under demokratisk kontroll. En välfärd som är bra, jämlik, trygg och tillgänglig. Principen ska vara vård efter behov – inte storlek på plånbok, och att skattemedel ska användas till välfärd – inte gå till vinster för privata företag.",
+    "name": "Socialdemokraterna Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-norrbotten"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2457",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste ta ansvar för omställningen till ett allt elintensivare samhälle.\r\nKärnkraften är en fossilfri och EU klassar kärnkraften som en grön energikälla. Kärnkraftsreaktorerna har förmågan att producera mångfaldigt mer el än vindkraftsverk och inkräktar inte på djur, natur och rekreationsliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag ett högkostnadsskydd inom sjukvården för de som besöker vården ofta. De patientavgifter vi har idag är rimliga i sammanhanget. För äldre kan avgifterna dock slopas helt. Idag betalar äldre över 85 år ingen avgift i öppenvård den gränsen hade kunnat sänkas med minst 10 år.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vården skall inte vara en plats att lära sig språket, det är a och o att alla medarbetare kan kommunicera, bli förstådda och förstås på det svenska språket. Språkbrister kan i värsta fall leda till risker i patientsäkerheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förutsatt att personalresurserna finns kan detta vara önskvärt för att stärka attraktiviteten för region Norrbotten att rekrytera barnmorskor.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett förstatligande av sjukvården där sjukvården får kosta pengar även i glesbygd är ett måste, där personalen tas om hand med samma förutsättningar till grundbemanning oavsett var i landet man verkar. Det är nog också så att sjukvården i glesbygd, i ett län som Norrbotten med ca 250 000 invånare måste få kosta mer än i storstadsregionerna och andra mindre län. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en jämlikhetsfråga att bygga ut kollektivtrafiken i gles-och landsbygd, framförallt med stigande bränslepriser och bristande förståelse kring behovet av bil i glesbygd.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag, men satsningarna skall ses över, på sträckor som trafikeras med buss skall det inte gå tåg annat än undantagsvis då regionen endast får statlig ersättning för ett trafikslag. Bussen har en fördel i att den kan gå in i fler byar och då blir tillgängligare för fler..",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": "Detta är egentligen en fråga för den öppna marknaden att ta ställning till. Så länge privata aktörer vill etablera sig ska de få göra detta men regionen kan aldrig lämna över ansvaret till den privata sektorn.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": "Vår ambition är inte att höja regionskatten utan att effektivisera det regionala systemet så att norrbottningarna får mer vård för pengarna. Sjukvården ska prioriteras framför produktion av popmusik eller film, vi måste återgå till de regionala kärnverksamheterna.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2087",
+          "2093",
+          "2088"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;C;D!;C;D!;D;2/5;2/5;2/5;[2087,2093,2088]!",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi kan tänka oss att styra tillsammans med övriga borgerliga partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En jämlik sjukvård i Norrbotten ",
+        "description": "Det ska inte spela någon roll var i Norrbotten du bor, du ska ha rätt till samma goda vård och du som invånare i inlandet ska inte behöva betala mer för att ta dig till sjukvården. Vi vill decentralisera vården och öka reseersättningar/minska reseavdragen. Vi vill även öppna ungdomsmottagningar i alla kommuner."
+      },
+      {
+        "category": "Lös tandvårdskrisen",
+        "description": "Det ruttnar i munnen på våra norrbottningar, vi vill göra tandvården i länet tillgänglig för alla våra medborgare igen. Vi vill se ökade satsningar på rekrytering av personal till folktandvården och en ökad tillgänglighet inte enbart med akuta tider."
+      },
+      {
+        "category": "Lös energikrisen innan den är här på riktigt",
+        "description": "Vi vill öppna upp för möjligheten att etablera kärnkraft i norra Sverige. Kostnaderna för att värma upp din bostad på vintern ska vara rimlig och vi får inte hamna i ett läge av akut elbrist. De satsningar som föreslås avseende vindkraft kommer på längre sikt inte att vara tillräckliga, vi måste tänka om och tänka framtid."
+      }
+    ],
+    "motivateVote": "Vi står för förändring på riktigt och fokuserar på sakfrågorna i regionen. Viktiga frågor för oss är medarbetarflykten som skett inom regionen de senaste åren, förstärka medarbetarresurserna inom tandvården, psykiatrin och det akuta omhändertagandet. Vi kommer att ta ansvar för en organisation med nöjda medarbetare och nöjda patienter.",
+    "name": "Sverigedemokraterna Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-norrbotten"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2458",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bd24ff779fe43b17129d93e0c7235b21",
+        "questionType": "PROPOSITION",
+        "reasoning": "Risker med kärnkraften är för stora. Sol, vind och vatten skall vara basen i en fossilfri elförsörjning",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "905cfd89d4bffa3cadd47425761552bf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Återställ avgiften till 2019 års nivå så inte ekonomin skall vara ett hinder att söka vård",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19df02de6ecac34d2c3abf818fc9111b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språkkraven idag för tandläkare och läkare som kommer från länder utanför Norden är dock för höga och borde kunna sänkas till högstadiesvenska",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b27c0ac46933dda127b7bb4feb8f0dd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet verkar för arbetstidsförkortning - 6-timmars arbetsdag.\r\nDet måste finnas tid till återhämtning",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa2e6aaf1e4364420e5cc62aa5e57c72",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regional styrning en viktig demokratisk fråga. Behoven ser olika ut i landet och skall kunna lösas regionalt",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "23ad6e50bda22a19d4fda9c2e21bede6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Norrbotten med en 1/4 del av landets yta satsar näst lägst per invånare bland landets regioner. Det borde vara betydligt mer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7716ce22284510ec25efad8023f16978",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8ac574b81d21b5650edf158c4bb473a2",
+        "questionType": "RANGE",
+        "reasoning": "Offentligt finansierad verksamhet skall i huvudsak bedrivas i offentlig regi Inga vinster i bolag skall kunna lämna regionen och verksamheten.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "3916e49fec31796e74b274dd6d62cfe8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "acd96ffbe19b67d1cf2ef6b6a6f909e1",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2087",
+          "2089",
+          "2088"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A;D;C;C;A;D;4/5;0/5;2/5;[2087,2089,2088]!",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jämställd och jämlik vård i hela Norrbotten",
+        "description": "Norrbotten har en vård med utgångspunkt för hela människan – fysiskt, psykiskt och tandvård. För alla, oavsett kön, i hela länet. Regionen har en bred och kvalitativ samverkan med kommunerna. Psykisk hälsa ska vara en del av Nära vård och primärvården ska ha kompetens för att möta den ökade psykiska ohälsan. Höjda avgifter återställs så ingen i Norrbotten avstår från att söka vård p g a  ekonomi."
+      },
+      {
+        "category": "Klimatomställning i Region Norrbotten",
+        "description": "Ge förutsättningar och resurser att arbeta för minskade utsläpp i Region Norrbotten. Konsekvensanalyser angående klimatavtryck i beslutsunderlag. Regionen utvecklar kollektivtrafik och laddinfrastruktur samt verkar för fossilfri transport på järnväg. Regionen samverkar med Norrbottens alla organisationer, kommuner och företag för att möta upp den gröna industrialiseringen i norra Sverige."
+      },
+      {
+        "category": "Region Norrbottens roll som arbetsgivare",
+        "description": "Region Norrbotten har jämställda och jämlika arbetsvillkor för alla personalgrupper. Regionen inför arbetstidsförkortning, dels genom att identifiera verksamheter där 6 timmars arbetsdag kan införas och dels genom arbetstidsmodeller där medarbetare som arbetat länge kan förmedla sin upparbetade erfarenhet, handlag och tysta kunskap till kollegor – samtidigt som de är kvar yrkesverksamma längre."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Region Norrbotten",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-norrbotten"
+  }
+]

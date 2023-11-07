@@ -1,0 +1,1137 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1139",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till att vi skulle få en solcellspark i kommunen, men det är inte kommunen som ska anlägga den. Vi satsar på hållbara driftsformer där sol får vara en av dem. Vi ser till exempel gärna att  kommunala byggnader har solpaneler.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det finns ett elevunderlag. Alla våra skolor ska dessutom ha bra kvalité, stora som små.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varken elever eller personal ska täcka ansiktet i skolan.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för valfrihet. Det ska finnas möjlighet att välja mellan vegetariskt och kött.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har brist på arbetskraft inom äldreomsorgen. Istället ska vi satsa på en god arbetsmiljö så att människor orkar arbeta heltid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna kommunicera med de äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte subventionera hyreslägenheter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att det finns både kommunala och privata alternativ. Människor ska kunna välja utförare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bereda möjlighet för privata företag att utveckla laddstolpar, till exempel genom att upplåta mark.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har stort behov av arbetskraft och behöver inflyttning till vår kommun. Vi ska också hjälpa människor som flyr från krig. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Det beror på efterfrågan och om företaget erbjuder någon inriktning som det finns ett behov av.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Det är en profilfråga för Mora kommun och det vill vi fortsätta satsa på.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Eftersom vi har sviter efter pandemin och krig i Ukraina är världen och ekonomin osäker. Det är därför dumt att sänka skatten just nu. När det är mer stabilt är vi positiva till skattesänkning om det är möjligt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1772",
+          "1770"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C;A;D;A;D;B;D;B;B;2/5;2/5;2/5;[1768,1772,1770]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi går till val som ett självständigt parti i mitten. Vi är beredda att samarbeta med alla alla partier utom de längst ut på höger- respektive vänsterkanten.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En förskola och skola med god kvalitet",
+        "description": "Vi är positiva till kommunala och fristående förskole- och skolformer i byar och centrala Mora. Kvalitén är viktigast för att nå skolframgångar för våra elever. Genom möjligheten att utbilda sig medan man jobbar, driva utveckling via utvecklingspiloter samt förstelärartjänster och få tillgång till nya lokaler, till exempel en ny högstadieskola, ska vi locka både nya och etablerade lärare."
+      },
+      {
+        "category": "En bostadsmarknad med brett utbud",
+        "description": "Vi behöver fler bostäder, både centralt och i byarna. Genom en blandning av olika aktörer, kommunala och privata, skapas utveckling, inspiration och en sund konkurrens. Bostadsområdena ska dessutom vara blandade med olika typer av boenden; hyreshus, bostadsrätter, särskilda boenden för äldre, radhus och villor. Det motverkar segregation och skapar naturliga mötesplatser för olika människor."
+      },
+      {
+        "category": "Hållbarhet och klimatpåverkan ",
+        "description": "Vi vill fortsätta att minska klimatpåverkan genom närproducerad mat till skolor och äldreboenden. Vid nybyggnationer ska vi i första hand bygga i trä och satsa på solpaneler. För att minska utsläppen vill vi få igång rälsbussen mellan Mora och Orsa. När det provades för några år sedan var det många som använde den. Det minskar trafiktrycket i centrala Mora och på vägen mellan Mora och Orsa."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett socialliberalt parti där frågor som företagsamhet, landsbygd och miljö ligger i fokus. Vi tror på människors egen förmåga att bestämma över sina liv genom egna och fria val.",
+    "name": "Centerpartiet Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-mora"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1140",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anser inte kommunen ska syssla med elproduktion som producent möjligen kan sollceller placeras med fördel på kommunala fastigheter för att tillgodose kommunens egna behov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är viktig för en levande landsbyggd men inte till priset av en god kvalité i skolan.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elever och lärare ska kunna möta varandra öga mot öga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "För mig är det viktigaste att skolan erbjuder en varierad och näringsrik kost både med och utan kött.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska aldrig konkurrera med privata näringsidkare i Mora subventionerad av skattemedel",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett förslag som inte är verklighetsförankrat med de utmaningar vi har i och med en växande äldre befolkning",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att äldre och vårdgivare förstår varandra. Om det ska vara språktest eller om detta säkerställs på annat sätt är inte så viktigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan ska också tillhandahålla bostäder för socialt utsatta men jag ser inte att det är ett stort behöv av detta nu. Hyresnivån är generellt låg i Mora och behöver snarare höjas så det lönar sig att bygga nya bostäder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har stora utmaningar inom äldreboende och hemtjänst i framtiden och alla krafter behövs för att utveckla detta. Konkurrens utvecklar och skapar valfrihet för vårdtagaren. Naturligtvis med tydliga kvalité krav.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta bör den privata marknaden tillhandahålla. Kommunen kan ha detta för sina egna fordon.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mora ska ta emot sin solidariska andel i Sverige. Inte mer och inte mindre. Flyktingmottagandet ska fördelas rättvist. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver utmana den kommunala verksamheten och ge innevånarna i Mora fler valmöjligheter för sina barn. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Civilsamhället har dragit ett tungt lass under pandemin och behöver nu stöd fdå deltagandet minskar inom föreningslivet. Föreningsliv inom idrott, kultur och kyrkor bryter psykisk ohälsa och ensamhet.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Målet är ett sänkt skattetryck. Mora ska vara attraktivt att leva och bo i. Vi tror att större social trygghet möjliggör sänkt skattebörda.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1773",
+          "1772"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D!;C;D!;A!;C;B;D;B;C;3/5;3/5;1/5!;[1768,1773,1772]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad jag kan påminna mig.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser framför oss att Mora Alliansen får fortsatt förtroende bestående av C,KD,M och Mop",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det är osannolikt att vi kommer att regera med Mp, V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Prioritera äldre- och omsorgsfrågor",
+        "description": "Fortsatt fokus på en effektiv omsorg med valfrihet som ledord. Att satsa på att göra Mora Kommun till en attraktiv arbetsgivare som attraherar kompetens inom omsorgen. Extra satsningar på att bryta äldres ensamhet."
+      },
+      {
+        "category": "En tydligare skola med arbetsro och trygghet. Bryt tilltagande psykisk ohälsa. ",
+        "description": "Arbeta vidare med bemötande frågor i Skolan, satsa på evidensbaserat insatser för att bryta den tilltagande psykiska ohälsan bland barn och unga. Bevara byskolorna."
+      },
+      {
+        "category": "Infrastruktursatsningar på bostäder samt bil- och cykelvägar",
+        "description": "Nya bostäder – i hela kommunen. Vårda kulturarvet.\r\nRusta upp cykel- och vägnätet."
+      }
+    ],
+    "motivateVote": "En lyssnande kommun – för Moras, Solleröns, Venjans och Våmhus befolkningar.\r\nPrioritera äldre- och omsorgsfrågor – samt fler barnlekplatser.\r\nEn tydligare skola med arbetsro och trygghet. Bryt tilltagande psykisk ohälsa. Bevara byskolorna.\r\nNya bostäder – i hela kommunen. Vårda kulturarvet.\r\nRusta upp cykel- och vägnätet. \r\nStärk familjens roll för ökad trygghet och trivsel. Stöd föreningslivet för sa",
+    "name": "Kristdemokraterna Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-mora"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1141",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-mora"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1142",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mora kommun bör lägga pengarna på annat. Vi är inte en kommun som är kända för att ha soligt året runt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna är för att det finns både små och stora skolor. Finns det tillräckligt med elever i byarna ska byskolor finnas kvar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte gömma barn bakom slöjor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan varierad kost i skolan idag. Ytterligare köttfria dagar behövs inte. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med företagen. Kommunen ska ha ex bostadsbolag. Men bolaget ska inte vara dominant på marknaden. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver inte färre som arbetar utan fler. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Under livet bor man i olika boendeformer. Allt från studentlägenheter till villa och kanske sedan en lägenhet. Det ska finnas billiga lägenheter som kan uppföras i samma stil i kommunen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Idag har vi tre boenden som inte kommunen ansvarar för. Vi har ingen hemtjänst ännu i privat regi. Men det är välkommet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det får marknaden ansvara för. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta emot tillräckligt många flyktingar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Vi är öppna för i Moderaterna att vi får flera skolor i privat regi. När det gäller förskolan är det nästan hälften som styrs i kooperativ. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Mora kommun lägger tillräckligt på kultur idag enligt den budget som KF antar. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Mora kommun ska ta ut den skatt som är tillräcklig för att kunna bedriva skola, vård och omsorg samt andra kommunala åtaganden. Vi kan sänka skatten utan att det påverkar kvaliteten. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1773",
+          "1767"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D;A;D;A;D;C;D;A;C;3/5;2/5;0/5!;[1768,1773,1767]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i dagsläget. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vill kommer att arbeta för att vara i Allians. Moderaterna är ett parti som vill få ut så mycket som möjligt av den politik som vi går till val på. Vi vill samarbeta med de som tycker som oss. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan tänka oss att styra med partier som tycker så lika som oss som möjligt. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Moderaterna i Mora vill sänka skatten",
+        "description": "Kommunen ska ta ut en skatt som är rimlig för kommuninvånarna flr att vi ska kunna ha en god kvalitet i skola, vård och omsorg samt att det ska räcka till andra satsningar. Vi gick till val 2018 på att skatten ska ligga i mitten av länets kommuner. Nu ligger vi bland de fem kommuner som har högst skatt."
+      },
+      {
+        "category": "Stor satsning på kvalitet och trygghet i skolan",
+        "description": "Vi ska bli en av Sveriges bästa skolkommuner. Vi vill ha ordning och reda, arbetsro och trygghet, hållbar utveckling för elever och personal. Vi vill öka utbudet av aktiviteter både utomhus och inomhus på raster. \r\nVi vill rusta förskolor och skolmiljöer både inomhus och utomhus. \r\nMora har utmaningar inom skolområdet."
+      },
+      {
+        "category": "Äldre och mat",
+        "description": "I Mora ska det vara tryggt att leva, bo och åldras. \r\nVår befolkning lever längre – och detta ställer nya och positiva utmaningar på vårt samhälle och på den service som bör finnas. Mora behöver fler boenden för äldre där det ska vara självklart att kunna välja vilken mat och dryck man vill ha. \r\nVi välkomnar privata aktörer att etablera sig i Mora både inom hemtjänst och särskilt boende för äldre."
+      }
+    ],
+    "motivateVote": "Moderaterna är det parti som ser till just väljarna. Vi är det parti som är handlingskraftiga och får saker gjorda. Vi satsar på skola vård och omsorg och är ett företagsvänligt parti. Det är i företagen jobben finns för invånarna. ",
+    "name": "Moderaterna Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-mora"
+  },
+  {
+    "abbreviation": "MOP",
+    "altingetCandidateId": "1143",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det blir ingen vinst efter försäljningen av vindkraftverket, istället har kommunens vindkraftsatsning blivit en mångmiljonförlust. De pengar som återförs från försäljningen ska inte satsas på andra alternativa energikällor som inte är vedertagna. Kommunala medel ska användas ansvarsfullt, och vindkraftsinvesteringen har varit ett mörkt kapitel för kommuninvånarna.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Morapartiet har sedan starten värnat om våra byar och byskolornas betydelse. Vid tidigare skarpa förslag rörande nedläggning av byskolor har Morapartiet kraftfullt motsatt sig en sådan utveckling. Byskolorna ska definitivt finnas kvar, varenda en - för byarnas fortlevnad och för barnfamiljernas trygghet ute i byarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart kan inte ansiktstäckande klädesplagg användas i skolan. För att fritt och obehindrat kunna kommunicera i skolmiljön kan inte vissa elever tillåtas att täcka ansiktet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, skolan ska servera en allsidig kost som också innebär kött i olika former. Olika typer av specialkost ska erbjudas elever efter medicinska förutsättningar, men att regelmässigt införa speciella menyer är inte något vi stödjer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte konkurrera med det privata. Detta är en mycket viktig princip för oss, skattemedel ska självklart inte placeras i verksamhet där andra helt privata aktörer kämpar utan sådant stöd.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skulle detta förslag vara praktiskt och ekonomiskt genomförbart så utesluter vi inte detta. Personalen i vården sliter ofta hårt och under långa arbetspass, vilket vore bra att kunna ändra på till det bättre. Detta förslag behöver utredas vidare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grundläggande språkkunskaper i svenska språket är en förutsättning för att kunna göra ett bra jobb inom hemtjänst och äldreomsorg. Språkförbistringar ska i största möjligaste mån förebyggas, och under olyckliga omständigheter kan sådana leda till allvarliga tillbud. Brukare, med ofta begränsat umgänge, ska självklart kunna prata obehindrat med sina vårdgivare, det är en fråga om värdighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en viktig kommunal fråga att påverka och styra bostadsmarknaden i den egna kommunen. Vi tycker att det kan vara klokt att satsa en del pengar på att främja nybyggnation av små hyresrätter men även omställning av äldre bestånd till mindre och billigare hyresrätter. Tyvärr har vi en bostadsbrist i kommunen inom alla boendeformer, prislägen och upplåtelsealternativ, så frågan är svår att lösa.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är klokt att ha såväl kommunala som privata äldreboenden och hemtjänst. Men kontrollen måste alltid finnas så att det kan säkerställas att verksamheten fungerar riktigt bra. Skattepengar ska inte tillåtas att i större utsträckning bli stora vinster hos privata vårdgivare, detta måste regleras.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, denna bransch ska det privata sköta. Det finns redan många privata aktörer på orten som sysslar med fordonsladdning, och kommunen ska inte konkurrera med dessa. Däremot behöver vi ordna med laddning av kommunens egna elfordon, men det är en annan fråga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har små möjligheter att styra över denna fråga, då vi blir anvisade ett antal som ska tas emot. Med tanke på den akuta bostadsbristen i Mora och de begränsade möjligheterna att snabbt komma in på arbetsmarknaden samt få relevant utbildning, så förespråkar vi större restriktivitet här.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Vi har några skolor som drivs privat idag i kommunen, och ser inget självändamål i att utöka dessa antalsmässigt. Skolor med olika former av extrem inriktning t.ex. religiösa långtgående åskådningar, ska vi inte ha.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Beloppet till kulturen kan vara oförändrat, men en större bredd i våra kultursatsningar kan vara på sin plats.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att skatten i Mora ska ligga i paritet med övriga dalakommuner. I dagsläget ligger vi något högt, och detta behöver vi se över. MEN, med tanke på det osäkra läget i landet och i omvärlden är det inte möjligt att sänka skatten i omedelbar närtid.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1774",
+          "1769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;D;A;D;C;D;D;D;A;D;2/5;2/5;2/5;[1768,1774,1769]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi finns bara lokalt",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Efter valet 2022 har Mora partiet växt ytterligare några mandat, och kan lägga större tyngd i det politiska samarbetet och större inflytande beslut för kommens bästa",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Närhet till förskola och lågstadieskola",
+        "description": "Närhetsprincipen är viktig för våra barn, och därför behöver befintliga förskolor och lågstadieskolor (byskolor) finnas kvar och kanske också kompletteras. Så långt det är möjligt ska vi erbjuda skolgång för våra yngre i närheten av hemmet. Det ger korta resor och minskar behovet av transport med buss och bil. Barnen känner sig tryggare och färre resor är bra för miljön."
+      },
+      {
+        "category": "Förbättrat vägunderhåll och bättre vinterväghållning på kommunens vägar",
+        "description": "Underhållsskulden i vårt kommunala vägnät växer, samtidigt som standarden på  asfaltsbeläggningen blir sämre för varje år. Även kvaliteten på snöplogning och sandning urholkas, med framkomlighetsproblem och ökad olycksrisk. Halkolyckorna förefaller också öka, med personligt lidande som följd. Vi behöver avsätta ytterligare medel för att omgående förbättra vägstandard och vinterväghållning."
+      },
+      {
+        "category": "Arbetsträning, rehab, återbruk och fritidsbank",
+        "description": "Arbetsmarknadsenhetens verksamhet är oerhört viktig. Bra lokaler, bra personal och bra verksamhet är absolut nödvändigt. Efter många år med problem har nu trenden vänt, men vi behöver snabbt bli ännu bättre. Vi vill återupprätta en återbruk-verksamhet som kan kombineras med fritidsbank och andra spår inom rehab- och arbetsträning. Vi måste hjälpa de som kan och vill att komma tillbaka i arbete."
+      }
+    ],
+    "motivateVote": "Vi är Moras enda lokalparti där vi ser till kommunens bästa i varje sakfråga, där huvudfrågorna ligger i vård, skola och omsorg. ",
+    "name": "Morapartiet Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "morapartiet-mora"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1144",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god, men går inte att koppla ihop på det sättet. Om/när kommunen bestämmer sig för att bygga någon solcellspark, så får den investeringen då bedömas och finansieras på sina egna ekonomiska meriter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår grundinställning är att de yngsta skolbarnen, upp till åk 3, ska erbjudas möjlighet att gå i skola så nära hemorten som möjligt. Vad som är möjligt beror på elevunderlaget och möjligheterna för kommunen att erbjuda god kvalité och utveckling för barnen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska värna allas frihet och rättighet att klä sig som man vill.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara rimligt ur många olika synvinklar att vara restriktiv med att servera köttbaserad kost i skolan, inte minst klimatmässiga och ekonomiska. Det kan också bidra till att öka elevernas miljömedvetenhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Reglerna är redan tydliga: Kommunala bolag får inte bedriva verksamhet utanför kommunens kärnuppdrag som konkurrerar med privata företag. I Mora har vi ingen sådan verksamhet idag, och därför inget som behöver avvecklas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta förslag bidrar bara till att cementera arbetsformer och en arbetsmiljö som i grunden är dålig! Schemaläggning och bemanning ska istället göras om så att fler kan och vill arbeta heltid, utan att slita ut sig! \r\nÖkad grundbemanning ger nödvändigt utrymme för återhämtning och mindre av minutstyrning i omvårdnaden, och ökar därför både personalens tillfredställelse och kvalitén i omvårdnaden.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Krav på kunnighet i svenska språket finns redan idag för anställning inom äldreomsorgen och lär inte behöva befästas med något särskilt språktest. FInns också behov av dalmålskunnande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen får inte subventionera, eller utan vidare finansiera byggande av hyreslägenheter. Däremot kan vi, genom att bidra till att vårt kommunala bostadsbolag Morastrand AB sköts på ett bra sätt och har en god ekonomi, möjliggöra för bolaget att bygga bra, billiga lägenheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lika lite som kommuner ska bedriva verksamhet som konkurrerar med det privata näringslivet, lika lite bör äldreomsorg, hemtjänst och skolor bedrivas i bolagsformer, med syfte att generera vinst.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska driva på för att infrastrukturen i form av ledningar och el-effekt byggs ut. Det kan också vara aktuellt att bidra till att publika laddstolpar sätts upp på vissa platser i kommunen där behovet är tydligt men det kommersiella intresset är svagt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt flyktingmottagande ligger redan på en låg nivå, samtidigt som vi har stort behov av att öka befolkningen i arbetsför ålder, både i det privata näringslivet och i kommunens och regionens verksamheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Idag bedrivs ingen skolverksamhet i vinstdrivande företag i Mora, och så vill vi att det ska förbli!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Mora växer och vill vi att den utvecklingen ska fortsätta måste vi kunna erbjuda ett bredare utbud av kulturaktiviteter. En av våra stora brister just nu är tillgången på en lite större scen för musik- och teaterarrangemang. Mora behöver därför investera i någon form av kulturscen, gärna i samband med ny- eller ombyggnad av kommunens simhall, som också har stor betydelse för folkhälsan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inget egenvärde i att varken höja eller sänka kommunalskatten. Vår strävan är att kommunalskatten ska ligga på en så låg nivå som möjligt och samtidigt täcka de behov av kommunal service medborgarna har rätt att kräva. Med den stora osäkerhet Sverige och världen nu står inför innebär det att vi anser att det inte går att sänka kommunalskatten nu, men den behöver inte heller höjas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1772",
+          "1769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;A;C;D;B;C;C;A;C;A;2/5;3/5;2/5;[1768,1772,1769]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad grundbemanning i äldreomsorgen",
+        "description": "Ökad grundbemanning ger flera långsiktigt positiva effekter för både brukare och personal:\r\n- Ökad kontinuitet och trygghet i vården då brukarna inte behöver möta så många nya personer.\r\n- Ökad trygghet och större möjligheter till heltidsanställningar för personalen.\r\n- Bättre möjligheter till återhämtning vilket minskar sjukfrånvaron och behovet av vikarier och gör att fler orkar jobba heltid."
+      },
+      {
+        "category": "Effektivare underhåll av gator, gång- och cykelvägar",
+        "description": "Det planerade underhållet av gator och vägar är sedan många år eftersatt. Underhållsskulden är enorm! \r\nIdag finns, efter att vi drivit frågan hårt, åtminstone medel så att underhållsskulden inte ökar, men för att beta av den och framgent ge kommunen lägre kostnader för akuta reparationer, behöver vi under några år avsätta betydligt mer pengar för det planerade underhållet."
+      },
+      {
+        "category": "Bygga en ny samlad högstadieskola",
+        "description": "Det två befintliga 7-9-skolorna i Mora fungerar inte optimalt idag. Såväl lärar- som elevhälsoresurser är splittrade och svårigheterna att rekrytera kompetent personal därför stora. Det drabbar våra elever!\r\nDärtill upplevs nuvarande skolor otrygga, är dåligt anpassade till dagens krav och också delvis svårt nedslitna.\r\nFör arbetsmiljö och bättre studieresultat behövs därför en ny 7-9-skola!"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-mora"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1145",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att allmännyttan har en viktig funktion i samhället, framförallt som första boende.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att höja statusen för vårdnära tjänster.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1768",
+          "1770",
+          "1769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;D;A;B;D;D;C;C;C;D;2/5;2/5;1/5;[1768,1770,1769]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill införa kortare arbetstid för personal med vårdnära tjänster",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Folkomröstning om skola på strandenområdet ",
+        "description": "Vi har lagt flera förslag som vi anser är bättre än att bygga en skola mellan två av de mest trafikerade vägarna i Mora. Förslagen är i stället att renovera de befintliga skolorna, bygga en laddningspark för elbilar på platsen."
+      },
+      {
+        "category": "En tryggare åldrande",
+        "description": "Att som åldersrik i Mora ska man få ett tryggt och värdigt bemötande av personalen, här handlar det om att vi vill platta till den administrativa förvaltningen och skapa bättre förutsättningar för personalen att ägna sig åt brukare och kunder. Att kunna göra sig förstådd är en grundpelare i kommunikation vilket gör att vi vill införa språkkrav."
+      },
+      {
+        "category": "Ett blomstrande Mora",
+        "description": "Vi har flera förslag som vi vill att Mora kommun ska införa för företagarna, ett förslag är att vi underlättar för den administrativa delen och inför en egen kommunal lantmätare. Vi vill underlätta för företagarna i alla kommunala processer. Genom ett blomstrande företagande så kommer hela kommunen att lyftas."
+      }
+    ],
+    "motivateVote": "",
+    "name": "Sverigedemokraterna Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-mora"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1146",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d28ba559cec14befe923a7666116678c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver produceras energi på alla de tillgängliga sätt. Solceller är ett sätt för Mora kommun att bidra till detta. Vänsterpartiet vill även nyttja alla tak på kommunägda fastigheter för att skörda solenergi",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b1b5d12f0cb0b5a965f68b6c1a9b6e49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att Moras byar lever. Skolan inger hopp och framtid för Moras byar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb48479836555b93f504e376d960d297",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har religionsfrihet i Sverige. Så länge det inte skadar någon fysiskt så har man rätt att välja sin religion. Det är viktigt att flickor / kvinnor får välja sin klädsel själva precis som pojkar och män.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c9f9641bf085f65c5ab1bd7c74428803",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bidrar till att vara klimatsmart. Dock kan det finnas allergier som inte klarar av detta som exempelvis sockerallergi som måste äta kött då många grönsaker innehåller socker naturligt. Det är dock väldigt ovanligt men då får man lösa det!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8fa55395aa009c9b70d8633ceb2b29d",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolag som finns har ofta tillkommit för att marknaden inte klarar av att driva den verksamheten som behovet är.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c9d151417f06a7bc49fbc15b7be51d8f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler och fler företag använder sig numer av 6 timmars dagar / 30 timmars veckor. Det resulterar ofta i färre sjukskrivningar och hälsosammare personal i de tyngre yrken. Tester utförda globalt visar även på effektivitetsökningar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c5228c8f37c11a113a5ec2b7bf44cd0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att arbeta inom hemtjänst och äldreomsorg så lär man sig språket snabbare genom att samtala med de äldre. I Mora så kan de äldre dessutom gå tillbaks till sina barndoms bymål och då funkar svenskan sådär. Att arbeta tillsammans med andra ger snabbast språkkunskap!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6cb906a353c74086eaf9d3c5d6ecfa7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är en otroligt viktig fråga även för oss som bor i villor. Våra barn måste kunna få tag i något boende på hemorten. Likaväl så behövs billigt boende för de med låg pension.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2f232923b39b749d1e844bbdce2026ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "NEJ! Inga vinstdrivande företag inom äldrebooenden och hemtjänst eller skola ska finnas i Mora. Vänsterpartiet har dock inget emot icke vinstdrivande kooperativ till exempel. Ett aktiebolag har till syfte att berika sina ägare. De pengarna ska stanna i verksamheten anser Vänsterpartiet Mora.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4b267f1b405d9f60ee96194d677fab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om företag / marknaden anser att det inte är lönsamt att sätta ut publika laddstolpar i Mora så måste Mora kommun ta på sig ledartröjan i denna fråga.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58e3ea2b8cdb6deec21ec63cec5feeda",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mora kommun behöver alla som vill flytta till Mora. Mora befinner sig i början av en stor generationsväxling och genom yrkesutbildning av olika grupper människor till olika sorters yrken kan vi tillfredställa företagens och Mora kommuns behov.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "06e06ac9c7db089ad3394d6402068095",
+        "questionType": "RANGE",
+        "reasoning": "Det ska inte finnas alls om dom är vinstdrivande. Icke vinstdrivande föräldra /personalkooperativ har Vänsterpartiet inget emot. Dock måste tilläggas att kommuner kan själv inte bestämma om en vinstdrivande skola etableras. Mora kommun kan enbart tala om vad man tycker i frågan. Det är Skolverket som ger tillstånd att starta en friskola.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "738d34e11fbb35692b8f70a254e94810",
+        "questionType": "RANGE",
+        "reasoning": "Det behövs mer offentlig konst i vår vardag. Ett konstfritt samhälle gynnar ingen. Det behövs i tätort, industriområden, villaområden och byar. Kultur är många människors glädje i livet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2fbffce575c848e1b21b59c9df32a1fa",
+        "questionType": "RANGE",
+        "reasoning": "Mora kommun ska ha den skatt som behövs. Varken mer eller mindre. Därför är det svårt att svara på den här frågan. Att minska skatten nu leder till nedskärningar på något i Mora kommuns verksamhet. Vänsterpartiets grundsyn i begynnelsen var att det ska vara så låg kommunskatt som möjligt Förflyttningen av pengar från stat till kommun,  som till exempel skolan, har drivit upp de kommunala skatterna",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "86a03418a0c7713a9f7c533fddea7b7b",
+        "questionType": "PRIORITY",
+        "reasoning": "En av många viktiga frågor. Det är viktigt att ta hand om våra äldre som byggt upp vårt samhälle på ett värdigt sätt!",
+        "value": [
+          "1769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;A;D;B;D;B;D;A;C;A;0/5;3/5;2/5;[1769]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej! Vänsterpartiet Mora \"översätter\" Vänsterpartiets riksfrågor till lokala frågor.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Varje parti strävar efter egen majoritet så klart. Verkligheten är dock annorlunda. Vänsterpartiet ser helst att en rödgrön Majoritet väljs i Mora kommun.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Det klimatsmarta Mora",
+        "description": "Varje liten droppe behövs för att skapa ett hav! Mora måste dra sitt strå till stacken för att rädda vårt klimat. Exempelvis vill V i Mora att investera vinsten från försäljningen av vindkraftverket i en solcellspark. Mora ska ligga i framkant för att vara en klimatsmart kommun i så många avseendet det är möjligt."
+      },
+      {
+        "category": "Mora är inte till Salu! ",
+        "description": "V i Mora vill inte sälja en enda lägenhet som Mora Strand äger, V i Mora vill återkommunalisera de privata äldreboendena. Inga vinstdrivande företag i den välfärd som Mora kommun bedriver."
+      },
+      {
+        "category": "Lokalisation av den Nya högstadieskolan.",
+        "description": "Vänsterpartiet ser att Stranden området inte är ett optimalt läge för en skola inför det framtida Mora. V har redan från början i denna fråga pekat ut Tingsnäs som ett lämpligt område även om det innebär rejäla förhandlingar av flytt för vissa företag och fastighetsägare. ( som borde inletts för länge sedan)"
+      }
+    ],
+    "motivateVote": "För att Vänsterpartiet har den bästa klimatpolitiken för Mora. Man bör välja Vänsterpartiet om man tycker att det är fel med vinstdrivande företag i äldreomsorgen och skola samt att Mora Strand inte ska sälja sina lägenheter. Vill man ha en Högstadieskola på annat ställe än Strandenområdet är V alternativet!",
+    "name": "Vänsterpartiet Mora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-mora"
+  }
+]

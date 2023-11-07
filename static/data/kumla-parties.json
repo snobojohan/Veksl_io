@@ -1,0 +1,1103 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "854",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man behöver en allsidig kost",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "För hög kostnad ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ger ingen effekt utan är bara utpekande ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas konkurrensen även inom vård och omsorg",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara lätt att ladda sin elbil",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Det ska finnas konkurrens ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1521",
+          "1519",
+          "1516"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;D!;B;A;A;A;C;D;D;3/5;2/5;2/5;[1521,1519,1516]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Detta avgör väljarna men C ser helst att både SD och V får minimalt inflytande",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Undvika att bygga på jordbruksmark",
+        "description": "Ta fram en handbok för politiker och tjänstepersoner"
+      },
+      {
+        "category": "Öka måluppfyllelsen i skolan",
+        "description": "Flera behöriga lärare och vuxna  i skolan"
+      },
+      {
+        "category": "Öka antalet solcellsanläggningar och laddstolpar",
+        "description": "En kommunal utbyggnad av dessa anläggningar"
+      }
+    ],
+    "motivateVote": "För att C är ett mittenparti som står för sin politik i hela Sverige",
+    "name": "Centerpartiet Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kumla"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "855",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 5,
+    "answersString": "C;C;D;C;B;_;_;_;_;_;_;_;_;_;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-kumla"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "856",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den upplevda otryggheten i Kumla är stor. Kumla måste bli tryggare. Liberalerna är det parti som drivit trygghetsfrågorna längst och mer kameraövervakning är ett av våra förslag. Arbetet med fler kameror i Kumla går trögt och arbetet med att få dessa på plats måste gå fortare.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är det parti som drivit trygghetsfrågorna längst och fler ordningsvakter är ett av våra förslag vi drivit länge. Kumla behöver fler ordningsvakter och ordningsvakter som finns på plats fler timmar än idag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kumla ska vara fortsatt restriktiva med byggnation på odlingsbar åkermark. I undantagsfall och vid särskilt samhällsintresse kan däremot byggnation på odlingsbar åkermark övervägas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns kommunala bolag som är samhällsnyttiga och som mycket väl går att motivera även om de konkurrerar med det privata näringslivet. Kommunala bostads- och fastighetsbolag är två exempel. Ibland kan det också vara motiverat att kommunen startar upp bolag för att ge marknaden en liten knuff i rätt riktning för att sedan låta marknaden ta över dessa.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att skolan utforskar fler vegetariska alternativ. Samtidigt är det viktigt att skolan serverar mat som barnen äter så att de klarar av sin skoldag.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kumla kommer få stora problem att klara bemanning och kompetensförsörjning om detta skulle bli verklighet. Istället borde fokus ligga på bättre schemaläggning och att komma ifrån delade turer för att skapa en arbetsmiljö där fler orkar arbeta en hel arbetsvecka.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kumlas äldre ska känna sig trygga i att de förstår sin omsorgspersonal. Det är också en trygghet för den som jobbar i omsorgen att kunna förstå och kommunicera med sin vårdtagare. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen, som ägare av det kommunala bostadsbolaget, säkerställer produktionen av olika typer av hyresrätter. Däremot ska kommunen inte aktivt gå in och subventionera sådan byggnation. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att valfrihet är bra och att det privata och det offentliga både kan komplettera och utveckla varandra. Givetvis ska privata aktörer granskas utifrån kvalitet precis som vi förväntar oss att vi granskar kommunens egna verksamhet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns möjlighet att ladda sin bil för både personer bosatta i Kumla men även för besökare. Därför behövs fler laddstolpar på kommunala parkeringsplatser och besöksmål.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kumla ska fortsätta ta ett solidariskt ansvar för människor på flykt undan exempelvis krig och förtryck. Samtidigt måste vi säkerställa att vi kan erbjuda flyktingar ett fullgott boende, bra utbildningsmöjligheter och i förlängningen att få ett arbete och komma in i samhället.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Kumla har idag fritt skolval men det finns däremot utmaningar med att tillgodose vårdnadshavarnas önskemål. Det behövs också fler skolplatser i framför allt centrala Kumla och vi ser gärna att det etableras en privat skolaktör som kan hjälpa till att tillgodose det behovet. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": "Kumla lägger redan idag väldigt mycket pengar på kultur. Vi i Liberalerna prioriterar skola, vård, omsorg och trygghet.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle gärna se att skatten sänks men ser dessvärre ingen möjlighet till det i dagsläget. Däremot kommer vi göra allt vi kan för att skatten inte ska höjas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1521",
+          "1519",
+          "1515"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;C;B;A!;C!;B;D!;C!;B;3/5!;0/5!;2/5;[1521,1519,1515]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val som enskilt parti och hoppas att Liberalerna får så många röster som möjligt. Vi ser framför oss en borgerlig majoritet med stort liberalt inflytande.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler skolplatser samt en översyn av skolvalssystemet",
+        "description": "Det behöver tillskapas fler skolplatser i centrala Kumla. Det är viktigt för att minska klasstorlekarna, öka studieron samt öka chansen för syskon att kunna gå på samma skola. Vi vill också se över skolplaceringssystemet och undersöka om det finns alternativ till \"relativ närhet\" som främsta urvalsprincip när en skola har fler sökande elever än tillgängliga platser."
+      },
+      {
+        "category": "Aktivitetsvärdar inom omsorgen",
+        "description": "Alla människor har rätt till en meningsfull och aktiv vardag, även när man blir äldre. Det är viktigt för välbefinnandet att stimulera både kroppen och knoppen. Det är ofta svårt för den ordinarie personalen att hinna med planering och genomförande av aktiviteter. Därför vill vi anställa aktivitetsvärdar med ett särskilt ansvar för att skapa en mer meningsfull och aktiv vardag för Kumlas äldre."
+      },
+      {
+        "category": "Ett tryggare Kumla",
+        "description": "Man ska kunna känna sig trygg där man bor, när man väntar på bussen, när man vistas i stan eller tar en löprunda. Men istället känner sig många Kumlabor otrygga. Otrygghet och kriminalitet får aldrig accepteras. Vi vill därför ha fler poliser, fler ordningsvakter och mer kameraövervakning."
+      }
+    ],
+    "motivateVote": "Vi är många som älskar Kumla och vårt mål är tydligt. Du ska känna dig trygg i Kumla - hela livet. Därför behövs fler ordningsvakter, en likvärdig skola med ordning och studiero, och en omsorg av hög kvalitet.",
+    "name": "Liberalerna Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kumla"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "857",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-kumla"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "858",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ansökt om kameror men godkännandeprocessen tar för lång tid. Kameror skulle öka tryggheten och bidra till att klara upp fler brott. Fler kameror behövs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver följa utvecklingen med ordningsvakter. Polisen har till uppdrag att hålla ordning. Vi ser att vakter bidrar till en tryggare kommun, därav ser vi positivt på vakter, samtidigt måste Kumla få mer polisiär närvaro.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand ska Kumla kommun förtäta och bygga på platser som inte är bra och stabil åkermark. Vi vill även bereda plats för större tomter närmre naturen för att bredda möjligheterna till inflytt i Kumla med mer vartenda boendeformer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi har en varierad kost som eleverna gillar och som lagas på plats. Bra mat bidrar till bättre skolresultat, vi vill se ett brett utbud så eleverna kan välja.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svenska språket är nyckeln in i samhället och för förståelsen. Det handlar inte om att kunna perfekt svenska utan kunna kommunicera på ett bra sätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna att byggpriserna generellt går ner. Det är inget kommunalt kärnuppdrag att bygga dessa bostäder. Vi vill att fler aktörer fortsätter bygga i Kumla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler fåaktörer bidrar till ett bredare utbud och höjd kvalité. Det är bra för Kumlas invånare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har öppnat upp för fler privata förskolor och dagbarnvårdare. Vi ser gärna en friskoleetablering i Kumla.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1521",
+          "1519",
+          "1518"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;C;A;A;D;A;D;C;C;3/5;2/5;1/5;[1521,1519,1518]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk skolan, en attraktiv arbetsgivare och kompetensförsöjning",
+        "description": "Kumla kommer behöver fler duktiga förskollärare, fritidspedagoger, specialpedagoger, lärare, chefer etc i skolan.\r\n \r\n- Stärka samarbetet med universitetet, arbeta med verksamhetsförlagd utbildning på lärarprogrammet och redan där möjliggöra en positiv bild av Kumla som arbetsgivare.\r\n-  Satsa på trygghet i skolan även för personalen."
+      },
+      {
+        "category": "kultur och fritid",
+        "description": "- Sätta upp soltak på en del av våra lekplatser för att göra dem attraktiva och roliga att leka i även riktigt varma dagar.\r\n- Utveckla Kvarntorpsområdet som frilufts- och aktivitetsområde och anlägga ett elljusspår.\r\n- Ta fram ett förväntanslöfte mellan kommunen och våra föreningar och knyt detta till de bidrag de får.\r\n- Utreda behovet av en friidrottsanläggning i kommunen.\r\n- skapa ridcenter."
+      },
+      {
+        "category": "Samhällsbyggnad",
+        "description": "- Göra det enklare för att Kumlaborna hantera sitt avfall genom att ha fler centrala platser där man kan lämna ris och avfall.\r\n- Erbjuda Kumlaborna en större tillgänglighet till vår Återvinningscentral. Vi vill införa ett grönt kort som efter genomgången digital utbildning ger tillträde till återvinningscentralen utanför bemannade öppettider.\r\n - Skapa nya Gröna bostadsområden nära naturen"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kumla"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "859",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en komplement till polisen arbete , men också en utökad möjlighet att lagföra personer som begår brott. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ordningsvakter är ett komplement till Polisen och det polisiära arbetet i kommunen. Ordningsvakterna ska även ha ett nära samarbete med kommunens fältarbetare o socialtjänst. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kumla består till stora delar av odlings mark, I översiktsplanen pekar vi tydligt ut vilka områden som är aktuella för framtida exploatering. Vi kommer att fortsätta med arbetet att förtäta staden, och ta så lite jordbruksmark i anspråk som möjligt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kumla finns Kumla fastigheter AB som har i uppdrag att ta fram närings fastigheter och skapa arbetstillfällen i Kumla, det har varit ett framgångsrikt arbete i över 55 år. Vi är även delägare i Kumbro Stadsnät AB som sett till att många Kumlabor har tillgång till fiber när marknaden inte kunnat leverera detta. Vi har även Kumbro vind som ger oss vind el. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill fortsätta att jobba med mer närproducerad och ekologisk mat i vår skolor och äldreboenden. Idag är över 40% av maten som serveras närproducerad. Idag är det vegetariskt ca 1 dag i veckan och det är väl en lagom nivå. I nära framtid vill vi skapa en inköpscentral för alla våra livsmedel och på så sätt minska transporterna till våra verksamheter, samt öka andelen närproducerad mat.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag har vi brist på personal inom äldreomsorgen i Sverige, vi ser det inte möjligt under nästkommande mandatperiod. Däremot kommer vi jobba vidare för att förbättra arbetsvillkoren, och fortsätta vara en attraktiv arbetsgivare. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, alla som jobbar inom Kumla kommun måste kunna klara språkkrav. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, vi är för att investeringsstödet återinförs så vårt kommunala bostads bolag kan fortsätta producera lägenheter, på ett hållbart ekonomiskt sätt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, vi ser inte att vinstdrivande vårdbolag har något att tillföra. Varje skattekrona ska gå till verksamheterna och brukarna. INTE till vinster till ägarna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ansvara för att det finns möjlighet att ladda sina bilar på publika platser. Samtidigt ska våra verksamhetslokaler tillföras laddstolpar. Ett stort arbete har inletts och efter sommaren kommer det finnas totalt 14 nya publika laddpunkter i Kumla. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste ta ett ansvar när det uppkommer kriser i världen likt den som nu sker i Ukraina. Det gemensamma ansvaret är viktigt. Samtidigt är det också av vikt att det finns bostäder att tillgå och att personerna snabbt kommer in i utbildning och arbetsliv. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra fungerande kommunal skola i Kumla som vi är nöjda och stolta över. Allt kan självklart bli bättre men lösningen på det är inte privata utförare som driver skolor i Kumla. Varje skattekrona ska gå till våra elever och inte till vinst åt ägaren. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt och berikar människors vardag. I Kumla har vi medvetet satsat mycket på konst och kultur genom åren. Varje år besöker ca 180 000 personer vårt bibliotek och ca 40 000 personer konst på hög. I Kumla har vi också sedan många år tillbaka tillämpat 1 % regeln vilket innebär att 1% av den totala byggkostnaden läggs på konstnärlig utsmyckning. Kumla vara Närkeslättens Kulturhuvudstad. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": "Vi utvecklar välfärden hellre än skattesänkningar. Dock ser vi inget behov av att höja skatten under nästa mandatperiod. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1519",
+          "1518",
+          "1515"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;C;A;B!;B;D;C;A;C;C!;2/5!;2/5;2/5;[1519,1518,1515]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Vi kommer jobba för att öka det förebyggande arbetet i Kumla. Detta genom ett fördjupat samarbete mellan skola, förskola, socialtjänst och polis. Barn och ungdomar ska få goda förutsättningar för en bra start i livet. Vi ska även minska brottsligheten genom fördjupat samarbete mellan polis, socialtjänst och andra myndigheter samt organisationer. Vi fortsätter stärka upp med ordningsvakter."
+      },
+      {
+        "category": "Tillväxt",
+        "description": "Vi ska ge goda förutsättningar för att öka i antal invånare i Kumla. Genom att ge goda förutsättning för bostadsbyggande, villor, hyresrätter, bostadsrätter samt äganderätter.  Vi ska även jobba så vi tar tillvara på växtkraften i näringslivet. Vi vill stärka näringslivsklimatet och ge goda förutsättningar till expandering. Detta generar till fler arbetstillfällen för Kumlas invånare."
+      },
+      {
+        "category": "Välfärden",
+        "description": "Vi ska satsa vidare på att utveckla välfärden, vård, skola och omsorg. Alla barn och elever ska ges möjlighet att nå kunskapsmålen, tillsäkras en trygg och kreativ miljö. Studiero i klassrummet. Behöriga lärare. Fortsätta kompetensutveckla alla medarbetare inom välfärden så man har rätt förutsättningar att ta hand om Kumlas invånare på ett tryggt och säkert sätt. Tillgodose endamålenliga lokale"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kumla"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "860",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning av särskilda utsatta platser ökar tryggheten",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ordningsvakter som patrullerar i kommunens centrum försvårar för kriminella att förbli oupptäckta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": "Produktiv åkermark ska användas till att odla på, vi har märkt under Ukrainakriget hur sårbara vi är när vi förlitar oss på import av av jordbruksprodukter. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens uppgift är inte att bedriva konkurrensutsatt verksamhet, det ska privata näringslivet sköta",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dt är naturligtvis bra om elever äter mer vegetarisk kost, men det ska inte tvingas på eleverna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna förstå och uttrycka sig på svenska när man arbetar med äldre och dementa människor, Dessutom är det viktigt att man förstår den svenska kulturen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ingår inte i kommunens kärnverksamhet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte ha monopol på sådan verksamhet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska skötas av privata företag det kan inte vara kommunens uppgift, lika lite som kommunen ska ansvara för andra typer av drivmedel.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kumla kommun råder det brist på hyreslägenheter, att kommunen då ska prioritera flyktingar framför de som stått länge i bostadskön anser jag fel.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Det är svårt att svara på hur mycket av skolan som ska drivas av privata företag, det viktiga är att kommunen välkomnar privata aktörer inom skolan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": "Det finns viktigare områden för kommunen att sats pengar på, till exempel skola, vård och omsorg och trygghet.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": "Kumla kommun går bra ekonomiskt därför behöver inte skattesatsen ändras.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D!;D!;D;A;A;D!;B;D!;A;C!;3/5;1/5;2/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverigedemokraterna, Moderaterna, Liberalerna och Kristdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Att minska personalomsättningen och förbättra arbetsmiljön i skolorna ",
+        "description": "Skolorna i Kumla kommun har varit underfinansierade i många år därför behöver   de få ett större ekonomiskt utrymme i nästa års budget, dessutom se till att skolmiljön blir bättre för både personal och elever."
+      },
+      {
+        "category": "Minimera byggandet  av bostäder på jordbruksmark.",
+        "description": "I Kumla kommun byggs det alldeles för mycket bostäder på jordbruksmark vilket gör att det finns mindre utrymme att odla till exempel spannmål på."
+      },
+      {
+        "category": "Minska persnalomsättningen inom vård och omsorg.",
+        "description": "Att utreda hur Kumla kommun ska minska personalomsättningen inom Vård och omsorg för att därigenom få bättre kontinuitet och nöjdare vårdnadstagare"
+      }
+    ],
+    "motivateVote": "Lokalt i Kumla satsar vi mera pengar på en tryggare skolmiljö, vi kommer att bygga bort trångboddheten i skolorna, vi kommer att satsa mer på trygghet, vård och omsorg, vi vill stoppa byggnationer på produktiv åkermark.",
+    "name": "Sverigedemokraterna Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kumla"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "861",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4cda8be42294bd002339c905d636857a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det förflyttar endast problemet istället för att hitta en långsiktig lösning på det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cbb9b90f9be90ca877a4980606c2df09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill arbeta brottsförebyggande och långsiktigt istället för att komma med tillfälliga lösningar. Ser kriminella vakter går de ett kvarter bort tills vakterna försvunnit och kan sedan återuppta sina aktiviteter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c0d71ac51fb2d04812f78a44ecd67972",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har att välja på att avverka skog, odlingsbar markyta eller att förtäta bebyggelsen när fler (både invånare och företag) intresserar sig för staden. Vi vill behålla känslan av en småstad och då kan vi inte förtäta och bygga för mycket på höjden. Samtidigt har Kumla väldigt lite skog för rekreation och djurliv. Något vi har gott om är åkermark och den är bördig. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ac43a0cfa49da2fdcf85a3742f9328c6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns risk att det här sprider sig till andra delar eftersom det i dagsläget också finns privata vård- och skolalternativ. Vi vill inte att kommunen avvecklar de delarna som är vitala för vårt samhälle. Samtidigt vill vi att kommunen fokuserar mer på just kärnverksamheten med vård, skola och omsorg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "45838037d0ef2f37214a38583b8d1012",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra både för miljön, plånboken, hälsan och matintresset.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e944ad4dd15eba270925d122e4676e7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här kommer höra kommunen till en framtidskommun för hur arbetet kommer se ut. Dessutom kommer Kumla bli mer attraktivt för potentiella anställda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8959aad752c15713346b1e63c84aea3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den högsta prioriteten bör vara att få vård. Att kommunicera är självklart viktigt och ett önskemål vi också vill prioritera. Om valet står mellan att inte ha någon som kan vårda eller att ha någon som kan vårda men inte kan språket så bra är det andra alternativet bäst för de i behov av vård.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "471120fd15dfa75ef1280c27efbd1b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att se till att alla har råd att bo behöver vi se till att det finns prisvärda hyresrätter. Detta kommer bli särskilt viktigt nu när räntorna stiger.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "72d9613fb907c81eaaac1433baee227f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med privata aktörer finns risken att vårdpengen tas ut i vinst för bolaget istället för att komma vårdtagare till gagn.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bfca260e31b9e601a935472a027308ec",
+        "questionType": "PROPOSITION",
+        "reasoning": "En symbol för att vi satsar på gröna investeringar och gör det mer attraktivt för de som åker förbi att svänga in just i Kumla.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e04af6beee4cabf72c12e1b092f67fbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör ta vårt humana ansvar när människor flyr för sina liv. Vi bör dock också ställa krav på att de ingår vårt samhällskontrakt och följer våra lagar och regler.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d8e48d51da90b161fb22fee6bb323dc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata skolor i kommunen. Det är en bra nivå.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "adc5ee5047761b07019fa238c9e0b89b",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt. Kumla är bra på det här och vi kan bli ännu bättre. Det möjliggör för fler att dela med sig av sin kultur och även ta del av andras. Det gör även Kumla med intressant både för kumlingar och turister.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "197284e7ebbbb2d305a597abfbddeb68",
+        "questionType": "RANGE",
+        "reasoning": "Vi bör i alla fall lägga oss på regionssnittet för att möjliggöra fler framtidssatsningar och förekomma kriser som kan dyka upp i framtiden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5573209c95cd49838a961ff9ec682636",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1519",
+          "1514",
+          "1515"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;D;D;B;D;A;C;A;2/5;3/5;3/5;[1519,1514,1515]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterlett, en koalition mellan S och V.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Arbetstidsförkortning",
+        "description": "Vänsterpartiet i Kumla lägger fram ett förslag om förkortad arbetstid med målet 6 timmars arbetsdag. Vårt förslag är att det här först införs inom äldreomsorgen eftersom sjuktalen där är höga och det är svårt att behålla kompetent personal. Det är ett tungt arbete och vi måste värna de som brinner för att arbeta inom området. Man ska ha ork kvar både efter arbetsdagen och efter arbetslivet."
+      },
+      {
+        "category": "Gröna investeringar vid nyproduktioner",
+        "description": "Vänsterpartiet i Kumla vill att alla nyproducerade byggnader i kommunal regi ska ha solceller/solfångare och låg klimatpåverkan. Vi vill även att tomter som säljs villkoras med lov om gröna investeringar vid uppförande av såväl bostadsrättföreningar som villor. Vi ser att en tomtrabatt om man gör en grön investering är ett gott incitament för att öka viljan att investera i hållbar energi."
+      },
+      {
+        "category": "Allaktivitetshus",
+        "description": "Vi vill skapa ett allaktivitetshus. Ett ställe där inte bara idrott får ta plats, där kommer finnas kultur, fritidsgårdsaktivitet och annan social samvaro även för de som inte är föreningsanslutna."
+      }
+    ],
+    "motivateVote": "Eftersom vi vill att Kumla ska fortsätta kännas som en småstad och samtidigt göra moderna, miljövänliga satsningar.",
+    "name": "Vänsterpartiet Kumla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kumla"
+  }
+]

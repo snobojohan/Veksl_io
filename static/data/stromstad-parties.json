@@ -1,0 +1,1458 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1609",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Strömstad ska vara aktiv i den energiomställning som krävs! Detta ska ske i samklang med yrkesfiskets krav och behov för fortsatt yrkesfiske. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela kommunen ska leva och ges möjlighet att utvecklas då är skolor och förskolor viktiga komponenter för att kommunen ska vara attraktiv och växa befolkningsmässigt. Vilket Strömstad måste göra för att möta välfärdens behov av resurser.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": "De offentliga köket ska satsa på närproducerat och härproducerat vilket gagnar både måltiderna, landsbygdsföretagen, miljön och en hållbar kommun.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det offentliga ska inte snedvrida konkurrensen men kommunen ska ta sitt ansvar är för samhällsutvecklingen vad gäller bostadsbyggande i hela kommunen via sitt allmännyttiga bostadsbolag = Strömstadsbyggen",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara en bra arbetsgivare som ger stora möjligheter till kompetensutveckling och trygg arbetsplats. Kommunen kommer att ha stora problem framöver att finna rätt kompetens och rekrytera den arbetskraft som behövs inom välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att vård och omsorgspersonal i direkt vårdande uppdrag har rätt kompetens och då är språkförståelse en sådan kompetens. Dock kan det framöver finnas nya tjänster( vårdande uppgift) där fullständig språkförsåtelse från dag 1 inte är nödvändigt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ansvara och stimulera  att det sker byggande i hela kommunen vilket idag är viktigare. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns det efterfrågan av alternativ så ska det inte nekas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har idag stor tillgång och privata aktörer har varit aktiva i denna utveckling",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "Finns inget idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": "En mångfald av Kulturutbud som ger möjlighet för utövare såväl som att konsumera är bra för den enskilde såväl som för demokratin. Verksamheter ska ge föreningar såväl som enskilda att driva kulturverksamhet ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": "Välfärdens behov framöver kommer kräva mer resurser därför måste det finnas utveckling som hindrar skattehöjning. En skattehöjning drabbar alltid den som har sökt ekonomi och kommunens skattesats är relativt hög.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2362",
+          "2361"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;A!;A!;C;A;C;B;C;B;A;2/5;3/5;2/5;[2363,2362,2361]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte direkt",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En majoritets styre med c- konstellation beror på valresultat ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Får val och debatt inform valet avgöra",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "breddat näringsliv med stark besöksnäring och hållbar arbetsmarknad",
+        "description": "Strömstad kommun som gränskommun har många företag inom handeln därför bör kommunen stötta och stimulera nya företag som kan etablera sig runt om i hela kommunen och inom nygamla branscher som inom marinverksamhet och besöksnäring året runt.\r\n-satsning på skolorna och utveckla utbildning och ungas skolgång"
+      },
+      {
+        "category": "klimatomställning -framgångsfaktor för hela kommunen",
+        "description": "Strömstad ska ha en genomförandeplan t fossiloberoende 2030. Tydlig upphandlingsplan  för närproducerade varor och tjänster, energisparande och kommunen ska vara drivande i grönomställning"
+      },
+      {
+        "category": "trygg och resursstark grundskola  och bärkraftigt gymnasium.  Brett kulturutbud.",
+        "description": "Barn och ungas skolgång med fler vuxna i skolan och bra skolmiljö med moderna lokaler.Inriktningen på std gymnasium och vuxenutbildning är format utifrån elevernas och arbetsmarknadens behov. En mångfald av föreningar stärker den enskilda och samhället i stort."
+      }
+    ],
+    "motivateVote": "Centerpartiet värnar om att hela Strömstad ska utvecklas, och lägger förslag om boende i hela kommunen, värna om landsbygdsskolorna, samverkan med lokala satsningar på skolan och näringslivet måste stärkas för att kunna både trygga rekryteringsbehov för offentliga såväl privata. samverkan med företagarna för att utveckla o minska  Handels dominans och därmed jobbens sårbarhet. ",
+    "name": "Centerpartiet Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-stromstad"
+  },
+  {
+    "abbreviation": "FI",
+    "altingetCandidateId": "1610",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fi verkar för en utbyggnad av vindkraft och solenergi samt för\r\nutveckling av framtida förnybara energikällor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mensskydd är en nödvändighet som ungefär hälften av befolkning behöver under stora delar av livet. Utan fri tillgång till mensskydd riskerar mens att bli något som begränsar framförallt flickor och kvinnors liv. I en resolution från FN:s råd för mänskliga rättigheter sammanfattas att alla som har mens måste ha tillgång till mensskydd samt kunskap om kroppen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid nedläggning får barn på Koster uppåt två timmar pendling dagligen - motsvarande 48 extra skoldagar årligen. Det vore också katastrof för landsbygden att stänga skolorna. Det behövs mindre barngrupper och högre lärartäthet - Koster och Tjärnö har det. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt jordbruksverket står djurproduktionen för nästan 15 procent av världens totala utsläpp av växthusgaser. Det  finns även viktiga hälsoaspekter med att äta mer vegetariskt. Med mer grönsaker och mindre kött (och framför allt rött kött) sjunker blodtrycket, risken för tarmcancer minskar, kolesterolvärdena minskar, risken för diabetes och övervikt sjunker och din tarmflora påverkas positivt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En modern välfärd innebär balans mellan arbetsliv, familj och fritid.  Personer som får jobba kortare arbetsdagar sover bättre, är mindre stressade och oroliga, och i helhet friskare. En arbetstidsförkortning leder också till minskad arbetslöshet, vilket minskar våld mot kvinnor. Det är också en miljöfråga -  Man orkar och hinner ta cykeln eller sopsortera eller laga bättre mat.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Generella språktest kan utesluta lämpliga kandidater som underpresterar pga nervositet eller en dålig dag. Det skulle även skapa onödig administration. De som saknar ett tillräckligt avancerat språk ska, i stället för att ratas, utbildas i svenska och definitivt få utveckla språket genom praktik. Någon som går bredvid en period medan de lär sig språket kommer att bli en värdefull tillgång snart.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många privata företag har nyskapande idéer om vård, skola och omsorg och\r\nbidrar till en uppskattad mångfald i utbudet av välfärdstjänster. Fi vill värna om denna mångfald, som bland annat möjliggör\r\näldreboenden särskilt inriktade mot hbtq+-personer, samt omsorg på flera\r\nspråk än svenska. Huvudprincipen ska vara att den skattefinansierade\r\nvälfärden bedrivs i offentlig regi, men med alternativ.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska alltid tillåtas att ta emot fler än de anvisade människorna, men aldrig färre. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga regelrätta privatskolor i Strömstad. Feministiskt initiativ anser att staten ska ha huvudansvaret för skolan.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det viktigt med allas tillgång till kulturen. Vi vill se en gratis kulturskola. Vi har fått igenom att kultur- och fritidsnämnden ska lägga samma resurser på flickor och pojkar - innan dess gick 70 procent av resurserna till pojkar (!). Vi har fått igenom att kulturstrategin ska vara jämställd - självklart ska kommunen anlita kvinnliga och manliga konstnärer i ungefär lika hög grad. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2362",
+          "2361",
+          "2365"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;A!;D!;A;D!;A;D;C;D;A!;0/5;3/5;2/5;[2362,2361,2365]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre där jämställdhet, antirasism och klimat prioriteras - förstås!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokrafterna (SD). Vi är en motpol till SD och främlingsfientlighet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Krafttag mot mäns våld mot kvinnor",
+        "description": "Vi har drivit igenom utbildning om hedersrelaterat våld och förtryck till alla som jobbar med barn och unga, Huskurage i alla Strömstadsbyggens hyreshus, utbildning till alla i omsorgen \"Våldet går inte i pension\". Vi lyfter ständigt frågor om våld och eftervåld - med oss i kommunfullmäktige glöms kvinnors perspektiv aldrig bort!"
+      },
+      {
+        "category": "Förbättra arbetsförhållandena i kvinnodominerade yrken",
+        "description": "Varför är minutmål rimligt i hemtjänsten men absurt i Tekniska nämnden? Vi kräver en översyn av schemaläggningen i kvinnodominerade yrken i syfte att eliminera detaljstyrning och minutmål, samt att genast ge mer luft i schemat och marginaltid. Vi vill också återinföra serviceteamet som städar i hemtjänsten."
+      },
+      {
+        "category": "Förbättra skolan!",
+        "description": "Vi vill införa \"Tryggare skola\" för att motverka otrygghet och mobbing, införa frukost i skolorna då det enligt studier höjer studieresultaten och motverkar klassklyftor, införa gratis mensskydd, ha kvar glesbygsskolorna (!) samt införa tvåpedagogssystem då det minskar arbetsbelastningen, ökar kvaliteten på undervisningen och förbättrar lärares och barns arbetsklimat."
+      }
+    ],
+    "motivateVote": "En röst på oss är en röst för jämställdhet, för miljön och emot rasism! Vi har lagt flest motioner/förslag av alla partier de sista fyra åren. Vi gör skillnad - och har fått igenom så mycket i politiken att det inte fick plats på vår valbroschyr! Bl.a. Huskurage, utbildning till alla lärare om våld i namn av heder och till omsorgspersonal om våld mot äldre, koldioxidbudget m.m!",
+    "name": "Feministiskt initiativ Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "feministiskt-initiativ-stromstad"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1611",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Strömstad har inte något sådant bolag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "det saknas ekonomiskt underlag och konsekvensanalys, kommunen är största arbetsgivaren i Strömstad",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "i kommunen finns inte privatskolor",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": "men det är inte troligt i framtiden, viktigt att ta reda på hur skattepengarna används i förvaltningarna",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": "sjukvård dygnet runt\r\nskolan och utbildning\r\nomsorgen, äldrevården",
+        "value": [
+          "2363"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;C;B;C;B;D;A;C;B;C;3/5;2/5;1/5;[2363]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej men vi har tagit många frågor till lokal nivå och försöker omsätta dessa till praktiskt fungerande, tex vill vi att kommun skall få rätt att anställa läkare",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "KD vill samarbeta med andra partier som ställer upp, tycker lika, i våra viktigaste frågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "MP och C",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "KD i Strömstad vill utveckla vården i Strömstad - låt inte andra avveckla den",
+        "description": ""
+      },
+      {
+        "category": "KD i Std är för en skola med arbetsro och behöriga lärare till varje lektion",
+        "description": "KD kräver trygghet i skolan för både lärare och elever"
+      },
+      {
+        "category": "utveckla de områden där Strömstad har sin styrka idag, turism och upplevelse",
+        "description": "vi vill göra Strömstad till kurort igen, vilket Strömstad har varit tidigare\r\nbesöksnäringen/turism är viktigt för kommunen, inte bara gränshandel"
+      }
+    ],
+    "motivateVote": "KD i Strömstad vill driva frågor om vård dygnet runt i Strömstad i den befintliga fastigheten som tidigare var ett fungerande sjukhus. Vi har 130 km till sjukhuset NÄL i Trollhättan/Vänersborg efter kl 17.o00 på vardagar. \r\nVi vill ha en bättre skola, medlen har redan ställts till förfogande, skolpengen, men vad har det blivit.\r\nSkola o sjukvård är viktiga frågor för en kommuns fortlevnad och tillvä",
+    "name": "Kristdemokraterna Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-stromstad"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1612",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att det finns en tydlig målkonflikt som måste hanteras. Om vi ska elektrifiera, inte minst fordonsflottan, krävs betydande tillskott av fossilfri elproduktion. Mot det står bl.a. pågående verksamhet som yrkesfiske och naturvård. För att lösa denna målkonflikt och få till en samexistens krävs en tidig ingående dialog med direkt berörda parter inom yrkesfiske, vattenbruk och naturvård. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rimligt att man har tillgång till gratis mensskydd i skolan om behövs i \"akut\"",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna  arbetar för en positiv samhällsutveckling i hela kommunen och där spelar skolan en mycket central roll och det gäller naturligtvis också Tjärnö och Koster. Inte minst för Kosters överlevnad som livskraftigt samhälle behövs både barnomsorg och skola F-3.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kosten ska vara allsidig och i största möjliga mån ekologisk. Obligatorier/förbud rimmar inte med vår frihetsinriktning och det gäller även detta området.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Generellt ska inte kommunen driva bolag som konkurrerar med privat näringsliv. Undantag är t.ex Strömstadsbyggen och badhuset. Ska badhuset – som är en garant för en simhall i kommunen – överleva behövs ett visst komplement t ex friskvård. I en liten kommun finns aldrig någon garanti för att privata investerare är beredda att ta över",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "\r\nStrömstad en kommun där fulltidstjänst för alla som vill och kan är bra och gör att antalet personer som träffar brukare minskas.\r\nLönen måste vara knuten till antalet arbetade timmar. Viktigt att arbetsmiljö/arbetsvillkor inte sliter ut personalen, men då handlar det inte i första hand om att minska arbetstiden.   \r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Handlar inte om att utesluta någon utan istället om att ge möjlighet och hjälp för nyanställda  att öka sina språkkunskaper\r\nFör äldre är det en trygghet att kunna kommunicera med någon som behärskar samma språk. Bristande kompetens i det svenska språket för vård och omsorg är ett riskområde. Detta kan leda till att den enskilde får omsorgen och vården utförd på ett felaktigt sätt eller inte alls. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även om billiga hyreslägenheter efterfrågas, vilket är helt naturligt, ska vårt kommunala bostadsbolag, Strömbyggen, jobba utifrån affärsmässiga principer, vilket också är lagstyrt. Vad affärsmässiga principer är varierar, det är skillnad på centrala stan och t.ex. på Koster",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fri företagsamhet är viktigt. Äldreboenden och hemtjänst i privat form bidar till mångfald och större valfrihet. Givetvis ska samma kvalitetskrav ställas oavsett vem som driver verksamheten. Liberalerna vill även införa Intraprenad, som ägs och drivs kommunalt, självständig resultatenhet inom kommunens verksamhet som ges ökade befogenheter och ansvar för verksamhet, ekonomi och personal.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna stödjer fullt ut Strömstads kommuns övergripande mål om en fossiloberoende kommun 2030. Där spelar elektrifiering av fordonsflottan en avgörande roll vilket kräver en fungerande laddinfrastruktur. När det gäller publika/offentliga laddstolpar är kommunens huvudsakliga ansvar att identifiera lämpliga platser där kommersiella aktörer får möjlighet att etablera sig. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": " Det är viktigt att alla kommuner är med och tar sin del av ansvaret. Systemet med kvotflyktingar är bra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "Det måste naturligtvis vara en balans mellan tillgång och efterfrågan. Idag har vi inte några privat drivna skolor i kommunen, men skulle någon vilja driva skola i privat regi utifrån tydliga kvalitetskrav så stödjer Liberalerna detta.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig för bilden av Strömstad Vi tycker inte att kulturen i Strömstad är förfördelad i dagsläget.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": "Liberalernas utgångspunkt är att inte ta ut mer skatt än nödvändigt. Kan vi hålla den skattesats vi har idag är det bra. Klarar vi en liten sänkning är det också bra. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2364",
+          "2361"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;C;A!;B;B;B;C;B;D!;C!;B;3/5;3/5;2/5;[2363,2364,2361]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Naturligtvis kan man se vissa nyanser, men inget uttalat",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna har som mål att sitta med och styra kommunen i majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk skolan, trygghet och höjd kunskapsnivå",
+        "description": "Fler vuxna och studiero för bättre kunskapsresultat i skolan.\r\nUtveckla bygdeskolorna."
+      },
+      {
+        "category": "Utveckla och bygg trygghetsboenden",
+        "description": "Trygga boenden i olika former för våra äldre. Utveckla och bygg trygghetsboende och då kan det kommunala bostadsbolaget vara ett viktigt verktyg \r\nEget hemtjänstteam för äldre med behov."
+      },
+      {
+        "category": "Mer solenergi",
+        "description": "Förenkla för dem som vill satsa på solceller. Se över detaljplaner med krav på röda tegeltak."
+      }
+    ],
+    "motivateVote": "Liberalerna är en viktig samlade kraft i Strömstad med stor politisk kompetens med förmåga att driva utvecklingen framåt.\r\nUr vårt lokala program:\r\n-Vi sätter skolan först\r\n-Näringsutveckling genom samverkan kommun-näringsliv-fastighetsägare\r\n-Trygga boenden för äldre\r\n-Fortsatt utveckling av centrum, inkluderar gång- och cykelbro över Bojarkilen\r\n-Fokus på lokala klimat- och miljöarbetet\r\n\r\n\r\n\r\n",
+    "name": "Liberalerna Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-stromstad"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1613",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Istället för att lägga ned småskolorna vill vi skapa långsiktiga förutsättningar för fungerande skolor på Koster och Tjärnö. Skolorna är viktiga, inte minst för att möjliggöra för fler åretruntboende! ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": "Matens klimatpåverkan ska minska. Det är också viktigt att öka andelen ekologiskt och närproducerat kött.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga förslag om att avveckla kommunala bolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kortare arbetstid ger mer tid att spendera med familjen eller på fritidsintressen. Arbetsvillkoren inom äldreomsorgen är ofta tuffa och vi ser det därför som naturligt att succesivt införa arbetstidsförkortning där.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "I teorin ett bra förslag men i praktiken svårt utifrån den ansträngda situationen på arbetsmarknaden. Språket är viktigt och det måste därför finnas möjligheter att jobba och utveckla sina kunskaper i svenska språket samtidigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sveriges kommuner behöver gemensamt ta ansvar för att hjälpa människor som t ex flyr från krig. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": "När Strömstad ställer om har kulturen en viktig roll. Strömstad ska vara en evenemangsstad med rikt kulturliv. Vi vill också se ett större fokus på Strömstads historia.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2361",
+          "2365"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "_;D;A!;C;B;D;B;D;B;D;B;2/5;4/5;2/5;[2363,2361,2365]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "MP Strömstad är ett grön lokalavdelning med Strömstadborna i fokus. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det politiska innehållet är det viktiga för oss. Satsningar på skolan och ett bredare näringsliv ska kombineras med respekt för djur, natur och kommande generationer! ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett bredare näringsliv",
+        "description": "Vi behöver ett bredare näringsliv och fler möjligheter till utbildning. För att lyckas med det vill vi:\r\n-att kommunens politiker vågar lyssna på goda idéer och arbetar långsiktigt och målmedvetet för att locka nya företag. \r\n-planera bostäder i bra lägen.\r\n-skapa bättre pendlingsmöjligheter. \r\n-fortsätta satsningen på gymnasiet, vuxenutbildningen och fler alternativ för \thögskoleutbildning."
+      },
+      {
+        "category": "Miljö- och klimat",
+        "description": "Respekt för naturen och kommande generationer måste alltid finnas med i tankegångarna när besluten fattas. Vi vill: \r\n-bygga fler laddstolpar.\r\n-installera solceller mer på kommunens fastigheter. \r\n-skydda mer natur från kalhyggen och exploatering.\r\n-göra det enklare att cykla i hela kommunen.\r\n-införa källsortering av förpackningar i hemmet.\r\n-minska matsvinn och matens klimatpåverkan i kommunens kök."
+      },
+      {
+        "category": "Skola och omsorg",
+        "description": "Vi vill:\r\n-införa tvålärarsystem i grundskolan.\r\n-påbörja arbetstidsförkortning för personalen inom äldreomsorg.\r\n-öka personaltätheten i förskolan och skolan.\r\n-ta fram en strategi för att minska isolering hos äldre.\r\n-införa vinterarbetskläder för hemtjänstpersonalen, personliga assistenter och boendestödjare.\r\n-utöka satsningen på tillgänglig och sammanhållen kulturskola."
+      }
+    ],
+    "motivateVote": "Efter åren med stängd gräns har de flesta förstått att Strömstad behöver ställa om. Det behövs fler typer av jobb och bättre möjligheter till utbildning. En hållbar utveckling med strömstadbornas bästa i fokus. Satsningar på skolan och en meningsfull fritid åt unga ska prioriteras framför nya gallerior. Havet och naturen är styrkor som går att ta bättre tillvara!",
+    "name": "Miljöpartiet Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-stromstad"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1614",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Säkra en effektiv energiförbrukning och trygga\r\nelförsörjningen med energislag av låg klimatpåverkan -\r\nElen skall ha en energimix till rimlig kostnad",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan är en social arena för barns samvaro och samspel. I dagens samhälle sker barns gemenskap med andra barn till största delen i våra skolor och skolorna är viktig för barns utveckling och identitetsskapande. Socialt samspel, kamratskap upptar större del av barns vakna tid. I dag är elevantalet för lågt för att barnen skall kunna utvecklas socialt och emotionellt i samspel med skolkamrater. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall vara en support funktion till näringslivet istället för att konkurrera inom samma branscher mot våra kommunala företagare. Kommunen skall koncentrera sig på kärnverksamheterna vård, skola och omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett förslag som inte är genomförbart då det är kompetensbrist inom denna sektor. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ur patientsäkerhets perspektivet är det viktig med bra språklig förståelse. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre att hitta någon form av marknadshyror istället för att kommunen skall subventionera en del av bostadsmarknaden. Kommunen måste vara i framkant för att bygga nya bostäder även i andra former som t.ex bostadsrätter och ägarlägenheter ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrens är viktigt för att öka kvaliteten i våra välfärdstjänster inom offentlig och privat sektor.  ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta kan göras i samarbete med våra kommunala fastighetsbolag och den privata näringen. Att ansvara innebär inte att kommunen skall stå den ekomiska risken utan istället tillse att infrastrukturen med laddstolpar utvecklas inom kommunen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "Konkurrens inom välfärden ger ökad kvalitet i inom både privat och offentlig sektor.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för kommunens attraktivitet och berikar människors liv och samhället i stort, samt skapar jobb och tillväxt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": "Skatter i Strömstad kommun tillhör landets högsta därför går vi till val för att sänka skatten nästa mandatperiod. Det samlade skattetrycket ska inte öka, vi behöver veta att alla de skatter vi redan betalar, går till exakt de saker de ska gå till. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2364",
+          "2366"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;C;B;D!;A;D;B!;D;C!;C;3/5;2/5;0/5!;[2363,2364,2366]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola som möjliggör klassresor",
+        "description": "Skolan är välfärdens kärna och det börjar i klassrummen. Utbildning är den viktigaste vägen in i samhället. \r\n1. Ännu fler skickliga lärare, med rättvis lön\r\n2. Fler vuxna med rätt kompetens i skolan för att skapa trygghet och studiero, låt lärarna vara lärare\r\n3. Tidiga insatser med rätt kompetens i Strömstad mot den psykiska ohälsan som ökar bland unga tjejer och killar\r\n4. Gymnastikhall i Skee"
+      },
+      {
+        "category": "Moderaterna vill utveckla och bredda Strömstads näringsliv",
+        "description": "Moderaterna skall vara en samverkande part gentemot lokala företag och aktivt arbeta för kvalificerade företag att utvecklas och nyetablera sig i Strömstad kommun\r\n1. Stimulans av företagande skall genomsyra den kommunala förvaltningen\r\n2. Kommunen skall vara en drivande part i Strömstad & Co\r\n3. Förenkla och effektivisera byråkratin\r\n4. Nolltolerans för kommunen att konkurrerar med näringslivet."
+      },
+      {
+        "category": "Strömstad skall vara en självklar event och nöjesdestination hela året!",
+        "description": "Kommunalt ägarskap för att säkerställa en långsiktig event och destinations utveckling med ett fortsatt stort fokus på kultur\r\n1. Bredda utbudet av kultur \r\n2. Fortsätt utveckla Strömsvallen till en mer komplett multianläggning för fler aktiviteter\r\n3. Skapa ett eventområde centralt i stan\r\n4. Tillgängliggör och rusta upp Furholmen till en central bad och upplevelse plats med tillhörande badbåt"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-stromstad"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1615",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraften bör i första hand placeras där det finns en utbyggd infrastruktur t.ex. längs befintliga vägar. Även om vi måste bygga ut våra alternativa energikällor ska vi vara rädda om våra havs- och skogsmiljöer",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi önskar inte att avveckla skolor som har ett tillräckligt antal elever. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi önskar inga privata bolag inom skola och omsorg. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt utan statlig hjälp ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2364",
+          "2365"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;B;C;C;B;C;D;A;D;A;2/5;2/5;2/5;[2363,2364,2365]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna har under nuvarande mandatperiod visat att vi, trots pandemins påverkan på Strömstad, tillsammans med våra samarbetspartier genomfört många positiva åtgärder och satsningar som bidrar till att utveckla Strömstads kommun på många sätt. För den framtida genomförandekraften är det viktigt med en stabil politisk majoritet i kommunen där socialdemokraterna ingår. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan tänka oss att ha samverkan och samtal med de flesta partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Särskilt boende för våra äldre på Pilen 5 (gamla sjukhuset)",
+        "description": "I Strömstad ska det finnas bra boende i livets alla skeenden. Vi planerar för ett nytt modernt, välutrustat boende för äldre, centralt i staden där delar har utsikt över Norra Hamnen."
+      },
+      {
+        "category": "En rik fritid ",
+        "description": "Ett rikt förenings- och kulturliv är viktigt för Strömstad som boplats. Det är oerhört viktigt att stödja alla de ideella krafter som lägger sin lediga tid för att ge barn och unga en bra fritid och en bra start i livet."
+      },
+      {
+        "category": "Trygg studie- och arbetsmiljö",
+        "description": "Trygghet på jobbet ger människor trygghet i vardagen. Alla gynnas av att arbetsmiljön för t.ex. lärare och omsorgspersonal är bra. Om personalen trivs minskar personalomsättning och nyrekrytering blir lättare. Strömstads kommun ska vara en bra arbetsplats."
+      }
+    ],
+    "motivateVote": "För oss är det viktigt att ha fokus på Strömstads utveckling och göra vårt yttersta för att vår kommun fortsatt ska vara en attraktiv kommun att bo, besöka och verka i. Att våra verksamheter inom skola och omsorg ges bästa möjliga förutsättningar är några av socialdemokraternas viktigaste prioriteringar. Våra ideella föreningars viktiga insatser ska stöttas. Näringslivet ska breddas. ",
+    "name": "Socialdemokraterna Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-stromstad"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1616",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den ökade andelen väderberoende kraftproduktion i Sverige och i vårt närområde har medfört att en stor del av elproduktionen inte samvarierar med efterfrågan. Detta medför en stor instabilitet på elmarknaden och orsakar problem för både kunder och producenter. Befintlig vindkraft kan inte utan vidare stängas ned, men vi motsätter oss åtgärder för att öka andelen väderberoende elproduktion",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett fint förslag, men, I stort sett kan man redan idag få det gratis via skolsköterska och det finns inget som är gratis, alltid någon annan som betalar. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår utgångspunkt är att landsbygdskolor skall vara kvar, utvecklas och är helt emot \"centraliseringar\".  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge inte det kommunala bolaget blir förfördelat på någotvis kan det givetvis samexistera med privata näringar. Men Kommunen skall inte bedriva verksamhet som inte är av ett allmänt kommunalt intresse.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ser hellre att personal kan få en extra heldag ledigt, tror personal får mer utav den än kortare arbetsdag\r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom äldreomsorg talar vi svenska! Allt för att minska felbehandlingar m.m. pga. språkförbristningar. \r\n Vid vård av invandrade äldre, särskilt inom demensvård kan vårdtagarens hemspråk behöva användas. Men personal skall fortfarande kunna god svenska i tal och skrift. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommmunen skall tillhandahålla allmännyttiga hyreslägenheter. Men en kommun kan inte subventionera byggande av dessa, då det strider mot konkurrenslagstiftning. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som kommun kan vi se till att underlätta för de som vill etablera laddstolpar. \r\n I vissa fall montera på kommunala fastigheter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har vi inte möjlighet att ta emot, skall man som kommun kunna motsätta sig tvånget genom bosättningslagen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": "De privata aktörerna skapar valfrihet på marknaden och kan genom konkurrens förbättra skolan. Däremot behöver det finnas starka krav på kvalite och resultat i verksamheten.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna ett minskat skattetryck, men då måste slöseriet med offentliga medel minska. Vi vill att Strömstadsborna ska få valuta för sina skattepengar och att dessa hanteras varsamt och effektivt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2361",
+          "2366"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;A!;A;A;B;D!;C;C;C;D!;3/5;2/5;2/5;[2363,2361,2366]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det tror vi inte. \r\nKanske ang. behovet av fritidsgårdar. men håller med riksnivå om att man inte stävjar \"utanförskap\" med fler fritidsgårdar.\r\n Vi har arbetat mycket med att få aktiviteter för \"icke föreningsansluten\" ungdom. Vilket vi kommer fortsätta med.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samarbetar med den koalition där vi får mest genomslag för vår politik.\r\nOm det så är, på riksnivå \"svurna fiender\", spelar ingen roll.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Stänger inga dörrar, men ser det svårt att få till samarbete med C, MP och Fi.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "God omsorg",
+        "description": "För att omsorgstagare skall trivas och få en trevlig och god omsorg måste också personalen trivas. \r\nOmsorgspersonal skall få mer inflytande över sin arbetssituation. Få en god balans mellan fritid och arbete. \r\n \"Det säger mycket om ett samhälle, hur det behandlar barn och gamla\""
+      },
+      {
+        "category": "Trygg skolmiljö",
+        "description": "Fler vuxna i skolan krävs för att stävja oroligheter. Möjligtvis  med ett \"klassmorfar\"-system om förutsättningarna finns. \r\n tvålärarsystem är implementerat på vissa skolor, i vissa klasser. Ett system som verkar fungera bra, låt oss införa det på fler skolor. Samtidigt med ett förstalärarsystem med karriärmöjligheter kan få Strömstad att bli mer attraktivt för behöriga lärare."
+      },
+      {
+        "category": "Försiktig \"centrum\"utveckling",
+        "description": "Ett konservativt tänk vid förändring av stadskärnan. Stora omvälvande förändringar är aldrig bra, Strömstads prägel, gestaltning och kulturarv måste bevaras.\r\nExempelvis inte riva bort gammal granit till fördel för asfalt. Tillgänglighet kan lösas på andra sätt, med kulturarvet i åtanke.\r\n Bilen är en del av centrum, då Strömstad lever av hitrest turism."
+      }
+    ],
+    "motivateVote": "Vi vill se en effektivare kommun. Inte med effektiviseringar, snarare skall onödiga konstnader bort. \r\nEtt stort omtag ang. arbetsmiljön i omsorgen. De skall få ett större inflytande över sin arbetssituation, omsorgspersonal måste få en balans mellan arbetsliv och fritid. Med personal som trivs med sin arbetssituation, kommer också omsorgstagare få  det lätt att trivas. ",
+    "name": "Sverigedemokraterna Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-stromstad"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1617",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d4510eb0a3215c227953cc301a57083c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den har mycket stor potential att på kort tid öka den elproduktion som ska bidra till att ställa om industrin till miljö- och klimatvänlig produktion. Hänsyn ska tas till yrkesfiskare, marint liv och fågelliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8183853fac1ddd0c0b741a84bc13bf48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f9a5d6ff688613d4ac851af95fa351e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre hade varit att, som Vänsterpartiet föreslagit under 20 år, att införa boplikt . Vi har inte fått stöd från övriga partier. Nu har marknadskrafterna fått härja fritt vilket har gjort att husen har köpts upp för fritidsboende. Grunden för bra lokala skolor har därmed undanröjts.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "772c8a77e0d43f46220ffea24c047945",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5004c3a5ec1fa006b5cd23b1da4ef986",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det privata näringslivet kan bli bättre ordet utsätts för konkurrens. I vissa fall behöver nya kommunala bolag bildas, t ex ett bolag för handel med egenproducerad energi och ett byggbolag som kan bättra konkurrensen i byggbranschen för att sänka byggkostnader eller åtminstone hålla prishöjningarna nere",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "132725af9f2a740566eb692388afa35b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsplatserna inom vård och omsorg måste göras mera attraktiva. Det kan göra rekryteringen lättare. En kortare arbetsdag gör att personalen orkar jobba hela vägen fram till pensionen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7772be476e83412f7662253ae198cf75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ce3ffedb94eab0d8ea90b24aadbd8e20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f858dabe37ff79f970a9e058c7476b26",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0eb486c589a750d34a125962142c035b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bilar står för det mesta stilla. Viktigast är att bygga laddstolpar på Strömstadsbyggens garage och parkeringar. Kommunen ska bygga laddstolpar på sina parkeringar. Det är i första hand handlarnas uppgift att bygga laddstolpar på sina parkeringar. Det är ett konkurrensmedel för dem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c875ec5c71fae729f5e139b21806602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a144d66dc5811d245a215b2b6be66de3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc4fd5d3b1f57c344d2d7a7e98a1b465",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "200d98883f96831c751e969f3555afd9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4db97703204a4d88bdd0ec359374d90f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2363",
+          "2362",
+          "2364"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A;C;A;D!;B;C;A!;C;B;2/5;4/5;2/5;[2363,2362,2364]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill att Järnvägen ska upprustas, byggas dubbelspårig, förlängas till Östfoldbanan så att vi får en snabb, effektiv och sammanhängande järnvägsförbindelse Oslo-Strömstad-Göteborg-Malmö-Köpenhamn. Det skulle vidga arbetsmarknaden väsentligt och flytta godstransporter från lastbil till järnväg.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterpartiet i egen majoritet. Men vi kan samarbeta med socialdemokraterna och andra partier",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler och bättre jobb till Strömstad - för en rikare arbetsmarknad",
+        "description": "Beroendet av gränshandeln måste minskas. Det behövs nya arbetsplatser med andra yrken, högre löner och bättre möjligheter att kunna byta jobb. Bastekärr ska marknadsföras aktivt. Landbaserad laxodling i Kålvik kan starta om tillräckliga naturhänsyn tas. Ett gemensamt bolag kan bildas med närliggande kommuner för gemensam upphandling och för handel med egenproducerad energi. Fraktstöd till Koster."
+      },
+      {
+        "category": "Miljö och klimat",
+        "description": "De gemensamt ägda skogarna ska brukas med varsamma metoder, s k kontinuitetsskogsbruk. Fler naturreservat ska bildas, reservatet vid Capri ska utvidgas. Vi står bakom Naturskyddsföreningens förslag att göra ett stort naturreservat på Löveråsfjället. Bevara och nyplantera ålgräsängar."
+      },
+      {
+        "category": "Skola, vård och omsorg",
+        "description": "Skolorna ska ha en gemensam marin inriktning, där Kosterhavets Nationalpark, Naturum och Tjärnö Marinbiologiska Laboratorium är lokala resurser. Det behövs fler vuxna i skolan, tvålärarsystemet kan införas där störst behov finns. \r\nFör att kunna ta hand om de äldre i framtiden måste arbetsvillkoren och lönerna för de anställda förbättras. Vidareutbildning ska ske påbetad arbetstid. Ronden tillbaka"
+      }
+    ],
+    "motivateVote": "Fler och bättre jobb till Strömstad - för en rikare arbetsmarknad. Dubbelspårig järnväg sammankopplad med Oslo och Östfold. Fler naturreservat ska bildas för att nå klimatmålen. Stopp för kalhyggesmissbruket. Bättre arbetsvillkor för de som jobbar i omsorgen. Prov med sextimmars arbetsdag. Barnperspektivet är utgångspunkten i skolan. Stöd till lokal kultur. Avgiftsfri kulturskola. \r\n",
+    "name": "Vänsterpartiet Strömstad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-stromstad"
+  }
+]

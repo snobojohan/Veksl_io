@@ -1,0 +1,867 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2285",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola där varje elev får förutsättningar att lyckas",
+        "description": "Alla barn har rätt att få en bra utbildning och goda studieförutsättningar, oavsett var i landet eller kommunen man bor och oavsett förutsättningar i hemmet, med elevernas trygghet, hälsa och kunskapsutveckling i fokus."
+      },
+      {
+        "category": "Hela Åstorps kommun ska utvecklas!",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen och för en ökad livsmedelsproduktion, och en bättre beredskap. Vi ska ta tillvara på den kraften!"
+      },
+      {
+        "category": "Vår kommun ska bli tryggare för både kvinnor och män",
+        "description": "En viktig trygghetsfråga är att leva utan att vara rädd för att bli utsatt för brott, oavsett var du bor. Det behövs en lokalt närvarande polis och socialtjänst samt mer fokus på förebyggande arbete, bland annat i skolan bl.a. för att fånga upp unga i riskgrupp att hamna i kriminalitet och utanförskap."
+      }
+    ],
+    "motivateVote": "",
+    "name": "Centerpartiet Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-astorp"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2286",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bara elbilar ui Åstorp kommuns bilflotta",
+        "description": "Elbilar har låga driftskostnader och låga underhållskostnader. Därför kan kommunen minska utgifterna för de bilar som används. Dessutom är de helt fria från utsläpp. Bra för klimatet och bra som gott exempel för medborgarna."
+      },
+      {
+        "category": "Sänk skatten i kommunen med en krona",
+        "description": "Vi räknar med att de för oss viktiga åtagandena i både förskola/skola och inom socialförvaltningens ansvarsområden kan klaras ändå. Skattesänkning ger mer pengar kvar varje månad, som märks mest hos de med små marginaler. Då minskar också i viss mån behovet av försörjningsstöd. En dynamisk effekt av sänkt skatt ger på sikt fler invånare med höga inkomster och därmed goda skattebetalare."
+      },
+      {
+        "category": "Dammsug kommunen på all möjlig byggbar mark för bostäder och industrier.",
+        "description": "Många vill flytta till Åstorp redan idag. På grund av de goda kommunikationerna och bra läge för pendling till flera delar av Skåne söker sig många till Åstorp. Vi behöver hitta mer tomter för småhus och det behövs även mer lägenheter. Närheten till stora trafikleder gör också kommunen intressant för industrietableringar. Men vi vill så långt det går undvika att bygga på den dyrbara åkermarken."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-astorp"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2287",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a184bce0d7aebd055374a811e1e0f0ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kombination är nödvändig. Såklart är elbilar att föredra ur en miljösynpunkt, men vi anser att det inte enbart går att använda sig av elbilar inom kommunen. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "de77a52b6eddfcfb0243486d5f35d11a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nödvändigt på område som upplevs otrygga av vår medborgare. Tryggheten är ett stort problem i delar av Åstorps kommun och vi menar att ett viktigt led i hanteringen är en mer utbredd kameraövervakning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "650c0a1b7d2eac1882e5d228fe5dc721",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ingen fråga vi driver, men i princip står vi bakom marknadslösningen. Kommunala bolag kan i vissa fall fungera bra, men finns det privata bolag som kan utföra en tjänst bättre är det att föredra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "26b7bd5a55cb2790212474f531652bed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står bakom individens möjlighet att själv bestämma över vilken mat de ska äta i skolan. Det är mycket bra om köttfria alternativ erbjuds, men vi ser inte att det ska vara det enda alternativet barnen har att välja mellan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9086cf5bca46052a8e990632da2156e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ingen fråga vi driver. Vi ser att det finns en problematik inom vården med personal som får arbeta långa pass, däremot tror vi inte att en kortare arbetsdag med bibehållen heltidslön är lösningen på problemet. Istället tror vi att det behövs anställas fler inom vården, för att underlätta för personal att bli avlastade av varandra. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "96738a437684ab38c3d264473a134af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi menar att det är en grundläggande rättighet att som vårdtagare kunna kommunicera med personalen på svenska. Detta bidrar till en ökad trygghet och förståelse hos båda parterna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "801a0a5c7e85e802a144238fa938cd2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver alla hjälpas åt att integrera nyanlända i samhället. Däremot anser vi inte att man ska kvotera flyktingar in i olika skolor, utan det ska vara fritt för den som kommer till vår kommun att välja vilken skola de vill för sina barn, där friskolor såklart ska vara ett alternativ. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0e3ff4e18fbac5ad1d2530b68f7bc7b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står bakom marknadslösningen, och menar att det främst är marknaden som har i uppdrag att bygga nya bostäder. Ska kommunerna gå in och bygga billigare hyreslägenheter, menar vi att det måste komma från statlig håll (genom att se över byggstandarden) så att det blir likvärdigt i alla kommuner. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3df497231d4bcf7820ec400889e657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5aa587ab42cd42fe0bd60153e64ec2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi menar att kommunen till viss del visst kan finansiera allmänna laddstolpar, däremot finns det områden inom kommen där pengarna behövs mer. Så därför vore det att föredra om privata företag istället fick i uppdrag att bygga laddstolpar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "402857d72eef2fbec273b94c9b6aa5b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Går inte att generellt svara på detta. Vi har ett åtagande och skall vara med och bidra men Sverige som land behöver begränsa antalet och se till så att vi integrerar de vi har.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e689a23dd113a0c43fcb1b5b970a3802",
+        "questionType": "RANGE",
+        "reasoning": "Vi välkomnar gärna fler friskolor som vill etablera sig i Åstorp. I dagsläget har vi enbart ett fåtal förskolor som drivs av privata företag. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a23bdf8829a40a52bb5ad145cabddd98",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att det är viktigare att prioritera utbildning och fritidssysselsättningar för ungdomar. Vi driver, som ensamt parti, frågan om att lägga mindre resurser på kultur- och fritidsnämnden, då vi anser att de pengarna skulle kunna göra bättre nytta i bildningsnämnden istället. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "6babd097a8904dc740104a1b824626f9",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi en medelmåttig kommunalskatt, men vi ser gärna att den sänks och att vi ser över vad vi lägger pengar på i kommunen. Detta är dock ingen fråga vi driver i dagsläget, då vi ser att pengarna vi får in behövs i verksamheten i dagsläget. Vi ser även behovet av att öka andelen skattebetalare i kommunen. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4e4a06f5d157c65b17e61e854c968945",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "3018",
+          "3016",
+          "3019"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D!;C;A;A;D;C;C;C;C;C;3/5;1/5;1/5;[3018,3016,3019]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill leda och styra kommunen tillsammans med moderaterna. Vi ser gärna att vi tar stöd och även samarbetar med kristdemokrater och centerpartiet. Vi för samtal med alla politiska partier och finner gemensamma utgångspunkter där så är möjligt.   ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill föra dialog med alla politiska partier. Därav en öppenhet mot alla. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utbildning",
+        "description": "Satsa på de tidiga skolåren genom fler speciallärare och utökad lärartäthet. Riv Björnekullaskolan och bygg en ändamålsenlig högstadieskola. Utveckla måltiden för våra barn och ungdomar. Bygg tillagningskök på alla nya förskolor och skolor. Erbjuda alla idrottsföreningar tränings-och tävlingstider i våra hallar som inom snar framtid är sju stycken."
+      },
+      {
+        "category": "Kommunens utveckling ",
+        "description": "Utveckla Åstorp centrum, förtäta och gå snabbare från beslut till handling. Utveckla Bjärshögsområdet genom att skapa en mix mellan bostadsrätt-hyresrätt samt radhus. Ta tillvara Söderåsbanans möjligheter, arbete och attraktivt boende . Trygghetsvakter och en väntsal i Åstorp. Sanera deponin vid Norra Vallgatan. Genomför medborgadialog före större beslut."
+      },
+      {
+        "category": "Våra årsrika ",
+        "description": "Alla vårdtagare ska ha en kontaktperson. Alla äldreboende ska ha luftkonditionering (behaglig lufttemperatur) och wifi. Ersätt Vidåsen med ett nytt funktionellt äldreboende. Bryt oönskad ensamhet och erbjud näringsriktig mat inom äldreomsorgen.  Erbjud krögare att tillhandhålla varm mat till de äldre inom hemtjänsten. Bygg ett nytt trygghetsboende i Hyllinge."
+      }
+    ],
+    "motivateVote": "Vår skola skall ha fokus på kunskap, ordning och reda. Tidigare insatser för elevers lärande. Trygghet en mer öppen och tillgänglig polis som samarbetar med ordningvakter, fältarbetare samt kameraövervakning. Vi vill erbjuda krögare möjligheten att  tillhandhålla mat till våra äldre och även ha fokus på att bryta ensamheten. Värna jordbruksmark och strategi för vattenförsörjningen.     ",
+    "name": "Liberalerna Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-astorp"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2288",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a184bce0d7aebd055374a811e1e0f0ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ha en variation av fordon med olika drivmedels system, detta för att säkerhets ställa att vi alltid har tillgång till bilar. Givetvis ska de flesta vara elbilar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de77a52b6eddfcfb0243486d5f35d11a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har länge drivet på denna fråga, för att på ett sätt öka tryggheten för våra invånare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "650c0a1b7d2eac1882e5d228fe5dc721",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns idag kommunala bolag i kommunen och vi har inte för avsikt driva de vidare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26b7bd5a55cb2790212474f531652bed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kanske inte ska göra exakt så, men intentionen av förslaget är bra. Det behövs göras olika förslag för att förändra våra beteende för milön skull.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9086cf5bca46052a8e990632da2156e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns andra sätt att minska arbetsbördan för arbeten som är krävande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "96738a437684ab38c3d264473a134af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en viktig fråga att de äldre som är i behov av hjälp kan prata med personalen som tar hand om dem. Detta borde vara självklart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "801a0a5c7e85e802a144238fa938cd2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklarhet att vi hjälps åt med integreringen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0e3ff4e18fbac5ad1d2530b68f7bc7b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att vi bidrar till en variation av olika boendeformer i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3df497231d4bcf7820ec400889e657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigast är kvaliteten på tjänsten, inte vilken som utför den.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5aa587ab42cd42fe0bd60153e64ec2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi håller på att utreda detta, vi är inte säkra på att kommunen ska göra det, men kommer det inga andra kan vi tvingas att hjälpa till.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "402857d72eef2fbec273b94c9b6aa5b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Just nu behöver vi kunna integrera de människor vi redan tagit emot i Åstorp.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e689a23dd113a0c43fcb1b5b970a3802",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en förskola som drivs privat och det fungerar bra. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a23bdf8829a40a52bb5ad145cabddd98",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "6babd097a8904dc740104a1b824626f9",
+        "questionType": "RANGE",
+        "reasoning": "Det är givetvis en målsättning att ha så låg som möjligt, med hänsyn till att mycket nu blivit dyrt kan det vara så att vi ska sänka kommunalskatten. Vi har ett för högt skatteläget i Sverige och behöver på olika vis få ner det generellt. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4e4a06f5d157c65b17e61e854c968945",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;B;C;B;D;D;C;C;C;C;2/5;2/5;1/5!;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns det säkert men kan inte här nu säga något.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgerlig block som gemensamt kan föra Åstorp starkare och bättre rustade in i framtiden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Socialdemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet -vi ska inte avstå från att gå ut på grund av rädsla och otrygghet.",
+        "description": "Det finns mängder med olika förslag som behövs för att stärka känslan av otryggheten i kommunen. Nedan följer några av de förslag som finns för att förbättra den.\r\nSynligare polisnärvaro och fortsatt öppen polisstation\r\nÖppna en väntsal vid Åstorps järnvägsstation \r\nTrygghetsskapande belysning samt mer kameraövervakning\r\nTillsätta ordningsvakter\r\nMotverka hedersrelaterat våld och förtryck."
+      }
+    ],
+    "motivateVote": "Vi är det parti som kommer få ordning och reda på Åstorps kommun, som det är nu saknas kunnande, styrning och ledning i Åstorp. ",
+    "name": "Moderaterna Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-astorp"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2289",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a184bce0d7aebd055374a811e1e0f0ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "NSR tillverkar Biogas, vi gör gas av våra sopor som går till grön bränsle åt bla NSR sopbilar. Att bara satsa på elbilar kräver större ekonomiska muskler än vad kommun har idag. Därför ser vi biogas som ett komplement som också leder oss till ett grönare samhälle. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "de77a52b6eddfcfb0243486d5f35d11a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning är ett bra sätt att öka tryggheten i områden som upplevs otrygga. Men vi vill lösa roten till problemet och det gör vi genom att satsa på skola, omsorg och jobb. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "650c0a1b7d2eac1882e5d228fe5dc721",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att kommunala bolag är viktiga aktörer som möjliggör för kommunen att satsa i den riktning som vi vill driva utvecklingen. Det är också en garant för att se till att vi har tillgång till prisvärda lägenheter. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "26b7bd5a55cb2790212474f531652bed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi förstår intentionerna med köttfria dagar och håller med syftet. Dock så anser vi inte att tvång är vägen framåt utan att det finns bättre sätt att jobba med frågan. Till exempel jobba med att skapa förståelse för miljön i tidig ålder. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9086cf5bca46052a8e990632da2156e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslår i första hand ökad bemanning för att dela på arbetsbördan för de som jobbar inom äldreomsorgen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "96738a437684ab38c3d264473a134af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att all personal som jobbar med hemtjänst och äldreomsorg ska kunna göra sig förstådda med brukarna som de finns till för. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "801a0a5c7e85e802a144238fa938cd2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vill en skola etablera sig i kommunen tar man också ansvar för alla de barn som finns i kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0e3ff4e18fbac5ad1d2530b68f7bc7b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att kommunen är den som ska ge individen den frihet den förtjänar. Ett stort steg till sin frihet är sitt första boende. Billiga lägenheter kommer öka rörelsen i orten och i förlängningen även kommunens attraktivitet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3df497231d4bcf7820ec400889e657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata företag är ett bra komplement till den kommunala verksamheten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5aa587ab42cd42fe0bd60153e64ec2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna en övergång till en fordonsflotta som drivs av icke-fossilbaserat bränsle. Men att det är upp till marknaden att driva denna utveckling. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "402857d72eef2fbec273b94c9b6aa5b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag tar vi inte emot många flyktingar och därför ser vi inte detta som ett problem för kommunen att hantera. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e689a23dd113a0c43fcb1b5b970a3802",
+        "questionType": "RANGE",
+        "reasoning": "Så som skolpengen är utformad idag så anser vi att det skulle slå för hårt mot kommunens verksamhet och ekonomi om där skulle vara fler privata aktörer inom skolväsendet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a23bdf8829a40a52bb5ad145cabddd98",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker vi har ett brett utbud av kultur i Åstorps kommun. Vi vill gärna satsa mer på detta för att fler ska kunna ta del av det. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6babd097a8904dc740104a1b824626f9",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver ha en skattesats som täcker verksamheternas behov. Idag ser vi inget behov av att justera den då kommunen mår ekonomiskt väl och vi haft ett positivt resultat de senaste åren. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4e4a06f5d157c65b17e61e854c968945",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "3016",
+          "3020",
+          "3019"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C!;A;B;B;C;D;D!;C;A;B;2/5!;3/5;2/5;[3016,3020,3019]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I första hand egen majoritet. Om det inte är möjligt ser vi gärna ett samarbete med C och V fortsättningsvis, men vi utesluter inte heller andra konstellationer förutom ett samarbete med SD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De partier som har helt motsatta värderingar från oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill satsa på skolan",
+        "description": "Vi vill fortsätta med den lokala utvecklingen inom skolan, för att få en bra och hållbar arbetsmiljö för både elever och lärare. \r\nVi vill satsa på på att anställa fler specialpedagoger till skolorna."
+      },
+      {
+        "category": "Mer personal inom vård och omsorg.",
+        "description": "Vi vill satsa på en ökad bemanning på personalen inom vård och omsorg, för att öka kvaliteten för de behövande och för att förbättra  personalens arbetsmiljö."
+      },
+      {
+        "category": "Skapa en ökad trygghet",
+        "description": "Vi vill öka satsningen på det \"mobila teamet\" som innebär en ökad satsning till våra fältsekretera och fritidsgårdar.\r\nVi kommer att satsa på mer städning och underhåll av allmänna utrymmen samt gator och torg."
+      }
+    ],
+    "motivateVote": "Anledning till att de ska rösta på oss är att vi vet hur man tar ansvar och gjort det länge. Vi gör det som krävs och vi har förtroende för våra förvaltningar och att vi vill jobba på ett effektivt sätt utan att slösa skattepengar. ",
+    "name": "Socialdemokraterna Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-astorp"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2290",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a184bce0d7aebd055374a811e1e0f0ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inte emot elbilar men tror en mix är att föredra då olika krissituationer kan uppstå.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de77a52b6eddfcfb0243486d5f35d11a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då otryggheten ökar och polisen ofta är frånvarande tror vi att detta kan skapa ökad trygghet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "650c0a1b7d2eac1882e5d228fe5dc721",
+        "questionType": "PROPOSITION",
+        "reasoning": "Egentligen varken bra eller dåligt då det för oss är inte vem som driver verksamheten som är avgörande, utan kvalitén på den utförda tjänsten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "26b7bd5a55cb2790212474f531652bed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det valet ska vara upp till individen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9086cf5bca46052a8e990632da2156e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ställer oss positiva till detta då det är ett tungt och krävande arbete och oftast på oregelbundna tider.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "96738a437684ab38c3d264473a134af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att man måste behärska det svenska språket när man arbetar med människor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "801a0a5c7e85e802a144238fa938cd2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser som Sverigedemokraterna på riks att en förberedelseskola inrättas som ansvarar för nyanlända skolungdomar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0e3ff4e18fbac5ad1d2530b68f7bc7b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror nog att marknaden i första hand ska ombesörja detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3df497231d4bcf7820ec400889e657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att frågan om vem som driver äldreboenden eller hemtjänst är inte den viktiga, utan det är kvalitén i det utförda arbetet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b5aa587ab42cd42fe0bd60153e64ec2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns aktörer på marknaden som får tillhandahålla dessa.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "402857d72eef2fbec273b94c9b6aa5b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att motverka det stora utanförskapet och den ökade segregeringen är detta ett måste.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e689a23dd113a0c43fcb1b5b970a3802",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga för oss är inte vem som driver skolan utan det är kvalitén på undervisningen som är det viktiga.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a23bdf8829a40a52bb5ad145cabddd98",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en central av livet, politiken och samhällsbygget. Vi behöver kultur för det binder oss samman, skapar förutsättningar relationer och utvecklar vår livskvalité.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6babd097a8904dc740104a1b824626f9",
+        "questionType": "RANGE",
+        "reasoning": "Så fort ett hållbart utrymme finns ska skatten sänkas. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4e4a06f5d157c65b17e61e854c968945",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "3020",
+          "3021",
+          "3022"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;C;A;D;D!;A;B;C;A;D;3/5;3/5;1/5;[3020,3021,3022]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns det säkert men ingen som direkt är aktuell för närvarande.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi skulle vilja se ett styre där SD och M ingår, sedan är det ju inte otänkbart att fler partier skulle kunna ingå i detta styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärka det svenska språkets ställning",
+        "description": "Vi har länge arbetat för att stärka det svenska språkets ställning i kommunen genom ett antal motioner och förslag. Att behärska det svenska språket är en grundbult för en lyckad integration och den snabbaste vägen till egenförsörjning."
+      },
+      {
+        "category": "Upplevd otrygghet",
+        "description": "Åstorp är inget undantag, utan här upplever också en stor del av kommuninvånarna en stor otrygghet. Kommunen har beslutat att införa väktare samt utöka antal fältassistenter. Något vi efterfrågat under en längre tid. Väktarna börjar den 1/4 och ska tjänstgöra 5 tim/per dag. Sedan får väl detta utvärderas och framöver bör även kameraövervakning utnyttjas i större grad."
+      },
+      {
+        "category": "Stölder och ökad narkotika användning",
+        "description": "Åstorp har fortfarande stora problem med stölder och narkotika, men det är rekryteringen av unga som är det nya problemet. Här är det viktigt med ett gott samarbete med polisen så att fler kontroller kan utföras i de lokaler försäljning misstänks ske. Även utökad väktarverksamhet, fler fältassistenter samt kommunalt samarbete med nattvandrarna skulle kunna vara effektiva metoder att minska detta."
+      }
+    ],
+    "motivateVote": "I ett tidigt skede varnade vi för den ökande otryggheten, och även om fler partier nu vaknat behöver mer göras. Vi ser också med stor oro på den stigande inflationen och kommer att verka för att kommunens kostnader för ej lagstadgad verksamhet hålls nere så att avgifter och taxor ej behöver höjas då detta kommer att slå hårt mot många invånare. En väl fungerande äldreomsorg är också en viktigt.",
+    "name": "Sverigedemokraterna Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-astorp"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2291",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a184bce0d7aebd055374a811e1e0f0ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med elbilar som inte bidrar till utsläppen i staden men elen måste produceras någonstans.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de77a52b6eddfcfb0243486d5f35d11a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning skapar en falsk trygghet där problemen flyttar någon annanstans där det inte finns övervakning. Satsa förebyggande istället för att minska problemen istället för att flytta på dem.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "650c0a1b7d2eac1882e5d228fe5dc721",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det gemensamt ägda måste finnas kvar som ett alternativ, de privata aktörerna ska inte kunna roffa åt sig alla de attraktiva segmenten där de kan tjäna pengar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "26b7bd5a55cb2790212474f531652bed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste lära oss att det går att tillgodose sig de näringsämnen som vi behöver med en växtbaserad kost.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9086cf5bca46052a8e990632da2156e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en värdig ålderdom med personal som inte sliter ut sig utan även de ska kunna se fram mot sin ålderdom.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "96738a437684ab38c3d264473a134af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det går att lösa så att personen kan utföra sina arbetsuppgifter ser vi inget problem om svenskan inte är tillräckligt bra för att klara ett språktest. Det är svårt nog redan i dagsläget att hitta folk som vill jobba inom vård och omsorg, då ska vi inte göra det ännu svårare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "801a0a5c7e85e802a144238fa938cd2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "De vinstdrivande skolorna ska inte kunna välja att bara ta emot de elever som gör det möjligt för dem att göra största möjliga vinst.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0e3ff4e18fbac5ad1d2530b68f7bc7b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ansvar måste tas av samtliga aktörer, inte bara de kommunala bostadsbolagen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3df497231d4bcf7820ec400889e657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattepengar ska gå till verksamheten, inte till aktieägarna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b5aa587ab42cd42fe0bd60153e64ec2a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är så klart bra att det finns laddstolpar men det kan inte vara kommunens ansvar, kommunen förväntas ju inte äga några bensinmackar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "402857d72eef2fbec273b94c9b6aa5b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett ansvar att hjälpa dem som har det svårt, oavsett av vilken anledning.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e689a23dd113a0c43fcb1b5b970a3802",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inte ha några privata skolor över huvud taget. Det tar resurser som borde gå till det gemensamma istället.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "a23bdf8829a40a52bb5ad145cabddd98",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen måste satsa mycket mer på den lokala kulturen.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "6babd097a8904dc740104a1b824626f9",
+        "questionType": "RANGE",
+        "reasoning": "För att förbättra servicen för våra invånare kan en skattehöjning vara nödvändig. Parallellt med detta måsta vi även effektivisera verksamheten för att kunna få ut mer av varje skattekrona.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "4e4a06f5d157c65b17e61e854c968945",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "3016",
+          "3021",
+          "3022"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;A!;D;D!;A;D;D!;A!;B;A!;0/5!;4/5!;3/5;[3016,3021,3022]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nuvarande styre med V, S och C har fungerat bra. Vi fortsätter gärna det och hoppas att det kan stärkas ytterligare om vi får fler mandat.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD är otänkbart. M, KD och L blir svårt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreboende i samtliga av kommunens orter",
+        "description": "Kommunala äldreboenden ska finnas på samtliga orter i kommunen så att invånarna där får möjlighet att bo kvar där de kan ha bott under större delen av sina liv."
+      },
+      {
+        "category": "Inga vinstdrivande friskolor i kommunen",
+        "description": "Inga skattepengar ska gå till friskolornas ägare utan de ska gå till barnens och ungdomarnas utbildning."
+      },
+      {
+        "category": "Bättre kommunikationer med kollektivtrafik",
+        "description": "Avgiftsfri kollektivtrafik inom Familjen Helsingborg för alla över 70 år. Förbättrade kommunikationer med fler avgångar."
+      }
+    ],
+    "motivateVote": "För en politik som gynnar många istället för få, där pengarna går till kärnverksamheten och inte till privata intressen.",
+    "name": "Vänsterpartiet Åstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-astorp"
+  }
+]

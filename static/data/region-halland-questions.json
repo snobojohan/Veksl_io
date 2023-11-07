@@ -1,0 +1,156 @@
+[
+  {
+    "altingetId": "4793",
+    "description": "Med fast läkarkontakt menas att patienten får välja en läkare som den i första hand ska få ha kontakt med på sin vårdcentral.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "058d1398ab700b7dd9a991b8013867ba",
+    "slug": "patienter-ska-kunna-valja-en-fast-lakarkontakt-pa-vardcentralen",
+    "title": "Patienter ska kunna välja en fast läkarkontakt på vårdcentralen",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4794",
+    "description": "Förslaget innebär att det öppnas ambulerande vårdmottagningar som kan åka från ort till ort istället för att ha permanenta mottagningar i mindre orter.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "784142e0466efe6fad337aab49e863f5",
+    "slug": "mobila-vardcentraler-ska-inforas-pa-landsbygden",
+    "title": "Mobila vårdcentraler ska införas på landsbygden",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4795",
+    "description": "I dag finns dygnet runt-öppna akutmottagningar i Varberg och Halmstad. Det här förslaget innebär resurserna samlas i ett stort akutsjukhus mitt i länet.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "1b57f3902e603d972ed6c9f525f70a19",
+    "slug": "hallands-tva-akutsjukhus-ska-slas-ihop-till-ett",
+    "title": "Hallands två akutsjukhus ska slås ihop till ett",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4796",
+    "description": "Syftet med förslaget är att säkra att patienter och vårdpersonal kan kommunicera och förstå varandra på svenska.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "f4d5cfdc77667549c088cd8de0803cbe",
+    "slug": "vardpersonal-som-traffar-patienter-ska-ha-klarat-spraktest-i-svenska",
+    "title": "Vårdpersonal som träffar patienter ska ha klarat språktest i svenska",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4797",
+    "description": "Syftet är att förbättra arbetsmiljön för de anställda och göra arbetsplatsen mer attraktiv för att öka möjligheterna till nyrekryteringar.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "b31f3649ef8518d2f990850e67d06771",
+    "slug": "barnmorskor-i-forlossningsvarden-ska-erbjudas-forkortad-arbetstid-med-heltidslon",
+    "title": "Barnmorskor i förlossningsvården ska erbjudas förkortad arbetstid med heltidslön",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4798",
+    "description": "I dag ansvarar landets 21 regioner för sin egen hälso- och sjukvård. Invånarna betalar skatt till regionerna för dess verksamhet.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "8de49cb4477555277625da4f2402a2e8",
+    "slug": "regionerna-ska-lamna-over-ansvaret-for-sjukvarden-till-staten",
+    "title": "Regionerna ska lämna över ansvaret för sjukvården till staten",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4799",
+    "description": "Lagen om valfrihetssystem, LOV, innebär att privata vårdgivare som uppfyller uppställda krav har rätt att driva primärvård, till exempel hälso- och vårdcentraler, med ersättning från regionen.",
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "b2e6bf0ac3faf2787d6dfcd71c958331",
+    "slug": "regionen-ska-verka-for-att-begransa-privata-vardcentralers-ratt-att-etablera-sig-var-dom-vill",
+    "title": "Regionen ska verka för att begränsa privata vårdcentralers rätt att etablera sig var dom vill",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4800",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "5039201582211983a9062abb3d099905",
+    "positions": [
+    ],
+    "slug": "hur-mycket-skattemedel-ska-regionen-satsa-pa-kollektivtrafik",
+    "title": "Hur mycket skattemedel ska regionen satsa på kollektivtrafik?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4801",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "0e0f885e9111c1ddb27f558f3e2821cf",
+    "positions": [
+    ],
+    "slug": "hur-mycket-av-sjukvarden-ska-drivas-av-privata-foretag",
+    "title": "Hur mycket av sjukvården ska drivas av privata företag?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4802",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "c45bccd581087f1aae6e9381a0432ea6",
+    "positions": [
+    ],
+    "slug": "hur-mycket-ska-medborgarna-betala-i-regionskatt",
+    "title": "Hur mycket ska medborgarna betala i regionskatt?",
+    "type": "RANGE"
+  },
+  {
+    "alternatives": [
+      {
+        "id": "2048",
+        "title": "Anställa mer sjukvårdspersonal"
+      },
+      {
+        "id": "2047",
+        "title": "Erbjuda fler vårdbesök digitalt över nätet"
+      },
+      {
+        "id": "2053",
+        "title": "Erbjuda vårdpersonal specialistutbildning på betald arbetstid"
+      },
+      {
+        "id": "2052",
+        "title": "Införa gratis kollektivtrafik för ungdomar och pensionärer"
+      },
+      {
+        "id": "2049",
+        "title": "Skaffa en psykiatriambulans till länet"
+      },
+      {
+        "id": "2051",
+        "title": "Utöka stödet till bredbandsutbyggnad på landsbygden"
+      },
+      {
+        "id": "2050",
+        "title": "Utöka vårdcentralernas öppettider på kvällar och helger"
+      },
+      {
+        "id": "2046",
+        "title": "Öppna fler mottagningar för psykiatrisk vård"
+      },
+      {
+        "id": "2045",
+        "title": "Öppna särskilda vårdmottagningar för äldre"
+      }
+    ],
+    "altingetId": "4803",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-halland",
+    "id": "223a730ceb733d13193e5062b7313592",
+    "slug": "vilka-av-foljande-forslag-ska-min-region-prioritera",
+    "title": "Vilka av följande förslag ska min region prioritera?",
+    "type": "PRIORITY"
+  }
+]

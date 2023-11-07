@@ -1,0 +1,1600 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2077",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen och regionen måste bli attraktiva arbetsgivare för att vi i framtiden skall kunna rekrytera nya medarbetare då det blir brist på arbetskraft framöver. Kommunen skall ha konkurrenskraftiga löner, arbetsmiljö och anställningsvillkor för alla yrkesgrupper.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ställa om samhället mot mindre utsläpp och då behöver vi mer hållbar energi.. Vindkraft går relativt snabbt att bygga ut och är billigt i jämförelse med alternativen. Vi kommer behöva en mix av olika energislag i framtiden men vi måste ställa om nu. Att då kategoriskt säga nej är inte en seriös väg framåt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet stärker konkurrensen och utvecklar kvalitén. Våra äldre som har hemtjänst har möjlighet att välja utförare. Är de inte nöjd med kvalitén, bemötandet eller antalet personer som utför tjänsten då kan de välja någon annan. Det gör att både kommunen och de andra utförarna måste vara på tårna och göra ett bra jobb.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror det kan vara ett sätt att göra det möjligt att behålla personalen längre och göra det möjligt att arbeta efter pensionen. Men vi tror inte det skall gälla för alla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tillsvidare anställer inte någon som inte har adekvat utbildning tex undersköterska. För att klara en sådan utbildning behöver du kunna svenska språket på ett bra sätt. Ett språktest är därför bara resursslöseri.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2811",
+          "2814"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;B!;A!;D;C;B;B;A;C;B;2/5;3/5;2/5;[2816,2811,2814]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Västerviks bästa. Vi vill ha ett samarbete där vi får igenom så mycket som möjligt av vår egen politik utan att ge ytterligheterna i politiken till vänster och höger inflytande. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Sverige demokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En garanti för god undervisning",
+        "description": "För våra ungas framtid och för att vara en attraktiv kommun behöver vi en bra skola och barnomsorg. Vi vill att lärarna ska få mer tid till undervisning och kompetensutveckling. Vi vill ha en tydlig garanti med gemensam riktlinjer i hela kommunen för vad som skall läras ut och vad eleverna förväntas kunna för att vi skall säga att eleven kan läsa, skriva och räkna."
+      },
+      {
+        "category": "500 ytterligare företag till 2030.",
+        "description": "Våra företag skapar tillväxt och möjliggör utvecklingen av vår gemensamma välfärd. Det skall vara enkelt att etablera sig som företagare i Västerviks kommun. Genom en god dialog, minskat krångel och minskad byråkrati vill vi ge fler kraften att våga satsa på på företagandet eller att sattas på Västervik för att etablera sin verksamhet. Företagsklimatet skall präglas av att vi gör det tillsammans."
+      },
+      {
+        "category": "Höjda föreningsbidrag och ortsutveckling",
+        "description": "Vi vill stimulera de positiva krafterna i vårt i föreningsliv. Det arbete som alla eldsjälar gör i alla våra föreningar, för att motverka utanförskap, ohälsa och ungdomskriminalitet och för att bidra till en känsla av sammanhang och mening hos våra unga. Därför höjer vi föreningsbidraget.\r\nGenom ortsutveckling där vi tar vara på kraften i alla våra orter skapar vi en levande och välmående kommun."
+      }
+    ],
+    "motivateVote": "Grunden i vår politik är alla människors frihet och lika värde. Vi tror på människors förmåga att bestämma över sina liv och skapa sin egen framtid. Det är så vi tillsammans får hela landet, regionen och kommunen att växa. Det är så vi värnar klimatet och skapar ett hållbart samhälle. Det är så vi skapar utveckling både på landsbygden och i stan. Det är så vi utvecklar jämställdheten.",
+    "name": "Centerpartiet Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vastervik"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2078",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2815",
+          "2810",
+          "2814"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;C;B;C;D;B;D;A;B;C;3/5;2/5;2/5;[2815,2810,2814]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En regering bestående av moderater och kristdemokrater. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet och vänsterpartier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mindre barngrupper i förskolan",
+        "description": "I förskolegrupper 1-3 år ska grupperna innehålla max 12 barn. Mer tid för barnen focus på trygghet och anknytning för de mindre barnen."
+      },
+      {
+        "category": "Utvecklad  äldreomsorg för att möta de äldres behov",
+        "description": "Många äldre drabbas av någon form av demens, varje människa behöver få bli bemött efter behov. Fler demensavdelningar med specialutbildad personal. . Motverka äldres ensamhet, engagera civilsamhället."
+      },
+      {
+        "category": "Främja företagandet ",
+        "description": "Minska krånglet vid ansökan om tillstånd snabbare beslutsvägar. Påskynda tillgången på industrimark så fler företag kan etablera sig."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna är ett parti som värnar om alla människor. Vårt parti är det enda parti som har sjukvården som huvudfråga. Vi måste minska vårdköerna och göra sjukvården mer jämlik i hela landet. ",
+    "name": "Kristdemokraterna Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vastervik"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2079",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har drivit på i samtliga budgetar denna mandatperiod för att kommunen ska bli en attraktiv arbetsgivare. I detta ingår att höja löneläget i kommunen och i årets budget togs beslut om att höja de lägsta lönerna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta förutsätter att problem med brottslighet påvisats som är större än integritetsintresset",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Just nu har vi liberaler medverkat till ett temporärt stopp tills en ny vindbruksplan är tagen men generellt ser vi att det behövs en mångfald i energiproduktionen. Utbyggnaden av vindkraften ska ske med hänsyn till miljö, djur och kommuninvånare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är kvalitén och hur omsorgen utförs vi som kommun noggrant ska ha koll på och garantera - inte vem som utför den. Eventuellt kan vinstuttag till ägare behöva ses över/förändras.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet - en av våra riktigt stora utmaningar för framtiden!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är hur vi som kommun handlar upp och beställer varor, tjänster och byggnation vi kritiserar och vill förändra så att fler får verklig möjlighet att delta - inte att vi har ett par välskötta bolag. Grundtanken är att en kommun inte ska konkurrera ut det lokala näringslivet och kommunala bolag ska inte subventioneras eller få andra fördelar framför de privata.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man skulle kunna överväga sextimmars arbetsdag efter 60 års ålder men idag behöver vi främst satsa på att utveckla ledarskap och kompetensutveckling inom äldreomsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tillsvidareanställer endast de som är utbildade undersköterskor och för att klara den utbildningen måste man ha goda kunskaper i svenska språket. För övriga som anställs måste naturligtvis de satsningar som gjorts inom kommunen för språkutveckling (bl a språkombud inom Socialförvaltningen, praktiktjänstgöring m m) fortsätta. Det viktiga är inte själva testet utan att språkkunskaperna är s",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Billigare boende behövs för studenter och unga som vill flytta hemifrån och äldre som vill sälja sitt hus för ett boende som kräver mindre skötsel",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kanske inte en kommunal huvuduppgift utan det är andra trafikhuvudmän och brukarna själva som ska stå för kostnaden men inom vår verksamhet skaockså kommunen bidra till utbyggnad och omställning.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerviks kommun och vårt län behöver fler inte färre invånare för att klara den väntande arbetskraftsbristen. Den som har asyl- eller skyddsskäl ska få stanna. Utrikes födda är avgörande för vår jobbtillväxt och välfärd men vi behöver satsa mer på integration och språkutbildning så att alla kan komma snabbt i arbete.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Styrande för vilka skolor vi ska ha i Västerviks kommun är att de håller hög kvalité och inte drivs på religiös grund.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Ett rikt kulturliv bidrar till att locka fler att bosätta sig i vår kommun, spelar stor roll för hälsa och välbefinnande och kan medverka till att ge delaktighet i lokalsamhället.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Det finns fortfarande utrymme för förbättringar/besparingar och uppföljning så att våra kommunala medel används på bästa sätt innan en skattehöjning skulle vara aktuell.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2811",
+          "2814"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;B;B;D!;C;B;C;C;C;A!;2/5;3/5;2/5!;[2816,2811,2814]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Med starkast möjliga liberala inslag. Vi samarbetar gärna med alla som värnar individens frihet, respekterar att vi alla är olika och som delar vår tro att för att ett samhälle ska utvecklas och gå framåt måste vi både lita på varandra och tillåta mångfald. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja partierna på yttersta höger- och vänsterkanten",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fortsatt utveckling av resursskolan/resursgruppen för barn med särskilda behov",
+        "description": "Det är tack vare liberalernas kamp vi under mandatperioden fått tillbaka en resursgrupp/resurskola för barn med en särskild grad av särskilda behov. Tidigare majoriteter la ned den verksamheten trots att den fyller ett stort behov. Nu behöver verksamheten utvecklas och säkras för framtiden. Liberalerna är garanten för att det blir verklighet!"
+      },
+      {
+        "category": " Stadsnära naturreservat vid Tändsticksberget, Kulbacken, Lögarbergen o Ekhagen",
+        "description": "De många unika arter i växt- och djurliv som finns i det här området gör det mycket skyddsvärt. Naturreservatet ger oss ett extra unikt och attraktivt besöksmål som man enkelt når via en promenad från centrum ut längs strandkanten längs Slottsholmsleden. Reservatsdelen Etapp 1 är beslutad och klar men etapp 2 kvarstår. Ska det bli verklighet behövs liberaler i kommunfullmäktige och kommunstyre!"
+      },
+      {
+        "category": "Utveckla drönarveksamheten och annan högteknologisk verksamhet",
+        "description": "Västervik behöver en större andel företag inom högteknologi. Liberalerna vill göra en långsiktig satsning inte minst på vår drönarverksamhet så att fler företag med anknytning till den kan etablera sig."
+      }
+    ],
+    "motivateVote": "Skolan, sjukhuset och hållbar tillväxt först! är vad vi går till val på. Väljarna kan fortsatt lita på vårt fokus att fortsätta vara garanten för en bra skola med starkt stöd för barn med särskilda behov, att vi ska bli en attraktiv arbetsgivare, att miljöhänsyn och hållbar tillväxt genomsyrar alla beslut, att vi får fler företag att etablera sig och att vi får rätt vård, i rätt tid, på rätt plats",
+    "name": "Liberalerna Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-vastervik"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2080",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Systemet att arbetsmarknadens parter är de som driver processen om löner , att omfördela är också att satsa på låglöneyrken.\r\nDet handlar också om arbetsmiljö,  tid för återhämtning , önskad sysselsättningsgrad , möjlighet till utveckling och finansiera egna yrkeskläder där vi vill jobba för att förbättra villkoren .",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bygga stabila trygga samhällen främst genom att göra attraktiva mötesplatser ytor där folk umgås och upplever skapar kultur , inte kamera övervakningar i första hand. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vågar möta intressekonflikter och står stadigt när det blåser . Att producera förnyelsebar energi lokalt är särskilt viktigt här i elonråde 3 och 4 dvs södra Sverige . 100% förnyelsebart är målet tillika fossilfritt både gällande energi som drivmedel.  Naturligtvis skall miljöhänsyn tas vid vindkraftetablering och därefter genomföras där så är lämpligt. Medborgardialog är jätte viktig",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgsverksamhet är viktigt oavsett driftsformer, avarter av oskäliga vinstuttag hör inte hemma när grunden är våra gemensamma skattekronor. \r\nSärskilt kriminellt blir det när vinstuttag dessutom åsidosätter patientsäkerhet , arbetsmiljö och vårdbehov. Begränsat vinstuttag och reinvestera i verksamheten är en modell för att stävja multinationella bolag att dränera välfärden genom oskäliga vinstu.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimat och miljöarbetet är avgörande för oss våra barn och planetens framtid.\r\nVi vill att Västerviks kommun tar ledningen i klimat och miljöarbetet då vi som kustkommun är särskilt sårbara för klimateffekter så som havsnivåer, extremväder och torka med vattenbrist.\r\nTillsammans med gröna näringar utvecklar vi biogastillgången som lokalt drivmedel . Vi vill ha solpaneler på kommunala fastigheter!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala välskötta bolag är en resurs både för kommunen som för våra medborgare med sin samhällsservice. Bolagen handlar upp varor och tjänster för närmare 1 miljard årligen, och driver hållbarhetsarbete framåt  \r\nUpphandlingen ger mängder med lokala företag en viktig ofta avgörande grundintäkt för sin existens",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgen behöver möjlighet att lyfta sina medarbetare lönemässigt men även ge tid för återhämtning . Önskad sysselsättningsgrad är en del och att genomföra 6timmars arbetstid med bibehållen lön ligger i tiden.\r\nLivskvalitet är att kunna använda sin tid till att göra väl med familj, släktingar, vänner och föreningsliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ha praktiktjänstgöring för att komma i arbete och lära sig språket är en viktig metod. Språktest som krav/tröskel kan bli väldigt negativt för detta med praktikplatser. Vi ser arbetslag som team där olika förmågor kompletterar varandra . Att göra sig förstådd är viktigt och mångspråkighet är också en resurs i en tid när många äldre har annan bakgrund och modersmål än Svenskan. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan är viktig del på den lokala bostadsmarknaden och ska så förbli. Idag driftar och förvaltar VBAB - Bostadsbolaget även kommunfastigheter . Drift underhåll och nyproduktion där hållbarhet är ledord gör bostadsföretaget till en stabil och framgångsrik aktör som håller uppe en standard för drift och underhåll på marknaden. Billigt får aldrig tumma på kvaliteten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är naturligt att kommunen genom strategiska / publika platser erbjuder tillgång på laddbilsplatser till självkostnadspris . ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerviks kommun behöver fler inte färre människor. Vi ser varje människa som en resurs!  Grunden i solidaritet är att hjälpa människor som flyr krig och förföljelse , vi skall naturligtvis bli världsbäst på integration så flyktingar kommer in i språk och samhälle på ett bra sätt. Aktuella  Västerviksmodellen med värdfamiljer för Ukrainska flyktingar visar hur effektivt civilsamhället är. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Begränsa vinstuttaget från skola omsorg , det dränerar hela vårt samhälle. \r\nSen kan seriösa aktörer vara både pedagogiskt som kvalitativt bra jämte offentliga skolan . Kommunen har redan upplevt konkurser från privata sektorn och är och förblir huvudaktör för likvärdig skola.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är grunden för demokrati, kreativitet och nyfikenhet , genom kulturen prövas våra tankar och reaktioner och yttrandefrihet som hjälper oss förstå varandra och oss själva. Kulturen måste ges den självklara plats i det offentliga rummet som den förtjänar bl.a. genom kulturgaranti i skola/ omsorg.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill se varsamhet med skatteuttag , beskattar hellre prylar än människor (och deras arbete) ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2812",
+          "2814",
+          "2809"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;B;A!;D!;D!;A;D!;B;C;D;A;2/5!;4/5!;2/5;[2812,2814,2809]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokalt ser vi funktionellt på att samhället och våra offentliga rum skall vara klimatsmarta, trygga, robusta och tillgängliga. Som kommun är det viktigt att våra medarbetare mår bra och trivs med sina jobb och har en fritid som berikas av kultur och natur , kort sagt livskvalitet varje dag !",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samverkar med andra partier för att driva gröna frågor framåt!\r\nGrön omställning, biologisk mångfald, rikt kulturliv ,100%förnyelsebart i solidaritet och omsorg  med världens folk och kommande generationer.  \r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD är vår politiska motpol ideologiskt och medd helt olika värdegrund",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimat och miljö",
+        "description": "Västerviks kommun skall vara ledande i arbetet med klimatåtgärder och miljöfrågor. Det ska synas i kommunens hållbarhetsbokslut och i hållbarhetsrankingen. Vi vill främja ett klimatsmart näringsliv tex biogasproduktion , förnyelsebar energiproduktion , lokal matproduktion, ekoturism , kultur och  stärka civilsamhälle och föreningsliv"
+      },
+      {
+        "category": "Omsorg",
+        "description": "Vi vill vara en omsorgskommun både för barn, unga och äldre samt för människor på flykt som alla blir en resurs .\r\nVi bryr oss om och utvecklar uppdraget inom skola, vård, och barn- och äldreomsorg och jobbar för en god arbetsmiljö med tillräcklig tid för återhämtning. Vi vill se LSS verksamhet som tillgängliggör och servar resecentrum som trygg mötesplats."
+      },
+      {
+        "category": "Kultur",
+        "description": "Vi står upp för kulturen som en kraft för människor att växa och utvecklas tillsammans. Med upplevelser och skapande verksamheter ökar kreativiteten och den fria tanken, vilket bygger samhällen där de boende känner trygghet och gemenskap, grunden för demokrati."
+      }
+    ],
+    "motivateVote": "För Hållbar utveckling i solidaritet \r\n- för djur natur och ekosystem\r\n-för  människor på hela planeten \r\n-för kommande generationer \r\n\r\nDet finns bara ett Miljöparti som levererar grön omställning för planetens överlevnad, fossilfritt ,förnyelsebart och hållbart.\r\nVi vågar vikta intressekonflikter , prövar etablering av tex vindkraft och bejakar den sedan för att bidra till energiomställningen.",
+    "name": "Miljöpartiet Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-vastervik"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2081",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2810",
+          "2811"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C!;C;B;C;D;A;D;B;B;C;3/5;3/5;1/5;[2816,2810,2811]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre kvalitet inom skolla, vård och omsorg",
+        "description": "Vi vill prioritera resurser på att stärka kvalitén inom skolan i syfte att alla våra barn och unga ska få godkända resultat samt arbeta för en höjd kvalitet inom vård och omsorg med målet att ge mer tid och omtanke för de äldre. Vi vill också arbeta för att utveckla sjukhusets och sjukvårdens roll i kommunen."
+      },
+      {
+        "category": "Barn och ungdomars psykiska ohälsa, nyttjande av droger samt kriminalitet",
+        "description": "Vi vill motverka den negativa utvecklingen av psykiska ohälsan, nyttjande av droger samt kriminalitet. Detta ska ske genom att sätta tydliga mål och ett tydligt fokus på våra ungdomars behov. Vi vill engagera kommun, näringsliv, föreningsliv och civilsamhället. Vi är beredda att prioritera resurser på aktiviteter med tydliga effekter och resultat."
+      },
+      {
+        "category": "Ökad tillväxt",
+        "description": "Vi har som mål att kommunen ska öka sin ekonomiska tillväxt men också i antalet medborgare. Vi har som mål att bli över 40 000 invånare i hela kommunen samt att bryta den negativa ekonomiska utvecklingen. Vi behöver en gemensam strategi för tillväxt där näringsliv, kommun och civilsamhälle arbetar för samma mål."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vastervik"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2082",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket svårt att genomföra då det bryter mot kollektivavtalen som gäller för våra chefer. Vi tror heller inte på att ställa grupper emot varandra. Men vi har lagt förslag om att höja de lägsta lönerna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kan kan sättas upp där det är som mest nödvändigt för att öka tryggheten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vinster hör inte hemma i skattefinansierad välfärd",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte att vi har kommunala bolag som direkt konkurrerar med det privata näringslivet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tillsvidareanställer endast de som är utbildade undersköterskor och för klara den utbildning som ska man helt naturligt ha goda kunskaper inom det svenska språket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar emot de vi blir tilldelade, vilket har fungerat förhållandevis bra",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2811",
+          "2814"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;B;D;D;B;B;C;C;C;C;0/5;3/5;2/5;[2816,2811,2814]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vissa delar av hanteringen gällande vindkraft.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser det politiska styret sammansatt av partier som ser till alla människors lika värde. Vi styr gärna tillsammans med de som vill fortsätta att utveckla hela Västerviks kommun och sätta barn och ungdomar i centrum. Den senaste delen har vi styrt tillsammans med C, MP, L och Westervikspartiet vilket har fungerat utmärkt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna är inte aktuella utifrån nuvarande värderingar och ageranden",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En bättre folkhälsa i Västerviks kommun",
+        "description": "En fortsatt satsning på folkhälsan och föreningslivet vill vi socialdemokrater se. Färdigställande av nya idrottshallar, fler ytor för aktiviteter och en djupare samverkan med vårt viktiga och avgörande föreningsliv.\r\nPandemin har slagit hårt mot vårt samhälle och även mot våra barn och ungdomar. Därför vi vill se mer rörelse i skolan och gärna frukt till våra barn som går i grundskolan."
+      },
+      {
+        "category": "Fler och bättre insatser för våra barn och ungdomar!",
+        "description": "Alla barn har rätt att få tidiga insatser i form av stöd och hjälp om behov finns.\r\nVi vill se en djupare samverkan med regionen för att motverka den psykiska ohälsan hos våra barn och unga. Ett handslag med föreningslivet för att hjälpa till med meningsfulla aktiviteter för barn och unga."
+      },
+      {
+        "category": "Fler arbetstillfällen i Västervikskommun!",
+        "description": "Snabbare förbindelser både på väg och för tåg. Färdigställa ny industrimark i \r\nVästervikskommun. Fortsatt satsning på kompetensförsörjningen via Campus i Västervik. Fortsätta arbetet med service och bemötande för näringsliv och kommunmedborgare."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna i Västerviks kommun är det partiet som sätter välfärden först samtidigt som vi orkar att fortsätta utveckla kommunen på ett hållbart och ekonomiskt långsiktigt sätt. Vi är det partiet som ser till hela kommunens utveckling. Vi vill se en kommun som berikar alla med livskvalitet varje dag inte bara några få. Barn och ungdomar är vår framtid och ska prioriteras högre.",
+    "name": "Socialdemokraterna Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vastervik"
+  },
+  {
+    "abbreviation": "S-V",
+    "altingetCandidateId": "2083",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerviks kommun ligger i bottenligan när det kommer till löner för exempelvis undersköterskor - det duger inte! De lägsta lönerna måste upp om vi ska kunna rekrytera ny perosnal. De välbetalda som har mer än de behöver måste stå tillbaka, det är rättvist och rimligt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan behövas som en tillfällig åtgärd om brottsligheten är såpass grov att det motiverar kameraövervakning.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraften måste byggas med hänsyn till människor och miljö. Så ser det inte ut idag. TIlls dess reglerna ändrats bör vindkraftsutbyggnaden stoppas.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att pengarna ska gå till omsorgen och inte till vinster. Men den kommunala äldrevården måste också rustas upp så de äldre får den trygghet och livskvalitet de förtjänar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra om kommunen kan göra något men vi ska inte luras att tro att lokala åtgärder räcker. Klimatet är en global fråga, inte lokal. Klimatet kan bara räddas om produktionen demokratiseras och människo-och miljöhänsyn sätts före vinstintressen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag är inte det bästa sättet att förvalta kommununal egendom. Men att de skulle konkurera med privat näringsliv är inte i sig ett problem, nöringslivet har andra alvarligare problem.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstidsförkortning behövs, innan det genomförs måste man se till att det finns tillräckligt med perosnal på plats för att det ska funka. Höj löner, ob-ersättningar och betala utbildningen, det är steg 1 för att få mer personal.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att de som arbetar med äldre som är i behov av vård och omsorg ska kunna kommunicera med de äldre på ett bra sätt. Kan man inte svenska på bra nivå så går inte det. Vårdpersonal måste behärska svenska på god nivå.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är stor brist på billiga hyresrätter eftersom det inte lönar sig för privata flretag att bygga dem. Lösningen är att kommunen gör det. Det skulle också gynna byggsektorn och kommunens ekonomi i övrigt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tveksamt om det är kommunens uppgift och det är främst högavlönade som har råd med elbil. Vi ser hellre att kollektivtrafik på sikt blir gratis.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste få förutsättning att integrera de flykingar som kommer hit. Som det ser ut idag så lämpar staten över kostnader på kommunerna, det klarar inte kommunerna av, det blir inte bra. Tills en rimlig lösning är på plats måste mottagnade vara väldigt, väldigt begränsat.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska drivas i statllig regi anser vi. Då kan man få en skola som är likvärdig av hög kvalitet oavsett vart man bor. Men man bör också ta tillvara på den kompetens som lärarna i de privata skolorna besitter.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en viktig del av samhället, men vi kan inte utöka kulturbudgeten när vi inte har lärare och vårdpersonal så det räcker.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Den kommunala skatten borde sänkas, under förutsättning att staten tar på sig ansvaret för skolans finansiering. Annars får skatten tyvärr ligga kvar på oförändrad nivå.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2808",
+          "2810"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D!;D!;C;B;C!;D!;D!;B;D!;0/5;2/5;1/5!;[2816,2808,2810]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, vår rikspolitik och lokala politik är utformad för att stämma överens.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas att att vi ökar vårt inflytande så att vi bättre kan försvara välfärden och kommunmedborgarnas intressen. Vi hoppas att fler medborgare engagerar sig och ger sig in i kommunpolitiken så att det kommer in nytt blod i kommunfullmäktige. Det behövs fler människor med förståelse för hur verkligheten ser ut i exempelvis äldreomsorgen och skolan.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, men vi kräver garanti om nedskärningsstopp.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa nedskärningarna i vård skola och omsorg",
+        "description": "Varje år genomför den styrande majoriteten i kommunen nedskärningar inom skolan, vården och omsorgen. Resultatet är sämre skola för barn och unga, sämre omsorg för de behövande och sämre arbetsmiljö för de som arbetar. Det får vara nog med detta nu! Vi visar i vårt budgetförslag att nedskärningarna kan stoppas, de genomförs i onödan. Vi har rätt till vård skola och omsorg av hög kvalitet!"
+      },
+      {
+        "category": "Arbetskläder till personal inom skola och förskola",
+        "description": "Personal inom skola och förskola behöver arbetskläder exempelvis när man är ute med barn och elever på rast. Det är inte rimligt att kräva att personalen ska slita på sina privata kläder. Därför bör kommunen bekosta arbetskläder till personalen."
+      },
+      {
+        "category": "Bättre löner för de som bäst behöver det - sänk arvoden för högavlönade.",
+        "description": "De kommunanställda som har sämst betalt är ofta de som arbetar hårdast, exempelvis undersköterskor. Vi vill se en lönesatsning på dessa grupper. En del av pengarna kan tas genom att sönka löner och arvoden för höga chefer och politiker som redan har mer än de behöver. Vår satsning motsvarar 2500 kr i månaden för kommunens underskterskor, utöver ordinarie lönepåslag."
+      }
+    ],
+    "motivateVote": "Socialisterna - Välfärdspartiet är det enda partiet som på allvar står upp för skolan, vården och omsorgen i kommunen. Vi har som enda parti på ett trovärdigt sätt motsatt oss alla typer av nedskärningar i välfärden. Vi står upp för barn, elever, pensionärer och andra vårdtagare. Vi står upp för dem som arbetar i kommunen. Vi är ett parti som drivs ideellt av vanliga människor med vanliga arbeten.",
+    "name": "Socialisterna-Välfärdspartiet Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialisterna-valfardspartiet-vastervik"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2084",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "T.ex. undersköterskornas löner i Västerviks kommun tillhör de allra sämsta i Sverige, vilket måste åtgärdas omgående. Det handlar om prioritering!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Otryggheten breder ut sig i hela samhället så även här i Västerviks kommun. Våldsbrotten på öppen gata har blivit allt vanligare och vi måste stävja detta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraften förstör närmiljön för människor på landsbygden och är inte samhällsekonomiskt motiverad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna ser kvalitet och valfrihet som det som skall avgöra vem som utför omsorgen, inte om det är i privat eller offentlig regi. Vi vill däremot ha tydliga kvalitetskrav för att säkerställa bästa tänkbara omsorg. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige är idag redan bra på att lösa miljöfrågor nationellt. Klimatfrågan är en global fråga där Sverige kan göra skillnad med teknisk utveckling och forskning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag skall inte konkurrera med det privata näringslivet utan istället vara ett komplement. Det innebär då inte att vi ser någon anledning till att lägga ned kommunala bolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen realism i det här förslaget.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss Sverigedemokrater är det en självklarhet att all personal ska kunna tala och förstå svenska innan man börjar arbeta inom äldreomsorgen. Det är inte en värdigt när våra äldre inte kan förstå eller göra sig förstådda på grund av att delar av personalen inte förstår svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det hör inte till kommunens uppdrag att styra bostadsmarknaden, men däremot ser vi det som angeläget med fler studentlägenheter i Västervik.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det primära för kommunen är kärnverksamheten men kommunen kan däremot vara behjälplig för utbyggnad av fler laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige har redan tagit emot alldeles för många asyl- och anhöriginvandrare. Denna massinvandring har lett till mycket negativa konsekvenser på många områden och vi behöver nu få ett stopp på detta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser inte driftsformen som det primära utan valfriheten och kvaliteten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna ser kärnverksamheterna inom kommunen som det centrala och att nuvarande nivå på kulturanslagen är rimlig. Vi vill däremot prioritera svensk kultur och svenskt kulturarv. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser i nuläget gällande skattesats som rimlig. Vi vill däremot öka skatteintäkterna till kommunen genom högre självförsörjningsgrad.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2815",
+          "2812",
+          "2814"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;B;B;B;A;D!;B;B;D!;2/5;2/5!;2/5;[2815,2812,2814]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Medborgarna i Västerviks kommun ska känna sig trygga!",
+        "description": "Västerviks kommun ska permanent anlita väktare för att öka tryggheten på allmänna platser och i områden där brott ofta begåtts senaste åren. Vi vill se övervakningskameror på flera utsatta platser. Vi vill anställa fler fältare inom Socialförvaltningen. Vi vill förbättra belysningen på platser som idag upplevs som otrygga."
+      },
+      {
+        "category": "Levande landsbygd - på riktigt!",
+        "description": "Om människor ska kunna bo på landsbygden, krävs fungerande service. Sverigedemokraterna motsätter sig ytterligare nedläggningar av skolor och förskolor i de kringliggande orterna och på landsbygden. Vi säger nej till all ytterligare vindkraftsutbyggnad. Sverigedemokraterna vill också att en särskild landsbygdssäkring införs där kommunala beslut prövas utifrån hur de påverkar landsbygden."
+      },
+      {
+        "category": "Trygg omsorg – anständiga arbetsvillkor för dem som vårdar våra äldre",
+        "description": "Alla som arbetar i omsorgen ska kunna svenska. Endast utbildad personal ska anställas i omsorgen.  Sverigedemokraterna lovar att avsätta medel för att höja undersköterskornas löner med i snitt 2500 kronor i månaden. Deltagande i kurser om hygienrutiner ska vara obligatoriska för alla anställda i omsorgen. Tillgängligheten ute i samhället för personer med funktionsnedsättning ska öka."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vastervik"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2085",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tyvärr har marknaden fått och håller på att få alltmer inflytande över våra liv med följd att vi överkonsumerar framför ögonen på dem man arbetsleder. Detta leder till ett negativt modellbeteende samt urholkar löner till vårdanställda bl.a..",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tryggheten i samhället bör inte bygga på bevakning utan på god och solidarisk människosyn. Dock måste detta tyvärr användas, när inte alla insatser hjälpt",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har byggt ett energislukande samhälle och ser ut att bli än mer energislukande på sikt och har vi inga andra kretsloppsanpassade alternativ måste även vindkraft främst till havs användas men även lokalt om de närboende går med på detta.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorgen ska vara trygg, omsorgsfull och stimulerande för de äldre. Detta är inte möjligt om lägsta ekonomiska alternativ ska väljas. Det är kontraproduktivt med vinst och lägsta anbud.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla inklusive Västervik ska göra detta. Det viktigaste är dock att minska på konsumtion och ständigt tänka hållbart. Bästa barometern på detta får vi genom nöjda ungdomar över bra klimatinsatser i Västervik.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har visat sig fullt möjligt i Västervik att köpa tjänster av lokala näringslivet, när kommunala bostadsbolaget bygger bostäder i egen regi.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med en arbetstidsförkortning och i den bästa av världar är 6 timmars dagarbetstid bra men låt oss gå nedåt i etapper.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation i äldreomsorgen är mycket viktigt och det är inte bara språk man kommunicerar med. Är man vårdintresserad och inte kan språk utvecklas språket bra på en integrerad arbetsplats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt kommunala bostadsbolag ska bygga lägenheter med olika prislägen, för att öka integrationen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta kostar samt tas från något annat samt vi har ju inte som bekant obegränsat med el. Frågan bör beslutas utifrån ekonomisk och praktisk möjlighet och efterfrågan. Främst ska dock de, som använder elstolpar etablera sådana själva.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot de flyktingar, som har starka skäl för detta och det måste beslutas , fördelas och överblickas från nationell synpunkt och praktisk möjlighet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Många undersökningar har visat att privata skolor har förr eller senare plockat ut stora vinster, som kommit från kommunala skolpengen. Dessutom har det förekommit inflation i betygssättning vid de kommunala skolorna",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Ett samhälles överlevnad på sikt är hur mycket kultur, som skapas och utövas. Utan kultur skulle samhället bli allt fattigare på tid och längd.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Skattekraften beror på inkomster och utgifter och som det ser ut idag kan vi klara oss utan skattehöjning men det kan snabbt ändras.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2815",
+          "2814",
+          "2809"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;B!;D!;D!;D!;D!;C;D;C;C!;1/5!;4/5!;2/5!;[2815,2814,2809]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Klimat och miljöfrågorna angår inte bara nationell politik utan måste utgå från individen också.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en vänsterstyrt Västervik men framförallt ett samhälle på den vänstra sidan med en stark majoritet. Vi vill även ha ett starkt inflytande över välfärd, kultur, infrastruktur och klimat/miljö.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Helst vill vi undvika borgerliga samarbetspartners och utan Sd.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygden ska bibehållas och utvecklas ",
+        "description": "Landsbygden måste leva året runt och utvecklas med god infrastruktur och inte bara när tätorternas befolkning ska besöka sina sommarställen.  Vi måste utveckla kollektivtrafiken här istället för att flyga världen runt på sökande efter allt utplånat unikt, som finns på en en levande landsbygd."
+      },
+      {
+        "category": "Välfärden ska bevaras och utvecklas",
+        "description": "Det är genom en god välfärd såsom förskola, skola och äldreomsorg vi utvecklar samhället till ett bestående samt hållbart tillstånd. Det ska drivas utan vinstintressen för att ledstjärnan ska vara kvalitet och inte pengar. Vi delar på det vi har tillsammans för ett jämlikt samhälle."
+      },
+      {
+        "category": "Miljön ska vara hållbar",
+        "description": "Just nu konsumerar vi så att t.o.m. klimatet påverkas på vår jord. Vi utvecklar vår bekvämlighet , tidsvinst och njutning utan att ta konsekvens av vad det betyder på sikt. Vi har överutnyttjat haven, marken och nu ska detsamma ske med luften med än mer farkoster."
+      }
+    ],
+    "motivateVote": "Vi är det lokala parti, som slår vakt om ett uthålligt samhälle med god  miljö/klimat, kultur, infrastruktur och välfärd för att trygga ett solidariskt samhälle vilande på en jämlik grund.",
+    "name": "Vänsterpartiet Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vastervik"
+  },
+  {
+    "abbreviation": "WP",
+    "altingetCandidateId": "2086",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0cbae2e52ae574ae9d5753cb66d71075",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar väl mer om att de som har lägst betalt skall ha högre lön, sänker vi löner för en andra yrkesgrupper så tappar vi kompetens",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c6d35bd63d87cb17de8a352a8d7bb652",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste få stopp på skadegörelse och alla typer av brott",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c956f812e84486754c6b0e469c13e8a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom detta inte kommer kommuninvånarna till gagn, det är utländska riskkapitalister i huvudsak som vill låna markområden av oss för att tjäna pengar. Vi vill inte få våra naturområden förstörda. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "02c08176ae6a45d7ed96cf283e78371c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skulle däremot vara bra om vi kunde införa intraprenad på några av våra äldreboende igen. Det funkade mycket bra förra gången det prövades. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a954232fd91ca5eaefc2374fc13681c4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vi göra, då skall vi inte tillåta att skog skövlas för att ställa upp stora vindkraftsparker",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e05c4987e1876091c48beb735a2324",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag skall inte konkurrera med våra småföretag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f5c0cb33889c66330cb170d6919ca102",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tror att detta skulle ha stora fördelar, minskade sjukskrivningar, det skulle bli lättare att rekrytera nyutbildad personal och arbetslösheten skulle kunna minska. Vi tror det skulle vara bra för hälsan också ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87df6eea84052d038d092c97ce9d3490",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart är det en förutsättning om man kan tala och skriva  på svenska. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3dab04e6cbc96928a07b9cdb7ee27de6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vad Västervik behöver i form av billigt boende är studentlägenheter eftersom vi har en målsättning att det skall finnas plats för 2500 studenter på Campus",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d3569c2794caa84cbba77e64a36b9a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska bra, men det är brukarna som skall betala i första hand, inte kollektivet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02a23c1791424f3808f5414d13e922be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla är välkomna att flytta till vår kommun",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f376f2f1f2547e34a2b2377b811a0071",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att det är en bra mix med det vi har idag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f23eca87b21289ec28db7700b2c6eb14",
+        "questionType": "RANGE",
+        "reasoning": "Mycket mer, men det viktigaste är att vi återskapar en förvaltning för kultur",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "7066048f3135a1a745f86d1741296e80",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att det kan bli aktuellt med en skattehöjning om vi skall klara av de ökade kostnaderna för framförallt el, skolskjutsar och ökade matkostnader samt de investeringar som vi har planerat framöver.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "4de01879e6f5d77b42a9b17c2643b584",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2816",
+          "2810",
+          "2811"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;D;C;C;C;D;C;C;C;A;2/5;4/5;3/5;[2816,2810,2811]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "NEJ, vi är oberoende och har inget riksparti som bestämmer över oss",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är varken vänster eller höger, vi arbetar över blockgränserna",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna, Socialisterna Välfärdspartiet och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättrad arbetsmiljö kärnverksamheterna",
+        "description": "Vi vill arbeta för en bättre arbetsmiljö inom kommunens kärnverksamheter"
+      },
+      {
+        "category": "Förbättrad infrastruktur ",
+        "description": "Vi vill förbättra infrastrukturen till och från vår kommun till Jönköping, Linköping, Norrköping och Visby via väg, tåg och båt. Men även i vår kommun."
+      },
+      {
+        "category": "Fokus på kulturism ",
+        "description": "Vi vill återstarta den tidigare nedlagda kultur- och fritidsförvaltningen som idag bara är ett utskott under kommunstyrelsen. Men med andra fokusområden såsom besöksnäring, fritid vill vi flytta över till barn- och utbildningsförvaltningen."
+      }
+    ],
+    "motivateVote": "Westerwikspartiet är ditt lokala parti, som vill verka för en bättre vardag för alla som bor i vår kommun",
+    "name": "Westerwikspartiet Västervik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "westerwikspartiet-vastervik"
+  }
+]

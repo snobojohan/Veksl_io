@@ -1,0 +1,1355 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1208",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1840",
+          "1838",
+          "1844"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;D;D;A;D;D;C;C;B;B;3/5;3/5;2/5;[1840,1838,1844]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer \r\ninte att ge SD makt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela Nora kommun ska utvecklas!",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. Fler behöver tillgång till bredband, det ska vara lättare att bygga bostäder, också i strandnära lägen. De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen och för en ökad livsmedelsproduktion, och en bättre beredskap. Vi ska ta tillvara på den kraften!"
+      },
+      {
+        "category": "Vår kommun ska bli tryggare för både kvinnor och män ",
+        "description": "En viktig trygghetsfråga är att leva utan att vara rädd för att bli utsatt för brott, oavsett var du bor. Våld i nära relation är ett allvarligt problem. Vi vill ge långsiktig finansiering av tjej- och kvinnojourer. Det behövs en lokalt närvarande polis och socialtjänst samt mer fokus på förebyggande arbete för att fånga upp unga i riskgrupp att hamna i kriminalitet, missbruk eller utanförskap."
+      },
+      {
+        "category": "En skola där varje elev får förutsättningar att lyckas ",
+        "description": "Alla barn har rätt att få en bra utbildning, oavsett var i landet eller kommunen man bor, med elevernas trygghet och kunskapsutveckling i fokus. Vi vill utveckla elevhälsan och samarbetet med BUP och att samverkan mellan skola och socialtjänst utvecklas. Fler unga ska få hjälp i tid."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård.  Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism.",
+    "name": "Centerpartiet Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-nora"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1209",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-nora"
+  },
+  {
+    "abbreviation": "LPo",
+    "altingetCandidateId": "1210",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1838",
+          "1844",
+          "1841"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D;C;A;D;D;A;A;B;C;2/5;1/5;2/5;[1838,1844,1841]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samverkar gärna med Norapartiet och Centerpartiet, men är öppen för att samverka även med andra partier som inte låter sig styras av centraliseringstankar där regionala och stora enheter har fokus.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har svårt att se hur en samverkan med Socialdemokraterna  ska se ut.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öppenhet i politiska processen",
+        "description": "Kommunens medborgare måste känna delaktighet  och att det går att kommunicera med de styrande politikerna. Politikerna måste lyssna till invånarna, föreningslivet och företagarna. \r\nKommunstyrelsens möten ska öppnas och ambuleras Fullmäktige webbsändas och innehåller  allmänhetens frågestund ."
+      },
+      {
+        "category": "Basservice till våra barn",
+        "description": "Förskolor ska ligga nära familjerna och ha mindre enheter Vi vill minska till  14  barn/ per grupp höst samt införa en förskole buss som vi tror ökar Noras attraktivitet och flexibilitet. Mindre klasser i åk F-4 som gynnar inlärning, omvänd skolskjuts, det vill säga lika väl som barn slussas till staden kan de gå i skolan utanför Nora."
+      },
+      {
+        "category": "Svensk mat för miljö och klimat",
+        "description": "Maten i skolan och på äldreboenden ska vara svenskproducerad \r\nÄldre som har matleveranser ska erbjudas ett större utbud av husmanskost inte nödvändigtvis tillagad av kommunen Bättre förfrågningsunderlag som gynnar lokalproduktion,  Vi ser gärna ”ko på rot” och och äpplen från Alntorps Ö samt  att  vi odlar egen potatis. Ökad självförsörjning gynnar både ökad sysselsättning och miljö"
+      }
+    ],
+    "motivateVote": "Landsbygdspartiet oberoende står för öppenhet och dialog i den politiska processen. Vi lyssnar till föreningslivet och näringslivets synpunkter om vad som fungerar bra och mindre bra i Nora.  Vi ska vara bäst, inte sämst Det slutsparat på barnen och vi behöver trygghetsboenden för våra äldre. LPo står för en politik där mindre grupper och omsorg har fokus. ",
+    "name": "Landsbygdspartiet Oberoende Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "landsbygdspartiet-oberoende-nora"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1211",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-nora"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1212",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den gamla skolan utgör i dagsläget en mycket bristfällig arbetsmiljö för eleverna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1840",
+          "1844",
+          "1841"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D!;A;D;C;D;C;D!;B;C;2/5;4/5;2/5;[1840,1844,1841]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna styre i samarbete med Socialdrmokraterna, Centern, Liberalerna och vänstern.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "att minska barngruppernas storlek inom förskolan till högst 14 barn per grupp",
+        "description": "Vi vill att maxantalet barn inom grupperna i förskolan ska vara 14, barn. Detta för att värna både barnens trygghet och utvecklingspotential, samt främja arbetsmiljön för pedagoger och annan personal."
+      },
+      {
+        "category": "-att vårdbiträden får undersköterskeutbildning på arbetstid",
+        "description": "Arbetsvillkoren för personal inom äldrevården behöver stärkas! Vi tror att utvecklingsmöjligheter skapar stimulans och tillfredsställelse med arbetet och borgar för att fler blir kvar på sina tjänster. Vi vill också se tillämpande av ”önskad arbetstid” för personal i omsorgen."
+      },
+      {
+        "category": " Att göra Nora  självförsörjande på el genom exe",
+        "description": "Nora kommun behöver hjälpa till i omställningen mot ren energi och att bryta behovet av smutsig energiimport från andra länder. Egen produktion av förnybar energi lönar sig dessutom snabbt ekonomiskt och kommer framtida skattebetalare till gagn!"
+      }
+    ],
+    "motivateVote": "Tillsammans ska vi se framåt. Där vi, norabor, vårdar och värnar våra gemensamma skogar och naturområden. Där kommunen gör sin egen gröna el. Där små förskolor finns utspridda där barnfamiljerna bor. Där äldre har en plats att träffas och hitta vänner. Där vi har bra arbetsvillkor i skola och omsorg. Där både bandy och fotboll får plats och kommunen tar tillvara ideella eldsjälar som vill arbeta. ",
+    "name": "Miljöpartiet Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-nora"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1213",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att vi kan säkerställa en hög kvalitet på den offentliga måltiden genom ett centralköksförfarande. Det ger dessutom staden en bättre ekonomi.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora har en svag ekonomi och saknar utrymme för den här nivån på barnomsorg.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra barn är framtiden. Vi investerar därför i en helt ny lärmiljö i toppklass.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora kan precis som landets övriga kommuner erbjuda dessa tjänster som ett val. Vi har stor respekt för människors kunskap och förmåga att ta ansvar för en kvalitativ vård oavsett om det är i egenregi eller i företagsform. Sammantaget är syftet givet: Att det fria valet driver en positiv utveckling för vårdtagaren.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora saknar ekonomiskt utrymme för denna reform som har en stor kostnadspåverkan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi eftersträvar en nära vård. I den är dialogen mellan den som utför vårdtjänsterna och vårdtagaren avgörande. Goda språkkunskaper i svenska måste säkerställas för att kunna leverera en kvalitativ vård.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska otvetydigt ha samma uppdrag när det gäller emottagande som kommunala.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att bostadsmarknaden ska fungera i livets olika faser och för olika grupper. Det ska vara enkelt att hitta en bostad i Nora oavsett om man vill köpa eller hyra. \r\nAtt på förhand subventionera hyran med hjälp av skattemedel leder fel.\r\nDen eller de som av olika skäl inte har råd med sin bostad prövas i våra sociala bidragssystem. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte hållas ansvarig för en investering i laddstolpar. Däremot är det viktigt att vi tillmötesgår marknaden och underlättar för en utbyggnad.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra emottagande bygger på att staten på förhand definierar allt väsentligt som ska vara uppfyllt kring varje kommuns förutsättningar. Därefter gör kommunen ett åtagande tillsammans med berörda myndigheter. Ett åtagande som skett i dialog baserat på möjligheten att erbjuda boende, skola och allt annat som är väsentligt för ett gott mottagande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": "God konkurrens leder till sunda marknader som gynnar konsumenterna.\r\nEn kommun har dock helt andra förutsättningar att bedriva affärsverksamhet jämfört med ett traditionellt företag. Det viktiga är att kommunens verksamhet inte snedvrider konkurrensen till exempel om en ren myndighetsutövning blandas med affärsverksamhet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en väl fungerande skolverksamhet med inslag av en friskola. Vår stads storlek lämpar sig väl för det utbud som gäller i dag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska bevara och utveckla vår kulturmiljö för ökad attraktionskraft gentemot medborgaren och besökaren. Vårt kulturarv ska synliggöras med en högre kvalitet, bland annat vår veteranjärnväg och bergsmansbyn Pershyttan. Vi ska ha en kulturskola som når fler. En välskött kulturmiljö är betydelsefull för mångas trygghet och identitet.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": "Nora har förhållandevis en svag ekonomi. Vår historiska skuldsättning blockerar utrymmet för kommande och nödvändiga investeringar i vår kärnverksamhet. Nora har goda möjligheter att säkerställa en framtidsekonomi. Vi vill åstadkomma detta genom att fortsätta reducera våra verksamhetskostnader till en nivå med jämförbara kommuner samt avyttra  tillgångar som inte ingår i det kommunala uppdraget.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1840",
+          "1838",
+          "1837"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D!;D!;B;D;D;A;B;C;B;2/5;3/5!;2/5!;[1840,1838,1837]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill i majoritet fortsätta att göra Nora ännu bättre",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vårt samarbete baseras på innehållet i övriga partiers handlingsprogram.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En långsiktigt hållbar ekonomi",
+        "description": "Vi vill framtidssäkra Noras ekonomi. Genom att vi ser till att kommunens totala skulder håller sig på en sådan nivå att  vi kan fortsätta investera i våra kärnverksamheter . Vi vill också verka för att kommunens verksamheter bedriv s på ett kostnads effektivt, hållbart och ändamålsenligt sätt. För att säkerställa en god framtidsekonomi för alla Norabor."
+      },
+      {
+        "category": "Skola och bildning",
+        "description": "Färdigställa projekt Karlsängsområdet med ny högstadieskola för att ge våra elever och personal dom bästa förutsättningar för att få fler elever med behörighet till gymnasiet med en tydlig handlingsplan. Förstärkt stöd till elever med behov av extra hjälp och även till särbegåvade elever. Stärk lärarnas auktoritet och möjligheter till kompetenshöjning."
+      },
+      {
+        "category": "Leva och verka i Nora",
+        "description": "Vi ska vara den kommun som ligger i topp i länet när det gäller utbudet av idrotts och motions anläggningar. Vi ska utveckla Noras unika kultur och aktivitets tradition för att locka ännu fler besökare. \r\nVi vill växa och bli fler för att säkerställa välfärdstjänster och service som medborgarna har rätt till idag och imorgon. Upplevelsen måste fortsatt vara  att vi bor i en liten kommun."
+      }
+    ],
+    "motivateVote": "Nora har stora möjligheter att attrahera nya medborgare och företag. Det tycker vi är bra eftersom en anpassad och förutsägbar tillväxt gynnar utvecklingen av de offentliga välfärdstjänsterna och hela vårt samhälle. Nora står inför en rad utmaningar. Lösningen är en politik som bygger på att ompröva, prioritera och förnya. Vi vågar ifrågasätta gamla föreställningar. \r\n                              ",
+    "name": "Moderaterna Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-nora"
+  },
+  {
+    "abbreviation": "NOR",
+    "altingetCandidateId": "1214",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anledningen är Nora kommun har byggt ett stort tillagningskök som distribueras  till de flesta verksamheterna inom kommun",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora kommuns barnomsorg/förskola skall kunna leverera dessa tjänster om så önskas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Befintlig högstadieskola är en tegelbyggnad sen slutet av sextiotalet och borde räcka med en enklare upprustning tills vidare. Här kommer den dåliga smaken av de styrande majoriteten att kasta ut pengar till den största investering som kommunen gjort. För dessa pengarna har inte kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns privata företag som är duktiga på att driva äldreboende och hemtjänst.\r\nÄr det någon som villdetta bör det prövas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom det drivs inom kommunerna att man skall så många som möjligt jobba heltid.\r\nMen vid förfrågan hos personal så orkar de inte detta utan vill gärna jobba 80-90 %. Detta indikerar på att arbetsmiljön inte är den bästa.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väldigt viktigt för att kunna fungera inom hemtjänst och äldreomsorg.\r\nDetta för att vi har många invandrare inom dessa verksamheterna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": "I ett rättviseperspektiv är det viktigt det görs tillmöjlighet \r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det sker ofta när de kommunala bostadsbolagen bygger och inte kan klara hyresnivåerna , då tillförs det kommunala skattemedel. Det är inte korrekt mot de privata byggbolagen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är helt klart för att det får ofta ske på kommunal mark med statsbidrag i dagens läge.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska dåligt förslag, allt hänger på hur många nyanlända som är på gång. i vissa kommuner finns tomma lägenheter, detta kan vara en fördel att utnyttja boendet då.\r\nMycket hänger samman med eventuella statsbidrag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": "I sociala områden är det ofta de kommunal bostadsbolagen som äger husen.\r\nDetta måste dock finnas kvar eftersom icke socialt anpassade sällan får lägenhet i de privata bostadsbeståndet. De klarar inte sin socioekonomi.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": "Det är en bra blandning i vår kommun, och de privata har funnits länge och utan några problem.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig grundpelare i vårt samhälle och har ett utvecklande för alla som önskar. Kulturskolan har ett stort tryck i dag. Detta innebär att man måste öka budgeten för detta.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": "Skatten är ständigt en ifrågasatt del av att trivas i en kommun.\r\nMan måste hitta en bra balans som tar hänsyn till framtida utvecklig av samhället.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": "Företagens är en viktig del som möjliggör att det finns något att fördela till . Vidare måste kommunen förstärkar tomtmark för företagsetablering.",
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;A;D;D;D;D;B;C;B;C;2/5;2/5;1/5!;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Norapartiet är enbart ett lokalt parti",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En stabil majoritet där vi kan ingå. En majoritet som arbetar för ett bättre företagsklimat( f.n.289 plats i företagsranking), miljöansvariga handlande, förbättring av omsorgerna för förskola, skola, äldreomsorg. Försiktighetsprincip i alla ekonomiska frågor. Boendefrågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nuvarande majoritet, med alliansen och socialdemokraterna.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Nu måste det till bättre företagsutveckling",
+        "description": "Ett bättre företagsklimat, det ska vara attraktivt att arbeta, bo och driva företag.( Dagens företagsranking är en katastrof.)"
+      },
+      {
+        "category": "Tekniska förvaltningen SBB-förbundet",
+        "description": "Samtlig tekniska verksamhet förs åter till Nora kommun ifrån SBB-Förbundet exkl. avfall och miljö"
+      },
+      {
+        "category": "Nora kommuns ekonomi",
+        "description": "Norapartiet arbetar för att Nora kommun ska få en sund ekonomi\r\nEn sund ekonomi är grunden för en fungerande välfärd nu och i framtiden"
+      }
+    ],
+    "motivateVote": "Norapartiet är det lokala alternativet som arbetar för Nora kommuns bästa och samtliga invånares bästa utan att behöva ta hänsyn till en politisk ideologi.\r\nDetta är en styrka att bara ha ett fokus och att vara fri från yttre styrning.\r\nVi arbetar systematiskt och uthålligt. Vi får saker att hända.",
+    "name": "Norapartiet Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "norapartiet-nora"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1215",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora kommun har många små lokaler utspridda på många platser. Därför har vi ett modernt tillagningskök som lagar mycket bra mat på pershyttans industriområde. \r\nVarje plats har sedan ett mottagningskök.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill återigen titta på möjligheten att öppna ett ”nattis”.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärden blir inte bättre av att privata företag tar ut vinster på våra barn och äldre.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara svårt att lösa ekonomiskt för en liten kommun med tajt ekonomi. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om just språktest på anställningsintervjun är en bra väg framåt vet vi inte, men Socialdemokraterna har nationella vallöften om hur vi ska förbättra kunskaperna i svenska för personal som behöver.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska bidra till vårt samhälle, ingen skola ska få välja sina elever. Det ska vara eleverna som väljer skola.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora kommun har en ansträngd ekonomi och det kan vara svårt lösa finansieringen om vi samtidigt ska bygga ny högstadieskola och förskola.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nora kommun har redan flera laddstolpar, och vi vill fortsätta utveckla med fler.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre med en nationell och rättvis fördelning.\r\nIngen kommun ska kunna vägra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att tyda frågan, nästan alla kommuner har ett fastighetsbolag och hyr ut lägenheter/bostäder. Det konkurrerar ju med privat näringsliv. Men det tycker vi ska fortsätta.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker inte om vinster i välfärden.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": "Nora har en ganska hög skatt",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1838",
+          "1839",
+          "1837"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;D;A;C;C;D;C;C;A;A;1/5;2/5;2/5;[1838,1839,1837]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill att Socialdemokraterna ska ingå i ett samarbete som styr nora i majoritet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "ny högstadieskola",
+        "description": "Vi ska bygga ny högstadieskola.\r\nDärför vill vi fortsätta med det påbörjade arbetet från denna mandatperiod och bygga en ny högstadieskola."
+      },
+      {
+        "category": "Bygga nytt äldreboende (kvarteret rosen)",
+        "description": "Inför förra valet lovade vi ett nytt äldreboende, det är inte byggt ännu och vi vill hålla i och genomföra löftet.\r\nVi vill också verka för fler aktiviteter och mötesplatser för öldre, för att motverka ensamhet."
+      },
+      {
+        "category": "bygga ny förskola",
+        "description": "Nora har många små, slitna och gamla lokaler i tätorten med förskoleverksamhet i. \r\nVi behöver bygga moderna lokaler som är avsedda för förskoleverksamhet. \r\nVi vill också ha ”nattis”."
+      }
+    ],
+    "motivateVote": "För att Nora kan bättre och för att vi har ett nytt piggt lag av engagerade Socialdemokrater som vill ta plats i kommunfullmäktige.\r\nVi vill bygga ny högstadieskola, ny förskola och nytt äldreboende, och vi har planen för att genomföra detta.",
+    "name": "Socialdemokraterna Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-nora"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1216",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vet hur svårt det är att jobba oregelbundna tider med barn. Kommunen har ett ansvar att ge invånarna förutsättningar att arbeta oregelbundna tider och samtidigt bo i Nora kommun.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill hellre renovera den gamla skolan vilket borde bli billigare. Dessutom finns skyddsrum under skolan som behöver bevaras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge kvalitet kan garanteras och det inte innebär ökade kostnader för skattebetalarna ser vi inget hinder med.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har brister på arbetskraft inom omsorgen och de ekonomiska resurserna saknas. Därför ser vi inte detta som rimligt även om det kunde vara önskvärt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut! Det svenska språket är vägen in i samhället och all personal behöver kunna göra sig förstådd och och förstå regler och instruktioner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samma villkor ska gälla för såväl friskolor som kommunala.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler billiga hyresrätter, framför allt för unga vuxna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar om det kommunala självstyret.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": "Vi bör sträva mot en stabilare ekonomi för att kunna sänka skatten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1844",
+          "1839",
+          "1842"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;B!;C;B;D!;C;C;B;D;B;1/5;1/5;1/5;[1844,1839,1842]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samarbetar nu med två andra oppositionspartier vilket har fungerat bra och vi kan därför tänka oss att styra kommunen tillsammans med dessa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inte direkt. För oss är den praktiska politiken för invånarnas bästa viktigast. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Lika lätt att leva att leva på landsbyggd som i stad. ",
+        "description": "Vi vill fortsätta skapa förutsättningar för människor att bo och leva på landsbygd en. Genom att: \r\n\r\n-Jobba för fortsatta satsningar på infrastruktur som exempelvis utbyggnad av bredband. \r\n\r\n-Jobba för goda kommunikationer. \r\n\r\n-Skapa möjligheter till en trygg och likvärdig skola även på landsbygden. \r\n\r\n-Underlätta företagsetableringar i kommunen."
+      },
+      {
+        "category": "En värdig livskvalitet för äldre. ",
+        "description": "-Vård i rätt tid på rätt plats. Vårdens tillgänglighet på landsbygden bör förbättras. \r\n\r\n-Vi vill ha ett ökat egeninflytande över omsorgen. Därför vill vi sänka tröskeln för när du kan få rätt till omsorg.  \r\n\r\n  \r\n\r\n-Det ska finnas möjligheter till en god social samvaro oavsett var du bor. \r\n\r\n  \r\n\r\n- Äldre ska känna sig trygga !"
+      },
+      {
+        "category": "En trygg uppväxt för alla.",
+        "description": "-Förbättra arbetsmiljön genom att införa nolltolerans mot våld och otrygghet i skolan. Skolan ska vara en trygg plats för elever och personal.  \r\n\r\n  \r\n\r\n-Vi accepterar inte droger eller kriminalitet på våra skolor.  \r\n\r\n  \r\n\r\n-Stärk insatser för att förbättra ungas psykiska hälsa.  Riktade insatser inom barn och -ungdomspsykiatrin i kombination med stärkt kuratorstöd."
+      }
+    ],
+    "motivateVote": "Vi har under mandatperioden samarbetat med övriga oppositionen vilket fungerat bra. Tillsammans kan vi förändra kommunen. Förskolornas barnkullar är exempelvis för stora, flera problem har  uppdagats inom omsorgen och underhållet av infrastrukturen är eftersatt. Detta är inte acceptabelt! Nora behöver ett nytt styre som tänker annorlunda.",
+    "name": "Sverigedemokraterna Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-nora"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1217",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "3d41b2d4c1ec3d8595a9e19cd3ac3c51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett väl fungerade centralkök. Skulle bli för dyrt och myndighetskraven på livsmedelshantering är administrativt stora.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d370c97274fb2b2746023ff28c7135ba",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f2a173c37adb7d5eb51ada7b608b02f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den gamla skolan är nersliten och en ny skola kan bättre möta elevernas behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2513fb1d70aeca7c25ddaa18d586bc54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Leder till försämrad service och blir en dyr lösning. Skattepengar går delvis till vårdföretagens vinster vars ev. vinstuttag inte motsvaras av några ev. fördelar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8cea1950e10e389dec1f3a435dec6756",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett utmärkt förslag som skulle ge drägliga arbetsförhållanden för en utsatt grupp på arbetsmarknaden. Dyrt, men lönsamt i längden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "94679654fe16c5f493e453e033dfbd63",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beror givetvis på hur testet är utformat. Risken kan vara duktig personal sorteras bort. Ca 30% av all vårdpersonal idag är utrikesfödd.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1e85d8077d0c1847aea512bfdd912546",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skyldigheten skall givetvis finnas annars ökar klyftorna. Vinstdrivande friskolor bör förbjudas, som bl. a.  i de flesta andra europeiska länder",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55fd996884bacb701dd645c076b34152",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid nybyggnation bör olika upplåtelseformer finnas. Det är viktigt att allmännyttan ger möjlighet för alla att få bostad, inte enbart de som har möjlighet att ta stora lån. Finansiering skall ske främst genom hyressättningen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02ce68cb88eeafd7260a3543a1b9c36b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns bättre områden att lägga skattepengar på",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e21eaa730c701f553bbd3234682a8582",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. de fördelas av staten utifrån kommunernas förmåga att ta emot. Historik, ekonomiska förutsättningar osv.. Ansvaret bör fördelas rättvist. Inte en fråga för ett långtgående kommunalt självstyre.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68438a1433d11e5e265aa7a76eaf4004",
+        "questionType": "PROPOSITION",
+        "reasoning": "När de fria marknadskrafterna ger negativa konsekvenser för medborgarna måste ibland det offentliga träda in. Gränsen mellan de offentliga och det privata ansvaret för tydliggöras. Det som det offentliga skall sköta bör inte skötas i bolagsform. Det uppstår lätt konflikter mellan olika lagstiftningar - kommunallag och aktiebolagslag. Lägg över bolagen i kommunal förvaltning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "462a6e54b53b85c3c481ed850c02dc71",
+        "questionType": "RANGE",
+        "reasoning": "Det leder till försämringar om kommunala skattepengar går vidare till privata, ofta koncerner, aktörer på marknaden. Vi saknar idag privata aktörer (undantaget en liten), främst för att vi är en liten kommun. Intresset från profithungriga är lågt. Icke-vinstdrivande friskolor är OK och i vissa fall t o m bra och kan fungera som inspiration för den gängse skolan.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9728947465579512cfc80fd2dd31e041",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen idag riktar sig i alltför stor utsträckning till en äldre publik. Med lite mer pengar skulle utbudet kunna breddas till ungdomar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "15963f914b132bcf8c42129dbb1d54dc",
+        "questionType": "RANGE",
+        "reasoning": "Skatten skall anpassas efter förmågan att kunna betala skatt och nivån efter behoven. Att Sverige inte har förmögenhetsskatt, arvskatt, låg kapitalskatt m.m. skiljer ut Sverige. Sverige är inte högskatteland. Om detta åtgärdas - kan kommunalskatten ligga kvar. En för stor fråga för ett enkätsvar. Skatten skall anpassas efter behoven i kommunen (höjas, sänkas) och den privata konsumtionen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da236c71faec22d1b4451f22a4ce6d0f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1840",
+          "1844",
+          "1841"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D;A;D;B;D;C;B;A;B;2/5;3/5;2/5;[1840,1844,1841]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, men vi har olika åsikter (oftast nyansskillnader) i flera frågor, bl a vad som är strategiskt rätt polititik",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det bästa vore en S, Mp, V-regering, med egen majoritet. Även C får vara med om det behövs för regeringsbildningen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, M, L och Kd, i nämnd ordning",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska barngrupperna i förskolan till max 12 barn per barngrupp",
+        "description": "Under mandatperioden har de styrande partierna (S, M, C, KD, L) fattat en rad beslut som fått till konsekvens att barngrupperna i förskolan ökat. Stora barngrupper medför negativa konsekvenser så som svårigheter för barnen att knyta an till flertalet olika vuxna, en högljudd och rörig miljö och minskade möjligheter till att pedagogisk verksamhet utifrån läroplanen."
+      },
+      {
+        "category": "Miljö",
+        "description": "Det kommunala miljöarbetet måste prioriteras och miljöaspekten måste också få större utrymme inom såväl Norabostäder/fastigheter och Samhällsbyggnad Bergslagen. Det är bland annat solceller på kommunala byggnader, behålla ängsmark för biologisk mångfald, arbeta för hyggesfritt skogsbruk och förbättra återvinningsmöjligheterna."
+      },
+      {
+        "category": "Stoppa personalflykten från vård och omsorgen",
+        "description": "S tillsammans med de andra styrande partierna fattade beslut om att ta bort de 2 miljoner som tillsattes tidigare i budget för att arbeta för rätt till heltid med rimliga arbetsförhållanden. Konsekvensen blev det s.k. \"hälsoschemat\" som fått flertalet anställda inom kommunen att säga upp sig. Detta schema måste bort och vi måste arbeta för arbetstidsförkortning och rimliga arbetsförhållanden."
+      }
+    ],
+    "motivateVote": "För att stödja en vänsterpolitik som värnar den offentliga sektorn som skydd  nyliberala angrepp.",
+    "name": "Vänsterpartiet Nora",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-nora"
+  }
+]

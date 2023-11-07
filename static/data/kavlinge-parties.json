@@ -1,0 +1,1284 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "887",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har flera verksamheter som bedrivs av andra aktörer som vi tycker fungerar bra. Det gynnar våra invånare med en större valfrihet och i vissa avseende bättre kvalitet. Det är bra att det finns olika huvudmän. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatförändringarna är här och nu! Vi behöver mer förnybar elproduktion, framförallt i södra Sverige och kan inte sitta och vänta på att nån annan ska lösa det åt oss tjugo år fram i tiden. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermarken är en ändlig resurs. All odlingsmark behövs för livsmedelsproduktion, det blir extra tydligt i samband med kriget i Ukraina. Kävlinge kommuns lantliga karaktär ska inte byggas bort med vare sig någon lyxoutlet eller bostäder. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte driva någon konkurrerande verksamhet. Vi har endast vårt kommunala bostadsbolag och där gäller det att vara vaksam så att vi inte bedriver osund konkurrens mot privata aktörer. Utöver detta anser vi inte att vi ska ha några kommunala bolag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en bedömning som ansvarig chef gör vid varje anställningstillfälle. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Företag ska tillåtas att driva detta på uppdrag av kommunen och naturligtvis med tydliga kvalitetskrav. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler laddstolpar för att vi ska ställa om till fossilfria transporter",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Efter Ukrainakrisen ser vi att det finns ett stark vilja att hjälpa människor som flyr från krig och förtryck. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver en valfrihet att kunna välja olika förskolor och skolor i vår kommun. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": "Kultur- och föreningsliv är viktigt för att skapa en meningsfull och aktiv fritid. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1542",
+          "1541"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A!;D!;C;A;A;B;A;D;D!;A!;2/5;3/5;2/5!;[1544,1542,1541]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet ingår i ett borgerligt samarbete i Kävlinge kommun som fungerat bra och vi ser gärna att det fortsätter.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet vill inte samarbeta med Sverigedemokraterna och Vänsterpartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Miljö och klimat",
+        "description": "Miljö och klimat är vår tids ödesfråga. I Kävlinge handlar det om satsningar på vindkraft, bevarande av åkermarken och avfallshantering. Miljö och klimatperspektivet behöver finnas med i politiska beslut, samhällsplanering och ekonomiska investeringar."
+      },
+      {
+        "category": "Skola och utbildning",
+        "description": "Det behövs en skola där varje elev har förutsättningar att lyckas. Lärarna är enskilt den största faktorn för elevernas lärande. Vi behöver också satsa på lärmiljöer och jobba aktivt med värdegrundsarbetet för att motverka mobbning och trakasserier."
+      },
+      {
+        "category": "Fritid och kultur",
+        "description": "Vi behöver ett aktivt föreningsliv som bidrar till en meningsfull fritid för våra invånare. Det ska finnas en mångfald av aktiviteter för barn och unga, lagsporter, individuella sporter, scoutverksamhet, dans, musik- och kulturskola samt möjlighet till besök på konst och teater. För att detta ska bli verklighet behöver vi satsa ännu mer på idrottshallar, utomhusplaner och kulturhus."
+      }
+    ],
+    "motivateVote": "Rösta på Centerpartiet för att vi vill utveckla vår kommun på ett hållbart sätt! Vi vill satsa på miljö- och klimatarbetet och samtidigt ska vi ha många företag och ett livskraftigt näringsliv. Kommunens viktigaste uppgift är skolan. Alla elever ska lämna grundskolan med godkända betyg. Detta innebär att vi ska växa på ett hållbart sätt och inte bygga bostäder eller någon lyxoutlet på åkermark.",
+    "name": "Centerpartiet Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kavlinge"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "888",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det som fungerar bra bör vi låta fortsätta fungera bra, men vi ska också vara tydliga med att ställa krav på privata verksamheter som drivs med skattemedel. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill hellre se en utveckling av Barsebäcksområdet till ett energiområde med blandade energislag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska vara rädda om åkermarken. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på. Det är viktigt att det finns t.ex. kommunala hyresbolag. Men överlag, som en styrande princip, ska inte det offentliga konkurrera ut det privata näringslivet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en fråga för professionen och eleverna, inte för politiken. Skolorna/måltidsservice bör själva tillsammans med eleverna besluta om önskad inriktning på maten i skolorna, utöver att den ska vara näringsrik. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge 8 timmar på heltid är norm i samhället ska det även gälla inom äldreomsorgen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sjävklart ska man kunna prata med brukarna på någorlunda god svenska så man blir förstådd. Att genomföra språktest däremot riskerar att sortera bort personal som är väldigt duktig men som kanske inte klarar en hög nivå i svenska, eftersom språktest är svåra att utforma på rätt sätt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar redan idag emot väldigt få flyktingar och kan definitivt dra vårt strå till stacken när det finns behov. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": "Gärna lägre skatt när det går. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1545",
+          "1546",
+          "1540"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;C;C;A;A;B;A;C;B;A;2/5;2/5;1/5;[1545,1546,1540]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Flera olika mindre frågor finns det alltid olika åsikter om, men på det stora hela är vi överens. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppna för olika konstellationer där vi bäst får igenom vår politik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En barnvänlig kommun",
+        "description": "KD vill arbeta för att Kävlinge blir Skånes mest barnvänliga kommun. Det innefattar bland annat att vid bostadsbyggande ta höjd för att det finns gott om grönområden och lekplatser tillgängligt. Vi vill också arbeta för att det finns flera familjecentraler i kommunen, för att fler ska ha en rimlig närhet till familjecentral."
+      },
+      {
+        "category": "En trygg skola",
+        "description": "KD vill att Kävlinge är en av landets bästa skolkommuner. Där ingår att skolan ska vara en trygg plats. Vi har under denna mandatperiod tagit beslut om en utredning inom Alliansen om vad som behövs för att skolan ska kännas säkrare för eleverna, särskilt de skolor där elever upplevt stök och oro. Med hjälp av den avser vi fortsätta arbeta framåt för en trygg skola, i förskola och grundskola."
+      },
+      {
+        "category": "En personcentrerad äldreomsorg",
+        "description": "Den kristdemokratiska ideologin sätter människans värdighet i centrum. Omsorgen ska ta hänsyn till den enskilde individen och dennes själsliga, andliga och materiella behov. Vi vill att utrymme ges till personal i omsorgen att till exempel ha tid i schemat att sitta ner och ta en kaffe i lugn och ro med brukarna; att ha schemalagd tid för även den medmänskliga biten av omsorgen."
+      }
+    ],
+    "motivateVote": "Vi vill prioritera skola och omsorg så vi kan fortsätta utvecklingen mot att bli bäst i landet inom dessa områden.",
+    "name": "Kristdemokraterna Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-kavlinge"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "889",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvaliteten är viktigare än utförandeformen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste ta tillvara de möjligheter till energitillskott som finns men det behöver utredas var det är lämpligt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så långt det är möjligt ska vi ta tillvara jordbruksmarken och istället arbeta med förtätning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens verksamheter får inte konkurrera med det privata näringslivet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att lyfta fram alla fina alternativ och en modern och fräsch kost.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är en god tanke för en yrkesgrupp med tungt arbete men det behöver utredas om det är genomförbart.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stärker kommunikationen så det är ju bra för alla parter. Språket är en viktig nyckel in i gemenskap. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tillhandahåller ju idag bostäder för utsatta individer och vårt bostadsbolag har äldre hyresrätter med förmånlig hyra. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut. Valfrihet och konkurrens sporrar marknaden och utbudet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många aktörer på marknaden som kan vara med och ta ansvar för detta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi får hjälpas åt att ta hand om dem som behöver hjälp. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna fler aktörer som får pröva sina vingar mot vår fantastiska kommunala verksamhet. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": "Vi menar att det är viktigt att satsa på kultur i alla dess former och att tillgängliggöra för alla. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en oerhört bra utväxling av våra skattekronor idag tack vare en hög kvalitet inom våra verksamheter så i nuläget är det inte aktuellt med högre skatt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1542",
+          "1541"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;C;D;C;C;C;B;D;B;B;3/5;3/5;2/5;[1544,1542,1541]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna se en borgerlig allians med M, C och Kd.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi måste en gemensam grundsyn det utesluter V och Sd från en gemensam plattform.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Liberalerna är Kävlinges skolparti. ",
+        "description": "Idag är kunskapsresultaten höga år efter år men vi måste fortsätta utvecklas och sätta höga mål. Vi ska uppmuntra de som kan springa före och ge stöd till de som halkar efter. Lärarna är skolans viktigaste resurs skolmiljön måste fortsättas moderniseras. Förskolan är starten på en lyckad skolgång \r\nInför mobila trygghetsteam i samverkan med socialtjänsten för att motverka den psykiska ohälsan."
+      },
+      {
+        "category": "Trygghet och omtanke i Kävlinge kommun ",
+        "description": "En liberal övertygelse är, att varje individ är en unik människa hela livet. Det är viktigt att genom hela livet kunna göra egna ställningstaganden och egna val – även som äldre. Vi vill kunna välja omsorg, stöd och boende. För våra äldre är det angeläget att få fortsätta vara de individer, som livet och erfarenheterna har skapat."
+      },
+      {
+        "category": "Hållbart samhällsbyggande för det goda livet i Kävlinge kommun",
+        "description": "Företagsklimatet behöver bli bättre och det ska alltid löna sig att gå från bidrag till arbete. En bra kollektivtrafik är viktig för såväl arbetspendling som för resor under fritid. Kommunens invånare ska erbjudas ett brett och varierande fritidsutbud. Vi ska erbjuda ett varierat utbud av bostäder. Vi ska värna vår goda jord."
+      }
+    ],
+    "motivateVote": "Vi sätter skolan först; en bra skolgång är det bästa skyddet mot utanförskap, ohälsa och kriminalitet. Vi vill ha ett skyddsnät för den som behöver men inte snärja den som kan själv. Vi vill lyfta näringslivet som skapar förutsättningar för en bra välfärd.",
+    "name": "Liberalerna Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kavlinge"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "890",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det pratas om elbrist i Skåne och skenande elpriser, samtidigt säger många kommuner nej till aktörer som vill bygga hållbar energiproduktion. Elproduktion motsvarande mer än dubbla sveriges totala elproduktion har hindrats av kommunala politiker. Så vill vi inte ha det här. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en värld där matproduktionen blir mer och mer osäker pga krig och klimatförändringar kan vi inte använda vår åkermark till att bygga lyxoutlets eller villor. Den måste användas till matproduktion, förnybara bränslen eller bevaras till kommande generationer. Hårdjord mark kan inte återställas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag har möjligheten att drivas med mer långsiktiga mål och med mål utöver vinst. Det är en möjlighet som måste tillvaratas. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttproduktion ger stora klimatutsläpp och använder stora resurser. Köttkonsumtionen måste minska om vi ska kunna mätta jordens befolkning. Kommunen kan göra sitt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan man klara sitt jobb bra utan att kunna svenska finns ingen anledning till språktest. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det inte går ut över kommunens resurser, håller högt ställda krav eller gör att svenska skattepengar går till skatteparadis.  ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elbilen är här för att stanna. Mer än hälften av alla sålda nya bilar är laddbara. Det ska inte bara vara de som bor i villa med egen laddmöjlighet som ska ha möjlighet att minska sina körkostnader genom att skaffa elbil. Laddinfrastrukturen är också en viktig del i smarta microgrids och för energilagring. Viktig infrastruktur som kommunen ska ge goda förutsättningar att utvecklas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är redan bland de sämre på att ta emot flyktingar. Vi ska göra vår del för att hjälpa folk. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1542",
+          "1541"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A!;D!;A;D;C;B;D;C;D!;A;2/5;3/5;2/5;[1544,1542,1541]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Värderingarna är mestadels desamma. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre som står bakom miljöpartiets 3 solidariteter; solidaritet med kommande generationer, naturen och världens alla människor. De som ligger närmast är S, V och C. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De som struntar i miljön. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar stadsbyggnad",
+        "description": "Bygg inte på odlingsbar mark, den behövs för mat, inte för lyxoutlets. Vi vill se politik som ser längre än mandatperioden och verkar för ett samhälle som inte beter sig som att vi är den sista generationen som ska leva på den här planeten. Våra barns möjligheter ska inte bero på enskilda personers goda vilja utan på hur samhället organiseras."
+      },
+      {
+        "category": "Hållbar energiproduktion",
+        "description": "Vi vill se stora satsningar på utbyggd hållbar energiproduktion. Vi vill förenkla för boende att satsa på solceller och energilagring, både för villor och bostadsrättsföreningar. KKB och KKL skall bygga solceller,  energilagring och laddinfrastruktur i sina bestånd. Vindkraft skall underlättas, främst i Öresund. Laddmöjlighet skall inte vara ett hinder för att byta till elbil."
+      },
+      {
+        "category": "Hållbar trafik",
+        "description": "Vi vill se stora satsningar på cykelvägar, kollektivtrafik och laddinfrastruktur. Brist på laddmöjlighet skall inte vara ett hinder för att byta till elbil. Satsningar på säkra skolvägar, barn ska kunna gå och cykla till skolan. Nya former av kollektivtrafik som passar små orter, anropstyrd och automatiserad trafik."
+      }
+    ],
+    "motivateVote": "Vill vi ha ett samhälle som inte beter sig som att vi är sista generationen som ska leva på jorden behöver vi partier som ser längre än nästa mandatperiod. Det behövs partier som tar beslut som är nödvändiga för samhället och för kommande generationer. Miljöpartiet visar sig i undersökning efter undersökning vara enda partiet som satsar på miljö och långsiktigt hållbara lösningar.  ",
+    "name": "Miljöpartiet Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-kavlinge"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "891",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill få ut mest möjliga av våra skattemedel, driftsformen är underordnad. Får vi bättre kvalitet i privat driftsform är vi för det, får vi bättre i kommunal är vi för det. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dels är detta ett kraftigt trafikerat sund och en vindkraftpark skulle hindra viss sjöfart och försvåra för fiskenäringen. Vi vill också bevara våra gamla fiskeläge med den öppna utsikten över sundet. Dessutom behöver Skåne baskraft, och inte ett energislag som inte fungerar i alla väder. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här behöver vi ta in i aspekt samhällsutvecklingen och viss påverkan på jordbruksmark är oundvikligt om vi vill utveckla exempelvis Löddeköpinge . Men till så stor utsträkning som det går ser vi att det öppna landskapet och vår goda jordbruksmark ska bevaras. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser en vinst i att ha ett kommunalt bostadsbolag för att kunna bidra i och styra samhällsutvecklingen - detta vill vi därför inte avveckla. I övrigt har inte kommunen andra kommunala bolag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att maten hamnar i magen på våra elever och ger dem energi att klara av dagen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett språkkrav i vår omsorg - detta för att den anställde ska klara av att läsa instruktioner och rutiner kring våra omsorgstagare. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ingen möjlighet att göra detta idag, Subvention av byggnation ligger på statlig nivå. Utöver detta så försöker vårt kommunala bostadsbolag alltid bygga så prisvärt som möjligt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, om de möter våra kvalitetskrav och gör det för samma kostnad som kommunen. Det är så vi har det idag i Kävlinge kommun, i och med införandet av Lagen om Valfrihet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte ansvara för att sätta upp publika laddstolpar, däremot ska kommunen se till att möjliggöra för privata aktörer att sätta upp stolpar på såväl kommunala som privata parkeringar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta vårt ansvar och göra vår del, flyktingsituationen får avgöra om det är fler eller färre än idag. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser positivt på friskoleetableringar och hade gärna sett en större valfrihet i kommunens östra delar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser att det som ska satsas på är konst i det offentliga rummet som alla våra invånare kan ta del av. Vi kommer satsa på ett kulturhus för ungdomar, vilket innebär mer pengar till kulturen.  Däremot ser vi att nivån i övrigt är rimlig.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": "Så lite som möjligt - utan att det påverkar kärnverksamheten och samhällsutvecklingen. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1542",
+          "1546"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;C;C;A;A;C;A;D;B;B;3/5;3/5;1/5;[1544,1542,1546]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har vissa område vi hade velat se mer tydlighet på riksnivå. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill genomföra så mycket av vår politik som möjligt. Vi arbetar nu i alliansstyre och det fungerar väl. Men hur förutsättningarna är efter valet bestämmer väljarna ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer samarbeta med alla som står för valfrihet, kvalitet och leverans.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på  ett ungdomshus i kommunen",
+        "description": "Vi har ett rikt föreningsliv och förutom att utöka halltider vill vi satsa på ett bredare utbud för våra barn och ungdomar. Vi vill omvandla Lalleska huset till ett kultur och ungdomshus med plats för olika kultur och fritidsverksamheter. Detta kommer bli en trygg och kreativ miljö för alla."
+      },
+      {
+        "category": "satsningar på ökad livskvalitet hos våra seniorer",
+        "description": "Kävlinges seniorer ska ha en tillvaro med guldkant. Våra träffpunkter ska utvecklas och vara centrala punkter för aktiviteter för våra seniorer. För att kunna ta sig dit kommer vi införa seniorresor så våra seniorer kan åka kollektivtrafik inom kommunen gratis inom vissa tider. Det inte bara ökar tillgängligheten utan är hållbart och tryggt."
+      },
+      {
+        "category": "En hög, kvalitativ kommunal service",
+        "description": "Vi ser kommunen som möjliggörare och den service kommunen har ska vara tillgänglig, av hög kvalitet och det ”ska vara lätt att göra rätt”. Vi vill minska byråkratin som exempelvis hindrar bostadsbyggande och enkla bygglov eller som försvårar för företagare. Ordning och reda och ett hållbart tänk ska genomsyra det bemötande våra invånare får."
+      }
+    ],
+    "motivateVote": "Vi Moderater står på våra invånares sida. I dessa oroliga tider som vi står inför krävs ett politiskt ledarskap som lyssnar, har erfarenhet och kompetens och har visat att man kan leverera. Det har vi gjort och kommer fortsätta göra, Vi står för ordning och reda, vi tror på din förmåga och vi kommer alltid stå upp för din frihet. ",
+    "name": "Moderaterna Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kavlinge"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "892",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att de kommunala verksamheterna garanterar välfärden med långsiktighet, trygghet och stabilitet, därför vill vi satsa på de kommunala alternativen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraft är ett bra alternativ för vår energiförsörjning. Det går snabbt att bygga och det löser delar av våra problem med elförsörjning. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta tillvara på den åkermark vi har idag. Vi ska bygga på de platser i kommunen som vi redan har byggt på. Den åkermark som finns kvar i kommunen ska bevaras. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen ger oss insyn i både äldreboende och skolan. Genom insyn i verksamheten kan vi också snabbt anpassa den efter kommuninvånarens önskemål och behov. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser hellre att det är en bra och balanserad kost.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett tufft yrke och de som arbetar inom äldreomsorgen behöver rätt förutsättningar för att klara ett helt arbetsliv. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ha bostäder för alla. Det måste finnas bostäder för de som har låg inkomst och det är kommunens ansvar att bygga billiga hyreslägenheter. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattepengar ska gå till välfärden. Genom att låta privata aktörer driva äldreboende och hemtjänst ger vi också bort delar av våra skattepengar. Vi ger också bort insynen i verksamheten och för oss är det viktigt att man har full insyn i vart våra skattepengar tar vägen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingar som kommer till Sverige ska vi alla hjälpas åt och ta hand om. Kävlinge har inte små många flyktingar och därför kan vi som kommun ta mot fler. Men viktigast i den här frågan är att de som kommer till vår kommun också  får rätt förutsättningar och kommer in i det svenska samhället. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska vi kontrollera och det är så vi tar tillbaka den demokratiska kontrollen över skolan och välfärden. Genom att vi driver verksamheter i kommunal regi. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": "I Kävlinge har vi bland de lägsta bidragen till kulturföreningar och kulturskolan. Det är en skam att vi inte stöttar den kulturella verksamheter i kommunen mer.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": "Man får vad man betalar för, låg skat ger mindre kommunal verksamhet. Men med låg skatt får också de som har det svårast i samhället det än svårare. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1543",
+          "1546"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;D;A;B;C;B;D!;A!;C;A;0/5!;4/5;2/5;[1544,1543,1546]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, vi är helt överens med partiet på riksnivå. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi arbetar utifrån det valresultat som blir efter valet. Men för oss är det viktigaste att det blir en förändring och att vi en mer vänsterstyrd kommun. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": " Sverigedemokraterna  ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Återta och utveckla kommunala verksamheter",
+        "description": "Vi ser att de kommunala verksamheterna garanterar välfärden med långsiktighet, trygghet och stabilitet, därför vill vi satsa på de kommunala alternativen."
+      },
+      {
+        "category": "Satsa på vård och äldreomsorg",
+        "description": "Vi socialdemokrater vet att medborgarna i första hand vill vara friska och ha förutsättningar för att klara sig bra på egen hand. Detta ställer större krav på förebyggande insatser."
+      },
+      {
+        "category": "Kultur ska finnas för alla",
+        "description": "Vi står inför högre krav på kulturskolans verksamhet genom att befolkningen ökar, vilket gör att det behövs fler och anpassade lokaler. Vi vill även se denna satsning som en del av att tillgängliggöra kultur för alla, men då måste avgifterna sänkas. De höga avgifter vi har idag stänger ute alldeles för många barn, förmodligen de barn som hade behövt det allra mest."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna i Kävlinge står för förändring. Vi ser att vår skola och förskola behöver förbättras. Vi vill se en kulturskola som alla har råd med. Vi vill stödja det lokala näringslivet.",
+    "name": "Socialdemokraterna Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kavlinge"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "893",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1542",
+          "1545"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C;B;A;B;D!;B;C;C;D!;3/5;3/5;2/5;[1544,1542,1545]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola",
+        "description": "Vår målsättning är att kunna erbjuda Sveriges bästa grundskola."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Tryggheten är och kommer alltid att vara en kärnfråga för oss. Alla invånare ska känna trygghet i hela kommunen."
+      },
+      {
+        "category": "Äldreomsorg ",
+        "description": "Vi vill fortsätta arbetet med att utveckla och förbättra äldreomsorgen."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kavlinge"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "894",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0c4df557bded227ed9082a808ac0e57a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Demokrati och ekonomiska frågor avgör. Ingen ska bli rik på skattepengar!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f08b812ca6556a84dd727d335a3b898c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver el. Vindkraft är det snabbaste och billigaste alternativet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "caa9476a5a8640fb775d9e077d82f0a4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver den odlingsbara marken. Vi behöver också höja vår försörjningsgrad när det gäller livsmedel.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b347a47ba6ea89545184c4b7be0b559b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6957b638168a71f22ff63d606b346a89",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9daa55cb7417545ce98a94404bbe2aeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste göra äldreomsorgen attraktiv så att människor vill jobba där.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1d27b145b540806014e28adb39a72e51",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0884ef64190f8476ea2190715184f6dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver billiga hyreslägenheter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c416fed9ef6cdc8188ca2d21e4f14cbe",
+        "questionType": "PROPOSITION",
+        "reasoning": "”Välfärdsbrott ” sker bar i privatiserade verksamheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "88e51747c1a347741378c7dd9b89fac7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3cfa3c1e11b6daf7d87244c5e2004d3d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f2730b306d08767bf5089388c4111551",
+        "questionType": "RANGE",
+        "reasoning": "Skolor ska drivas av samhället!",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f19dae7da6dcae8ddf31fdd35fef92de",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2907628a5d4487fa9dcc228bcafe8c5a",
+        "questionType": "RANGE",
+        "reasoning": "Man ska betala den skatt som behövs för en bra verksamhet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f5a0701bbee19d38459ba1553b624981",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1544",
+          "1541",
+          "1543"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;D;A;B;D!;B;C;A!;C;A;0/5!;4/5;2/5;[1544,1541,1543]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Önskan är att vi tillsamman med S får majoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Alliansen och SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "avgiiftsfri kollektivtrafik i Kävlinge ",
+        "description": "Avgiftsfri kollektivtrafik i Kävlinge. Avgiftsfri för alla. Kollektivtrafiken är en del av välfärden och viktig för många människor. Den är också miljövänlig."
+      },
+      {
+        "category": "Avskaffa karensdag för kommunanställda",
+        "description": "Avskaffa karensdag för kommunanställda. Att låta kommunanställda slippa karensavdraget. Vi är det enda landet i Norden som har karensavdrag. Detta drabbar de som har det sämst hårdast. Alla kan inte jobba hemifrån!"
+      },
+      {
+        "category": "Ta tillbaka privatiserade verksamheter.",
+        "description": "Att driva privatiserade verksamheter i egen regi. Detta är ett viktigt förslag från demokrati synpunkt bl.a. Vi har ingen insyn i privata verksamheter, vi skickar bara pengar."
+      }
+    ],
+    "motivateVote": "Vi är det parti som står upp för alla människors rätt till ett drägligt liv. Vi vill se skola vård och omsorg i samhällets regi. Inga vinstuttag till riskkapitalister.",
+    "name": "Vänsterpartiet Kävlinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kavlinge"
+  }
+]

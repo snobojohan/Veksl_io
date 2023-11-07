@@ -1,0 +1,1172 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1592",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flera vindkraftsbyggen är redan på gång och skall vi lyckas med att bli fossilfria så måste det tillföras mer fossilfri energi. Detta blir särskilt viktigt för den gröna vätgasframställningen",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har kämpat länge och kommer fortsätta kämpa för att de värden som tas ifrån vår kommun även skall till vissa delar stanna i vår kommun",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill vara en attraktiv arbetsgivare men ser utmaning i kompetensförsörjningen. Här behöver vi hjälpas åt med andra aktörer såsom Akademi Norr etc.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grund och botten så är det inte kommunen som fattar beslutet men vi kan yttra oss i beslutet men vi är kluvna till en gruva. Det finns många frågor som finns kvar innan man kan ta ställning. Fördelar skall vägas mot nackdelar i en komplicerad fråga",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns privata företag så skall kommunen inte konkurrera med dessa",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan nu svårt att rekrytera personal till vård och omsorg",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lika ansvar är viktigt även för de privata aktörerna",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "med dagens lagkrav så ser vi att det inte kommer bli billigt att bygga och vi kan inte subventionera lägenheter även fast vi vill det",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "med samma pris och lika kvalitet så ser vi att det gärna får komma privata aktörer till vår kommun",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grund och botten ska det vara ett statligt/privat ansvar att se till att omställningen inte bekostas av kommunerna",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Olika förutsättningar gör att kommunerna kan ta emot olika många men det bör finnas ett kollektivt ansvar från statligt håll att se över antalet nyanlända som en kommun kan hantera",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Olika friskoleformer kan göra att skolan kan klara de utmaningar som finns ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ett rikt kulturliv där vi även stöttar föreningar som är väldigt aktiva och vi ser att med inflationen och ökade kostnader behöver vi öka stödet till kulturverksamheterna",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra balans i kommunalskatten som gör att vi kan hålla en förhållandevis bra nivå på det kommunala uppdraget men även göra stora investeringar i infrastruktur fastän vi har en  minskande befolkning",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2350",
+          "2355",
+          "2354"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;C;B;D;A;D;C;D;A;B;3/5;3/5!;2/5;[2350,2355,2354]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna styra som vi har gjort. Vi är ett liberalt borgerligt parti och styr gärna med våra allianskollegor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar Tillväxt",
+        "description": "Vi vill jobba för tillväxt som är ekonomisk, social och miljömässig långsiktigt hållbar både för medborgarna, besökare och företag. Storumans kommun är en tillväxtkommun som ger oss speciella möjligheter som är viktiga att ta tillvara."
+      },
+      {
+        "category": "Livslångt Lärande",
+        "description": "Förskolor och skolor i våra mindre orter är väldigt viktiga att ha kvar men även kompetenshöjning för alla våra medborgare. Vi skall vara en kommun som tar vara på den teknikutveckling som har skett så att man kan studera där man bor, genom hela livet. Fortsätta utveckla det mellankommunala samarbetet för att kunna ha bra utbildningar i inlandet."
+      },
+      {
+        "category": "En trygg, bra och aktiv ålderdom.",
+        "description": "Vi skall ta fördel av den teknikutveckling som sker inom omsorgsverksamheten tillsammans med aktörer som är i framkant som ex Glesbygds Medicinskt Centrum. Vi vill utveckla utbudet inom äldreomsorgen vad gäller boendeformer, aktiviteter och trygghet, för att hänga med i samhällsutvecklingen. Vi tror på att vara aktiv hela livet med ett bra utbud av aktiviteter i exempelvis föreningslivet."
+      }
+    ],
+    "motivateVote": "Vi fortsätter arbeta för en ekonomi i balans som gör att vi fortsatt kan investera i utveckling som kommer att gynna våra medborgare. Kompetensförsörjningen är också en viktig fråga som vi kommer att jobba vidare med",
+    "name": "Centerpartiet Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-storuman"
+  },
+  {
+    "abbreviation": "SKL",
+    "altingetCandidateId": "1593",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver el och då får alla kommuner ställa upp.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte mer än rätt att man får en skälig ersättning så man kan fortsätta at utveckla vår kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "motivering  överflödig, rent sunt förnuft.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man måste få till arbetstillfällen om vi ska ha kvar några ungdomar. Viktigt att ett tillstånd följer alla miljömässiga regler.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "kommuner ska inte blanda sig i det privata näringslivet, men finns inte viktig samhällsservice att tillgå kan undantag göras",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdyrkena har mycket svårt med sin nyrekrytering, 6 timmars arbetsdag skulle underlätta och de anställda skulle orka ett helt arbetsliv utan att vara helt utslitna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska samma regler som alla andra skolor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte kommunen men möjligen om det finns ett fastighetsbolag, men först och främst ska det privata sköta  detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bara kvaliteten är  jämställd med andra alternativ.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det borde bilproducenterna tillhandahålla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska självklart den kommunala ekonomin styr.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Finns ingen privat.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Beroende på ekonomin ser ut de tre huvudåtagandana går alltid i första hand.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "Max 30kr.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;D;B;D;D;C;C;C;A;D;2/5;2/5;1/5;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej det är det som är det perfekta när vi inte har något parti på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att det blir ett regimskifte där flera partier kan samarbeta för kommunens bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Svårt att uttala sig  före  vi vet valresultatet men centern och moderaterna \r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "kOMMUNALA BASÅTAGANDEN",
+        "description": "D e tre ständigt återkommande orden Vård, skola och omsorg."
+      },
+      {
+        "category": "Transporter och kommunikation",
+        "description": "Mera transporter på järnväg, samt en samordning  av flyget mellan Storuman , Vilhelmina , Sorsele kommuner."
+      },
+      {
+        "category": "Effektiv användning av skattemedel",
+        "description": "Att använda varje skattekrona så att våra kommunbor får   så mycket som möjligt tillbaka in form av förslagen punkt 1 och 2."
+      }
+    ],
+    "motivateVote": "För att vi är det enda parti som inte har några styrningar vare sig regionalt eller på riksplanet. Utan vi verkar endast i vår kommun.",
+    "name": "Kommunlistan Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kommunlistan-storuman"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1594",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att man ska begränsa utbyggnaden av vindkraften tills det är klart med ersättning till kommunen för intrång. Man bör också beakta hur lokalbefolkningen som berörs av utbyggnaden och hur den lokala miljön påverkas. I grunden är vi dock positiva till vindkraft",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att pengar också går tillbaka till bygden",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag som måste prioriteras. om det är möjligt. Idag har vi brist på personal inom äldreomsorgen. Förslaget skulle höja attraktiviteten till arbetet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillstånden är en fråga av nationell art. Rent principiellt behöver vi mineralerna, och i har en bra miljölagstiftning, men vi ser också att det drabbar boende i området. Vi har redan idag svårt att rekrytera människor till vård, skola och omsorg och en gruva kan skapa ytterligare belastning för kompetensförsörjning i området. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen anledning för kommunala bolag att verka utanför den kommunala kompetensen inom områden och brancher där det finns privata alternativ. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skulle inte klara av att bemanna upp verksamheterna",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag, men nu har vi inga friskolor i vår kommun",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara aktiv i arbetet att ta fram billiga hyresrätter. Intresset är litet från andra aktörer att bygga hyresrätter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag, men de står inte i kö på orter i inlandet",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastruktur av det slaget ska inte vara beroende på att man ifrån kommunen prioriterar ned behoven inom vård skola och omsorg. Det vore som att kommunen ska börja sälja andra drivmedel.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fördelning av antal flyktingar mellan kommuner ska ske solidariskt",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi inga privata skolor i kommunen. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en av de saker som skapar trivsel i en kommun och vi tror att vi skulle behöva satsa lite mer på kulturen",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "För närvarande samma skattesats som idag. Vi står inför stora investeringar inom den kommunala sektorn",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2358",
+          "2353",
+          "2355"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;A;C;C;B;C;D;C;B;B;2/5;3/5;2/5;[2358,2353,2355]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det kan vara nyansskillnader. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill helst se ett borgerligt alternativ, men tror att man i glesbygden behöver hitta breda lösningar eftersom vi inte har råd med en ryckighet i politiken",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan hitta samverkan i sakfrågor med alla partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skapa en familjecentral",
+        "description": "Vi vill skapa en familjecentral där man samlar stöd till familjerna"
+      },
+      {
+        "category": "Bygg fler trygghetsboendeplatser",
+        "description": "Under mandatperioden vill vi skapa fler trygghetsboendeplatser i Storuman. I Tärnaby vill vi flytta bygga ut Granhöjden och flytta Vikbackas särskilda boende dit. Vid Vikbacka vill vi skapa trygghetsboendeplatser"
+      },
+      {
+        "category": "Kompetensförsörjning",
+        "description": "Kompetensförsörjning är en av de största utmaningarna för kommunen, både för kommunen som arbetsgivare och för företagen i kommunen. Vi vill sätta mer resurser till att arbeta med det."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som bygger på traditionella värden, men som också ser framåt mot de utmaningar som vi i glesbygden har, och är beredda att arbeta för lösningar på dem",
+    "name": "Kristdemokraterna Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-storuman"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1595",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Storumans kommun producerar enorma mängde energi. Vattenkraften är väldigt närvarande. Så länge det inte finns kapacitet att transportera mer el härifrån skall vi heller inte nyttja mer natur till vindkraft. El bör produceras så nära förbrukningen som möjligt och vi kommer att behöva alla fossilfria kraftslag, inkl kärnkraft.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en viktig fråga. Det skall i första hand inte handla om skatter eller statliga pengar: det är producenterna som skall stå för sina kostnader och sitt utnyttjande av vår natur. Till exempel skall fastigheter som minskar i värde ersättas av kraftproducenten, inte staten eller med skattepengar. Generellt skall alla kraftslag bedömas mot samma regelverk och ha lika villkor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man inte vill jobba delade turer bör man kunna få slippa det. Det finns dock de som vill jobba delade turer och även deras önskemål bör kunna tillgodoses. Generellt är arbetsmiljö och schema områden med stor utvecklingspotential. MEN: det är inte kommunen som styr vården, vi ansvara för omsorgen så det är där vi får göra de förändringarna. Vården är regionens ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man kan inte säga nej till gruvor som grundprincip. Skall vi ställa om till en grön och klimatsmart transportsektor måste vi ta mineraler där de finns och där det kan göras så skonsamt som möjligt. Sannolikt har Sverige en av världens bästa miljö- och arbetsmiljölagstiftningar. Därför och av det enkla skälet att man inte kan styra var mineralerna finns i världen gör vi den bedömningen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala, eller andra, skattepengar skall aldrig konkurrera med privat verksamhet. Det är företag som skapar de resurser som vi kan använda för välfärd. Det måste vi alltid komma ihåg!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man skall få betalt för den tid man jobbar. Arbetsmiljö, lön generellt, karriärmöjligheter, fortbildning och utveckling i jobbet är avsevärt viktigare. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor skall ta fullt ansvar för alla tänkbara elever - det är ju självklart. Vi har ingen friskola i Storumans Kommun ännu. Men det vore roligt om någon ville etablera sig!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall vara aktiv i bostadsförsörjningen. Det kan innebära att allmännyttan bygger lägenheter och då finansierar kommunen. Men det är byggkostnaderna som styr vad hyran blir, man skall givetvis bygga så billigt det går med vettig kvalitet. Men kommunen skall ALDRIG subventionera lägenheter - det är inte OK.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha valfrihet på alla områden och vill gärna införa LOV i hela kommunen. Privara utförare är välkomna!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte i första hand kommunens ansvar - men vi skall se till att det finns där vi själva finns. Vi skall också driva på så övriga ansvariga (länsstyrelse, kraftbolag, privata aktörer) snabbar på utvecklingen. Som exempel kan nämnas att flygplatsen i Hemavan (som kommunen äger) nu planerar för laddstolpar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Delvis måste kommunerna få avgöra själva, men alla måste vara med och ta ansvar i hela landet. Vi skulle behöva fler invånare - vi har brist på arbetskraft på många områden. Men det skall fungera med skola, utbildningar och integration i övrigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna fler alternativ. Valfrihet är bra för alla. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har gjort stora överskott år efter år, trots att vi i jämförelser har en mycket dyr verksamhet (även när lokala förutsättningar tas med i beräkningarna). Vi tycker att det är rimligt att läntagarnas pengar är löntagarnas tills de gör nytta som skatt. Överskott är ingen nytta för invånarna, så egentligen borde det finnas utrymme för sänkt skatt.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2350",
+          "2358",
+          "2354"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C!;C;B;D!;A;D;C;D!;C;B;3/5;2/5;1/5;[2350,2358,2354]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Delvis vad gäller ersättning för utnyttjande av lokala råvaror/energi/etc. Vi vill att mer stannar på plats. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha vårt första namn på listan, H-P Carlson, som kommunalråd och ordförande i kommunstyrelsen. Vi styr gärna ihop med den klassiska alliansen i form av M, C och KD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samtalar med alla men styr inte med V eller SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan först!",
+        "description": "Liberalerna sätter skolan först. Vi vill:\r\n- att andelen behöriga lärare skall öka\r\n- ha mer resurser till specialpedagoger, resursgrupper, spets\r\n- ha mer rörelse på (och utanför) schemat\r\n- att Björken byggs om/till/ut och behålls i Hemavan\r\n- ha en strategi för problematisk skolfrånvaro (hemmasittare) tas fram\r\n- ha fler med godkända betyg\r\n- att trivseln i skolan mäts"
+      },
+      {
+        "category": "Starkt näringsliv för mer resurser!",
+        "description": "Kommunen rasar i ranking över företagsklimat. Det är inte ok. Vi måste vända trenden! Vi vill:\r\n- skapa ett näringslivsråd med politiker, tjänstemän och näringslivsrepr.\r\n- ta fram en strategi och handlingsplan för näringslivsklimat och -utveckling\r\n- införa besluts- och handläggningsgaranti (tid)\r\n- tydliggöra kommunens roll som servicegivare\r\n- Uppvärdera lokal förankring i upphandlingar"
+      },
+      {
+        "category": "Samhällsplanering i fokus!",
+        "description": "Kommunen är i stark utveckling, inte minst i fjälldelen. Planeringen  lämnar en hel del att önska. Kommunen måste bli först på bollen igen. Vi vill:\r\n- Uppdatera ÖP och FÖR med medborgardialog - snarast!\r\n- Prioritera, ev. tillföra resurser under begr tid\r\n- Anlita stadsarkitekt med gedigen kompetens\r\n- Ta fram långsiktiga, tydliga, visioner för kommunen\r\n- Placera tjm i fjällen för bygg- & planhandl."
+      }
+    ],
+    "motivateVote": "L vill göra Storuman till en kommun med vision igen. Vi måste vara en attraktiv kommun att bo i och att besöka. Då måste vi våga sätta tydliga mål. Vi har konkreta förslag inom våra prioriterade områden skola, samhällsplanering, näringsliv, föreningsliv och omsorg och hälsa. Liberalerna står för valfrihet, utveckling och framåtanda. ",
+    "name": "Liberalerna Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-storuman"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1596",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att bygga vindkraftverk där elen behövs",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen utnyttjar personalen på ett sätt som inte är hållbart för personalens välbefinnande, ser man på siffrorna ang sjukskrivningar är det en stor del som arbetar i vården",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Riksintresse, kommunen ska inte syssla med gruvnäringen \r\nVård, skola, omsorg är viktigare områden \r\nOm regeringen tar beslut om gruva måste vi vara förberedda att hantera \r\nSituationen gällande bl.a vård,skola o omsorg + boende o infrastruktur",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska iallafall ha dialog med dom privata aktörerna ,samarbete, så inte kommunen konkurrerar ut dom privata aktörerna ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte ”nöta” ut vår personal, problemet är att rekrytera nya medarbetare inom äldreomsorgen, där måste vi bli bättre",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ( även nyanlända ) ska vid möjlighet välja skola.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt i dessa tider, det optimala är att kommunen har möjlighet att finansiera ”billiga” lägenheter",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldre ska kunna välja vart och hur dom vill bo, även vilken form av hemtjänst dom vill ha OM möjligheten finns ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget är utbyggnaden av laddstolpar bra inom Storumans kommun men kan bli bättre och där kan kommunen hjälpa till ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja\r\nSå vi kan ge dom ev. Nyanlända flyktingarna den bästa servicen och hjälpen som dom är berättigad till ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget har vi inga privata skolor i kommunen",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Svår fråga ,först måste man bestämma vad är kultur och vad är inte kultur, en balans som är svår att säga, kultur finns i allt ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger på en ”hyfsat” kommunalskatt i dagsläget,förhoppningsvis kan vi sänka den för våra medborgare genom att få tillbaka den skatt som vi ger bort avseende vatten- och vind kraft ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": "Kommunens personal inom omsorgen måste få bättre villkor ",
+        "value": [
+          "2353",
+          "2354",
+          "2357"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D!;D!;B!;D!;C!;D;C;C;C;D;2/5;2/5;2/5!;[2353,2354,2357]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej\r\nInte i dagsläget",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det politiska styret ska tillvara på bl.a läget kombinerat med dom vackra omgivningarna, traditioner av småföretagande och turism ger stora möjligheter som ska tas tillvara, att våra barn och ungdomar får den bästa starten i livet genom barnomsorg och skolor + rika möjligheter till idrott,kultur och fritidsaktiviteter ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej\r\nVi kan samarbeta och kommunicera med alla som vill kommunens väl ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "sjukvård personal",
+        "description": "Vill förbättra för personalen inom äldreomsorgen bl.a genom att ta bort delade turer, arbeta var 3 helg ( inte som nu varannan)"
+      },
+      {
+        "category": "statligt ansvar för sjukvården",
+        "description": "Staten tar över sjukvården från regionerna , lika och rättvis sjukvård i hela Sverige"
+      },
+      {
+        "category": "blå vägen ( E 12 )",
+        "description": "Ordna upp vägen från Storuman till norska gränsen"
+      }
+    ],
+    "motivateVote": "M:s löfte till väljarna är att vi ska fortsätta utveckla kommunen och göra det som kan bli bättre ännu bättre, kommunen ska vara en kommun i utveckling, en kommun som arbetar för ständiga förbättringar och där medborgarnas och medarbetares idéer och tankar tas tillvara ",
+    "name": "Moderaterna Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-storuman"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1597",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra om kommunen har makt över var vindkraften placeras men inget generellt förbud. Utbyggnaden av förnyelsebar energi är viktig. En stabil utbyggd energiförsörjning med rimliga priser. Ett lokalt ersättningsstöd för intrången.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bristen på arbetskraft gör det svårt att praktiskt genomföra delade turer. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har dåliga erfarenheter av gruvverksamheten i Blaiken som kostade skattebetalarna 216 miljoner. Om gruvor ska starta ska de vara hållbara. Höga miljökrav ska ställas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bristen på arbetskraft gör det svårt att genomföra i praktiken. Arbetskraftsförsörjningen måste gå i första hand.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Problemet är att byggkostnaderna skjutit i höjden och gör det ekonomiskt svårt att finansiera särskilt som både offentliga och privata har svårt att få lån i glesbygd.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om företaget är lokalt och vinsterna återinvesteras i äldreomsorgen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men det kräver stora kommunala investeringar i laddinfrastrukturen som i sin tur kommer att påverka konsumenten",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skulle innebära att bara vissa kommuner får ta emot en alltför stor andel.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska vara offentligt finansierad för att motverka segregation och skapa möjligheter för kommunerna att bedriva en jämställd skolverksamhet",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Genom att utveckla samarbetet med studieförbunden kan man växla upp de kommunala medlen och studieförbunden bidrar till sammanhållningen i samhället",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2350",
+          "2356",
+          "2355"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D!;C;C;B;C;D;C;C;C;A;0/5;3/5;2/5;[2350,2356,2355]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokratiskt lokalt, regionalt och nationellt",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Upprustning av välfärden",
+        "description": "Förbättrade villkor för omsorgspersonal. Kompetensutveckling. Delaktighet - äldre ska få bestämma själva över sin vardag. Det ska vara tryggt att bli gammal. Omsorgskontrakt i hemtjänsten. Mera social samvaro genom satsning på idrott och friluftsliv för äldre."
+      },
+      {
+        "category": "ta tillbaka demokratiska kontrollen över skolan",
+        "description": "För att klara framtida kompetensförsörjningen kommer vi att behöva bra kvalitet  i utbildningen och många utbildningsvägar. Vi vill säkerställa att det är ordning och studiero i skolan genom att ge lärare och annan personal tydligare befogenheter. Mobilförbud på lektionstid som huvudregel."
+      },
+      {
+        "category": "Bostäder",
+        "description": "Det måste byggas fler bostäder. Bostaden är en social rättighet. Hemmet ska vara den trygga punkten i varje människas liv. En hållbar och långsiktig samhällsplanering."
+      }
+    ],
+    "motivateVote": "Vi värnar välfärden och är ett parti för alla. ",
+    "name": "Socialdemokraterna Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-storuman"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1598",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-storuman"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1599",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f67a1f7225d3fbeef704af63d47b5a4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha mer förnybar elproduktion men vi vill att hela Sverige och alla kommuner ska ta det ansvaret. Vi producerar redan som det är enormt stor andel av Sveriges förnybara elproduktion. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "64d9aa26ed35c3a9c2806c1b28c6ab8c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Generellt så behöver vår  kommun och andra kommuner och regioner som producerar mycket energi eller råvaror kunna ta större del av inkomsterna av dessa. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad4b1fd8cbd3fc028363d4387d66aedb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hållbara arbetsvillkor behövs inom vården är en förutsättning om vi ska kunna rekrytera den personal som vi behöver och för att kunna behålla den personal vi har. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bc6cd707ae0c0746551b5eaf3752cce5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi säger klart nej till gruva i Rönnbäcken. Vi har flera argument, FN:s urfolkskommité och dess uppmaning till Sveriges regering, rennäring och ursprungsbefolkningens kultur, näringar och rätt till land och vatten väger tungt. Rent vatten, det finns stora risker med en gruva i Umeälven. Turistnäringen är en betydligt mer hållbar och långsiktig näring vi vill satsa på. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4f3948ca7a4b7f654746aad5463710c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har kommunala bolag som är väsentliga för att vi ska kunna tillhandahålla lokaler till näringsliv och bredband med mera, dessa är viktiga för kommunens företag och innevånare. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "59e9e63b85e8aacc6e9b85db247082ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är vårt långsiktiga mål. Mer tid till fritid och liv tillsammans med mindre förvärvsarbete. Det är dags att ta nästa steg mot kortare arbetstid. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b637461825b538f82c7fdb2d195e2d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ha ringa friskolor i Storuman och vill inte heller ha det. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19a682cbab4944c5df3974dd5643b4a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja vi behöver fler hyresrätter i Storumans kommun men vi behöver statens hjälp med finansiering. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6ca47df64e7b84a2de7edcd86aa4e0e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej inte i vårt Storuman. Vi har en bra kommunal verksamhet som vi vill utveckla ännu bättre till Sveriges bästa 2030. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d85265ba8bea7279020938614d9f892b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ansvaret måste staten ta. Kommunen kan bidra och hjälpa till men det måste vara staten som tar huvudansvaret för sådana infrastruktur frågor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f7a22f54978f12200e7a2ba16eed460",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. I Sverige hjälps vi solidariskt åt. Och vi har redan sett hur ett sådant system fungerar där rika högerstyrda kommuner i så fall köper sig fri på bekostnad av mindre och fattiga kommuner. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "22c382849a3ee26bde65d31ad8353b42",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ingen privat skola i Storuman och ska inte ha det heller. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4fee9ec448dcc39d15f8da7ca073012",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för att människor ska vilja bo och verka här. Fri kultur skapar tillväxt och hållbarhet. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7a895a9e7403cf11cfbd940878b5048c",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle gärna se en skattesänkning för innevånare i Storumans kommun då vi har en av Sveriges högsta skatter men det kräver en skattereform i hela Sverige för att vi ska kunna hålla den välfärd som innevånare i Storumans kommun har rätt till och vill ha. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a0b4415fae23fd5ab3310726ee16cf3f",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2358",
+          "2353",
+          "2354"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D!;D!;B;D!;D;D;A;B;A;2/5;3/5;2/5;[2358,2353,2354]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har mer långtgående uppfattning när det gäller framförallt gruvetableringar och gruvindustrin. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterpartiet går till val på att byta ut nuvarande styret och vi siktar på att ta över styret då vi har idéerna, kompetensen och erfarenheten i vårt lag. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Sveriges bästa skola 2030",
+        "description": "Vi står inför en stor utmaning med kompetensförsörjning och där ser vi skolan som ett svar på den utmaningen. Vi behöver ställa in siktet på en skola i toppklass. Allt från förskolan till högre studier genom lärcentrum. Vårt nybildade gymnasieförbund ska utvecklas tillsammans med fler grannkommuner. Vi ska ha en skola med kompetens, bra villkor för anställda och stimulera kompetensutveckling."
+      },
+      {
+        "category": "Hållbart näringsliv och med klimat och miljö som ledmotiv.",
+        "description": "Storumans kommun ska kliva upp på topp 100 i näringslivsranking. Detta ska vi göra genom god dialog och samarbete med näringslivet där vi fokuserar på klimat och miljö. Detta gör vi genom att prioritera turismnäring och säga nej till kortsiktiga osäkra gruvetableringar som Rönnbäcken. Vi ska tillsammans med lokala jordbrukare upphandla lokalproducerade matvaror som sedan tillagas i våra egna kök."
+      },
+      {
+        "category": "Sveriges bästa äldreomsorg 2030.",
+        "description": "Kvalitet, kompetens och kontinuitet. \r\nVåra äldre ska kunna njuta av sin ålderdom genom aktiviteter on hälsofrämjande insatser.\r\nDetta görs genom en relevant budgetering och uppföljning av prioriteringar.\r\nPersonalen är otroligt viktig och vi vill göra en lönesatsning, avskaffa delade turer, ge bra arbetstider genom ex 3-3 arbetstidsmodell. Utbildning/kompetensutveckling vill vi satsa på."
+      }
+    ],
+    "motivateVote": "Därför att det är Vänsterpartiet som har visionerna och idéerna för hur vi ska utveckla Storuman till en än mer framgångsrik och hållbar kommun att leva och bo i. ",
+    "name": "Vänsterpartiet Storuman",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-storuman"
+  }
+]

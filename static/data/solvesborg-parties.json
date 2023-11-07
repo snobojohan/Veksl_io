@@ -1,0 +1,1281 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1731",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan hjälpa till att klara upp brott.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att anställa någon som har ett alltför mycket kriminellt förflutet är mindre bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta skogsområde behövs för att det är den enda tätortsnära skog som finns. Har man svårt att ta sig till någon skog, man kanske saknar bil, man är handikappad och det kan finnas flera anledningar så måste Vitahall bevaras till Sölvesborgarna och kommande generationer. Det går inte att bebygga alla grönytor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att se vilken man är.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej men det kan finnas alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, vi har politiska partier man kan ta kontakt med. De är demokratiskt valda.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man måste prata svenska något vettigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan motivera flera att se att det finns möjlighet att ladda bilen. Då köper man kanske en elbil.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": "En del skolor som t.ex. på landsbygden kan drivas av föräldrakooperativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": "I kommunen behövs det en kultursamordnare och då behövs något mera ekonomiskt tillskott.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": "Det har varit samma kommunalskatt under en längre tid och det blir bra.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": "Arbeta för att alla elever ska få och ha en vettig studiemiljö, lugn och ro i skolan.",
+        "value": [
+          "2471",
+          "2472"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C;C;D;C;B;B;B;C;_;C;_;2/5;3/5;2/5!;[2471,2472]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har varit i opposition med (s), (l) och (v) och det har fungerat bra. Om det fungerar utan (v) så är det bra.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Sölvesborgs kommun har på flera sätt arbetat med att försöka få bort otryggheten. Centerpartiet vill jobba vidare med detta med bl.a. sätta upp flera övervakningskameror där det kan upplevas som otryggt. Det kan vara till hjälpt att klara av brottslighet även om det inte löser allt. Vi behöver även in i skolan och jobba på ett förebyggande sätt. Kanske i läroplan och med information."
+      },
+      {
+        "category": "Bättre kommunikationer med lokaltrafik.",
+        "description": "Centerpartiet vill att de bussar som trafikerar sträckan till Norje även kör till Pukavik. På så sätt finns möjlighet att öka upp pendeltrafiken från Listerlandet, Ysane m.fl. mindre orter. När nu drivmedelskostnaderna skenar iväg så behövs ett omtänk med busstrafiken. Flera måste kanske ställa bilen och man kan bara ha en bil i familjen. En stor strukturöversyn behövs inom kollektivtrafiken."
+      }
+    ],
+    "motivateVote": "Vi har under mandat perioden som gått lagt flera motioner som gynnar befolkningen i Sölvesborg, bl.a. om att unga ska kunna få möta äldre inom äldrevården; Ung Omsorg. Även motion om att göra kollektivtrafiken bättre så att flera kan pendla. Nästan ett måste när bensin och dieselpris skjuter i höjden. Några vallöften: det måste skapas lugn och ro i skolorna, låt äldre åka gratis kollektivtrafik.",
+    "name": "Centerpartiet Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-solvesborg"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1732",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;C;A;C;B;A;A;D;B;A;C;2/5;2/5;2/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte direkt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Fortsatt en stark och enat Samstyre!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "S",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "",
+        "description": "Ett  bättre förebyggande arbete som inkluderar föräldrar utbildning."
+      },
+      {
+        "category": "",
+        "description": "Ett fortsatt hög nivå inom äldreomsorg ."
+      }
+    ],
+    "motivateVote": "Vi är den enda parti som tänker med både hjärtat och hjärnan !",
+    "name": "Kristdemokraterna Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-solvesborg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1733",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte på denna form av övervakning i Sölvesborg som inte är otryggt.\r\nDet sägs att folk upplever otrygghet. \r\nDet är den upplevda otryggheten vi måste arbeta med, inte lägga pengar på fler övervakningskameror än det redan fattats beslut om.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skogen är den sista sammanhängande bokskogen i Sverige och ett mycket uppskattat strövområde.\r\nSkövlas skogen kommer den inte att växa upp igen även om det av någon anledning inte skulle anläggas fastigheter då bokens förutsättningar förstörs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": "En elev måste vara lätt identifierbar vilket inte är möjligt om ansiktet är dolt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver lära oss att äta mer vegetariskt då köttproduktionen medför negativa miljöeffekter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är valda av invånarna att företräda dem.\r\nJag ser ingen så stor fråga i nära framtid.\r\nDessutom visar beslutet att bygga bostäder på Vita Hall att folkets röst inte är värt något. Inte för nuvarande majoritet,",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är viktigt. Precis som vi ställer krav på skolungdomar att ha godkänt i svenska språket, så behövs det på jobbet.\r\nDäremot är det en tillgång att även behärska andra språk än svenska och engelska då vi lever i ett mångkulturellt samhälle.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte för allmänheten. Det skall då vara för personer med specifika behov etc.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta för att underlätta att välja elbil.\r\nDäremot behöver de inte vara avgiftsfria.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att vara solidarisk mot de som flyr våld och krig är viktigt i den liberala världen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktig. Anslagen behövs, däremot vill vi inte ha synpunkter på konstnärens frihet och begränsa densamma vilket har skett innevarande mandatperiod.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger över riksgenomsnittet.\r\nFörståndigt använda skattemedel bör Kunna medföra att vi hamnar på riksnivå.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2476",
+          "2478",
+          "2473"
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "B;_;D;C;C;_;A;C;B;C;A;_;2/5;1/5;[2476,2478,2473]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det vi kan säga, är att vi inte kommer att inleda något samarbete med (Sd). Vilka konstellationer i övrigt vi kan tänkas ingå i beror på hur vi kan finna kompromisslösningar för våra ideologiska frågor.\r\n\r\nMed samarbete avser vi gemensam budget, fördelning av ordörandeposter i nämnder t.ex.\r\n\r\nHar vi samma åsikt som (Sd) i någon enskild lokal fråga, så givetvis samtalar vi om den.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "(Sd) enligt ovan. Våra ideologiska frågor står tvärt emot varandras.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Använd grundvattnet förståndigt",
+        "description": "Vi använder dricksvatten att spola toaletter med. Samtidigt pumpar vi ut nästan helt rent vatten i Östersjön och grundvattentillgången är begränsad.\r\nVi måste börja se på möjligheten att använda det renade vattnet till t.ex. toalettspolning. Det finns idag teknik för att låta duschvatten cirkulera och återanvändas.\r\nRent grundvatten skall vi använda där det är nödvändigt"
+      },
+      {
+        "category": "Hjälp fd minkfarmare att ställa om till solfarmer",
+        "description": "I Sölvesborg finns flera nerlagda minkfarmer.\r\nDessa skulle vara utmärkta fastigheter att sätta upp solceller på.\r\n\r\nDe fd minkfarmarna skulle kunna bli solfarmare istället."
+      },
+      {
+        "category": "Säkra skolvägen mellan Norje och Mjällby",
+        "description": "Högstadieungdomar ifrån Norje m.fl. områden går i skola i Mjällby.\r\nVid friluftsdagar ställs ibland krav på att ha cykel.\r\nDet finns ingen cykelväg mellan samhällena så ungdomarna måste cykla den tungt trafikerade landsvägen.\r\n\r\nVi vill bygga en cykelväg för ungdomarnas säkerhet"
+      }
+    ],
+    "motivateVote": "Inledningsvis kommer vi att arbeta för att detaljplanen rörande Vita Hall inte genomförs.\r\nBokskogen på Vita Hall måste bevaras.\r\n\r\nVi har länge varit positiva till alternativa energikällor, sol- och vindkraft, vilket nuvarande styre visat lite intresse för.\r\n\r\nVi har haft flera motioner om hur vi skall minska uttaget av grundvatten. Detta arbete fortsätter.",
+    "name": "Liberalerna Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-solvesborg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1734",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;A;C;A;B;B;D;C;B;C;2/5;2/5;1/5;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är nog mer positiva till vindkraft än vad vårt parti nationellt är vilket vi bedömer beror på att vår kommun tillhör el område fyra, en indelning som är helt oacceptabel.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi arbetar för att vi ska öka våra mandat för att ytterligare stärka vår möjlighet att göra skillnad så det blir märkbart för våra väljare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan samarbeta med alla för att nå det bästa för vår kommun och våra invånare.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Boende för äldre i hela kommunen",
+        "description": "Med en ökande andel äldre i kommunen ser vi att behovet av särskilda boenden kommer att öka. då vi även vet att antalet som drabbas av demenssjukdom ökar anser vi det vara extra angeläget att möta det förväntade behovet av just demensplatser. Nyproduktion av mindre boende i våra mindre orter på Listerlandet avsedda för demenssjuka kommer därför att prioriteras av oss."
+      },
+      {
+        "category": "Säkerhet och trygghet",
+        "description": "Med anledning av den ökade otryggheten i samhället vill vi införa krav på utdrag från belastningsregistret vid all anställning till kommunal tjänster. vi vill att alla som möter kommunal personal i något ändamål skall veta att vi gjort vad vi kan för att medborgarna ska vara trygga i dessa situationer."
+      },
+      {
+        "category": "Boende och företagande",
+        "description": "Vi kommer att öka bostadsbyggandet i kommunen. Mer byggbar mark till både flerbostadshus och villor måste tillskapas både via nya områden men även av förtätning i nuvarande orter. Näringslivet skall aldrig behöva välja en annan kommun än vår vid etablering på grund av att vi inte har någon ledig mark att erbjuda."
+      }
+    ],
+    "motivateVote": "Vi är en garant för att dina skattekronor används på ett klokt sätt. Vårt fokus är den gemensamma välfärden och att våra kommuninvånare skall känna sig trygga med att vi kan förvalta det goda vi har bäst. Vi vill erbjuda den bästa barnomsorgen, utbildningen, möjligheten till att arbeta och starta företag, attraktiva områden att bo på och en förstklassig omsorg av våra äldre. ",
+    "name": "Moderaterna Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-solvesborg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1735",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vad man menar med språktest. Är det att göra sig förstådd så är det bra. Ska man klara skriven text felfritt så är det mindre bra. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha råd till en vettig bostad ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla sätt att minska fossila bränslen är bra. Vi måste värna miljön ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata skolor i vår kommun och S vill inte ha några heller ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2474",
+          "2475",
+          "2472"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;D;B;C;C;C;B;D;C;A;2/5;2/5;2/5;[2474,2475,2472]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är öppna för ett styre med flera av partierna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorgen ",
+        "description": "Vi vill att våra äldre ska ha en god välfärd. Man ska ha tillgång till bra omvårdnad där personalbrist inte råder. God och näringsriktig mat."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Vi vill ha fler närpoliser som patrullerar våra gator. \r\nSocialtjänst och skola ska få bättre resurser att hantera problemen tidigt."
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Vi vill öka antalet förskollärare och barnskötare inom förskolan. Alla barn ska bli sedda och gåsarna möjlighet oavsett ekonomisk bakgrund"
+      }
+    ],
+    "motivateVote": "Vi prioriterar välfärden. \r\nAlla som lever i eller kommer till Sölvesborg ska känna sig trygga på gator, torg och i sina bostadsområden. \r\nSölvesborg ska vara den bästa platsen att växa upp på för våra barn och unga. ",
+    "name": "Socialdemokraterna Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-solvesborg"
+  },
+  {
+    "abbreviation": "SoL",
+    "altingetCandidateId": "1736",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste först ta hand om de som redan kommit och integrera dem i samhället",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill även prioritera: Göra helhetsanställning som norm i kommunen\r\nsamt Planlägg byggbar mark förmådde bostäder och näringsliv",
+        "value": [
+          "2476",
+          "2474",
+          "2471"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;A;C;B;B;A;D;C;C;B;3/5;2/5;2/5;[2476,2474,2471]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ett lokalt parti som bara verkar i Sölvesborgs Kommun. Inte styrda av politik regionalt eller på riksnivå",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre som lyssnar på SoL-partiets idéer och förslag lika bra som under denna mandatperioden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öppna upp akutsjukvården västerut",
+        "description": "Vid ambulanstransport skall den köra pasienten till närmaste sjukhus. Är det akut är det Centralsjukhuset i Kristianstad. Detta underlättar också för anhöriga. Gränsen vid Sissebäck bör upphöra. Landskapet Blekinge skall vi vara rädda om, länet Blekinge behövs inte."
+      },
+      {
+        "category": "Samverka mera västerut inom räddningstjänsten.",
+        "description": "SoL vilka kvar brandstationerna i både Mjällby och Sölvesborg. Vi tror inte på ett nytt förbund med östra Blekinge och östra Kronoberg. Vi vill undersöka samverkan västerut med kommunerna Bromölla, Kristianstad och Östra Göinge."
+      },
+      {
+        "category": "Återinföra en syn- och hörselkonsulent.",
+        "description": "Detta är en efterlängtad vårdservice. Att kunna få hjälp på hemmaplan istället för att åka till Karlshamn för enklare ärenden."
+      }
+    ],
+    "motivateVote": "Ett parti som varken är till vänster eller höger utan rakt fram med sunt förnuft för invånarna i Sölvesborgs Kommun. Vi samarbetar med alla partier så vi kan få stöd för våra förslag.",
+    "name": "SoL-partiet Sölvesborg och Lister Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sol-partiet-solvesborg-och-lister-solvesborg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1737",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Motverkar brott på utsatta platser. Hjälp för att klara upp brott.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi får inte riskerat att utsätta våra kommuninnevånare som utnyttjar våra tjänster för risken av att allvarlig händelse kan inträffa. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har stor efterfrågan på tomtmark och vi behöver inflyttning till vår kommun för att klara vårt välfärdsuppdrag i framtiden. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lärare måste kunna kommunicera med elever där ansiktsuttryck är en viktigt del i undervisningen och blir en viktigt del i integrationen och anpassningen till vårt sätt att leva. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kosten skall var näringsrik och bestå av ett brett utbud av varierande kost samt ett vegetariskt alternativ. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer att bli väldigt svårt att genomföra utan stora skattehöjningar eller statligt stöd. Det innebär även  en ökning av personalgrupperna som kommer att påverka kommunen på lång sikt. Personalförsörjningen är redan idag ett ökande problem bland landets kommuner.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att lyssna på våra kommuninvånare i enstaka viktiga frågor kan var en viktig del i vår demokrati i frågor där det är genomförbart och lämpligt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är något vi redan genomfört och visar på ett stort behov då ca 40% av sökande till sommaren inte klarade testet. Det är oerhört viktigt att vi värnar våra gamla och sjukas  bästa där stora krav måste ställas på både kompetens och mycket goda kunskaper i det svenska språket prioriteras för att kunna ge en säker och trygg vård- och omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då det är marknaden som styr prisutvecklingen på byggkostnader blir det en riskabel strategi att finansiera hyreslägenheter. Vårt bostadsbolag kan däremot sträva efter att bygga kostnadseffektiva lägenheter för våra unga och gamla.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om kommunen skall tillhandahålla laddstolpar måste dessa vara avgiftsbelagda. Vi bör verka för att få privata aktörer att investera i laddnings infrastrukturen i vår kommun.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": "Belastningen på våra kärnverksamheter och bristen på bostäder samt de problem de medför gör det omöjligt att ta emot ytterligare stora flyktingströmmar i framtiden. Utan statliga bidrag kommer vi dessutom inte att klara av att prioritera våra kärnverksamheter. Vi behöver ta hand om de som redan finns här och verka för en bra integration som skapar förutsättning för etablering i samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ingen privat aktör i vår kommun. Det skulle möjligtvis kunna vara ett alternativ i framtiden för att öka valfriheten eller hitta en mer nischad skola för att locka elever till vår kommun, men då behöver vi attrahera en lämplig aktör.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": "Vi värnar vårt lokala kulturarv och vill satsa mer på det men anser att den allmänna vuxenkulturen skulle kunna vara lite mer självfinansierad.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": "Vi har redan en förhållandevis hög kommunalskatt och en skattesänkning skulle säker mottas positivt av våra kommuninnevånare och dessutom positivt påverka framtida inflyttning. Det är ett mål på mellanlång sikt.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2478",
+          "2475",
+          "2473"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A;D;A;B;C;D!;B;B!;D!;3/5;2/5;1/5;[2478,2475,2473]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad vi kunnat identifiera. Men det finns alltid nyanser i alla frågor, naturligtvis.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna att Samstyret i dess nuvarande form, dvs. SD, M, KD och SoL (det lokala partiet) får mandat att fortsätta att styra vår kommun under de kommande fyra åren.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan styra med alla som låter oss förverkliga vår politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tryggheten",
+        "description": "Öka säkerheten genom fler kameror i på prioriterade platser och på platser där det förekommer droghandel, våldsbrott och tillgreppsbrott. Utöka samarbetet vi nu påbörjat med polisen. Utveckla det förebyggande och trygghetsskapande arbetet i samverkan med våra trygghetsvärdar, kommuninvånare, näringsliv, skolor, fritidsgårdar, myndigheter, väktare och polis."
+      },
+      {
+        "category": "Äldreomsorgen ",
+        "description": "Verka för att det planerade unika äldrecentret i Ljungaviken blir genomfört.\r\nFortsätta moderniseringen av befintliga boenden för att öka attraktiviteten för service. Utred hur ett nytt kommunalt äldreboende skulle kunna bli verklighet.\r\nPåbörja heltidsresan mot heltid som norm med rätt till deltid. Utöka utbudet av aktiviteter och värna kvalitetsarbetet för våra äldre."
+      },
+      {
+        "category": "Skola – Utbildning",
+        "description": "Utveckla det förebyggande arbetet och det individuella elevstödet för att skapa förutsättningar för en trygg och framgångsrik skola. Satsa på kvalitét och kompetens i lärarkåren istället framför kvantitet. Utveckla vårt fotbollsgymnasium med en bredare  idrottsinriktad skola. Mer yrkesinriktad utbildning för att försörja näringslivet och vården med efterfrågad arbetskraft."
+      }
+    ],
+    "motivateVote": "Vi har bevisat att ingenting är omöjligt i Sölvesborg. Sverigedemokraterna har under de fyra senaste åren har vi varit största partiet i den styrande koalitionen som vi förvaltat väl. Vi vill fortsätta utveckla vår kommun, där de kommunala kärnverksamheterna såsom skola och omsorg prioriteras främst. Samtidigt som trygghetsfrågorna, näringslivet och den starka lokala gemenskapen får stå i centrum.",
+    "name": "Sverigedemokraterna Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-solvesborg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1738",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7849fe2d430c3872fc2a2ce33ede4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är polisen som skall föreslå var och hur övervakningskameror skall användas. Då vill vi gärna delta i det arbetet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08c9179db5736247f048cd29fa77ab61",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de verksamheter där det finns barn eller andra som är beroende av vuxna eller personal är det ett måste. I andra verksamheter får man ta det från fall till fall.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0f85085175828057f54fdefd40f75198",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vitahall är stadens lungor och ett viktigt tätortsnära rekreationsområde med ovärderlig natur och kultur inpå knutarna. Bokskogen är Sölvesborgs signum.\r\nLåt den finnas också för kommande generationer - den går aldrig att ersätta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "98656469de84f6e9a97f4066d3cd42e8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall inte ha egna grundlagar i Sölvesborg och absolut inte tvingande klädkoder. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6f7d621efb127a7068784b79e6c6aed6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är det möjligt att genomföra, så är det ett bra sätt att Sölvesborg tar sitt ansvar för klimatet på vår planet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "014ea302bc4e2e7230b9986fd5b62ab5",
+        "questionType": "PROPOSITION",
+        "reasoning": "i första hand är det en fråga för arbetsmarknadens parter, men Vänsterpartiet har länge drivit frågor i denna riktningen och tänker fortsätta med det. Vi behöver vidta åtgärder för att bibehålla och öka kvalitén och det skall vara möjligt att orka jobba heltid i äldreomsorgen fram till pensionen. Då är detta ett sätt. Vi har lagt flera förslag i den riktningen både centralt och lokalt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "20e8765339aaaeb6d751731573a92d56",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett bra förslag om det gäller en fråga som gäller hela kommunen och om huvuddelen av medborgarna berörs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82cfac50f8f67a83f98d7e78d2478584",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det görs en lämplighetsprövning redan med dagens system. Naturligtvis måste den som behöver hjälpen kunna bli förstådd och förstå den som vårdar. Vi litar på att arbetsledningen organiserar det så utan fler pekpinnar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4210e1d528e36cde44b2aa3390966499",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen äger Sölvesborgshem och vi menar att de skall vara aktiva att bygga fler billiga hyreslägenheter. Samstyret har dessvärre stoppat bygge av fler sådana billiga lägenheter på Ljungaviken   Vi vill att Sölvesborgshem ska fortsätta bygga och det gör de med egna medel. Kommunen behöver inte stötta ekonomiskt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ca4e8c57581663f10dc6131de223f002",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen eller dess bolag, Sölvesborgs Energi,  skall bygga och drifta fler laddstolpar i hela kommunen, men elen skall betalas av användaren, Detta är ett sätt att ta ansvar för klimatet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c047975d3c2967577edca58f68c2a086",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ta vår del och se det som en möjlighet genom att bedriva ett effektivt integrationsarbete. Vi saknar arbetskraft för en åldrande befolkning och behöver fler barn och unga. En begränsning för hur många vi kan ta emot är tillgången på bostäder och därför är det viktigt att Sölvesborgshem får komma igång att bygga.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "aabeae66a6d468cbed308ba660a92efe",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata vinstdrivande skolor i Sölvesborg och så ska det förbli anser vi.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8e7a157dec9c9480c34673170b356a64",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en mycket viktig del av kittet i ett samhällsbygge och viktig för en levande demokrati. Vi vill utveckla samverkan med kulturföreningarna för att få ut så mycket som möjligt av de medel vi kan få fram i en framtida budget. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "de3dda399769fae340309ea0350f33b5",
+        "questionType": "RANGE",
+        "reasoning": "Vi siktar på samma skatt, men efter Samstyrets fyra år med ett antal kostnadsdrivande åtgärder, blir det svårt.  Nedläggningen av kommunalförbundet med Bromölla kommer att åsamka Sölvesborg nya höga kostnader. Det kan bädda för en framtida skattehöjning.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "807447cb87d613c831ddf274a769d065",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2476",
+          "2474",
+          "2475"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;D!;A!;C;D;C;B;D!;D;A!;2/5!;3/5!;2/5;[2476,2474,2475]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har inte upptäckt någon sådan fråga.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samarbetar gärna över partigränserna där vi bygger ett annat Sölvesborg på samma sätt som vi gjort i oppositionen nu",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi ser det som mycket osannolikt att kunna styra ihop med SD, M, Kd och SoL.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara den tätortsnära skogen",
+        "description": "Bokskogen är Sölvesborgs signum och stolthet. Den behövs för miljön, biologiska mångfalden, tar hand om stora regnmängder, är livsviktig för rekreation, föreningsliv, lek och naturupplevelser. Bevara skogen på Vita hall!"
+      },
+      {
+        "category": "Vi vill skapa ett förtroendesamhälle.",
+        "description": "För att skapa trygghet, som är långsiktigt hållbar, vill vi lägga tyngdpunkten på det förebyggande arbetet. Med aktiva insatser för ungdomar som mår dåligt och de som är livsstilskriminella kan vi undvika att människor hamnar i kriminalitet och drogberoende. Då kommer våra invånare röra sig mer och känna trygghet både hemma och ute."
+      },
+      {
+        "category": "Mer resurser till barn och unga",
+        "description": "Vi tror att aktiva barn och ungdomar är gladare och mår bättre. De skolas demokratiskt och att jobba tillsammans med en aktiv fritid. Fler pedagoger på fritidshemmen, föreningslots som kan hjälpa unga att hitta rätt förening att vara med i, fältassistenter på fritidsgårdarna som jobbar aktivt för att aktivera vilsna ungdomar. Extra insatser för de elever som drabbats av inställd undervisning."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är det tydligaste alternativet till dagens styre i Sölvesborg. Vi tror det finns ett annat Sölvesborg där vi har förtroende för varandra och satsar på förebyggande åtgärder för trygghet. Bokskogen bevaras och den fria kulturen frodas. Så vill vi ha det!",
+    "name": "Vänsterpartiet Sölvesborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-solvesborg"
+  }
+]

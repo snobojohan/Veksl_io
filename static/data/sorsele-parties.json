@@ -1,0 +1,636 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1546",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5dc50d030c2851ba9c58aa5164d9c532",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "329590b59d2f27cbd0b4b9eb124ffd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "C är inte emot vindkraft. Ersättning för vind- och vattenkraft, etablering av gruvor mm ska betalas ut lokalt. Skatt på dessa etableringar ska gå till kommunerna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b62c3bb09524e67b9b2ff02094ac1f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Små kommuner har inte råd med detta. Vi är för fri kollektivtrafik, men den ska isåfall bekostas av staten och vara likvärdig i hela landet oavsett var man bor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f767754e8efc74683a4e218f3563aa47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner ska inte konkurrera med privata näringslivet",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5231ee5dcf2f6ef55b3a6cb9f3cdf5fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det fungerar inte i praktiken och blir alltför dyrt för kommunerna. Det är viktigare att skapa bra arbetsmiljö och att kommuner och regioner satsar på att vara bra arbetsgivare",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08497ffe26ff0071fdb91c1bd8ac3cd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att personal kan göra sig förstådd och förstå vad som sägs, men arbetsuppgifter kan anpassas medan den nyanställde lär sig språket. Det är ju också bra med mångfald i språket då även brukare har behov av personal som kan deras språk, t ex minoritetsspråk. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "12710abba2b43e244a18ee1659425f39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "75d9ee699e07fc32c407963f2fb5b63d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Små kommuner kämpar med lönsamhet i sina fastighetsbestånd i sina hyreslägenheter. Isåfall ska det vara rejält finansierat av staten",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "44c0e0ac4651979c9d5cf11aa5cd1dac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5eaa77713824238a9932464ac51b16b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan inte vara ett kommunalt uppdrag. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "32acedd1fc3023013ee5dd07804a2b3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner ska kunna säga nej, då de tagit emot samma procentuella kvot beroende på kommunernas storlek.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2279ea35459469639dc0666d71a06e36",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d8ea875650ac7663e23fa45611bd1a04",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "1cc83f214df1e19f18ef6d5deab916a6",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten bör vara samma för alla medborgare i Sverige.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "fd0d91dfbc5ed9b344beab8692d62851",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2309",
+          "2308",
+          "2310"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;A;C;A;C;C;B;D;A;C;3/5;0/5;0/5;[2309,2308,2310]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har under två mandatperioder haft samverkan med V. Det har fungerat på lokal nivå i vår kommun. V i Sorsele är mer liberala och stödjer oss i flera frågor som de inte gör på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges\r\nbästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ej ge SD makt över hur Sverige ska styras, ingen regerinssamverkan med V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela Sorsele kommun ska utvecklas och leva!",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. Fler behöver tillgång till bredband, bättre belysning och snöröjning på våra små vägar, lättare att bygga bostäder, också i strandnära lägen. De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen och för en ökad livsmedelsproduktion. En tryggad samhällsservice är viktigt!"
+      },
+      {
+        "category": "En skola och ett fritidsutbud för välmående barn och unga",
+        "description": "Alla barn har rätt att få en bra utbildning, oavsett var i landet eller kommunen man bor, med elevernas trygghet och kunskapsutveckling i fokus. Vi vill utveckla elevhälsan och samarbetet med BUP och att samverkan mellan skola och socialtjänst utvecklas. Fler unga ska få hjälp i tid. Vi vill ha en skola med naturprofil och ett större utbud av fritidsaktiviteter för våra unga."
+      },
+      {
+        "category": "En tillgänglig omsorg med bra arbetsmiljö för de anställda ",
+        "description": "Det är en trygghetsfråga att veta att man får hjälp när man behöver det. Vi vill bl.a. stärka den medicinska kompetensen i kommunerna för att kunna ge mer vård i hemmet. Kommunen ska vara en god arbetsgivare, inte minst för att kunna rekrytera kompetent och engagerad personal till omsorgen."
+      }
+    ],
+    "motivateVote": "C är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på C är en röst för klimatets bästa - för minskade utsläpp, grön omställning. Ökad jämställdhet, trygg sjukvård. C politik får fler i jobb sänkt skatt. Vi försvarar den liberala demokratin o humanistiska värderingar mot främlingsfientlighet o rasism",
+    "name": "Centerpartiet Sorsele",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-sorsele"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1547",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5dc50d030c2851ba9c58aa5164d9c532",
+        "questionType": "PROPOSITION",
+        "reasoning": "Upplåter kommunen områden till energiproduktion så skall givetvis en del av ersättningen komma kommunen till godo.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "329590b59d2f27cbd0b4b9eb124ffd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kategoriskt säga nej är inte ett klokt beslut, det skall övervägas från fall till fall. Dock skall kommunen inte gå med på projekt utan lokal förankring eller ersättning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b62c3bb09524e67b9b2ff02094ac1f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte ekonomiskt rimlig oavsett om det är kommunalt eller statligt ansvar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f767754e8efc74683a4e218f3563aa47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall normalt inte driva bolag som konkurrerar med privat näringsliv.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5231ee5dcf2f6ef55b3a6cb9f3cdf5fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att se det ekonomiskt eller praktiskt genomförbart.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08497ffe26ff0071fdb91c1bd8ac3cd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Givetvis måste de som jobbar inom äldreomsorgen kunna kommunicera med vårdtagarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "12710abba2b43e244a18ee1659425f39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga friskolor i kommunen så frågan är inte så aktuell för oss. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "75d9ee699e07fc32c407963f2fb5b63d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inte resurser för att bygga lägenheter som sen skall subventioneras för att hålla låg hyra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "44c0e0ac4651979c9d5cf11aa5cd1dac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5eaa77713824238a9932464ac51b16b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte ett kommunalt ansvarsområde.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "32acedd1fc3023013ee5dd07804a2b3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja eftersom det påverkar kommunens verksamheter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2279ea35459469639dc0666d71a06e36",
+        "questionType": "RANGE",
+        "reasoning": "Skulle någon vilja driva privat skolverksamhet i kommunen så är de välkomna. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8ea875650ac7663e23fa45611bd1a04",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen skall lägga sitt huvudfokus på dess kärnverksamt, kultur hör inte till denna.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1cc83f214df1e19f18ef6d5deab916a6",
+        "questionType": "RANGE",
+        "reasoning": "Vi har hög skatt i kommunen men får ändå inte samma samhällsfunktioner som övriga landet. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "fd0d91dfbc5ed9b344beab8692d62851",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2313",
+          "2310"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;A;C;A;D;B;A;D;A;D;2/5;2/5;1/5;[2313,2310]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "För att vi är ett parti med tydligt borgerliga värderingar som säkerställer god ordning och trygghet i kommunens verksamheter och ansvarsområden.",
+    "name": "Moderaterna Sorsele",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-sorsele"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1548",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5dc50d030c2851ba9c58aa5164d9c532",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "329590b59d2f27cbd0b4b9eb124ffd33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "b62c3bb09524e67b9b2ff02094ac1f12",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "f767754e8efc74683a4e218f3563aa47",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5231ee5dcf2f6ef55b3a6cb9f3cdf5fc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08497ffe26ff0071fdb91c1bd8ac3cd1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "12710abba2b43e244a18ee1659425f39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "75d9ee699e07fc32c407963f2fb5b63d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "44c0e0ac4651979c9d5cf11aa5cd1dac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5eaa77713824238a9932464ac51b16b4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "32acedd1fc3023013ee5dd07804a2b3e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2279ea35459469639dc0666d71a06e36",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8ea875650ac7663e23fa45611bd1a04",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1cc83f214df1e19f18ef6d5deab916a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "fd0d91dfbc5ed9b344beab8692d62851",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "D;_;_;C;A;C;C;B;A;A;B;2/5;3/5;0/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "?",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna \r\nEv. S, MP, V och C",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "All personal ska trivas med att arbeta i våra komunala verksamheter",
+        "description": "Vi vill verka för bra arbetsvillkor i alla kommunens verksamheter"
+      },
+      {
+        "category": "I vår kommun ska varje barn och ungdom ha rätt att växa och utvecklas ",
+        "description": "Vi vill satsa mer medel för att möjliggöra en meningsfull fritid med för våra barn och unga.\r\nI samråd med ungdomarna skapa mötesplatser och möjligheter till olika aktiviteter"
+      },
+      {
+        "category": "Sorsele ska vara platsen där fler vill bo och där alla ska känna sig trygga",
+        "description": "Vi vill lyfta livskvalitén, upplevelserna och möjligheterna till ett hållbart liv samt bevara och utveckla fritidsaktiviteter utifrån våra unika naturvärden.\r\nTillsammans med er vill vi stärka och utveckla föreningslivet samt företagen i hela vår kommun. Vår fantastiska natur samt unika möjligheter till jakt och fiske av hög kvalitet skall även i framtiden höra till några av våra viktigaste attrakt"
+      }
+    ],
+    "motivateVote": "Vi vill forma ett samhälle grundat på demokratins ideal och alla människors lika värde och lika rätt.",
+    "name": "Socialdemokraterna Sorsele",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-sorsele"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1550",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5dc50d030c2851ba9c58aa5164d9c532",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man ska få en större acceptans hos medborgarna för förnyelsebar energiproduktion tror vi att det är viktigt att kommunen blir kompenserat för det  markanspråk som krävs för produktionen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "329590b59d2f27cbd0b4b9eb124ffd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "De projekt som ligger inför beslut stämmer väl överens med vår vindbruksplan, men inför ytterligare etableringar krävs att vindbruksplanen revideras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b62c3bb09524e67b9b2ff02094ac1f12",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra service till medborgarna och bra för miljön.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f767754e8efc74683a4e218f3563aa47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har bara två bolag och vi ser inte att dom konkurrerar med det privata näringslivet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5231ee5dcf2f6ef55b3a6cb9f3cdf5fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett eget förslag på att införa 35 timmars arbetsvecka som vi gärna vill genomföra nästa mandatperiod.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08497ffe26ff0071fdb91c1bd8ac3cd1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att det enbart ett språktest ska avgöra om man kan jobba inom hemtjänst äldrevård, men viktig är att man kommunicera på ett sätt så att det inte blir missförstånd.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "12710abba2b43e244a18ee1659425f39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "75d9ee699e07fc32c407963f2fb5b63d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "44c0e0ac4651979c9d5cf11aa5cd1dac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5eaa77713824238a9932464ac51b16b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att det är kommunens som ska ta det ansvaret utan det är staten eller den privata marknaden som ska det ansvaret.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "32acedd1fc3023013ee5dd07804a2b3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att det är viktigt att det blir en jämn fördelning bland landets kommuner och då kan det vara svårt med frivillighet fullt ut",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2279ea35459469639dc0666d71a06e36",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8ea875650ac7663e23fa45611bd1a04",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1cc83f214df1e19f18ef6d5deab916a6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "fd0d91dfbc5ed9b344beab8692d62851",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2313",
+          "2308",
+          "2310"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D;B;C;B;C;B;B;B;B;2/5;3/5;2/5;[2313,2308,2310]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I dagsläget känner jag inte till någon fråga som vi har en avvikande åsikt om.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna sitta kvar i ledande ställning och är öppen för samverkan med andra partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fri kollektivtrafik inom kommunen för medborgare",
+        "description": "Alla personer med folkbokföringsadress inom kommunen ska erbjudas fri kollektivtrafik inom kommunens gränser."
+      },
+      {
+        "category": "Arbetstidsförkortning inom äldreomsorgen",
+        "description": "Vänsterpartiet Sorsele vill genomföra en arbetstidsförkorning för anställda inom äldreomsorgen - 35 timmars arbetsvecka."
+      },
+      {
+        "category": "Riktade satsningar på barn och ungas arbetsmiljö och fritid",
+        "description": "Vi vill att våra barn och unga ska ha ändamålsenliga skollokaler och en meningsfull fritid. Vil vill därför satsa särskilt på dessa områden under kommande mandatperiod."
+      }
+    ],
+    "motivateVote": "Att de beslut vi tar alltid är för kommunens bästa och vi prioriterar långsiktighet.",
+    "name": "Vänsterpartiet Sorsele",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-sorsele"
+  }
+]

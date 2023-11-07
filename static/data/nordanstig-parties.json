@@ -1,0 +1,1299 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1226",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom de inte har någon inkomst bör de ha gratis kollektivtrafik om ekonomin tillåter detta. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har många strandnära lägen där man inte stör den biologiska mångfalden. Det räcker till både folk och djur med tanke på hur många sjöar och hur lång kust vi har. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste vara en rimlig ersättning för den insats man gör, annars kommer ingen att ta uppdragen. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser valfrihet som viktigt, därför bör två rätter serveras dagligen, en vegansk och en med kött eller fisk.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns bara ett bolag som möjligen kan konkurrera med den privata sektorn, det är bostadsbolaget. Men det har även ett ansvar att tillse att det finns bostäder åt medborgarna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan idag ser vi resursbrist när det gäller personal, det beror på att det finns för få i arbetsför ålder som kan utföra arbetet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man bör kunna språket någorlunda om man ska kunna kommunicera med omsorgstagarna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte dumpa priserna för då kommer de privata bolagen att bli lidande. \r\nParterna kommer överens om hyresnivåerna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på kommunens storlek är det svårt att få ihop ekonomin med många olika utförare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom vi bor på landsbygden kan det bli så att kommunen får bygga laddstolpar, men självklart ska laddningen kosta för fordonen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på att vi behöver fler innevånare vore det kontraproduktivt att minska vårt mottagande. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Det fungerar bra idag, elevunderlaget är inte så stort att vi bedömer att det inte vore bra att fördela eleverna på fler skolor. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Idag lägger kommunen möjligen lite för lite på kulturen, vi hoppas kunna lägga mer. Men det beror på budgetläget framåt med tanke på inflationen och kostnadsmassan för de lagstadgade verksamheterna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Vi diskuterar vare sig sänkning eller ökning idag. Så skatteläget bör vara oförändrat.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1862",
+          "1858",
+          "1857"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;B;B!;B;B;C;A!;B;C;B;2/5;3/5;2/5;[1862,1858,1857]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha egen majoritet, men vi har den senaste mandatperioden arbetat på ett bra sätt med socialdemokratin, där båda partierna både gett och tagit för att få igenom sin politik. I en kommun av denna storlek är samarbete för medborgarnas bästa nödvändigt. \r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "satsning på ungdomsverksamhet",
+        "description": "Stödja föreningar i kommunen så de kan ha ”fritids” för äldre barn och unga. \r\nExempelvis motorklubbar, ridklubbar och andra föreningar som har ungdomsverksamhet."
+      },
+      {
+        "category": "Satsa på LIS-områden",
+        "description": "I Nordanstig har vi otroligt mycket strandnära lägen, vi behöver fler innevånare och människor vill gärna bo vid vatten. \r\nIdag kan man jobba hemifrån och är inte så beroende av bostadsort, man kan välja att bo naturnära och ha ett lugnt liv istället för att bo trångt i städerna."
+      },
+      {
+        "category": "Närproducerat för en hållbar utveckling",
+        "description": "Både för miljön och för arbetstillfällena behöver vi satsa på att köpa närproducerade produkter och använda närliggande företag för olika tjänster."
+      }
+    ],
+    "motivateVote": "För att vi har en sund och bra politik för alla innevånare och alla företag. Vi har under många år tagit ansvar för kommunen och vänt ett stort underskott till överskott över tid. ",
+    "name": "Centerpartiet Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-nordanstig"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1227",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget i sig är inte dåligt men Kristdemokraterna väljer att lägga pengar i första hand på andra saker. Det är förhållandevis billigt att åka kollektivt i Gävleborg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge man kan bevara naturen och inte de som redan bor i områdena drabbas, så är det ok.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "De politiker som arbetar och har arvode för det dom gör är värd det arvode dom har. Om man slår ut det på de timmar de lägger ner så blir \"timlönen\" inte stor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att generalisera den här frågan. I vissa fall bör man inte konkurrera medans i andra bör det fungera bra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore en dröm att kunna gå ner i arbetstid utan att förlora ekonomiskt på det, men det är en dröm och inget annat. I en värld där de äldre som behöver hjälp blir fler och de arbetsföra blir färre blir den ekvationen omöjlig att lösa. Och vem ska stå för kostnaden?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tycker det är självklart att man ska ha goda kunskaper i svenska språket när man arbetar med äldre.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag möjlighet till bostadsbidrag för de som har rätt till det. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska vi använda den drift som är effektivast och bäst oavsett om den är kommunal eller privat.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vill vi att invånarna ska använda miljövänligare fordon så måste vi skapa förutsättningar för att det ska kunna ske.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör ta emot den kvot vi är tilldelad och ta vårt ansvar för de flyktingar som behöver hjälp.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna Nordanstig tycker inte att man ska låsa sig vid någon viss norm inom det här området. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Har kommunen råd att satsa pengar på kultur så är det bra men vi vill inte sätta kronor och ören på det i en osäker ekonomisk värld. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Vi klarar idag med den skatt som är.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;C;A;A;A;A;C;B;D;C;A;2/5;2/5;2/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "KD, M, FP, C i majoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg nu!",
+        "description": "Bygg ett nytt särskilt boende nu! Vänta inte på eventuellt bättre tider utan planera och genomför byggnationen snarast."
+      },
+      {
+        "category": "Trygg och säker utemiljö",
+        "description": "Dom två senaste åren har Nordanstigs kommun gått med stor ekonomisk vinst, vilket även många andra kommuner gjort. I det här läget när vi har en positiv ekonomisk situation tycker Kristdemokraterna Nordanstig att man bör avsätta pengar för framtida satsningar gällande gång och cykelvägar i alla tätorter i kommunen."
+      },
+      {
+        "category": "Bygg trygghetsboende nu!",
+        "description": "Bygg trygghetsboende i Bergsjö nu, på en plats som inte skapar konflikter."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna Nordanstig vill förbättra kommunikationerna mellan politiken och allmänheten och mellan tjänstemännen och allmänheten. Vi vill få en ökad förståelse för beslut som tas genom tydlig kommunikation. Kristdemokraterna vill även satsa på att bygga nytt och långsiktigt istället för provisoriskt och kortsiktigt. Vi vill att beslut som tas SKA genomföras.",
+    "name": "Kristdemokraterna Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-nordanstig"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1228",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1860",
+          "1858",
+          "1857"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;B;D;B;D;C;C;B;B;2/5;3/5;1/5;[1860,1858,1857]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En stark parlamentarisk majoritet,sammansättningen är mindre viktig bara det finns samsyn i sakpolitiken .",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättrad måluppfyllelse i grundskolan",
+        "description": "Fler elever måste klara kraven för fortsatta studier."
+      },
+      {
+        "category": "Bygg ny högstadieskola.",
+        "description": "Vi har en högstadieskola som är både gammal och trång,en ny behöver byggas snarast för både eleverna och lärarnas skull."
+      },
+      {
+        "category": "Bygg trygghetsboende i Bergsjö.",
+        "description": "Vi behöver ett trygghetsboende i Bergsjö så de som vill flytta från sitt nuvarande boende i ex villa inte behöver flytta ut ifrån kommunen."
+      }
+    ],
+    "motivateVote": "",
+    "name": "Liberalerna Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-nordanstig"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1229",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ge unga chansen att hitta sina egna vingar är avgörande för deras framtid. Att kunna åka var och när man vill är en del av detta.\r\nMen viktigare är att se till att bussnätet fyller den funktionen. Idag har många unga för långt till bussen för att ett gratis busskort ska fungera.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta fram detaljplaner i anslutning till ALLA orter och attraktiva lägen.\r\nVare sig man redan bor i Nordanstig eller vill flytta hit ska det vara lätt att hitta sitt drömläge.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nordanstig har lägre kostnader per politiker än de allra flesta.\r\nVår Kommunstyrelseordförande med det yttersta ansvaret för 700 anställda, 9500 invånare och en årsomsättning på 650 miljoner kronor har idag ungefär samma lön som en erfaren rektor.\r\nAtt sänka arvodena ytterligare begränsar bara vilka som har råd eller möjlighet att ta politiska uppdrag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolmaten ska bestämmas av vad som är bäst för barnen INTE av politiskt tyckande!\r\nKommunen ska sätta regler för näringsriktighet, närproduktion och sätta en budget för skolmaten. Därefter är det Verksamheten som faktiskt kan mat som ska göra menyerna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårbesvarat. Kommunala bolag som inte gagnar kommunens intressen ska avvecklas eller ombildas är mer vår tanke.\r\nKommunala bolag ska ALDRIG utgöra ett hinder för privat verksamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett välbeforskat område där det finns påvisbara fördelar och uppenbara problem.\r\nModeraterna i Nordanstig är inte principiellt emot men det är fel tid och läge att ens tänka på det under den här mandatperioden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är löjlig!\r\nKrav på språk finns redan där det är medicinskt viktigt och det enda avgörande eller ens vägledande är patientsäkerheten.\r\nDet innebär att ett generellt språkkrav är dumt och kontraproduktivt medan olika krav på olika tjänster ger bra resultat och dessutom redan finns.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bygga lägenheter så att behov fylls och utveckling säkerställs.\r\nOm det innebär billiga hyreshus, tillgängliga trygghetsboenden eller hus med miljöprofilering kommer variera över tid.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "JA!\r\nKvalitén ska vara avgörande!\r\nOm ett privat bolag över tid kan erbjuda samma eller högre kvalité som kommunal drift till samma eller lägre pris ska vi uppenbarligen välja det alternativet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "En god ladd-infrastruktur är avgörande för Nordanstigs utveckling. Det ska ske i samverkan med flera aktörer och det gör att kommunen har en stor uppgift och ett stort ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nordanstig har ett solidarisk ansvar tillsammans med alla andra kommuner i Sverige och det ansvaret tar vi utan att gnälla.\r\nDevisen \"Gör din plikt - kräv din rätt\" funkar åt båda hållen så gör vi det som förväntas av oss är det lättare att kräva att andra gör det som åligger dem.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Vår prioriteringen är att göra Nordanstigs kommunala skolor så bra som möjligt och därigenom lägga ribban högt.\r\nAtt det finns alternativ är bra men det viktiga är att det är en bra skola - inte vem som äger eller driver den.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är ett mycket stort begrepp och som helhet ett område det är värt att satsa på eftersom det ger livskvalité och skapar tillväxt.\r\nEN något högre ambition än i nuläget är bra.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Under många, många år har invånarna fått ganska lite verkstad för väldigt mycket skattepengar. Just nu levererar kommunen betydligt mer per skattekrona så frågan är inte jättehet.\r\nPå sikt ska Nordanstigarna dock inte behöva betala extra för att bo i kommunen så en skattesänkning på mellan 10 och 25 öre under denna eller nästa mandatperiod är målet.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1860",
+          "1858",
+          "1857"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D!;A;A;C;B;B;C;D!;C!;B;2/5;3/5;1/5;[1860,1858,1857]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi prioriterar olika saker olika högt. Till exempel har vi E4-bygget genom kommunen högre på dagordningen är på riksnivå. Men det handlar om att vår uppgift är att se till vad som är bäst för kommunens invånare inte rikets intressen.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det kommer bli ett samarbete med de partier som delar, eller kan acceptera, vår framtidsplan.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nja,\r\ndet handlar mer om samarbetsklimat än politik\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bästa barnkommunen",
+        "description": "Bra skollokaler, satsning på utbildning och bra livsstart, bra fritidsutbud i hela kommunen och trygga, tillgängliga kommunikationer."
+      },
+      {
+        "category": "Attraktiv boendemiljö",
+        "description": "Det ska vara lätta bygga, bo och trivas i Nordanstig. Vi satsar på bra fritidsutbud, goda kommunikationer och lokala lösningar i varje kommundel."
+      },
+      {
+        "category": "Trygg omsorg",
+        "description": "En omsorg som fungerar för både brukare och anställda. Allt från bra och moderna boenden, en hemtjänst med kontinuitet till trygghet och god framförhållning för personalen ingår i vår vision."
+      }
+    ],
+    "motivateVote": "Varje by, ort och bygd är viktig! Alla kan inte få allt men alla bygder har sina styrkor och genom att stärka dem stärker vi helheten.\r\nVi ser en framtid där vi är fler, gladare och har bättre service och vi har en plan för hur vi ska komma dit.",
+    "name": "Moderaterna Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-nordanstig"
+  },
+  {
+    "abbreviation": "nop",
+    "altingetCandidateId": "1230",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ungdomarna kan i dagsläget åka kollektivt inom kommunen. Men vi vill utöka detta att gälla även resor i Hudiksvalls kommun. Många unga har aktiviteter och kompisar utanför kommunen, och vissa idrotter eller fritidsaktivitet saknas i vår kommun. \r\nDärför vill vi stärka detta och satsa pengar på utökad kollektivtrafik. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har aktivt arbetat och lagt förslag på att sänka de politiska arvodena. Men inga andra partier stödjer detta. Vi kommer fortsatt bevaka detta och se till att arvodena ej höjs som övriga partier driver på för att göra. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det ska finnas variation för eleverna i skolan vid deras måltider. \r\nIstället för köttfria dagar, ser vi hellre att man kompletterar med vegetariska och veganska alternativ samtliga skoldagar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skulle vilja säga Ja, men vi ser tyvärr ej att det skulle vara ekonomiskt eller praktiskt genomförbart i vår kommun i dagsläget. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga problem med att privata aktörer bedriver verksamhet inom kommunens äldreomsorg eller hemtjänst. Nu har dock kommunen kommit fram till att det ej fungerade med privata aktörer, så i dagsläget bedrivs all verksamhet inom kommunen. Och det är också helt OK för oss. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bistå med publika laddstolpar och finansiera detta, vid sina större kommunala fastigheter och verksamheter. I övrigt ska den privata marknaden finansiera utbyggnaden utav laddstolpar även i vår kommun. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har möjlighet att ta emot fler flyktingar, vi tar emot väldigt få i dagsläget. Däremot behöver man arbeta med att skyndsamt integrera nya kommuninvånare. Så både kommunen och den som anländer behöver ta ett gemensamt ansvar för detta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen bedriver en stor del av utbildningen och skolan i dagsläget, och privata aktörer har verksamhet på vissa orter. Vi anser att detta fungerar och kan fortsätta. Viktigt att huvudmannen tar ansvar för att det drivs en kvalitativ skola som utvecklar eleven, så denna kan nå så långt som möjligt utifrån sina förutsättningar. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Vi har och kommer framöver fortsätta att aktivt tillföra mer pengar till kultur och föreningar. Så de kan söka bidrag för att utveckla sin verksamhet. \r\nMen någon summa i kronor kommer vi inte att ge, utan man får enskilt titta på hur man stötta kulturen i olika sammanhang. Både gällande befintliga aktörer och nya som tillkommer. Men Nordanstig har ett rikt kulturliv, och många drivna eldsjälar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Det trista svaret är samma som idag, för att säkerställa att vi kan betala och finansiera den verksamhet vi bedriver.\r\nAmbitionen är att kunna sänka skatten framöver. Vi vill ej se några skattehöjningar om inte sådana behövs för att rikta aktivt ”stöd” till verksamheter som har svårt att hålla sin kostnad. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1860",
+          "1862",
+          "1858"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D;B;B;B;C;C;C;A;B;2/5;3/5;2/5;[1860,1862,1858]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Då vi är ett lokalt parti, har vi ingen ovanifrån som styr vårt arbete. \r\nDärav kan vi hantera alla frågor och beslut utifrån vad de ger för effekt i kommunen. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill självklart vara med i det politiska styret efter valet 2022. \r\nMen har inget scenario som väger tyngre utifrån vilka som delar det politiska styret. Vi har haft ett bra samarbete med majoriteten. \r\nSamtidigt som vi stött förslag från samtliga partier i vissa sakfrågor. Vår avsikt är och har varit att arbeta aktivt och stödja förslag som är bra oavsett vilket parti som drivit på i frågan. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte se att vi kan styra tillsammans med Vänsterpartiet. \r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bibehålla och stärka skolstrukturen",
+        "description": "Vi i Nordanstigspartiet vill bibehålla nuvarande skolstruktur med F-6 samt utöka Ilsbo skola till en F-6 skola. Vi vill utöka finansieringen till skolan för att öka kvalitén och måluppfyllelsen."
+      },
+      {
+        "category": "Stoppa slöseriet med kommunala skattemedel",
+        "description": "Vi i Nordanstigspartiet anser att kommunens skattemedel ska gå till skola, vård och omsorg. Dessa kärnverksamheter ska alltid prioriteras. Tveksamma spekulativa projekt ska inte hanteras eller finansieras av kommunen. Vi tänker fortsätta arbeta för sänkta politiska arvoden."
+      },
+      {
+        "category": "Stärka förenings och kulturlivet",
+        "description": "Nordanstigsborna får idag mycket av sin service tillfredsställt från det ideella förenings och kulturlivet. Vi har under denna mandatperiod säkerställt goda möjligheter till ekonomiskt stöd till föreningslivet. Vi tänker fortsätta att arbeta för att förbättra möjligheten för engagerade medborgare att genomföra sitt goda förenings och kulturarbete."
+      }
+    ],
+    "motivateVote": "Därför att vi som ett lokalt parti kan ha kommuns och invånarnas bästa i fokus i vårt arbete och ställningstagande i de olika frågor som hanteras. Vi har ingen som ovanifrån styr vårt politiska innehåll. Vi värnar om att arbeta med kommunens kärnområden som är skola, vård och omsorg. För att stärka och utveckla denna både för de som är i verksamheten, men även ge förutsättningar för de anställda. ",
+    "name": "nordanstigspartiet.se Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "nordanstigspartiet.se-nordanstig"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1231",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla ungdomar skall kunna ta sig till sina fritidsintressen, det är en jämlikhetsfråga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver få till fler bostäder där människor vill bo. Men det är också viktigt att säkerställa allmänhetens tillgång till sjöar och vattendrag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Demokratin är viktig och värd att bevara! Det är idag svårt att rekrytera nya politiker för alla partier. Det finns idag en stor oro över hur demokratin ska kunna bibehållas om det blir för få engagerade. \r\nDe politiska arvodena i kommunen är idag mycket lägre än andra kommuner .",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är i grunden en klimatfråga. Det är viktigt att minska köttkonsumtionen i samhället. \r\nMen det viktigaste är ändå att barnen äter varje dag för att kunna orka hela skoldagen. Därför måste det vara överordnat att barnen äter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag tillgodoser kommunala behov. Det är ju därför de finns. Det privata näringslivet har sina behov. Det är inte ofta detta är samma. \r\nMen grundinställningen måste vara att kommunala medel skall gå till kommunala verksamheter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmar arbetsdag skulle kunna vara positivt. Men om det sker på en enskild bransch som tex äldreomsorgen och inte hela arbetsmarknaden skulle det innebära att det i realiteten skulle bli en lönesänkning både på kort som på lång sikt. I detta fall skulle det innebära att ett kvinnodominerat yrke skulle få stå tillbaka i löneutrymmet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbete inom hemtjänst och äldreomsorg innebär nära kontakt med äldre människor som ofta upplever tillvaron otrygg, det är viktigt att minska otryggheten. Det är också viktigt att det inte blir fel pga missförstånd.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver fler bostäder, framförallt bostadsrätter. Oavsett vilken typ av bostad det gäller så är det viktigt att hyresnivåerna är på en nivå som att inte bara höginkomsttagare kan klara.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens kärnverksamheter skall drivas av kommunen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är idag inte ett kommunalt ansvar att driva mackar. Det borde heller inte vara ett kommunalt ansvar med laddstolpar. Det finns en risk för att marknaden inte tar sitt ansvar fullt ut, då kanske kommunen måste göra vissa insatser.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tyvärr är det inte lika tryggt i vissa länder som det är i Sverige.  Vi behöver solidariskt hjälpa varandra. \r\nDet innebär också att alla kommuner måste dra sitt strå till stacken så att andra inte får en övermäktig uppgift.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens kärnverksamheter skall drivas av kommunen. \r\nFör varje elev som går i en annan skola privat eller annan kommun, dränerar ekonomin för våra egna skolor.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag ett stort kulturellt utbud. Vi har också rutiner för att ge medel till kulturarbetare. I och med våra stora investeringar med en beslutat 1% kulturutsmyckning så kommer det att behövas mer medel till detta.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Nordanstigs kommun har idag en förhållandevis hög skattesats som skulle behöva sänkas. Men det får inte ske på bekostnad av kvaliteten på våra kärnverksamheter.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": "Trygghetsboendet i Bergsjö är kanske det viktigaste och mest akuta vi har att göra.\r\nVåra barn och unga behöver ha något att göra och någonstans att ta vägen, det är viktigt dels för att undvika att hamna i dåligheter men även för att göra det mer attraktivt för oss som bor i kommunen.\r\nVid alla upphandlingar så vill vi underlätta för lokala entreprenörer.",
+        "value": [
+          "1862",
+          "1858",
+          "1857"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;A;C;B;B;C;C;A!;B;B;0/5;3/5;1/5;[1862,1858,1857]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill i första hand få till en egen majoritet, men är inte främmande för att samarbeta med andra partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att samarbeta med SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ta tillbaka den demokratiska kontrollen över välfärden!",
+        "description": "Det finns ingen anledning till att företag ska sko sig på välfärden, pengarna inom  vård, skola och omsorg ska gå till just det som det är avsett till!"
+      },
+      {
+        "category": "Investeringar i våra kärnverksamheter",
+        "description": "Vi har gjort stora investeringar i lokaler för främst utbildningsverksamheten. Vi kommer att fortsätta på ett ansvarsfullt sätt med våra investeringar. De skall vara ekonomiskt försvarbara samt helst med en bred politisk förankring."
+      },
+      {
+        "category": "En snyggare kommun",
+        "description": "Vi ska fräscha upp och se till att kommunens alla delar ser bra ut. Det är viktigt att det ser bra ut främst för våra medborgare men även för alla som besöker oss eller skulle kunna tänka sig att flytta till vår kommun."
+      }
+    ],
+    "motivateVote": "Vi är det parti som representerar alla arbetare, vi värnar den Svenska modellen.\r\nDet finns inget annat parti idag som är så kallat statsbärande, dvs har en politik som fungerar fullt ut. Andra partier har bara vissa inriktningar.\r\nPå oss röstar man för att man vill ha ett inkluderande och rättvist samhälle.",
+    "name": "Socialdemokraterna Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-nordanstig"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1232",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna kommer införa att unga ska kunna resa fritt med kollektivtrafiken i länet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill göra det enklare att bygga eller stycka av tomter och möjliggöra strandnära bebyggelse, framförallt i glesbefolkade delar av landet. Samtidigt vill vi bevara allmänhetens intresse av tillgång till vattenområden och garantera fri passage.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politiken behöver resurser för att kunna driva viktiga frågor. Politiken har också blivit mer komplex och mer tidskrävande för de förtroendevalda, så därav ser vi inte att sänkning av arvodena som aktuellt i dagsläget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många maträtter där kött inte är en ingrediens och dessa ska framhävas. Att sen sätta en regel av två köttfria dagar ser vi som onödigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med det privata näringslivet i onödan och vi ser gärna att verksamhet läggs ut på entreprenad, samt att upphandlingsprocessen förbättras för att stödja och förenkla för det lokala näringslivet. Vi tror dock på att ha kvar viss allmännyttig verksamhet i kommunala bolag, exempelvis det kommunala bostadsbolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan eventuellt vara motiverat med den typen av arbetstidsförkortning i vissa fall, det är dock upp till arbetsmarknadens parter att komma överens om. Sverigedemokraterna ser det som viktigast att kommunens anställda ska ha rätt till heltid och att ofrivilliga delade turer avskaffas.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska anställda inom omsorgen kunna uttrycka sig på- och förstå svenska, det är en trygghetsfaktor! Utöver den viktiga sociala delen är det av största vikt att felmedicinering eller felaktig vård ej sker på grund av språkförbistringar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att bostadsbidraget fyller funktionen av att ge ekonomiskt svaga hushåll lägre hyra. Allmänt rabatterade hyror betalda av skattepengar är fel väg att gå. Nyproducerade lägenheter är dessutom omöjliga att bygga billigt. Istället ska kommunen jobba med att möjliggöra för fler mindre byggbolag att delta i upphandlingarna och på så vis öka konkurrensen och pressa hyrorna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill att medborgarna ska ha valfrihet med ett brett utbud av olika leverantörer av tjänster och boenden. Vi vill även se ett blomstrande näringsliv och ett gott företagsklimat, så vi ser gärna att privata företag har möjlighet att bedriva den typen av verksamhet i Nordanstig.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att det i första hand är en fråga för marknaden, att företag tillhandahåller laddmöjligheter där behov finns och att kommunen möjliggör lämplig mark för detta. Men kommunen kan behöva gå in som aktör där brister finns.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hjälp till flyktingar ges bäst i krisernas närområden. Asyl- och migrantinvandringen från avlägsna länder måste stoppas. Tillfälligt skydd för flyktingar från Ukraina ska ges, då de kommer från vårt närområde.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna betonar valfrihet och inflytande för föräldrar och elever i den svenska skolan. Därför är vi i grunden positivt inställda till friskolor, inte minst då de har lett till ett bredare utbud av olika pedagogiska undervisningsmodeller och till en ökad valfrihet. Friskolereformen har även skapat problem vilket behöver lagregleras tydligare.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att den offentligt finansierade kulturen i första hand ska rikta sig till barn och ungdomar, samt grupper som kan ha svårt att tillgodogöra sig annat kulturutbud, exempelvis multisjuka äldre och personer med funktionsvariationer. Generellt behöver kommunen prioritera kärnverksamheterna före dyr vuxenkultur.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna är inget uttalat skattehöjar- eller skattesänkarparti, men med ett förbättrat företagsklimat, med fler personer i egenförsörjning, och minskat inflöde av svåranställningsbara migranter, finns det goda möjligheter för en sänkning av kommunalskatten, som enligt vår mening är hög.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1855",
+          "1858",
+          "1857"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;B;B;C;B;D!;A;D;B;D!;3/5;0/5;2/5;[1855,1858,1857]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD, M och KD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk kommunens ytterområden",
+        "description": "Trygga både de ekonomiska förutsättningarna så som boendemiljö och intressesfären. \r\n\r\n- Ökat kommunalt inflytande över rovdjurspolitiken\r\n- Nej till störande vindkraftsindustri\r\n- Behåll skolorna i ytterområdena\r\n- Förbättrad gatubelysning i kommunen\r\n- Återställ eftersläpat underhåll av parker, lekplatser, vägar mm\r\n- Anslutning till utbyggt kommunalt VA ska vara frivillig"
+      },
+      {
+        "category": "God äldreomsorg",
+        "description": "En kommun att åldras i.\r\n\r\n-\tTrygghetsboenden för äldre som ger ett självständigt boende\r\n-\tAll personal ska tala god svenska\r\n-\tKontinuitet av personal för att främja äldres integritet och trygghet\r\n-\tHandlingsplan för att möta ökat behov inom äldreomsorgen\r\n-\tVerka för en mångfald av boendeformer för våra äldre\r\n-\tParboendegaranti för våra äldre"
+      },
+      {
+        "category": "En hållbar migrationspolitik ",
+        "description": "En hållbar migrationspolitik för ett sammanhållet Sverige\r\n-\tVerka för avskaffande av anvisningslagen för migranter till kommunen\r\n-\tMinska migrationen till kommunen genom kommunalt undantag från EBO-lagen\r\n-\tInföra ”integrationsplikt” där svenska språket samt svenska normer och värderingar är obligatoriska delar\r\n-\tStimulera frivillig återvandring genom att inrätta en återvandringshandläggare"
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna ökar tryggheten, minskar migrationen och stärker landsbygden. Vi uppnår en god ekonomi genom ett förbättrat näringslivsklimat och en företagarvänlig attityd.",
+    "name": "Sverigedemokraterna Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-nordanstig"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1233",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "be539562eefabfd1f3ab8bcf7c20824f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostnadsfri kollektivtratik handlar om jämlikhet och grundläggande rättigheter att kunna delta i samhälls- och fritidsaktiviteter. Många familjer har inte egen bil och därför kan barn och ungdomar inte ta sig till stranden, fotbollen eller konserten i den större grannstaden. Fri kollektivtrafik handlar om att ge alla samma chans! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f07dc0509c4c9111ca013490f5f63c24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är inte en enkel fråga, eftersom det finns massor med exempel där allmänheten utestängs från bad och strandnära aktiviteter. Det får inte vara så att rika villaägare sätter upp stängsel och därmed utestänger övriga från det de har rätt till. Men, i en kommun som Nordanstig så finns det forfarande gott om plats, och vi skulle kunna vinna mycket på att tillåta lite mer strandnära byggande. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f835f5ddff64f85b1e3087e70047aba",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att sänka arvoden i Nordanstig är ett populistiskt förslag. Vi har redan låga ersättningar och väldigt svårt att få tag på fritidspolitiker. Dock, arvodena ska inte heller höjas så mycket, så det kommer vi att kämpa emot. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a815387e1939f3375c89669854157296",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svår fråga. Vi behöver alla äta mindre med kött för att möte klimatproblemen, och det gäller även skolan. Men, obligatoriska köttfria dagar riskerar att slå fel och få motsatt effekt, så det är inte säkert att det är ett bra förslag. Vi behöver dock arbeta i den riktiningen, men kanske hellre på ett annat sätt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b3be83581578d108d2e1d15c70281634",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nu har vi förvisso ingen sådan situation i Nordanstig, men generellt anser Vänsterparetiet att kommunen och kommunala bolag måste få verka och konkurrera på alla marknader om medborgarna i demokratisk ordning bestämmer så. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e2d51f068f0a111a056e53de8c42b3e3",
+        "questionType": "PROPOSITION",
+        "reasoning": "En arbetstidsförkortning måste till i flera verksamheter, speciellt omsorgen, om personalen ska orka jobba ett helt arbetsliv. Det är en mycket viktig fråga för oss. Dock, det är inte säkert att det måste handla om exakt 6 timmar, och ett införande måste ske så att personalförsörjningen inte blir lidande. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "298a1089042abab44bdb1f95c01dbf94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som jobbar inom omsorgen ska kunna tala och förstå svenska, det är en självklarhet. Men, det ska skötas på sättet som görs nu, men handledare och praktiktid, inte med några formella test. När frågan beskrivs på det här sättet leder det till populism och främlingsfientlighet. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e85beb74261dbab46cd47779099a1c11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla måste ha någonstans att bo. Det är en grundläggande mänsklig rättighet. Som bostadsmarknaden ser ut nu, så har inte alla en rimlig chans att skaffa ett eget boende och därför måste stat och kommun gå in och ta sitt ansvar. Kommunen måste bygga fler billiga lägenheter och hjälpa de som behöver att hitta ett boende. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d13491e66db2082f03be12ae2ed22287",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Nordanstig och på flera andra ställen har vi sett hur det går när det privata vinstintresset tillåts utnyttja våra svagaste i samhället. Så ska det inte få vara, i alla fall inte med hjälp av kommunala pengar. I vårt samhälle ska kommunen ta hand om våra äldre och den kommunala verksamheten ges möjlighet att organisera detta på bästa och billligaste sätt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e6cb069ee9f3ace03190e732dc91a31f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här måste kommunen gå före, endera genom att sätta upp egna stolpar eller genom stöd till privata initiativ. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4a7b7edf0717a1a2b80d44689e5eff78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nordanstigs behöver ALLA invånare, och bortsett från vår moraliska plikt att hjälpa måste vi bli fler för att kunna ta hand om en allt mer åldrande befolkning. Vi hade aldrig klarat av pandemins utmaningar utan alla mer eller mindre nyanlända som under tuffa förhållanden slitit inom omsorg och service. Vi klarar oss inte utan inflyttning av flyktingar och invandrare, varken nu eller i framtiden. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3252bc66d385315ea9b03217da9c244f",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet är emot religiösa friskolor, så därför borde sådana inte drivas i vår kommun. Dock, den religiösa friskola vi har i kommunen, har vi dock aldrig haft anledning att rikta någon kritik emot i hur de utövar sin undervisning, detta ska absolut sägas. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "a8ab774402f036ba6ffeed862d1f8850",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet har under mandatperioden lagt motioner om att införa enprocentsregeln vid kommunanala investeringar, samt om att införa nya och fler stöd till kulturentreprenörer. Detta har vi gjort för att kulturen är  grundläggande i ett samhällsbygge och något som alla ska kunna ta del av. Kommunen gör redan en hel del, men borde göra mycket mer! Kulturskolan ska också göras kostnadsfri. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "a3297f737c0d5f0903129e2b7964acfb",
+        "questionType": "RANGE",
+        "reasoning": "Inkomstskatten bör inte höjas. I förlängningen borde den snarast sänkas, men det tror vi inte är möjligt just nu. Dock, andra skatter, som kommunen inte rår över, borde definitivt höjas eller införas igen. Här tänker vi tex på fastighetsskatt, förmögenhetsskatt och finansiella skatter. Kommunalskatten borde också vara lika i hela landet. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "45a0a24cee6a8b001a231f4ff02cf1ac",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1856",
+          "1855",
+          "1858"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;B;C;A;D!;A!;D!;A!;D;A!;1/5;4/5!;2/5;[1856,1855,1858]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har en något mer glesbygdsanpassad syn i frågor om strandskydd, jakt och jordbruk än partiet på riksnivå har, men det finns ingen fråga där vi har en helt anan uppfattning. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Om inte Vänsterpartiet kan få egen majoritet, så vore det optimala ett samabete mellan Vänsterpartiet, Socialdemokraterna och Miljöpartiet, om de senare nu lyckas ta sig in i kommunfullmäktike igen. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Kristdemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öka bemanningen och personalinflytande inom omsorgen",
+        "description": "Vi ser att personalen går på knäna, och det beror inte bara på pandemin. Vi behöver öka bemanningen och för att klara det måste kommunen bli en mer attraktiv arbetsgivare. Därför vill vi att personalen ska vara delaktig när den nya, kommunala hemtjänsten kommer igång. Ta tillvara på personalens synpunkter och förslag. Vi vill helt enkelt se ett större personalinflytande!"
+      },
+      {
+        "category": "Förbättra arbetsmiljön och höja resultaten i skolan!",
+        "description": "Nyckeln till bättre resultat i skolan handlar mest av allt om lärarnas arbetsmiljö. Vi vill jobba för minskad administration, högre lärarlöner, en tydlig kompetensförsörjninsplan och mer resurser till lärarnas fortbildning. Då kommer elevernas resultat också att förbättras."
+      },
+      {
+        "category": "Öka tempot i klimat- och miljösatsningarna! ",
+        "description": "Kommunens mål att vi ska vara koldioxidneutral år 2030 måste nås! Därför vill Vänsterpartiet:\r\n- Satsa mer på kollektivtrafiken genom en lokal kollektivtrafikstrategi och kostnadsfria resor för ungdomar\r\n- Trygga cykelvägar mellan kommunens orter\r\n- Lokalproducerad mat i kommunens verksamheter\r\n- Kommunalt energibolag med miljövänligt producerad el"
+      }
+    ],
+    "motivateVote": "EN RÖST PÅ VÄNSTERPARTIET är en röst på starkare och tryggare samhälle - i Sverige och Nordanstig - där vi gemensamt tar ansvar och där allas rättigheter är lika viktiga. Detta ska gälla allt vi gör och ligga till grund för såväl miljötänk som företagande, utbildning som omsorg, för att ta några exempel. Vi ska kämpa för att så mycket vänsterpolitik som möjligt blir genomförd - så ofta som möjligt",
+    "name": "Vänsterpartiet Nordanstig",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-nordanstig"
+  }
+]

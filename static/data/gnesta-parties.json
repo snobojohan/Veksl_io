@@ -1,0 +1,1342 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "389",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att sköta skogen i ett naturreservat. Eftersom Lötbodalsskogen är reserverat som rekreationsområde för kommuninnevånarna, är det viktigt att kunna sköta skogen så det inte faller ned döda träd kors o tvärs.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnesta behöver flera tillgängliga platser för demensvård, Strandhagen kommer inte att räcka till inom kort, bra om vi då är förberedda med tillgängliga platser inom aldrevården.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ju en fördel om syskon kan finnas i samma förskola, så föräldrar inte behöver gå/åka till flera platser vid hämtning och lämning.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver även privata alternativ för att tillgodose behovet. Vi har ett stort behov i närtid, kommunen har inte kapacitet att klara allt detta i egen regi.\r\nViktigt att kommunen möjligör för privata alternativ att etablera sig på orten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte resurser att genomföra detta, det är bättre att fördela arbetsuppgifterna så personalen avlastas med enklare jobb under veckan.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är det viktigaste för att klara integrationen på ett godtagbart sätt.\r\nspråkträning både i tal o skrift måste prioriteras, viss del av utbildningen bör kunna göras på arbetstid.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helt köttfria dagar är inget vi förespråkar, valmöjlighet måste finnas varje dag, det är inte alla som bara kan äta vegetarisk,\r\nVi behöver även värna om det svenska lantbruket och det öppna landskapet, där har köttproduktion en avgörande roll.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte subventionera byggande, därimot kan vi gärna anvisa tomter för byggande av hyresrätter, både till privata och kommunala aktörer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte ansvara för stolpar då det behövs annan kompetens för det.\r\nDet är bättre att låta något annat företag/organisation stå för uppsättning och driften av stolpar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen får inte konkurrera med det privata näringslivet. Det privata näringslivet måste ha chans att överleva, ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Om ett privat företag vill driva skola i kommunen skall det vara möjligt på samma villkor som den kommunala drivs. det är bra med valmöjlighet. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "I Gnesta kommun finns ett stort kulturutbud, det skall vi vara rädda om.\r\nAnslaget för att stödja kulturföreningarna behöver öka.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Vi har redan idag en hög skattesats, det är inte lämpligt att höja det uttaget. då kommer vi inte att ha den inflyttning som vi har idag. risk för utflyttning istället vilket ger en motsatt effekt,",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "108",
+          "110",
+          "111"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "97",
+          "100",
+          "99"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;C;D!;A;C!;A;A!;B;C!;3/5;3/5;2/5!;[108,110,111];[97,100,99]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i dagsläget .",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst ett styre i mitten, som gamla alliansen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte styra tillsammans med SD eller V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela kommunen ska utvecklas, även landsbygden",
+        "description": "Oavsett var man bor i Gnesta kommun ska man kunna förverkliga sina drömmar o leva det liv man vill. Det förutsätter tillgång till bredband, bra vägar, möjlighet att bygga bostäder i gårdstun och även strandnära lägen för att möjliggöra utveckling och generationsskiften på vår unika landsbygd. En landsbygd med utvecklade företag, verksamma inom olika branscher säkerställer den levande landsbygden."
+      },
+      {
+        "category": "Småföretagen säkrar kommunens utveckling",
+        "description": "Småföretagen är det som skapar de flesta nya jobb i landsbygdskommuner, det förutsätter ett gott företagsklimat utan byråkratiskt regelkrångel. Det måste vara enklare att anställa de 5 första i företaget, då skapas många nya jobb framför allt på landsbygden."
+      },
+      {
+        "category": "Omsorg om skola och äldre",
+        "description": "Alla barn skall kunna få en bra utbildning oavsett var man bor i kommunen, elever skall känna trygghet i skolan och ha tilltro till skolarbetet, Samverkan mellan skola o socialtjänst måste utvecklas. vi anser även att äldreomsorgen behöver utvecklas gärna i samarbete med skolan, då barn och äldre kan mötas för att lära av varandra. Det ger positiva effekter på både gamla o unga."
+      }
+    ],
+    "motivateVote": "Vi är ett liberalt parti som värnar hela kommunen. Vi anser att hela kommunen skall leva, även ytterorterna.",
+    "name": "Centerpartiet Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-gnesta"
+  },
+  {
+    "abbreviation": "FI",
+    "altingetCandidateId": "390",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill främja biologisk mångfald, och fler naturreservat är en bra investering. Vi behöver samtidigt se till så att nuvarande verksamheter i området kan fortsätta bedriva sin verksamhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har drivit förslaget om 6 h arbetsdag, och vi ser att äldreomsorgen måste få högre status genom bättre arbetsvillkor. 6 h arbetsdag med bibehållen lön i kombination med fortbildning och fasta anställningar är vägen framåt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns en lokal grupp som stödjer personal i omsorgen att utvecklas språkligt. Vi tror mer på mentorskap och att människor successivt lär sig språket genom att vara verksamma i yrkeslivet. Flerspråkighet borde uppvärderas då det finns många som behöver omsorg som har annat modersmål än svenska. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har föreslagit vegetariskt som norm för mat inom kommunal verksamhet. Detta gör vi både för klimatet och för omsorg om hälsan och djuren. Animalieprodukter är hårt subventionerade och vi skulle istället kunna stötta lokal vegetarisk matproduktion ännu mer. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver se till att alla har tillgång till en bostad, det är en grundläggande rättighet för att kunna leva ett drägligt liv. Vi behöver se till att det inte enbart finns bostäder för de med mycket god ekonomi, vilket de nybyggda lägenheterna idag kräver. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att en kommunal skola ger alla barn och unga lika förutsättningar till en bra och kvalitativ skola, oavsett bakgrund. Vi vill inte att skolor ska vara vinstdrivande, men vi är för idéburna stiftelser som driver skolor med alternativ pedagogik. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen skulle behöva satsa mer på ungas kultur och en meningsfull fritid. Ett kulturhus skulle bidra till det. I vår budget har vi satsat mer resurser på ungas kultur och ungas möjlighet att skapa egen kultur. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser att välfärdens resurser inte räcker till. Kommunen går precis runt ekonomiskt genom lån och värdepapper. Samtidigt sker ständiga besparingar på skola, vård och omsorg. Det är lärare, elever, omsorgspersonal och brukare som får betala priset. Vi vill därför att framförallt höginkomsttagare ska betala lite mer i skatt för att kunna satsa på människor med funktionsvariation, äldre och barn. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi ser att barn och unga mår sämre i dag. Vi ser att det sociala klimatet hårdnat. Vi tänker att mer resurser till elevhälsan kan förbättra villkoren för barn och ungas möjligheter. Vi har tidigare haft projekt i kommunen som ökat kunskapen om normkritik, som förbättrade möjligheterna att se de hinder som finns för att alla skall bemötas likvärdigt och få tillgång till en jämlik förskola/skola. ",
+        "value": [
+          "105",
+          "107",
+          "111"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": "Barngruppernas storlek i förskolan har minskat genom tillfälliga statsbidrag, men vi skulle vilja att de minskade ännu mer och även permanent då barns utveckling är beroende av stimulans och hjälp som de får i vuxna relationer och mindre sammanhang. Gnesta har tidigare legat över Skolverkets rekommendationer vad gäller antal barn och det påverkar även pedagogernas arbetsmiljö. ",
+        "value": [
+          "100",
+          "101",
+          "98"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D;A!;D!;B;D!;D!;D!;A;2/5;4/5!;3/5;[105,107,111]!;[100,101,98]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en majoritet som består av S, V, Mp och Fi. Vi har under mandatperioden samverkat med Mp och V. Men även S och C har varit positiva. Vi vill omfördela resurser för att uppnå ett jämlikt, jämställt och hållbart samhälle. När andra partier glider högerut, förespråkar nationalistisk, patriarkal och ohållbar tillväxtpolitik, står vi fast vid politik som eftersträvar rättvisa och omsorg. \r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vårt parti står för feminism och antirasism, vi är en motpol till SD.  \r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Uppnå hållbar omställning i Gnesta ",
+        "description": "Vi vill nå Parisavtalets mål. Det gör vi bland annat genom att utlysa klimatnödläge, energioptimera bostäder, bygga fler cykelvägar, satsa på elbilar, mer vegetarisk mat, cirkulär ekonomi, i kombination med att uppdatera hållbarhetsplanen. Vi vill ta hand om kommunens ekosystem genom att rena sjöar, öka kunskapen om värdefull natur, genomföra bättre avloppshantering och främja fler våtmarker."
+      },
+      {
+        "category": "En jämlik skola i Gnesta ",
+        "description": "Vi vill genomföra satsningar för en jämlik skola i Gnesta genom t.ex. mer resurser till elevhälsan. Då kan de lättare stötta elever i behov av särskilt stöd och arbeta främjande och förebyggande med jämlikhetsfrågor. Vi vill satsa på kompetensutveckling av all skolpersonal inom bl.a. normkritik och maskulinitetsnormer och på så vis främja att skolan kan förebygga kränkningar och diskriminering."
+      },
+      {
+        "category": "Bättre arbetsmiljö och kvalitet inom äldreomsorgen i Gnesta ",
+        "description": "Vi vill satsa på trygga anställningar, heltid som norm, bra arbetsmiljö och kontinuitet inom hemtjänsten, där sex timmars arbetsdag med bibehållen lön är en del av det. Otrygga anställningar är ett markant problem i kvinnodominerade yrken, som vård och omsorg är i dag och så även i Gnesta. Vi behöver höja statusen på låglöneyrken som även är samhällsbärande."
+      }
+    ],
+    "motivateVote": "Feminism behövs i Gnesta kommun. Sedan valet 2018 har feministiskt initiativ haft en plats i Gnesta kommunfullmäktige och påverkat politiken. Vi har lagt förslag att utlysa klimatnödläge, arbetat för att skapa ett kulturhus för unga och lagt förslag att införa normkritisk pedagogik i förskola och skola. \r\nKlimatfrågan ska tas på allvar, arbetsmiljön i hemtjänsten förbättras, elevhälsan stärkas.\r\n",
+    "name": "Feministiskt initiativ Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "feministiskt-initiativ-gnesta"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "391",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det känns som att det skulle kunna bevara området ungefär som det är idag. Men samtidigt måste skogen kunna underhållas på ett tillfredsställande sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna ser positivt på en ökning av demensplatser i  kommunen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnesta är en landsbygds kommun och av rent praktiska skäl underlättar det om syskonen kan skjutsas och lämnas på samma ställe.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna välkomnar ett sådant förslag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre att organisera arbetsschemat till en sammanhållen arbetsdag om 8 timmar och höja lönen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi menar att det är ett absolut krav.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi menar att det kommunala bostadsbolaget i Gnesta redan gör det tillräckligt i viss mån. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det finns ett privat alternativ tycker vi att det bör utredas sakligt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "97",
+          "99",
+          "98"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D;D;D;B;D;D;B;C;C;2/5;2/5;2/5;_;[97,99,98]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej det råder samsyn",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna kommer verka för ett borgerligt maktskifte som det nya Sverige behöver.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja i så fall tveksamt med ytterpartierna både till vänster och höger. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rädda Frösjön",
+        "description": "Vi har en sjö mitt inne i Gnesta tätort. Med ett av kommunen anlagt bad, en brygga, ett utegym, en lekplats. Men det råder badförbud där: för hög bakteriehalt. \r\nSå kan vi inte ha det! Sök bakteriekällan och fixa så vi kan bada i centrala Gnesta nästa sommar igen."
+      },
+      {
+        "category": "Gnestas äldre ska själva få bestämma",
+        "description": "Vi tycker att den som fyllt 85 år eller är äldre ska själv kunna avgöra om det är dags för plats på särskilt boende. Vi anser att även gamla är fullvärdiga individer med rätt att bestämma över den egna tillvaron och det egna livet."
+      },
+      {
+        "category": "Fokus på kunskap i skolan",
+        "description": "Liberalerna vill stärka kvaliteten i kommunens skolor och stödja lärarens roll i klassrummet. Ingen elev ska lämna lågstadiet utan att kunna läsa och skriva.\r\nAnslaget till läromedel ska höjas, fokusera på ämneskunskaper."
+      }
+    ],
+    "motivateVote": "Vi är Sveriges liberala parti. Vi måste bryta utanförskapet och ge varje barn en möjlighet att lyckas i skolan.\r\nSverige behöver en ny liberal borgerlig regering som vågar ta tag i våra samhällsutmaningar på riktigt. ",
+    "name": "Liberalerna Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-gnesta"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "392",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lötbodal är ett av kommunens viktigaste områden för friluftsliv, rekreation och naturvärden. Tyvärr saknas idag ett tillräckligt skydd för att kunna bruka området hållbart och för att långsiktigt bevara de värden som finns för djur, natur och människor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt nyaste äldreboende Strandhagen har idag två demensavdelningar och är förberett för att ställa om ytterligare en avdelning vid behov. I första hand bör detta nybyggda och väl utrustade äldreboende användas, så länge personal, ledning och boende själva inte föreslår annat. Frustunagården är dock fortfarande en viktig plats för tillfälliga platser och vid en framtida utbyggnad av äldrevården. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Syskonförtur är en grundläggande trygghet för både barn och föräldrar. Det bidrar också till större möjlighet till en fungerande vardag med en lämning och hämtning i stället för flera, där vi minskar på transporter, stress och tid från familjen. I en kommun som säger sig vilka sätta barnperspektivet i fokus bör syskonförtur vara självklart. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata alternativ är ett bra komplement till en kommunal verksamhet, där valmöjligheten gynnar mångfalden i verksamheter och gör att kommunal verksamhet behöver hålla hög kvalitet för att kunderna har andra valmöjligheter. Samtidigt behöver kommunen rimliga möjligheter att driva äldrevård och hemtjänst, där privata organisationer precis som kommunen inte ska få en för dominerande ställning.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag är ett sätt att ge ökad livskvalitet där fler orkar arbeta hela arbetslivet med minskad risk för sjukskrivningar. Vi vill se det införas i första hand inom i första hand slitsamma yrken inom vård och omsorg tillsammans som en av flera nytänkande lösningar för en hälsosammare personal.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnesta kommuns förvaltning är högst kompetenta att avgöra vem som passar för en anställning, där språk är en av många delar. Det finns inget vetenskapligt stöd för att språktest främjar integrationen. Språktest är politisk klåfingrighet som varken gynnar de anställda eller dem som anställer.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi ska kunna minska vår miljö- och klimatpåverkan så behöver vi servera hållbar mat. Kommunen ska skapa förutsättningar för och ställa tydliga krav på minskat matsvinn, ökad andel ekologisk mat och hållbar produktion. Det kött som serveras ska främst vara lokalt producerat naturbeteskött - men vi kommer inte ställa några exakta krav på vilka dagar något ska serveras.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Miljöpartiet är det självklart att vi ska bygga fler klimatsmarta hus och se till att alla har råd med en bostad. Idag har vi brist på små, billiga hyresrätter och det drabbar nu främst unga och äldre som ofta redan har svårt att hitta en bra plats att bo. Vi vill bygga även bygga fler hyresrätter och bostäder för äldre i Björnlunda och Stjärnhov. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnesta kommun bör avsevärt underlätta övergången till en fossilfri fordonsflotta och ta fram en plan för framtida laddinfrastruktur. Det ska inte vara ett hinder att bo i hyresrätt för att ha elbil, därför ska investeringar på laddstolpar ha särskilt fokus att göra laddning tillgängligt för personer som bor i hyresrätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte ha verksamhet som lokala företagare kan göra lika bra eller bättre. Men marknaden är tyvärr inte perfekt och kommunen behöver ta ansvar för verksamheter som till exempel bostäder, vård, miljöverksamhet eller bibliotek. Vi vill att kommunen arbetar för fler sociala företag och ökar sitt samarbete med lokala företagare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Företag som drivs med vinst som främsta mål har inte i skolan att göra. I Gnesta har vi dock ett flertal privata aktörer utan vinstsyfte, som till exempel Waldorfskolan och flera fristående förskolor, som behöver ges goda möjligheter att som idag bedriva en verksamhet som ger en mångfald av möjligheter för elever i Gnesta.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "När man sätter ett mål om mängden pengar på kultur slutar det allt för ofta med en ny kommunal sporthall och mindre pengar till den fria kulturen. Det viktiga är VAD pengarna läggs på. Vi vill se fler satsningar kring en meningsfull fritid för barn och unga med fokus på kultur. Vi vill starta en fritidsbank, säkra ett jämställt föreningsstöd och öka möjligheten till kultur inom äldrevården.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser idag inte att kommunalskatten behöver höjas. I takt med att vår befolkning blir äldre och kostnaderna ökar snabbare än intäkterna så finns dock risken att på längre sikt behöva ta ut mer skatt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": "Socialtjänsten behöver arbeta med mer uppsökande verksamhet och öka samarbetet med föreningsliv och skola. Fritidsgården är en avgörande plats för att fler unga ska ha en meningsfull fritid, därför vill vi se ökade resurser och mer verksamhet i Björnlunda och Stjärnhov. Det enorma glappet i Gnesta mellan killar och tjejers betyg behöver en särskild satsning, där fokus på studiero är centralt.",
+        "value": [
+          "104",
+          "105",
+          "107"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": "Landsbygdens utveckling i Gnesta hämmas idag kraftigt av bristande bredband, där kommunen behöver ta ökat ansvar. Vi vill bygga cykelväg från Gnesta till Mälby och Björnlunda och satsa på säkrare skolvägar för alla elever. Vi vill skapa en grönare kommun med mindre asfalt och mer grönytor i tätorterna, för ett bättre liv för oss som bor här med skydd för nutida och framtida klimatförändringar.",
+        "value": [
+          "97",
+          "100",
+          "96"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;D!;C;D!;A;C!;D!;D!;B;2/5;3/5!;2/5;[104,105,107]!;[97,100,96]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Miljöpartiet i Gnesta vill se ett politiskt styre som minskar våra utsläpp, skyddar våra skogar och gör satsningar på tätorter såväl som landsbygd. Vi samarbetar med de partier som tillsammans ger grönast politik - när Miljöpartiet är med och styr prioriteras alltid naturen, klimatet och kommande generationer.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Säkra Gnesta inför klimatförändringarna",
+        "description": "Dagens och morgondagens klimatförändringar innebär stora risker för invånarna i Gnesta. Översvämningar, värmeböljor, ras och smittor riskerar bli allt vanligare, och en sjönära kommun som Gnesta är då särskilt utsatt. Kommunen måste snarast starta ett systematiskt arbete för klimatanpassning med fokus på att bygga klimatrobusta tätorter och säkra oss inför de största riskerna."
+      },
+      {
+        "category": "Stärk arbetet för bättre bredband på landsbygden",
+        "description": "Landsbygdens utveckling i Gnesta hämmas idag kraftigt av bristande täckning av såväl fast som mobilt bredband. Gnesta kommun behöver nu göra ett omtag för att hitta nya vägar framåt och avsätta resurser för att kunna göra det arbetet effektivt. Kommunen ska ha en särskild tjänst som bredbandssamordnare."
+      },
+      {
+        "category": "Gör Lötbodal till Gnestas första kommunala naturreservat",
+        "description": "Lötbodal är ett av kommunens viktigaste områden för friluftsliv, rekreation och naturvärden. Tyvärr saknas idag ett tillräckligt skydd för att kunna bruka området hållbart och för att långsiktigt bevara de värden som finns för djur, natur och människor. Under 2022 ska arbetet påbörjas med att inrätta ett kommunalt naturreservat i Lötbodalsområdet."
+      }
+    ],
+    "motivateVote": "Du som röstar på Miljöpartiet är en av många som står upp för en hållbar och rättvis framtid. Vi driver på för ett Gnesta med renare vatten, levande skogar och grönskande tätorter. Samtidigt måste den gröna omställningen vara rättvis och vi kommer göra satsningar på bredband till landsbygden, social verksamhet och studiero i skolan - vår kommun behöver stärka stödet till dem som behöver det mest.",
+    "name": "Miljöpartiet Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-gnesta"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "393",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "109",
+          "110",
+          "106"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "100",
+          "99",
+          "98"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;D;D;A;D;A;B;B;D;2/5;2/5;1/5;[109,110,106];[100,99,98]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi Moderater söker förtroende från kommunens invånare för att leda kommunen tillsammans med partier som är lösningsorienterade med fokus på utveckling för hela Gnesta kommun. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "M styr gärna m. partier som är lösningsorienterade med fokus på kommunens bästa.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola och förskola som ger barnen nycklarna till framtiden",
+        "description": "Det ska inte spela någon roll varifrån du kommer utan var du är på väg. Vi vill fylla på våra barn och ungas ryggsäck med massor av kunskaper så de har möjlighet att välja just sin resa i livet. Det är därför grundläggande att de med hjälp av skickliga lärare får med sig ett bra ordförråd som liten, att man kan läsa i Åk 1, att de trivs och känner sig trygga så de blir nyfikna på att lära sig mer."
+      },
+      {
+        "category": "En trygg och rolig vardag för våra",
+        "description": "Det ska vara både roligt och enkelt att bli äldre hos oss. Det ska finnas möjligheter till en aktiv vardag, en god gemenskap och trygghet när det behövs. Vi vill att det ska vara enkelt att komma i kontakt med kommunen och få veta vad man kan få hjälp och stöd med. Besöken från vår hemtjänst ska vara personliga."
+      },
+      {
+        "category": "En attraktiv boendemiljö där du kan bygga din dröm ",
+        "description": "I vår kommun ska alla kunna få en möjlighet att skapa sitt drömliv i ett naturskönt läge alldeles i närheten av huvudstadens hjärta. Det ska vara smidigt att ta sig till och från jobb och studier. Vi satsar på en ny dricksvattentäkt som skapar förutsättningar att bygga både bostadsrätter och villor i naturnära områden. Vi satsar på bra vägar och täta tågavgångar"
+      }
+    ],
+    "motivateVote": "Med över 100 konkreta idéer efter samtal med kommuninvånare, föreningsaktiva och företagare är vi redo att ta ansvar för den resa vi behöver göra för en ännu bättre kommun att leva, verka och bo i. Vi ska bli Sveriges bästa skolkommun, ha en trygg omsorg för våra äldre, en bättre service till våra kommuninvånare & företagare där skatten & taxorna används effektivt. Gnesta ska vara snyggt & tryggt.",
+    "name": "Moderaterna Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-gnesta"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "394",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lötbodal är ett mycket viktigt rekreationsområde för Gnestaborna. Att inrätta ett naturreservat kan vara ett bra sätt att säkerställa området för framtiden. Det finns frågetecken att räta ut först - t ex hur existerande verksamhet kan påverkas av en sån förändring - men i grunden är vi positiva till förslaget.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att säkerställa att behovet av platser på s k särskilda boenden är tillgodosett, är ett viktigt uppdrag för kommunen. Det gäller såväl platser för dementa som övriga platser. Det är glädjande att det redan finns beslut att öppna fler platser till hösten 2022.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så långt som möjligt ska yngre syskon erbjudas plats på samma förskola där äldre syskon redan har plats. Kommunen ska i alla frågor anstränga sig för att underlätta invånarnas livspussel.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "De pengar som finansierar vår gemensamma välfärd ska gå till just det, välfärden. De vinster som tas ur verksamheter, när vinsten är ett överordnat syfte för bolaget, innebär att resurser tas från de äldre.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget finns utmaningar att rekrytera olika personalkategorier till äldreomsorgen. Att i det läget korta arbetstiden för existerande personal, och därmed skapa behov att anställa ytterligare personal, är en praktisk utmaning, eller orealistiskt. För oss är det viktigare att förbättrade förhållanden i arbetet såsom arbetsmiljö och lön, skapar attraktivare arbetsplatser.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förstå den personal man möter, och känna att man själv blir förstådd, är en fråga om trygghet och värdighet för de äldre. Därför ska tillräckliga svenskkunskaper krävas i verksamheten. Vi ser också positivt på de kombinerade utbildningar för vårdpersonal som också omfattar yrkessvenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste är att skolmaten ger eleverna energi för lärande. Kommunen följer därför Livsmedelsverkets rekommendationer om skolmat. Det ska framhållas att kommunens skolbespisningar redan idag erbjuder vegetariska alternativ varje dag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi arbetar för ett blandat bostadsbestånd, där tillgång på hyresrätter och billigare alternativ är viktigt. Ett bra boende får aldrig vara en fråga om inkomst. Kommunen arbetar genom Gnestahem för att bygga prisvärda hyresrätter och genom att underlätta privat byggande. Att ta kommunens resurser från t ex välfärden för att bygga billigare boende för vissa invånare är dock inte en klok prioritering",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "En övergång till hållbara drivmedel är viktig, och tillgång till laddstolpar centralt för omställningen. Kommunen kan installera laddstolpar i anslutning till sina fastigheter och arbetsplatser. Men man ska inte ta ett övergripande ansvar för en stor tillgång i hela kommunen. Liksom bensinen är det ett behov andra aktörer kan tillgodose.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen driver idag inga bolag som konkurrerar på ett orättvist sätt med privat näringsliv. Kommunala bolag har ofta ett större syfte eller funktion än privata motsvarigheter. Våra fastighetsbolag kan t ex fungera som ett redskap för att utveckla delar av kommunen på ett sätt privata aktörer inte kan eller vill göra.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Skolan är till för eleverna, och därför ska de skattemedel som investeras i skolan gå till elever och lärare, inte till företagens vinster. Däremot kan andra typer av huvudmän, t ex föreningar och kooperativ, vara viktiga alternativ till den kommunala skolan. I Gnesta finns idag kommunala och föreningsdrivna skolor. Det tycker vi är positivt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser idag inget utrymme att i större omfattning öka kommunala anslag till kulturen. Vi vill istället se över kommunens arbete med kultur- och föreningsliv genom att stärka samverkan med föreningarna som i praktiken står för kommunens kulturliv. Vi vill särskilt se över att den verksamhet som stöds med kommunala medel också når kommuninvånarna, inte minst de yngsta.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Vi befinner oss i ett osäkert världsläge med stor ekonomisk osäkerhet. Att i detta läge lova skattesänkningar, särskilt om man inte visar vilka verksamheter pengarna ska tas från, vore oansvarigt. För oss kommer kommunens uppdrag först: en bra skola för alla barn, en trygg och värdig äldreomsorg osv. Nivån på skatten ska bestämmas utifrån välfärdens behov, inte omvänt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "104",
+          "106",
+          "111"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "97",
+          "101",
+          "98"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;D;A!;A;D!;A;A;B;A;2/5!;2/5;2/5;[104,106,111]!;[97,101,98]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Socialdemokraterna har pekat ut tre prioriterade frågor i höstens val: vi ska bryta segregationen för att knäcka kriminaliteten, vi ska ta tillbaka den demokratiska kontrollen över välfärden och vi ska investera i den gröna omställningen för framtidens jobb. S i Gnesta delar dessa prioriteringar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vårt parti har under de senaste mandatperioderna samarbetat med olika partier. Vi menar att den som är villig att ta ansvar för en kommun också är skyldig att söka samverkan med andra. Vi är fortsatt beredda att konstruktivt samverka med de flesta partier för att genomföra vår vision för Gnestas framtida utveckling. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Grundläggande skillnader i människosyn gör samverkan med SD utesluten",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Insatser för god skola med bra resultat",
+        "description": "Skolan ska ge alla barn de bästa förutsättningarna att kunna forma sitt liv utifrån egna drömmar och vilja. Därför måste alla elever ges chansen till att lyckas i skolan. Vi vill samla kommun och andra aktörer för tidiga insatser och mot psykisk ohälsa. För högre kunskapsresultat ska andelen behöriga lärare  öka. Pojkarnas resultat är särskilt oroande och kräver riktade åtgärder."
+      },
+      {
+        "category": "En trygg äldreomsorg - med hemtjänst eller särskilt boende",
+        "description": "Alla äldre i Gnesta har rätt till en trygg vård och omsorg. (S) i Gnesta arbetar för en äldreomsorg som garanterar detta. Antalet personer med behov av särskilt boende ökar och tillräckligt med platser måste säkerställas. Viktigt är också att äldre med hemtjänst inte ska behöva möta fler personal än nödvändigt. Alla medarbetare ska ha en god arbetsmiljö och rätt till heltidstjänst."
+      },
+      {
+        "category": "Stärk arbetet för Gnestas unga",
+        "description": "En meningsfull fritid för Gnestas unga är viktigt. Ett brett utbud av aktiviteter gör kommunen attraktiv och kan motverka många problem, både för den enskilde och samhället. Därför vill vi stödja de ideella krafter inom t ex idrott och kultur som arbetar för Gnestas unga. Inom kommunen vill vi utveckla fritidsgården Chill samt satsa på sommarjobb för så många som möjligt."
+      }
+    ],
+    "motivateVote": "Vi arbetar för en god, gemensam välfärd: en bra skola och fritid för alla barn, oavsett föräldrarnas ekonomi, att de äldre känner tryggheten i en omsorg av hög kvalitet där god mat, pratstund och promenad är självklarheter. Vi vill investera i det gemensamma samhället, t ex lösa vattenfrågan och förbättra kommunikationerna. Invånare i hela kommunen ska känna trygghet i en kommun som utvecklas. ",
+    "name": "Socialdemokraterna Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-gnesta"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "395",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Området är så kallat rekreationsområde idag, vi ser inte anledning till att omvandla det till ett naturskyddsområde.\r\nRisken finns att de sporter och  idrottsutövningar som sker där idag, ej kommer att kunna fortsätta om det blir ett naturreservat.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att äldre ska kunna åldras med trygghet i kommunen.\r\nIdag är en avdelning tillfälligt dagis. När den töms så kan man med en enkel omflyttning inom huset få fram 8st demensplatser på Blåklockan. Den avdelningen är ursprungligen byggd för detta och är lätt att återöppna igen. Då det blir fler som behöver vård/boende inom äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser helst att syskonförtur skall gälla i den mån det är möjligt.\r\nFör att underlätta för föräldrar och barn i kommunen.\r\nSett ur miljöaspekt är det även positivt att kunna ha sina barn på samma förskola.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inget negativt med privata utförare, \r\nMen det måste finnas tillsynsverksamhet och uppföljningar för att säkerställa god vård och att skattemedlen används på ett \r\nkorrekt och riktigt sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det rimmar dåligt med den ekonomiska verkligheten.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det borde redan vara ett grundkrav att man behärskar det svenska språket i både skrift och tal, för att få en anställning inom vård och omsorg.\r\nFör att kunna säkerställa en trygg vård.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej.\r\nAlternativ kost går att ha på matsedeln utan tvång.\r\nVi ser ingen vinning med att snåla med barnens skolmat.\r\nSamt att vi måste värna Sveriges bönder",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det går att genomföra utefter ekonomiska förutsättningar och efter de behov som finns i kommunen.\r\nSer vi gärna att nybyggnationer av hyreslägenheter blir så kostnadseffektiva att hyrorna kan hållas på rimlig nivå\r\nKommunens bostadsbolag jobbar mot ca 2% vinstmål, dvs hyrorna i dagsläget ligger i nivå med omkostnaderna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen borde eventuellt kunna underlätta för entreprenörer att bygga laddstationer.\r\nDå kommunen ej har bensinstationer i dagsläget, ser vi inte att kommunen bör bedriva laddstationer heller.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom rimlighetens gränser.\r\nKommunala bolag bedriver oftast verksamheter för egna syften.\r\nOch konkurrerar som oftast ej med näringslivet.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Barn och unga är Sveriges framtid. \r\nSå länge den privata skolan arbetar mot samma mål, att det är av största vikt att de går i en skola som är fokuserad på att ge dem kunskap och bildning och att studiero och ordning råder och upprätthålls.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "Svensk kultur som gynnar den breda allmänheten är vi för, däremot så har kultur begreppet blivit väldigt brett, och kanske ligger utanför de kommunala uppdraget.\r\nVi ser gärna att kommunen underlättar med tex plats för kultur evenemang\r\nVi vill uppvärdera den svenska kulturens roll och betydelse för det \r\nsvenska samhället. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att skattetrycket bör dämpas.\r\nGenom att minska slöseri med offentliga medel, och låta kommunala verksamheter fokusera på sina respektive kärnverksamheter.\r\nEventuella skattesänkningar skall dock genomföras \r\nansvarsfullt och i en takt som varken hotar välfärden eller kommunens uppdrag.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "108",
+          "109",
+          "110"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "99",
+          "101"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D!;C!;B;D!;A!;B;B;B;2/5;2/5!;1/5;[108,109,110];[99,101]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser såklart att Sverigedemokraterna vinner flest röster och att vi har ett fortsatt gott samarbete med övriga partier, för Gnesta kommuns bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi ser inga problem att samarbeta med övriga partier.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Färre antal elever per klass",
+        "description": "Vi vill minska antalet elever per klass för att för att skapa en trygg studiemiljö för både elever och lärare.\r\nVi vill ge lärarna möjligheten att kunna hjälpa och se alla elever i sin klass.\r\nIdag är vissa klasser över 30 elever, det är en omöjlighet att hinna hjälpa alla under de förutsättningarna.\r\nVi vill minska elevantalen till runt 20 elever per klass."
+      },
+      {
+        "category": "Belysning på kommunala lekplatser",
+        "description": "Vi vill att alla kommunens lekplatser skall vara belysta. Dels för att öka tryggheten och valfriheten för barnen, men framförallt möjlig göra att lekplatserna kan användas även årets mörkare månader.\r\nBarnen ska inte behöva ha med sig ficklampor för att leka på kommunens lekplatser."
+      },
+      {
+        "category": "Äldreboende",
+        "description": "Vi vill utöka antalet platser inom äldreomsorgen, genom att öppna fler avdelningar på på Frustunagården.\r\nDen avdelning som idag är tillfälligt förskola, kan med enkla medel och omflyttning  inom huset generera 8 nya demensplatser på avdelningen Blåklockan.\r\nDå den avdelningen ursprungligen är byggd för det kan den lätt återöppnas.\r\nDet ger oss möjligheten att stärka kvaliteten inom vår äldreomsorg"
+      }
+    ],
+    "motivateVote": "Vi vill att väljarna ska välja Sverigedemokraterna för en förändring på riktigt.\r\nVi vill att politiken skall vara av sunt förnuft och skapa trygghet för kommuninvånarna\r\nVår uppfattning är att behoven inom skola, omsorg och brottsbekämpning ska ges företräde",
+    "name": "Sverigedemokraterna Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-gnesta"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "396",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "71820b755ac34fdb2663b347abe8c514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lötbodal är ett viktigt rekreationsområde som tyvärr är kraftig drabbat av Granbarkborren. Därför är det viktigt att göra allt som går för att bevara så mycket som möjligt av Lötbodalsskogen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3fffaa2af34aa783e9481f52d4488f4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillfälligt är det ett bra förslag. Men vi lämnade Frustunagården för att bygga något nytt och bättre, alltså Strandhagen. Den äldreomsorgsplan som ska tas fram bör visa på behovet på längre sikt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "582592bb6281742840297b3a9b9efeb4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra och det underlättar familjers vardag att kunna hämta och lämna flera barn på samma ställe. Det minskar även transporterna och trafiken i Gnesta och kring skolor/förskolor om familjer endast behöver åka till ett ställe på morgonen och eftermiddagen. Minskade transporter är bra för miljön.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "41aa5f67552947336349cadd13a4aad3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet är emot vinster i välfärden. Ska Privata företag driva verksamhet ska det åtminstone ske på samma villkor som kommunens egna verksamhet",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "33fc220714118ba168cc8aa13ec84739",
+        "questionType": "PROPOSITION",
+        "reasoning": "Schemaläggs det rätt kan man slippa delade turer, minskar risken för att personal ska bli utsliten. Många ställen där det införts vittnar man om att samma arbete hinns med på 6 timmar men med minskad administration.\r\nDet är en kostnad och behöver införas succesivt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f441f958665ae8e77699927f9fc38d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som arbetar i äldreomsorgen bör kunna göra sig förstådda. Vi måste också höja statusen och förbättra villkoren för de som arbetar inom omsorgen, för att locka ny personal. Men språktest är inte i sig en lösning utan måste kompletteras med satsningar på SFI, komvux och möjlighet för motiverad personal att fortbilda sig.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4c37fed8129bc838c601d6626f4cfbf5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inrätta tydliga klimatmål för skolmat och andra inköp och öka andelen närproducerade livsmedel när det leder till fördelar för miljö och klimat\r\n",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ff16290f3b7ce53d55c9b920c8b1d7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsbristen har under lång tid förvärrats runt om i landet. Idag tar det i snitt över tre år att få en lägenhet i Gnesta, vilket försvårar både för unga som vill flytta hemifrån eller äldre som vill flytta från hus till något mindre, och hyrorna i nyproduktion är ofta höga. Bostadsbristen kan göra det svårare för framförallt kvinnor att lämna destruktiva förhållanden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "26ae94f0caa9f871aa44cbe7bde940a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill påskynda utbyggnaden av laddstolpar på kommunens parkeringar, inklusive i ytterområdena. Kommunen och staten måste ta ett större ansvar i klimatomställningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3720572e69071ae8ffa9dbaf5ed9ff68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej! Kommunen måste till exempel finnas på bostadsmarknaden. Men kommunen bör hålla sig till sitt uppdrag.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8c37004e7e5dbbb0e6438bb0bd3b5ad1",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet anser att skolor inte ska drivas av aktiebolag och stora koncerner, ofta med utländskt ägande. Vinstintresset måste ut ur skolan.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "65dcdc537015e66b90480eeea753e028",
+        "questionType": "RANGE",
+        "reasoning": "Gnesta kommun har till exempel en kulturskola med trånga lokaler uppe på Frejaskolan därför skulle vi vilja se att kommunen planerar för ett allaktivitetshus eller kulturhus i Gnesta centrum, som kan användas av både fritidsgård, kulturskola och av ideella föreningar. Detta skulle kunna öka Gnestas kulturella utbud för alla åldrar.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "5b43676153a9fb949f5a51996ad22203",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten ska vara proportionerlig mot dom kostnader kommunen har, vi står inför stora investeringar. Vilket betyder att vi måste vara öppna och ärliga med att om pengarna inte räcker för att bedriva en kvalitativ verksamhet måste skatten höjas. Steg 1 ska dock vara att se till att dagens skatt används på ett effektivt sätt. Till exempel skulle kommunen kunna minska antalet kommunalråd.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c24c3165b1801aba1e2083a0a524d6b7",
+        "questionType": "PRIORITY",
+        "reasoning": "Att investera i barns utbildning är den viktigaste satsning ett samhälle kan göra. Istället för besparingar krävs långsiktiga satsningar på utbildning och barnomsorg. Det förebyggande arbetet med barn och unga bör stärkas. Tidiga insatser lönar sig i längden och ger ett tryggare Gnesta för alla.",
+        "value": [
+          "104",
+          "105",
+          "111"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "a4be896f0edd96e71f20ac9b35f4ebdf",
+        "questionType": "PRIORITY",
+        "reasoning": "Gnesta kommun ligger över medel i antalet barn i barngrupperna och måste jobba med detta. \r\nAntalet äldre ökar snabbt i Gnesta. Kommunen behöver ta höjd och planera för åldrande befolkning, inte minst genom en långsiktig plan för nybyggnation av särskilt boende och trygghetsboende.\r\nGnesta ligger efter i arbetet med fiberutbyggnad, det är en förutsättning för till exempel flexibel arbetsplats.",
+        "value": [
+          "97",
+          "101",
+          "98"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;D;A;D!;C;C;D!;D;B;0/5!;4/5;2/5;[104,105,111]!;[97,101,98]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det poliska styret bör innehålla V och de partier som är beredda att samarbeta med oss och som har liknande prioritering av frågorna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte tänka oss att styra med SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Säkra vattenförsörjningen",
+        "description": "Nybyggnation har bromsats eftersom inte Gnesta har utvecklat en ny vattentäkt trots att behovet har varit känt sedan länge. Vi vill att arbetet med den nya vattentäkten intensifieras.\r\nVi vill också att kommunen söker samgående med någon VA-organisation från en annan kommun. Vi har även föreslagit att anställa ytterligare en  VA-ingenjör, det skulle göra organisationen mer robust."
+      },
+      {
+        "category": "Anställ fältassistenter för förebyggande barn- och ungdomsstöd",
+        "description": "Vi vill öka tryggheten genom att stärka det förebyggande och uppsökande arbetet. Att fånga upp barn och unga som behöver stöd tidigt blir billigare i längden. Vi vill anställa fältassistenter, stärka elevhälsan och erbjuda en meningsfull fritid."
+      },
+      {
+        "category": "Stoppa smygnedskärningarna av skolans resurser",
+        "description": "Återkommande underskott och besparingar på skolan försämrar möjligheten för våra lärare att göra ett bra jobb. Att satsa på skolan och en skapa trygg miljö för lärande är den bästa investeringen vårt samhälle kan göra."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet vill bygga en stark kommun som tar tillvara Gnestas unika förutsättningar och sätter medborgarnas behov i centrum. Vi vill ha en välfärd som du kan lita på, oavsett inkomst, boende och livssituation. Vi vill ha en effektiv förvaltning som säkrar grundläggande samhällsservice som krävs för att Gnesta ska kunna växa i sin egen takt. Så gör vi Gnesta tryggt, jämlikt och hållbart.",
+    "name": "Vänsterpartiet Gnesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-gnesta"
+  }
+]

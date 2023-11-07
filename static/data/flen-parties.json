@@ -1,0 +1,1248 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "347",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet vill ha en F-6 skola i Mellösa för att stimulera till utveckling och inflyttning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbifart Flen är en betydelsefull infrastruktursatsning som är viktig både för det lokala och regionala näringslivet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom drogtester behöver göras mer än en gång för att fylla någon funktion tycker vi att drogtester ska användas när det finns en oro.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är viktigt för att kunna utföra arbetsuppgifter inom hemtjänst och äldreomsorg. Kraven på språkkunskaper ska anpassas efter behoven för olika arbetsuppgifter då sysselsättning är en viktig del i integrationsarbetet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bostadsbolag ska bygga de bostäder som efterfrågas på marknadsmässiga villkor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns laddstolpar både i kommunal och privat regi.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flens kommun har historiskt tagit emot många flyktingar och nu behöver andra kommuner ta ett större ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1080",
+          "1079",
+          "1084"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;A;B;D;A;C;A;A!;C;C;A;2/5;2/5;2/5;[1080,1079,1084]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill ha större investeringar i infrastruktur i vår region, men det skulle samtidigt minska utrymmet för andra regioners infrastrukturinvesteringar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för kommunens bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill ha en politik förankrad i mitten och vill inte styra med SD eller V..",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad befolkning",
+        "description": "Vi vill vända Flens kommuns negativa befolkningsutveckling genom att ge möjlighet för fler att flytta hit till Sörmlands hjärta och kunna välja ett bra boende med närhet till skolor och service i alla delar av kommunen. I det arbetet vill vi ta tillvara gemensamma positiva krafter och ha ett nära samarbete med fastighetsägare, markägare och alla bygderåd i kommunen."
+      },
+      {
+        "category": "Fler och välmående företag",
+        "description": "Vi vill arbeta för att bättra företagsklimat, kommunal service och infrastruktur genom en nära dialog mellan politiker, förvaltning och kommunens företag. Kommunens myndighetsutövning ska stödja utveckling av små och stora företag, både i tätort och på landsbygd."
+      },
+      {
+        "category": "Ökad sysselsättning",
+        "description": "Vi arbetar för tillväxt genom att fler människor har ett arbete att gå till. Det stärker inte bara individens självkänsla och familjens självständighet utan det är en tillgång för hela samhället. För att åstadkomma detta behövs ett långsiktigt arbete med att minska segregation och utanförskap. Dessutom behövs ett aktivt arbete  med kompetensutveckling i nära samarbete mellan skola och näringsliv."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela kommunen, såväl på landsbygden som tätorter. Vår viktigaste valfråga är att vända kommunens negativa befolkningsutveckling genom aktiva åtgärder för att fler ska vilja och kunna bosätta sig i Flens kommun. ",
+    "name": "Centerpartiet Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-flen"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "348",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har tagit ett beslut om att det ska vara en skola F-6. Vi måste få lugn och följa de beslut Vi tagit. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte varför nyanställd personal ska drogtestas. Vad det som säger att bara för att du är ny att du misstänkliggöras ? Risken att en medarbetare är påverkad finns under hela arbetslivet. Inte när man nyanställs. Det förebyggande arbetet på arbetsplatsen och att ha öppet samtalsklimat om droger och alkohol är viktigt att ha. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre att vi som kommun arbetar med att arbetatyngden under arbetsdagen är dräglig och lättarbetad än att dra ner på timmarna. Risken finns att man gör 8 timmars arbete på 6 timmar och då finns större risk för sjukskrivning och förslitningsskador. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Menar vi allvar med att arbeta miljövänligt och vill nå uppsatta mål behöver vi ge förutsättningarna till innevånarna att kunna även de ställa om. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag en låg andel som vi tar emot. Vi har under flera år varit en så kallad 0 kommun. Jag vet inte hur mkt mer vi kan sänka oss från 0",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skulle det uppkomma en situation i en fråga kan det vara ett bra verktyg att använda sig av. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1082",
+          "1084",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;B;D;B;D;C;C;C;C;C;2/5;3/5;2/5;[1082,1084,1081]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "KD och M men gärna hela Alliansen ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill styra med Moderaterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolskjuts en självklarhet",
+        "description": "Vi vill att det ska vara möjligt att välja en skola som inte ligger i samma ort man bor och skolskjuts ska då finnas tillgänglig, oavsett om det är en kommunalskola eller fristående skola."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Vi ska fortsätta att ha stort fokus på det arbetet som påbörjats med säkra skolvägar i HELA kommunen, vi vill även se till att kommunens busshållplatser är säkra och har belysning nattetid."
+      },
+      {
+        "category": "Utbildade lärare och fler vuxna i skolan",
+        "description": "Vi vill ge bästa förutsättningarna till att utbildade lärare vill söka sig till våra skolor men även ge möjligheterna till de som idag arbetar utan behörighet att läsa upp till lärare. Vi vill även se fler elevassistenter i klassrummen. Fler vuxna ger trygghet och arbetsro."
+      }
+    ],
+    "motivateVote": "Vill man har styrande politiker i Flen som ser och lyssnar på innevånarna, som har trygghet genom hela livet i fokus. Då ska man röst på oss. ",
+    "name": "Kristdemokraterna Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-flen"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "349",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kyrkskolan är en bra skola som kan renoveras till en rimlig kostnad. Skolmiljön runt skolan är utvecklande för eleverna.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbifarten behövs eftersom trafiksituationen genom Flen på väg 55/57 är komplicerad och trafikfarlig. Framtida hårdare trafikbelastning med tung trafik skall inte gå genom centralorten. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Drogtestning är ett allvarligt ingrepp i den personliga integriteten. Utdrag ur belastningregister är tillräckligt vid nyanställning.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": "Seriösa privata aktörer skall givetvis ha rätt att driva äldreboenden och hemtjänst. Viktigt att kommunen säkerställer, genom regelbunden översyn, att företagen har rätt kompetens och möjligheter att driva goda verksamheter inom äldreboenden och hemtjänst. Om kvaliteten försämras skall kommunen kunna ompröva tillståndet att driva verksamheten och stänga den vid behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler timmar i äldreomsorgen. Kostnaderna för äldreomsorgen kommer att skena givet förändrad demografi över tid. Arbetsmiljöförbättringar skall prioriteras.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation är en viktig del i vardagen för de äldre. God omsorg kräver goda språkkunskaper i svenska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I det offentliga rummet ska vi våga visa vår identitet och det gäller även elever.\r\nAnsiktet är själens spegel och vi kommunicerar även med ansiktsuttryck.\r\nMycket sorgligt att små flickor måste (som inte kan få ta ställning) tvingas in i dessa seder.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flens kommun behöver ett bredare utbud av bostäder byggda av olika entrepenörer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall finnas ett bra nätverk av laddstolpar baserat på marknadsmässiga villkor. Kommunen skall underlätta ev. tillståndsgivande för fler laddstolpar i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flens kommun har historiskt tagit emot många flyktingar. Integrationen i samhället behöver förstärkas med god språkutbildning och arbetslinjen prioriteras framför långvarigt bidragsberoende.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är kostsamma och osäkra.\r\nMedborgarinitiativ, öppna sammanträden och ortsutvecklingsprogram ger demokratiskt inflytande i den lokala kommundemokratin under mandatperioden.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": "God balans mellan andelen elever i friskolor och andelen i kommunala skolor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": "Kulturbudgeten behöver förstärkas. Utan kultur dör en kommun!",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": "Lägre kommunalskatt stimulerar inflyttning till kommunen vilket behövs i Flen.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1080",
+          "1082",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A!;B;D!;A;D!;D;B;C;C;B;2/5!;3/5;1/5!;[1080,1082,1081]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alliansen med Liberalerna, Moderaterna, Kristdemokraterna och Centern.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan",
+        "description": "Andelen elever som har godkänt i grundskolan i alla ämnen måste öka från 60% till över 90%. Andelen behöriga lärare skall öka från från dagens nivå på 60 % till över 85% i närtid. Elevernas fysiska aktivitet under skoltid skall öka till minst en timme om dagen under skoltid. Bevara de lokala skolorna på orterna utanför centralorten. Stärk utbildningen på gymnasiet i Flen. Värna friskolorna."
+      },
+      {
+        "category": "Äldreomsorgen. Äldre i Flen skall få det bättre !",
+        "description": "Bygg ut med fler platser i Trygghetsboenden och Särskilda boenden. Läkarkompetens skall finnas på dessa boenden. Öka utbildningsnivån hos personalen i äldreomsorgen med specialistutbildning i demensvård. Minska antalet personer brukarna möter dagligen. Inga delade turer utan heltid som norm. Aktivitetsprogram för äldre. Namngiven kontaktperson för alla som omfattas av äldreomsorgen."
+      },
+      {
+        "category": "Näringsliv och Bostadsbyggandet. Skapa nya jobb och bostäder där folk vill bo.",
+        "description": "Skapa förutsättningar och förenkla för fler företagsetableringar. Skapa förutsättningar för nyetablering av digitala företag. Säkra kompetensförsörjningen med rätt utbildning i skolan (industri- digital- resp. högskolekompetens). Avsätt kommunala resurser för näringslivsutveckling. Bättre kontakt mellan politiker och näringsliv. Bygg fler bostäder där folk vill bo. Fler bostadsaktörer i kommunen."
+      }
+    ],
+    "motivateVote": "Flen skall vara möjligheternas kommun för alla. En skola där alla elever skall få möjligheten att nå sin fulla potential. Bygga bostäder där människor vill bo. Flen skall vara del av den digitala revolutionen genom att attrahera nya företag med nya digitala jobb. Äldre i kommunen skall få den omsorg de förtjänar och behöver. Kommunen skall bygga fler trygghets- och särskilda boenden.",
+    "name": "Liberalerna Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-flen"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "350",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kyrkskolan har länge lidit av ett eftersatt underhåll. Det finns alternativa lösningar för Kyrkskolan, vilka till en betydligt lägre kostnad än presenterade beräkningar ger möjlighet till en fortsatt F-3 skola. Detta alternativ är inte tillräckligt utrett. Kyrkskolans unika natur- och kulturmiljö är en stor tillgång, goda förutsättningar för utomhuspedagogik möjliggör också en likvärdig skola. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Satsningen är inte bra för Flen och har tydliga negativa effekter på de nationella miljökvalitetsmålen. Att det går snabbare att passera Flen gynnar inte orten - delar av näringslivet drabbas. Stoppa Förbifart Flen, omfördela pengarna till fler cykelvägar inom & mellan kommunens ort och till att förbättra dagens genomfart för riksväg 55 med avseende på buller, trafiksäkerhet och barriäreffekter.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska personal följa lagar och inte använda droger. Frågan om möjligheten att genomföra drogtest regleras i lag och är något kommunen inte har mandat att själv råda över. Enligt regeringsformen 2 kap. 6 § är var och en är gentemot det allmänna skyddad mot påtvingat kroppsligt ingrepp.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör finnas möjlighet till samverkan med exempelvis idéburna organisationer.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt 3 kap. 3 § socialtjänstlagen ska insatser inom socialtjänsten vara av god kvalitet, och det ska finnas personal med lämplig utbildning och erfarenhet. Ett språktest tillför inget & löser inte grundproblemen med kompetensförsörjningen. Lägg resurserna på att underlätta att gå utbildning för de som vill arbeta för en hållbar välfärd och att skapa en sund arbetsmiljö för personalen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En fråga både om religions- och yttrandefrihet, vilka garanteras enligt regeringsformen 2 kap. 1 §. Kommunen har inte mandat att besluta om inskränkningar, och även då skulle förslaget vara mycket dåligt. Självklart har varje person rätt att själv, utan påtryckningar från någon annan, avgöra sin klädsel och religion. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": "Att barnkulturen fortsätter utvecklas är viktigt, och det behövs flera sätt att arbeta för att alla barn ska få ta del av kultur på lika villkor. Barns tillgång till kultur och fritidsaktiviteter ska inte begränsas av brist på pengar. Framgången med gratis kulturskola med god kvalitet behöver fortsätta.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": "Skattepengarna kan dock behöva fördelas och prioriteras annorlunda, för att dagens skattesats ska vara hållbar över tid.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1084",
+          "1077",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D!;B;A;D!;B;A;C;D!;A;C;1/5;3/5;2/5;[1084,1077,1081]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har ingen specifik inriktning utan är öppna för flera olika alternativ till samverkan om det politiska styret. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barnen i fokus: ett stärkt barnrättsperspektiv i alla kommunens verksamheter",
+        "description": "Alla barn måste få samma chans till ett bra liv. Barnfamiljer som lever i fattigdom behöver bättre stöd av samhället och barnfattigdomen ska minskas. Elever ska få goda kunskaper och färdigheter för att kunna nå egen försörjning och för att kunna bidra till hållbar utveckling i samhället. Barnkulturen måste fortsätta utvecklas. Framgången med gratis kulturskola med god kvalitet behöver fortsätta."
+      },
+      {
+        "category": "Biologisk mångfald",
+        "description": "Utrotningen av växt- och djurarter sker i en snabbare takt än någonsin tidigare i mänsklighetens historia. I Sverige finns de flesta hotade arterna i skogen och jordbruket. Kommunens skogar ska vara hyggesfria och användas för naturvård, friluftsliv och rekreation. Sjöar, vattendrag och våtmarker behöver ha en god biologisk mångfald. Andelen närodlat i skolmaten och äldreomsorgen ska höjas."
+      },
+      {
+        "category": "Fossilfritt resande i Flen",
+        "description": "Bussar och tåg behöver gå när behovet finns, och vara bättre samordnade. Men landsbygdens behov kräver ofta en bil för att vardagens och fritidens behov av transporter ska fungera. Antalet laddstationer för elbilar behöver öka. Förbifart Flen ska stoppas och pengarna omfördelas till en bättre genomfart (minskat buller och ökad trafiksäkerhet) och fler cykelvägar inom och mellan kommunens orter."
+      }
+    ],
+    "motivateVote": "Miljöpartiet i Flen driver en politik som värnar välfärdsstaten och skapar ett samhälle som ger bästa möjliga förutsättningar för att vi som lever nu, kommande generationer och naturen ska växa och frodas både idag och i framtiden. Våra fokusfrågor i årets kommunval är: barnen i fokus, hållbar välfärd, fossilfritt resande i Flen, vatten och biologisk mångfald.",
+    "name": "Miljöpartiet Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-flen"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "351",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget att ta ställning till i dagsläget handlar om en F-6 skola, endast en lågstadieskola har inte aktualiserats ännu.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att drogtesta vid ett givet tillfälle, vid nyanställning ger inte mycket till information förutom vad det exakt givna tillfället säger.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna fler billiga hyresrätter i Flens kommun, däremot är det inte givet att det är kommunen som också ska ordna dessa.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser positivt till fler publika laddstolpar, det kommer vara nödvändigt i takt elektrifieringen av fordon. Det är inte endast kommunens roll att se till att dessa också finns, däremot kan kommunen i exempelvis tillståndsprocesser och framtagandet av mark ha en generös och positiv inställning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1080",
+          "1084",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;B;D;A;C;B;B;B;D;A;2/5;2/5;1/5;[1080,1084,1081]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jobbreform",
+        "description": "En flerstegs satsning för att såväl minska arbetslösheten, sänka kostnaderna för försörjningsstöd, förbättra kvalitén på SFI och skapa karriärvägar inom äldreomsorgen."
+      },
+      {
+        "category": "Företagspanel",
+        "description": "Vi\r\ntror därför att en företagspanel skulle medföra en ännu bättre dialog med näringslivet\r\ni kommunen. En företagspanel innebär att man kan nå fler företag samt att vi når andra grupper av företagare än de som vanligtvis deltar i nätverkssammanhang."
+      },
+      {
+        "category": "Bidragsfusk",
+        "description": "Ändamålsenlig, effektiv styrning samt god tillämpning av rutiner och kontroll, framställs vara grundläggande för att stävja kriminaliteten i en kommunal organisation. Genom att samköra databaser och system, samarbete med andra myndigheter, stickprovskontroller, riktade insatser och konsekvent agerande genom återkrav och polisanmälan skördas stora vinster i arbetet mot bidragsfusket."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-flen"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "352",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha en skolan som är anpassad för elever och undervisning och arbetsmiljö.\r\nSom är långsiktig och hållbar",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver förbifart Flen",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi säger nej till det",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behöver se över arbetstid och arbetsbördan och arbetsmiljö",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi är mot förbud i skolan",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna billiga lägenheter finns tillgängliga för alla medborgare",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att kommunen tar sitt ansvar att det blir utbyggd i kommunen även det är klimatansvar också",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan ta imot men då gäller det att Staten tar sitt ansvar också.\r\nBland annat ekonomisk ersättning",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostar pengar för kommun innevånare",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": "vi är i mot vinster i skolan",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1082",
+          "1077",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;B;A;C;C;B;B;C;B;A;2/5;2/5;2/5;[1082,1077,1081]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-flen"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "353",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kyrkskolan är unik och ska finnas kvar. Det är beslutat att skolan ska tillgänglighets anpassas och renoveras.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbifart Flen är en process som pågått under många år, men nu ser det ut som det äntligen kan bli verklighet. Förbifart Flen är en viktig del i att få ett bättre flöde genom kommunen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skola och omsorg ska vara en trygg plats för alla, vi kan inte riskera att personal som nyttjar droger jobbar med våra barn och äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att våra invånare ska ha möjlighet att välja vårdgivare.\r\nDet pågår en utredning hur LOV kan påverka kostnader och kommunens egna boenden. Det som är oerhört viktigt om LOV införs är att det måste finnas insyn och kontroller av de privata vårdföretagen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flen har beslutat att heltid ska vara norm, då kan man inte införa sex timmars arbetsdag. Det finns inte utrymme i budgeten för att ge bort 2 timmar per dag till anställda inom omsorgen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är av största vikt att personal talar  och förstår svenska. Äldreomsorgen ska inte vara något integrationsprojekt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn ska inte behöva bära kvinnoförtryckande plagg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera billiga hyreslägenheter, kommunen ska däremot se till att det finns tillgängliga hyreslägenheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste finnas goda möjligheter för kommunens invånare och besökare att kunna ladda sina elbilar. Kommunen måste skyndsamt införa en betallösning för laddstolpar. Elbilsägare ska inte bli sponsrade med gratis laddstolpar, så som det finns möjlighet till i dagsläget.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget pågår ett krig i Ukraina som ligger i vårat närområde, då måste Sveriges alla kommuner ta emot flyktingar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar i stora och viktiga frågor är en rättighet kommuninvånarna har och den borde tillämpas oftare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": "Socialdemokraternas centralisering och nedläggning av småskolor har lett till fler friskolor. Tack vare dessa skolor har elever möjlighet att gå kvar i sin del av kommunen, vilket vi ser som en självklarhet. Vi är för fler friskolor om det skulle behövas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska i första hand se till att kärnverksamheterna prioriteras.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": "Tyvärr finns det inte utrymme för en skattesänkning. Flens kommun har stora kostnader i försörjningsstöd, många invånare som inte arbetar och betalar skatt till vår gemensamma välfärd. Om vi lyckas vända den trenden så kan det bli aktuellt med skattesänkning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1080",
+          "1079",
+          "1083"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A;D!;C;B;D!;D!;A;D;C;D;2/5;1/5;2/5;[1080,1079,1083]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser till kommunens bästa och kan samarbeta med andra partier för att uppnå gemensamma mål.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi ser att det kan bli svårt att styra tillsammans med V och MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En trygg kommun",
+        "description": "Upplevd otrygghet kan och ska byggas bort så långt det är möjligt, det kan vara genom bättre belysning, övervakningskameror, ökad nattvandring och ökad närvaro av polis och vaktbolag. Droghandel är en stor del i ett otryggt samhälle, för att bromsa utvecklingen med droghandel måste skola, socialtjänst, polis, fritidsverksamhet, kvinnojour och föreningar öka sitt samarbete."
+      },
+      {
+        "category": "Ordning och reda i skolan",
+        "description": "Mindre klasser\r\nFler vuxna i skolmiljön.\r\nMinskad dokumentationsbörda för lärare och pedagoger\r\nUtdrag ur belastningsregistret, drogtest och språktest för all nyanställd personal.\r\nTillgänglig skolkurator och psykolog på alla skolor"
+      },
+      {
+        "category": "Våra äldre",
+        "description": "All personal inom äldreomsorgen ska lämna utdrag ur belastningsregistret, drogtest samt språktest vid nyanställning.\r\nTrygghetslarm ska vara gratis.\r\nÅterinför terapi/dagverksamhet för dem som bor hemma, för att motverka isolering och ofrivillig ensamhet."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna är dit val för en förändring på riktigt. Våra största satsningar är där det behövs som mest, trygghet, omsorg och skola.\r\nOtrygghet kan och ska byggas bort, omsorgen ska vara tillgänglig för alla och skolan ska vara en trygg plats där studiero är norm.",
+    "name": "Sverigedemokraterna Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-flen"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "354",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "e63b7e5e8b3375b8e92f2c05a46d8d82",
+        "questionType": "PROPOSITION",
+        "reasoning": " Även om vi förstår att boende i Mellösa vill ha kvar skolan så måste fler aspekter vägas in. Det finns två andra skolor till inom ca 7 km och totalt sett överkapacitet inom Flens skolor. Prio ett för vår politik är en likvärdig skola - att alla skolor har en bra kvalitet. Pengar ska i första hand gå till att alla kan gå ut skolan med godkända betyg.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cb508ea39454c3dc0de6f8374e82b95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbifart Flen kommer slå hårt mot Flens tätort och de verksamheter som ännu finns kvar. Det kommer även leda till ökad biltrafik, vilket är ohållbart. Även om det finns fördelar vad gäller boendemiljö och trafiksäkerhet så menar vi att klimatfrågan är viktigare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f032bd2defe7500dbcbc937d67e640a8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga skäl att utan anledning drogtesta personal och det finns inga generella problem med droganvändning bland personal inom skola eller äldreomsorg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a2ba1d6f2cb0a2f9b3c065bd8fe04186",
+        "questionType": "PROPOSITION",
+        "reasoning": "Högerpartierna i Flen vill genomdriva LOV för att släppa in privata alt. i social- och hemtjänst. Det innebär att kommunen låser fast sig styrningssystem och detaljstyrning och minimalt personal- och brukarinflytande eftersom alla insatser måste mätas och följas upp. Bara de med pengar kan köpa flexibilitet och extra tid. Enligt facket är dessutom arbetsvillkoren ofta sämre i privata omsorgsbolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "527fb59f0c08ef054b745db420c3289e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett att det har gett positiva effekter i andra kommuner, med mindre stressad personal och färre sjukskrivningar. De anställda orkar mer och de äldre får det bättre.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "259ddacda89a0b84c626d1d41ebaa456",
+        "questionType": "PROPOSITION",
+        "reasoning": " Att kunna svenska är viktigt inom hemtjänst och äldreomsorg, och vi har andra förslag för att säkra det. Språktester löser inte de problem som verksamheterna brottas med idag, orsakade av ökad stress och försämrade arbetsvillkor.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "62d1f55b6b1971ec2ad82df2fb90d30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förekommer det problemet idag? Om så är fallet bör mänskliga rättigheter som att visa sitt ansikte och bli sedd vara viktigare än kulturella sedvänjor. Det är också en fråga om jämställdhet då det omfattar flickor och ogärna pojkar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "feb5f461dd978ff7c66735529d8eefb1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har bostadsbrist, men marknaden satsar tyvärr inte på bostäder som folk har råd med. Tyvärr är möjligheterna begränsade efter reformer som högerregeringar tidigare genomfört.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "34fe6973daa23ccd3ee6bd979dd06589",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgång till laddning av elfordon kommer bli allt viktigare och det är viktigt att få till ett enhetligt och enkelt system för laddning och betalning. Flens kommun var tidig med att installera publik laddningsmöjlighet och ska göra de åtgärder som krävs. Främst är det kommunala bostäder och parkeringsplatser som är kommunens ansvar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b4176b9f9dca93422b79fc5170760850",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor på flykt har rätt att söka asyl och behöver någonstans att bo. Alla Sveriges kommuner ska tillsammans ställa upp för att hantera detta och man kan inte generellt säga att Flen ska ta emot färre flyktingar. Antalet styrs av hur stort behovet är.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "65c868ee79340c8cc0cb2345e8f0f47d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett stort antal folkomröstningar är inget självändamål, utan ska genomföras när det uppkommer frågor som där folkomröstning är motiverat.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9d556b4c3222ad43e6efec208d2b025",
+        "questionType": "RANGE",
+        "reasoning": "Det kan vara motiverat att en skola drivs tex av lokalbefolkningen. Vi är helt emot vinstdrivande skolor. Det slår hårt mot en trygg och likvärdig skola för alla, när privata aktörer tar elever från den kommunala skolan som står kvar med kostnader och tvingas skära i verksamheten samtidigt som man har ett ansvar att erbjuda skolplats åt alla. Det leder till ökad segregation och klyftor i samhället",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "71e0b70eb9ef22717b3c168bce6b2289",
+        "questionType": "RANGE",
+        "reasoning": " Kultur ska vara till för alla, inte bara en lyx för några få. Därför är det viktigt att kommunen utöver kulturbidrag främjar spridandet av kultur till alla invånare , oavsett var man bor eller familjens ekonomiska förutsättningar. Vi värnar om avgiftsfri kulturskola, bra kollektivtrafik och att behålla lokaler som kan användas för kulturverksamhet fri från kommersiella intressen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "046f9cc760fc3d2ccfcccd1af6031144",
+        "questionType": "RANGE",
+        "reasoning": "Hög skatt är inget självändamål, men en bra kommunal service är grunden för ett välmående samhälle. Om vi inte satsar på skola, på omsorg, på socialtjänst, riskerar vi problem som slår hårt mot individer och blir dyrare för samhället.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5e618102e69bb16ddca9445748d25e9b",
+        "questionType": "PRIORITY",
+        "reasoning": "1. Öka andelen behöriga lärare i kommunens skolor till minst 85%\r\n2. Låta kulturskolan forsätta vara gratis för barn och unga\r\n3.  Anställa kuratorer till alla kommunens skolor",
+        "value": [
+          "1078",
+          "1077",
+          "1081"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;A;B;D;A;B;D;B;A;A;0/5;3/5;3/5;[1078,1077,1081]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi instämmer med Vänsterpartiet i mycket saker men vi hade hellre sett att V föreslog andra åtgärder som ger både omställning från fossil energi och samtidigt har en mer utjämnande effekt. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se vänsterpolitik efter valet 2022. I Flen vill vi samarbeta med partier som vill säkra en likvärdig skola och stoppa högerns pågående införande om av marknadssystem och privatisering i äldreomsorg och socialtjänst.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samarbetar med de som driver politik i enlighet med Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "Vänsterpartiet är det enda parti som arbetar för att minska klyftorna i samhället. Ett jämlikt och jämställt samhälle med fungerande välfärdssystem är mest rättvist men även en förutsättning för att effektivt möta andra hinder inom miljön, otrygghet och ohälsa. Ett ökande V är en tydlig signal till andra rödgröna partier om att deras väljarbas inte vill se samarbeten med högerpartier efter valet.",
+    "name": "Vänsterpartiet Flen",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-flen"
+  }
+]

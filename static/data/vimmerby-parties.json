@@ -1,0 +1,936 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2024",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "På rätt plats är vindkraft en mycket bra förnybar energikälla.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Under förutsättning att alla blir kompenserade för förlorad arbetsinkomst",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens främsta  uppgift är att driva kärnverksamheterna skola, vård och omsorg.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": "Däremot ska kommunen i första hand välja närproducerade livsmedel.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser det svårt att genomföra detta både med tanke på ekonomi och brist på arbetskraft.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska endast användas vid enstaka tillfällen i frågor som är av större vikt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla kan bli förstådda och göra sig förstådda..",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste för oss är inte vem som driver, utan att kvalitet och pris är bra på vården och omsorgen som bedrivs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansvaret kan ligga på kommunen, men kommunen ska inte finanseria allt ihop.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste ta ett humanitärt ansvar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inget emot privata alternativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag den högsta kommunalskatten i Kalmar län.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2770",
+          "2773",
+          "2769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;A;A;B;C;B;C;D;B;2/5;2/5;1/5;[2770,2773,2769]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara och utveckla kommunens skolor/förskolor i hela kommunen.",
+        "description": ""
+      },
+      {
+        "category": "Ha ordning på ekonomin i kommunen",
+        "description": "Ha ordning på ekonomin för att kunna utföra alla uppgifter med kvalité en kommun ska göra"
+      },
+      {
+        "category": "Tillse att vi har en bra omsorg om våra äldre.",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Centerpartiet står för ett rättvist, tryggt, öppet och jämlikt samhälle och vi har format vår politik i en blandning av trygga grundvärderingar och i samtal med våra väljare de senaste fyra åren, och kommit fram till vad vi tycker är en politik för Vimmerbys bästa.\r\nI en allt svårare tid med färre arbetsföra som skall försörja allt fler behöver vi arbeta annorlunda än tidigare på ett antal sätt.",
+    "name": "Centerpartiet Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vimmerby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2025",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommunala vetot är viktigt men varje enskild ansökan ska prövas utifrån vindbruksplanen och de konsekvenser en etablering får för invånare, natur- och kulturvärden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": "De politiska arvodena ska vara av en sådan storlek att den som tar ledigt från arbetet för att fullgöra politiska uppdrag inte ska lida ekonomisk skada.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska generellt inte konkurrera med det privata näringslivet men det går att motivera att kommunen äger såväl allmännyttiga bostadsbolag som energibolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget är dåligt av två skäl. För det första - Var skulle kommunen få tag på den extra arbetskraft som skulle krävs i en bransch som redan idag har har stora rekryteringsproblem? För det andra - Hur ska en så kostsam reform finansieras?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjligheten att i enstaka frågor av större vikt hålla folkomröstningar är viktig att hålla fast vid. Folkomröstningar är kostsamma och ska inte hållas slentrianmässigt.  I en representativ demokrati utser väljarna partier och politiker som ska representera dem under den kommande mandatperioden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en direkt vårdande kontakt är det viktigt att förstå och bli förstådd.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga billiga nybyggda hyresbostäder. Det är genom nybyggnation av villor, bostadsrätter och hyresrätter det skapas rotation på bostadsmarknaden som möjliggör att exempelvis ungdomar som vill skaffa sitt första egna boende kan flytta in i billiga äldre lägenheter.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet och mångfald innebär ökad kvalitet, ökad makt åt den enskilde och fler arbetsgivare att välja på för den anställda. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturen behöver finnas för att klara omställningen till fossilfria transporter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste bära sin del i ansvaret för människor på flykt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": "Elever och föräldrar ska ha rätt att välja skola, oavsett om de väljer en kommunal eller fristående skola. Tillgång till privata skolor ska dock baseras på efterfrågan, inte på ett kommunalt beslut.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle gärna se en utökad satsning på kulturskolan när det finns ekonomiskt utrymme för det.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": "Med länets högsta skatt är det självklart att sträva efter att sänka skattetrycket på våra invånare. Frågan om skattesänkning ska aktualiseras i varje budgetarbete men måste vägas mot behoven i välfärden.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2770",
+          "2771",
+          "2769"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;B;B;A;B;C;A;D!;C;B;3/5;3/5;1/5!;[2770,2771,2769]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vimmerbyallians bestående av C+M+KD",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mindre förskolegrupper för de yngsta åldrarna",
+        "description": "För små barn är det viktigt att inte behöva vistas i alltför stora grupper. Det måste vara nära till en vuxen famn att krypa upp i. Enligt skolverkets rekommendationer ska inte barngrupper för ett- till treåringar vara större än tolv barn."
+      },
+      {
+        "category": "Avskaffa delade turer inom vård och omsorg",
+        "description": "Personalen inom vård och omsorg gör ett fantastiskt viktigt arbete. Många gånger tvingas de dock att arbete med delade turer för att få schemat att gå ihop. Vi bör så långt det är möjligt ge förutsättningar att ta bort de delade turerna för personalen som arbetar med omsorg om äldre och personer med funktionsnedsättning."
+      },
+      {
+        "category": "Inför kommunala servicegarantier",
+        "description": "Genom servicegarantier tydliggörs vad kommuninvånare och företag kan förvänta sig av kommunens tjänster. Garantierna är också kopplade till löften om kompensation i de fall kommunen inte levererar som utlovat."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna sätter människovärdet främst och vill prioritera det som är nödvändigt för att bygga ett samhälle som håller ihop. Vården, äldrefrågorna och tryggheten är våra prioriterade frågor. Vi är partiet som ser till hela Sverige och inte bara till storstadsområdena.",
+    "name": "Kristdemokraterna Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vimmerby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2026",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vimmerby kommun ska säga nej till alla ny vindkraft till dess en ny vindbruksplan är antagen. Vindbruksplanen ska sätta upp strikta gränsvärden för buller och skuggning samt extra skydd av våra värdefulla natur- och kulturvärden. Vimmerby kommun ska också kunna säga nej till vindkraftsetableringar med utomeuropeiskt ägande och de kommuninvånare vars fastigheter påverkas ska ordentligt kompenseras.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förtroendeuppdrag ställer höga krav och politiker som grupp är extra utsatta för hot och hat. Det är inte rimligt att sänka ersättningar när kraven ökar men däremot skulle inte Moderaterna motsätta sig en översyn som minskar ner den politiska organisationen och därmed också arvodena som helhet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska i så liten utsträckning som möjligt konkurrera med det privata näringslivet men viss verksamhet, tex ett mindre kommunalt bostadsbolag kan vara bra för att säkerställa en bra mix av boendeformer. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det får gärna finnas vegetariska alternativ varje dag men det bör också finnas kött, kyckling eller fisk på matsedeln varje dag. Den bästa skolmaten är den som produceras i närheten och sedan äts upp av hungriga elever. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget skulle skapa ett stort behov av att nyanställa inom en sektor där vi redan idag har arbetskraftsbrist. Moderaterna ser hellre att man arbetar med att öka medarbetarnas möjlighet att påverka sin arbetssituation och sitt schema.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar är dyra, enbart rådgivande och inte sällan är valdeltagandet lågt. Politikerna i Vimmerby är väldigt tillgängliga så det lätt att påverka politiken även under mandatperiodens gång. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är en förutsättning för att kunna tillgodose en trygg och säker omsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyreslägenheter ska finansiera sig själva, även om det är på lång sikt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är lika viktigt för äldre som för unga. Kommunen måste dock alltid fatta kloka beslut hur man bäst använder medborgarnas pengar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta del av ansvaret att publika laddstolpar finns på lämpliga ställen men finansieringen borde komma från nationellt håll. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vimmerby ska självklart ta sitt ansvar gentemot de som kommer men Sverige som nation behöver kraftigt begränsa mottagandet av asylsökanden medan vi arbetar på att stoppa den väldigt negativa samhällsutveckling vi ser som ett resultat av en havererad integration.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna skulle gärna se en fristående grundskola, kanske på landsbygden, som ett alternativ till de kommunala.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": "Satsa på kärnverksamheterna och sänka skatten\r\nArbeta för att Vimmerby fortsatt ska vara en av Sveriges tryggaste kommuner\r\nSamverka för att motverka psykisk ohälsa",
+        "value": [
+          "2771"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;C;A;B;A;D!;A;D;C;D!;3/5;2/5;0/5!;[2771]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Moderaterna i Vimmerby skulle gärna se större insatser för att sänka drivmedelspriserna.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta att styra Vimmerby tillsammans med Centern och Kristdemokraterna men med Vimmerby som största parti. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet. Men vi kan samarbeta i frågor där vi tycker lika.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fokus på kärnverksamheterna",
+        "description": "Vimmerby kommun har ett antal verksamheter som är bra på många sätt men som inte är lagstadgade och som i många fall skulle kunna utföras av andra. Moderaterna vill så långt som möjligt minska ner alla kringliggande verksamheter för att kunna lägga mer resurser på skola, barnomsorg och omsorgen av äldre och sjuka."
+      },
+      {
+        "category": "Begränsad vindkraftsutbyggnad i Vimmerby.",
+        "description": "Moderaterna arbetar för att Vimmerby kommun ska vara väldigt restriktiva till att vindkraftsparker byggs i kommunen. T.ex. vill vi arbeta för stränga gränsvärden för buller och skuggningar samt att alla som påverkas av verken ska få en ordentlig ersättning. Vi vill också att kommunen säger nej till vindkraftsetableringar med utomeuropeiskt ägandeskap."
+      },
+      {
+        "category": "Motverka psykisk ohälsa bland våra äldre. ",
+        "description": "Den psykiska ohälsan ökar i många samhällsgrupper inte minst bland våra äldre där ensamhet och otrygghet blir allt vanligare. Suicidtalen hos män över 84 år är högst bland alla åldersgrupper. Moderaterna vill se mer uppsökande arbete mot de äldre som lever själva, utan insatser från hemtjänst och mer samverkan med föreningar och kyrkor för att bryta och motverka ensamhet."
+      }
+    ],
+    "motivateVote": "Moderaterna i Vimmerby arbetar för att kärnverksamheten ska prioriteras. Vi ska ha utmärkta skolor, en riktigt bra barnomsorg och omsorgen om våra äldre och sjuka ska präglas av trygghet.\r\nVi tror också på ett Vimmerby där man kunna leva ett härligt liv med närhet till naturen och friluftsområden. Våra företagare ska känna sig sedda och våra ungas röster ska höras. ",
+    "name": "Moderaterna Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vimmerby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2027",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2770",
+          "2772",
+          "2768"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;A;C;D;A;C;D;A;C;A;0/5;3/5!;2/5;[2770,2772,2768]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi älskar Vimmerby kommun och vill att den kraft och de möjligheter som finns i vårt samhälle tas till vara. Det vill vi göra med ett ledarskap som bygger på samarbete med föreningslivet, näringslivet och självklart med kommunens alla medborgare. Vi tycker det är viktigt med förtroendevalda som har förmågan och orken att fatta de nödvändiga, ibland roliga och ibland svåra, beslut.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Arbetsskor till personalen inom vård och omsorg",
+        "description": "Att arbeta inom omsorgen är många gånger ett fysiskt tungt arbete som sliter på kroppen. Bra skor bidrar till att undvika fallolyckor och minska förslitnings- och belastningsskador. Redan i dag är det brist på undersköterskor och vi behöver vara rädda om de vi har genom att ge dem goda förutsättningar att utföra sitt arbete. Därför vill vi att vård och omsorgspersonalen ska få fria arbetsskor."
+      },
+      {
+        "category": "Sommarlovskort till alla ungdomar",
+        "description": "Sommarlovskorten innebär att ungdomar får åka fritt inom kollektivtrafiken och därmed kan ta sig till sitt sommarjobb, utflykter, kompisar, upptäcka platser utan att behöva tänka på vad det skulle kosta. Vi vet idag att inte alla ungdomar växer upp med samma förutsättningar. Frihet för unga att kunna ta sig överallt utan att behöva tänka på kostnaden."
+      },
+      {
+        "category": "Profilering av kransorterna",
+        "description": "Vi vill att hela kommunen ska leva. Det offentliga Vimmerby måste i större utsträckning finnas närvarande på landsbygden. Förutsättningarna är olika och kräver olika lösningar. Men svaret kan inte vara att utebli med sin närvaro. På samma vis måste kommunen verka för att underlätta boende och företagande på landsbygden. Möjlighet att bygga, tillgång till fiber och offentlig service är viktigt."
+      }
+    ],
+    "motivateVote": "Vi vill att hela kommunen ska leva. Det offentliga Vimmerby måste i större utsträckning finnas närvarande i staden såväl som på landsbygden. Förutsättningarna är olika och kräver olika lösningar. Men svaret kan inte som så ofta varit att utebli med sin närvaro. På samma vis måste kommunen verka för att underlätta boende och företagande på landsbygden.",
+    "name": "Socialdemokraterna Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vimmerby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2028",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja de heltidsarvoderade bör sänkas med 10% det har vi i Sverigedemokraterna Vimmerby föreslagit sedan 2018",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lite konkurrens är bra",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, kött är en mycket viktig del i näringskedjan för många",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nackdel är kostnad, logistik och genomförande",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att man ska klara av att göra sig förstådd i tal och text inom hemtjänst och omsorg där vi har våra äldre och sköra som förlitar sig på oss och är ganska utlämnade",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vinsten ska återinvesteras i verksamheten. Kvalitet kommer alltid först",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med den nuvarande ekonomiska bilden som föreligger bör vi inte ta emot flera flyktingar, MEN de ukrainska flyktingar som är hänvisade oss ska vi ta emot, vi har i dagsläget förberett för dem med lägenheter etc. Det är ett rådande krig i vårat närområde så det påverkar ju förstås.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": "Lite konkurrens är bra och vi har inga privata aktörer idag",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för alla, kulturpengen bör återinföras och höjas. Kultur är en del av integrationen. Kultur ska värnas och bevaras, det går inte att sätta en summa på det",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": "Vimmerby borde ligga parallellt med närliggande kommuner, inte som nu högst i flera mätbara undersökningar.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2770",
+          "2773",
+          "2768"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A;A;D;C;D!;C;C;B;D!;3/5;3/5;0/5;[2770,2773,2768]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Språkkrav vid anställning inom skola samt vård och omsorg i Vimmerby kommun",
+        "description": "Att kunna det svenska språket är nyckeln till att bli en del av samhället, en förutsättning för en fungerande kommunikation människor emellan samt avgörande för en välfärd av hög kvalitet. Att kunna förstå varandra är grundläggande i alla arbeten särskilt viktigt är det inom vård och omsorg av våra äldre och sjuka."
+      },
+      {
+        "category": "Nej till Vindkraft",
+        "description": "Sverigedemokraterna Vimmerby säger nej till vindkraft"
+      },
+      {
+        "category": "Lägre skattesats",
+        "description": "Vimmerby har Kalmar läns högsta skattesats – och även hela Smålands. \r\nvårat mål är att jobba för en sänkning av skattesatsen i Vimmerby"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vimmerby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2029",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f6953cbb2060f3660a662c15f40ef0ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att kommunen generellt ska använda sitt veto och stoppa vindkraft. Däremot måste byggen ske på ett sätt som är acceptabelt för närboende. Kommunen ska också kräva att det sker investeringar i bygden så att vinsterna kommer tillbaka till oss som påverkas av vindkraften om den ska tillåtas.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d652114e6528807f64a1643036bc3bd8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att på nytt bygga förtroende mellan politiker och Vimmerbyborna är det allra viktigaste. Minskade \"klyftor\" är ett steg på vägen, och det ger även en besparing ekonomiskt. Alla måste bidra till en hållbar ekonomi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "26d12a1bc13650bd79b940957f89974d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte aktuellt i Vimmerby, utan de bolag som finns ger service som det privata näringslivet annars inte skulle ge, eller till mycket högre kostnad för Vimmerbyborna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9ab1f45beb4e40314dfaf23393931843",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej inte obligatoriskt. Däremot ser vi gärna att andelen vegetariskt i våra offentliga kök minskar, samtidigt som det lokalproducerade köttet ökar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b31deb08aeae656b70b9d72206b0f1dd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med sjuktal på 15% och högre inom flera avdelningar i omsorgen måste vi våga tänka nytt. Sex timmars arbetsdag är ett sätt att testa för att locka personal och hålla alla som jobbar för våra äldre friska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "deb032172cde59f1c151e418e5f4e8db",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är postiva till folkomröstningar när en fråga engagerar tillräckligt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d5d00f92b8a7a850a098ae8f612783b3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet att det finns krav på god svenska för våra anställda. Problemet är vad som händer när inte tillräckligt många med goda språkkunskaper söker våra tjänster. Lösningen är inte att ställa kraven hårdare, det leder bara till ingen anställd alls om allt annat fortsätter som nu. Just därför är det så viktigt att göra omsorgsarbetet i Vimmerby mer attraktivt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19b383babd158fd8024c72e2dfea272d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas en variation av boende för personer i alla stadier av livet i Vimmerby",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5f6c9b14748bdcb474f764cef7ee71f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är vi folkvalda politiker som ska ansvara för äldreomsorgen, inte bolagsstyrelser i Stockholm eller till och med utomlands. Om allt inte fungerar som det ska måste det vara tydligt var ansvaret ligger, och Vimmerbyborna måste ha en möjlighet att byta ut det styre som inte gör ett bra jobb. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "023d5c84a1bdce1f9f9099d12d0a21d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "5ff81c47fbd4a7c66f044232048c57a6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett väldigt blygsamt mottagande av flyktigar idag, främst från Ukraina. När människor flyr krig och förföljelse är det självklart att de ska kunna hitta en trygg plats i Vimmerby.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef5fe0ea55f67ceb06185898ca9d130f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "658b65992c18afcc483bd90b4f29298b",
+        "questionType": "RANGE",
+        "reasoning": "Både arrangörsföreningar som tar hit kulturupplevelser och kulturskolan vill vi satsa på. Både att utöva och uppleva kultur får människor att växa, och är en del i att bygga gemenskap i Vimmerby",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "445446ed69305933d656eee822077dcc",
+        "questionType": "RANGE",
+        "reasoning": "På kort sikt kommer det vara samma som idag, men när vi får ordning på ekonomi och de kommunala verksamheterna är målet att kunna sänka skatten något. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "5bd5e9235c1a164cb76ce5dd28ca91b9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2770",
+          "2772",
+          "2771"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D!;A;B;D;C;B;C;A!;_;A!;2/5;3/5!;1/5;[2770,2772,2771]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill vara med och styra kommunen med andra partier, under förutsättning att de också på allvar vill förändra Vimmerby. Hittills har vi inte sett det från något annat parti, men om de verkligen inser hur illa styrningen av kommunen är idag är vi beredda att kompromissa om mycket för att äntligen få ordning på vår kommun, ekonomi och personalpolitik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har svårt att se att ett samarbete med M, Kd eller Sd skulle vara aktuellt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Får ordnign på ekonomin och börja från toppen",
+        "description": "Vi måste ha en långsiktig planering för kommunens ekonomi, vilket har saknats i minst ett decennium. Vi kommer inte ha råd med allt, men vi ska börja med att spara uppifrån. Som politiker går vi före och sänker våra egna löner. Våra gemensamma problem måste vi lösa just tillsammans, och därför är det viktigt att de högsta beslutande visar att vi menar allvar"
+      },
+      {
+        "category": "Kontaktpolitiker i kommunens verksamheter",
+        "description": "Styrande politiker måste komma närmare verksamheterna och direkt från kommunens anställda få en bild av hur läget \"på golvet\" är. Därför vill vi införa ett system med kontaktpolitiker där varje verksamhet har en utsedd politiker att ta kontakt med för frågor och synpunkter. Vi vill styra Vimmerby med öppenhet och förtroende, det ska vara enkelt och självklart att berätta om sin arbetssituation."
+      },
+      {
+        "category": "Sälj inte Granen!",
+        "description": "Vi är kraftigt emot att sälja trygghetsboendet Granen som den styrande alliansen föreslagit. Tryggheten för de boende är det viktigaste. Kommunen måste garantera att hyrorna inte höjs oskäligt och att den service som finns i huset blir kvar. Att sälja är också en mycket dålig affär för kommunen ekonomiskt, det måste bli slut på \"vanvittsaffärer\" i Vimmerby om vi ska få ordning på ekonomin."
+      }
+    ],
+    "motivateVote": "Vimmerby behöver politisk styrning och en ny kompass. Vi vill styra kommunen med ärlighet, öppenhet och stor kunskap om verksamheterna, där utgångspunkten är att grundverksamheten med omsorg och skola måste fungera också för personalen. Vimmerby kan inte fortsätta vara en kommun där människor blir sjuka av att jobba. ",
+    "name": "Vänsterpartiet Vimmerby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vimmerby"
+  }
+]

@@ -1,0 +1,1491 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1288",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "En mix av kommunal och regional hemtjänst är det bästa.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är svår eftersom man inte vet om slöjan är frivillig för flickan eller kvinnan. Alla har rätt att klä sig som man vill.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är för de gamla och sjukas skull. De måste känna trygghet när de kommunicerar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot de flyktingar vi kan enligt kvot.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Försök har gjorts, men resultatet blev inte som väntat. Det vill säga, den höga sjukfrånvaron sjönk inte nämnvärt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att det finns mark och lättillgängliga platser för laddstolpar. Aktörer på marknaden får chansen att se till att det finns laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner får inte konkurrera på ojämlika villkor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Ett större utbud skulle göra att fler elever skulle välja att studera i kommunen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1902",
+          "1898",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;C;D;B;D;B;B;B;D;D;3/5;4/5;2/5;[1902,1898,1897]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I stort sett inte.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Naturligtvis vill vi ha egen majoritet. Vi hoppas att tillsammans med de övriga allianspartierna få förtroendet att fortsätta styra Nynäshamn även i framtiden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan tänka oss att styra med M, KD och L.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Himmerfjärdsleden",
+        "description": "Vi vill utreda en ny vägsträckning mellan Nynäshamn och Vagnhärad/Trosa. \r\nEnkel resa skulle det korta resvägen med sex mil. All tung trafik som skall söderut skulle slippa belasta väg 225, som redan är mycket tungt belastad. Vintertid ställer den tunga trafiken till än mer besvär. Stopp i backar är vanliga, bland annat i Kagghamrabacken."
+      },
+      {
+        "category": "Kommunal polis",
+        "description": "Vi behöver ha lokala poliser, kommunpoliser, för att skapa \"Trygghet hela livet\".  Lokala poliser är bra för då uppstår en relation mellan medborgare och poliser. Lokala poliser har även mer koll på de lokala kriminella."
+      },
+      {
+        "category": "Förbifart Segersäng",
+        "description": "Vägen behöver dras om mellan Grödby och Segersäng. Vägen är bitvis mycket smal och bilar/lastbilar och gångtrafikanter har svårt att kunna samsas om det lilla utrymme som finns. Vi vill att detta genomförs innan någon skadas eller dör."
+      }
+    ],
+    "motivateVote": "Vi värnar landsbygden och möjligheten att driva företag även där. Alla ska kunna bestämma över sitt liv, oavsett var man bor i landet. Det bästa för arbetsmöjligheter är att ta ansvar i klimatfrågan.\r\nVi är också noga med att betona alla människors lika värde, oavsett vem du är.",
+    "name": "Centerpartiet Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-nynashamn"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1289",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att det kommer att vara ekonomiskt försvarbart för någon\r\nav de tänkta kommunerna. Vi inväntar även den utredning som nu sker i frågan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "I enlighet med KD i Stockholms län vill vi verka för en trafiklösning där väg 73 ansluter till E4:an i höjd med Trosa/Vagnhärad.\r\nVi vill minska trafiken på väg 225 och även kunna förbjuda tung\r\ngenomfartstrafik på den vägen. Denna trafiklösning kommer även att öka tillgängligheten till Nynäshamn för näringsliv och turism och vägen kommer även att underlätta trafiken till och från Stockhom.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas valmöjligheter inom äldreomsorgen och vi vill se en mångfald av aktörer inom hemtjänsten, där den kommunala hemtjänsten är en aktör bland andra.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "JA, det ska kommunen göra i största mån. Behovet av ökad självförsörjning är viktigt för Sverige och lokal tillgång till producerad livsmedel minskar transporterna och stärker våra gröna näringar.\r\nByggnation på åkermark bör endast göras när det rör samhällsviktiga funktioner eller liknande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan ska vara en säker plats för barn. Vi menar att det inte är rimligt att barn ska gå i skolan med förtäckt ansikte. Det är förtryckande och begränsar det mellanmänskliga mötet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar om trygghet och säkerhet. Alla äldre som har hjälp från kommunen måste kunna känna sig trygga med att man kan kommunicera enkelt men tydligt med den som kommer in i ens boende.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen, likt Sverige i stort, har tagit emot fler invandrare än vi kanske haft möjlighet att hantera. Vi menar dock att kriser i vårt närområde kräver ett extra ansvar, alltså menar vi att Sverige och Nynäshamn bör ta emot vid behov fler flyktingar från Ukraina men minska mottagandet i övrigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte rätt hantering av kommunens ekonomi att minska effektiviteten i äldreomsorgen genom att minska antalet arbetade timmar, utan att också minska utgifterna proportionerligt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens uppgift att använda skattemedel för att finansiera hyresrätter. Dock bör man verka för att låta privata bolag bygga nya hyresrätter i alla prisklasser.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte som enskild aktör sätta upp stolpar i hela kommunen. Dock bör kommunen upplåta mark för aktörer som vill bygga laddstolpar, och sätta upp laddstolpar vid kommunens byggnader och verksamheter. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala företag ska inte konkurrera med privat näringsliv eftersom det skapar en oschyst konkurrens som inte främjar det lokala näringslivet och därmed inte bidrar till kommunens utveckling.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Om privata företag vill driva skolverksamhet i kommunen och når de krav som finns är det bra: vi uppmuntrar en mångfald av aktörer i kommunen. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska bidra till kultur lokalt men vi kan inte prioritera ökningar när vi står inför flera utmaningar i såväl skola som äldreomsorg.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "Målbilden ska alltid vara att sänka skatten så att människor får behålla mer av sina pengar: eget sparande är också välfärd. Dock ska skattesänkningar aldrig skada kommunens kärnverksamhet. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1898",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;D!;D;D;C;B;B;B;D!;3/5;2/5;1/5;[1895,1898,1897]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "NEJ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val med Alliansen för Nynäshamn (KD-M-C-L)",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill fortsätta styra med vår politik i fokus.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill öka trafiksäkerheten på väg 225!",
+        "description": "För en mer trafiksäkermiljö på väg 225 måste vi begränsa den tunga genomfartstrafiken som ökade sedan Norviks hamn öppnade. Vi vill öka trafiksäkerheten med en Gång- och Cykelväg mellan Ösmo-Spångbro. Trafikverket ska uppmanas att färdigställa åtgärderna som beskrevs 2015 i en rapport för väg 225. Trafiksäkrare övergångsställe i Spångbro och byggstart av Tvärförbindelse Södertörn måste prioriteras"
+      },
+      {
+        "category": "En trygg och tillgänglig primärvård även på kvällar och helger! ",
+        "description": "Vi vill verka så att i samverkan med Regionen ska finnas Vårdcentraler/Närakuter öppna kvällar och helger för att ge en tryggare vård för att bättre kunna möta behoven hos framförallt barn, äldre och personer med flera eller kroniska sjukdomar. Region Stockholm ska kunna erbjuda en bredare och god vård nära dig även i Nynäshamns kommun."
+      },
+      {
+        "category": "Barnen har rätt till en trygg uppväxt!",
+        "description": "Tillgång till stöd tidigt i föräldraskapet rustar föräldrarna för framtiden och skapar trygga barn. Vi vill se familjecentraler även i Ösmo och Sorunda för att ge fler familjer det sociala och professionella stöd som finns där. Vi vill att föräldrarna till barn mellan 0-18 ska ha lätt tillgång till föräldrastöd och/eller föräldrakurser som ska erbjudas såväl i Ösmo och Sorunda som i Nynäshamn."
+      }
+    ],
+    "motivateVote": "Vi har en politik med familjen och samhällets trygghet i fokus. Bland våra viktigaste frågor:\r\n- Ökade satsningar för familjer och skola så att barn och unga kan ha en trygg uppväxt och en trygg, lärorik skolmiljö. \r\n- Fortsatt utveckling av äldreomsorgen för att möta framtida utmaningar. \r\n- En levande landsbygd för att stärka vår lokala livsmedelsförsörjning och regionens självförsörjningsgrad. ",
+    "name": "Kristdemokraterna Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-nynashamn"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1290",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver jobba tillsammans hela kommunen för att komma framåt på ett bra sätt. Varför splittra upp oss?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore toppen med en väg till Trosa men först behöver arbetet komma igång med Tvärförbindelse Södertörn och en cykelväg längs väg 225 måste byggas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att det finns både kommunal och privat hemtjänst.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver ta fram en strategi för lokal livsmedelsförsörjning där vi också värderar olika typer av mark beroende på hur odlingsvärd den är för att kunna väga olika intressen mot varandra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "I skolan behöver lärare och elever kunna kommunicera lätt med varandra. Vi uppfattar dock inte detta som något stort problem i dag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi arbetar för öppenhet och utveckling. Invandring bidrar till en positiv utveckling av kommunen. Samtidigt finns en gräns för när så många flyttar in att vi får svårt att integrera de nya invånarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs många insatser för att utveckla äldreomsorgen som arbetsplats, men just sex timmars arbetsdag är inte första steget.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera men gärna planera för fler billiga hyresrätter antingen hos allmännyttan eller hos privata hyresvärdar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta ett stort ansvar, men även privata aktörer bör erbjuda laddmöjligheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med rent kommersiell verksamhet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser positivt på en blandning mellan kommunala och fristående skolor.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att kommunen bör lägga mer pengar på kultur- och bildningsområdet. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "På sikt vill vi gärna sänka kommunalskatten. Vi vill istället jobba för att fler går från bidrag till lön eller höjer sin lön genom att fortbilda sig. Det bidrar till högre skatteintäkter utan att hämma företagandet.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1903",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;D;C;D;D;B;A;A;C;C;4/5!;3/5;1/5!;[1895,1903,1897]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill se ett fortsatt Alliansstyre (L, M, C, KD) men med egen majoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk undervisningen med höjd skolpeng",
+        "description": "Förskolor och skolor behöver få ökade resurser. Det måste finnas tillräckliga resurser för att ge stöd till elever som har det svårt och nya utmaningar till den som lär sig snabbt. Vi vill under en femårsperiod göra en strategisk satsning på att höja skolpengen i steg tills vi når den nivå som kommunerna med bäst skolresultat i landet ligger på."
+      },
+      {
+        "category": "Stärk Nynäshamn som sjöfartskommun",
+        "description": "Kommunen bör i samarbete med relevanta aktörer undersöka hur sjöfarts- och hamnverksamheterna kan utvecklas mot att bli mer omfattande och mer hållbara. I takt med att sjöfarten och internationell handel ökar kommer ytterligare krav på smarta och hållbara lösningar att ställas. Där kan kommunen ha en uppgift att fylla."
+      },
+      {
+        "category": "Utveckla mer verksamhetsmark",
+        "description": "Det råder stor brist på verksamhetsmark i kommunen. Det finns en kö av företag som vi i dag inte kan erbjuda lämplig mark för etablering. På lång sikt behöver vi avsätta mer mark i kommunen för verksamheter. På kort sikt behöver vi jobba för att planerad verksamhetsmark färdigställs genom att sälja mark till externa exploatörer."
+      }
+    ],
+    "motivateVote": "Vi vill skapa möjligheternas Nynäshamn, präglat av kunskap, frihet och företagsamhet. Vi står upp för liberala värden som frihet, öppenhet, mångfald och jämställdhet. Vi står för ett positivt ledarskap där vi tror på samarbete.",
+    "name": "Liberalerna Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-nynashamn"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1291",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "För liten befolkning för att kunna stöda alla samhälls funktioner",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väg eller tågräls kan ge bättre anslutning till E4, avlastar väg 225 och minskar behovet av Tvärförbindelsen, samt säkrar upp väg 225 för trafikanter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den kommunala hemtjänsten är en självklarhet att behålla då den är kompetensreserven om de privata får problem och måste avveckla.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ur civilförsvarets perspektiv behöver Sverige bli mer självförsörjande för livsmedel. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna typen av förbud leder till konflikt, men en ansiktstäckande slöja är inte svensk sed och leder till att individen exkluderas i samhället. Individen ska uppmuntras att anpassa sig .",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetet innebär muntlig kommunikation",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Var kommun tilldelas ett antal flyktingar, alla kommuner ska dela rättvist på ansvaret, inte kunna köpa sig fria",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetet är tungt och stressigt. En kortare arbetsdag gör att personalen får mer tid för återhämtning och följaktligen blir kvaliteten på omsorgen bättre",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Billiga i den hänsyn att unga och de i behov som är ny in på bostadsmarknaden har en möjlighet att hyra sitt första hem.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att öka antalet elbilar kan vara bra för miljö och klimat. Laddstolparna ska avgiftsbeläggas",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurens mellan kommunalt och privat närings liv kan hämma orealistisk kostnads ökning på varor och tjänster",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Skatte pengar är inte avsedda att ge Aktiebolag vinster. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig byggsten i samhället.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns det inget underskott i den kommunala budgeten. Vi går mot kärvare tider och skatteintäkterna kan minska, vilket kan motivera en liten ökning för att bibehålla nivån på samhällsservicen. Detta är för närvarande inte aktuellt. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1899",
+          "1903"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C!;D;D!;B;D!;A!;D!;D;D!;A!;0/5!;4/5!;2/5!;[1895,1899,1903]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst egen majoritet, kan styra tillsammans med S ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsning på arbetsmiljön och kompetensutveckling inom inom vård och omsorg.",
+        "description": "Vi har vuxit fram ur rörelserna för miljö, fred och jämställdhet. Idag gör vi politiken grönare. Vi vill föra en politik där vi lever inom naturens ramar, med insikt om vårt djupa beroende av varandra. Vi vill vara en röst för dem som inte kan göra sina röster hörda. Vi satsar där för på vård och omsorg, mer utbildad personal ger mer insatser till de i behov."
+      },
+      {
+        "category": "Satsning på en underbar skolmiljö där barnen och lärarna mår bra",
+        "description": "Vi i Miljöpartiet vill ge alla barn oavsett uppväxt samma förutsättningar och möjligheter till en underbar skolmiljö, där lärarna mår bra med fler kollegor, där barnen får individanpassad lärmiljö och kan äta i lugn och trygg skolmiljö. Skolmaten är lokalt producerad efter säsong och lockar barnen in till lunch från lek och rörelse på den gröna rastgården. Alla barn ska klara sin skolgång."
+      },
+      {
+        "category": "Satsa på en attraktiv kommun med säker infrastruktur långsiktigt",
+        "description": "Vi tror att samspelet mellan oss människor är bland det viktigaste vi har, i naturen vid havet mutvecklas vi och hittar lugn. Vi vill därför värna kultur och fritid som en fundamental byggsten till ett välmående samhälle för alla åldrar, samt ett grönt samhälle med vindkraftverk, cykel och gångbanor, utbyggt kollektivtrafiknät som bidrar till att vi kan minska användandet av fossila bränslen."
+      }
+    ],
+    "motivateVote": "Vi är det enda klimatpartiet som på allvar ser att vi måste förbjuda fossila bränslen från 2030.",
+    "name": "Miljöpartiet Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-nynashamn"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1292",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket dumt förslag. Det hade blivit en mycket liten kommun med små resurser. Trenden går snarare mot att kommuner behöver samarbeta istället. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "På lång sikt möjligtvis. Men sträckningen blir svår förmodligen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hemtjänsten har behov av förbättringar så det arbetet behöver fortsätta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den bästa jordbruksmarken bör användas för jordbruk. Men i princip all mark går att odla på och samhällsnyttan av bostäder behöver också vägas in. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen anledning för elever att ha maskering i klassrummen. Oavsett anledning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver ta emot färre flyktingar och jobba hårt med integrationen av de som redan kommit hit. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur ska det finansieras?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera billiga hyresrätter. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att det finns en infrastruktur för laddning av elbilar men huvudansvaret borde inte ligga på enskilda kommuner. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med privat verksamhet. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Det finns väldigt få privata alternativ i vår kommun i dagsläget och de som vill ha alternativ tvingas flytta eller pendla. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är mycket viktig och bra för att bygga sammanhållning i samhället. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "Vi har hög skatt och den bör sänkas. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1900",
+          "1898",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;C;D;D;C;A;A;B;D!;4/5!;3/5;0/5!;[1900,1898,1897]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har ett väl fungerande lokalt samarbete i vår allians som består av Moderaterna, Kristdemokraterna, Centerpartiet och Liberalerna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna bör få öva mer på sitt oppositionsarbete lång tid framöver. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla gästhamnen",
+        "description": "Nynäshamns gästhamn är en mycket uppskattad plats för kommunens invånare. Men en stor del av hamnen är nu parkeringsplats, påfart och terminalverksamhet. Det borde vara bostäder, parker, strandpromenad, caféer och mer liv året om. Förslaget är att utvidga gästhamnen och flytta mer av hamnverksamheten till Norviks hamn."
+      },
+      {
+        "category": "Inrätta ett näringslivscentrum",
+        "description": "För att lyfta det lokala näringslivet, och kopplingen mellan kommunen, näringslivet och medborgarna så är förslaget att inrätta ett näringslivscentrum. Detta ska vara en mötesplats, utbildningsplats, och en plats för service. Kopplingen till högre utbildning är också viktigt så förslagsvis borde detta ligga i anslutning till Campus Nynäshamn."
+      },
+      {
+        "category": "Bygg fler gång och cykelvägar längs landsvägarna",
+        "description": "För att koppla ihop Ösmo, Spångbro, Sunnerby och Grödby, så vill vi bygga gång- och cykelvägar som kopplar ihop dessa orter. Det skulle underlätta för barn och ungdomar att cykla till skolan, eller träningen, och öka trafiksäkerheten. Det skulle även öppna upp fler möjligheter för besökare att se mer av vår vackra kommun."
+      }
+    ],
+    "motivateVote": "Moderaterna i Nynäshamn har visat att vi är samlingspartiet som får saker gjorda. Vi har skapat ordning och reda i ekonomin, börjat ta hand om kommunens fastigheter och inlett en historisk plan för investeringar för framtiden. Vi älskar Nynäshamns kommun och vill fortsätta den förändringsresa som vi inlett för att utveckla vår vackra kommun. ",
+    "name": "Moderaterna Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-nynashamn"
+  },
+  {
+    "abbreviation": "PP(N)",
+    "altingetCandidateId": "1293",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Pensionärspartiet i Nynäshamns kommun Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "pensionarspartiet-i-nynashamns-kommun-nynashamn"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1294",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1899",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;B;D;_;B;D;B;C;C;B;A;1/5;3/5;2/5;[1895,1899,1897]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kommer prata med dom som står för alla människors lika värde. Vi kommer inte låsa fast oss i en konstellation utan vi måste invänta valresultatet och se vilket förhandlingsläge vi då befinner oss i.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte låsa fast oss i en konstellation redan nu.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En samlad skoldag - det livslånga lärandet. ",
+        "description": "Mer och djupare kunskap gynnas i mindre klasser. Vi vill öka resurserna i grundskolan för att kunna anställa fler lärare. Mer resurser till barn och elever är nödvändigt och besparingar i skolan ska stoppas. Barn med särskilda behov ska få stöd.\r\n-Vi vill öka resurserna i grundskolan så att man kan anställa fler lärare. Mer djupare kunskap gynnas i mindre klasser. \r\n-Besparingar stoppas"
+      },
+      {
+        "category": "Alla ska ha rätt till ett hälsosamt åldrande. ",
+        "description": "Mycket av det vi idag tar för givet har skapats av den generation som nu börjar bli till åren. De har gett av sina liv, sin tid, sitt kunnande och sitt arbete för att bygga vårt samhälle och ska nu kunna få tillbaka av samhället. \r\n-Utveckla hemtjänsten, mer tid hos de äldre och säkerställa att äldre inte varje dag ska få träffa ny personal. \r\n-Mobila äldreteam i hembygden ger vård i hemmet."
+      },
+      {
+        "category": "Bostadsgaranti Ungdomar mellan 19-27 år.",
+        "description": "I Nynäshamn saknas i första hand bostäder för unga och lågavlönade. De senaste byggnationerna har i största grad riktat sig mot hyggligt välbeställd medelklass. Bostadsbyggandet ska ske utifrån god boendekvalitet till rimliga kostnader. Bostäderna inte får vara dyrare än att unga innevånare skall ha råd att betala hyran även om de studerar och enbart har CSN lån och bidrag under terminen."
+      }
+    ],
+    "motivateVote": "Vi vill att Nynäshamn och Sverige ska vara tryggt i en orolig tid. Vår hembygd ska återigen kunna ge välfärd med fungerande skola och omsorg. Revorna i välfärden ska repareras, både i kommun och region. Vi har en politik med satsningar på mer personal i välfärden, på barnfamiljer och pensionärer. Kampen mot brottsligheten ska vara kompromisslös men också verka mot brottens orsaker.\r\n\r\n",
+    "name": "Socialdemokraterna Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-nynashamn"
+  },
+  {
+    "abbreviation": "SN",
+    "altingetCandidateId": "1295",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "1974 slogs tre kommuner ihop: Ösmo, Sorunda och Nynäshamn. Det var stort motstånd då och det har aldrig blivit bra. Många har framfört önskemålet om att bilda nya kommuner. Orsaken är orättvis resursfördelning av skattemedel till skola och omsorg exempelvis upp till 2.200 kr i skillnad/elev och år.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bedömer att förslaget är orealistiskt. En sådan investering på 25-50 miljarder kräver finansiering av regeringen och är minst 30 år framåt. Dessutom är varken Södertälje eller Trosa intresserade och de bestämmer då de har planmonopol. Vi vill prioritera kommunala gång- och cykelvägar. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med valfrihet mellan privata och kommunala alternativ.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men det beror på olika faktorer som till exempel hur odlingsvärd åkermarken är och om den är lönsam att bruka. Dagens stora jordbruksmaskiner kan till exempel inte användas på små åkrar. Då är det viktigare att bebyggelsen anpassas till befintlig bebyggelse och vårt kulturlandskap som är av riksintresse.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta kan inte förbjudas med nuvarande lagstiftning och är ett beslut på nationell nivå och inte på kommunal nivå.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att personalen och brukarna kan göra sig förstådda med varandra på svenska.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte vår kommun som bestämmer hur många flyktingar vi ska ta emot varför vår kommun ska följa gällande lagstiftning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bedömer att man aldrig långsiktigt kompensera en dålig arbetsmiljö med högre lön. Då är det bättre att man anställer fler och förbättrar arbetsmiljön och tar bort stressen med minutscheman, så att medarbetarna kan känna sig stolta över sitt arbete och brukarna får den goda omvårdnad som de behöver.  \r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "År 2011 infördes nya villkor för allmännyttiga kommunala bostadsaktiebolag och nya regler för hyressättningen. Kommunen ska ställa affärsmässiga avkastningskrav på bolaget, inte skjuta till medel för att täcka underskott i verksamheten och ta ut marknadsmässiga borgensavgifter och räntor på lån.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill göra som Stockholms stad och ge intresserade aktörer möjlighet att sätta upp laddare på de kommunala gator. Aktören står för installation, drift och underhåll av laddarna. Vår kommun ansvarar för skyltning, sopning, snöröjning samt parkeringsövervakning. Dessa laddare måste vara öppna för alla. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många kommunala verksamheter som inte bedrivs i bolagsform men som konkurrerar med privat näringsliv. Exempelvis kan vägunderhåll, snöröjning, parkskötsel, gästhamnsverksamhet etcetera privatiseras.\r\n",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": " I LR:s rankning av skolan hamnar vår kommun på plats 287 av 290.  \r\nMånga grundskoleelever pendlar ut från vår kommun för att gå i skolan. I dag finns det endast ett privat alternativ i vår kommun vilket den politiska majoriteten beslutat att avveckla. Vi vill se en blandning av fristående och kommunala skolor.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Ökad satsning på Kulturskolan. \r\n",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "Externa utredningar och våra erfarenheter visar att vår kommun leds och styrs ålderdomligt. Den är ineffektiv pga för många kommunalråd, chefsnivåer, otydliga processer och roller. Genom effektiv ledning och styrning frigörs resurser för att höja kvaliteten i skola, omsorg och övrig kärnverksamhet.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1898",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;D!;B;A;D;A;B;A;D!;D!;3/5!;3/5;2/5!;[1895,1898,1897]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vårt parti finns inte på riksnivå. Vi är ett kommunalt parti som bestämmer vår politik helt självständigt. Vi lyssnar på invånarna och har fördelen av att inte vara styrda av något parti på region- och riksnivå. Vi röstar själva på olika partier på region- och riksdagsdagvalen. \r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Nuvarande mandatperiod har präglats av stor röra där den ledande politiska minoriteten har försökt kringgå valresultatet med stöd av politiska vildar för att få igenom sina förslag. Vi vill att det kommande politiska styret respekterar valresultatet och inte “köper” politisk majoritet med välbetalda kommunalrådsposter.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill samarbeta med alla som vill se hela vår kommun blomstra. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Folkomröstning om att skapa nya kommuner genomförs 2024 i samband EU-valet",
+        "description": "Genom att bilda nya kommuner förändras organisationen från grunden med färre politiker och chefer samt tydliga processer och roller. Politiken måste föregå med gott exempel och minska sina kostnader. Genom effektiv decentraliserad ledning och styrning av organisationen frigörs resurser för att höja kvaliteten i skola, omsorg och övrig kärnverksamhet och resurserna fördelas likvärdigt."
+      },
+      {
+        "category": "Vi vill förbättra framtidsmöjligheterna för våra barn med god utbildning.",
+        "description": "Mindre grupper i förskolan och minskad klasstorlek i åk F-3. Högre skolpeng. Mer resurser till läromedel. Stöd för elever direkt vid behov. Fler legitimerade lärare, speciallärare och specialpedagoger. Öka trygghet och studiero. Rektor på varje skola. “Kringpersonal” för att avlasta lärarna."
+      },
+      {
+        "category": "Vi vill förbättra omsorgen för äldre, individer och de med funktionsvariation",
+        "description": "Vår kommun ska präglas av gemenskap, delaktighet och trygghet för alla åldrar och för dem med funktionsvariation. Vi vill se fler service-, trygghets- och LSS-boenden i hela vår kommun. Vi vill ha valfrihet med både privat och kommunal hemtjänst."
+      }
+    ],
+    "motivateVote": "Det unika med oss är att vi fokuserar på att utveckla hela vår kommun till den attraktiva platsen där alla vill växa upp, leva och bli gamla. Vi lyssnar på Dig och övriga invånare när vi utformar vår politik utifrån vår kommuns förutsättningar. Ingen på riksnivå kan påverka vår politik. Vi bildades 2005 och blev fjärde största parti i förra valet.",
+    "name": "Sorundanet Nynäshamns kommunparti Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sorundanet-nynashamns-kommunparti-nynashamn"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1296",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har generellt svårt att se nyttan med en kommundelning. Två nya kommuner med all extra administration med mera riskerar att öka kostnaderna ett ökat skattetryck för alla.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har länge haft en lokal tanke om ett så kallat E4 syd, en sträckning från Nynäshamn till söder om Södertälje. Nu är förvisso en utbyggnad/ombyggnad av länken mellan Jordbro och E4an i planeringen men för att avlasta 73:an från tung trafik så behöver även detta alternativ utredas.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna i Nynäshamn var en starkt drivande kraft i arbetet med att rädda den kommunala hemtjänsten. Här kommer vi fortsättningsvis vara en garant för att den kommunala hemtjänsten inte läggs ner.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska värna om våra öppna marker och jordbruk. Om vi börjar bebygga odlingsvärd åkermark i stor omfattning så kommer vi i längden att än mer försämra våra förutsättningar för egenförsörjning av livsmedel från jordbrukssektorn. Detta är ett allvarligt hot för vårt samhälle.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn ska aldrig behöva leva under förtryck baserat på religiöst- och kulturellt fundament. Skolan ska vara en fristad för barn och unga och därför anser vi inte att detta är ett förbud riktat mot eleverna utan mot förtrycket.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill absolut se ett språktest för nyanställning. Det måste finnas skarpa språkkrav för att arbeta inom dessa områden. De äldre ska aldrig riskera att inte förstå eller bli förstådda pga språkproblematik.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Billiga hyresrätter riskerar ofta att bli byggda på \"billiga områden\". Detta kan i sin tur medföra att områdena blir så kallade \"utsatta områden\" och det måste vi göra allt för att undvika.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs större tillgång på publika laddstolpar i stadsnära miljö. Samtidigt ska kommunen inte stå för kostnaderna i stort utan ska tas ut genom parkeringsavgifter som inkluderar laddning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rent generellt bör kommunen undvika att ha/skapa bolag som konkurrerar med det privata näringslivet. Kommunen ska i första hand prioritera sina basverksamheter (skola, omsorg, äldreomsorg mfl). ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Kultur ska i första hand bära sig själv. Sådan kultur som ger positiva effekter för kommunen och dess invånare kan i framtiden finansieras men det bör ske med en noga avvägning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1903",
+          "1897"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C!;D!;D!;D;D!;D;C;B;C;C;2/5;2/5;2/5;[1895,1903,1897]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppna för samarbete med samtliga partier i specifika sakfrågor. Dock anser vi att ett konservativt styre vore det bästa för Nynäshamn och dess invånare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har väldigt svårt att se ett fungerade samarbete med såväl MP som V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Måttlig byggnation",
+        "description": "För SD är det viktigt att kommunen utvecklas varsamt. Särskilt betydelsefullt är att nya områden är attraktiva och att de inte riskerar att utvecklas till anonyma utanförskapsområden. Människor ska flytta till ett område för att de trivs där, inte för att de inte har några alternativ. Vidare är det av stor vikt att trafik- och annan infrastruktur hinner med."
+      },
+      {
+        "category": "Prioritera framkomlighet för bilister och god tillgång på parkeringsplatser",
+        "description": "För en perifer och glest bebyggd kommun som Nynäshamn är bilen det i särklass viktigaste fortskaffningsmedlet. Det finns ingen anledning att tro att detta kommer att ändra sig under överskådlig tid. Därför är det av stor vikt att kommunen prioriterar bilvägar och parkeringsplatser. Sannolikt är detta en av de frågor som har störst betydelse för medborgarna."
+      },
+      {
+        "category": "Trygghet i fokus",
+        "description": "För medborgarna är trygghet en avgörande faktor för livskvalitén. Om man inte känner sig trygg så blir alla aspekter av livet lidande. Därför är det centralt att kommunen prioriterar trygghetsfrågor. Ett av de viktigaste sätten att göra detta är att hålla nere på skalan av såväl mängden som dimensionen av nybyggda områden. Anonymitet är den enskilt viktigaste orsaken till otrygghet."
+      }
+    ],
+    "motivateVote": "Det ska vara tryggt och lugnt i Nynäshamn. Det är viktigt att tillväxten sker försiktigt och att vi inte äventyrar livskvalitén. Man ska kunna födas, leva och dö i Nynäshamn utan att behöva känna sig oroad för sin trygghet. Därför bevakar vi särskilt trygghetsfrågorna.",
+    "name": "Sverigedemokraterna Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-nynashamn"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1297",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "4ab15c9ba0ccc14fa3d5d8df39db8c2b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skulle bli kostsamt, försvåra övergripande beslut och försvaga sammanhållningen mellan stad/landsbygd.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2894acf57aaac140e98a12f029baaffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen äger inte frågan, det gör Trafikverket. Vänsterpartiet tror inte på att bygga fler vägar för att öka bilismen. Vi tror på att istället lägga gods på järnväg eller pråmar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2125081040796d45a94195044770b38d",
+        "questionType": "PROPOSITION",
+        "reasoning": "98 procent av brukarna av den kommunala hemtjänsten är nöjda, trots detta strävar alliansen efter att Nynäshamns äldre och sjuka ska läggas ut på marknaden. Genom nedskärningar och kostsamma, verkningslösa åtgärder får de verksamheten olönsam, att ha som argument för utförsäljning. Det kommer vi inte att acceptera! Vi vill istället stärka den kommunala hemtjänsten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fa921bda1911ca037132398429d663dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Matjord är en viktig resurs som tar lång tid att bygga upp och som vi inte kan slösa med; inga nyetableringar ska därför ske på odlingsbar jordbruksmark.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc7ea1e615d727891e22d08066f01b4d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om en flicka tvingas att bära slöja är det riktade insatser mot de som tvingar vi vill se. För att stoppa tvång/förtryck mot flickor måste man utgå från insikten om att förtrycket har sina rötter i den rådande samhällsstrukturen där män är överordnade och kvinnor underordnade. I grund och botten så handlar det hela om att få ett slut på mäns överordning i samhället.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f0e2910913c33ee683d5d50b247901fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan idag finns detta med i rekryteringsförfarandet, då man måste kunna kommunicera med brukarna",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cff6f2dc00049b97203deebd87880703",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna skall ta ett solidariskt ansvar för de flyktingar som kommer. Antalet beror hur såklart på rådande läge.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8f1a692b46c6b35ba8da032e6e1a7f91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förkortad arbetstid med bibehållen lön ger oss, utöver arbetstillfällen för fler att dela på, det som pengar inte kan ge - Tid att umgås, tid att återhämtas och tid till annat viktigt i livet.\r\n8 timmars arbetsdag är en 150 år gammal idé. En idé som grundade sig i att när samhället blev mer produktivt så skulle vi arbeta mindre — inte producera mer!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "386f4620ae255118b24a2407a74c8533",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta initiativ till att det kommunala bostadsbolaget får förutsättningar att bygga ett ökat antal hyresrätter utan föregående försäljning av befintligt bestånd.\r\nDet ska finnas tillgång till lägenheter med rimliga hyror i kommunens alla delar, även i så kallade ”attraktiva lägen”.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2bcf70e23f0aac24651c2cd2ab0211e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kraftig utbyggnad av laddinfrastruktur i kommunal regi är ett måste och utvecklingen av fler elektrifierade bilpooler bör även stödjas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ff356908931c88fc0049b13d5a8a63b5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "20cb44c57c4517c8fccc452075e2de5f",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser inte ett direkt behov av privata skolor, men om sådana ska finnas ska våra gemensamma skattemedel, som de finansieras genom, INTE kunna plockas ut som vinster till privata bolag, utan återinvesteras i skolan ifråga, för att komma eleverna till del.\r\n",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "0730a0eceea47fc1d4e357c0a619ef61",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en avgörande del av demokratins förmåga att utvecklas. Kultur skall vara tillgänglig för alla och inte vara beroende av människors ekonomi.\r\nKulturskolan t.ex ska vara avgiftsfri, för alla barn och ungdomar att ta del av.\r\nNynäshamns kommun har en väldigt snål budget för kultur, vilket vi vill ändra på. Vi har lagt en kulturbudget som åtminstone kommer upp i nivå med rikssnittet.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "d8a410d8c4f3c72a27ef7c92dc684efe",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet ser det som nödvändigt med en något förhöjd skattesats, minskade politikerarvoden och sänkta konsultkostnader. Detta för att kunna täcka upp för resursbrister och kunna bedriva verksamheterna på en kvalitativ hög nivå.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b6b8f6d50f25aeaf1d12b818df7507a3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1895",
+          "1899",
+          "1903"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D!;D!;A;A;A;D!;D!;D;A;0/5;4/5!;3/5;[1895,1899,1903]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kort svar - Nej. Vi har dock gjort upp ett fåtal sakfrågor med högerpartier under mandatperioden som gått, där vi haft samsyn och gynnats av det, men så har partiet gjort även på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst vill vi såklart ha egen majoritet. I brist på detta vill vi se oss, Vänsterpartiet, i styre tillsammans med S och MP i första hand, dvs. partier som står oss närmast ideologiskt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Högerpartier överlag. SD i synnerhet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utlys klimatnödläge",
+        "description": "Andra försöket, förra gången röstades vi ned. \r\nAllt fler länder, städer och kommuner världen över deklarerar klimatnödläge och det är hög tid för Nynäshamns kommun att göra detsamma. En informationskampanj i samband med utlysningen ska upplysa medborgarna om vad som görs från kommunens håll och vad de kan göra själva. Naturligtvis bör åtgärderna vara väl förankrade i den samlade klimatforskningen."
+      },
+      {
+        "category": "Förstärk och bevara skolan i kommunal regi, för en jämlik skola.",
+        "description": "Skolan, vars uppdrag delvis är att vara kompenserande och utjämna klyftor i samhället, har sedan införandet av fria skolvalet istället skapat större segregation och gjort skolan ojämlik. Det fria skolvalet och koncernskolornas aggressiva marknadsföring och \"glädjebetyg\" har lärt familjer och barn att göra skillnad på folk och folk, samt urholkat den kommunala skolans resurser."
+      },
+      {
+        "category": "Förstärk och bevara kommunala hemtjänsten i egen regi",
+        "description": "Vi har räddat kommunala hemtjänsten en gång redan, från alliansens försäljningsiver. Trots att 98 procent av brukarna av den kommunala hemtjänsten är nöjda, strävar alliansen efter att Nynäshamns äldre och sjuka ska läggas ut på marknaden. Genom nedskärningar och kostsamma, verkningslösa åtgärder får de verksamheten olönsam, att ha som argument för utförsäljning. Det kommer vi inte att acceptera!"
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är det parti som främst och mest arbetar för ett mer jämlikt och jämställt samhälle, som vill satsa stort på förebyggande åtgärder - skola, socialtjänst, minskade klassklyftor - för att stoppa gängkriminaliteten och rekryteringen dit. Vi står upp för arbetsrätten och vi har en väl utarbetad plan för hur vi ska skapa nya arbeten och samtidigt ta krafttag för klimatarbetet, mm, mm.",
+    "name": "Vänsterpartiet Nynäshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-nynashamn"
+  }
+]

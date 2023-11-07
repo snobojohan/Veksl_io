@@ -1,0 +1,1329 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "308",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Satsa på ökad belysning och fler kameror i offentliga miljöer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är oerhört viktigt med självförsörjning av livsmedel. Vi värnar om landsbygden och de företag som verkar där. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska visa handlingskraft och ledarskap i det lokala klimatarbetet för att göra det lättare att ställa om till ett hållbart samhälle. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta vårt ansvar för att fasa ut fossila bränslen och öka produktionen av förnybar energi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vissa kommunala bolag bör avvecklas såsom exempelvis kommunalt gym.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att rekrytera vård- och omsorgspersonal då det är för få som är utbildade. Vi är inte redo för en förkortad arbetstid i nuläget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktig för kommunikation och att undvika missförstånd. Viktigt med kvalitet i vård- och omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Likabehandling",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;D;A;B;B;D;D;A;D;D;B;2/5;2/5;2/5;[1040]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa. Vi är ett liberalt, borgerligt parti. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att samverka med Vänsterpartiet eller Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar framtid",
+        "description": "Mer förnybar energiproduktion till exempelvis en ny solcellspark på Lövstaviken. Undvika exploatering av god åkermark. Fasa ut alla fossila bränslen i kommunens verksamheter till 2030. Endast bruka återvunnen plast i kommunen."
+      },
+      {
+        "category": "En trygg och gohällig vardag",
+        "description": "Stödja Grannsamverkan som kraftfullt minskar brottsligheten, användbart i hela kommunen. Öka de förebyggande insatserna mot droger. Äldre ska erbjudas närlagad mat med en ökad andel närproducerade råvaror. Kraftsamla för psykisk hälsa i hela kommunen."
+      },
+      {
+        "category": "Ett rikt liv för kropp & själ",
+        "description": "Undersöka alternativ placering av ny simhall med 50 meters bassäng. Investera i en fotbollsplan för året runt bruk i norra delen av kommunen. Återinföra kulturpedagoger i skolorna för möjligheten att prova på exempelvis dans, musik och teater."
+      }
+    ],
+    "motivateVote": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. De allra flesta nya jobben skapas av företag. Att öppna möjligheten till fler anställningar i växande småföretag är också avgörande för att förbättra integrationen och ge flera av de långtidsarbetslösa ett arbete. Öka satsningen på friskvård och elevhälsa med särskilt fokus på ungas psykiska hälsa.",
+    "name": "Centerpartiet Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-falkenberg"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "309",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kd var drivande för att trygghetskameror kom upp vid stationen, och det har haft effekt, både vad det gäller att minska skadegörelse, hjälpa till att utreda brott, och skapa trygghet. Vi ser att fler platser skulle ha nytta av detta i kombination med andra trygghetssatsningar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver öka sin självförsörjningsgrad, samtidigt växer vår befolkning, och det behöver byggas. Kristdemokraterna vill i första hand bygga på ödetomter och redan hårdgjorda ytor, och förtäta varsamt. Men vi värnar samtidigt vår charmiga stadskärna, och det är inte rimligt att bygga höghus överallt när 7 av 10 vill bo i eget småhus.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska sätta solceller på sina egna nybyggnationer, men det är inte rimligt att kräva detta av andra, det skulle exempelvis vara förödande för någon som bygger i ett kulturhistoriskt område och vill anpassa byggnaden för det, eller som inte har ett bra solläge. Däremot har vi underlättat för alla som vill sätta solceller på taket och i Falkenberg kräver vi inget bygglov för detta.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Falkenberg har redan stor utbyggnad av vindkraft, och utöver detta mycket vattenkraft, vi tar vårt ansvar. Vi ska inte fördärva vårt hav med vindkraft. Däremot är KD positiva till att redan förstörda områden, som utmed motorvägen, som har lägre vindkraftverk idag kan prövas för att bygga effektivare högre verk istället. Då får vi ut mer effekt, utan att det byggs verk på nya platser.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD är stolta över FEAB, VIVAB, FABO m.fl. Viss verksamhet är grundläggande för samhällsservicen, och då måste vi som kommun kunna garantera att detta fungerar. Bolagen stöttas heller inte upp av skattemedel, utan bidrar istället till den kommunala servicen genom utdelningar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "6 timmars arbetsdag ger inte undersköterskan en bättre pension efter ett långt arbetsliv. Det är lönen som måste upp, och som arbetsgivare måste kommunen se till att fler vill och kan arbeta heltid och se detta som naturligt. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturligtvis ska man kunna kommunicera på svenska, men det behövs inget språktest för detta, utan uppmärksammas på intervjun. Däremot vill KD att fler arbetsuppgifter ska lyftas bort från undersköterskan som ska ha det vårdnära. Städ och tvätt är med fördel uppgifter som kan lösas av andra och ger då även fler möjligheter att komma in på arbetsmarknaden, och därmed förbättra sin svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra mottagande och fungerande integration bygger på att vi tar ett gemensamt ansvar. Friskolor bör ha en viss kvot där man kan göra undantag från kön, något många friskolor också efterfrågar. Detta ger ge friskolor större möjligheter att ta emot elever som har bott i Sverige så kort tid att de inte haft möjlighet att stå i kö. Men det ska bygga på frivillighet, inte tvång.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Syftet med att ha ett allmännyttigt bostadsbolag är att säkra tillgängliga hyreslägenheter på marknaden, men detta ska inte byggas med subventioner eller skattepengar, utan genom förenklade byggprocesser, något alla bostadsbolag efterfrågar. Dagens regelverk gör att det enbart är möjligt att erbjuda billig hyra genom eftersatt underhåll, det är inte rimligt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla människor är unika. Valfrihet inom omsorgen är ett av de sätt där vi säkerställer att det finns alternativ även för våra äldre, som är stora nog att bestämma själva. I Falkenberg har vi sett att detta blandade utbud också ger en kvalitetsdrivande konkurrens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslår i förhållande till regeringen en rejäl höjning av stödet för utbyggd laddinfrastruktur. Pengar för laddstolpar görs tillgängliga utifrån statliga stöd. KD Falkenberg driver på genom att planlägga områden lämpliga för detta och genom det kommunala bolaget FEAB som sätter upp stolpar på kommunala P-platser. Men det kan och ska inte vara ett kommunalt ansvar att säkra tillgången.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Falkenberg tog stort ansvar i flyktingfrågan 2015 och arbetar långsiktigt med att skapa de bästa förutsättningarna för denna grupp att komma ut på arbetsmarknaden, på grund av detta är det rimligt att Falkenberg får en lägre kvot nu, just så att integrationen och skolgången ska kunna säkras på bästa sätt, här finns det andra kommuner som kan kliva fram och ta sitt ansvar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": "Det behövs en bra blandning och ett attraktivt utbud för eleverna, men kommunen har i slutändan ansvar för att det finns skolplatser för alla elever, och då är det inte bra med en överetablering som kan göra att någon skola inte får tillräckligt med underlag, och med kort varsel försvinner, något som skapar oro och osäkerhet för elever som tvingas byta skola med kort varsel.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": "Falkenberg kan vara stolt över det rika kulturutbud vi har i kommunen, med ett Designmuseum som kvalificerar sig för statlig finansiering, och ett starkt föreningsliv som bidrar till ett stort utbud. Det Kristdemokraterna vill är att säkra att det finns mer pengar till föreningslivet, och då framför allt de som arbetar med vårt kulturarv.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten har stor påverkan på privatekonomin, allra mest för dem som har låga löner, och för småföretagare. Falkenberg skatt ligger i mitten bland Hallands kommuner, och även om vi har stora utmaningar framför oss måste vi kunna hålla igen på sådant som inte är kommunens ansvar och istället låta skattebetalarna behålla mer själva.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": "Detta är de tre områden där det finns mer att göra i Falkenberg, på övriga har vi levererat under de senaste mandatperioderna. Cykelvägnätet är väl utbyggt och mer är på g, vi har satsat stort på elevhälsan med fler kuratorer etc, och vi arbetar intensivt med näringslivet. Nu behöver vi kraftsamla kring skolresultaten, det är den bästa investering vi kan göra. ",
+        "value": [
+          "1037",
+          "1039",
+          "1033"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;B;A;D!;A;A;C!;C;B;D!;C;D;2/5;3/5;1/5;[1037,1039,1033]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är trygga i vår ideologi och kan söka samarbeten med de som vill driva igenom samma politiska sakfrågor som vi i Falkenberg. Samarbetet med Framtid Falkenberg har fungerat väl och levererat mycket till invånarna, det är vi stolta över. Vi är även öppna för samarbete med Moderaterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet pga de ideologiska skillnaderna\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad bemanning i äldreomsorgen",
+        "description": "KD vill öka grundbemmaningen på våra äldreboenden. På så sett minskar stressen, det finns mer tid för aktiviteter för de äldre och om någon blir sjuk finns det personal i huset som kan täcka upp, så att de äldre känner personalen och inte ständigt möter vikarier. All personal ska klara språkkrav och lämna utdrag ur belastningsregistret."
+      },
+      {
+        "category": "Ingen mera mobbing",
+        "description": "Vi vill öka tryggheten i skolan med fler vuxna, både på rasterna och i matsalen. Vi vill ta fram ett anti-mobbingprogram med beprövade metoder så att fler ser fram emot att gå till skolan och inte känner en klump i magen."
+      },
+      {
+        "category": "Öka tryggheten",
+        "description": "Vi vill öka tryggheten i stad och landsbygd, med bättre belysning, kameraövervakning där det behövs och bygga bort otrygga platser och buskage. Det ska vara självklart att våga gå och cykla till skola och jobb."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna tar ett långsiktigt ansvar för att Falkenberg ska bli en trygg plats att växa upp. Vi vet att kommunens tillväxt bygger på en trygg uppväxt, där familjer ska stödjas, inte styras. Detta gör vi genom att erbjuda valfrihet inom kommunens olika ansvarsområden, och prioritera kärnverksamheten framför glassiga statusprojekt. Det bästa samhället bygger vi gemensamt, utan onödiga regler",
+    "name": "Kristdemokraterna Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-falkenberg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "310",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler platser än idag, men vi vill inte ha ett övervakningssamhälle.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut vid nybyggnation av kommunala bostäder samt övriga kommunala byggnader.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna ska ha stort inflytande över planering och etablering av vindkraftsparker. Även kunna stoppa ev. etablering. Som det ser ut nu behövs mer vindkraft men den kommer ofta i konflikt med andra intressen. Vindkraftetablering får inte ske på bekostnad av djurliv, fiskerinäring etc.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en facklig fråga, det bestämmer vi inte lokalt i Falkenberg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finansieras via det kommunala bostadsbolaget.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "•\tLiberalerna vill bygga ut laddningsinfrastrukturen kraftigt i hela kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1037",
+          "1033",
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;C;C;C;B;C;C;A;C;D;B;2/5;3/5;2/5;[1037,1033,1040]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det blir svårt att föra en socialiberal politik i samarbete med M, Kd och SD, om vi inte blir betydligt starkare än dagens opinionsundersökningar. \r\nPolisinsatser behövs mot grovt kriminella, men vi tror mer på förebyggande arbete i utsatta områden än högerblockets ensidiga satsning på fler poliser.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val på vår politik. Efter valet förhandlar vi precis som 2018. Samarbetet har fungerat bra under denna mandatperioden. Det vi lovade väljarna har vi kunnat genomföra. Vi har tidigare samarbetat med Allianspartierna. För Falkenbergarnas bästa kommer vi att förhandla för ett gott samarbetsklimat, för möjligheten att genomföra våra vallöften. Liberalerna vill vara med och ta ansvar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": " Vi har väldigt lite gemensamt med Sverigedemokraterna, och de gillar inte oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler i arbete",
+        "description": "Falkenberg har ett gott företagsklimat. Ett väl fungerande näringsliv är förutsättningen för fler i arbete. Det ska finnas mark runt om i hela kommunen där intresserade företag snabbt ska kunna etablera sig. Kurser inom Komvux, högskolekurser och företagsförlagd utbildning bör samordnas för näringslivets behov. Många nyanlända behöver språkträning, det kan ske kombinerat med praktik."
+      }
+    ],
+    "motivateVote": "Utifrån våra socialliberala idéer satsar vi på välfärd för alla. Hela kommunen skall ha god miljö, tryggt boende och service. Skolan skall ha resurser så att varje barn kan få hjälp på sin nivå. För de som befinner sig mitt i livet skall det finnas förutsättningar för arbete, företagande och studier. Äldre skall fortfarande bestämma om hur man vill ha sitt liv. Rasism och intolerans skall bekämpas",
+    "name": "Liberalerna Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-falkenberg"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "311",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är frågan om personlig integritet mycket viktig och varje kamera på allmän plats en inskränkning på den personliga integriteten. Varje gång ett samhälle valt att låta upplevd säkerhet gå före personlig integritet har det varit de första stegen mot ett mer auktoritärt samhälle.\r\nDock har de sin plats på tex avskilda parkeringar och i parkeringshus",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige har en självförsörjningsgrad på mindre än 35% och pandemin visade tydligt att i händelse av kris kan vi inte räkna med att importera det vi behöver. Varje land kommer se till sina egna behov först.\r\nDärför måste varje kvadratmeter kvarvarande jordbruksmark skyddas",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Solceller skall sitta på tak, inte i solcellspaneler. Skall vi bli av med beroendet av icke-förnyelsebar energi måste vi ställa om till förnyelsebara energi källor så snabbt som möjligt. Skall vi bli av med fossil el snabbt nog för att klara 2 grads målet måste all fossilenergi ersatts inom två till tre år. Alltså måste vi göra allt vi kan för att styra utvecklingen åt rätt håll",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samma motivering som på fråga tre. Att i det här läget motverka etablering av förnyelsebar energi är ren idioti",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Forskningen visar tydligt att skall vi säkra tillgång till framför allt billiga hyresrätter och grön el behöver de tillhandahållas av det allmänna",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagens samhälle finns en stor del av befolkningen som inte har jobb samtidigt som de som jobbar stressar ihjäl sig. Forskningen på området visar tydligt att ju bättre balans mellan jobb och fritid ger bättre mående, lägre sjukskrivningstal och högre effektivitet. Att inte förkorta arbetsveckan, inte bara för hemtjänsten utan för hela samhället, är att be om ökad psykisk ohälsa och sämre resultat",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi bortser från det inhumana i förslaget så behöver vi alla händer i kan hitta i äldreomsorg, förskola och skola. Den demografiförskjutning som varnats för i flera decennier är tillslut här och alla aktörer har stora provåblem att hitta personal. Att i det läget avskriva kompetenta vårdgivare pga av bristande språkkunskaper är att be om problem",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Friskolor skall inte ha en gräddfil utan avkrävas samma ansvar och ha samma skyldigheter som kommunala skolor. Åtminstone så länge de är skattefinansierade",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Billiga hyresrätter är en förutsättning för att säkra bostäder till socioekonomiskt svaga grupper, ungdomar och fattigpensionärer och i nuläget är det endast det allmänna som tillhandahåller dem. Privata hyresvärdar är inte intresserade",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om de uppfyller alla lagkrav och inte plockar ut skattepengar ur verksamheten är de ett välkommet alternativ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Sociotekniskasystem (el, vatten, kollektivtrafik, tåg m.m.) har till dags dato alltid blivit billigare och effektivare i allmän regi än i privat. Därför bör det allmänna satsa på infrastruktur som leder till en snabbare omställning från fossila bränslen",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. Dels är flyktingar en tillgång. En klar majoritet vill inget hellre än att komma i arbete och ge tillbaka till det samhälle som tagit emot dem och vi har ett stort behov av ny personal inom många sektorer.\r\nMen främst: En flyr inte för att det är en rolig grej utan för att alternativet är död och/eller förföljelse och som 1930-40 totalen visade måste rätten till asyl vara okränkbar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": "Privata alternativ kan vara ett positivt inslag i skolan, men då skall de drivas i annan form än företag. Ett företags främsta uppgift är att generera  vinst till ägarna och då de ända inkomsterna i skolan är skattepengar skall de aldrig betalas ut som vinst till ägarna utan alltid återinvesteras i verksamheten. Därför behöver företagsdrivna friskolor kraftigt minska, kanske tillochmed försvinna h",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en investering i medborgarnas välmående och hälsa, alltså en investering för kommunen snarare än en kostnad. Att göra kultur självfinansierad är att utestänga stora delar av samhället från kulturupplevelser. Dessutom de delar där effekterna på hälsa oc välmående är som störst",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": "Det finns i nuläget inget behov av att höja skatten",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1036",
+          "1039",
+          "1033"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D!;D!;A!;A;C;A;D!;D;C;D!;A!;0/5;4/5;2/5;[1036,1039,1033]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Miljöpartiet är öppen för samarbete med nästan alla partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förnyelsebar energi",
+        "description": "Installera solceller på alla kommunala byggnader där det är möjligt, med start ishallen. \r\nKrav på solceller vid all detaljplaneläggning samt bygglov.\r\nFörenkla bygglovsregler för solceller på befintliga byggnader.\r\nInvestera i vätgasanläggningar.\r\nUnderlätta utbyggnad av havsbaserad vindkraft utanför Falkenbergs kust."
+      },
+      {
+        "category": "Hållbar matproduktion",
+        "description": "Bevara jordbruksmark till odling vid detaljplaneläggning.\r\nStödja och aktivt arbeta för att kommunens lantbrukare ska kunna ställa om och få utbildning i ekobruk.\r\nÖka andelen kravmärkt och närodlad mat till kommunens verksamheter \r\nGynna småbrukare framför koncerner i kommunens upphandlingar.\r\nSäkra kompetensförsörjningen genom att satsa  på det lokala Restaurang- och livsmedelsprogrammet."
+      },
+      {
+        "category": "Hållbar transport och kommunikation",
+        "description": "Anlägga nya cykelbanor till Vessigebro, Slöinge och Långås.\r\nSatsning på cykelvägar och cykelöverfarter vid om/nybyggnation av vägar.\r\nAnlägga offentliga tryckluftspumpar för cyklar på fler platser.\r\nUtveckla stationsområdet med handel och möjlighet till säker cykelförvaring.\r\nInstallera fler laddningsstolpar för elbilar."
+      }
+    ],
+    "motivateVote": "För att vi är det enda riktiga Miljöpartiet där solidaritet och respekt för allt levande på jorden finns i vårat DNA. i Falkenberg verka för en landsbygd där bönder lättare ska kunna ställa om till ekologiskt jordbruk och där människor som lever och verkar ska kunna ha tillgång till samhällsservice och goda kommunikationer. Vi vill aktivt värna jordbruksmark samt arbeta för att vara föregångare in",
+    "name": "Miljöpartiet Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-falkenberg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "312",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att Falkenbergarna ska känna sig trygga",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver åkermarken för livsmedelsproduktion",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1039",
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;C;A;C;A;C;D;C;D;C;C;3/5;2/5;2/5;[1039,1040]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "M, C, KD, L",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V och S",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": " Utbilda elever i lagar om kränkningar och hot på Internet",
+        "description": "Genom att utbilda våra barn och ungdomar vad som händer om man sprider hat och hot via sociala medier kan vi undvika att många barn mår dåligt under sin skoltid"
+      },
+      {
+        "category": "Vi vill se en statlig myndighet i Falkenberg",
+        "description": "Det finns idag 458 statliga myndigheter men ingen av dessa finns i Falkenberg. Detta vill vi ändra på."
+      },
+      {
+        "category": "En strategisk användning av åkermark",
+        "description": "Vi ska fortsätta att värna om våra brukbara åkermarker och underlätta bebyggelse på landsbygden genom att tillåta bebyggelse på mark som ingen kan/vill bruka."
+      }
+    ],
+    "motivateVote": "Vi lovar Falkenbergarna att arbeta för en utveckling av kommunen som är präglad av välkomnande, trygghet och hållbarhet.",
+    "name": "Moderaterna Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-falkenberg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "313",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs på flera platser i staden. Löser problemet med skadegörelse och gör områden tryggare för vanligt hederligt folk. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Falkenberg är omgärdat av åkermark. Vi måste välja noga vilka områden som bebyggd men all åkermark går inte rädda om vi vill att staden och kommunen ska utvecklas. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi säger nej till nya områden för vindkraft eftersom vi redan tar störst ansvar i Västsverige och det inte finns några bra områden kvar för de nya superhöga 240 meters verken. Vill någon byta ut befintliga verk mot större är vi öppna för att titta på det. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga sådana. De kommunala bolag som finns har strategiskt värde för bostäder, energi, vatten och besöksnäringen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag men det ska inte beslutas av kommunen utan i förhandlingar med facken så som vi har gjort i Sverige väldigt länge. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om behovet finns är vi öppna för det. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolorna har 20 procent av grundskolan i kommunen. Då bör de också ta ca 20 procent av de nyanlända eleverna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med fler lägenheter för vanligt folk. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla företags syfte är att skapa vinst. Det regleras i lagen. Vi tycker det är viktigare att alla pengar används än att de går till stora omsorgsbolag som ägs av personer som redan har en väldigt god ekonomi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver prioritera skolan och omsorgen. Detta kan företag lösa. Bilägaren ska betala för sin el. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Falkenberg har tagit emot många historiskt och vi behöver jobba med integrationen av dem i första hand. De behöver komma in i samhället med jobb, föreningsliv och bostad där de möter svenskar. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": "Friskolorna har lägre andel behöriga lärare och utarmar den kommunala skolan som alltid har grundansvaret att ge utbildning till de som är kvar. Kommunen behöver en mer likvärdig skola där lärarna får chansen att lyckas med alla klasser där barn från olika områden möts. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": "Skolan och omsorgen är alltid viktigast för oss. Vi vill stärka de områdena",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": "Med den stora befolkningstillväxten så klarar vi detta med samma skatt. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1037",
+          "1033",
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;_;D;A;C;C;D!;C;A!;B;C;1/5!;1/5;2/5;[1037,1033,1040]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi håller isär riks och kommunpolitik. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En majoritet som leds av S. Sannolikt ett samarbete även med borgerliga partier. Vi har ett bra samarbete med L och KD idag.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skapa Campus Falkenberg",
+        "description": "Vi vill att kommunens nuvarande vuxenutbildning utvecklas med yrekshögskole och högskoleprogram som ges lokalt i Falkenberg."
+      },
+      {
+        "category": "Inga nya områden för vindkraft",
+        "description": "Kommunen producerar mest vindkraft i Halland. Vi vill sätta ett stopp för att etablera nya områden för vindkraft nästa mandatperiod. Bördan från Vindkraften måste fördelas mer rättvist innan mer kan byggas i Falkenberg."
+      },
+      {
+        "category": "En bra skola för alla barn.",
+        "description": "2021 var skolresultaten de högsta någonsin. Det räcker dock inte. Det finns fortfarande för stora skillnader mellan skolorna som inte har tillräckligt bra resultat. Resurserna måste fördelas till de barn som behöver det mest. Vi vill också fortsätta att ha kvar landsbygdsskolorna för de minsta barnen och ha riktigt bra högstadieskolor. Vi står för en helhetspolitik där alla barn får chansen."
+      }
+    ],
+    "motivateVote": "Vi vill fortsätta den framgångsresa som vi har startat med Framtid Falkenberg. Kommunens befolkning växer tex som aldrig förr, företagen satsar, skolan har de bästa resultaten någonsin och det planeras bostäder i nästan varenda ort. Vi vill ta hela kommunen till en högre nivå för alla invånare. Hela kommunen ska utvecklas och alla invånare ska få del av det växande välståndet.",
+    "name": "Socialdemokraterna Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-falkenberg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "314",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vi förhindra brott med t ex övervakningskameror finns det ingen tvekan att ha det på offentliga platser. Man ska kunna känna sig trygg i vår kommun och kan vi då förebygga brott så är det vår skylighet som kommun att göra det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut ska det skyddas, dels med tanke på hur världsläget ser ut. Vi vill ha ett levande land - från landsbyggd till stad. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ström, så absolut bör vi ha med det i planering av nya fastigheter och vid större renoveringar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut! Vi har redan förstört b la stora naturområden i vår kommun med vindkraftsparker. Glädjande är nu att vi äntligen har stoppat produktionen av fler vindkraftverk i kommunen!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väldigt bra, vi sverigedemokrater Falkenberg satsar 1 mkr extra per planår på studiehjälp, till kommunanställda som är i behov av att bli bättre på svenska språket.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårare än vad man tror att bygga billigt men vi vill såklart att det finns en chans för alla att kunna få hyra sig en lägenhet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ju en problematik som man måste ta krafttag om, för givetvis ska man kunna få ha tillåtelse att driva privat MEN ekonomiskt får det inte drabba de boende, de behövande samt de anställda. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stora kostnader, allt handlar ju om vad kommunen får i statliga bidrag ?Lönsamheten? Med tanke på vad för el priser vi har, vem ska betala vad, ska kommunen stå för allt? ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": "Svårt att sätta ett värde på. Det bästa hade varit att förstatligat skolan helt, så hela Sveriges skolor är enhetliga. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": "21.10 per skattekrona alltså samma som idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": "Alla förslag är viktiga.",
+        "value": [
+          "1039",
+          "1038",
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;C;D;A;B;D;D;C;C;B;D;1/5;2/5;2/5;[1039,1038,1040]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ta tag i den ansvarslösa migrationspolitiken i kommunen",
+        "description": "Den ansvarslösa migrationspolitiken i kommunen har fått allvarliga konsekvenser, som har gjort att kommunen har tappat kontrollen inom trygghet, utanförskap, tillit och förtroendet för medborgarna i kommunen. Vi vill att man ska integreras in i kommunen, vi vill skärpa de kommunala försörjningskraven. Vi kräver att man ska kunna tala svenska."
+      },
+      {
+        "category": "Att åtgärda otrygghetsproblematiken i kommunen",
+        "description": "Vi vill att barn, ungdomar och vuxna ska kunna känna sig trygga i sin skola, arbete, i vardagen m.m. \r\nVi ser hur stökigt och otryggt det är i flertal skolor i kommunen.\r\nAlla ska lyckas i skolan då behövs mer resurser.\r\nALLA skall känna sig trygga i vår kommun, vi vill att det satsas mer på trygghetsskapande åtgärder bl a se utökad kameraövervakning, ordningsvakter +andra åtgärder som behövs."
+      },
+      {
+        "category": "Socioekonomisk trygghet med en levande landsbygd,aktivt näringsliv- föreningsliv",
+        "description": "Vi vill vara med och utveckla hela kommunen MEN med ekonomiskt ansvar, inga vansinnesprojekt, vi har inte råd med det i längden. Vi ska inte leva på lånade eller för mycket statliga bidrag. Skola,trygghet,lag&ordning,arbetslinjen,närings/föreningsliv är en grundläggande förutsättning för en hållbar socioekonomisk balans i vår kommun från landsbygd till stad för allas bästa."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-falkenberg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "315",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "8297316af7f0ca4970c46653d84aa9dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Övervakningskameror är, ofta nog, en sista desperat åtgärd som tas till för att visa \"handlingskraft\". Det kan vara bra i vissa lägen - men blir oftast en ursäkt för att inte arbeta förebyggande och satsa de resurser som behövs i skolan, kulturen, socialtjänsten med mera.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "046f88da7ee2d25ba4b07c867a1dbaeb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt land är mycket sårbart om vi inte kan vara självförsörjande på livsmedel och alltför mycket åkermark har redan tagits i anspråk. Vi arbetar gärna hårdare för detta i framtiden, tillsammans med andra partier och organisationer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "753eaddbaaa422259cc2b14ba55410d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver bli självförsörjande på el i vårt land. Men vi löser inte detta lokalt i kommunerna hela vägen då elmarknaden ser ut som den gör. Fler kommunala satsningar är bara en del av ett större arbete på nationell nivå.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bb930557ceb933b34c22b431e5aec75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska vi bygga ut den förnyelsebara energiförsörjningen! Därmed inte sagt att det inte kan finnas områden som är olämpliga för vindkraft, av olika skäl.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5447990204e04f445e13aaf7ebeb60a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Energibolag, bostadsbolag och annat är en del av kommunens uppdrag att ge service till invånarna till rimliga priser. Skolor, äldreomsorg, handikappomsorg och liknande ska vara i kommunal regi därför att skattepengarna ska användas för just dessa ändamål. Och det ger oss bättre förutsättningar att, som kommun, vara en bättre arbetsgivare.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "739785b433eeb771b1ddacb559af2b75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är något som vi arbetat för i många år och har motionerat om till kommunfullmäktige att införa på prov på en av kommunens arbetsplatser. Bättre arbetstider och arbetsförhållanden gör det lättare att behålla personal och hitta ny personal för framtiden. Personal som trivs och inte är utarbetad ger en bättre omsorg och vård till dem som verksamheten är till för - våra äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29664923419d9e5cc360de8f869e40d5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på hur sådana test är utformade. Att som nysvensk få ett arbete och kunna gå med andra till att börja med är förmodligen det bästa sättet att lära sig det svenska språket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "938a3fff38016df85172c0b83e432f48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart! Privatskolor ska inte ha frikort för att slippa vissa kategorier av elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9d3007f512ce43e8f5a7602fd862c91",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler billiga hyreslägenheter. Det är, bland annat, en förutsättning för att många ungdomar ska få möjlighet att flytta hemifrån. Det är detta som vi ska ha FABO till.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d5923f30f16eaa7b621a20d6ca54d8d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna personalkooperativ och icke-vinstdrivande stiftelser och andra alternativ. Men välfärdssamhällets åtaganden för medborgarna ska inte vara utsatt för rovdrift, där skattepengar hamnar i privata fickor och skatteparadis.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c84ff26d0ad430c016e1cccf19d1a53d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen går före när det gäller allt miljöarbete och att laddstolpar finns även utanför huvudorten. Vem som ska äga dessa laddstolpar är en annan fråga. Vi har redan föreslagit i en motion till fullmäktige att FABO ska installera laddstolpar som service för sina hyresgäster.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "13b464501288cf6949c193794fa8c43a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rika länder har ett ansvar att ta emot och hjälpa människor på flykt undan krig och andra katastrofer. Men det behövs en jämnare fördelning av flyktingmottagande i vårt land - och en mycket bättre statlig styrning och samordning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7ec6c6f153d9a855220bcc047f1f2d4",
+        "questionType": "RANGE",
+        "reasoning": "Vi har skolplikt i Sverige. Skolan är en förutsättning för allas våran framtid. Det är \"det allmännas\" plikt att tillhandahålla en god skola och utbildning, som bygger på allas lika värde. En jämlik och jämställd skola. Skattepengar som är avsatta till detta ska naturligtvis stanna i verksamheten. Alla skolor ska vara lika bra.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "cc0a8abea11627e4d2bd9c7aac7e50bf",
+        "questionType": "RANGE",
+        "reasoning": "Kuluren är viktig för oss, vår identitet och även för kommunens attraktionskraft. Kultur är viktigt för människors hälsa och välmående - både det egna skapandet och möjligheten att besöka utställningar, konserter etc. Kulturen är viktig för ett socialt hållbart samhälle, för vår identitet som samhällsvarelser och vår egen personliga utveckling.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3c69398596589db986b0437682bf88d5",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser ingen anledning till förändrad skattesats i nuläget. Däremot måste en förändring till vad gäller den statliga inkomstskatten! Vi behöver mer resurser till skolan, vården, äldreomsorgen, offentliga kommunikationer, bostadsbyggande, omställningen till ett grönare samhälle. Vårt land har blivit ett skatteparadis för höginkomsttagare. Detta måste vi ändra på! Skatt efter bärkraft. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c6f0479ab4725f37fe03e7be4e23ce9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1037",
+          "1033",
+          "1040"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D;C;A;A;D!;C;D;D;A;D;B;0/5;3/5;2/5;[1037,1033,1040]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Självklart vill vi ha en egen majoritet! Annars ser vi helst ett röd/grönt styre där vi medverkar. Vi kan också, inom ramen för en sådan majoritet, tänka oss att samarbeta med andra partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer personal till äldreomsorgen.",
+        "description": "Kommunen behöver anställa fler människor som arbetar inom äldreomsorgen, både för särskilda boenden och hemtjänsten. Det handlar om att erbjuda en rimlig arbetsmiljö, att kunna behålla anställd personal och rekrytera personal för framtida behov."
+      },
+      {
+        "category": "Mer resurser till skolan.",
+        "description": "Mer lärare i skolan, vi ser gärna ett fortsatt utbyggt två-lärarsystem. Speciallärarresurser för att öka jämlikheten i skolan. Elevhälsovården behöver byggas ut. Vi ser i vårt land en ökad psykisk ohälsa bland tonåringar och Folkhälsomyndigheten skriver att \"andelen tonåringar som uppger att de är stressade över skolarbetet till stor del sammanfallit med utvecklingen av psykosomatiska besvär\"."
+      },
+      {
+        "category": "Bygg fler hyresrätter.",
+        "description": "Falkenbergs kommun växer fort och under senare år har det byggts en hel del bostäder. Men antalet nyproducerade hyresrätter är alldeles för lågt i förhållande till efterfrågan. Ungdomar som vill flytta hemifrån och skapa ett eget första boende får köa i många år för att få en lägenhet med överkomlig hyreskostnad."
+      }
+    ],
+    "motivateVote": "Vi arbetar för ett jämlikt och jämställt Falkenberg. Mer resurser till förskola och skola - skolorna på landsbygden ska vara kvar. Mer personal och bättre arbetsförhållanden inom äldreomsorg och hemtjänst. Handikappomsorgen ska vara kvar inom kommunal regi. Vi vill att bussresor inom kommunen ska vara avgiftsfria för barn och ungdomar upp till 20 år. Kulturskolan ska fortsatt vara avgiftsfri.",
+    "name": "Vänsterpartiet Falkenberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-falkenberg"
+  }
+]

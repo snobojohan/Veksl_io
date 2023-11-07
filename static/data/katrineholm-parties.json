@@ -1,0 +1,1298 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "772",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Huset på torget, eller guldhuset, är felplacerat. Ett torg är en plats för möten och människor. Det är aktiviteter som ger torget liv. Centerpartiet har inga synpunkter på huset i sig, det kan byggas på någon annan plats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att den som får försörjningsstöd tar del av aktiviteter för att hitta en egen försörjning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ungdomar i Valla behöver ha mötesplatser. Allt behöver inte finnas i Katrineholm. Fritidsgården kan drivas i annan regi än kommunens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att vi är rädda om vattnet och gör vad vi kan för att inte försämra kvaliteten. Läkemedel som hotar djur- och växtlivet måste tas bort i reningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsförhållandena inom äldreomsorgen måste förbättras för att locka till yrket och för att behålla personalen. Det finns andra sätt att göra detta än att införa sex timmars arbetsdag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla anställda, inte enbart nyanställda, kan göra sig förstådda med dem som de ska hjälpa och att de som inte klarar språktestet får möjlighet att bli bättre på svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte vara byggherre eller agera direkt på bostadsmarknaden. Katrineholm har många fastighetsägare och hyresvärdar som tillsammans kan skapa ett brett utbud av lägenheter i olika storlekar och prisklasser.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler laddstolpar när det blir fler elbilar. Kommunen kan stötta initiativ som ger fler stolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Katrineholm är en del av Sverige och ska ta emot människor som behöver en fristad. Det viktiga är att mottagandet görs på ett bra sätt så att alla kommer in i samhället, hittar bostad och en egen försörjning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet är ett liberalt parti som tror på frivillighet. Den som vill kan redan idag äta vegetariskt varje dag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har aldrig folkomröstats i Katrineholms kommun. Folkomröstning skulle kunna vara en väg att lösa frågor som uppkommit mellan valen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Alla skolor ska vara bra, såväl de kommunala som friskolorna. Centerpartiet tycker att det är bra att det finns alternativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "Varje skattekrona ska läggas där den gör mest nytta. Centerpartiet har inte några ambitioner att varken höja eller sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1451",
+          "1449",
+          "1450"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;D;D;B;C;A;D;A;A;C;2/5;2/5;2/5;[1451,1449,1450]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det ska vara ett styre med mer inflytande från Centerpartiet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värna vårt vatten",
+        "description": "Tillgången på rent vatten är inte oändlig, även om vi är lyckligt lottade i Katrineholm. Vi måste värna vårt fina kranvatten genom att minimera slöseri med ny teknik, vattenmätning på hushållsnivå, styrning av bevattning och information. Kommunen ska uppmuntra fastighetsägare att anlägga regnrabatter. Reningsverket Rosenholm ska rustas för att ta hand om läkemedelsrester."
+      },
+      {
+        "category": "Odla själv",
+        "description": "Satsa på trädgårdsodling, i staden, vid skolor och kolonilotter. Vi måste odla mer för att bli mer självförsörjande med mat. Det är också viktigt att se sambanden och veta var maten kommer ifrån. Starta samarbete med Julita gård för att göra anläggningen till en modern kunskapsbank som visar sambanden hela vägen från jord till bord. Ökade kunskaper behövs i alla åldrar."
+      },
+      {
+        "category": "För hela Katrineholms bästa",
+        "description": "Det ska vara lätt att känna sig som hemma i Katrineholm, oavsett din bakgrund. Därför ska alla nämnder och kommunala bolag ha ett integrationsperspektiv i sin verksamhet. Samverkan mellan socialtjänsten, Viadidakt och civilsamhället behöver utvecklas och vara individuellt. Det behövs fler familjecentraler för att slussa in fler i samhällets gemenskap och bygga trygghet för hela Katrineholms bästa."
+      }
+    ],
+    "motivateVote": "Centerpartiet vill ge kraft åt varje människa. Grunden i vår politik är alla människors frihet och lika värde. Katrineholm behöver en grön och trygg vardag genom hela livet för alla. Människor runt om i hela Katrineholm kan tillsammans få kommunen att växa. Vi har företagsamma kandidater som vill förbättra samhället genom att lägga förslag till hela Katrineholms bästa. ",
+    "name": "Centerpartiet Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-katrineholm"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "773",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att Stortorget behöver vara en öppen yta där invånarna kan träffas och där vi kan ha stora gemensamma aktiviteter. Vi anser att kommunens invånare på nytt ska få komma med sina förslag på hur torget ska utformas, tex en scen, en lägre byggnad med ett trevligt café. Guldhuset skulle kunna uppföras där Shell-macken är placerad idag, där skulle huset bli ett bra landmärke för Katrineholm.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inrätta en Arbetsmarknadsnämnd som utefter Borås-modellen ska arbeta metodiskt med att hjälpa invånare till självförsörjning. Det är en rimlig hållning att personer med försörjningsstöd aktivt ska delta i detta för att fortsatt få behålla sitt stöd.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att det ska vara bra att bo i hela Katrineholms kommun. Ungdomar behöver ha fritidsaktiviteter och resurserna ska inte enbart läggas i centralorten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristdemokraterna anser att detta ska göras i samband med de investeringar som görs på Rosenholm.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan idag svårt att få tag på utbildad personal och vi vet inte hur 6-timmars arbetsdag skulle påverka rekryteringen. Vi anser att man först behöver få bort de delade turerna och göra andra personalbefrämjande åtgärder som tex kan vara att medarbetare över 60år får 6-timmars arbetsdag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kommunicera med sina boende inom omsorgen behöver man kunna tala och förstå det svenska språket. Att man kan tala tydligt är ju extra viktigt för äldre som kan ha en sämre hörsel och eller demens och därmed har svårt att uppfatta allt som sägs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att kommunen inte behöver driva på allt för hårt med byggnationer då det syns en mättnad på hyresmarknaden. Detta kan ju förändras och då kan det vara bra om vi har en plan för hur vi kommer igång snabbt med byggnationer igen. De lägenheter som då byggs ser vi gärna är av enklare standard så kommunen kan erbjuda låga hyror.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver finna lösningar på hur elbilsägare som bor i lägenheter ska få tillgång till laddstolpar, här är det bra om kommunen visar vägen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att Kommunen ska ta emot de flyktingar vi anvisas och göra det på ett välkomnande och bra sätt. Utöver det så kommer vi säkert att en hel del anhöriginvandring som vi också behöver kunna ta emot på ett förtjänstfullt sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är bra om det finns veganska alternativ vid skollunchen men att det skulle vara obligatoriskt köttfritt anser vi fel.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på att vi inte haft någon kommunal folkomröstning så kanske det någon gång skulle kunna var befogat. Tex om Guldhuset på torget?",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att det är viktigt med valfrihet som även kan sporra till utveckling i den kommunala verksamheten. Det viktigaste är att Katrineholm kan erbjuda bra skolor där eleverna också blir sedda och kan utvecklas till trygga personer.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen har alltid haft en central och viktig plats i Katrineholm, och så vill vi att det ska fortsätta att vara. Många föreningar och Kulturskolan arbetar föredömligt och vi vill att fler ska  kunna delta i dessa aktiviteter genom en riktad fritidspeng till barn och unga.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill gärna se en sänkt skatt men inte på bekostnad av kvalitet och utförande i kommunen. Vi ser att de stora överskotten lätt ses som en möjlighet till att göra kostsamma investeringar, pengarna ska i första hand gå till Skola, vård och omsorg.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1449",
+          "1450",
+          "1452"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;C;C;D;B;D!;C;A;D;2/5!;2/5;1/5;[1449,1450,1452]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kristdemokraterna vill styra tillsammans med Moderaterna och Liberalerna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barn och ungdomars kommun.",
+        "description": "Alla elever ska klara gymnasiebehörighet efter årskurs 9. Forskning visar på att små grupper i förskolan och skolan med hög personaltäthet är grundläggande för barn & ungas välmående, lärande och utveckling. Resurserna som tillsätts är för små för att bedriva en kvalitativ skola för kommunens elever.I Katrineholm har vi för stora barngrupper & klasser, vi behöver investera i mer personal."
+      },
+      {
+        "category": "Personalen - kommunens viktigaste resurs",
+        "description": "Inom skola, vård och omsorg behövs en kraftig satsning på bättre arbetsmiljö, fortbildning, ökad delaktighet och större möjligheter att göra karriär i kärnverksamheten. Vi vill införa en individuell lönesättning, där erfarenhet, kompetens och arbetstyngd ska synas i månadslönen detta för att minska personalomsättningen. Delade turer ska bort. Personal ska erbjudas att jobba kvar efter pension."
+      },
+      {
+        "category": "Tid för omsorg.",
+        "description": "Äldre och funktionsnedsatta ska känna välbefinnande och ha inflytande över vilka omsorgsinsatser som ges. Alla ska få ett värdigt bemötande, ett tryggt boende och nära till läkarkontakter. Mer tid för samtal mellan boende och personal. Boende med hemtjänst ska känna igen sin personal. ”Äldre samtal”, till alla över 75 år utan omsorgsbehov. \"Ung omsorg\", extra jobb inom omsorgen för ungdomar."
+      }
+    ],
+    "motivateVote": "Kristdemokraternas vision är att Katrineholm ska vara Sveriges ojämförbart bästa kommun för barn och unga att växa upp i. Familjer är viktiga för att barn och unga ska bli trygga vuxna. De äldre utgör en stor tillgång med en mångårig livserfarenhet som vi vill ta vara på. Vi är barn och äldres röst i Katrineholm.",
+    "name": "Kristdemokraterna Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-katrineholm"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "774",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett hus på förslagen plats kommer att skärma av staden helt mellan norr och söder. Öppna upp mer så att det vackra stationshuset och gamla posten kommer i blickfånget från torget och att torget kommer i blickfånget för de som byter tå i Katrineholm ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här är det viktigt att skilja på olika former av försörjningsstöd. För de friska i arbetsför ålder är det viktigt att de facto vara ute och ha något att göra och att hela tiden vara redo att ta de jobb som kommer ut. Dvs träna de rutiner som krävs i en anställning. Att inte kräva motprestation riskerar att slå ut människor",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kransorternas barn och unga ska ha samma möjlighet till träffpunkt som de i staden dessutom finns det där (fritidsgården) möjlighet att tidigt upptäcka unga som är på glid",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Läkemedelsrester orsakar extrem skada om du kommer ut i naturen,",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tveksamt till om detta skulle vara till gagn för de brukare som finns inom vård och omsorg dessutom skulle det bli än svårare med schemaläggning för att täcka de behov som finns inom verksamheten. Men i värld där pengar inte är en begränsning skulle man kanske kunna ha det",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart förslag. Personal ska kunna göra sig förstådd i mötet med personer på boende eller i hemmet. Språkkravet är dessutom viktigt för att kunna förstå de skriftliga rutiner och instruktioner som förekommer inom verksamheten",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte subventionera bostäder. Däremot behöver lagen ändras så att det blir billigare att bygga bostäder!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska möjligtvis etablera laddstolpar men kostnaden för dessa måste betalas genom avgifter för de som använder infrastrukturen",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska vi ställa upp i en akut situation men kommunen har tagit emot en stor mängd flyktingar och har idag stora problem med utanförskap. Vi behöver ta tag i den integrationsskulden framför allt för alla de som inte har kommit in på arbetsmarknaden. Vägen till en lyckad integration går via ett arbete, arbetskamrater och egen försörjning.Detta måste vi klara av nu och på sikt ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det handlar om svensk kött ser jag inget behov av ett sådant förslag eftersom lejonparten av de betande djuren håller landskap öppna, bidrar genom betet till en biologisk mångfald, naturligt gödsel för andra grödor som äts  och slutligen betad mark är ypperlig för att binda kol",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har val var fjärde år - folkomröstningar riskerar att inte se till helheten ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver få fler som driver skolor i kommunen. Allt från företag, kooperativa till ideella organsitioner. Det handlar om barns och föräldrars rätt att välja en inriktning som passar dem. Alla ska inte i alla lägen stöpas i samma form",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "För kommuns storlek tycker jag att det satsas otroligt mycket på kulturen redan idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "Drömmen skulle vara att genom ett större fokus på kommunens kärnverksamheter kunna sänka skatten. Varför? Kommunalskatten slår ohyggligt hårt mot de med låg inkomst och sedan ge tillbaks till de samma genom bostadstillägg och försörjningsstöd är osunt. Sedan är kommunalskatten en konkurrens fördel när det gäller att locka nya invånare  ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1451",
+          "1449",
+          "1450"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C!;C;D;B;D;A;B;C;B;A;3/5;2/5;1/5;[1451,1449,1450]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I den perfekta av världar skulle vi gärna styra med egen majoritet men som sagt det är i den bästa av världar. Sett till förutsättningarna kommunalt är det nog KD som ligger närmast till. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att styra med varken V eller SD och är även tveksamma till S. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Läslyftet",
+        "description": "Idag lämnar var tionde elev årskurs 6 utan godkänt i svenska. Svenska språket är avgörande för att tillgodogöra sig flera av skolans ämnen till och med matematiken. Därför kommer vi att tillföra extra veckotimmar med fokus på läsning och läsförståelse. Utan att ha språket blir all annan undervisning svår att ta in så därför läsning och småprat om vad som det som läses betyder."
+      },
+      {
+        "category": "Minska klasstorlekarna",
+        "description": "Idag har vi redan i förskola och förskoleklass allt för många barn i grupperna. För barnen tidigt ska få det stöd de behöver och bli sedda måste antalet barn per klass (lärare) minskas drastiskt. Så, i åk F - 3 max 15 elever per klass och åk 4-6 max 20 per klass"
+      },
+      {
+        "category": "Fler undersköterskor",
+        "description": "De sjuka och äldres hemtjänst har idag stora svagheter. Dels får de besök av okända vårdare allt för ofta, dels har de inte själva möjlighet att styra vad tiden ska användas till.  Vårt förslag är att anställa fler i undersköterskor i verksamhet och därigenom kunna bli mer flexibla i relationen med de som har hemtjänst. Dessutom blir de inom verksamheten allt äldre och behöver mer vård"
+      }
+    ],
+    "motivateVote": "Kommunen behöver Liberalerna för att sätta fullt fokus på kommunens kärnuppdrag. Skola, vård och omsorg måste stå i fokus fullt ut. Vi vill ha ett styre som satsar på barnen redan i förskolan för att sedan fortsätta med totalt fokus på barnen från förskoleplats och uppåt i stadierna. Vi behöver utveckla äldrevården för bättre möta den nya tidens krav!",
+    "name": "Liberalerna Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-katrineholm"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "775",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga det tänkta huset på Stortorget skulle vara ett negativt ingrepp i stadsbilden. Torget har aldrig avgränsats åt norr av högre byggnader. Vi tycker att det är ett mycket bra förslag att tänka om och placera \"guldhuset\" någon annanstans i centrala Katrineholm. Vi vill dock att det görs på mark som redan är tagen i anspråk, inte på åkermark eller obruten naturmark som vi behöver skydda. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den som söker ekonomiskt bistånd är ofta redan i en mycket utsatt situation. Istället för att öka trycket ytterligare tror vi att det är mer verksamt att ge stöttning och vägledning för att personen i fråga ska komma vidare till egen försörjning. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vill se fler fritidsgårdar i Katrineholms kommun. I vårt handlingsprogram för kommande mandatperiod föreslår vi att det startas fritidsgårdar i varje stadsdel/kommundel för att ungdomar ska ha någonstans att träffas efter skolan och på helger. Fritidsgårdarna är också viktiga för att skapa bra kontakt mellan barn/ungdomar och vuxna/samhället utanför skolan. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människans påverkan på naturen får allt större och alltmer negativa konsekvenser. Vi behöver göra mycket mer för att minska vår påverkan. Därför tycker vi att det är ett bra förslag att införa åtgärder vid Rosenholm som minskar/tar bort läkemedelsrester ur avloppsvattnet. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser idag hur svårt det kan vara att rekrytera medarbetare till olika tjänster i kommunen. Detta gäller inte minst äldreomsorgen. I vårt handlingsprogram för kommande mandatperiod lyfter vi särskilt fram detta. Miljöpartiet är generellt mycket positiva till kortare arbetstid och ser gärna att kommunen tar till sig detta förslag som en del av de satsningar som måste göras inom äldreomsorgen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att behärska svenska språket är extra viktigt inom äldreomsorg och hemtjänst. Men vi tycker inte språktest är en bra lösning eftersom det riskerar att diskriminera människor som i övrigt har god kompetens. Socialstyrelsen ska ta fram ett språkbedömningsstöd som ska vara klart våren 2023. Beroende på utformningen kan det eventuellt hjälpa till vid rekrytering. Det återstår dock att se.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet medverkade under sin tid i regeringen till ett statligt investeringsstöd som bidrog till att fler billiga hyresrätter kunde byggas. När högerns budget antogs av riksdagen 2021 försvann detta stöd. Vi tror att staten måste vara garanten för att skapa billigare bostäder och vill därför återinföra investeringsstödet, så att det även ska gå att bygga små, klimatsmarta hyreslägenheter.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas gott om laddstolpar i hela kommunen, samt på alla kommunala arbetsplatser och i anslutning till KFABs alla fastigheter, samt vara ett krav vid all nybyggnation. Men vi vill framförallt utveckla delningsekonomin i kommunen så att alla inte behöver äga en egen bil. Vi vill etablera flera bil- och cykelpooler i Katrineholms kommun. Den mest miljövänliga bilen är den som inte behövs.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige ska stå för öppenhet och medmänsklighet. Vi vet att klimatförändringarna kommer tvinga allt fler människor på flykt, att fler platser på jorden kommer att bli obeboliga. Katrineholm ska även fortsättningsvis välkomna människor som flyr exempelvis förföljelse, diktaturer, krig och klimatkatastrofer. Alla kommuner i Sverige måste dock ta sitt solidariska ansvar och välkomnar flyktingar. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver välja mer växtbaserad kost för att minska vår klimatpåverkan. Vi vill att den mat som lagas och serveras i kommunen i så stor utsträckning som möjligt ska vara ekologisk, närproducerad och årstidsanpassad. Vegetarisk och vegansk kost behöver i större utsträckning bli huvudalternativ i de kommunala köken, och kött något man äter mer sällan.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mycket viktigt att utveckla demokratin och låta fler komma till tals. I viktiga frågor kan folkomröstningar vara ett bra sätt. Om folkomröstning ska hållas i en fråga är det viktig att medborgarna får tid och möjlighet att sätta sig in i vad frågan gäller. Det är också viktigt att det är tydligt på förhand hur resultatet ska tolkas och hanteras. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi alltid varit positiva till en mångfald av skolor och pedagogiker, och till mindre skolor över hela landet. Det är motsatsen till dagens marknadsskola som gynnar skolkoncerner med stora skolor på centrala platser. Vi anser att den eventuella  vinst som en skola gör ska stanna kvar i verksamheten. Miljöpartiet säger nej till att låta vinstutdelande aktiebolag äga och driva skolor. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt. Vi tror att kulturella yttringar i olika former bidrar till att utveckla människor på många olika sätt. Särskilt viktigt är det med kultur riktad till barn och ungdomar. Vi kan i dagsläget inte säga att vi kommer att tillför mer pengar till kulturverksamheten. Men vi kommer att titta närmare på detta i samband med att vi tar fram vårt budgetförslag för 2023  i höst. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget ser vi inte något behov av att förändra kommunalskatten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1453",
+          "1454",
+          "1447"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;D!;D!;D!;B;D;D!;A!;D!;D!;2/5!;2/5!;2/5;[1453,1454,1447]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Miljöpartiet de gröna i Katrineholms kommun står för klassiska gröna värderingar som dock inte alltid överensstämmer med partiets hållning på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Katrineholm behöver ett grönare styre som tar de kriser vi ser på största allvar. Vi måste bygga ett Katrineholm som klarar av större flöden och varmare temperaturer, men också ett Katrineholm där vi bygger starkare sociala band mellan varann, där alla får plats och där alla känner sig inkluderade. Det är bara tillsammans vi kan klara de utmaningar vi har framför oss.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ställ om Katrineholm så vi kan motverka kommande klimat- och miljökriser",
+        "description": "Vi måste ställa om Katrineholms kommun så vi står emot de negativa effekterna av de klimat- och miljökriser vi redan ser tecken på och som vi vet blir värre i framtiden. Katrineholm ska vara en robust kommun med hållbara sociala strukturer där alla får plats och där vi tar till vara människors kunskaper och vilja att bidra. Vi måste bygga resiliens, minska sårbarheten och öka försörjningsgraden."
+      },
+      {
+        "category": "Ge elever med NPF-diagnoser samma förutsättningar i skolan som andra elever",
+        "description": "Vi vill att all verksamhet i samtliga skolor i Katrineholms kommunen anpassas så att barn och ungdomar med NPF-diagnoser får samma möjligheter som andra elever att tillgodogöra sig undervisningen utifrån sina förutsättningar."
+      },
+      {
+        "category": "Vad ska hända med Södra, Östra och Västra skolorna?",
+        "description": "Låt Katrineholmarna genom ett brett samråd vara med och bestämma vad som ska hända med Södra, Östra och Västra skolorna när de blir tomma. Ska skolorna byggas om till allaktivitetshus med föreningslokaler, hantverks- och konstnärsateljéer eller till exempelvis kollektiv-, ungdoms- eller generationsbostäder ? Vi vill att fler ska få vara med och tycka till om detta."
+      }
+    ],
+    "motivateVote": "Vi är det parti som under innevarande mandatperiod gång på gång ställt oss på naturens sida. Som minsta parti i fullmäktige har vi, oftast ensamma, stått upp för genuint gröna värderingar som annars inte haft någon röst. Vi söker stöd i valet för att kunna fortsätta detta viktiga arbete. ",
+    "name": "Miljöpartiet Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-katrineholm"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "776",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "För det första är det inget guldhus. Detaljplanen finns och marken är anvisad till byggherre.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som har arbetsförmåga ska bidra med det den kan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan beslutat. Det kommer att bli en utvärdering för att se om öppningen blir varaktig.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det mesta av läkemedelsrester som passerat kroppen hamnar i avloppet. Därför borde det vara den mest effektiva platsen för rening. Det finns kanske inga bra reningsmetoder just nu, men när det kommer måste vi vara beredda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan nu svårt att bemanna äldreomsorgen, med det här förslaget behöver man anställa 25% fler. Det blir en massiv ökning av lönekostnad som måst omprioriteras inom eller från någon verksamhet. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte annat än rimligt att den som behöver hemtjänst eller omsorg både kan förstå och göra sig förstådd med personalen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns statliga bidrag för att bygga lite billigare, kommunen ska inte finansiera boende.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan vara med och skapa förutsättningar för anläggning av laddstolpar, privata aktörer ska driva dom.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot vår andel, alternativt måste staten ta hela det ekonomiska ansvaret.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas valfrihet hela veckan, kött är en bra proteinkälla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer kosta stora resurser för något som bara är rådgivande.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bara en privat skola idag, lite mer valfrihet skadar inte.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en rimlig nivå",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": "Tryggheten.",
+        "value": [
+          "1451",
+          "1450"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;D;D;A;D!;A;B;C;B;A;3/5;2/5;2/5!;[1451,1450]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Moderat majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet",
+        "description": "Förebyggande insatser för att få bort ungdomsbrottslighet och kringvandrande ungdomsgäng. Fler kameror och förbättrad belysning."
+      },
+      {
+        "category": "Förbättra företagsklimatet",
+        "description": "Ge näringslivet snabb, effektiv och korrekt behandling vid kontakter med kommunen. Effektivisera tillsynsverksamheten."
+      },
+      {
+        "category": "Stärkt arbetslinje",
+        "description": "Den som har arbetsförmåga skall när den behöver försörjningsstöd bidra med motprestation i förhållande till bidraget.\r\nKommunens arbetsmarknadsavdelning skall genom personliga möten med den sökande för att inventera arbetsförmågan och innevarande kompetens."
+      }
+    ],
+    "motivateVote": "Om man vill bo i en trygg och säker kommun, vill ha bibehållen valfrihet i skola och omsorg utan skattehöjningar. ",
+    "name": "Moderaterna Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-katrineholm"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "777",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett hus vars utformning och färg ännu inte är bestämt planeras att byggas för en inramning av torget. Möjlighet till aktiviteter och samvaro bidrar till ett mer levande centrum och torg",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi arbetar aktivt med att ställa krav på de som beviljas försörjningsstöd att de ska delta i utbildning och/eller arbete",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslut är redan fattat i årets budget",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "En av flera viktiga miljöfrågor",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt fokus är att erbjuda heltidstjänster och en bra arbetsmiljö\r\nKompetensförsörjningen är avgörande för hög kvalité",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "De har vi redan infört i Katrineholm\r\nGäller även förskola och skola",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behov av billiga bostäder finns och därför välkomnar vi tillbaka det statliga investeringsstödet för nybyggnation",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, men vi bereder mark för bättre infrastruktur i hela kommunen",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har varit solidariska under många år när andra kommuner inte tagit ansvar\r\nVi tar vår andel av anvisade personer ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi jobbar med klimatsmart och svensk mat, säsongsanpassad som lagas från grunden",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra balans",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "Vi prioriterar kultur och offentlig konst och ska fortsätta med det",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1453",
+          "1451",
+          "1450"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;D;D;B!;D!;A;A;D!;B;A;2/5;2/5!;2/5;[1453,1451,1450]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi söker i första hand väljarnas stöd för att få egen majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärka och utveckla välfärden",
+        "description": "Ordning och reda i skolan och öka måluppfyllelsen bland eleverna\r\nSäkerställa en hög kvalité inom vård och omsorg\r\nKatrineholm ska vara tryggt och tillgängligt för alla"
+      },
+      {
+        "category": "Vi vill öka tryggheten och minska utanförskapet för en bättre folkhälsa",
+        "description": "Starta en ny familjecentral, behålla trygghetsvärdar och vidareutveckla samverkan mellan skola, socialtjänst, polis och fritid.\r\nStödja kultur, idrott och fritidsaktiviteter för bättre social gemenskap, ökad trygghet och bättre hälsa"
+      },
+      {
+        "category": "Vi vill skapa fler jobb genom kompetenshöjande insatser och samverkan",
+        "description": "Utveckla samverkan mellan gymnasieskolan och vuxenutbildning\r\nBereda mark för fler företag\r\nAktivt försörjningsstöd"
+      }
+    ],
+    "motivateVote": "Vi har kraften att både se och hitta lösningar på de utmaningar Katrineholm står inför. Vi vill att Katrineholm ska fortsätta att växa och fortsätter med att bygga bostäder och bereda mark för företag att etablera sig här för fler arbetstillfällen. Vi har byggt 2 nya skolor, ett nytt äldreboende och skapat fler förutsättningar för en aktiv fritid. I Katrineholm ska man känna sig trygg. ",
+    "name": "Socialdemokraterna Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-katrineholm"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "778",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, annan plats. Inte på torget. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla arbetsföra bör snarast sättas i arbete. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det görs under kontrollerade former",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslut om uppgradering redan taget",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorgens personalpolitik bör ses över men detta är inte lösningen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är en grundförutsättning för att klara av arbetsuppgifterna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan bygga billiga hyreslägenheter men att kommunen ska finansiera t.ex privata hyreslägenheter låter inte som ett bra förslag.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara aktiv i elektrifiering av infrastrukturen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Katrineholm har historiskt haft högt mottagande så förslaget är mycket bra. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Näringsrik husmanskost är vad barnen behöver. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "En folkomröstning om nedläggning av Östra, Västra och Södra skolan vore på sin plats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Finns det utrymme och behov av privata skolor så ska det välkomnas. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "Kulturnämnden har i åratal betalat Moskéhyra så det finns utrymme för neddragningar. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": "Katrineholm ligger lite högt med nästan 34%",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi är snart svenska mästare i gupp. Bort med guppen. ",
+        "value": [
+          "1452"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;D;A;D;B;C;D;A;C;3/5;1/5;1/5;[1452]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Guppen i Katrineholm måste bort",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett högerblock",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V, MP, C",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet i skolan",
+        "description": "Det är av central vikt att skolan ger eleverna nödvändig kunskap om vikten av ett samhälle som genomsyras av sammanhållning, men även psykiskt och fysiskt välbefinnande. Det är oerhört viktigt att kommunen tar krafttag för att skapa ordning och reda i skolan."
+      },
+      {
+        "category": "Oacceptabla underskott i Soc",
+        "description": "Sverigedemokraternas målsättning med den ekonomiska politiken är att skapa bästa möjliga förutsättningar för återskapandet och upprätthållandet av det svenska folkhemmet. Kommunen ska hushålla väl med ekonomiska resurser så årligt återkommande underskott i socialnämnden är oacceptabelt och enbart det lagstadgade balanskravet är otillräckligt."
+      },
+      {
+        "category": "Bort med guppen",
+        "description": "De styrande politikerna i kommunen prioriterar cyklister på bekostnad av bilister. Cykelöverfarter har beklätts med farthinder som med tiden mer och mer utgör problematiska färdhinder. Vi vill gärna se cyklister i samspel med övriga trafikanter utan prioriteringar och utan gupp."
+      }
+    ],
+    "motivateVote": "För att bryta utvecklingen och föra politiken i en riktning som kan hela. SD Katrineholm verkar för en kommun där människor ska kunna känna sig trygga – oavsett tid på dygnet, oavsett plats. En kommun präglad av lojalitet, solidaritet och tillit gentemot varandra och där det allmänna rummet inte tillhör kriminella. ",
+    "name": "Sverigedemokraterna Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-katrineholm"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "779",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9219fa673d91c5a1b8ad0019b83084ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Projektet med ett hus på torget uppfyller ingen funktion förutom som landmärke och inramning. Hela projektet har kantats av många frågetecken sen det drogs igång och har nu utvecklats till en prestigefråga. Majoriteten vill att det ska byggas till varje pris. Det finns en anledning till att KFAB en gång i tiden sa nej till att ta på sig projektet. Man insåg att det fanns ingen ekonomi i det hela.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1132a18f0aadcea862317610cd70a985",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det sker redan idag. Däremot ser vi inget behov av att skärpa kraven.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "77d17f21a1a45f9705aa1d1a68293090",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet vill utveckla  fritidsgårdsverksamheten i hela kommunen, inte bara i den centrala tätorten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "456f66706c4801c7d140eb9ecb9f06c0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ea3da0df27b5ccfddc5aa1bc5825f76d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet i Katrineholm är det enda partiet som driver frågan om en arbetstidsförkortning. Vi vet att personalen är hårt belastad och sjukskrivningstalen är höga. Det här är ett sätt att förbättra arbetsmiljön och går att räkna hem ekonomiskt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a7b5354a368b627ace793be0604969e1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget är redan infört av majoriteten i kommunen men är egentligen bara ett slag i luften. Språkkrav fanns ju redan innan för anställning inom äldreomsorgen. Förslaget handlar egentligen om billig plakatpolitik. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "766b33c5e34cdcb0669e50b218563c62",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet driver frågan om att bygga billigare hyresrätter. Katrineholm har en hög boendesegration och billigare hyresrätter är ett sätt att bryta den utvecklingen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2406df0239ad0f4cf4e2ce48c0cb7552",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga ut infrastrukturen för elbilar är viktigt för klimatomställningen och för att göra den tillgänglig för alla Katrineholmare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "27bf501ea3790a9f645c5e40642fa4f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Katrineholm ska, i likhet med alla andra kommuner ta sitt solidariska ansvar när det gäller flyktingmottagande. Kommunen behöver bygga upp en beredskap för mottagandet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b2f0c3ed88fb0d4fbcf2c268019f1d8a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver minska köttkonsumtionen och det finns redan köttfria dagar i skolan idag men vi tycker att det är upp till verksamheten att planera hur kosthållningen ska se ut.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cd90ee632b12dd9704db2a11d84411ef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att utöka människors demokratiska inflytande är positivt och folkomröstningar i specifika frågor kan vara ett verktyg för att nå det målet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ab75d017cc00ea436ee1ddf72f9f46c9",
+        "questionType": "RANGE",
+        "reasoning": "Andel ska vara 0%. Systemet med kommunalt finansierade friskolor har skapat segregation, betygsinflation och gjort att likvärdigheten i den svenska skolan är ett minne blott.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "16837a55a44d1a1ddfb23445865af66d",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig del av det demokratiska samhället där människor ges tillfälle att uttrycka sig själva och förverkliga drömmar. Det vill vi stötta.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "654706556812eaa23b61bb9f4a4a2ccc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d161eb80a1b48fe571d00b840765ca46",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1448",
+          "1449"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D!;D;D!;B;D!;D!;A;B;C!;0/5!;4/5!;2/5;[1448,1449]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre där Vänsterpartiet ingår och där vi får ett stort utrymme för de frågor som vi driver. Det naturliga är att vi får ett rött styre, något som det redan finns underlag för idag.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Verklig valfrihet inom äldreomsorgen",
+        "description": "Vänsterpartiet anser att äldre bör få bestämma mer över vad de ska få hjälp med – valfrihet på riktigt – inte vilket bolag som utför uppgifterna. Vi vill ersätta LOV med riktig valfrihet. Vi vill:\r\nTillhandahålla fler timmar som de äldre själva kan förfoga över inom den kommunala hemtjänsten. Avskaffa personalens delade turerna. Höja personaltätheten. Införa sex timmars arbetsdag."
+      },
+      {
+        "category": "Satsa på barn, skola och ungdomar",
+        "description": "Vi vill utveckla fritidsgårdsverksamheten med fler (1-2) fritidsgårdar. Införa en avgiftsfri kulturskola. Stärka insatserna för barn med särskilda behov. Stärka elevhälsan. Höja personaltätheten. Erbjuda nattbarnomsorg. Minska gruppstorlekarna i förskolan."
+      },
+      {
+        "category": "Minska kommunens klimatavtryck",
+        "description": "Vi vill minska kommunens klimatavtryck bland annat genom ökade satsningar på kollektivtrafiken, satsa på produktion av egen fossilfri energi, ta fram en koldioxidbudget och införa en fossilfri kommunal bilpark."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet vill förstärka och utveckla välfärden i Katrineholms kommun. En kommun där resurserna används där de behövs, där behoven, inte vinstintressen styr, där kommunal verksamhet inte privatiseras, och de redan utsålda tas tillbaka i egen regi. Jämlikhet och barnperspektivet är viktigt för oss och ligger alltid till grund när vi gör politiska avväganden.\r\n",
+    "name": "Vänsterpartiet Katrineholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-katrineholm"
+  }
+]

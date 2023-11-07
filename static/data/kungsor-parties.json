@@ -1,0 +1,993 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "871",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1525",
+          "1524",
+          "1522"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;B;C;B;B;D;C;D;D;B;2/5;3/5;1/5;[1525,1524,1522]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kommer att söka samarbete med de partier som delar vår värdegrund och människosyn och där vi får störst genomslag för vår politik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte att samarbeta med Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara åkermarken för den biologiska mångfaldens bästa",
+        "description": "Centerpartiet anser att kommunens gröna värden och hälsa ska värnas och hållbarhet ska genomsyra all planering och byggande. När kommunen växer vill vi i första hand förtäta och vi vill freda skyddsvärd mark.\r\nSom kommunen planerar nu finns stor risk att naturvärden försvinner. Det skulle försämra den biologiska mångfalden och ta bort viktiga rekreationsområden som är viktiga för människors hälsa."
+      },
+      {
+        "category": "Bättre elevhälsa för elevernas bästa",
+        "description": "Det förebyggande elevhälsoarbetet ska förstärkas och rörelse i skolan behöver utvecklas. Alla elever ska må bra i skolan, för att klara det behövs tidiga och gemensamma insatser där skola, hem, sjukvård, BUP, socialtjänst arbetar gemensamt och tar fram adekvat stöd som bidrar till bättre mående i skolan och stöttar elevers skolgång."
+      },
+      {
+        "category": "Jämställdhet mellan kvinnor och män för individens bästa",
+        "description": "Centerpartiet vill uppnå ett samhälle där kvinnor och män har lika möjlighet till makt och inflytande över sin egen situation. Kungsör kan bidra till ökad jämställdhet genom hur vi som kommun fördelar resurser, agerar som arbetsgivare och att redan i skolan arbeta med normer och värderingar. Kommunen har allt att vinna på ett mer jämställt samhälle som leder till ökad trygghet och frihet."
+      }
+    ],
+    "motivateVote": "Centerpartiets gröna röst behövs för att vi ska klara klimatomställningen, för att alla elever ska lyckas i skolan och för fler jobb och företag på orten. ",
+    "name": "Centerpartiet Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kungsor"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "872",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver trygghetsboenden, det ökar möjligheten för äldre par att fortsätta leva tillsammans.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska bygga bostäder, men det finns annan mark man kan bygga på, som inte är jordbruksmark. De ska vi vara rädda om i dessa tider.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med köttfria dagar, men det är ännu viktigare att vi tar tillvara på maten som produceras i vårt närområde. Då räddar vi våra svenska bönder, samt miljön i minskade transport utsläpp. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ägna sig åt vård, skola och omsorg. Kommunen ska stötta småföretagare som vill etablera sig i kommunen. Då ökar även skatteintäkterna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ju bra för de anställda. Om vi kan locka personal att stanna kvar med den förmånen. Men jag vet inte i dagsläget om det är ekonomiskt hållbart, samt att det finns fler tjänster i kommunen som har ett hårt arbete. Var ska man dra gränsen?",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är A och O att förstå varandra. Särskilt när man är sjuk, gammal eller dement. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste alltid vara vårdnadshavare som väljer skola för sitt barn i grunden. Men en friskola får inte utesluta någon pga. annan landstillhörighet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur ska en ungdom någonsin kunna flytta hemifrån och växa som individ, när de aldrig har råd med det. Däremot ska det blandas med andra lägenheter för att inte skapa segregerade samhällen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka, mångfald, flexibilitet och kvalitet. Tycker vi att det är ett mycket bra förslag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Visst kan en kommun sätta upp laddplatser, men jag anser att våra olika mackar ska ha huvudansvaret för att utveckla och förnya sina stationer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Migrationsverket som ska vara opartisk,  ska placera rättvist ut över landet. De rika kommunerna har lättare att ta emot än en fattig kommun. Har man då ett främlingsfientligt styre i kommunen, blir fördelningen orättvis.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": "Om det kommer ett företag som är nytänkande i hur man lär ut till barn med särskilda behov. Eller har en praktisk inriktning, är de hjärtligt välkomna. Det finns så många duktiga elever som aldrig får en chans för att de uttrycker sig på andra sätt än vad dagens skola har som norm.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": "Som vi ser i dagsläget, så går det inte att lägga mindre pengar, för då har vi ingen kultur kvar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": "Jag ser inget behov att ändra på det i dagsläget. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1525",
+          "1523",
+          "1522"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B!;B!;D!;C;D!;C;D;D!;B;B;3/5!;3/5!;2/5;[1525,1523,1522]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill att staten ska ansvara ekonomiskt för skolan, vare sig den är privat eller kommunal, för att alla i hela landet ska få samma möjligheter. Gör om skolan från grunden. En skola med praktisk inriktning och en teoretisk inriktning. Vi är olika och lär oss på olika sätt. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I vår kommun har Kristdemokraterna, centern och Moderaterna haft ett gott samarbete sedan länge. Nu ser jag även att liberalerna delar mycket av det vi i KD står för. Varpå jag vill se att vi fyra får chansen att styra nästa period.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi samarbetar med dem som delar våra värderingar och intressen i olika fråg",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tidiga insatser för barn med npf",
+        "description": "Då vi vet att barn med npf problematik har svårt att nå skolans mål , då skolan är fyrkantig på många sätt. Behöver vi därför sätta in extra resurser för dessa barn i tidig ålder. Man ska inte behöva vänta med rätt hjälp tills man kommer till högstadiet. Med rätt hjälp och start i god tid, kan dessa barn också klara målen."
+      },
+      {
+        "category": "Se över LOV i Västra mälardalen.",
+        "description": "Allt fler människor flyttar till Kungsör vilket är glädjande. Då vill vi se till att de har den valfrihet inom vården som efterfrågas. Det ökar kvalitén  och lockar ännu fler att vilja flytta hit och stanna kvar."
+      },
+      {
+        "category": "Samma vårdteam för sjuka o äldre, samt ökad sysselsättning för våra äldre.",
+        "description": "De har byggt upp vårt land. Nu vill vi sätta guldkant på tillvaron, genom olika aktiviteter, tex. sångstunder på äldoeboendena, gemensamma aktiviteter med yngre barn\r\nDet ökar välmåendet och minskar risken för psykisk ohälsa.\r\nÄr man sjuk eller gammal, ska man ha samma vårdteam för ökad trygghet."
+      }
+    ],
+    "motivateVote": "Vilka förutsättningar vill du ge dina barn, de sjuka o gamla?\r\nJag vet att om vi inte satsar på barnen och då särskilt dem med särskilda behov, så kommer den psykiska ohälsan bara öka ännu mer. Och om vi inte satsar på att ge de sjuka och äldre samma återkommande vårdteam. Ökar även där den psykiska ohälsan. När vi mår bra, tar vi rätt beslut i andra frågor. Behandla andra som du vill bli behandlad",
+    "name": "Kristdemokraterna Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-kungsor"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "873",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många äldre finns i kommundelen som inte vill flytta",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte tillgänglig jordbruksmark i första hand",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Matsituationen i skolan är ett tillfälle att lära sig goda matvanor",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte bedriva konkurrerande verksamhet",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": "A och o i vården är god kommunikation",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skall kunna ha en valfrihet när det gäller boende",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen vet själv bäst vad de klarar att ge för service!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": "Frihet att välja även skola",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för oss Liberaler",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": "Redan hög kommunalskatt, satsa på inflyttning",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1525",
+          "1524",
+          "1526"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B!;C!;C!;A!;D!;D!;D!;D!;D!;D!;3/5!;3/5!;2/5!;[1525,1524,1526]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I Kungsör vill vi se ett borgligt styre med Liberalerna som en stark faktor med minst 5 mandat",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan samverka med SD men inte styra med SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barn och Unga",
+        "description": "Skolan som även inkluderar förskola, arbetar med Elevhälsan i fokus\r\nFritid/skola samverkar i Hälsoråd för att träna demokrati och ge framtidstro\r\nHälsa; primär faktor för att inhämta kunskap"
+      },
+      {
+        "category": "omsorg",
+        "description": "Här inkluderas alla former av omsorg\r\nGod kvalitet är primärt inte utförare\r\nVi kan tänka oss LOV upphandlingar\r\nI vår värld finns inga \"Brukare\""
+      },
+      {
+        "category": "boende och verkande",
+        "description": "En bra boendemiljö som lockar till inflyttning\r\nGoda möjligheter på alla sätt att driva företag\r\nVi är partiet som arbetar för ett grönt och sjönära boende utan sjögull\r\nTillgänglighet är av största vikt för L i kungsör"
+      }
+    ],
+    "motivateVote": "Ett socialliberalt alternativ. Alternativet för den som vill ha marknadsekonomi och socialt ansvarstagande genom en gemensamt finansierad välfärd.",
+    "name": "Liberalerna Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kungsor"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "874",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1523"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;B;D;A;D;D;A;C;A;D;2/5;2/5;1/5!;[1523]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns alltid frågor som riks tar som inte stämmer in i kommunens politik",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderat med egen majoritet eller en borglig politik i samarbete med andra",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "NEJ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Sveriges bästa skola ",
+        "description": "Omtag gällande skolan Tidiga satsningar redan från förskolan  Jobba med motivationen både hos elever pedagoger och ledning. Trygg skola med fler närvarande vuxna under hela skoldagen"
+      },
+      {
+        "category": "Trygga  framtida boenden för våra äldre i hela kommunen",
+        "description": "Tillgänglighetsboende i Valskog\r\nFler vårdplatser och tillgänglighetsboenden i hela kommunen"
+      },
+      {
+        "category": "Fler arbetstillfällen till kommunen",
+        "description": "Fler bostäder\r\nMer tillgänglig mark för bebyggelse\r\nVårda vår natur"
+      }
+    ],
+    "motivateVote": "Vi har en nyanserad och trovärdig politik som vi lovar och kan stå för",
+    "name": "Moderaterna Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kungsor"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "875",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna att det uppförs ett trygghetsboende där om underlag finns.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viss jordbruksmark  måste kanske tas i bruk för att kunna utveckla fler bostads och verksamhetsområden till exempel längs med E 20 samtidigt måste natur och kulturvärden skyddas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det alltid ska finnas ett vegetariskt alternativ ,men vi anser inte att något ska göras obligatoriskt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man bör istället rikta fokus på förbättrad arbetsmiljö så att fler ska kunna jobba ett helt arbetsliv med hälsan intakt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan dock verka för att tillsammans med näringsliv och fastighetsägare placera laddstolpar på lämpliga platser i kommunen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara rättvist fördelat över samtliga kommuner.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inga privata skolor i kommunen idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;C;B;A;B;D;D;C;A;A;A;2/5;2/5;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Att ingå i en majoritet så vi i samarbete kan driva socialdemokratisk politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla ska ges rätt förutsättningar att gå ur skolan med godkända betyg.",
+        "description": "Våra elever ska möta behöriga och kompetenta lärare  som ges möjlighet att möta varje barn och elev precis där de befinner sig utvecklings- och kunskapsmässigt. Förskolan är starten på det livslånga lärandet och har stor betydelse för barnets utveckling  och kan kompensera ojämlika levnadsmiljöer och uppväxtvillkor."
+      },
+      {
+        "category": "alla ska kunna leva ett innehållsrikt, tryggt och oberoende liv ",
+        "description": "Du som bor i Kungsör ska vara trygg i vetskapen om att du får det stöd du behöver när behov uppstår. Alla ska själva kunna bestämma över sitt liv och sin vardag. Antal personal den äldre möter ska vara så få som möjligt och den minutstyrning som präglar vården ska fasas ut."
+      },
+      {
+        "category": "Hållbar fysisk planering för boende och sysselsättning för alla ger trygghet",
+        "description": "Främja blandade bostadsformer i hela kommunen så att personer i olika åldrar och med olika ekonomiska förutsättningar har möjlighet till ett boende de har råd med. Vårt fokus är att skapa fler jobb och minska klyftor genom att arbeta för nyetableringar och utökat samarbete mellan arbetsmarknad och försörjning, vuxenutbildning och näringsliv för yrkesutbildningar och praktik."
+      }
+    ],
+    "motivateVote": "Vi vill fortsätta satsa på framtidens Kungsör där vi solidariskt tar ett gemensamt ansvar för framtiden och för ett hållbart Kungsör, både ekonomiskt, socialt och miljömässigt.\r\nVi socialdemokrater gör det genom att fortsätta prioritera utbildning, äldreomsorg, välfärd, infrastruktur och bostäder, samt insatser som skapar jobb. med flera jobb får fler lov att leva. Och i Kungsör ska man leva bra!",
+    "name": "Socialdemokraterna Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kungsor"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "876",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ec878d419472db7faefc1e9203f991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska man kunna bo på hemorten när man blir gammal, och Valskog är hemorten för många Kungsörsbor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "768868901a9eb93cec8550aceb0a6da8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I möjligaste mån undvika såklart,men finns inga alternativ, så får det övervägas.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "719465a076c331e6817fc72342402062",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att skolelever behöver bra husmanskost i skolan,för att orka prestera. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2466fad6594b2297be725ebcd8ec6961",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att problemet finns i någon större omfattning i Kungsör ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19eac9daf4ab9cd12406358f215ae4b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Låter bra, men kan vara svårt att genomföra ekonomiskt och personalmässigt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "26d6005505961eb850c4b71ad0f08415",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom dessa områden,självklart. Finns andra jobb där det inte är lika viktigt,  men ska alltid uppmuntras att lära sig svenska. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a92fb408b5b8f93b11bf93aa54521d64",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolorna ska inte göra skillnad i den frågan. Religiösa friskolor ska förbjudas.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a30033bd810b63bfdf762cc4712aa8fd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver mindre billigare lägenheter,med enkel standard, för både våra äldre och unga invånare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "32c322d4fd6d058ba508a5a797ab7ff4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även om kommunen har saker som kan bli bättre så tycker vi att det i första hand är en kommunal angelägenhet, men undantag kan finnas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "55756cbe6a546681bb357ff170afc2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ej kommunal fråga. borde vara Elbolagens.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "887ee5d5bb118d856346bf2779b6987b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4000c1441f5a2b80d254ddf2497414d6",
+        "questionType": "RANGE",
+        "reasoning": "Då vi under många år haft stora problem med att få våra elever godkända i grundskolan,så måste frågan övervägas.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ee04e5449f1243f2741f90bf970fc9c9",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att vi har ett brett och bra kulturutbud idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "95f052f29629e6d3c2243fda9cdeeb4d",
+        "questionType": "RANGE",
+        "reasoning": "Den ligger på en ok nivå",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "85f35ac03f291022c64d0cad9d85c879",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;C!;A!;B!;C;D!;D!;D!;B;A;D!;4/5!;2/5;2/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppna för förslag på samarbete med samtliga partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan",
+        "description": "Vi måste se till att få ordning och reda i skolan, så alla elever får studiero,samt att lärarna får en bra arbetsmiljö,och stannar kvar i Kungsör."
+      },
+      {
+        "category": "Äldreomsorgen ",
+        "description": "Språkkrav skall införas samt att utdrag ur polisregistret ska lämnas."
+      }
+    ],
+    "motivateVote": "Vi vill göra en bra kommun till en ännu bättre kommun för alla våra invånare. ",
+    "name": "Sverigedemokraterna Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kungsor"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "877",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Kungsör",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kungsor"
+  }
+]

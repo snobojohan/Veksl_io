@@ -1,0 +1,1336 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "787",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förutsättningarna för att öppna köket är förändrade och medför ny budget och flera andra faktorer att ta hänsyn till.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet är öppen för flera olika vårdalternativ så att du som patient får välja.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lön och arbetstid ska självklart vara i en nivå som attraherar personer att vilja arbeta inom äldreomsorg. Men det finns olika möjligheter att uppnå detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet att kommunikation via språket sker med äldre personer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C;B;D;C;B;D;B;D;B;2/5;3/5;2/5;[1467]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vindkraftsfrågan har varit en fråga där partiet inte aktivt ställt sig positivt medan på riks uppmuntras utbyggnad av vindkraft, men förhoppningsvis ändras detta om/när förutsättningarna förändras.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Samverkan med Moderaterna och Liberalerna med största partiet som kommunalråd",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I princip inte men frågan får ställas efter valet när vi har ett valresultat.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla och underlätta för näringslivet",
+        "description": "Tillgång till arbetskraft med rätt kompetens är avgörande för våra företag. Vi vill underlätta för inflyttning till kommunen men också stimulera våra ungdomar att stanna kvar i kommunen efter avslutad skolgång. Översyn och förbättringar av detaljplaner som möjliggör nytt boende. Minska regelkrångel vid etablering av nya företag. Bättre kommunikation mellan kommunen och näringslivet. Bredband."
+      },
+      {
+        "category": "Jord och skogsbruk",
+        "description": "Livsmedelförsörjning är en viktig samhällsfunktion och jordbruken i Kinda behöver överleva. Åkermark ska värnas och skyddas. Maten som serveras inom kommunens verksamheter ska gärna vara närproducerad. Kinda är också en skogsbygd och ska fortsättningsvis vara en viktig resurs för ett växande näringsliv. Vi måste ta hand om skogen, så att både miljö och produktion skyddas. Frihet under ansvar."
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Barn ska erbjudas välfungerande förskolor och grundskolor men också meningsfulla aktiviteter genom föreningsliv och fritidsgårdar. Idag är det särskilt viktigt att väcka ungdomars intresse för yrkeslivet och ”verkliga arbeten” eftersom många tillbringar mycket tid på nätet. Sommarjobb bör erbjudas genom kommunens försorg om de inte ordnar det själva.\r\nKulturskolan ska finnas kvar."
+      }
+    ],
+    "motivateVote": "Centerpartiet i Kinda vill:\r\nSäkra en god ekonomi genom långsiktiga ekonomiska mål och ett aktivt effektivitetsarbete.\r\nAtt alla ska omfattas av en trygg vård och omsorg.\r\nBarn och unga ska erbjudas en bra för- och grundskola.\r\nUppmuntra till ett engagerat civilsamhälle.\r\nFrämja näringslivet genom ett utvecklat företagsklimat.",
+    "name": "Centerpartiet Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kinda"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "788",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kompetens, Kinda kommer ha svårt att klara av de krav som kommer ställas på Räddningstjänsten i framtiden. Med ännu fler olika ansvarsområden kommer vara ännu svårare att utföra alla områden i egen regi. Med RTÖG får vi tillgång till specialistkompetens inom fler områden, höja kvaliteten på tillsyn, bättre förebyggande arbete, tillgång till mer brandkompetens i kommunens planarbete.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det var ett misstag att ta bort inriktningen om att ett tillagningskök i varje del av kommunen. Den bästa platsen för tillagningskök är äldreboende, där verksamhet pågår dygnet runt, året om. Ur beredskapssynpunkt är det mycket klokt att ha tillagning i alla delar av kommunen. Också för kompetensförsörjning,  hållbarhet och ökad kvalitet på kosten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Biogas är en bra energiform, Kristdemokraterna anser att såväl matavfall som gödsel borde användas bättre, gärna i energiproduktion. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata företagsam bidra till valfrihet, både för invånare och personal och driva på att kvalitén förbättras. Detta kräver noggranna upphandlingar, med starka krav på just kvalitén, så att pengar inte går till annat än just det som upphandlas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan idag svårt att få tillräckligt med personal att bemanna äldreomsorgen. Det finns fler sätt att förbättra arbetsmiljön, som är nödvändiga för att personal långsiktigt ska orka arbeta i äldreomsorg och prioritering av ökade löner är också viktigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna klara kommunikation med äldre och sköra behövs god kunskap i svenska, och för att kunna klara sitt arbete med att förstå riktlinjer, dokumentation och annat är det också nödvändigt. Det är förstås en bonus att även kunna fler språk, med tanke på att allt fler äldre har annat modersmål än svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Däremot måste kommunen underlätta i planarbete och annat att fler hyreslägenheter byggs. Det skulle öka inflyttningen i Kinda, då människor annars tvingas flytta utanför kommunen i brist på möjlighet att hitta bostad.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är bakvänt ställd: köttfri dag är inget mål i sig. Däremot är det bra att öka andelen vegetarisk mat i skolan, och att se till att endast servera svenskt kött, gärna så stor del som möjligt närproducerat. Det kan i praktiken innebära att kött serveras endast 2-3 dagar i veckan, men utan att ”förbjuda” kött. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det är viktigt att hålla en mycket god, vital och öppen dialog med invånarna tidigt i beslutsprocesser, så att folkomröstningar blir onödiga. Alla ska kunna ta del av handlingar som inte är sekretessbelagda och det ska vara enkelt för förtroendevalda att ta del av nödvändiga underlag för en god beslutsprocess.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Vi känner inte till att det finns privata företag som driver skola i Kinda. Så mindre vore ett konstigt svar. Det finns dock inge anledning att företag startar skola heller.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Kinda har ingen stor kulturbudget, utan skulle må bra av ökning. Det viktiga är att det finns ett varierat utbud av kultur, för alla åldrar, inte minst barn. För att få ökad effekt av satsade pengar på kultur är det viktigt att civilsamhället deltar, och får del (och förmerar) medel till kultur.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "Just nu kan skatten vara oförändrad. Om det visar sig framöver att kommunens verksamhet behöver mer pengar för att hålla samma kvalitet som idag, måste skatteökning övervägas om ingen annan väg är framkomlig.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1465",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D;D;D;D;B;D;B;B;B;2/5;3/5;2/5;[1468,1465,1467]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är inte så övertygade om att kärnkraft är en framkomlig väg att öka energiförsörjningen. Men det är ju ingen kommunal fråga.\r\nDet kommunen har rådighet över när det gäller energi är att öka sol, vind, biogas mm, och det stämmer överens även på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kristdemokraterna ser gärna samarbete med alla partier som delar vår inställning om öppenhet och dialog i politiken. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela Kinda ska fungera",
+        "description": "Landsbygden behövs, inte minst för livsmedelsproduktion. Och då behövs god service för alla som bor här. Vård, skola och förskola i alla tre delar av kommunen. Öppna köket i Horn. Värdesätt föreningslivet, där också kyrkorna ingår. Ha öppen dialog med invånare och näringsliv och låt politiker ha tillgång till beslutsunderlag. Och sänd fullmäktige digitalt så många kan följa debatterna."
+      },
+      {
+        "category": "Äldreomsorg i världsklass",
+        "description": "Äldre ska vara i centrum, både när vården är omfattande och när endast lite stöd behövs. För att bibehålla och höja kvaliteten i äldreomsorgen behövs personal som trivs på jobbet, och goda arbetsförhållanden. Äldres möjligheter till gemenskap måste stärkas. Ett starkt och nära samarbete med regionen borgar för en bra Nära vård. Och barnomsorg och skola ska förstås ordnas med motsvarande kvalitet."
+      },
+      {
+        "category": "Kinda kan bättre när det gäller miljö och klimat!",
+        "description": "Ta klimathotet på allvar. Solceller på tak och kanske som parker är bra men mer behövs. Vindkraft, biogas för rötning av gödsel och effektivare användning av den energi vi har, är några exempel. Kinda kan producera mer än vi själva behöver. Utnyttja avfall som råvaror. Attraktiv kollektivtrafik, cykelbanor, bredband och god mobiltäckning är annat som underlättar arbete utan kostsamma bilresor."
+      }
+    ],
+    "motivateVote": "Hela Kinda ska fungera\r\nLandsbygden behövs, inte minst för livsmedelsproduktion. Då behövs god service för alla som bor här. Vård, skola och förskola i alla tre delar av kommunen. Öppna köket i Horn. Värdesätt föreningslivet, där också kyrkorna ingår. Ha öppen dialog med invånare och näringsliv, låt politiker ha tillgång till beslutsunderlag. Sänd fullmäktige digitalt så många kan följa debatterna",
+    "name": "Kristdemokraterna Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-kinda"
+  },
+  {
+    "abbreviation": "LPo",
+    "altingetCandidateId": "789",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att en centralisering av  räddningstjänsten lik den som M, C och L förespråkar är till gagn för kommunen som helhet. Vi har idag avtal med ett antal kommuner avseende stöd vid större insatser och det finns inte anledning att släppa kontroll i vår räddningstjänst till ett kommunalförbund.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nedläggningen av stångågårdens tillagningskök var ett felaktigt beslut och har inte blivit någon besparing. Maten har blivit sämre för barn och gamla och vi är sämre rustade än någonsin i kristider. Köket ska öppnas och det ska vara beläget på Stångågården. Hjärtefråga för LPo.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag betalar Kinda för att bli av med sitt matavfall och det blir miljöonödiga transporter till Linköping. Ett rejält biogaskraftverk för elproduktion i Kinda skulle kosta mindre än 5 miljoner och återbetala sig snabbt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Målet för kommunen är att leverera service med bra kvalitet. Om ett företag kan leverera högra kvalitet i äldreomsorgen till en lägre kostnad än kommunen så ser vi inga problem med detta.  Majoriteten av äldreomsorgen ska dock skötas av kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt kommunallagen får inte särskilda medborgare och yrkesgrupper särbehandlas. Bättre om lönenivåerna för äldreomsorgspersonal ökar och att personerna själva får avgöra hur mycket man orkar jobba",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska man göra ett bra jobb med hög kvalitet åt vårdtagare så är det en förutsättning att man kan kommunicera med dem",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lägenhetsuthyrning ska ske på marknadsmässiga grunder annars konkurrerar kommunens bolag med privata näringsidkare",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tycker elever ska alternativ så man kan välja om man vill äta veganskt eller inte",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan inte hålla på och folkomrösta om allting. Det är betydligt bättre om vi skapar bra medborgardialoger. Politiker måste bli bättre på att lyssna på medborgarna och dialogerna behöver bli fler och bättre",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en väl fungerande skola med bra kvalitet och höga resultat idag och det finns ingen som helst anledning att privatisera mer",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "LPo vill öka anslaget till kultur- och musikskolan. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "Skattesatsen är låg i Kinda jämfört med både Östergötland och riket. På grund av stora investeringar i närtid inom räddningstjänst och Skola kommer Kinda på kort sikt att tvingas höja skatten om inte statsbidragen ökar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1469",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A;D!;D!;C;B;D!;B;B;A;2/5;3/5!;2/5!;[1468,1469,1467]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "NEJ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett majoritetsstyre med partier som kan samarbeta och verka för att Hela Kinda ska leva. Vi tror att LPo, S och V för en liknande politik på lokalnivå och kan bilda ett bra styre i kommunen",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "För LPo är det uteslutet att styra med L och C utifrån hur de agerat",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minst ett tillagningskök i varje centralort",
+        "description": "Nedläggningen av Stångågårdens tillagningskök var ett felaktigt beslut som har försämrat matkvaliteten för våra barn och äldre. Vi tänker öppna tillagningsköket på Stångågården i Horn och säkerställa att det finns minst ett fullgott tillagningskök i varje centralort. Köken ska ha god standard och andelen närproducerad mat som används i dem ska öka."
+      },
+      {
+        "category": "Ökad servicegrad för invånare och turism",
+        "description": "Lpo vill ha äldreomsorg på alla centralorter med fler SÄBO platser och barnomsorg med mindre barngrupper. Bussförbindelse Horn-Vimmerby samt Björkfors- Rimforsa ska införas. Barnen ska ha fritidskort, turistmottagandet förbättras och kulturskolan få mer pengar. Räddningstjänst, bibliotek , bredband, näringsliv och byggande ska prioriteras. Medborgardialogerna måste utökas och bli bättre."
+      },
+      {
+        "category": "Utveckla landsbygden, det vinner alla på!",
+        "description": "Vi vill införa en landsbygdsutvecklare som ska stötta och hjälpa bygdeföreningar, idrottföreningar, småföretagare i att förverkliga alla bra ideér för att HELA Kinda ska kunna växa. Det kan handla om bredband, turismutveckling, hantverksutställningar, eller start av småföretag. Landsbygdsutvecklaren är självklart kommunrepresenterant i Leaderprojekt och deltar i marknadsföring av sjöriket Kinda."
+      }
+    ],
+    "motivateVote": "HELA Kinda ska leva. Vi tänker öppna Stångågårdens kök, vi vill ha fler tomter i alla kommun-delar, bra kommunikationer från alla orter och ett väl fungerande näringsliv. Vi vill satsa på skolan, kulturskolan, räddningstjänsten, samt äldrevård och barnomsorg . Det viktigaste är dock att politiker börja lyssna på folket och därför tänker vi utöka dialogen med medborgare, företag och föreningar.",
+    "name": "Landsbygdspartiet Oberoende Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "landsbygdspartiet-oberoende-kinda"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "790",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur vi än gör behöver vi få till ett starkt samarbete med andra kommuner för att fortsätta ha en fungerande räddningstjänst i framtiden. RTÖG är en lösning, men det finns fler vi nu vill se förslag på. Vi tycker att de politiska partierna borde kunna nå enighet i ett beslut som detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köket i Horn behöver upprustas, den kostnaden är inte rimlig med tanke på hur få portioner som skulle tillagas där.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se oss självförsörjande på el och värme, biogasproduktion kan vara en av lösningarna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ju till exempel privata förskolor som fungerar utmärkt som komplement till våra kommunala förskolor. De behöver dock ha samma transparans och spela efter samma spelregler som de i kommunal regi.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara ett bra förslag, för att sjukfrånvaron ska gå ner.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna kommunicera på svenska i dessa yrken.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver både kommun och den privata sektorn att på olika sätt få till fler boenden i Kinda kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på klimat och miljöomställning är detta ett bra förslag. Det viktiga är dock att maten fortsätter att vara god, ha ett högt näringsvärde och vara närproducerad så långt det är möjligt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala pengarna kan användas mycket mer effektivt för att främja demokratin, än genom att hålla folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Vi har väl fungerande privata förskolor som är ett utmärkt komplement till våra kommunala förskolor. Det finns plats för fler. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Kultur främjar livskvalitet. Det är viktigt att som kommun till exempel stödja föreningslivet, kulturella arrangemang och initiativ från medborgare som går samman i kulturella aktiviteter för att öka trivsel bland medborgare.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1464",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C!;B;C;C;C;C;C;C;B;3/5;3/5;2/5;[1468,1464,1467]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Den konstellation där liberalerna får ut mest av sin politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD eller V kan bli svårt, då vi inte kompromissar med grundläggande värderingar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": " Förbättra företagsklimatet genom bättre kommunal service till företagare",
+        "description": "Genom klar och enkel kommunikation och en följsamhet mot deras behov vill vi höja kommunens service gentemot våra företagare och förbättra företagsklimatet i Kinda kommun."
+      },
+      {
+        "category": "Stötta och utveckla nya och befintliga initiativ för ett självförsörjande Kinda",
+        "description": "Genom att ge plats för nytänkande initiativ och samarbeten med företagare, forskare och civilsamhälle, vill vi stötta och utveckla ett självförsörjande Kinda."
+      },
+      {
+        "category": "Förbättra medborgardialogen och den politiska organisationen",
+        "description": "Vi vill förbättra medborgardialogen och samarbete och kommunikation mellan politiker i olika partier och förvaltningen för att få till en smidig organisation som utmärks av lyhördhet och ömsesidig förståelse."
+      }
+    ],
+    "motivateVote": "En röst på Liberalerna i Kinda är en röst på ett attraktivare och mänskligare Kinda. I ett liberalt Kinda står individen i centrum. Vår vision är att Kinda skall bli en attraktivare kommun med framtidstro där både människor och företag ges möjlighet att växa utifrån sina förutsättningar. Genom en god ekonomi och bärkraftig kärnverksamhet kan vi bygga ett mänskligare och vackrare Kinda.",
+    "name": "Liberalerna Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kinda"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "791",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha heltidsbrandmän på plats i kommunen. De har lokal kännedom och kan agerar snabbt vid händelse av kris. Vårt skydd är vår angelägenhet, även om samarbete givetvis är viktigt och önskvärt. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen är till ytan stor och alla delar är lika viktiga. Prioritering kan inte bara gälla antal portioner. Maten ska vara god och näringsrik och det är inte miljövänligt med så många onödiga transporter. Det handlar om livskvalitet för Horns invånare. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser helst att produktionen sker i vår egen kommun. Det är stor efterfrågan på biogas och med världsläget vill vi öka energiproduktionen inom förnybara källor. Kompostering är ett bra komplement, för god matjord till odlingar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska gå till verksamheten och inte till vinstdrivande företag. Dessutom vet vi att de generellt har lägre bemanning, personal med lägre utbildning och lön samt fler timvikarier. Fasta tjänster gav lägre smittspridning under pandemin. Därför vill vi prioritera det. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna fråga har Mp drivit under lång tid, även på nationell nivå. Forskning visar positiva resultat kopplat till hälsa och sjukskrivningar. Sjuk personal kostar mycket pengar. Vi vill också ha bort delade turer och timvikariat. Ta hand om personalen så stannar de längre och orkar arbeta. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den som anställer har ansvar för att personalen kan utföra arbetet på ett bra sätt. T ex att kommunicera med de äldre/brukarna. Det ansvaret behöver inte politikerna ta över. Utbilda fler och gör vården till en attraktiv arbetsplats så att cheferna har fler alternativ när de anställer. Eller erbjud språkhandledare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Planera för hyreshus och bjud in byggherrar som är villiga att bygga för t ex ungdomar. Gärna trähus som lagrar koldioxid, är vackra att se på och har en skön inomhusmiljö. Det finns exempel på projekt i storstäder, men även i t ex Mjölby, där bostäder i olika storlek och prisklass blandas för att få en bra mix av invånare. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bästa vore om det fanns ett vegetariskt alternativ varje dag. En bra kost är allsidig och det kött som serveras ska helst inte vara ultraprocessat. Många barn skulle må bra av att äta mer grönsaker. Viktigt i så fall att en ”köttfri” dag inte innebär ”utan protein”. Med fler vegetariska dagar skulle kommunen ha råd med kött av högre kvalitet: närproducerat och ekologiskt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politikerna är representanter för medborgarna och ska rösta som de tror att medborgarna önskar. Vid stora beslut ska det ordnas medborgardialog, helst fysiskt möte. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Privata företag ska inte bedriva skola i vår kommun, precis som nu. Kommunen är en utmärkt huvudman; andra kommuner besöker oss för att ta del av olika projekt som bedrivs, t ex tillgängliga lärmiljöer där Kinda ligger långt fram. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att Kulturskolan ska utökas med fler instrument och fler aktiviteter. Dessutom vill vi sänka avgifterna rejält. Det är också viktigt med kultur för äldre, som lätt glöms bort. Rik kultur gör en kommun attraktiv att bo i och att flytta till. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "Skatten är låg i Kinda, särskilt utifrån storleken sett. Om vi vill behålla kvalitén på skolan och vården måste vi höja så att vi ligger på genomsnittet i Östergötland åtminstone. Varje elev ska ha en egen lärobok och den som jobbar i hemtjänsten ska ha en lön att leva på. Vi behöver satsa på att hjälpa medborgare i behov av skuldsanering. En sådan person har inte behov av låg skattesats. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": "Kulturskolans avgift nämnde vi tidigare. Den ska sänkas. ",
+        "value": [
+          "1468",
+          "1466",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A;D!;D;A!;D!;B;C;C!;A;2/5;4/5!;3/5;[1468,1466,1467]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "En del frågor är specifika och då behöver en tolka valmanifestet utifrån de gröna värderingarna. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är i grunden gröna socialliberaler och samarbetar gärna med partier som prioriterar hållbarhet och långsiktighet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, det som är emot mänskliga rättigheter. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan i Rimforsa ska vara kvar på sin plats",
+        "description": "Mp har varit emot en flytt av skolan sedan dag 1. Under hela det år som medborgare skapade listor och protesterade var vi det enda parti som stod på medborgarnas sida. Vi kommer inte att ändra oss efter valet heller. Skolan har ett fantastiskt läge och där ska den stanna - för elevernas, föräldrarnas och pedagogernas skull."
+      },
+      {
+        "category": "Sex timmars arbetsdag inom vården",
+        "description": "Mp har länge drivit frågan om 30-timmarsvecka eller 6 tim arbetsdag. Det är dags att Kinda prövar detta för att se om det ökar hälsan och orken hos personalen. Heltidslön och kortare dagar = trygghet och hälsa. Forskning visar att detta fungerar bra inom vissa yrken. Vi måste ta hand om denna viktiga yrkesgrupp."
+      },
+      {
+        "category": "Tillagningskök i Horn",
+        "description": "Kommunen har tjänat väldigt lite på att stänga ner köket och framför allt har det inneburit sämre service för invånarna i Horn. Vi vill därför att köket öppnar igen. God och näringsrik mat är viktigt för hälsan. Att köra bilar fram och tillbaka med mat flera gånger per dag är varken ekonomiskt eller miljövänligt."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda parti som sätter miljö och klimat först. Allt vi står för baseras på forskning och fakta. Värdeordet är solidaritet: med framtida generationer, djur och natur. För att människan ingår i ekosystemen. ",
+    "name": "Miljöpartiet Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-kinda"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "792",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "En liten kommun har inte de resurser som behövs när vi ser framtiden an. Samverkan med andra kommuner är en förutsättning. I framtiden ställs högre krav, framförallt det förebyggande arbetet.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "2019 hade vi ett mycket besvärligt ekonomiskt läge, krav på besparingar om 22 milj kr. Där var nedläggningen av köket i Stångågården en besparingsdeldel, ca 950.00 kr. Dessutom med köket i gång lagades maten mer än 50 % redan i Kisa.\r\nÅterigen är det viktigt att ta ett ansvar när det gäller ekonomin.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra ur klimatsynpunkt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om behov finnes har vi ingen principiell inställning att inte låta privata företag verka.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen klarar inte av det ekonomiskt. I stället skall man ha en dialog med de som jobbar nära verksamheten och finna vettiga former för arbetstider.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att kunna kommunicera med vårdtagarna. En trygghetsfråga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Byggnation skall ske på marknadsmässiga villkor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kött är en viktig del i konsumtionen. Dock skall man ställa krav på att det är närproducerat.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har val vart 4:e år, då sker val av ledamöter och partier. Under mandatperioden   har de valda ett ansvar att lyssna till sin väljare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ingen privat aktör. I dagsläget finnes inget behov.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Lagom nivå i dag. Kultur bör utvecklas mer på frivillig basis.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "En ansvarsfull ekonomisk politik, gör att vi kan ligga kvar på samma nivå som idag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1466",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D!;A;D;C;A;D;A;A;B;2/5;2/5;2/5;[1468,1466,1467]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Borgligt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett varierande näringsliv",
+        "description": "Ett lönsamt näringsliv, små som stora företag, är en garant för en positiv utveckling i kommunen. Arbetstillfällen, investeringar som skapar sysselsättning    hos andra företag, betyder mycket för kommunen."
+      }
+    ],
+    "motivateVote": "Vi står för ordning och reda i ekonomin, ansvarstagande, speciellt i det läge vårt land befinner sig i just nu. Vi prioriterar satsningar  dels på förskola/grundskola, dels på personal/arbetsmiljö inom Vård och omsorg. Ordinarie satsningar på bredbandsutbyggnad, besöksnäring och planverksamhet. Vi vill också att hela kommunen skall utvecklas, därför ser vi till att det bland annat finns tomtmark. ",
+    "name": "Moderaterna Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kinda"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "793",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kinda kommuns räddningstjänst ska samverka brett med nödvändiga organisationer utan att Kinda kommun frånsäger sig ansvaret och kontrollen över vår räddningstjänst och dess utveckling. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett förslag vi själva motionerat om. Nylagad mat och tillhörande dofter gör att människor mår bättre. Det är en värdighetsfråga för våra äldre och våra elever att maten tillagas så nära som möjligt. Minskade transporter bidrar till ökad hållbarhet. Med det världspolitiska läget och kriget i vår närhet ser vi att ett tillagningskök i Horn bidrar positivt till vår krisberedskap.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag betalar vi för att bli av med vårt matavfall. Biogasproduktion kopplat till elproduktion minskar kommunens beroende av extern energiförsörjning. Den bidrar också till den nödvändiga cirkulära ekonomi vi ur hållbarhetssynpunkt måste uppnå för att ge framtida generationer ett gott liv.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattepengar ska stanna i verksamheten och bidra till den nödvändiga utvecklingen av äldreomsorgen i vår kommun. De ska inte gå till vinstuttag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att kortare arbetstid ger ökad produktivitet och friskare personal som i sin tur ger våra äldre en bättre kvalitet på de insatser som görs. Det skulle möjligen också göra Kinda kommun mer attraktiv som arbetsgivare och på så sätt bidra till förbättrad kompetensförsörjning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en värdighetsfråga både för den anställde och våra äldre att de kan kommunicera bra med varandra. Ren vinst för samtliga parter. Språktestet måste dock ligga på en rimlig nivå.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "En förutsättning för att unga vuxna ska kunna bygga upp ett eget liv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver inte vara kött på menyn varje dag i skolan. Det bidrar till en sund och hållbar matkultur som kommer att bli än viktigare när våra barn och ungdomar växt upp. En folkhälso- och hållbarhetssatsning som också kan ge positiva effekter ekonomiskt. Vi ser dock gärna en nyansering med erbjudande om fler vegetariska rätter som komplement. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar bör hållas i specifika frågor av stor vikt för en större del av medborgarna, om och när de uppstår. Det finns ingen anledning att ha någon generell ökning av folkomröstningar. Däremot ska medborgare i större utsträckning kunna vara med i dialog kring frågor som på något sätt påverkar deras liv och den miljö de verkar i.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Skola och barnomsorg i kommunal verksamhet och privata företag kompletterar varandra bra idag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Exempelvis borde kulturskolan vara avgiftsfri för att ge fler barn och unga möjlighet att ta del av utbudet. Vi borde också satsa på kultur för äldre på våra särskilda boende. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "För närvarande är ingen skattehöjning nödvändig. Kinda har mycket låg skatt i jämförelse med samma typ av kommuner och ett utrymme finns för skattehöjningar om det blir nödvändigt. Vi kan inte spara oss in i framtiden om vi vill att hela Kinda ska ha samma förutsättningar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1470",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A;D!;D;A!;C;C;D;C;B;2/5;3/5;2/5;[1468,1470,1467]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill bilda en stabil majoritet med partier som delar våra värderingar, prioriteringar och mål.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som inte delar våra värderingar kring alla människors lika värden. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tillagningskök på de tre största orterna",
+        "description": "Vi vill att skola och omsorg ska kunna njuta av nylagad och näringsrik mat på ett hållbart sätt, utan onödiga transporter. Vi äter med alla sinnen. Ur ett beredskapsperspektiv borde det vara en självklarhet att ha möjlighet att laga mat åt många i flera delar av kommunen."
+      },
+      {
+        "category": "Fritidskort till alla skolungdomar",
+        "description": "Vi vill införa fritidskort på kollektivtrafiken för alla våra ungdomar på högstadiet och gymnasiet. Vi är en liten kommun som inte kan erbjuda alla fritidsaktiviteter på alla orter i kommunen så vi ser det som en självklarhet att stötta våra ungdomar att ta del av fritidsaktiviteter i hela länet oavsett ekonomiska förutsättningar."
+      },
+      {
+        "category": "Bättre arbetsmiljö för anställda inom vård och omsorg!",
+        "description": "Vi vill anställa fler inom äldreomsorgen, förbättra arbetsvillkor och stärka kompetens och kunskap hos personalen. Detta kommer att leda till en ännu högre kvalitet på omsorgen för våra äldre. Vi vill ge alla möjlighet till tillsvidareanställning på heltid och minska beroendet av vikarier."
+      }
+    ],
+    "motivateVote": "Vårt parti står upp för välfärdsfrågorna och allas lika värde, delar man de värderingarna ska man rösta på oss. Vi vill säkerställa, och har konkreta förslag för, att alla delar av Kinda ska leva och utvecklas utifrån sina egna förutsättningar. Vi vill ge alla människor förutsättningar för en aktiv fritid. ",
+    "name": "Socialdemokraterna Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kinda"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "794",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kinda har en mycket välfungerande räddningstjänst med gott arbetsklimat. Vid samgående har ingen brandman placering i Kinda, Vi har också avtal med andra räddningstjänster för det som är lagkrav. Lokal- och personkännedom är också en viktig faktor. Vårt inflytande i RTÖG skulle bli minimalt. Sedan skulle det ta minst 30 minuter att rycka ut från Linköping. Vid större händelser\r\nfinns också avtal.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att alla kommundelar behöver ha tillagningskök. Inte bara för  närproducerad mat utan också av beredskapsskäl. Det behöver inte nödvändigtvis vara på Stångågården men i avsaknad av andra lokaler är Stångågården alternativ. SBN behöver göra ett omtag i frågan. Vi har nu kunnat se hur sårbart vårt samhälle egentligen är och vi behöver rusta för det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sedan ska avfallet köras till Linköping. Även de som har egen kompost är med och betalar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver mer valfrihet i kommunen. Men det är mycket viktigt hur upphandlingen skrivs så att man får med det viktiga för omvårdnad och sjukvård. Man måste ställa krav på det man vill ha ut av en privat utförare. \r\nSedan har man täta inspektioner för att se efterlevnad till kraven.   ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en mycket fin tanke som tyvärr inte har någon bäring i verkligheten. Personalsituationen är mycket bekymmersam, både i kommun och region. Kompetensförsörjningen är kanske bland det viktigaste vi måste ta itu med.  Mycket skulle vara vunnet för personalen om man kunde få bort varannan helg-arbete och delade turer. Den här frågan är inte på något sätt slutdiskuterad utan kommer att följa oss ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har drivit frågan i både Kinda kommun och Region Östergötland, För oss är det självklart att de äldre har rättighet att förstå omsorgspersonalen. Men det finns personal som talar en knackig svenska och där föreslog vi viss utbildning av redan anställda och språktest för nyanställda. Vi fortsätter att bevaka frågan eftersom de äldre har svårt med detta och det handlar också om patientsäkerhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kinda sköter en stiftelse, Stiftelsen Kindahus, bostäder och byggande. Men vi har också fått privata byggherrar som när planarbete är klart kommer att bygga. Tyvärr är kostnaderna att bygga höga och i stigande,  så att få billiga lägenheter är svårt. Kommunen finansierar äldreboenden och LSS-boende.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det ser vi ingen anledning till. Vill vi påverka utsläpp bör vi gå utanför landets gränser och påverka de länder som släpper ut mest. Här måste vi påverka tillsammans med andra men vi i Sverige behöver inte gå före. Vi sätter ingen standard genom att göra det sämre för oss själva. Fou är en annan viktig metod för bättre miljö,",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vissa frågor kan det ge vägledning och fler får säga sitt. Men det är också förenat med merarbete och kostnader.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Återigen är det en fråga om valfrihet, som vi ser som viktigt. Här handlar det också om hur man upphandlar och vilka krav man ställer. Kinda kommun är nog för liten för att vara av intresse för privata utförare.  Kanske vore det bättre att skolan gick tillbaka till staten för en likvärdig skola. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för oss alla, unga som gamla. I Kinda har vi Kulturskolan och nära till Linköpings utbud för de yngre och äldreomsorgen har kulturombud som är viktigt för de äldre.  ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "Givet den demografiska utvecklingen kommer det inte vara möjligt att sänka skatten även fast det vore att föredra.  Kinda kommun står också inför stora investeringar i äldreboende och LSS-boende. De äldre kommer att öka och eftersom alla ska bo hemma så länge som möjligt behövs mer hemtjänsttimmar. Även fler personal på äldreboenden eftersom de äldre som kommer numera är mycket sämre än förr.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1466",
+          "1469",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "B;D;B;C;A;D!;A;A;C;3/5;2/5;3/5!;[1466,1469,1467]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte vad jag vet faktiskt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi känner att vi hör hemma bland borgerligheten.  ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi utesluter ingenting på förhand men några partier står vi ganska långt ifrån. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård- och omsorg i Kinda kommun",
+        "description": "Ett av SD Kindas viktigaste områden handlar om hur vi kan förbättra för våra äldre. Vi vill satsa på en ökning av personal i äldreomsorgen och, till att börja med, en minskning av helgturer. Delade turer blir nästa fråga vi kommer att ta upp och bägge förändringarna handlar om att göra äldreomsorgsarbetet attraktivare. Våra äldre förtjänar det."
+      },
+      {
+        "category": "Hela Kindabygden ska leva!",
+        "description": "Rimforsa har länge varit i blickpunkten på grund av den potential som finns för inflyttning. Men vi får inte glömma bort övriga delar av kommunen och de behov som finns i de olika kommundelarna. Vi kommer att fortsätta titta på vad som gynnar de olika kommundelarna och handla i enlighet med det, inom de ramar vi har. SD har redan visat att vi prioriterar frågan."
+      },
+      {
+        "category": "Ett gynnsamt klimat för näringslivet i Kinda kommun",
+        "description": "Här handlar det om att hitta mark för företagsetablering i Rimforsa, vilket varit ett behov länge. Kommunen behöver hjälpa företagen med de olika tillstånd som krävs och inte inta en rigid hållning här. Att kommunen upplevs som medspelare och möjliggörare! Goda kommunikationer med buss och tåg och även upprustning av Stångådalsbanan tillsammans med fler hyresbostäder."
+      }
+    ],
+    "motivateVote": "Vi står för trygghet, tradition och ett planerat framåtskridande i vår kommun. Vi lyssnar in vad medborgarna tänker i olika frågor eftersom det är dom som gett oss vårt mandat.  ",
+    "name": "Sverigedemokraterna Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kinda"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "795",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0500fd64fb65c289d577ec64fd0ad177",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det viktigt att en liten kommun inte frivilligt släpper kontrollen över viktig kommunal verksamhet. Vi i Kinda vet bäst vilken räddningstjänst vi behöver. Sen samverkar vi gärna med andra kommuner kring kompetensutbyte men vi tror inte att ett kommunalförbund är lämpligt för Kindas räddningstjänst.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e55f942ed61c642be40515eca3f99a88",
+        "questionType": "PROPOSITION",
+        "reasoning": "En viktig fråga i Kinda politiken under mandatperioden. Kindavänstern har varit emot nedläggningen från första början och ser en återöppning och utveckling av köket i Horn som viktigt för framtiden. Även ett tillagningskök i Rimforsa i samband med skolbygget är viktigt. Maten är viktig för oss producerad och tillagad så nära som möjligt ska den vara.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d02b0fef0b02cd69c2e0b5369d5f3c5f",
+        "questionType": "PROPOSITION",
+        "reasoning": "En resurs att ta tillvara. Vi ser gärna att vi i Kinda utreder om det är möjligt att på ett bra sätt ta tillvara detta i Kommunen och inte behöva transportera det norr ut.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "763f06d2703dd983080350fef95dbe24",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det viktigt att en gemensam välfärd för oss alla. I en liten kommun som Kinda skulle privata etableringar inom äldreboenden och hemtjänst riskera att försvåra och fördyra den kommunala omsorgen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a002a9447f9e64c82e986a5d497c4367",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna klara bemanningen inom omsorgen på sikt måste vi tänka nytt. Situationen idag med höga sjuktal, stor personalomsättning och svårigheter att rekrytera ny personal är inte hållbar. Vi måste fråga oss vad skulle kunna få fler människor att ta jobb i omsorgen och vad som skulle få fler att stanna kvar längre. Kortare arbetsdag och på sikt sex timmar tror vi skulle ha den effekten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "90723a0e7315e349c0f3444df4ac92cd",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som anställs inom omsorgen ska givetvis behärska svenska så de kan utföra sitt arbete. Men det finns också andra egenskaper och färdigheter som personer inom omsorgen behöver och som mär lika viktiga. En bedömning av om en person är lämplig att anställa fattas av den som anställer personen utifrån ett helhetsperspektiv. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "831ac30d41cc8d8835bd1e4e9ef9fdfb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kindahus bör bygga hyresrätter med rimliga hyror och kommunen bör agera där så är möjligt för att det som byggs inom kommunen är lägenheter som vanligt folk har råd att bo i. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2b31581ed7ae8dd988c00959897a876c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kött eller inte kött är inte den viktigaste frågan för oss när det gäller skolmaten. Skolmaten ska vara närproducerad och visst bör vi minska konsumtionen av kött som kommer från industriell uppfödning främst från andra länder. Köttproduktion behövs för den biologiska mångfalden och i Kindaskogarna finns mycket vilt. Framför allt vildsvin som vi behöver äta mer av. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ec621a6fd71a2872cc90f4125a92e76",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är kommunala folkomröstningar något som ska tas till i absoluta undantagsfall. Det är dyrt och används när politiker inte vill eller vågar ta ansvar för beslutet i en fråga. Vi har val vart 4e år. Kinda är också en liten kommun och god löpande dialog med medborgare är relativt enkelt att genomföra och långsiktigt betydligt bättre om den politiska viljan finns.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c325ead0f5fce74ea183340b5aae3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Finns inte och det finns inget behov.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "44e05e0ac6c181f2d8afc61aef215569",
+        "questionType": "RANGE",
+        "reasoning": "Generellt lägger Kinda lite på kultur. 2018 genomfördes en omorganisation som gjort att Kulturen hamnat på den stora samhällsbyggnadsnämnden som ägnar väldigt lite tid och resurser åt kulturfrågor. Detta vill vi förändra.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0044caa37cc0ef7c8a673f0bd538c42f",
+        "questionType": "RANGE",
+        "reasoning": "I vårt budget förslag för 2023 förslog vi en skattehöjning på 50öre. Vi ser att välfärden behöver mer resurser för att på sikt kunna fungera. Vi har i Kinda idag en väldigt låg skatt. Med vårt förslag skulle vi hamna precis i mitten av Östergötlands kommuner.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0277d2ac69badc8777182b13993f2d67",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1468",
+          "1470",
+          "1467"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A!;D!;D;A;D;B;D;C;A;2/5;3/5!;3/5;[1468,1470,1467]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Efter denna mandatperiod av svaga styren utan egen majoritet som har ägnat sig åt internt intrigmakeri och blivit överkörda i viktiga frågor ser vi behovet av en stabil majoritet med medborgarnas bästa för ögonen. I denna majoritet vill vi naturligtvis att Vänsterpartiet ska ha ett starkt inflytande.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Prioritera byggnation av hyresbostäder",
+        "description": "Satsningar på inflyttande till kommunen måste innehålla bostäder av olika slag. Idag planeras inte tillräckligt med hyreslägenheter. I Kinda finns för stor andel villor. Hyresrätter bidrar till rotation i bostadsbeståndet då äldre kan flytta från villan och yngre kan få sitt första boende i kommunen."
+      },
+      {
+        "category": "Stärk välfärden",
+        "description": "Satsningar på arbetsmiljö inom äldreomsorgen. Bättre arbetsmiljö, fler kollegor, inga delade arbetspass. Arbeta för att införa sex timmars arbetsdag. Satsningar på skola och förskola. Stärk upp med resurspersonal som kan avlasta lärare och ge elever i behov av stöd det stöd de behöver. Förebyggande hälsofrämjande arbete för äldre."
+      },
+      {
+        "category": "integration och jämlikhet",
+        "description": "Ett aktivt integrations och jämlikhetsarbete. Kinda har grupper av nysvenskar som står utanför arbetsmarknaden och är en resurs, bland annat för välfärden. Den politiska representationen i Kinda är skev allt för stor andel av äldre män och för lite andel kvinnor och nysvenskar."
+      }
+    ],
+    "motivateVote": "Kindavänstern driver på för en hållbar och jämlik kommun med en välfärd värd namnet för alla. Kinda kan så mycket bättre än idag. Skolresultaten går åt fel håll, arbetssituationen i vården är ansträngd och arbetet med att ställa om kommunen till en hållbar och klimatsmart kommun går alldeles för långsamt. ",
+    "name": "Vänsterpartiet Kinda",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kinda"
+  }
+]

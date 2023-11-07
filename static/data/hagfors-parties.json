@@ -1,0 +1,1047 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "476",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vet att dammägarna har i många fall rätt att riva dammar som man inte längre har användning för. Kommunen kan yttra sig över konsekvenserna av att riva dammar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är för tidigt ställd. Vi har beslutat om en avsiktsförklaring där kommunen och regionen gemensamt ska se på hur sjukhuset kan användas. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till privat drivna verksamheter och tror att badhuset utvecklas bäst genom att drivas i privat regi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga kommunala bolag som konkurrerar med privata näringslivet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kommer inte klara bemanningen om detta förslag skulle genomföras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser ingen fråga nu som skulle motivera en folkomröstning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att de anställda har så bra språkkunskaper i svenska att missförstånd inte uppstår mellan anställda och vårdtagare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte finansiera men kanske gå i borgen som vi gjorde när det gäller KHF Uvå strand.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fn har vi inga privata företag inom verksamheten och så vitt vi vet inga som har uttryckt intresse. Om det blir aktuellt så är det viktigt att man har kommunalt drivna äldreboenden och kommunal hemtjänst kvar också för att kunna jämföra kvalitet och kostnader.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand ska detta ske i privat regi.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fördelningen ska ske solidariskt mellan alla kommuner.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bara några förskolor drivna i privat regi men inga skolor. Inga privata intressenter finns idag som vill driva skolor men vi är positiva till friskolor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": "Får vi ekonomiskt utrymme så är kulturen viktig för att kunna vara en attraktiv kommun där medborgare vill bo kvar och flytta till.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": "Målsättningen är att vi inte ska behöva höja kommunalskatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1193",
+          "1195",
+          "1191"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C!;C;D!;C;A;B;B;C;B;C;B;A!;2/5;3/5;2/5!;[1193,1195,1191]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Eftersom vi ser att kommunens ekonomi blir allt mer ansträngt åren framöver så behöver vi åstadkomma en majoritet efter valet. Då blir det enklare att fatta nödvändiga men inte alltid populära beslut.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte ingå i ett styre där SD och V ingår.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Civil beredskap",
+        "description": "Mer närproducerade råvaror i våra tillagningskök. Mindre halvfabrikat mer tillagat från grunden. Ge möjlighet för medborgarna att odla på kommunal mark. Utreda vilken lagerhållning vi behöver ha av såväl livsmedel som alla andra produkter som en kommun behöver."
+      },
+      {
+        "category": "Bättre resultat i skolan.",
+        "description": "Skolresultaten är inte tillfredsställande. En orsak är brist på legitimerade lärare men vi behöver satsa mer på läromedel inte minst i grundskolan. Eleverna behöver tillgång till egna tryckta läromedel utöver digitala."
+      },
+      {
+        "category": "Bättre företagsklimat.",
+        "description": "De privata företagen skapar välståndet i vårt land. Kommunen ska underlätta etableringen av nya företag men också värna de befintliga. Det ska vara enkelt att möta kommunala  tjänstemän och få kvalificerat stöd och i samband med tillståndsansökningar. Förbättringar ska ske i dialog med företagarna."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som ser till hela Hagfors. Vi tar ansvar för kommunens ekonomi och vi kan kompromissa och samarbeta med andra partier. Utbildning är viktigt för våra ungdomar och vi vill satsa på närproducerade råvaror i våra tillagningskök. Vi ser att kommunens beredskap i händelse av kriser behöver höjas.",
+    "name": "Centerpartiet Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-hagfors"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "477",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan förändra landskapet på ett negativt sätt. Då påverkar det de som bor och verkar inom det området dammen finns. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fina lokaler som är värda att användas och inte bara stå tomma till ingen nytta",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som situationen är idag så är det tufft för föreningar med ekonomin. Så detta skulle vara ett bra sätt att stötta föreningar ekonomiskt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med den ekonomi som är i kommunen och att vi går mot sämre ekonomiska tider så är det inte ekonomiskt genomförbart. Även om det ur ett arbetsmiljö synpunkt skulle vara bra för personalen. Men ökad personalstyrka är en bättre väg att gå för belastningen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är positivt ur den synpunkten att det ger kommunens invånare möjlighet att säga vad de tycker. Problemet är att det oftast är få som röstar i lokala folkomröstningar och då blir resultatet lite vacklande och priset för ett osäker resultat är inte ekonomisk försvarbart alla gånger. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste är att kvaliteten är bra på vården och att det finns en valfrihet från de som nyttjar detta. Sedan kan vinstuttaget i privata vårdföretag diskuteras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det tror jag är viktigt för att folk skall börja våga gå över till elbilar. Bra om kommunen vågar ta första steget, för att invånare också ska kunna våga ta steget. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viss inflytande är viktigt även om vi bör ställa upp för de som söker ett bättre liv i vårt land så skall vi göra det vi kan. Men det måste också vara på en nivå som kommunen mäktar med. Men ingen kommun skall kunna säga nej, utan alla måste hjälpa till. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt att kulturlivet är levande och att det finns för alla åldrar. Därför behövs mer pengar så att kommunen kan jobba mer utåtriktad och stödja olika kulturföreningar mm",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en hög skattesats, men pengarna behövs och det är inte en omöjligt att man måste höja i framtiden om vi skall kunna genomföra de saker som kommunen måste sköta. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1197",
+          "1194",
+          "1191"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C;D;D!;B;A;B;C;B;C;D;C;2/5;3/5;2/5;[1197,1194,1191]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ytterligare mandat, ev. allianssamarbete, vågmästarroll där vi bedömer varje fråga för sig och utgångspunkt med vad vi anser vara kommunens bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Personaltäthet barnomsorgen",
+        "description": "Bristen på personal i barnomsorgen påverkar barnens anknytning, då den är sårbar och många timvikarier måste gå in och fylla upp. Men bristen påverkar också personalens arbetssituation. Vi vill öka personaltätheten för att skapa en trygg omsorg för både barn och personal. Men även i kommunens övriga omsorgs områden behövs mer personal för god arbetsmiljö."
+      },
+      {
+        "category": "Verkar för Blinkenbergsparken blir en park för alla åldrar",
+        "description": "Idag har vi en mycket fin park på Blinkenberg med lekplats, scen och frisbeegolf. Men vi skulle utveckla den så den blev mer levande och med bättre service. Med bla annat en servicebyggnad med cafe, toaletter och möjlighet att kanske få låna en frisbee eller andra sällskapspel och verka för kulturprogram för scenen. Så att parken blir en samlingspunkt i Hagfors för alla åldrar. En levande park."
+      },
+      {
+        "category": "Sjöar och dammar",
+        "description": "Även om vattendomar ligger på ett på ett högre plan, så vill vi att kommunen verkar för att dammar bevaras i vår byggd. Dels för att det har inverkan på den miljö vi har i bygd. Men också för att det är kulturhistoria, då många av dessa har tillkommit av en orsak. Dessa vattenspeglar är ett trevligt inslag för alla turister som kommer till vår byggd."
+      }
+    ],
+    "motivateVote": "Med vårt mandat har vi fått inflytande genom vågmästarroll i kommunen. Man kan fortsätta bygga fina lokaler men tar vi inte bättre hand om våra anställda så har vi ingen utbildad personal i verksamheterna. Vi vill ha: utökat samarbete med samarbete med lokala näringslivet, satsning på skolan i Ekshärad, ökad personaltäthet, bättre arbetstider, tryggare skola med mindre klasser, kulturliv för alla.",
+    "name": "Liberalerna Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-hagfors"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "478",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "De vattenspeglar vi har i kommunen är en del av kulturarvet kring utvecklingen och industrialiseringen av kommunen. Förvisso har mark och miljö en gång sett annorlunda ut med detta är vad vi idag har byggt vår bygd kring. Vi ska i möjligaste mån arbeta för ett bevarande av våra vattenspeglar i den form vi ser dem idag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "I arbetet med en god och nära vård, hälsa och omsorg kan de gamla sjukhuslokalerna komma väl till pass genom att både regionen och kommunen kan förlägga verksamhet i huset som idag finns på andra platser och/eller idag helt saknas i kommunen. Verksamhet i huset kan komma hela Värmland till gagn och avlasta verksamhet på ex. CSK och Torsby sjukhus samt minska resvägen för patienten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att vi har ett fungerande badhus. Privat regi är lämpligt unde förutsättning att det drivs av en seriös aktör som vårdar anläggningen såväl som varumärket Hagfors kommun. Kommunal drift ger förvisso större kontroll men det är samtidigt viktigt att stimulera tillväxt och drift av företag som verkar i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska stimulera barn och ungas utveckling. Aktiviteter för ungdomar är en investering för framtiden. Genom att möjliggöra arenor och samlingsplatser för ungdomsverksamhet kan vi nå ut till en viktig målgrupp, skapa förutsättningar för meningsfulla aktiviteter och förebygga samhällsproblem.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": "En fri konkurrens gynnar tillväxten. \r\nHagfors Energi och Hagforshem fyller idag viktiga funktioner i kommunen som gynnar invånarna. Även om Hagforshem konkurrerar med privata hyresvärdar och Hagfors Energi verkar på samma marknad som ex. leverantörer av susmtem med värmepumpar är det smidiga lösningar som gynnar kunden och därmed samhällsmedborgare och företag på orten.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "I sak en fråga värd att diskutera. Dock står vi idag inför faktum att vi har svårt att rekrytera personal till bland annat äldreomsorgen. Moderaterna är idag inte beredda att lägga ett sådant förslag men är öppna för en utredning kring vad som är mest gynnsamt för att det ska bli attraktivt att söka arbete inom äldreomsorgen i Hagfors kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": "I det fall att en folkomröstning fyller ett syfte bör sådan hållas. Det finns absolut en poäng att beslut tas nära medborgarna och att de i relevanta fall involveras i processen. \r\n\r\n\r\n",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns yrken där språket inte är avgörande men i arbetet med människor är det av vikt att språket fungerar, särskilt när det gäller hemtjänst och omsorg där mottagaren av tjänsten befinner sig i en utsatt situation och måste kunna förstå och göra sig själv förstådd i kontakten med personalen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med en bredd av olika boenden. Inom det kommunala bostadsbolaget finns idag varierande standard från enkelt till modernt nyrenoverat. Vid behov av fler kommunala lägenheter ska standard spegla den efterfrågan kunderna har och priset får då följa därefter. I det fall att privata aktörer vill bygga lägenheter är kommunens uppgift att på ett smidigt sätt möjliggöra processen.\r\n\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fri konkurrens på lika villkor är önskvärt i de flesta fall. Förslaget är ok under förutsättning att det sker tillsyn som säkerställer kvaliteten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att det satsas på publika laddstolpar som möjliggör att förbipasserande kan stanna, ladda bilen och samtidigt äta en bit mat eller shoppa. Förslaget är ganska bra men antalet behöver ej vara stort. Det viktiga är att det finns tillgång till laddstolpar och att man vid montering förbereder för att på ett enkelt sätt bygga ut efter behov.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Olika kommuner har olika förutsättningar och därav bör kommunerna i vart fall medverka i dialogen kring hur situationen löses på bästa sätt, både för den nyanlände såväl som kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": "Svårt att idag avgöra hur stor del som ska bedrivas privat. Det viktiga är att skolan håller en hög standard där elevers behov tillgodoses och förutsättningarna för att lyckas väl med skolan optimeras. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": "Aktiviteter för alla är viktigt likväl som kulturupplevelser i stort och smått. Satsningar på lokalt kulturarv såsom våra lokala museer likväl som upplevelser kring lokal matkultur eller veteranbilskultur är områden där satsningar kan göras. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": "På sikt vill vi se skattesänkningar. Vi behöver arbeta på flera plan för att göra Hagfors kommun mer attraktiv och över tid öka i befolkning, i dagsläget behöver vi behålla nivån och arbeta för en god ekonomisk hushållning. Fler i arbete som bidrar till kommunens skatteintäkter ska övertrumfa ett ökat skattetryck för den enskilde kommuninvånaren.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1193",
+          "1195",
+          "1192"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D!;C!;D!;B!;B;C;D!;C;C;C;D;3/5;3/5;1/5!;[1193,1195,1192]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi delar partiets uppfattning i generella drag men givetvis är lokala anpassningar nödvändiga då en landsbygdskommuner utmaningar skiljer sig från rikspolitiken. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi som litet parti i det lokala sammanhanget vill verka för ett styre tillsammans med ett eller flera andra partier som likt Moderaterna står för utvecklat företagande, arbete före bidrag och ett hållbart Hagfors genom hela livet!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Önskvärt med bred dialog i sakfrågor och samverkan med partier som delar vår syn",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla näringslivet",
+        "description": "Hagfors har växt fram runt stålindustrin. Företag har blomstrat i dess närhet. I takt med att samhället utvecklats och processer effektiviserats har antalet arbetstillfällen minskat. Moderaterna vill stärka det befintliga näringslivet och samtidigt skapa rum för nya företag att växa fram. Genom riktade satsningar som stärker lokala företag och lockar nya vill vi arbeta för fler arbetstillfällen"
+      },
+      {
+        "category": "Förbättra gator och vägar",
+        "description": "Helheten av samhällsbilden är viktig för att stärka attraktionskraften. Genom satsningar på upprustning av gatu- och vägnät i större omfattning skapar vi förutsättningar för såväl säkerhet som trivsel. Ingen blir glad av potthål och skadade ytbeläggningar eller avsaknad av bra belysning när mörkret faller på. Vi vill skapa miljöer som gör det säkrare för gång cykel och biltrafik i kommunen."
+      },
+      {
+        "category": "Aktiviteter för alla",
+        "description": "Runt om i kommunen finns platser värda att bevara och utveckla. Moderaterna vill arbeta för att skapa nya och återskapa miljöer där kommuninvånare och besökande kan trivas själva eller tillsammans. Satsningar på upprustning av allt från badplatser till Folkets park samt utveckla nya platser att mötas på. Oavsett om du gillar fiske, museibesök eller musik ska Hagfors vara det självklara valet."
+      }
+    ],
+    "motivateVote": "Moderaterna i Hagfors vill placera rätt krona till rätt insats. Vi måste tänka långsiktigt och samtidigt fånga ögonblicket. Hagfors bästa och invånarnas trygghet i fokus där vi arbetar för en hållbar arbetsmarknad med satsningar på företagande samtidigt som möjligheter skapas för att Hagfors kommun ska vara den mest attraktiva kommunala arbetsgivaren i Värmland. Ett Hagfors för alla helt enkelt!",
+    "name": "Moderaterna Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-hagfors"
+  },
+  {
+    "abbreviation": "OR",
+    "altingetCandidateId": "479",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi skiljer på förvaltning och politik. OR:s politiska ambition är att driva en förändring av de lagar och förordningar som styr utrivning av dammar, och aktivt påverka de myndigheter och beslut som reglerar hur dammar rivs. OR anser att i stort sett alla vattendrag i Hagfors kommun reglerats för att utnyttja vattnets kraft och ska klassas som kraftigt modifierade vatten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra förslag och något som vi redan driver. \r\nVi måste se hur vi kan samverka med regionen än mer kring olika vårdinsatser och hur vi kan skapa än bättre förutsättningar för de boende i kommunen. \r\nVi vet även att det står många tomma lokaler vid Vårdcentralen i Hagfors idag och det är bättre om vi kan fylla dessa lokaler med mer vård till fördel för våra invånare i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här ska drivas i privat regi men då måste vi skapa rätt förutsättningar i kontraktsskrivningar för de som driver badet. \r\nOm man uppfyller de krav kommunen har på öppettider så är det helt upp till dem att avgöra sen hur man vill ha öppet så länge badet drivs på ett bra sätt ska inte kommunen styra den delen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är en ganska tudelad fråga och man skulle nästans tro att frågorna är gjorda av ett visst parti. Vi vet att där man prövat det här så har man bokat så många tider så det har uppstått behov av fler hallar vilket så klart leder till ökade kostnader. Det har även skapat osämja mellan olika klubbar när det gäller bokning av tider. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det hela beror såklart vilka verksamheter det handlar om vilket inte framgår här. Vi har redan idag väldigt många delar på entreprenad som gräsklippning, snöröjning, städ, badhus, olika delar inom förvaltning av byggnader m.m ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tror att många skulle önska 6 timmars arbetsdag. Men vi vet vilket behov som finns idag inom de allra flesta verksamheter så är inte det här ens möjligt oavsett vilken ekonomisk kostnad det skulle innebära.  Vi har även sett platser där man försökt genomföra det här och det har oftast fått avslutas knappt innan man kunnat påbörja och prova 6 timmars arbetsdag. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är en svår fråga. \r\nDet är inte helt enkelt för allmänheten att se helheten och kunna sätta sig in i olika frågor. \r\nSamtidigt kan det ibland vara bra att få höra folkets röst än mer i vissa frågor. Sen så är en folkomröstning vägledande och inte tvingande i olika frågor.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är en väldigt viktig fråga då man hanterar mediciner och har med gamla människor som kan ha svårt att höra men även svårt att förstå vad de gamla kan säga. Det handlar om att hantera digitala system och överlämningar kopplat till patientsäkerhet. \r\nÄven om behovet är stort av vårdpersonal är det viktigt att man behärskar det svenska språket både i skrift och tal.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här ansvaret måste ligga på staten. Kommunen driver sina kommunala bolag marknadsmässigt och ett bolag ska drivas på affärsmässiga grunder även om det är ett kommunal bolag. \r\nDäremot ska man jobba för att kunna erbjuda olika typer av hyresbostäder inom det egna beståndet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen fråga som partiet tagit ställning till då det aldrig har varit någon aktuell fråga inom kommunen.  Men som i alla frågor ska man vara lyhörd och lyssna till om den här typen av frågor skulle dyka upp och vilka avsikter aktören kan ha. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska jobba med att skapa en bra plan för var publika Laddstolpar skulle kunna etableras. \r\nSen finns det en marknad för det här området. \r\nKommunen ska däremot jobba för att minska sitt fossila användande. inom den egna bilflottan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här är det viktigt att vi har en väl fungerande fördelning utifrån en fördelningsnyckel. . \r\nDet här har blivit betydligt bättre efter den enorma flykting våg som var 2015-2016. Ansvaret ska ligga på staten att ha och där ansvaret kan ligga på olika myndigheter som Migrationsverket eller Länsstyrelsen och inte vara upp till varje kommun hur många man vill ta emot. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": "Att det finnas en valmöjlighet när det gäller skolan behöver inte vara fel.  Däremot kan inte upplägget vara som idag att man styr vilka elever man önskar ha till de privata skolorna och de kommunala skolorna får ta ett betydligt större ansvar för de elever som behöver många stödåtgärder i skolan. Åtgärder som kostar stora pengar. \r\n",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": "Vi lägger ganska mycket mer pengar på kulturen idag än vad kommunen gjorde när vi kom in i politiken. Det är oerhört viktigt att barn kan berikas med kultur på olika sätt. Vi har gjort en stor satsning genom att hyra in oss i en stor lokal som ämnad för kultur och där vi kan inymma fritidsgård,  kultur och Bio. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": "Man önskade att den kommunala skatten skulle vara lägre men vi är i situation där vi ska investera enorma summor pengar de kommande åren vilket gör att vi i nuläget inte kan hålla en lägre skatt. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1195",
+          "1192",
+          "1198"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D!;D!;C;C!;B;B!;D!;B;B;B!;A!;1/5!;3/5!;1/5!;[1195,1192,1198]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Har inget parti på Riksdagsnivå. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi jobbar för att få egen majoritet. \r\nOm så ej sker är vi öppna för diskutera med samtliga partier för att se hur vi kan hitta olika lösningar som kan vara bra för de boende i kommunen. Men sannolikheten att OR och S skulle samarbeta mer formellt är inte så troligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inget vi tagit ställning till utan vi får vänta in val resultatet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "utbildning",
+        "description": "Utbildning och kompetensfrågan är en oerhört viktiga fråga. Vi satsar därför oerhört mycket på att skapa moderna och attraktiva utbildningar och attraktiva skolmiljöer runt om i kommunen. Vi kommer bla bygga ett helt nytt Teknikhus riktat mot gymnasiet och vuxenutbildningar där många av våra företag kan få arbetskraft i från. Vi har även byggt upp ett lärcenter för studier mot högre utbildningar."
+      },
+      {
+        "category": "infrastruktur ",
+        "description": "Det här är ett brett och oerhört viktigt område för att skapa en attraktiv kommun för de boende men även människor som önskar flytta hit. Därför är Satsningar på belysning, vägar, grönyteskötsel, byggnation av bostäder , fiber och vårt flyg oerhört viktiga delar för kommunens attraktivitet och något vi satsar stor pengar på idag och kommer fortsätta satsa på."
+      },
+      {
+        "category": "God och Nära  Vård",
+        "description": "Vi har inlett ett fördjupat samarbete med Region Värmland för att se hur kan vi utveckla vården för de boende i kommunen. Mycket handlar nu om att kunna erbjuda så mycket vård som möjligt nära vårdtagaren."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som är fritt från ideologiska låsningar. \r\nVi har sakfrågan i fokus och vi kan diskutera frågor oavsett partifärg. \r\nIdeologier kan i vissa fall göra att det blir låsningar trots att frågan kan vara rätt för en kommun. \r\nVi jobbar för att utveckla hela kommunen och inte bara delar av den. ",
+    "name": "OBEROENDE REALISTER Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "oberoende-realister-hagfors"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "480",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "S politiska ambition är att driva en förändring av lagar och förordningar som styr utrivning av dammar, och aktivt påverka de myndigheter och beslut som reglerar hur dammar rivs. Det kan man inte göra som ett lokalt parti. Då måste vi driva frågan på nationell nivå och där har vi duktiga företrädare från Hagfors kommun. S anser att vattnet ska klassas som kraftigt modifierade vatten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har beslutat om en avsiktsförklaring där kommunen och regionen gemensamt ska se på hur sjukhuset kan användas. Om regionen kan utöka sin verksamhet på VC är det bra. Vi får dock avvakta vad det leder till. \r\nGenerellt när det gäller fler Säbo och demensboende vill vi hellre se ett mer centralt läge i nya moderna lokaler. VC är ej anpassad för detta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att vi har ett fungerande badhus. Privat regi är lämpligt unde förutsättning att det drivs av en seriös aktör som vårdar anläggningen såväl som varumärket Hagfors kommun.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det tycker vi absolut. Aktiviteter för ungdomar är en investering för framtiden. Genom att möjliggöra arenor och samlingsplatser för ungdomsverksamhet kan vi skapa förutsättningar och förebygga samhällsproblem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag inga kommunala bolag som konkurrerar med näringslivet och ser ingen anledning att starta upp något sådant. \r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att många skulle önska 6 timmars arbetsdag men idag är inte det här möjligt. Vi ser hellre att vi satsar på bättre arbetsmiljö så man trivs på jobbet och på ökad grundbemanning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": "I det fall att en folkomröstning fyller ett syfte kan sådan hållas men det är svårt att få till en bra frågeställning. Vi tror mer på att man har en strukturerad dialog med medborgarna i större frågor. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framförallt inom vården är det viktigt att anställda har bra språkkunskaper i svenska. Annars är risken att missförstånd uppstår mellan anställda och vårdtagare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ännu en fråga som vi måste driva på nationell nivå. Ett lokalt parti kan inte göra det. Det måste bli ändrade avskrivningsregler på landsbygden vid nybyggnation. \r\nPå lokal nivå kan vi tex gå i borgen som vi gjorde när det gäller KHF Uvå strand.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska driva vården i kommunal regi. Vi har inga privata alternativ idag.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand ska detta ske i privat regi men kommunen ska skapa förutsättningar för privata aktörer att sätta upp publika laddstolpar. \r\nKommunen kan ta fram förslag på platser vilket har påbörjats. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi har en väl fungerande fördelning mellan kommunerna. Ansvaret ska ligga på staten men som kommun ska man kunna tycka till hur många man kan ta emot.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": "Vi har några förskolor i privat regi men inga skolor. Vi ser heller inget behov av privata skolor i vår kommun.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen viktig för att kunna vara en attraktiv kommun där medborgare vill bo kvar och flytta till.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": "Målsättningen är att vi inte ska behöva höja kommunalskatten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1192",
+          "1198",
+          "1191"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C;C;D!;B;C;B;C!;C!;B!;C!;B;2/5!;3/5;2/5!;[1192,1198,1191]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill ha ett mandat att genomföra Socialdemokraternas politik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det viktigaste är ett de som styr ska ha en majoritet tillsammans. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fyra bra skolor i kommunen",
+        "description": "-Kyrkheden skola ska bli en modern och hållbar F-9 skola genom om/nybyggnation under mandatperioden.\r\n-Övriga skolor under mandatperioden. Sunnemo F-6, Äbc F-12, Råda F-6\r\n-Föräldrar ska ha rätt att välja skola för sina barn genom det fria skolvalet.\r\n-Utöka läromedelsbudgeten.\r\n-Vi ska prioritera personalrekrytering inom skola och barnomsorg."
+      },
+      {
+        "category": "Förbättra äldreomsorgen/LSS",
+        "description": "-Bra kvalitet för brukarna.\r\n-Fokus på bättre arbetsmiljö/arbetsvillkor för anställda.\r\n-Vi ska ha nöjd personal. \r\n-Arbetsskor/arbetskläder till flera yrkesgrupper. \r\n-Marknadsmässiga löner.\r\n- Vi behöver fler händer i vården.\r\n- Personalrekrytering ska prioriteras."
+      },
+      {
+        "category": "Rikare Fritid/Livskvalitet för kommuninvånarna",
+        "description": "- Föreningsråd ska införas.\r\n- Medborgarbudget där invånarna får större inflytande över investeringar på orten där de bor.\r\n- Utökat stöd till föreningar och ideella krafter\r\n- Hyresfritt i kommunala lokaler för ungdomsverksamhet.\r\n- Allvädersbanor på Hagforsvallen i samarbete med föreningslivet.\r\n- Ny GC-bro vid Sund i Hagfors.\r\n- Vi ska jobba för att motverka dammutrivningarna i kommunen."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som står upp för demokrati och vi tro på att det är tillsammans som vi skapar en bra framtid. Detta gör vi tillsammans med företag, föreningar och invånare. ",
+    "name": "Socialdemokraterna Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-hagfors"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "481",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0705fec705df9095f3f9d077e1d87773",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om dammar rivs dålig för lokala fiskbestånd, boende och turister.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f280bdee3e9ca24ee45c27313535b18",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ägs inte av kommunen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d48aba65e229d23f0f86ea661437698e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att en utomstående entreprenör sköter driften är bra",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5e7e1327e1ea1a93a0ce6b67167f4221",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a40c56caea55f3e7d6c2d4eed2459935",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59ea21a71ce9d0a3e7e8e08a368b2fcc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8727fb303d35f26deac61b11e4f23ecf",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "990e0c12f2796a6644f10f6deddeb62b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3beb00798a7c04c3993b916e309289a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "37a8b09291371bad0fbcc903103ab54f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a4671d4cd13ba89e7965b4f8da1451",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c4ee1907d1bfd60d7778b5c508fac39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bab8fce0d75cb3f129093457aa7b5df6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9975732f9dfcbae12de18dbb1f2ac395",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "24d8faf1ba09c2dab9f84fcfc1bd33fb",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9fd0d84a7fe1e46936df12e8a2464",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1195",
+          "1192",
+          "1194"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D;C;D;B;B;D;D;C;C;C;D;2/5;2/5;2/5;[1195,1192,1194]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "\r\n\r\nEtt styre där SD ingår i styret. Gärna med Oberoende Realister (OR) och Moderaterna\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n.SD största parti.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMiljöpartiet. Centern ( med nuvarande partiledare).",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En attraktiv kommun. ",
+        "description": "Om människor inte trivs i kommunen blir det en nedåtgående spiral. Mindre skattebetalare, sämre service,  Fler som flyttar osv."
+      },
+      {
+        "category": "Nej till vindkraft",
+        "description": "SD Hagfors säger nej till vindkraft i kommunen. Vindkraft genererar inga pengar till kommunen. Risken är att när verken tjänat ut säljs till något \"konkursföretag\" och så står markägare och kommun med stora kostnader för attt återställa marken. All plast bryts ned av väder och vind. Det kommer att bli stora mängder microplast i naturen. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nrisken är att"
+      },
+      {
+        "category": "Riv inte gamla dammar",
+        "description": "Om alla gamla dammar rivs blir det ju mindre vatten och mindre fisk. Många mindre reglerbara dammar kanske kan ersättas med en fördämning av sprängsten. Mellan havet och Nordvärmland finns det ju ett stort antal stora vattenkraftverk. Om det skall vara ett fossilfritt Sverige kan ju inte de rivas, så det blir ju inte så mycket fiskvandring hur som helst."
+      }
+    ],
+    "motivateVote": "Vi motsätter oss centralisering i storskalig form. Vi vill ha en trygg och kunskapsinriktad skola och en värdig äldreomsorg, bättre besöksnäring och landsbygdsservice\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMan måste utgå från den lokala verkliheten. Inte från stora kontoret ( EU). Exempel: Estonia ( där var bara tidtabellen det enda intressanta, inte den lokala verkligheten).   ",
+    "name": "Sverigedemokraterna Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-hagfors"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "482",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Hagfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-hagfors"
+  }
+]

@@ -1,0 +1,1295 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1963",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha fler hyresrätter i kommunen. Om marknaden inte löser det är det rimligt att det kommunala bostadsbolaget bygger mer.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Pendlarparkeringarna ska ligga nära kollektivtrafiken, de måste vara i gott skick och laddstolpar ska byggas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan ska ge alla elever möjlighet att utvecklas efter sina egna förutsättningar. Därför behövs spetsklasser för högpresterande elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varje kommun måste ha en närvarande polis. En polisstation borde vara en självklarhet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste ha en långsiktig plan och mätbara delmål för att arbeta för klimatet så effektivt som möjligt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorgen kommer över hela landet snart att brottas med personal- och kompetensbrist. En förkortad arbetstid skulle spä på detta enormt mycket. Arbetsmiljöarbetet sköts istället genom gott ledarskap och delaktighet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla nyanställda i äldreomsorgen ska prata svenska och förstå skriftliga instruktioner på svenska. Detta löser man dock bättre genom bra anställningsintervjuer än genom formella språktest.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Villkoren för privata och kommunala ska vara likvärdiga. I de fall kommunala skolor har större ansvar ska de också kompenseras ekonomiskt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste ta ansvaret för att öka tillgången till publika laddstolpar. Detta behöver inte betyda att kommunen själv ska bygga och äga laddstolparna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste solidariskt hjälpa de flyktingar som behöver hjälp i Sverige.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är trubbiga instrument då de av nödvändighet förenklar komplexa frågor. Man kanske får svar på om invånarna vill ha en dyr investering eller ej men inte hur investeringen ska finansieras eller vilka andra saker som måste prioriteras bort. Vi måste istället arbeta för att fler invånare ska engagera sig i kommunpolitiken och de politiska partierna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "Det är bra med valfrihet då det sporrar både privata och kommunala skolor till att bli bättre.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen utvecklar idag kulturen över hela kommunen tillsammans med föreningsliv och stiftelser. Detta ska vi fortsätta med.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen hushåller idag effektivt med resurserna samtidigt som kvalitétsmått inom de flesta områden visar på att kommunen också uppfyller sina uppdrag på bra sätt. Långsiktigt finns det dock potential att bli än mer effektiva vilket också bör återspeglas i invånarnas egna plånböcker.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2712",
+          "2716",
+          "2713"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;D;D;D!;A;B;D;D!;A;B;2/5;2/5;1/5;[2712,2716,2713]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Regelförenkling",
+        "description": "Kommunen ska verka för att det blir så lite krångel och administration som möjligt för både företag och invånare."
+      },
+      {
+        "category": "Bättre kommunikationer",
+        "description": "Förbättringar i både kollektivtrafik och bilvägar."
+      },
+      {
+        "category": "Miljö och klimat",
+        "description": "Kommunen ska själv vara ett föredöme samtidigt som kommunen ska underlätta för företag och invånare som vill vara miljö- och klimatvänliga."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vallentuna"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1964",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Minskar koldioxidutsläpp och en mer effektiv reseform",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2711",
+          "2712",
+          "2709"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;C;D;C;B;D;C;B;C;C;2/5;2/5;0/5;[2711,2712,2709]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Tiggerifrågan borde skötas på riksnivå och inte åligga kommunerna att hantera. Människovärdet är en fråga för samtliga partier och i hela landet oavsett kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna se ett fortsatt borgerligt styre vilket har fungerat mycket väl under förra mandatperioden. Vår borgerliga allians har drivit fram kommunutvecklingen trots pandemin och med positivt ekonomisk resultat. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan samarbeta med de partier som värnar om människovärdet och om valfriheten.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet i Vallentuna ",
+        "description": "Öppna närpolisstationen samt motverka kriminaliteten i och kring våra skolor."
+      },
+      {
+        "category": "Minska koldioxidutsläppen ",
+        "description": "Vi vill utveckla infartsparkeringarna samt utöka laddningsstolparna runt om i kommunen. Göra Vallentuna en cykel- och gåvänlig kommun."
+      },
+      {
+        "category": "Bättre äldreomsorg ",
+        "description": "Vi vill bygga fler och olika former av äldreboenden i Vallentuna."
+      }
+    ],
+    "motivateVote": "Kristdemokratisk politik är värdeorienterad. Vi utgår från att människovärdet är okränkbart och sätter människan i centrum. Vi vill forma en politik som fokuserar på de behov som finns hos personer som behöver samhällets stöd i sin välfärd. Det goda samhället ska vila på etisk och människovärdig grund.",
+    "name": "Kristdemokraterna Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vallentuna"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1965",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Össebyhus är för litet för att klara av större investeringar och har små möjligheter att hålla hyrorna nere. Så länge det finns privata investerare som vill bygga hyresrätter bör därför detta bejakas.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan ska vara en utmaning för alla elever, även de allra duktigaste. \r\nDen som har talang för matematik eller språk ska kunna välja en spetsutbildning precis som den som har talang för idrott eller för musik. Vallentuna bör ansöka om att få starta spetsklasser med särskilda antagningsprov i ett eller flera ämnen. Vi vill också att det ska finnas spetsklasser i fler ämnen i närheten av Vallentuna",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore bra med en närpolisstation i Vallentuna, men det är inget vi beslutar om lokalt, utan bestäms av Polisen. Liberalerna vill ha en närvarande polis men anser det viktigare med poliser som är närvarande i bilar och till fots ute i kommunen, än att de har sina skrivbord här.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "I princip finns redan detta i och med att vi vet hur stor klimatpåverkan Vallentuna har idag och hur mycket den måste minska över tid. Vi vill däremot konkretisera detta med tydligare delmål för de olika utsläppen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Teknisk utveckling arbetsverktyg och större variation i arbetsuppgifterna är ett bättre sätt att göra arbetet mindre slitsamt och därmed möjligt för anställda att arbeta heltid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med bra svenska, även om de äldre som får omsorg också kan behöva andra språk. I de fall språket inte är tillräckligt bra hos de anställda är det viktigt att arbetsgivaren ser till att utbildning erbjuds så att svenskan snabbt kommer upp i god nivå.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska se till att det är möjligt och lätt att etablera laddstolpar. T ex behövs snabbladdare centralt i Vallentuna och längs E18. Men kommunen själv ska inte börja sälja el utan laddstolparna bör, precis som idag, ägas och drivas av privata företag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vallentuna har jämförelsevis mycket goda förutsättningar att ta emot och integrera flyktingar. Här är arbetsmarknaden god och det finns bra möjligheter att lära sig svenska.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker det är viktigt att kunna välja skola. För alla barn är olika och det behöver skolor också vara. Men alla skolor ska vara bra skolor. Utan hög kvalitet och goda resultat ska det inte vara möjligt att göra vinstutdelning.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "En låg skatt är bra. Just nu prioriterar vi dock satsningar på skolan och psykisk hälsa och både unga och äldre framför en skattesänkning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2711",
+          "2712",
+          "2710"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D!;C;C;A;B;D;B;A;B;3/5;2/5;2/5;[2711,2712,2710]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte något som avgörs på lokal nivå. Dock är de politiska partiernas storlek annorlunda lokalt, så det krävs troligen inte samarbete utanför alliansen för att nå majoritet. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "De mest naturliga samarbetspartnerna är de andra allianspartierna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inga formella beslut, men V och SD är osannolika partners.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "ALLA SKOLOR SKA HA ETT BEMANNAT SKOLBIBLIOTEK",
+        "description": "Alla skolor ska ha ett bibliotek nära eller i skolan med tillgång till bibliotekarie som tillsammans med läraren kan arbeta aktivt med lässtödjande arbete. Genom sin kunskap om utbudet av lämplig litteratur för alla åldrar, både klassiker och nyutgivet, är bibliotekarier experter på att locka även den som inte gillar att läsa till passande böcker."
+      },
+      {
+        "category": "Stärk elevhälsan",
+        "description": "Det ska vara enkelt att få hjälp för den som mår dåligt eller behöver extra stöd i skolan. Alla elever ska få komma på elevhälsosamtal för att etablera kontakt med elevhälsan. Skola, socialtjänst och sjukvård ska samarbeta bättre för att hjälpa barn och unga, så att de får den hjälp de behöver."
+      },
+      {
+        "category": "Spetsklasser och handlingsplan för särbegåvade elever. Särskilt stöd vid behov.",
+        "description": "Särbegåvade elever ska ges sådana utmaningar och sådan stimulans att de inte tappar intresset för skolan eller behöver byta skola för att få rätt undervisning. En handlingsplan för särbegåvade elever ska tas fram. Det behövs fler spetsklasser i eller nära Vallentuna och inom fler ämnen än idag. \r\nSamtidigt ska det finnas särskilt stöd och särskilda undervisningsgrupper för elever som behöver det."
+      }
+    ],
+    "motivateVote": "Liberalerna är skolpartiet. Vi sätter alltid skolan först. För allt börjar med en bra skola. Och att lyckas i skolan ger möjlighet att bestämma över sitt eget liv. Därför ska fler elever gå ur grundskolan med höga betyg och fler elever ska ta studenten. \r\nVi vill också arbeta mer med psykisk hälsa. Både genom att bryta äldres ensamhet och satsningar på elevhälsan.",
+    "name": "Liberalerna Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-vallentuna"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1966",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska vi se till att alla har råd att bo i vår kommun och då är hyresrätter viktiga i kommunal regi.\r\nHyresrätter som kan erbjudas de som kanske är i mest behov och inte bara mest pengar.\r\nHälften av all nybyggnation borde vara hyresrätter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste underlätta för att åka kollektivt på alla sätt som går.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "I nuläget är det viktigaste att se till att satsa på de elever som inte når målen. Vi ska så självklart se till att alla elever utmanas men vi får inte tappa några på vägen.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "en lokal närvaro är viktig för tryggheten och att det ska vara en tät kontakt mellan, skola, socialtjänst och polis. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vallentuna behöver långsiktiga mål om att vi ska bli en klimatneutral och hållbar kommun. Då behövs en lokal koldioxidbudget och lokala anpassningar till ett förändrat klimat.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi tar hand om de som har de tyngsta arbetena.\r\nVi som arbetsgivare måste se till att våra anställda orkar jobba hela livet utan att sltas ut i förtid.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "en lika fördelning av ansvaret är viktigt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om omställningen till ett fossilfritt samhälle är en viktig del i kommunens klimatarbete och vi som kommun måste hjälpte till i den mån vi kan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi har i nuläget ett lågt mottagning. Vi är en stark och bra kommun och vi måste ta vår medmänskliga ansvar gentemot de som flyr.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste lita på de förtroendevalda  gör sitt jobb. Vi har val var fjärde år och det är viktigt att man då som medborgare röstar och vill man påverka mer är alla partier öppna för mer aktiva medlemmar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra fördelning av privata och kommunala alternativ.\r\nDe viktiga är att undervisningen är bra och inte vem och hur det drivs.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "kultur som är tillgänglig för alla och över åldersgrupper.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bland de lägsta i landet och vi har råd att höja skatten för att kunna erbjuda mer till våra medborgare.\r\nEn kaffe-peng för oss blir miljoner i skolan. \r\nSkolan och även arbetat med psykiskt ohälsa är områden som saknar pengar och insatser och som på räddar liv och spar pengar till samhället på sikt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2711",
+          "2710",
+          "2713"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;B;C;D!;D;C;D;D!;A;A;2/5;3/5;3/5!;[2711,2710,2713]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "självklart är vi inte överens om allt men det finns ingen stor fråga som delar oss.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna ett styre där de gröna och mer hållbara frågorna får mer plats. Ett styre som inte spar utan satsar på skolan, vill bygga mer hyresrätter och ser till att vi satsar på klimatsmarta lösningar.  Vi kan samarbeta med både M och S. huvudsaken är att skolan och klimatfrågorna är prioriterade.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ligger för långt ifrån det samhälle vi vill ha. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": " Lokal koldioxidbudget för Vallentuna ",
+        "description": "Vallentuna behöver långsiktiga mål om att vi ska bli en klimatneutral och hållbar kommun. Då behövs en lokal koldioxidbudget och lokala anpassningar till ett förändrat klimat.\r\nVallentuna kommun måste ta ansvar för att minska klimatpåverkan och arbeta innovativt för att minska vårt ekologiska fotavtryck."
+      },
+      {
+        "category": "Satsa på skolan!",
+        "description": "Vallentuna måste vara en attraktiv arbetsgivare för skolpersonal. Vi vill höja skolpengen så att skolpersonalens löner och arbetsvillkor kan vara konkurrenskraftiga. \r\nRiktad fortbildningen mot ökade ämneskunskaper och kompetens kring NPF för att möta elever som behöver utmanas och de som behöver stöd. \r\n\r\nVarje skola i ska ha ett elevhälsoteam med specialpedag, skolsköterska, psykolog och kurator."
+      },
+      {
+        "category": "Bygg hyresbostäder! Möjligör för alla att bo i kommunen",
+        "description": "Vi behöver ett hållbart samhällsbyggande, med klimatsmarta lösningar och ny teknik som laddstolpar och solceller. Vi vill se till att antalet hyresrätter i Vallentuna ökar kraftigt under mandatperioden. \r\nBostäderna måste ligga nära kollektivtrafiken och cykelbanor, vi måste bygga ett samhälle där inte bilen är ett måste."
+      }
+    ],
+    "motivateVote": " Vi har lokala lösningar på globala problem. Vi vill ha tidiga insatser i skolan och mer stöd för barn med Npf.  Bygga mer hyresrätter i klimatsmarta material och bygga ett mer hållbart samhälle för både miljön, klimatet och människan.\r\nMiljöpartiet vill att Vallentuna ska vara ekologiskt, ekonomiskt och socialt hållbart. Vi behöver långsiktiga strategier för att utveckla en hållbar kommun. ",
+    "name": "Miljöpartiet Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-vallentuna"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1967",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens jobb att bygga bostäder. Det gör den fria privata marknaden mycket bättre och kommuninvånarna behöver inte gå i pant med sina skattepengar för att bygga bostäder. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler pendlarparkeringar behövs för att underlätta vår vardag i Vallentuna och för att möjliggöra för enklare resande kollektivt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har redan ett mycket aktivt klimatarbete och detta bör genomsyra allt arbete i kommunen, inte endast i en enskild plan. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många sätt att arbeta med att människor ska orka jobba och att variera sina arbetsuppgifter. Vi tror dock inte på att alla människor behöver jobba mindre. Snarare att det finns olika lösningar för alla. Dessutom måste vi prioritera att alla som kan jobba faktiskt gör det, så att vi kan ta hand om våra äldre och sköraste i samhället. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för integrationen att vi har en god spridning på våra nyanlända så att de så snabbt som möjligt blir en del av samhället. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan samordna och bistå med stöd i denna process som är viktig för omställningen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att alla kommuner tar ansvar men utifrån kommunens förmåga och möjlighet att integrera på ett bra sätt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser hellre att fler engagerar sig politiskt och därigenom kan vara med och påverka vår demokrati. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ett stort och fint kulturutbud i Vallentuna idag som vi ska vara stolta över. Redan idag lägger vi mycket mer kronor/invånare på kultur än våra grannkommuner. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska göra allt vi kan för att Vallentunaborna ska få behålla mer av sin lön. Det gör vi genom att ständigt jobba med kvalitet och effektivitet samt hålla koll på varje skattekrona. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2711",
+          "2713",
+          "2709"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;C;D;B;B;C;C;C;C;A;3/5;2/5;1/5;[2711,2713,2709]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna fortsätta samarbeta med våra nuvarande partners, kd, Centerpartiet och Liberalerna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer undervisning och högre måluppfyllelse i våra skolor. ",
+        "description": "Vi vill värna valfriheten och istället jobba med att förbättra kvaliteten i alla skolor, oavsett huvudman. Då krävs de bästa lärarna, mer undervisning för eleverna och mindre administration för lärare. Det kräver också ett högt fokus på kvalitet och resultat, vilket vi tror är mycket viktigare än vem som driver skolan."
+      },
+      {
+        "category": "Stabil ekonomi och sänkt skatt",
+        "description": "För att en kommun långsiktigt ska fungera väl så krävs ordning och reda i ekonomin. Det gör vi genom att ständigt arbeta med förbättring och effektivisering av kärnverksamheten och ha koll på våra kostnader samt planera smart för framtiden. Vi vill ha mer pengar ut i verksamhet och mindre skattemedel som läggs på overhead och administration. På så sätt kan vi både bli bättre och sänka skatten."
+      },
+      {
+        "category": "Tryggheten först!",
+        "description": "Vi vill att människor ska kunna känna sig fortsatt trygga i vår kommun, i ett läge när otryggheten breder ut sig i landet. Genom fler poliser, kommunpoliser, mer övervakning och att arbeta med såväl preventiva och trygghetsskapande åtgärder som att ha en snabbfotad verksamhet som snabbt kan ta hand om utbredd otrygghet, så minskar vi risken för att människor ska känna sig otrygga."
+      }
+    ],
+    "motivateVote": "För att Moderaterna i Vallentuna vill fortsätta bygga en kommun där kvalitet, valfrihet och egenmakt är de bärande begreppen. Tryggheten är central i vår prioritering av kommunen, likaså skolan. För att kunna göra viktiga satsningar krävs det en stabil och långsiktig ekonomistyrning med fokus på att varje skattekrona används på absolut bästa sätt. ",
+    "name": "Moderaterna Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vallentuna"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1968",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har idag Sveriges minsta allmännyttiga bostadsbolag samtidigt som andelen hyresrätter är lägst i landet. Endast 5% av bostäderna är hyresrätt. Kommunen måste ta sitt bostadsförsörjningsansvar på allvar och inte gömma sig bakom att det är marknadens som ska se till att alla har tak över huvudet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga ut och anlägga fler infartsparkeringar och cykelställ vid Roslagsbanans stationer är viktigt eftersom många Vallentunabor jobbar eller går i skolan i grannkommuner och centrala Stockholm så krävs det att dagpendling med kollektiva färdmedel underlättas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand ska kommunen se till att det finns en likvärdig och rättvis skola i Vallentuna. Att starta \"spetsskolor\" istället för att först säkra att barn med särskilda behov får den skola de har rätt till anser vi är att prioritera fel.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, om invånarnas trygghet ökar om det finns en närpolisstation så ska vi givetvis verka för att vi får tillbaka den närpolisstation vi tidigare hade i Vallentuna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver tas fram en konkret plan för hur Vallentuna ska bidra till att nå målen i Parisavtalet. Plan ska ha tydliga kommunövergripande miljömål som gör det enkelt att bidra till miljöarbete i vardagen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsdagens längd är en fråga för arbetsmarknadens parter att göra överenskommelser om. Vi socialdemokrater i Vallentuna har vid flera tillfällen föreslagit att kommunen i pilotprojekt ska pröva sex timmars arbetsdag med bibehållen heltidslön i äldreomsorgen då vi tror att det skulle vara bra för båda arbetstagare och arbetsgivare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är oerhört viktigt att kommunikationen med arbetsledare, kollegor och de som tar del av hemtjänst och äldreomsorg fungerar. Det finns annars en risk att mediciner och instruktioner kan missförstås vilket skulle kunna få ödesdigra konsekvenser.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Givetvis ska alla skolor vara öppna. Möjlighet att välja elever skapar en segregerad och ojämlik skola.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "I huvudsak är laddinfrastruktur ett ansvar för elnätsföretagen. Men i geografiska områden där marknaden inte vill eller kan investera av olika skäl ska kommunen i rimlig omfattning ansvara för att det finns laddstolpar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vallentuna är en kommun som historiskt tagit emot ett litet antal flyktingar i förhållande till kommunens invånarantal och ekonomiska förutsättningar. Kommunen ska solidariskt hjälpa till i mottagandet och ta emot de flyktingar som länsstyrelsen och migrationsverket anvisar oss.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom det aldrig hållits en kommunal folkomröstning i Vallentuna så blir svaret ja, eftersom det antagligen skulle öka det politiska engagemanget och intresset hos våra medborgare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "Viktigast är att våra skolor och förskolor är bra och trygga där alla oavsett bakgrund och förutsättningar ges möjlighet att utvecklas och nå sina mål. Så länge skola är jämlik och rättvis där alla barn får det stöd de behöver så är driftsformen underordnad.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "Konst och kultur ska vara tillgänglig för alla i Vallentuna både som åskådare och som utövare. Därför behöver de ekonomisk trösklarna till de olika verksamheterna sänkas. bl.a. genom att halvera kulturskolans avgifter och öka det ekonomiska stödet till kulturföreningarna.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser ingen anledning till att förändra skatten eftersom de senaste åren så har vi haft stora överskott. De överskotten bör istället gå till att utveckla verksamheterna och höja kvaliteten, inte till att sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2714",
+          "2710"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;B;C!;C;C!;C;D!;B;A;C;2/5;3/5;2/5!;[2714,2710]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, det som kan skilja är hur viktigt eller prioriterad frågan är på lokal respektive riks som gör att vi inte alltid kommer till samma slutsatser eller beslut.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det är väljarnas vilja som ska avgöra och vi socialdemokrater är beredda att ta ansvar och styra tillsammans med partier som vi har samsyn med när det gäller trygghet, omsorg och skola. Helst ser vi ett samarbete i den politiska mitten.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, vi kommer aldrig ha någon form av samverkan med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rätten till en trygg äldreomsorg",
+        "description": "Alla äldre förtjänar trygg och kompetent omsorgspersonal den dag de behöver den.\r\n\r\nOmsorgen om våra äldre kan bara bli så bra som undersköterskors, sjuksköterskors och övrig omsorgspersonals arbetsvillkor innebär. \r\n\r\nGe äldre möjlighet att bo kvar i sin hembygd genom att bygga fler trygghetsboenden och mellanboenden som drivs i kommunal regi."
+      },
+      {
+        "category": "Rätten till en bra skola",
+        "description": "Alla barn har rätt att växa upp i en trygg miljö. En miljö som ger dem framtidshopp och en tro på ett jämlikt, rättvist och demokratiskt samhälle. Varje barn är unikt och våra skolor och förskolor ska vara bra och trygga för alla barn oavsett bakgrund och förutsättningar. \r\n\r\nVi lägger grunden till välfungerande ungdomar och vuxna genom att ge dem rätt förutsättningar redan från förskolan."
+      },
+      {
+        "category": "Rätten till en egen bostad",
+        "description": "Unga, äldre, ensamstående föräldrar och många hårt arbetande löntagare har idag svårt att bosätta sig och bo kvar i Vallentuna, detta måste vi ändra på! Det ändrar vi på genom att kommunen i egen regi och genom markanvisning ser till att det börjar byggas 1000 hyresrätter under mandatperioden med målsättning att de långsiktigt ska utgöra en tredjedel av bostadsbeståndet."
+      }
+    ],
+    "motivateVote": "Vi vill se ett starkare samhälle med mer resurser till skolan sjukvården och övrig omsorg. Vi tycker att kommunen kan styras bättre än den görs idag. Idag begränsas allt för många Vallentunabors möjligheter i livet. Vallentuna ska vara en välfärdskommun som bygger på sammanhållning. Det är så vi skapar ett Vallentuna för alla.",
+    "name": "Socialdemokraterna Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vallentuna"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1969",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är anpassat med en lokal bostadskö kopplat till ett boende där ungdomar och/eller där familjesituationen skapar behovet, så ser vi positivt på detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En förutsättning då Vallentuna är en vidsträckt kommun och därigenom behöver lämpliga platser att parkera över dagen i samband med kollektivtrafiks alternativ.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Går att motivera genom att ge alla barnen en rättvis chans i livet och därigenom bidra till deras utveckling.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Brottsbekämpning är i första hand statens och regeringens ansvar, \r\nmen vi kan inte vänta på en regering och statsmakt som inte tar sitt fulla \r\nansvar. På kommunal nivå vill vi göra allt vi kan för att Vallentunaborna ska \r\nkänna trygghet i sin vardag. Vi vill därför att en egen polisstation i Vallentuna och ökad polisiär närvaro i hela kommunen ska till.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatet är i fösta hand en global fråga och bör hanteras som sådan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte nödvändigtvis att en 6-timmars dag löser problemet inom äldreomsorgen. I dag finns stora utmaningar där arbetsmiljön präglas av många deltidsanställda och anställda med stora språkproblem. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är något vi Sverigedemokrater i Vallentuna la som motion i fullmäktige för en tid sedan. Dock utan något som helst bifall från övriga partier. Nu verkar dock detta bli lika självklart för andra partier vilket känns glädjande. En självklarhet enligt oss.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ytterst statens ansvar att hantera den stora mängd nyanlända som kommit till Sverige. Där vilar ett stort ansvar för statens misslyckade \r\ninvandrings- och integrationspolitik. De senaste åren har trycket ökat \r\nytterligare i takt med att migranterna blivit fler, vilket också blivit tydligt.\r\nAtt sedan lägga över mer ansvar på friskolor är inget svar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att laddinfrastruktur idag är en ineffektiv och dyr lösning. Rena \r\nelbilar nyttjas huvudsakligen av elbilsägare boende i villor- och fristående hus. Vi tror i stället att de boende i kommunen i framtiden kommer nyttja en lösning baserad på exempelvis vätgas i övergången till fossilfria drivmedel.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staten kräver idag att samtliga kommuner har beredskap för att ta emot nyanlända oavsett kommunens förutsättningar. \r\nTill dess att en ny ansvarsfull invandringspolitik på riksnivå har \r\nimplementerats, är det vår inställning att samtliga kommuner aktivt bör \r\nbedriva opinionsarbete för att få till stånd en förändring och ett återtagande av det kommunala självbestämmandet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "För demokratins skull och för ett sundare, livskraftigare och tryggare Sverige måste det kommunala självstyret försvaras, breddas och fördjupas. En kommun är inte och bör inte vara en rent administrativ yta. Därför bör beslutanderätten i lokala frågor ligga så nära medborgarna som möjligt. \r\nVi ser positivt på att involvera invånarna i lokalpolitiken, via införandet av medborgarförslag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "Barn och unga är Sveriges framtid. Det är av största vikt att de går i en skola som är fokuserad på att ge dem kunskap och bildning och att studiero och ordning råder och upprätthålls. Det ska inte spela någon roll var i landet en elev bor. Lika villkor, hög kvalitet och god tillgång till läromedel som certifierats av ett läromedelsråd ska finnas. Därför förespråkar vi statligt huvudmannaskap.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna vill kommunicera kulturpolitik utifrån att kultur är ett kitt som håller oss samman. Kulturen förser oss med gemensamma värderingar och normer. Det mångkulturella samhället har orsakat splittring och en minskad tillit mellan människor. Vi vill lyfta våra förslag för fysisk aktivitet utifrån ett folkhälsoperspektiv, och det sociala sammanhanget som idrotten kan bidra med.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Vi Sverigedemokrater ser inget skäl att ändra kommunalskatten i dagsläget. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2715",
+          "2710",
+          "2709"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;C;C;D!;A;A;D!;A!;A!;D!;D!;1/5;2/5;2/5;[2715,2710,2709]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har en väldigt följsam verksamhet från båda sidor.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst vill alla partier ha minst 51%, men då detta troligtvis inte kommer ske så är ett konservativt block med SD, M och KD det rimligaste alternativet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan prata med alla partier, men V och MP står ideologisk långt ifrån oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Lokal bostadskö för Vallentunaborna",
+        "description": "Sverigedemokraterna i Vallentuna har drivit frågan att bilda en lokal bostadskö för boende i Vallentuna. Vi vill ge våra barn och ungdomar som växer upp i Vallentuna en chans att bo kvar i vår fina kommun och få sin första bostad i kommunen. Vi vill även att familjer som av olika skäl behöver dela upp sig ska kunna få möjlighet att bo kvar i kommunen."
+      },
+      {
+        "category": "Dela upp nuvarande socialnämnden i en omsorgsnämnd och en socialnämnd",
+        "description": "Som en del i Sverigedemokraternas politik finns en tydlig satsning på våra äldre. Vi vill, genom att dela upp nuvarande socialnämnd, få en tydligare bild över hur satsningar, nu och i framtiden, ska fördelas så att inte de äldre måste stå tillbaka för en politik som missgynnar deras intressen."
+      },
+      {
+        "category": "Erbjuda en e-sport utbildning ",
+        "description": "Vi ser gärna att vår skolutbildning även följer utvecklingen i samhället och \r\ndärigenom erbjuder nya intressanta utbildningar såsom e-sport.\r\nVi vill därför kunna erbjuda en e-sportsutbildning som extra tillval på \r\nvissa befintliga gymnasieutbildningar. \r\nDå konkurrensen idag är hård för att komma in på en e-sportsutbildning så krävs det att man studerar hårt för att nå erforderliga betyg."
+      }
+    ],
+    "motivateVote": "Vill du som väljare förändra det sluttande plan som Sverige sedan länge befunnit sig på, både via Alliansen (8år) och nu den S ledda (8år), så är Sverigedemokrater uppenbarligen det enda trovärdiga alternativet.",
+    "name": "Sverigedemokraterna Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vallentuna"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1970",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a9395ad64d16e69990d53233bdb20c2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har landets lägsta andel hyresbostäder i bostadsbeståndet trots visst nybygge av sådana de senaste åren. Kommunens bostadsbolag är i dagsläget så gott som vilande, har inga anställda och har inte byggt särskilt mkt senaste decennierna. Vi vill revitalisera bolaget och genom det bygga nya hyresbostäder utifrån det behov som finns snarare än vad som är mest lönsamt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "dcb1b6a0155ac506ab226dad613cf77b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privatbilismen i kommunen är på tok för hög. Det är till att börja med ett problem med utsläpp som riskerar förvärra det klimatnödläge vi befinner oss i, men även en belastning för kommunens vägnät, lokal flora och fauna och en riskkälla för de barn och vuxna som befinner sig i trafiken. Fler pendelparkeringar blir ett incitament för kommuninvånare att ställa bilen och åka kollektivt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c092fbeee71cbdbdbbf0e120b5187fe4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skolan behöver är inte tidigare sortering av elever. Barn utvecklas olika snabbt och på olika sätt, skolan ska möjliggöra för alla barn att uppnå sin potential snarare än att tidigt dela in i \"bra\" och \"dålig\". Skolan i Vallentuna behöver fler lärare och mindre elevgrupper, så får eleverna bättre individuellt utformad undervisning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "32cd6f654b58fa8e5cb735c7e1af682a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Polis, räddningstjänst och annan offentlig service ska finnas tillgänglig nära till befolkningen. Att vi är en kommun i utkanten av storstockholm ska inte spela roll i detta sammanhang. Närpolisen har en viktig roll att fylla genom att synas och vara tillgänglig på plats ute i samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f79e636d7f8342e3dbb401213300189",
+        "questionType": "PROPOSITION",
+        "reasoning": "När en kommun styrs med huvudfokus på budgetbalans närmaste året sker många kompromisser och kortsiktiga perspektiv och prioriteringar trumfar långsiktiga mål. Allt som oftast finns det fina mål i styrdokument som inte når ut i verksamheten och skjuts framåt år efter år. Trots det klimatnödläge vi befinner oss i är dessvärre hållbarhetsperspektivet ett som satts åt sidan. Vi behöver konkreta mål.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "370599e2605262115e674e42aec24e35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att få personal att vilja vara heltidsanställda i kommunens vård- & omsorgsavdelningar pga arbetsförhållanden och schemaläggning. Därför vill vi införa 6h arbetsdag med bibehållen lön för att kunna behålla vår kompetenta men deltidsanställda personal. Det skulle leda till en schemaläggning som inte är delad och orimlig samt en mer långsiktig arbetsbelastning ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86723564cd2967f0dfedc87f6eaee683",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen anledning att införa någon slags extratest vid anställningar. Det finns redan krav på genomgången skola eller motsvarande i Socialstyrelsens rekommendationer. En person som har genomgått en utbildning i grundläggande svenska, oavsett om det handlar om grundskola, SFI eller annat motsvarande har visat på de kunskaper som krävs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5766152c3618c2774cb7c0450a269b93",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolor är en del av samhället, oavsett vem huvudmannen råkar vara. Det är viktigt att hela samhället är med och tar ansvar. Skolor ska präglas av samma förutsättningar och samma krav. Det är enligt forskningen gynnsamt att nyanlända elever fördelas ut i skolor så att elevgrupper på skolorna får en blandad sammansättning, därför bör alla skolor vara en del av mottagandet av nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d6e519e25d2882c3101698287725b482",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi ska få en större andel elbilar krävs först en infrastruktur, så att tillgången till laddplatser inte begränsar de som tvekar. Marknaden har haft en möjlighet att styra upp en god täckning av laddinfrastruktur, men har inte tagit den möjligheten. Då behöver kommunen ta ett större initiativ för att få till denna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dd4802a20ccfd1e1dce9c0ff1bef411a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela Sverige behöver ta ett gemensamt ansvar för att ta emot de som tvingats lämna sina hemländer och sitt tidigare liv. Vallentuna har inte tagit emot en stor andel av de som flytt till Sverige i dagsläget. Vi har resurserna och möjligheterna att hjälpa fler. Det är en fråga om medmänsklighet och solidaritet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cddd012205696813580e4bb77c0fc73a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns frågor där en folkomröstning är viktig, där frågan i sig har så pass stor påverkan på samhället. Dessa frågar är främst frågor på riksnivå, men kan även vara lokala. För oss finns det i dagsläget inte några så viktiga frågor aktuella i kommunen. Då har vi det parlamentariska representationssystemet som är grunden i den svenska demokratin, vi tror att det räcker i kommunen idag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744b7dab3f4e78efae9f748e4fbcde83",
+        "questionType": "RANGE",
+        "reasoning": "I stort finns det såväl bra som dåliga skolor oavsett huvudman. Vi är inte emot skolor i privat drift, vi är emot den möjlighet att ta ut vinst från skolverksamhet som idag har lett till stora vinstdrivande koncerner. Men den frågan är inte en fråga som är aktuell på kommunal nivå. Vi ser inte att kommunen behöver fler friskolor, men är inte heller ute efter att stänga befintliga.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2b5530ed897e7682902a3dea08c28945",
+        "questionType": "RANGE",
+        "reasoning": "I Vallentuna finns en stark kulturtradition. Vi har fornlämningar, bibliotek, föreningsliv mm. Men dessa tillgångar behöver möjlighet att frodas. Vi behöver tillgängliggöra kultur- och naturresurser, behöver kunna erbjuda lokalresurser och stöd till ideella verksamheter. Tillgång till och möjlighet att ta del av kultur berikar och inspirerar.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "2fc4efd00178fcbbe3f684c3fecb6037",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens nuvarande drivkraft att hålla nere på eller till och med sänka kommunalskatten har under en längre period lett till verksamheter som saknar marginaler och tvingats till besparingsåtgärder. Det går inte att bespara lite mer år efter år utan att det påverkar verksamheten, vad verksamheten kan erbjuda och hur personalen mår. Som kommun kan vi inte fortsätta tänka så kortsiktigt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d576bed8b4d25a40588d198457f80532",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2711",
+          "2714",
+          "2710"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A!;D;D;D!;B;D;C;A;B;2/5;4/5;3/5!;[2711,2714,2710]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns frågor där medlemmar i den lokala partiföreningen har olika uppfattningar. Likaså finns det frågor där medlemmar i den lokala partiföreningen inte delar åsikt med politiken partiet för på riksnivå. Men som lokal partiförening delar vi i stort de uppfattningar partiet på riksnivå har.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett styre vi är en del av.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "6h arbetsdag med bibehållen lön inom kommunens vård och omsorg",
+        "description": "Det är svårt att få personal att vilja vara heltidsanställda i kommunens vård- & omsorgsavdelningar pga arbetsförhållanden och schemaläggning. Därför vill vi införa 6h arbetsdag med bibehållen lön för att kunna behålla vår kompetenta men deltidsanställdapersonal. Det skulle leda till en schemaläggning som inte är delad och orimlig samt en mer långsiktig arbetsbelastning"
+      },
+      {
+        "category": "Bygga fler hyresbostäder genom det kommunala bostadsbolaget",
+        "description": "Kommunen har landets lägsta andel hyresbostäder i bostadsbeståndet trots visst nybygge av sådana de senaste åren. Kommunens bostadsbolag är i dagsläget så gott som vilande, har inga anställda och har inte byggt särskilt mkt senaste decennierna. Vi vill revitalisera bolaget och genom det bygga nya hyresbostäder utifrån det behov som finns snarare än vad som är mest lönsamt."
+      },
+      {
+        "category": "Högre skolpeng och ökad lärartäthet på kommunala skolor",
+        "description": "I kommunens skolor är lärartätheten i dagsläget för låg, elevgrupperna för stora. Vi vill höja skolpengen rejält för att ge skolorna möjligheten att öka lärartätheten så att våra skolbarn får den hjälp de behöver och lärarna inte jobbar ihjäl sig. I de kommunala skolorna vill vi anställa fler lärare just därför."
+      }
+    ],
+    "motivateVote": "Vi är ett parti för alla kommuninvånare, som strävar efter en kommun där alla är lika välkomna och har samma möjligheter oavsett förutsättningar. Vi vill att kommunen ska göra mer för de som behöver mer och ska finnas som ett stöd för alla. Men alla behöver inte samma stöd eller lika mycket stöd, det är något vänsterpartiet vet. ",
+    "name": "Vänsterpartiet Vallentuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vallentuna"
+  }
+]

@@ -1,0 +1,983 @@
+[
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "434",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att svara på. I teorin ett bra förslag men i praktiken svårt utifrån den ansträngda situationen på arbetsmarknaden. Självklart är språket viktigt och en förutsättning, men det måste finnas möjligheter att både jobba och läsa.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver arbetskraft, mycket arbetskraft. Utöver det är det självklart att Gällivare solidariskt ska hjälpa människor på flykt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en förutsättning för attraktivitet och tillväxt. Utan innehåll i samhället blir det ingen utveckling.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1158",
+          "1161",
+          "1156"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;C;C;B;D;C;B;D;A;2/5;3/5;2/5;[1158,1161,1156]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I grunden har vi samma uppfattning som Mp riks. Den huvudsakliga skillnaden ligger i kommunikationen. Vi riktar oss mot en bredare målgrupp, och har en mer positiv berättelse om hur vi ställer om samhället. Vi har dock en något annorlunda syn på gruvfrågan. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppen för att diskutera med flera partier om Gällivares utveckling. Vi kommer gå till val på vårt eget valprogram. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bostadsbyggandet ",
+        "description": "Att öka takten i bostadsbyggandet är centralt för Gällivares utveckling och en förutsättning för kompetensförsörjningen. Vi vill:\r\n- Ge Topbostäder i uppdrag att bygga mellan 50-100lgh per år fram till 2030\r\n- Förtäta mellanområdet och centrala Gällivare\r\n- Ta fram fler detaljplaner och områden för en- och flerfamiljshus i Gällivare och Koskullskulle\r\n- Arbeta mer strategiskt för att locka bostadsbygg"
+      },
+      {
+        "category": "Familjernas Gällivare ",
+        "description": "Fortsatt fokus på en attraktiv skola\r\n- Öka lärarbehörigheten\r\n- Att lärare och vårdpersonal ska kunna kombinera studier och arbete\r\n- Förbättra lärarnas arbetsmiljö och arbetsbelastning\r\n- Att klassmentorprogrammet ska fortsätta\r\n- Satsa på studiemedel, analoga som digitala \r\n- Skapa fler förskoleavdelningar och mindre grupper i förskolan\r\n- Skapa bostadsnära förskolor\r\n- Möjliggöra fler resursgrupper"
+      },
+      {
+        "category": "Framtidens Gällivare ",
+        "description": "Tillvarata möjligheten i omställningen!\r\nSamhällsomvandlingen och industrins omställning ger oss möjligheter att bli en mer hållbar och attraktiv kommun. Nya branscher så som livsmedelsproduktion skapar utveckling och arbetstillfällen samtidigt som det bidrar till Sveriges självförsörjningsgrad. Tillgången till distansutbildning måste stärkas genom närmare samverkan med Universitet och Högskolor."
+      }
+    ],
+    "motivateVote": "För att-VI VILL MER! \r\nGällivare har en fantastisk potential. Vi engagerar oss för att vi tror på vårt Gällivare. Vi vill leva och bo i en kommun som är modern, hållbar och inkluderande. Vi kommer från olika bakgrunder och har med oss olika perspektiv. Men vi har samma mål, att vara med och utveckla platsen vi bor på.\r\n\r\n\r\n\r\n\r\n",
+    "name": "Miljöpartiet Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-gallivare"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "435",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ökar arbetstrivseln. Man kan kan själv påverka beslut om skolan. Ökad flexibilitet och bättre nyttjande av resurser. Kan också öka rekryteringen till skolan. Det blir fler alternativ.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget onödigt krångel. Enkelt och effektivt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska koncentrera sig på att sköta sina kommunala uppgifter och endast i mycket sällsynta fall driva kommunala bolag. Moderaterna kommer att införa utmaningsrätt för företag. Företag som kan visa att de kan driva en kommunal verksamhet till lägre kostnad till samma eller bättre kvalitet ska få uppdraget. Närmaste är det de kommunala bolagen Matlaget AB och Gojan 1 & 14 AB Arkadenfastigheten",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens ekonomi klarar inte denna satsning. Där försök gjorts i andra kommuner har det misslyckat. \r\nVi tror att god arbetsmiljö och arbetsglädje/stolthet istället vinns genom att avskaffa ARP:en. Öka flexibiliteten för de anställda genom att beslut tas nära de anställda. Uppmuntra att verksamheten drivs i intraprenadform.  Att demensavdelningar och dagverksamhet bildas .",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Få frågor är så avgränsade att de lämpar sig för folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att både kunna tala, skriva och läsa svenska. Krävs för säkerheten för de boende. Exempelvis medicindelegering och journalföring och för samvaro med de boende och anhöriga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra och viktigt för integrationen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens ekonomiska situation omöjliggör  detta förslag. Juridiskt svårt att genomföra. Åtgärden skulle göra det ännu svårare att hitta andra än kommun som ägare till hyresfastigheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser mycket gärna att lokala ägare engagerar sig i välfärden. Det ger alternativ till både personal, boende och medborgare som använder hemtjänst.\r\nIntraprenad är bra ingång för medarbetare till att utveckla till ett företag.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte bedriva osund konkurrens och inte hindra marknaden att att bygga ut kapaciteten. De laddstolpar kommunen innehar ska ha ett laddpris som inte konkurrera ut andra aktörer. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gällivare har en stor arbetskraftsbrist och behöver inflyttning. Det är uppenbart att med den konkurrens om arbetskraften som finns i Sverige idag så måste Gällivare använda alla de möjligheter till att få arbetskraft som finns. Tydliga krav på integration och att arbeta. Sverige måste välja kvotflyktingar som har en kortare väg till till att integreras i vårt samhälle. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag en lokalt ägd friskola som vi tycker gör en utmärkt insats för Gällivare  kommun. Vi har alltså allternativ till den kommunala skolan. Att vi anger lite mer är för att vi är öppen för att att när de nya näringarna, som en följd av Hybrits etablering, kan ge behov av nya gymnasieinriktningar som kan ske i samverkan med kommunen eller att branschen tar ansvar som huvudman.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver använda resurserna effektivare så att t.ex Kulturskolan  kan nå ut till fler till samma kostnad.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna kommer inte att höja kommunalskatten.Det krävs en stor  ansträngning att kunna behålla dagens nivå  så att sänka skatten under 2023-2026 ser vi i dagsläget inte som möjligt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1158",
+          "1161",
+          "1156"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;B;B;D!;D;A;C;B;B;3/5;2/5;2/5!;[1158,1161,1156]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Större satsningar på infrastruktur i Norrbotten, tidigarelagd mittseparering av E10, staten tar över ansvaret över de kommunala flygplatserna i norr.\r\nAtt införa Lex Malmfälten för kommuner fullt ut ska kunna genomföra samhällsomvandlingarna och storskaliga industrisatsningar. Samordning behövs!\r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Huvudsaken är att det olyckliga styret som nu styr kommunen löses upp. Vi är beredda att regera tillsammans med de som vill konkret arbeta för Gällivarebornas  bästa. Såsom vi arbetat tidigare när moderaterna varit med i styrande position.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Lösa bostadsbristen.",
+        "description": "Att detaljplanera för 1200 bostäder och bygga upp en en planbank om 500 bostäder i lagakraftvunna detaljplaner. Kommunen ska erbjuda attraktiv bostadsmark i fjällnära , sjönära vid Vassara, bygga ut samhället åt Nunisvaara , i centrum och på landsbygden. Givetvis krävs det andra andra exploatörer och fastighetsförvaltare  är med i utbyggnaden. Samverkan kommunen, byggföretag, banker och förvaltare"
+      },
+      {
+        "category": "Lösa bristen på arbetskraft.",
+        "description": "Satsa på byggande av fler bostäder i attraktiva lägen. Erbjuda bra barnomsorg och skolor. Att välja att flytta till Gällivare kommun är att investera i sina barns framtid. Därför måste Gällivare sticka ut positivt. Att kommunen samverkar med näringslivet och akademin för att höja och bredda kompetensen och samordna rekrytering och marknadsföring i Sverige och internationellt"
+      },
+      {
+        "category": "Att arbeta tillsammans med Gällivares näringsliv för att utveckla Gällivare",
+        "description": "Att på allvar samarbeta med Gällivares näringsliv. Låta Gällivares Näringsliv AB få utöva det uppdrag som ursprungligen var tänkt. Att inte krångla till det för företagarna. Betona företagens betydelse för kommunens organisation. Utveckla servicedeklarationerna för kommunens service till näringslivet. Införa utmaningsrätt i kommunen."
+      }
+    ],
+    "motivateVote": "Moderaterna behövs för att bäst kunna utveckla och ta tillvara kommunens möjligheter. I en tid av tilltagande oordning i kommunen krävs stabilitet. Fokus på det kommunala uppdraget.. Allt från skola, vård och omsorg, grönområden och gator. Genuin samverkan med landsbygd och näringslivet. Vi ska kunna vara stolta över vår kommun. M står för ordning och reda!",
+    "name": "Moderaterna Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-gallivare"
+  },
+  {
+    "abbreviation": "SJV",
+    "altingetCandidateId": "436",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;C;B;C;B;D;B;C;C;C;B;2/5;3/5;2/5;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Sjukvårdspartiet finns på regional- och kommunal nivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Förhoppningsvis får Sjukvårdspartiet majoritet i regionfullmäktige. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har inga uttalade meningar om andra partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorgen",
+        "description": "Våra äldre medborgare ska ha ett värdigt liv med god livskvalitet oavsett boende. Utomhusvistelser och dagverksamhet är en rättighet. \r\nVäl utbyggd hälsovård  med fler händer i vården samt god arbetsmiljö."
+      },
+      {
+        "category": "Barn och skola",
+        "description": "För att Gällivare kommun skall kunna behålla och få nya invånare i samband med den förestående gröna nyindustrialiseringen är det viktigt att \r\nprioritera åtgärder som säkerställer behörighetsgraden i dessa verksamheter.\r\nGoda resurser i de lägre åldrarna.\r\nUtomhusaktiviteter som matchar \"En arktisk kommun i världsklass\"\r\nTvå lärare i varje klassrum, där minst en av dessa är utbildad och behörig."
+      },
+      {
+        "category": "Sjukvård",
+        "description": "Tydlig samverkan mellan kommun och region (landsting)\r\nPrioritera åtgärder som säkerställer kompetensförsörjningen i dessa verksamheter.\r\nKraftfulla insatser mot psykisk ohälsa. Kvalitativ vård i livets slutskede.\r\nGod lokal tandvård - tänderna är en del av kroppen."
+      }
+    ],
+    "motivateVote": "Alla med grundläggande demokratiska värderingar kan vara medlem i partiet. Alla med grundläggande demokratiska värderingar kan vara medlem i partiet.  Partiet kan verka inom samhällets alla demokratiskt valda församlingar. Sjukvårdspartiet är blockpolitiskt obundet och benämns tvärpolitiskt. Sakfrågans lösning och inte politisk färg präglar partiets arbete. ",
+    "name": "Sjukvårdspartiet Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sjukvardspartiet-gallivare"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "437",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med ökat personalinflytande inom de kommunala ramarna, ex intraprenader eller kooperativ. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En bra ordning på parkeringen i centrum är viktig. Ökar tillgängligheten till centrumhandeln! ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom vissa områden behövs kommunala bolag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte ett realistiskt med den personalbrist som råder idag, men vi behöver jobba vidare med olika former av arbetstidsförkortning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": "De flesta kommunala frågorna lämpar sig inte för folkomröstningar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är viktigt men idag är det inte realistiskt att ställa dom kraven. Jobba och studera samtidigt är den snabbaste vägen till goda språkkunskaper.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska ha samma uppdrag och samma ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kloka är att återinföra det statliga investeringsstödet som höll nere hyrorna i nyproduktion. Detta stöd tog borgarna bort vid senaste budgeten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla pengar inom äldreomsorgen ska gå till de äldre, inte till vinster. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddinfrastrukturen ett delat ansvar mellan alla aktörer. Statligt investeringsstöd är en förutsättning",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver all arbetskraft vi kan få. Samtidigt är det självklart för oss att hjälpa människor som flyr krig och konflikter. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver öka stödet till förenings- och kulturlivet. Ett aktivt kultur och fritidsliv är en förutsättning för attraktivitet och tillväxt",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten behövs för att finansiera våra välfärdstjänster. Allt från gator till äldreomsorg",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1158",
+          "1157",
+          "1156"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;C;B;A;B;C!;A;A;B;A;2/5;3/5!;2/5;[1158,1157,1156]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna i Gällivare  ställer upp som eget parti i Gällivare men samarbetar gärna  för att leda kommunen med partier som delar vår värdegrund ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna (SD) ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utöka och bredda bostadsbyggandet i Gällivare och byarna ",
+        "description": "För att Gällivare kommun ska klara en stor inflyttning för att klara kompetensförsörjningen till Gällivares växande gruvindustri, vård och omsorg och skola krävs det att det byggs fler bostäder i alla former i både tätort och på landsbygden. Vi behöver fler villor, bostadsrätter, hyresrätter och i både tätort och byar."
+      },
+      {
+        "category": "Avsätt pengar till äldre  som vill  arbeta kvar som handledare i  verksamheterna",
+        "description": "Gällivare står inför en snabb expansion av industrin och har stora rekryteringsbehov tillsammans med kommunen och regionen. Problemet är att vi har en åldrande befolkning , en snabb generationsväxling där stora generationer går i pension medan de som ska ersätta är färre. Vi behöver behålla äldre längre för att stötta upp de många yngre på arbetsplatserna. Vi behöver göra jobben  attraktivare"
+      },
+      {
+        "category": "Stötta utvecklingen av intrapenader i skolan i Gällivare ",
+        "description": "Vi socialdemokrater är kritiska till privatiseringar av skolan som innebär att vinster går till storbolag istället tillbaka till skolan för satsning på kvalitetsutveckling.  Vi ser hellre satsningar på intrapenader som skapar möjligheter för personalgrupper att utveckla sina verksamhetsidéer inom kommunala ramar."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna har en politik för framtidens Gällivare. Vi har erfarenhet av att leda en kommun och vi har en stor samarbetsförmåga",
+    "name": "Socialdemokraterna Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-gallivare"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "438",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna värnar valfrihet och välkomnar olika driftsformer inom skolan så länge detta sker med med kvaliteten i fokus. Vi anser inte att de problem som finns inom skolan primärt är kopplad till driftsformen. (Vi tolkar frågan som att den kommunala skolan alltså tas över av personalen som driver den i egen regi.)",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en kommun av Gällivares storlek, geografiska läge och  klimat är P-skiva en utmärkt lösning för att reglera parkeringstiderna. Vi anser inte att parkeringar inom kommunen ska vara avgiftsbelagda annat än i parkeringshus och liknande. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en liten kommun skapas snabbt undanträngningseffekter om kommunen börjar bedriva verksamheter som privata aktörer kan utföra. Samtidigt har det i vissa sammanhang visat sig svårt, eller nästan omöjligt, att få privata aktörer att lägga anbud eller etablera sig på orten varför verksamheten behövt utföras i kommunal regi. Det finns därför inget alldeles självklart svar på denna fråga. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gällivares äldreomsorg lider av omfattande personalbrist och socialförvaltningen med ett stort budgetunderskott. Ett förslag som detta är därför helt orealistiskt under nuvarande förutsättningar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är tveksamma till detta då denna typ av folkomröstningen vanligtvis endast är rådgivande och valresultatet inte alltid respekteras. Dessutom är valdeltagandet ofta lågt och kostnaden för genomförandet hög. Vi skulle mycket hellre se ett större politiskt engagemang hos allmänheten vilket skulle leda till en djupare förståelse för politiken som helhet och hur de kommunala besluten fattas.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdpersonal ska kunna göra sig förstådd och kunna förstå svenska i tal och skrift. Detta ska vara ett grundläggande krav i vårdyrken där patientens/brukarens behov alltid står i fokus. Dessutom minskar detta risken för felmedicinering, felbehandling och annat som kan äventyra patientsäkerheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor tillämpar vanligtvis någon form av kösystem och här menar vi att man inte kan åberopa något slags förtur för att man är nyanländ. Finns det däremot lediga platser inom friskolan är det vår uppfattning att man inte kan neka att ta emot elever hemmahörandes i kommunen, nyanlända eller inte.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen finansierar hyreslägenheter genom det kommunala fastighetsbolaget TOP bostäder. Nyproduktion är tyvärr dyrt och även om vi sympatiserar med tanken på billiga lägenheter har vi svårt att se att det skulle gå att producera avsevärt billigare lägenheter än vad som görs idag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna värnar valfrihet och välkomnar olika driftsformer inom äldreomsorgen så länge detta sker med med kvaliteten i fokus. Vi anser inte att de problem som finns inom området primärt är kopplat till driftsformen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör underlätta, och skapa goda förutsättningar, för de företag, bostadsbolag och bostadsrättsföreningar mfl. som önskar förbättra laddinfrastrukturen men att tillhandahålla publika laddstolpar är inte en kommunal angelägenhet i första hand. Lika lite som att kommunen säljer drivmedel.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gällivare dras med en omfattande bostadsbrist. Samtidigt är kompetensbristen på flera håll så akut att verksamheter inte fungerar. Vi anser att det under rådande omständigheter är orimligt att placera flyktingar i Gällivare om de inte möter de kompetensbehov som föreligger och snabbt kan komma ut på arbetsmarknaden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": "Samma eller mer än idag. Det viktiga för oss är inte driftsformen utan kvaliteten. Vi menar att den kompetensbrist som råder och de rekryteringsproblem som föreligger sannolikt skulle försvåra för fler huvudmän inom skolan att konkurrera om samma arbetskraft. Ur ett ideologiskt perspektiv har vi dock inget emot fler privata alternativ.  ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för människors välbefinnande och bör därför ha en given plats i samhället. Vi anser inte att Gällivare kommun spenderar för mycket på kultur men ser heller inte att vi har de ekonomiska förutsättningarna att öka kulturens budgetutrymme.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten är redan hög i Gällivare. Även om vi önskar att den kunde sänkas ser vi inga förutsättningar för detta inom överskådlig tid. Budgetläget i kommunen är snarare så att vi får vara tacksamma om nuvarande skattesats kan behållas. Vi menar att en höjning av kommunalskatten eventuellt skulle minska kommunens attraktionskraft. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": "Ökat bostadsbyggande är centralt för att kunna rekrytera ny arbetskraft utifrån.\r\nGällivare är en gruvort med högt löneläge. Ska kommunen kunna konkurrera om arbetskraften måste vi kunna erbjuda högre löner och bättre villkor.\r\nKompetensförsörjningen är en nyckelfråga för Gällivare. Såväl inom kommunal sektor som privat. Gemensamma krafttag behöver därför tas!",
+        "value": [
+          "1158",
+          "1161",
+          "1156"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;C;A!;B;D!;A;C;D;B;C!;2/5;2/5;2/5!;[1158,1161,1156]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna ett maktskifte i Gällivare där MP och V inte längre ingår i det politiska styret. Sverigedemokraterna har idag inget formaliserat samarbete med andra partier i Gällivare utan står fria att stödja bra politik oavsett vem eller vilka som står bakom den. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet och Vänsterpartiet. Malmfältens Väl ställer inte upp i höstens val)",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Prioritera kärnverksamheterna framför prestigeprojekt.",
+        "description": "Samtidigt som Gällivares skolor präglas av lärarbrist, socialförvaltningens kostnader skenar och den kommunala infrastrukturen är i stort behov av reinvesteringar genomförs en rad kostsamma prestigeprojekt som tillåts kosta alldeles för mycket. Vi menar att kommunmedborgarnas gemensamma pengar ska hanteras med större varsamhet."
+      },
+      {
+        "category": "Kompetensförsörjningen måste tryggas",
+        "description": "Inom ett stort antal områden råder det brist på personal. Såväl kommunal som privat. Sjuksköterskor, lärare, tandläkare, hotell- och restaurangpersonal bland annat. Vi menar att Gällivare måste bli bättre på att attrahera och rekrytera nya medarbetare samtidigt som vi bättre tar omhand om de som redan arbetar här. I synnerhet då inom de kommunala verksamheterna."
+      },
+      {
+        "category": "Bostadsförsörjningen måste säkras",
+        "description": "Gällivare kommun har under en längre tid präglats av bostadsbrist vilket drivit upp bostadspriserna till en, sett till kommunens läge, tämligen hög nivå. Många bostäder har försvunnit i och med samhällsomvandlingen. \r\nVi menar att kommunen ska fortsätta arbetet med att ta fram detaljplaner samt verka för att skapa ett brett bostadsbestånd med olika typer av bostäder, både tätort och landsbygd."
+      }
+    ],
+    "motivateVote": "För att vi gör ett jordnära parti som prioriterar ett ansvarsfullt hushållande med medborgarnas skattemedel framför storvulna prestigeprojekt. \r\nDe flesta av våra politiker är vanligt folk som kan relatera till vanliga människors vardag och har detta för ögonen i sitt beslutsfattande.",
+    "name": "Sverigedemokraterna Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-gallivare"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "439",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5b4240eb2ed0f56613453276088becb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalkooperativ kan vara ett bra sätt att öka personalens inflytande och delaktighet på sin arbetsplats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d6d31c0f2b91c2c2f226162b0e406d6b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, i kombination med parkeringsavgifter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5c3c23f6aac5122fe05e5c0969cc18ce",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun behövs både kommunala bolag och det privata näringslivet för att skapa fler alternativ och lösningar när det kommer till t.ex. bostadsbyggandet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8f68d14d7c991532baaa04b4de16cea4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Försök med förkortad arbetstid har påbörjats för sjuksköterskor och socionomer med gott resultat. Vi ser gärna att det vidgas till att innefatta fler yrkesgrupper.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2ac740503549cf663d09af991df7e9aa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill hellre utveckla medborgardialogen och medborgarinitiativet. På så sätt blir medborgarna delaktiga mycket tidigare i processerna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ebfa7c0d4ed48dc69d8802fa22025585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utifrån den personalbrist som finns inom hemtjänst och äldreomsorg idag är det inte realistiskt att ställa de kraven. Vi ser hellre att personer utan tillräckliga språkkunskaper får möjlighet att studera svenska parallellt med arbete.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7452989e5b9ded1d2e47df08ecbf6f35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska vara tillgängliga för alla barn.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "05ee8d6a9e7b35973d39a7948b504a0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med bostäder som har hyresnivåer för alla inkomstgrupper. Vi tycker också att det statliga investeringsstödet för nybyggnationer behöver återinföras så att det går att bygga nya bostäder med låga hyror.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f4b75a04a97427bbce14d57c1c33446d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattemedel ska inte förvandlas till privata företags vinster. Pengarna ska användas till våra äldre.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "06a65c728f1609037b86d6912da69679",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en infrastrukturfråga som bör ligga på riksdagsnivå. Men med ett statligt stöd för utbyggnad och förvaltning är varje kommun det bästa alternativet för att ansvara för drift.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b6d9842fa0dd49419f47f4075cf8d86b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den expansiva fas kommunen är så behöver vi var enda person som vill bosätta sig i Gällivare kommun. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "13a7fe6b2fdb328fa5ad6ece8ae4c54a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d8681ac0ff55c50704d044eb99556ac6",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en viktig del i människors vardag och styr över var människor väljer att bo. Vi vill kunna erbjuda ett brett och varierat utbud, speciellt i samband med färdigställandet av multiaktivitetshuset.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5e8e40efe7cec028fae04c24426c8de5",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt att vi alla är med och bidrar för att ha en bra förskola och skola, äldreomsorg, kultur och fritid, gator och vägar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a1e453823711fdccc2de4440524c2c70",
+        "questionType": "PRIORITY",
+        "reasoning": "Gällivare kommun är en tillväxtkommun och behöver fler människor som flyttar hit. Därför behöver vi bygga fler bostäder, samverka kring rekrytering av arbetskraft och höja lönerna inom äldreomsorgen för att göra det viktiga arbetet mer attraktivt. ",
+        "value": [
+          "1158",
+          "1161",
+          "1156"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;A;D!;B!;B!;D!;C!;A!;C;A!;2/5;3/5!;2/5;[1158,1161,1156]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre där Vänsterpartiets frågor får stort utrymme.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Moderaterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skapa förutsättningar för att kunna bygga bort bostadsbristen",
+        "description": "Vi ska stimulera byggandet av bostäder i hela kommunen och vi behöver våga tänka nytt. I vår kommun ska vi ha färdig byggbar mark."
+      },
+      {
+        "category": "Fler vuxna i våra verksamheter som arbetar med barn och unga",
+        "description": "Fler vuxna i våra verksamheter bidrar till ökad trygghet, studiero, delaktighet och en positiv utbildningskultur, därför vill vi fortsätta med satsningen på två vuxna i klassrummet, att minska barngrupperna i förskolan, starta en fritidsklubb för äldre elever och stärka arbetet med barn och elever med särskilda behov."
+      },
+      {
+        "category": "Öppna ett äldrecenter på Enen",
+        "description": "Att öppna ett äldrecenter på Enen som erbjuder måltid, aktiviteter, stöd och information till äldre och deras anhöriga, och att landsbygdens äldre ges liknande möjligheter."
+      }
+    ],
+    "motivateVote": "Vi står för alla människors lika värde och att utveckla av vårt samhälle.",
+    "name": "Vänsterpartiet Gällivare",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-gallivare"
+  }
+]

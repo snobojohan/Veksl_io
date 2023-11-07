@@ -1,0 +1,1356 @@
+[
+  {
+    "abbreviation": "ÄS",
+    "altingetCandidateId": "1673",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermark ska inte exploateras med bostäder",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har växt för mycket och för många år i rad och därmed dragit på oss för stora kostnader",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självförsörjningsgraden i landet är redan för låg. I tider av oro är det extra viktigt att bevara åkermarken. Miljömässigt är det också viktigt",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns exempel på väl fungerande kommunala bolag, tex bostadsbolag i allmännyttan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas fullvärdiga alternativ alla dagar i veckan",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigare heltidsanställning, bra karriärvägar och anständig lön.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna kommunicera. Det handlar om patientsäkerhet och trygghet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunalt finansierade och billiga bostäder möjliggör för ungdomar att flytta hemifrån samt bo kvar i kommunen. Bostäderna ska även ägas av kommunalt bostadsbolag.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Driftsformen är egentligen ointressant. Det är kvaliten som ska styra.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett måste för att klara omställningen från det fossila samhället. Det går för långsamt om marknaden ska lösa det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "En omöjlig fråga att ta ställning till eftersom vi inte styr över det i kommunen",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Väl fungerande verksamhet ska inte konkurensutsättas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Att stödja kultur och fritid är en viktig uppgift för en kommun",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Kärnverksamheter ska utföras med god kvalitet. Lägre skatt riskerar att urholka detta. Högre skatt är inget självändamål och ska inte användas till investeringar utanför kärnverksamheten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2413",
+          "2412",
+          "2415"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;B!;A!;A!;D!;C!;C!;D!;A;2/5!;3/5!;2/5!;[2413,2412,2415]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Frågan är ej relevant för oss eftersom är ett lokalt parti",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha maktskifte, helst med nya partier vid makten.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "C och SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett brett och aktivt föreningsliv ",
+        "description": "En kraftfull satsning på föreningsliv och fritid gör det lättare för oss att bli bäst på det kommunen har i uppdrag att utföra. Till att börja med så är lokaler en prioriterad fråga.\r\nAtt medborgarna har en bra och meningsfull fritid är bra för Svedala, oavsett ålder. Unga klarar skolan bättre. Äldre håller sig unga och friskare längre, och vården kommer senare i livet med en engagerande fritid."
+      },
+      {
+        "category": "Tillväxt med eftertanke och omsorg",
+        "description": "Kommunerna har ett gemensamt ansvar för landets livsmedelsförsörjning. Att i det läget ha rekordhög byggtakt av bostäder på just jordbruksmark är oansvarigt. \r\nDen alltför höga inflyttningen kopplad till detta, leder dessutom till kostnader för kommunal service i större omfattning än vad kommunen löpande kan betala för. Lånen som måste till, skjuter kostnaderna på framtida generationer"
+      },
+      {
+        "category": "Attitydförändring till företagande",
+        "description": "Vi vill se en attitydförändring till företagandet i kommunen, där man proaktivt och stöttande samarbetar mer med företagen och verkar för en minskad politisk styrning och med ett minskat inslag av näringsbidrag. Nya företag, gärna personalintensiva, ska aktivt fås att etablera sig i kommunen så att Svedalas egna ungdomar, när de flyttar hemifrån, ska kunna bo kvar och arbeta i kommunen."
+      }
+    ],
+    "motivateVote": "Vi är ett lokalt parti och jobbar med det som är bäst för kommuninvånarna i varje enskild fråga. Vi styrs inte av något riksparti och dess nationella intressen. ",
+    "name": "Älska Svedala Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "alska-svedala-svedala"
+  },
+  {
+    "abbreviation": "BAP",
+    "altingetCandidateId": "1664",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Måste avgöras från fall till fall",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall dock hjälpa aktörer att skapa tillgång på laddningsinfrastruktur",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2411",
+          "2412",
+          "2416"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;B;B;C;D;D;B;C;B;A;2/5;4/5;2/5;[2411,2412,2416]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har de senaste tre mandatperioderna varit med i den styrande fyr/femklövern och är öppna för ett fortsatt samarbete, beroende på valresultat.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Flera, om de inte delar vår värdegrund",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Planering för framtiden",
+        "description": "Att det finns lokaler och service till invånarna i norra kommundelen nu när Bara och Klågerup, enligt översiktsplanen,  byggs ut kraftigt. Exempel:\r\nVarierat bostadsbyggande för unga, barnfamiljer och äldre, mark och möjlighet för småföretagare att ha sin verksamhet, se till att alla samhällsfunktioner fungerar bra i vår växande kommun."
+      },
+      {
+        "category": "Kommunal  Service i alla kommundelar",
+        "description": "Vi i Barapartiet jobbar hela tiden med att ta upp att även i de norra kommundelarna skall den kommunala servicen utvecklas."
+      },
+      {
+        "category": "Fortsätt att upprätthålla den höga nivån på skola och omsorg",
+        "description": "Vi har redan en hög nivå på skola, barnomsorg, och äldreomsorg men att upprätthålla den framåt är en viktig fråga för oss"
+      }
+    ],
+    "motivateVote": "Vi är det lokala alternativet som arbetar med fokus mot de norra kommundelarna i Svedala Kommun\r\nBarapartiets profilprogram består av ett antal nyckelområden: Social välfärd, Skol- och Ungdomsfrågor, Miljö- och tekniska frågor, Vikänsla och kulturfrågor, Helhetssyn och framtidsperspektiv. \r\nTill dessa nyckelområden jobbar vi med en rad sakfrågor som vi anser viktiga ",
+    "name": "BARAPARTIET Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "barapartiet-svedala"
+  },
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1665",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårda den goda åkermarken! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillväxttakt på 1-1,5% genom stor del förtätning ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bebyggelse bör ske i första hand genom förtätning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi önskar valfrihet för barnen. Kött och vegetariskt alla dagar ser vi som positivt.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska testas, oberoende vilket land man är född i. Skriv och läsförmåga. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Via LOV vilket vi har beslutat i Svedala",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen utreder platser och underlättar etableringar men privata aktörer driver de. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2417",
+          "2411",
+          "2416"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D!;C;A!;B;C;B;C;C;A;3/5;3/5;2/5!;[2417,2411,2416]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar miljö för framtiden",
+        "description": "Öka andelen solceller på kommunala fastigheter\r\nLaddstolpar i alla ”kommundelar”\r\nÖka andelen fordon med klimatsmarta biodrivmedel\r\nFördjupa Hållbarhetsstrategin med socialt och ekonomiskt\r\nställningstagande\r\nÖka andelen närproducerade livsmedel\r\nBalansera utbyggnaden så att samhällsservicen hänger med\r\nPrioritera förtätning i förhållande till att ta åkermark i anspråk\r\nBredband i hela kommunen"
+      },
+      {
+        "category": "Meningsfull fritid för unga",
+        "description": "Bygga inomhusbad \r\nUtöka sommarkul och lovaktiviteter\r\nUngas fritid ska nå fler ungdomar\r\nKvalitetshöjning på fritidshemmen\r\nRikt föreningsliv i hela kommunen"
+      },
+      {
+        "category": "Näringsliv för hela kommunen",
+        "description": "Fortsatt arbeta för topp 10 i Skåne\r\nÖkad service och förenkla för småföretag \r\nSamarbeta tydligt med näringslivet om trygghetsfrågor i kommunen\r\nFler kvinnliga företagare\r\nSamverka prao och praktik för att företagen skall kunna hitta lämplig arbetskraft\r\nÅkermark ska odlas"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-svedala"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1666",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns goda möjligheter att tillgodose Svedala kommuns behov av fler bostäder och ökad service genom förtätning och på så sätt undvika att ta åkermark, natursköna områden och andra värden i anspråk. En sådan förtätning måste dock ta väldigt stor hänsyn till orternas existerande invånare och bebyggelse.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svedalas tillväxttakt måste gå i takt med det kommunala utbudet och vi måste vara säkra på att det finns kontinuerligt skatteunderlag i kommunen för att trygga kommunens förmåga att erbjuda god service till sina invånare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "I ett lokalt perspektiv är åkermarken en del av det landskap som attraherar och stimulerar kommunens invånare. I ett nationellt/globalt perspektiv är det viktigt att värna åkermarken, som den viktiga försörjningsresurs den utgör.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag kan vara en bra lösning ifall det är enda sättet att möta invånarnas behov till service av olika slag. Skulle marknadens förutsättningar ändras på ett sådant sätt att privata aktörer vill erbjuda samma tjänster, så finns det ingen egennytta i att fortsätta driva ett kommunalt bolag inom den sektorn.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "I skolan och skolmiljön är ingenting viktigare än barnens hälsa och välmående som grundläggande förutsättningar för elevernas lärande och sociala utveckling. Pådyvlade kostrestriktioner hör inte hemma i en sådan miljö. Däremot bör det finnas fullgoda vegetariska alternativ för de elever som själva väljer att äta den kosten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna rekrytera och behålla personal inom vård- och omsorg är centralt. För det krävs konkurrenskraftiga löner och en lyhörd personalpolitik. Praktisk vård och patientkontakt prioriteras och trogna, engagerade medarbetare premieras och får möjlighet till inflytande. Detta är frågor som behöver arbetas kontinuerligt med. En “quick fix” som sex timmars arbetsdag är ingen robust lösning. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdtagarna har all rätt att kunna kommunicera sina behov och önskningar utan särskild ansträngning, orsakad av personalens bristande språkkunskaper. Det är både en fråga om patientsäkerhet och värdighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett brett och varierat utbud av bostäder är visserligen önskvärt, men ifall det krävs subventionering för att få till stånd en särskild mix, så riskerar detta att bli en kortsiktig lösning som kan få oönskade negativa effekter längre fram. \r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga hinder för att privata bolag samexisterar med kommunens verksamhet på de här områdena, så länge de lever upp till kommunens krav på kvalitet.\r\n",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ligger mycket långt ifrån kommunens kärnverksamhet. De av våra kommuninvånare som väljer att köra elbil får givetvis själva ta ansvar för att de har möjlighet att ladda dem i sin vardag. Skulle ökad elbilsanvändning bli en nationell strategi, med medföljande ökade krav på tillgänglig infrastruktur, så är det något som rimligen bör finansieras av staten. \r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det råder i nuläget relativt stor nationell enighet om en stramare migrationspolitik på ett nationellt plan, vilket rimligen borde leda till minskad inströmning i hela landet. Även i ett sådant scenario ligger det sedan i Svedala kommuns intresse att vi prioriterar våra existerande invånares tillgång till bostäder och service.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Detta är en fråga för marknaden. Finns det förutsättningar för fler friskolor att etablera sig och leverera kvalitativ undervisning till kommunens barn, så finns det inga politiska anledningar att motsätta sig detta. Kommunala och privata skolor bör kunna utgöra bra komplement till varandra och bredda det totala utbudet till invånarna.\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Vår bild av nuläget är att kulturbudgeten inte riktigt räcker till för att tillgodose alla behov och förväntningar hos kommunens barn och ungdomar. Det hade varit önskvärt att ha råd att genomföra fler projekt, aktiviteter och utbildningar i samarbete med skola, föreningar och privata aktörer.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Efter flera oroliga år i omvärlden är läge att låta saker stabilisera sig innan vi gör några ingrepp i skattesatserna. Det nuvarande skattetrycket är högt, men ter sig samtidigt befogat i ljuset av det som vi alla förväntar oss att kommunen ska kunna erbjuda oss invånare.\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2417",
+          "2411",
+          "2412"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;C!;D!;C;A!;B;D!;B;C!;A!;C;2/5;3/5;2/5;[2417,2411,2412]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "KD i Svedala arbetar för ett fortsatt borgerligt styre i Svedala även efter nästa val. Vi hoppas dock få ett starkare mandat av väljarna framöver, kunna vara en tyngre konservativ röst inom styret och på så sätt få till stånd ett större fokus på bevarande av kommunens existerande värden och prioritering av nuvarande invånares livskvalitet, framför fortsatt exploatering.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för samarbete med alla partier för att få genomslag för vår politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mindre barngrupper i skolan",
+        "description": "Vi är redo att öka lärartätheten och etablera mindre barngrupper i skolan för att skapa en mer jämlik skola där varje elev ges möjlighet att nå sin fulla potential."
+      },
+      {
+        "category": "Familjecentral",
+        "description": "Kristdemokraterna Svedala vill prioritera etablering av ett hälsofrämjande forum för barnfamiljer och blivande föräldrar, där behandling och proaktivt arbete kan samordnas."
+      },
+      {
+        "category": "Bevara Småskolan",
+        "description": "Vi anser att Svedala kommun måste bevara småskolekvarteret och arbeta för att all ny bebyggelse förhåller sig varsamt till Svedalas karaktär och historia."
+      }
+    ],
+    "motivateVote": "Vi är redo att fortsätta arbeta för en varsam, hållbar och långsiktig utveckling av Svedala kommun. Det finns mycket att vara stolt över i Svedala, men också en del där vi kan bättre! Vi vill se till att de kommunala satsningar som görs prioriterar kommunens kärnverksamhet och därefter respekterar kulturhistoriska arv, unika naturvärden och vår viktiga lantbruksnäring.",
+    "name": "Kristdemokraterna Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-svedala"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1667",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-svedala"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1668",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bygg förtätat, inte för täta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Cirka 1 % tillväxt om året; då hinner skolor, förskolor och övriga samhällsfunktioner med.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver bli mindre beroende av omvärlden vad gäller livsnödvändiga varor. Därför ska åkermark skyddas från bebyggelse och motorvägar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska sköta sina kärnuppdrag: ge vård och omsorg, utbildning och barntillsyn, serva medborgarna och lokala företag, sköta gator och renhållning, skapa förutsättningar för trivsel och trygghet. Kommunen ska vårda medborgarnas intressen, inte konkurrera med dem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttproduktion påverkar klimatet och bidrar till att gifter och antibiotika sprids. Hellre bra kött ibland än dåligt kött för jämnan.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det får inte ske på bekostnad av att det blir tuffare att jobba dom sex timmarna",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjligheten att kommunicera verbalt måste finnas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ett kommunalt bostadsbolag; låt det utveckla möjligheter att stötta unga som behöver en första adress.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett kärnuppdrag för kommunen och bör företrädesvis ske i kommunal regi. Speciellt viktigt att inte stora koncerner ges tillstånd att driva skattefinansierad omsorg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elbilen kan vara ett steg för att komma bort från fossilberoende kommunikation.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi klarar att ta emot och integrera folk som flyr krig och helveten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Vi har några små aktörer, idealitetsstyrda. Jättebra!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen kan aldrig få för mycket",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten är rak och därför tuffare för hushåll med små marginaler",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2410",
+          "2417",
+          "2416"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;C;C;B;C;C;B;C;A;2/5;3/5;2/5;[2410,2417,2416]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har högt i taket, så vi kan nog tycka olika ibland, men det är ALLTID livsmiljön för våra barnbarns barnbarn som är det viktiga",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att Svedala kommun ska styras av viljan att ställa om från fossilberoende och konsumtionstroende till klimatsmart och hållbart. Vi vill vara med och påverka de andra partierna att, tillsammans med oss, fatta nödvändiga beslut för att göra det lätt för medborgarna att leva miljömässigt hållbart. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Fossilkramare, rasister och homofoba ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg förtätat, inte för täta",
+        "description": "Förtäta vår kommun är förnuftigt. Bygg så att jordbruksmark och natur bevaras. Stöd centrumhandeln med att bygga nära. Satsa på flerfamiljshus och 55+boenden. Det gör det möjligt att bo kvar i kommunen när villan blivit för stor. Då blir det lättare att ta beslutet att sälja, och så kan växande familjer ges möjlighet att flytta till vår fina kommun."
+      },
+      {
+        "category": "Fossil tillhör det förgångna, fossilfritt är framtiden!",
+        "description": "Låt kommunala tak bli plats för solceller; hållbar elproduktion är både ekologiskt och ekonomiskt. Hitta bra platser för såväl produktion som lagring av el. Stötta företag som ställer om till en hållbarare produktion, stötta medborgare att ställa om till en hållbarare konsumtion."
+      },
+      {
+        "category": "Vårt parti tar parti för barnen!",
+        "description": "Permanenta projektet med förbättrat samarbete mellan soc och skola. Återskapa fältgruppen; synliggör de som far illa, stör de som gör illa. Återta marschen mot bästa skolkommun!"
+      }
+    ],
+    "motivateVote": "Mp Svedala står för hållbarhet. Vi värnar naturen och vill att jordbruksmarken skyddas och bevaras, att det blir enklare att åka kollektivt och cykelpendla. Vi vill stötta centrumhandeln och att nybyggnation sker med förtätning. Vi jobbar för att kommunen ska bli fossilfri och vara en del i förnybar elproduktion. OCH, inte minst, vi kommer aldrig tillåta några sopiga affärer med bluffande bolag!",
+    "name": "Miljöpartiet Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-svedala"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1669",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att skapa mer handel och service i våra centrum kan det vara klokt att bygga om ett envåningshus till ett tvåvåningshus, eller låta en större industrilokal i ett centrumnära läge bli en mixad handels och bostadsfastighet. Men det ska göras med omsorg och det är viktigt att bibehålla det gröna som är Svedala kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har varit bra för Svedala kommun att få fler bostäder dels till dem som bor här nu, men också till dem som har sina rötter i kommunen och vill återvända med sina egna nybildade familjer. Tillväxt är bra för handel och service, men vi ska växa rimligt över tid.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för Sverige att mer livsmedel odlas i landet. Men olika åkermark är olika odlingsbar. Vi tycker också det är viktigt att försöka utveckla nya platser för de enskilda hushållen att kunna odla själva på. En fråga att arbeta med i framtiden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte det problemet i Svedala. Vi har ett eget fastighetsbolag, men det tycker vi är ett rimligt undantag. Det arbetar med att förse de flesta av våra verksamheter med lokaler. Dock inte alla. Kommunen hyr lokaler även från andra fastighetsbolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på valfrihet – att individen själv ska välja sin kost. Vi erbjuder vegetariska alternativ varje dag, men vill inte styra individen via den här typen av riktlinjer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "All personal, och även de i äldreomsorgen, ska ha bra arbetsmiljö med varierande arbetsuppgifter och balans mellan kraven som ställs och möjligheterna att leva upp till dem.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla våra vårdtagare ska vara trygga i att de och vår personal förstår varandra. Dock tycker vi att detta är en fråga som bör diskuteras nationellt.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte subventionera hyresrätter. Vi ska se till att det byggs hyresrätter bl.a. av kommunens fastighetsbolag. Vi tror på en blandad bostadsmarknad med flera aktörer och ett utbud som passar alla och alla skeenden i livet. Något vi förbättrat och vill fortsätta med.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till att där finns alternativ till den kommunala verksamheten som vårdtagaren själv kan välja om den vill. Den verksamheten ska hålla minst samma kvalitet som vår egna verksamhet Vi använder oss av det antagna LOVreglementet som möjliggör för företag att konkurrera med kommunens verksamhet med kvalitet i fokus och som krav. Vi har inte för avsikt att sälja ut vår egen verksamhet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "i begreppet ”att ansvara” menar vi att kommunen tillsammans med olika aktörer ska möjliggöra för en kraftfull utbyggnad av laddstolpesystemet i alla våra tätorter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi menar att Sverige som land behöver se över och minska sitt flyktingmottagande och göra stora förändringar och förbättringar i migrationspolitiken. Efter en sådan förändring är det logiskt att Svedala sedan har ett lägre flyktingmottagande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Vi upplever att Skabersjöskolan och de fristående förskolor som finns idag matchar de önskemålen som finns hos våra föräldrar och barn. Vi välkomnar alltid andra aktörer men fortsätter att satsa på den kommunala skolan.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Framöver vill vi utveckla detta område men det måste ske på ett sätt så att utbud och verksamhet matchar invånarnas förväntningar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Vi har skapat ett utrymme för att kunna tex sänka skatten men med en orolig omvärld känns det inte rimligt i närtid.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2417",
+          "2411",
+          "2412"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;C;C;A;A;C;B;D;D;C;2/5;3/5;2/5;[2417,2411,2412]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi delar ideologi med vårt parti på riksnivå. Sedan kan olika frågor vara olika aktuella i olika kommuner. Men där är ingen fråga som ”sticker ut” för oss, dvs där vi och riks ser olika på någon större samhällsutmaning. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har styrt tillsammans med en borgerlig 5 klöver med tydligt fokus på vår kommuns bästa. Ett styre som bygger på en stabil grund och gott samarbete.  Vi fortsätter gärna vårt samarbete med våra vänner i 5klövern men går till val som Moderaterna och låter väljarna via sin valsedel lägga grunden för hur framtida samarbeten kan se ut.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samtalar med samtliga partier i kommunfullmäktige.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett hållbart Svedala",
+        "description": "Att fortsätta bygga ett hållbart samhälle är en självklar prioritering i Svedala.\r\nSvedala ska vara klimatsmart och miljövänligt, men också tryggt, välmående och stabilt.\r\nI detta arbete ska kommunens verksamheter vara ett föredöme.\r\nOch samtidigt ska kommunen göra det lättare för dem som bor här att göra kloka val."
+      },
+      {
+        "category": "En balanserad tillväxt",
+        "description": "Svedala är kommunen för alla åldrar och plånböcker.\r\nOch Svedalas innevånare är mer nöjda med sin kommun än nästan alla andra svenskar. (5:e plats i landet)\r\nDärför är det många som väljer att flytta hit.\r\nDenna tillväxt måste ske på ett klokt och planerat sätt, men den är samtidigt grunden för en utveckling\r\nmed fler möjligheter och ett bättre utbud av service, varor och tjänster."
+      },
+      {
+        "category": "Ett inomhusbad i Svedala",
+        "description": "Svedala har två populära utomhusbad.\r\nMen det är många som vill kunna bada året om, och det behövs fler tider för simundervisningen.\r\nEtt inomhusbad är en stor och komplicerad investering.\r\nMen nu har de nödvändiga förberedelserna gjorts och ett ekonomiskt utrymme skapats,\r\nsom gör att kommunen på ett ansvarsfullt sätt kan starta planeringen och byggnationen av ett badhus."
+      }
+    ],
+    "motivateVote": "Moderaterna har lett Svedala kommun i över 15 år. Vi är stolta över vår kommun men den kan naturligtvis bli ännu bättre. Vi fokuserar på att driva den kommunala kärnverksamheten så effektivt som möjligt. Via olika samarbeten utvecklar vi en plats där man vill och kan bo hela livet. Det leder till god ekonomi, något som skapar handlingsutrymme för framtiden och möjlighet till långsiktigt tänkande.",
+    "name": "Moderaterna Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-svedala"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1670",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förtätning underlättar användandet av kollektivtrafik, närhet till kommunal service och handel. Jordbruksmark och viktig naturmark skyddas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunal service måste gå i fas och kommuninvånarna måste känna att de hinner med i utbyggnadstakten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jordbruksmark är viktig att spara för framtida livsmedelsproduktion",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge konkurransen är på lika vilkor så har man samma spelregler",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra alternativ till kött finns i dag att servera i skolmåltiderna",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Yrkesgruppen måste få bättre möjlighet att orka med sitt arbete utan ekonomisk förlust",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation mellan vårdtagare och vårdgivare är viktig",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste finnas ett boendeutbud till alla",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ha egen kontroll över kärnverksamheterna och inte använda skattepengar till privata vinster",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både en kommunal och privat infrastruktur av laddstolpar gynnar elfordon",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ansvarar för flyktingmottagning baserat på kvoter från andra myndigheter. Kvoten varierar på omvärldshändelser och kan vara både hög eller låg",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Vi har i dag inga privata grundskolor och det bör inte införas heller",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens kulturverksamheter är i dag mycket små. Kommuninvånarna efterfrågar mer och bredare utbud av verksamheterna",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Dagens kommunalskatt matchar väldigt väl kommunens omkostnader i dag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2411",
+          "2413",
+          "2412"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;A;C;D;C;D;A;D;C;2/5;4/5;2/5;[2411,2413,2412]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna vill styra och leda kommunen i en stark hållbar samverkan med andra partier",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa privatiseringar",
+        "description": "Kommunala kärnverksamheter skall vara kvar i egen (kommunal) regi."
+      },
+      {
+        "category": "Utförsäljning av bostadsbeståndet",
+        "description": "Stoppa utförsäljningen av billiga hyresrätter av det kommunala bostadsbeståndet. Dessa hyresrätter med låg hyra kan göra det möjligt för ungdomar att få sin första lägenhet."
+      },
+      {
+        "category": "Jordbruksmark till exploatering",
+        "description": "Vi måste värna om jordbruksmarken vid exploateringar. Svedala kommun är en av de kommuner som bygger mest på fin jordbruksmark. Detta vill vi ska ske med varsamhet då ett annat alternativ kan vara förtätning i orterna."
+      }
+    ],
+    "motivateVote": "Socialdemokratin vill forma ett samhälle grundat på demokratins ideal och alla människors lika värde och lika rätt. Fria och jämlika människor i ett solidariskt samhälle är socialdemokraternas mål.\r\nMänniskan ska vara fri att utvecklas som individ, råda över sitt eget liv, forma sin tillvaro efter egna önskningar och påverka det egna samhället. Denna frihet ska gälla alla. ",
+    "name": "Socialdemokraterna Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-svedala"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1671",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "47915bce54120fe10237198430bd51d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nya bostäder och andra byggnationer behövs, men för att skydda åker och natur är det bättre att bygga tätare där det går.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9eb01663474ecbd76c1a34f79ca78b9e",
+        "questionType": "PROPOSITION",
+        "reasoning": "En mycket hög tillväxt får konsekvenser för kommunens servicekvalitet och medför stora investeringsbehov, samtidigt som underhållsbehoven är stora. I Svedala kommun är en minskad tillväxttakt detsamma som en mer balanserad tillväxttakt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d1f7ee140311d1a6df452294b048579",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermark kan aldrig återskapas när den väl bebyggts. Sverige har oroväckande låg självförsörjningsgrad och den får inte minska ännu mer. Dessutom är åker och natur en del av landskapets skönhet. Landskapet är en viktig del av Svedala kommuns attraktivitet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5277f2017861cc11e35ff96071023bac",
+        "questionType": "PROPOSITION",
+        "reasoning": "En del verksamhet drivs bäst av kommunen själv, men om kommunen inte vill driva en verksamhet själv utan genom ett bolag, så ska det inte vara för att konkurrera ut andra företag.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8d8ce7317f58a89b75ab1713adfef92d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Maten bör i huvudsak bestå av husmanskost eller liknande. Alla som vill välja vegetarisk kost ska kunna göra det, men ingen ska regelmässigt tvingas till det. Skolmaten ska vara barnvänlig, och var och en ska ha frihet att själv välja eller inte välja vegetarisk kost, så ofta som möjligt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "50833e58ee7a5b68089e000e5d52274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte realistiskt, och det finns fler personalgrupper med tuffa arbetsvillkor. En bra princip är att det ska vara lika för alla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d3218afcb023810e3eed80f4ba2efc69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är det allra viktigaste verktyget på nästan alla arbetsplatser. Det gäller inte minst när man jobbar med människor. Självklart ska personal i hemtjänst och äldreomsorg behärska god svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11592d21dc5de5d58769cbcabdb8e1b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett varierat och blandat bostadsbyggande är önskvärt. Tillgång och efterfråga ska styra vad som byggs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "14e918be7d30784b6198d7cbf930ee39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vilken verksamhet som drivs bäst av vem kan variera inte bara mellan kommun och företag, utan även mellan olika företag. Det skadar inte att möjligheten finns för kommunen att ta hjälp av privata företag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f3e9f8721f177f6490129771c84bf155",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska underlätta och planera för fler eldrivna fordon, men att bära ansvaret för ett stort antal publika laddstolpar bör inte åläggas kommunen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "59f9ca5b6036bdcd8118169b4e8ef458",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingmottagande i Sverige är i de flesta fall det sämsta tänkbara sättet att bedriva flyktinghjälp på. Svedala kommun ska ta hand om Svedalas invånare i första hand. Staten ska själv ta ansvar för sin migrationspolitik.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d86515acbe735c3e242de8a3b72158a2",
+        "questionType": "RANGE",
+        "reasoning": "Det finns i dagsläget ingen anledning att arbeta för fler eller färre friskolor. Om någon vill starta en friskola i Svedala kommun i framtiden, så kan vi tänka oss det, på vissa villkor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae274679608ded2a7cab30750f8aeb26",
+        "questionType": "RANGE",
+        "reasoning": "Medel avsätts regelmässigt till exempel till utsmyckning av gator, torg och byggnader. Det vore önskvärt att lägga lite mer på kultur, men det är svårt att lova.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bdbdfedd5ec2204f09ccd6e89007a936",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag eller mindre om det blir möjligt. Sverige har redan rekordhögt skattetryck i jämförelse med andra länder. Om inte det räcker, då är det något annat som är fel.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "71a03ced8c04bb8f8f1e721cc9156953",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2412"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D;C;A!;B;D;B;C;B;D!;2/5;2/5;2/5;[2412]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, ingen viktig och tung fråga i alla fall.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverigedemokraterna Svedala vill styra i majoritet, om det behövs med stöd av andra partier som accepterar och respekterar oss och våra väljare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet förmodligen, för att de ligger för långt ifrån politiskt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Studiero i skolan",
+        "description": "Alla barn upplever inte studiero i skolan, eller att skolans ordningsregler efterlevs. Om fler barn hade studiero och kunde få mer skolarbete gjort på skoltid, så vore det bra för studieresultat och betyg, för välmående och trivsel, för jämlikheten och för personalens arbetsmiljö. Vi vill att kommunen satsar på att öka studieron i grundskolorna där det behövs."
+      },
+      {
+        "category": "Resursteam till hemtjänsten",
+        "description": "Arbetsvillkoren i hemtjänsten är tuffa, och leder till sjukskrivningar. Vi vill att hemtjänsten förstärks med fem undersköterskor och därmed minska belastningen och behovet av timanställda vikarier. Det ökar säkerheten och tryggheten med personal som kan rutinerna, är kända ansikten hos de som får hembesök, och har mer tid för de äldre."
+      },
+      {
+        "category": "Var rädd om åker och natur",
+        "description": "Svedala kommun har vuxit snabbt under många år, och tillhör dem som exploaterat mest åkermark. Det finns risker med att växa mycket snabbt, till exempel att kvalitén på verksamheten blir sämre och att servicen inte hinner med. Vi tror på en mer balanserad exploatering, där åkermark lämnas orörd i högre grad. Vi tror på ett mindre sårbart samhälle som har större möjlighet att försörja sig självt."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna Svedala står för yttrandefrihet mot politisk korrekthet, för ärliga och strävsamma människor, för att man tar hand om sina närmaste i första hand och resten av världen i andra hand, för att man tar seden dit man kommer, för rättvisa och jämlikhet utan kvotering, gräddfiler eller förtur. För att vi inte är naiva.",
+    "name": "Sverigedemokraterna Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-svedala"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1672",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "hemtjänsten",
+        "description": "enbart fast anställning skall förekomma."
+      },
+      {
+        "category": "ingen mer utförsäljning av kommunala bostäder. ",
+        "description": "vid nybyggnation bygg billigare,än i nuläget."
+      },
+      {
+        "category": "träffpunkter för ungdomar",
+        "description": "det behövs ställen där ungdomar kan träffas fråga vad de vill. Vi återkommer i valrörelsen"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Svedala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-svedala"
+  }
+]

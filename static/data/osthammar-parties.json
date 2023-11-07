@@ -1,0 +1,1423 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2219",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "När det finns tillräckligt barnunderlag i upptagningsområdet är det en möjlig utveckling.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har just tagit ett övergripande beslut om VA-lösningar för östra delen av kommunen som bygger på andra modeller.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver all förnyelsebar elproduktion som är möjlig att få. Havsbaserad vindkraft är kostnadseffektivt och relativt snabbt att bygga ut. Den föreslagna vindkraftsparken ligger dessutom utanför kommungränsen varför vi inte har någon beslutanderätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Forsmark har just uppgraderat sin kapacitet och levererar redan mycket el. Utbyggnad av ny kärnkraft är dyrt och tar lång tid. Kärnkraftverk drivs av ej förnyelsebart bränsle, som inte produceras i Sverige, och lämnar radioaktivt avfall som måste tas omhand. Sol&vindkraft är billigare, kan byggas nu och kan lagras genom vätgasproduktion, i batterier mm.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte vara en aktör på bostadsmarknaden. Stiftelsen Östhammarshems styrelse nomineras av kommunfullmäktige och stiftelsens uppgift är att bygga bostäder i kommunen. Visst samarbete mellan kommun och bostadsstiftelse finns redan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan tillåtet i Östhammars kommun och privat hemtjänst finns.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns utrymme i budgeten och fungerar med schemaläggning och andra omständigheter kan det vara värt att genomföra en testverksamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs en solidarisk fördelning över landets alla kommuner och den frågan kan inte lämnas till varje enskild kommun att avgöra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar har svårt att greppa över stora samhällsproblem, frågor går sällan att bara säga ja eller nej om. De folkvalda politikerna är valda just för att de ska representera ett genomsnitt av befolkningen och de ska kunna sätta sig in i frågor mera på djupet inför beslutsfattande. Dessutom kostar en folkomröstning i kommunen runt 1 mkr, pengar som kan användas bättre.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska verka enligt samma regelverk som kommunala skolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att laddinfrastrukturen byggs ut fort och brett. Kommunen kan vara en aktör som i samverkan med exv bostadsföretag och andra företag hjälper till med utbyggnaden. Det kan vara aktuellt vid kommunala byggnader som idrottsanläggningar och liknande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns endast fristående gymnasieskolor i kommunen. Det skulle kunna vara intressant om privata aktörer även drev någon grundskola, kanske på landsbygden? Privat barnomsorg finns och fungerar väl. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har ett rikt kultur- och föreningsliv med god samverkan mellan offentliga och föreningsdrivna kulturaktiviteter. Det ska vi fortsätta med, liksom kostnadsfri Kulturskola för alla som vill delta.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten i Östhammar har varit oförändrad under många år, den ligger på en lagom nivå för dagens behov.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2937",
+          "2942",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;D;B;A;D;C;A;A;D;C;3/5;2/5;2/5;[2937,2942,2944]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I princip inte.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte ge SD makt över landets styre, vi vill inte regeringssamverka med V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola där varje elev får förutsättningar att lyckas ",
+        "description": "Alla barn har rätt att få en bra utbildning, oavsett var i landet eller kommunen man bor, med elevernas trygghet och kunskapsutveckling i fokus. Vi vill utveckla elevhälsan och samarbetet med BUP och att samverkan mellan skola och socialtjänst utvecklas. Fler unga ska få hjälp i tid."
+      },
+      {
+        "category": "Hela Östhammars kommun ska utvecklas!",
+        "description": "Man ska ha bra förutsättningar för liv och arbete oavsett var man bor i kommunen. Bättre tillgång till bredband, kommunikationer och samhällsservice behövs. En livskraftig landsbygd är en tillgång i såväl klimatarbetet som bygget av ett robust samhälle. Lant- och skogsbruket har avgörande roller i den gröna omställningen."
+      },
+      {
+        "category": " Fler jobb genom att satsa på våra småföretagare!",
+        "description": "Välfärden skapas genom livskraftiga företag och det gäller inte minst de små företagen. Här finns och utvecklas den absolut största delen av jobben. Vi måste göra mer för att underlätta och förenkla för dem som driver företag, regelkrånglet måste minskas. Det ska vara lätt att göra rätt och kommunens personal ska möta företagare med positiv attityd!"
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa bra villkor för alla människor i hela landet, såväl på landsbygd som i stad. En röst på Centerpartiet är en röst för klimatets bästa - för grön omställning. För ökad jämställdhet och en trygg sjukvård. Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism.",
+    "name": "Centerpartiet Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-osthammar"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2220",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bevara och utveckla Ekeby skola är en av de viktigaste frågorna detta val. Majoriteten har lagt ner fyra landsbygdsskolor sedan 2014, och nu diskuterar man Ekeby skola och begränsar upptagningsområdet, och rätten till fritids. Det är fel. Vi vill utveckla Ekeby skola, inte avveckla.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att lösa vattenfrågan är viktigt, men detta riskerar drabba privatpersoner mycket hårt ekonomiskt. Nuvarande lagstiftning, i kombination med Östhamm kommuns VA-plan, innebär att många riskerar betala upp mot 300 000 kronor för att ansluta sig till nybyggt kommunalt VA, även om man redan har ett fungerande system. Det är KD emot och vill hitta en annan, icke-tvingande lösning.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte förstöra Östersjön ytterligare och vänder oss emot detta. Det är inte lämpligt med 215 vindkraftverk som 350 meter höga utanför Örskär.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sveriges behov av elenergi kommer öka om vi ska klara omställningen till ett fossilfritt samhälle. Vi räknar med ungefär ett dubblat elbehov jämfört med idag. Därför behöver vi investera i ny kärnkraft. Morgondagens kärnkraft har potential att vara både säkrare och mer effektiv än dagens. Vi vill öka stödet till forskning inom kärnkraftsområdet och ta fram en färdplan för framtidens kärnkraft.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar en större variation av bostäder enligt trädgårdsstadens principer. Billiga hyresrätter kan vara bra på vissa ställen i kommunen, men i första hand vill vi se småhus och par- och radhus.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet inom vård och omsorg är viktigt. Var människor ska bo livets sista år ska inte bestämmas av kommunstyrelsens ordförande eller socialnämndens dito. Det ska bestämmas av den det berör.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kortare arbetstid kräver fler medarbetare som ska täcka upp det totala behovet. Det finns också en risk att man ska klara samma arbetsmängd på kortare tid, utan att den insatsen märks i lönekuvertet. I stället borde kommunen satsa på att skapa mer hållbara arbetsmiljöer, som medarbetare vill jobba och vara kvar i, med konkurrenskraftiga löner.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommunala självstyret är viktigt. Det är staten som bestämmer hur många som kommer till Sverige, och det skiljer sig mycket mellan dem som kommer. Då är det rimligt att man gör detta flexibelt och att staten tar ett ansvar. Annars hamnar det i knät på kommuner som redan har det tufft ekonomiskt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är rådgivande, inte tvingande, och därför ett ganska trubbigt verktyg att använda för att genomdriva faktisk förändring. Den aktiva medborgardialogen bör kontinuerligt genomföras av respektive parti för att vara säkra på den folkliga förankringen. I särskilda fall, exempelvis inför (inte efter) stora beslut, kan folkomröstningar vara bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ska vara upp till respektive friskola.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan mycket väl ansvara för samordningen, men ytterst är det näringslivet och marknaden som ska etablera både snabbladdningsstationer och publika laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Vi värnar det fria skolvalet och ser gärna en mångfald av aktörer i Östhammars kommun. Det är särskilt viktigt att bevara kommunens landsbygdsskolor.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Ungefär samma som idag. Kulturen ger oss mening i nuet, men kulturen bär också våra historiska rötter och föder visioner för framtiden. Kulturen kan hjälpa oss att växa som empatiska och inkännande människor. Kulturen, precis som moralen, håller ihop gemenskaper och skapar förutsättningar för ett gott samhälle.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill sänka skatten och fokusera kommunens verksamhet på välfärdens kärna: på en skola för lärande, en god barnomsorg och ett värdigt åldrande. Att hushålla med invånarnas skattepengar betyder att avstå från kommunala skrytprojekt och att den kommunala förvaltningen ska vara liten och effektiv. Då kan skatten hållas till medelnivå bland svenska kommuner och god offentlig service säkras.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2942",
+          "2944",
+          "2938"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;A!;C;B;D;A;C;C;B;C;3/5;2/5;1/5;[2942,2944,2938]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-osthammar"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2221",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ekeby skola riskerar att som f-3 skola bli så liten att den måste läggas ner. Med fler årskurser och dessutom med fritt skolval i stället för upptagningsområden förbättras möjligheten att med rimlig ekonomi bevara skolan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förstår inte varför. Det finns andra alternativ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraft ger energi när det blåser. Vi behöver stabil energi i alla väder. Vindkraftverk har visat sig ekonomiskt olönsamt i längden då elpriset ligger lågt när det blåser. Kräver mycket betong, har en livslängd på ca 20 år. Varför förstöra fina fiskevatten när man kan bygga kärnkraftverk?",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt ta tillvara all den kompetens kring kärnkraften och slutförvar som kommunen erhållit under mer än 20 års arbete med slutförvarsfrågan. \r\nI Forsmark är det enligt nuvarande lagstiftning möjligt att bygga fler kärnkraftverk. Villiga investerare börjar dyka upp.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östhammarshem ska bygga och finansiera hyreslägenheter. Indirekt är det ju redan kommunen genom att Östhammarshem är en stiftelse som kommunen borgar för.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberaler älskar valfrihet. Kommunen är inte allena saliggörande på området. Vi behöver alternativ. Kommunen ska underlätta, inte motarbeta privata initiativ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helt orealistiskt förslag. Svårt rekrytera personal redan idag och finansieringsfrågan olöst. Det finns mycket att göra för arbetsmiljön i stället så personal orkar jobba heltid och trivs på jobbet, ex bort med minutstyrning, skapa självgående arbetsgrupper mm",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vad skulle hända om alla kommuner säger nej? Solidariskt ansvar för flyktingarna i relation till kommunernas storlek och ekonomi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarna väljer vilka förtroendevalda de vill ha i kommunen. Dessa bör ha förtroendet att fatta beslut för medborgarnas bästa. Endast i undantagsfall ska folkomröstning användas. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolor ska inte göra urval av elever. Varifrån man kommer ska inte avgöra vilken skola man får gå på. Ingen skillnad på kommunala skolor och friskolor",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska underlätta för elleverantörer att sätta upp laddstolpar men kommunen ska inte ansvara för dem. Däremot ska kommunen se till att anställda har tillgång till laddning under arbetstid.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "En friskola på grundskolenivå skulle behövas. Idag finns bara kommunala alternativ där närhetsprincipen gäller",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Det känns som att kommunens satsning på kultur motsvarar efterfrågan. Man måste alltid fråga sig varifrån medlen ska tas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen skattesats ligger högt i länet men utrymmet för skattesänkning finns inte. Visserligen har de två senaste åren gett stora överskott men det beror på tillfälliga statsbidrag. Effektiviseringskrav ligger ständigt på verksamheterna.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2937",
+          "2942"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;A!;D!;A;D!;A!;A;A;D;B;4/5!;2/5;2/5;[2937,2942]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En  borgerlig majoritet där Liberalerna ingår.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Kan bli svårt med SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "öka studieron och måluppfyllelse i skolan genom mer makt åt professionen.",
+        "description": "Lärare och rektorer måste ha större friutrymme att utforma sin egen skolvardag. Minska dokumentationskravet till förmån för klassrumsnära verksamhet. Skapa små undervisningsgrupper för elever som behöver arbeta i lugnare miljöer och med mycket stöd."
+      },
+      {
+        "category": "småskaliga kärnkraftverk i Forsmark",
+        "description": "Vi vill se att kommunens långvariga arbete och den erfarenhet man vunnit genom slutförvarsarbetet inom kärnkraftsområdet tas till vara. Kommunen bör ta initiativ inledande diskussioner med företag som är beredda att investera i ny teknik för att bygga småskaliga kärnkraftverk i Forsmark."
+      },
+      {
+        "category": "Bättre arbetsmiljö inom hemtjänst och äldreomsorg",
+        "description": "För att öka kvaliteten inom hemtjänst och äldreomsorg vill vi satsa på arbetsmiljön de anställda. Detta kan ske genom stärkt nära ledarskap men också högre krav på de anställda ex språkkrav, undersköterskeutbildning, självstyrande mindre arbetsgrupper, ingen minutstyrning. Vi tror på ökad frihet för de professionella vilket leder till ökad arbetsglädje och  därigenom högre kvalitet."
+      }
+    ],
+    "motivateVote": "Liberalerna är partiet som alltid jobbar för frihet, trygghet ochdelaktighet för medborgarna. Vi sätter skolan först. Goda skolresultat leder till frihet och trygghet under hela livet.",
+    "name": "Liberalerna Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-osthammar"
+  },
+  {
+    "abbreviation": "BoA",
+    "altingetCandidateId": "2222",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Små barn mår bäst av att gå i skolan nära hemmet. Östhammars kommun är en landsbygdskommun och som sådan bör man kunna erbjuda mindre skolor med stort trygghetskapital och där eleverna blir sedda. Det är kommunens konkurrenskraft!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens flerkärnighet med många mindre anläggningar gör det omöjligt på sikt att underhålla och utveckla alla mindre renings- och vattenverk när det kommer nya miljökrav. Därför har vi sedan länge förordat en sammankoppling av systemet för att skapa en bättre ekonomi i hanteringen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Exploatering av orörd natur bör undvikas, särskilt av kortsiktiga, utländska investerare utan tanke på riktig hållbarhet. Den havsbaserade vindkraften kan aldrig på egen hand lösa den önskade fördubblingen av elproduktionen, då det är ett ovetenskapligt önsketänkande. Vidare behöver kusten vara möjlig att försvara vilket även detta omöjliggör denna typ av etablering.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver planerbar el även i framtiden varför kärnkraft kan vara en del i elmixen. Den bör ju främst placeras där förbrukningen är som störst, för att kunna optimera elnätet maximalt, något politiker förstod på 1960- och 70-talet men är något som tycks fallit i glömska. Forsmark kan vara ett ställe för detta, men rimligtvis borde de göra mest nytta i Norrbotten och södra Sverige.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen likväl som andra intressenter är mer än välkomna att bygga hyreslägenheter. Hur \"billiga\" de blir beror väl mest på de allmänna byggkostnaderna men kommunen kan hjälpa till med detaljplaner och goda miljöer. Vi kommer även vid valvinst inrätta en stadsarkitekt då ett kvalitativt boende även behöver samhälliga sammanhang och varsam hantering av våra kulturmiljöer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bara för att man blir äldre slutar man inte vara människa, och då mår man lika bra som när man är yngre av att kunna välja. Men vi ser även behov av fler kommunala alternativ, där olika typer av boenden och hemtjänstalternativ erbjuds. Vi ser även värde i att utveckla maten då vi vill se mer kvalitet, glädje och nyttigheter i kommunens materbjudande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Försöken med \"heltid som norm\" har ju inte visat sig vara framgångsrika varför vi mer tror på flexibilitet och valfrihet. Då huvudmålet måste vara att bygga upp kvalitativa hemtjänstteam bör kommunen anpassa arbetserbjudandet för att kunna passa olika typer av sökanden och livssituationer. Vi tror att det är viktigare med god sammanhängande schemaläggningen och att minuttaxan tas bort.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Statens intresse av att \"styra\" kommunerna genom nya lagar, myndigheter, och direktiv är i ökande, och ofta utan ersättning och konsekvensanalys. När det kommer till flyktingmottagning är tillgången av t ex bostäder, skolor och övrig service av största vikt för att göra mottagningen så bra som möjlig, både för de nyanlända och de redan boende varför kommunerna borde bestämma detta själva.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den representativa demokratin är ofta bristfällig då allmänheten sällan ges den transparens som krävs för att genom sin röst kunna utvärdera huruvida politiker och partier uträttar det man lovat väljarna. Folkomröstningar ställer krav på väljarna att själva sätta sig in i frågor och bilda sig en uppfattning, vilket är vitaliserande och sunt i en fungerande demokrati.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är ingen kommunal angelägenhet finns många aktörer som sysslar med detta. Kommunen ska satsa på sina huvudverksamheter barnomsorg, skola, äldrevård och ta hand om sina nödvändiga investeringar. Det är att göra allt till \"kommunalt\" som gör att kommunens kostnader skenar!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga friskolor inom grundskolan idag, och såväl den kommunala skolan som våra barn och föräldrar skulle må bra av att det fanns mer att välja på. Vi är även för det \"fria skolvalet\" inom den kommunala skolan där barnen borde få välja oavsett \"upptagningsområden\", bussar går alltid att lösa,",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Mycket av kultur- och fritidsbudgeten idag går till hyror av lokaler så vi tror att det genom en mer effektiv lokalpolicy och användning finns utrymme för mer kultur inom samma budget som idag. Men sen är det kvalitativ kultur vi behöver, inte kulturadministration.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens skatt är idag hög och för att kunna få nya medborgare att flytta hit och framförallt få de boende i det som tidigare kallades sommarboenden att skriva sig i kommunen krävs en rejäl skattesänkning. Med god politisk styrning och större kostnadskontroll finns goda möjligheter att inför kommande storprojekt i Forsmark justerat kommunalskatten till en mer attraktiv nivå.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2942",
+          "2941",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A!;C;C;D;B;D;D!;C;A;3/5;2/5;0/5!;[2942,2941,2944]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Som resultatorienterat lokalparti så är vårt fokus att skapa värde för de boende i Östhammars kommun, värde i form av välfärd före administration. Då vi är en landsbygdskommun ser vi alltid småskalighet före det storskaliga, då vi här ser framtidens attraktions- och konkurrenskraft.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill medverka i en majoritet som skär i den snabbt växande kommunala administrationen för att istället satsa på riktig välfärdsverksamhet inom barnomsorg, skola och äldreomsorg där man politiskt styr mot leverans och kvalitet istället för innehållslösa styrtal och värdeord. Genom tydlig politisk styrning inom välfärden ges kommunen möjlighet att återställa den mycket stora underhållsskulden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi är ett resultatorienterat lokalparti. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet & Kvalitet i äldrevården",
+        "description": "Vi jobbar för att ta bort minuttaxan inom hemtjänsten för att minska stressen för både de äldre och personalen. Vi har motionerat om en s k \"kontinuitetsgaranti\" där den äldre max har fem st från hemtjänsten/2-veckorsperiod. Vi behöver även bygga olika typer av äldreboenden. Sist men inte minst lägger vi om hela måltidsenheten för mer kvalitet, upplevelse och näring."
+      },
+      {
+        "category": "Bygga ett kostnadseffektivt & miljövänligt kommunalt vatten- och avloppssystem",
+        "description": "Rent vatten är en av våra samhällens absolut viktigaste resurs! Samt den kommunala förmågan att rena det innan vi lämnar tillbaka det. Ett VA-system måste vara såväl tryggt, miljöanpassat, stabilt och samtidigt inte kosta hur mycket som helst, vilket är kommunens största tillväxtutmaning då de kommunala anläggningarna inte har underhållits och utvecklats sedan 1990-talet."
+      },
+      {
+        "category": "Mer välfärd - mindre administration, tydligare politisk styrning",
+        "description": "Kommunens ledarskap måste bli mer professionellt, göras till en lägre kostnad, bli mer effektivt och med en mindre maktkoncentration! Politiken ska styra verksamheten och inte tvärtom. Vi verkar för att kommunalråden får ett direkt rotel- och ordförandeansvar. Färre politiker. Kommunens administrativa tyngd har accelererat på bekostnad av välfärd och investeringar. Det tänker vi ändra på!"
+      }
+    ],
+    "motivateVote": "Alltfler beslut fattas ovanför våra huvuden. Statens och EU:s inflytande ökar kontinuerligt, och det blir inte bättre av att många lokalpolitiker lyssnar mer på sina Riksdagspartier istället för sina lokala väljare. Vi står för det kommunala självstyret och är beredda att göra vad vi kan för att göra kommunen mer självständig. Vi räddar gärna världen, men låt oss börja med Östhammars kommun!",
+    "name": "Lokalpartiet BoA Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "lokalpartiet-boa-osthammar"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2223",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det är bra med olika stora skolor så att alla kan hitta den skola som passar dem. Vi har inte många landsbygdsskolor kvar i kommunen, och skolan är ofta en viktig plats inte bara för de barn som går i skolan, utan för hela bygden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kapacitet finns enligt uppgift, men vid eventuell bräddning belastas Olandsån, som redan är förorenad. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ställa om till förnyelsebar energi, både av miljöskäl och av säkerhetspolitiska skäl. Havsbaserad vindkraft är ett av de snabbaste och effektivaste sätten att ställa om vår energiproduktion och en viktig del i den gröna omställningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förutom uranbrytningen och olycksrisken vid drift av kärnkraftverk så producerar de små kärnkraftverken mer avfall än större, och vi anser inte att avfallsfrågan är löst på ett tillfredsställande sätt ens för befintlig kärnkraft. Det har också andra radioaktiva och kemiska egenskaper än det befintliga avfallet vilket kan göra det svårare att ta hand om.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste våga investera i bostäder för att människor ska kunna bo kvar i Östhammars kommun eller flytta hit. Alla har inte möjlighet att köpa sin bostad och tillgången på billiga hyreslägenheter är av stor vikt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "De privata företagen inom omsorgen i kommunen gör ett bra arbete och kompletterar kommunens egen verksamhet på ett bra sätt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill genomföra försök med sex timmars arbetsdag för omsorgspersonal. Kortare arbetstid kan vara en viktig friskfaktor, och personal som mår bra är bäst i längden! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste alla hjälpas åt att hjälpa människor som söker skydd från krig och förtryck. Det är viktigt för att mottagandet ska bli så bra som möjligt och för att integrationen ska fungera. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar ska förstås hållas bara då viktiga frågor ska avgöras. Men vi ser i grunden positivt på lokala folkomröstningar och andra sätt att utveckla den lokala demokratin och öka människors delaktighet även mellan valen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är föräldrar och barn som ska välja skolor, inte skolor som ska välja elever.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att allt fler ska kunna ställa om och nyttja den stora utvecklingen av elbilar så behöver infrastrukturen för laddning i kommunen byggas ut. Miljöpartiet vill till exempel bygga laddinfrastruktur för både bil och cykel vid pendlarparkeringar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Driftsformen i sig är inte det viktiga, utan kvalitén. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig del i en demokrati. Vi vill införa meröppna bibliotek för att öka tillgängligheten för medborgarna att ta del av information och litteratur, och vi vill bevara och utveckla kulturskolan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en relativt hög kommunalskatt. Vi prioriterar inte att sänka skatten men vill gärna undvika även en höjning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2942",
+          "2945",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D!;A!;D;D;D;A;D;D;D!;2/5;3/5;2/5;[2942,2945,2944]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kan samarbeta med olika partier både till vänster och till höger. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Likvärdig skola med tillräckliga resurser",
+        "description": "Skolvalet ska inte begränsas av familjens ekonomi! Vi vill att alla barn som uppfyller kraven på avstånd ska få skolbusskort, oavsett val av skola. Vi vill stärka fritidshem och förskolor och bl.a. minska barngruppernas storlek. Vi vill införa läxhjälp på alla skolor. Kommunen måste budgetera mer pengar till skolan så att elever i behov av stöd kan få det, och så att lärare orkar jobba kvar."
+      },
+      {
+        "category": "Kultur och fritid på jämlika villkor",
+        "description": "Vi vill införa meröppna bibliotek, få en rättvis fördelning av kommunens resurser mellan olika idrotter och satsa extra på idrotts- och fritidsaktiviteter för barn och unga med funktionsnedsättning. Vi vill bevara och utveckla kulturskolan."
+      },
+      {
+        "category": "Klimat och miljö - grunden för vår existens",
+        "description": "Det ska vara lätt att göra rätt! Vi vill bygga fler gång- och cykelvägar och cykel- och pendelparkeringar vid kollektivtrafikstråken, energieffektivisera och klimatanpassa kommunen t.ex. vad gäller dricksvattentillgång och avlopp. Vi vill också återskapa våtmarker och skydda och vårda sjöar och vattendrag."
+      }
+    ],
+    "motivateVote": "Vi går till val för att bidra till en kommun med fokus på en framtid att längta till och med fokus på barnen i vår kommun. Miljöpartiet vill se en kommun som tar tillvara människors olikheter och möjligheter. Det vi kommer att jobba mest med är likvärdig skola, kultur och fritid till alla barn och unga och miljö och klimat, inklusive vattenfrågor. ",
+    "name": "Miljöpartiet Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-osthammar"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2224",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Moderaterna är det fria skolvalet en självklarhet. På alla skolor som det finns en efterfrågan på fler årskullar och ett elevunderlag för det, ska detta erbjudas.\r\nModeraterna vill utreda frågan om att erbjuda elever på en överbelastad skola ett gratis busskort för att istället välja att gå på en skola med ett underskott på elever. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de östra kommundelarna finns det ett stort behov av att utveckla VA-systemet. Detta gör vi genom att öka reningskapaciteten och vatten nivåerna i de östra delarna, inte genom att koppla ihop det med Gimo.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga dessa vindkraftsparker kommer påverka det marina livet och miljön i Östersjön på ett negativt sätt. Samt skapa problem för våra lokala fiskare.  \r\nDet Sverige behöver är planerbar energiproduktion. Där ser vi att kärnkraften är den bästa lösningen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det Sverige behöver är en energiproduktion som producerar när det är mörkt ute, blåser för lite, blåser för mycket, är för varmt eller för kallt. Då återstår att elda olja eller kol, köpa rysk gas, vattenkraften och kärnkraften. Vi vill inte elda  olja eller kol, inte heller köpa rysk gas, det finns en begränsning i hur många älvar vi vill bygga igen och då återstår kärnkraften. \r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna är emot att kommunen ska subventionera bostäder med skattemedel. Istället välkomnas aktörer som bygger varierande bostäder, som möjliggör att fler får en möjlighet till en egen bostad. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler leverantörer av hemtjänst och äldreboenden ger personer i behov av stöd att en större frihet att själv kunna anpassa vilken vård eller stöd man får och vart man vill bo. Moderaterna välkomnar aktörer som som levererar en hög standard och som bidrar till att alla personer i behov av stöd upplever en värdig vardag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östhammar kommuns problem är att för många medarbetare sjukskriver sig och att man måste hyra in sjuksköterskor. För Moderaterna är det viktigare att alla medarbetare mår bra på sin arbetsplats och trivs att gå till jobbet. Detta uppnår vi genom mindre arbetslag med tydliga ansvarsområden, inte färre timmar på jobbet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sveriges kommuner borde ha större möjlighet att anpassa sitt mottagande av nyanlända utifrån möjligheten att kunna erbjuda en bostad och kommunens förmåga att kunna bedriva ett fungerande integrationsarbete. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kommuninvånarna får möjligheten att påverka politiken är viktigt, dock är folkomröstningar en långdragen process som också är kostsam. Kommunens politiker borde istället ta ett större ansvar för att lyssna till kommuninvånarnas intressen och ta med sig dessa i beslutsprocessen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Östhammars kommun har bara friskolor på gymnasienivå. Det nyanlända främst behöver lära sig är det svenska språket, det gör man i grundskolan och på SFI. Dessa verksamheter är kommunala. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste säkerställa att man har en laddinfrastruktur för sin egen bilflotta. Östhammars kommun ska inte stå för tillhandahållande av drivmedel eller infrastrukturen för detta till konsumenter. Det finns aktörer idag som ansvarar för publika laddstolpar och det är dessa aktörer som ska fortsätta utveckla den infrastrukturen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna ser gärna att det etablerar sig fler aktörer som vill bedriva utbildningsverksamheter i Östhammars kommun. Det möjliggör bland annat för mindre friskolor på landsbygden samt gymnasieskolor med inriktningar som snabbt får ut våra elever på arbetsmarknaden att etablera sig",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "För Moderaterna är det en självklarhet att den kommunala kärnverksamheten alltid kommer i första hand. Verksamheter som ligger utanför kärnverksamheten måste gå i andra hand om kärnan inte uppnår det standard som bör kunnas ställas på den. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "För Moderaterna är en stabil och långsiktig ekonomi ett måste. Politiken ska förvalta skattebetalarnas pengar varsamt och se till att varje krona spenderad är en effektivisering. I närtid står kommunen inför stora investeringsbehov och ett ansträngt ekonomiskt läge. Men Moderaterna ser möjligheten att långsiktigt arbeta för en skattesänkning i Östhammars kommun.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": "För Moderaterna är kommunens en fungerande kärnverksamhet ett måste. \r\n\r\nEn skola där det är ordning och reda, där både elever och lärare känner sig trygga. \r\nEn omsorgsverksamhet där medarbetarna har mindre arbetslag, trivs på jobbet och där brukaren upplever en värdig omsorg.\r\n\r\nÖsthammars kommun ska vara en kommun där företag upplever en god service med en hög standard. ",
+        "value": [
+          "2940",
+          "2937",
+          "2942"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;A!;D!;A;D!;A;C;B;B;B;4/5;1/5;0/5;[2940,2937,2942]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En hemtjänst med brukaren och personal i fokus",
+        "description": "Hemtjänstpersonalen ska inte upplevas som en främling för brukaren. Därför krävs det mindre arbetslag som har ett bestämt ansvarsområde och som får större möjlighet att påverka sitt arbete. Brukaren ska alltid ha en värdig och trygg vardag, detta uppnår vi inte genom att jaga minuter.\r\nEn personal som trivs och mår bra, skapar trygghet och tillit hos brukaren."
+      },
+      {
+        "category": "Ordning och reda i kommunens ekonomi",
+        "description": "För att kommunen ska klara av en tillväxt och kommande investeringsbehov krävs ordning och reda i ekonomin. Ett minskat slöseri och tydliga prioriteringar är ett måste. Politiska förslag ska alltid ha en tydlig finansiering och alla beslut måste vara en effektivisering med skattemedel."
+      },
+      {
+        "category": "En trygg skola med mätta barn",
+        "description": "En trygg skola är en förutsättning för ett gott lärande. Därför måste stökigheter hållas utanför klassrummen. Lärare måste få vara lärare och därför ska det finnas stöd av trygghetsvärdar, när klassrummen präglas av oreda istället för lärande. \r\nMätta barn är viktigare än plakatpolitik. Skolmatsalen ska fokusera på att leverera sund och mättande mat, så att varje elev orkar med sin skoldag."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-osthammar"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2225",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill behålla Ekeby skola och förskola. Att utöka med åk 4 och 5 kan eventuellt vara en möjlighet om barnantalet ökar och behöriga legitimerade lärare finns så att vi följer skollagen. Vi ser gärna en ökad inflyttning till landsbygden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgången till bra dricksvatten och en tillräcklig kapacitet i våra reningsverk är avgörande för kommunens framtid och utveckling. Kommunfullmäktige har redan tagit beslut kring lösning och finansiering av Östhammar och Öregrunds framtida V/A-system. Att bygga ihop Östhammar med Gimo är inte en aktuell lösning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ingen beslutsrätt i frågan. Gällande elproduktionen behöver vi hitta flera sätt att snabbt öka vår elproduktion, och vindkraft är ett av dem. Vi vill inte behöva vara beroende av importerad kolkraft eller gas från Ryssland.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ytterst en fråga för elproducenterna. Vi måste bygga en stabil elproduktion med många komplement och nå en bred politisk överenskommelse gällande framtidens elproduktion som håller över tid. Valet står inte mellan om vi behöver förnybar energi eller kärnkraft. Vi kommer behöva båda under överskådlig tid om vi inte vill bli beroende av importerad kolkraft eller gas från Ryssland.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med fler hyresrätter till rimlig kostnad. Våra ungdomar behöver kunna flytta hemifrån och äldre kanske vill flytta ur en stor villa. Kommunens roll är inte att finansiera det, utan att ställa krav på blandad bebyggelse när vi utvecklar nya bostadsområden. Vi vill också att det byggs fler bostäder som kan passa äldres behov av tillgänglighet och gemenskap, såsom trygghetsboenden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärden ska styras av våra kommuninvånares behov och inte av marknadens behov. Vi vill behålla den offentliga välfärden och säkra att våra gemensamma skattepengar går till verksamhet och inte till företagsvinster och aktieutdelning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag brist på erfaren personal med vårdutbildning. Om alla skulle arbeta kortare dagar skulle det skapa en akut personalbrist. Vi behöver istället arbeta stenhårt med att uppgradera vårdyrket. Förbättrad arbetsmiljö, mer kompetensutveckling, bättre personalkontinuitet och bättre introduktioner är avgörande frågor att fortsätta arbeta med.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staten behöver ta ett större ansvar för mottagande och integration. Mottagandet ska delas solidariskt mellan kommunerna. Det kan inte vara upp till enskilda kommuner om de vill ta emot eller inte.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver istället bli bättre på att kommunicera och förankra inför stora beslut.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de fall det finns privata skolor, ska de ha samma skyldigheter och förutsättningar som kommunala skolor. Skolvalet ska gälla för alla, och inte begränsas genom kösystem eller att privata skolor väljer bort elever. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Antalet elbilar ökar. Kommunen behöver möta behovet av fler publika laddstolpar genom att, vid behov, samordna, underlätta och uppmuntra etablering. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Det finns idag privata gymnasieskolor i vår kommun.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt. Vår kommun har ett rikt kulturliv som skapas i samverkan mellan kulturutövare, kommunen, föreningar, företag och enskilda kommuninvånare.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Nivån är balanserad mellan behov och förutsättningar. Det finns idag inga förutsättningar för att varken höja eller sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": "Socialdemokraterna sätter välfärden främst. Social trygghet och personlig omsorg, en jämlik och bra skola för alla, i en kommun som lever och utvecklas. Tillsammans bygger vi en kommun där människor känner trygghet och framtidstro.",
+        "value": [
+          "2939",
+          "2942",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A!;B;C;C!;B!;B;A;B;D;C;2/5!;2/5;2/5!;[2939,2942,2944]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi går på val som ett eget parti och vill bilda en socialdemokratiskt ledd majoritet i kommunen. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sveriedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela kommunen ska leva och utvecklas.",
+        "description": "Östhammars kommun har goda förutsättningar. Det ställer krav på bostäder, service, social omsorg, och goda kommunikationer. Samarbete och framtidstro är grunden för utveckling, och vi behöver fortsätta arbeta tillsammans; kommun, region, föreningsliv och näringsliv."
+      },
+      {
+        "category": "Social trygghet och personlig omsorg hela livet.",
+        "description": "Alla människor ska ha en social trygghet och en vård och omsorg med värdighet, omtanke och respekt - oavsett plånbok - under hela livet. I samverkan med Region Uppsala vill vi ha närvården nära. Vi ska förbättra personalkontinuiteten och säkerställa en fast omsorgsperson för de som behöver. Vi ska utveckla mötesplatser och arbeta med förebyggande insatser."
+      },
+      {
+        "category": "En jämlik och bra skola.",
+        "description": "Barnen är vår framtid. Skolan ska präglas av trygghet och kvalitet. Elever som behöver extra stöd ska erbjudas det så tidigt som möjligt. Alla barn och ungdomar ska ges möjlighet att lyckas. Vi vill utveckla elevhälsan och förbättra skolmaten."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna sätter välfärden främst. Vi brinner för rättvisa och ett bättre samhälle. Vi vill att alla ska ha möjligheter att uppnå sina drömmar i livet. Tillsammans bygger vi en trygg kommun där människor trivs och mår bra, hela livet.",
+    "name": "Socialdemokraterna Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-osthammar"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2226",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ekeby är kommunens enda kvarvarande landsbygdsskola. Majoriteten (S + C) har under de två senaste mandatperioderna  lagt ner kommunens landsbygdsskolor på löpande band, och det ligger i korten att de sakta men säkert vill kväva också Ekeby skola till döds. Vi Sverigedemokrater vill stärka Ekeby skola och börja med att ta tillbaka åk 4 – 6 till skolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oklar fråga; är det en sammanbyggnad av Gimo med Östhammar tätort som avses? Vi känner inte till att ett sådant alternativ utretts. Vi har därför ingen åsikt i frågan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens tjänstemän har tagit fram ett gediget underlag där stora miljörisker med de planerade vindkraftsanläggningarna identifierats; visuell påverkan Gräsös nordliga del, stora skador på minst en miljon arktiska flyttfåglar, placeringen vid en fiskebank med stora skador för fiskar, marina däggdjur och övervintrande sjöfåglar samt kraftiga försämringar för det småskaliga yrkesfisket.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna anser att kärnkraft måste spela en framträdande roll i Sveriges framtida energiförsörjning. Om det finns intresse för ytterligare kärnkraftsanläggningar i Forsmark, eller på någon annan plats i kommunen, så ska kommunen stödja detta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte vara aktör på bostadsmarknaden och skattemedel ska inte användas för att subventionera boende.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet i äldrevården är bra och bör uppmuntras. SD ser gärna att fler privata aktörer etablerar sig i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Orealistiskt att genomföra och negativt att behandla olika personalgrupper olika.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Undantaget Uppsala kommun är Östhammar numera den kommun i länet som tvingas ta emot flest migranter. Varje gång den årliga tvångstilldelningen varit upp till beslut så har SD motsatt sig ytterligare tilldelning; inget av de övriga partierna har gett oss stöd i denna fråga. Majoriteten låter migranterna gå före i bostadskön och de får förstahandskontrakt på generösare villkor än ordinarie invånare",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Sverigedemokrater har stor tro på att låta folkviljan komma till tals direkt i viktiga frågor. Fler folkomröstningar skulle sätta mer fokus på lokalpolitiken som ofta kommer i skymundan av riksfrågorna i den allmänna valen. Aktuella frågor vi gärna skulle sett en lokal folkomröstning om är kommunens principiella inställning till vindkraft i närområdet och om vi ska ta emot fler migranter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Precis som när det gäller bostadskön till Östhammarshem så ska inte nyanlända få gräddfil framför de skattebetalande svenskarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta hör inte till kommunens kärnverksamhet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna ser gärna att fler friskolor etablerar sig i kommunen.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": "Frågan är svårbesvarad eftersom det inte är antalet kronor man lägger på något som i sig ska vara målet, det avgörande är vilka kulturaktiviteter kommunen ska stödja (precis som när det gäller biståndet).",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": "Att hushålla klokt med skattebetalarnas pengar är vårt största ansvar som politiker. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": "Det är ett märkligt urval med en röra av stora och små frågor, men det här är tre förslag som Sverigedemokraterna kan ställa sig bakom.",
+        "value": [
+          "2940",
+          "2942",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A!;D!;A;D;A;D!;C;D!;A;4/5;1/5;0/5;[2940,2942,2944]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vår bild är att Sverigedemokraterna tillsammans med M och KD kommer att utgöra en stabil grund för att tillsammans kunna styra Östhammar på ett bra sätt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet är tyvärr opålitliga, så det skulle det nog vara omöjligt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stopp för migranters förtur i Östhammarshems bostadskö",
+        "description": "Sedan flera år har kommunen avtalat med Östhammarshem att de migranter som tvångsplaceras i kommunen ska ges förtur i bostadskön. Det finns många andra sätt att lösa bostadsfrågan för dessa migranter, vilket inte minst bevisats i samband med mobiliseringen för ukrainaflyktingarna där kommunen på en vecka skapade över 100 boendeplatser (utan att ta i anspråk en enda lägenhet från Östhammarshem)."
+      },
+      {
+        "category": "Ekeby skola ska leva",
+        "description": "Ekeby är kommunens enda kvarvarande landsbygdsskola. Majoriteten (C + S) har under våren tvingats backa från sitt försök att ta bort delar av fritidsverksamheten från skolan. Vi vill stärka skolan ytterligare och återföra åk 4 - 5 till Ekeby."
+      },
+      {
+        "category": "Kamp mot planerad vindkraft på Finngrundet",
+        "description": "En vindkraftpark bestående av 215 vindkraftverk planeras vid Roslagskusten. Projektet kommer att medföra stor miljöpåverkan och kommunens tjänstemän har identifierat stora risker för fågel- och fisklivet, yrkesfiskarna och Natura 2000-området. Till skillnad från majoriteten (C + S) kommer vi att använda alla tillbuds stående möjligheter för att stoppa vindkraftparken vid Finngrundet."
+      }
+    ],
+    "motivateVote": "Utvecklingen i Östhammar har gått åt fel håll alldeles för länge nu, det är dags att vi får en annan inriktning. Genom att rösta på Sverigedemokraterna lägger man sin röst på förändring, på att Östhammar ska bli bra igen. Vi kan inte fortsätta köra mot stupet, det är dags att vrida på ratten och rädda vår kommun.",
+    "name": "Sverigedemokraterna Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-osthammar"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2227",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "080bc00ffdcfdeab68a09b3f1608dbf1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med skolor på landsbygden, vi vill behålla Ekeby skola.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b47654c9a2df0f7f2c5d7d67ce1e2db8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "33b9c0ddb52e16ae2cd51acc62f41a60",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ef373ed7d377cfc38441eac72962b07d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan inte vänta på ny kärnkraft. Den tid och de resurser som skulle läggas på framtida kärnkraft behöver läggas på förnyelsebar energi nu. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c260b39b1e499cabd905179b6dc45017",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha råd med ett bra boende",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0ba4cd84aded2d048ee20bfa39b252c3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "29252f9a7beba11a3786918aa9993cb7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dda08fbf77549c7535c429df57f6ffea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d38712abb5335047be27fccb29ecb21a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b8c19de58546b7e0729ba9b9fe710242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill helst inte ha friskolor alls eftersom de har varit vinstdrivande, därför svaret på frågan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d9f739212d4dd12a772836c3974ed3c7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8512b8cf79afb5b152f4ab7264789158",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "2beb3d8d00e4c05027079174112c6be7",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ad21efc2ece4f5d9c1d93b2248f845cd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b611b5119ad51764984496e33973b33d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2940",
+          "2942",
+          "2944"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;C;B;D;A!;D;B;C;B;D;0/5;3/5;2/5;[2940,2942,2944]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte vad jag vet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill främst ha Vänsterstyre, för oss är Miljöfrågor viktiga, därför kan Miljöpartiet och Socialdemokraterna vara samarbetspartners.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Absolut inte SD, Vi vill heller inte föra borgerlig politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inga vinster i välfärden",
+        "description": "Vänsterpartiet vill att förskola, skola samt vård och omsorg ska bedrivas med kommunen som huvudman"
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Vänsterpartiet vill att mer långsiktiga och tidiga insatser görs samt att gemensamma insatser görs från skola, socialtjänst och polis för att stödja barns och ungas positiva utveckling"
+      },
+      {
+        "category": "Äldre vård och omsorg",
+        "description": "Vänsterpartiet vill verka för att de som byggde vår välfärd ska leva ett gott liv. Omvärlden ska vara trygg, förutsägbar och präglas av ett gott bemötande"
+      }
+    ],
+    "motivateVote": "Vi vill inte ha vinster i välfärden, vi vill satsa på barn och unga, äldre, vård och omsorg, personal på äldreboenden, att så kallade delade turer ska upphöra till exempel, miljö, till exempel  utbyggnaden av laddstolpar för elbilar måste intensifieras, bostäder och infrastruktur, vattenvård, antirasism och integration, mötesplatser\r\n",
+    "name": "Vänsterpartiet Östhammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-osthammar"
+  }
+]

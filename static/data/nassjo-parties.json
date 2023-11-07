@@ -1,0 +1,1470 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1298",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Finns inga privata i Nässjö",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1904",
+          "1905",
+          "1906"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;C;B;A;A;D;B;C;B;B;3/5;3/5;1/5;[1904,1905,1906]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är beredda att ta ansvar och kommer arbeta för den breda mitten ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD o V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Nässjö ska vara tryggt att bo i \r\nAlla barn ska växa upp i en trygg miljö\r\nNär du blir äldre ska du veta att du har hjälp och trygghet\r\nArbete ger trygghet\r\nBekämpa våld i nära relationer\r\nDet ska vara tryggt att vistas på gator o torg\r\nDet förebyggande arbetet, bland annat i skolan.\r\nVarje person ska bli sedd\r\nLika möjligheter för kvinnor och män\r\nGe småföretagen möjlighet att skapa jobb"
+      },
+      {
+        "category": "En skola där varje elev får möjligheter",
+        "description": "Alla elever har rätt att få en bra utbildning, oavsett var man bor och vilken bakgrund man har eller om man är flicka eller pojke.\r\nVi ska ha bra och moderna skollokaler\r\nElevernas kunskapsutveckling, trygghet och välmående ska vara i fokus"
+      },
+      {
+        "category": "Hela Nässjö ska växa",
+        "description": "Människor ska ha likvärdiga förutsättningar att leva och förfärliga sina drömmar, oavsett var man bor i Nässjö kommun.\r\nBättre vägar, järnvägar och utbyggt bredband i hela kommunen. Tillsammans med satsningar på skola och vård.\r\nSkapa konkurrenskraft för de gröna näringarna och vara med och skapa den gröna omställningen \r\nMöjlighet att bo och bygga i hela kommunen, även på landsbygden och sjönärA"
+      }
+    ],
+    "motivateVote": "• trygghet i alla miljöer för alla åldrar\r\n• en skola där alla elever når sina mål\r\n• bästa företagsklimatet\r\n• vägar, kommunikationer och bredband • enkla klimatsmarta val i vardagen\r\n• ett jämställt samhälle\r\n• rätt kommunal skatt\r\n• ett Nässjö där vardagen fungerar",
+    "name": "Centerpartiet Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-nassjo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1299",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska fortsätta med medborgarbudgetar där invånarna får inflytande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid behov är trygghetskameror/övervakningskameror ett bra verktyg, vi tycker att det vid behov är mycket bra. Trygghetsarbete på flera områden är mycket viktigt. Ett strukturerat trygghetsarbete är viktigt kommunledning, polis, Räddningstjänst, Näringsliv, socialtjänst, skola, kultur och fritid m.m. Att alltid stå på brottsoffrets sida och att agera är det viktiga, tystnadskultur ska inte finnas. Det är självklart att brott ska beivras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi i kristdemokraterna är för privat företagsamhet. Ett gott Näringslivsklimat skapar tillväxt och utveckling och viktiga arbetstillfällen. Men att lägga vissa verksamheter inom ett bolag inom kommunkoncernen är också viktigt.\r\nDet allmännyttiga bostadsbolaget Linden har ett särskilt ansvar, socialt ansvar. Bostad först, det är en mänsklig rättighet. Pigalle och Nässjö Affärsverk är även de viktiga bolag inom koncernen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens måltidspolicy mycket viktigt för våra verksamheter. Redan idag serveras alltid ett vegetarisk alternativ, Gynna närproducerat kött och lokalproducerat. kommunens inköp av styrs av lagen om offentlig upphandling, här kan vi genom måltidspolicyn påverka våra ambitioner vilka kravkriterier vi vill ställa. Tex kött enligt svensk djurskyddslag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostar ekonomiska och personella resurser. Bättre att fortsätta med medborgardialoger, medborgarbudgetar, öppna sammanträden, fråga din politiker, allmänhetens frågestund. Medborgarinflytande är en del av demokratiutvecklingen och ska vara en självklar del i Nässjö kommun.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kompetensförsörjning är viktigt och att Kvalitetssäkra språkkunskaperna. Rättssäker vård och omsorg. Alla nyanställda har inte behov av språktest, det bör vara efter behov vid anställning. Det är ledningens ansvar att se till att tillräcklig kompetens finns för att sköta sitt uppdrag och klara det. Du ska som vård och omsorgstagare kunna lita på att du får en säker vård. Att dokumentation blir rätt att läs och skrivkunnighet finns. Här måste det finnas tillräckliga kvalitetssäkrade rutiner vid anställningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ligger inte hos kommunerna, dock kan boendeplanering vara vägvisande, allmännyttan har ett särskilt uppdrag.Privata bostadsbolag kan även de uppmuntras till att bygga enklare hyresrätter.\r\nKommunens ansvar ligger särskilt på att ha byggklar mark och en väl genomarbetad boendeplanering både på lång och kort sikt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan vara en aktör, men självklart ta betalt för tjänsterna vi anser att andra aktörer så som elbolag med flera har ett ansvar att investera i utbyggnaden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Rättssäker och reglerad invandring är mycket viktig. Frågan är om vi ska kryssa fler eller mindre det beror på vår omvärld. Invasionen i Ukraina innebär att tusentals och åter tusentals människor kan komma att behöva Skydd från krig och behov av bostad. Det är en självklarhet för oss kristdemokrater att vi tar emot människor som flyr från förtryck och krig eller förföljelse. Däremot de som väljer att flytta till Sverige för att få ett bättre liv i allmänhet ska absolut ta egenansvar att försörja sig. Om en person inte har integrerats och skyddsbehovet inte kvarstår är utgångspunkten att personen ska återvända.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi kommunala skolor enbart. Vi har privata förskolor som är mycket bra. Det viktiga är att skolan uppfyller skollagen och läroplaner. Kunskapsmål och demokratimål. Uppföljning och kvalitet är viktigt samt att skolinspektionen stänger  de skolor som inte arbetar efter läroplan och skollag. Inget vi strävar efter i Nässjö att få privata skolor, dock är vi inte emot det, konkurrens kan i vissa fall vara bra. Skolan ska vara grundad i demokratisk värdegrund. Skillnaden i kunskapsresultat måste utjämnas, en likvärdig skola är ett måste, alla barn har rätt till likvärdig utbildning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Vi i kristdemokraterna vill ge mer resurser till föreningslivet för att stärka framför allt barn och ungas uppväxtvillkor. En meningsfull och aktiv fritid bidrar till folkhälsa och livskvalitet. Genom positiva mötesplatser skapar vi samhällsgemenskap. Kultur och fritid kan spara ekonomiska resurser på sikt på flera områden. Mår människan bättre spara vi både mänskliga resurser och skattemedel som skulle lagts på annat längre fram. En positiv fritid är trygghetsskapande. Den nya ungdomsenheten kommer att vara mycket betydelsefull. Trygghetsarbete är en del av den kultur och värdegrund vi vill ska prägla Nässjö kommuns arbete för barn och ungas uppväxtvillkor. En positiv fritid med social gemenskap bidrar även till bättre kunskapsresultat i skolan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1904",
+          "1905",
+          "1906"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;C;A;A;A;C;B;C;B;B;2/5;3/5;1/5;[1904,1905,1906]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett majoritetsstyre med starkt kristdemokratiskt inslag",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan föra samtal med samtliga partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk det brottsförebyggande arbetet",
+        "description": "Vi vill satsa på förebyggande insatser med fokus på barn och unga, ett stärkt föreningsliv och civilsamhälle. Vi vill inrätta fler tjänster som ungdomscoacher, vi vill även införa fritidsbank på flera platser i Nässjö kommun samt stärka föreningslivet."
+      },
+      {
+        "category": "God Äldreomsorg",
+        "description": "Att äldre har möjlighet att leva och bo där man själv önskar är en självklarhet, därför ska det finnas olika former av boenden för äldre i hela kommunen Det ska även finnas mötesplatser för social gemenskap. En god äldreomsorg med medicinsk kompetens är viktig för oss i kristdemokraterna."
+      },
+      {
+        "category": "Främja Näringsliv och bostadsbyggande i hela Nässjö kommun",
+        "description": "Vi är redo att stärka de gröna näringarna, vi vill stärka landsbygd och kransorter, här finns företagare inom de gröna näringarna och besöksnäringen. Bredband, fiber skapar förutsättningar att driva företag och 100 procent fiber är nödvändigt. De gröna näringarna är livsviktiga för vår självförsörjning och vår beredskapsförmåga."
+      }
+    ],
+    "motivateVote": "För att vi kristdemokrater är redo att fortsätta ta ansvar för hela Nässjö kommun med fokus på ekonomi, brottsförebyggande arbete, service i hela kommunen och förbättrade villkor för föreningar & civilsamhälle.",
+    "name": "Kristdemokraterna Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-nassjo"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1300",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigare att öka grundbemanningen och att personalen har tillräckligt goda kunskaper i det svenska språket. Vi vill även bekämpa den ofrivilliga ensamheten hos äldre. Ingen människa ska plågas av social isolering. Nässjö kommun måste även bygga fler trygghetsboenden. Våra äldre ska inte stå i kö till trygghetsboende. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "När frågor engagerar en stor del av allmänheten är det viktigt att politiken lyssnar. Nedläggningen av centralskolan, investeringen på bandyhallen som kostade 100 miljoner kronor är några exempel på när en folkomröstning borde ha ägt rum. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är hög kvalitet och valfrihet mer avgörande än driftsformen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Vi är inte negativa till friskolor men vi vill inte att friskolor ska kunna göra vinster på bekostnad av kvalitet och elevernas kunskapsresultat. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är grundläggande för människors utveckling, bildning och kreativitet- det värnar vi om. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": "SÄNK SKATTEN! Liberalerna i Nässjö kommun vill sänka skatten. En liberal skattepolitik handlar om att nå högre skatteintäkter genom att fler betalar skatt, inte att medborgare betalar högre skatt. Vi tror på arbetslinjen- att det alltid ska löna sig att arbeta. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": "Det Liberalerna främst kommer att prioritera är skola, integration, arbetsmarknad, kransorterna, och förebyggande åtgärder för ett tryggare liv. ",
+        "value": [
+          "1904",
+          "1910"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D;D;A;A!;D;D;C;C;C;_;3/5;2/5;0/5;[1904,1910]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tvivlar på den investering som behövs för höghastighetståg. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna i Nässjö vill ha ett liberalt borgerligt maktskifte även på lokalnivå. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I sakfrågor kan vi samarbeta med alla partier som delar våra värderingar. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola ",
+        "description": "- Riktat ekonomiskt stöd till skolor som behöver lyfta kunskapsresultaten. \r\n- Elever som halkar efter ska få stöd, och elever som kan gå före ska få utmaningar. \r\n- Öka samverkan mellan skolelever och näringsliv för att möta arbetsmarknadens behov. \r\n- Läraryrket ska vara ett välavlönat och attraktivt akademiyrke som lockar de bäst lämpade. \r\n- Utbilda personal i hedersrelaterat våld och förtryck"
+      },
+      {
+        "category": "Integration och arbetsmarknad ",
+        "description": "- Ny integration- och arbetsmarknadsförvaltning \r\n- Motprestation som krav för försörjningsstöd. Aktivitetskrav utifrån individens bedömda arbetsförmåga. Heltidsaktivitet 30h/v. \r\n- Strukturella boendeåtgärder som minskar och motverkar segregation. \r\n- Skyldigheter, rättigheter, jämställdhet, hedersvåld och HBTQ frågor ska bli obligatoriska moment i samhällsorienteringen för nyanlända."
+      },
+      {
+        "category": "Trygghet- hela livet ",
+        "description": "- Anställ fältassistenter och fler ungdomscoacher \r\n- Bygg en ny sporthall \r\n- Skapa lek för alla - tillgänglighetsanpassade lekplatser \r\n- Förebyggande insatser i tidigt ålder \r\n- Strategi för att minska ofrivillig ensamhet hos äldre \r\n- Brottsförebyggande insatser \r\n- Alla ska med- utveckla kransorterna"
+      }
+    ],
+    "motivateVote": "Om du vill rösta på ett parti som prioriterar skolan, har ett tydligt fokus på integrationpolitiken med både stöd och krav, har en strategi för att möta arbetsmarknadens behov och satsar mer på förebyggande insatser för ett tryggare liv – hela livet. Rösta på Liberalerna!  ",
+    "name": "Liberalerna Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-nassjo"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1301",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarbudgetar är ett både viktigt, bra och effektivt sätt att utveckla den lokala demokratin. Miljöpartiet vill vidareutveckla medborgarbudgetarna och arbeta både fysiskt och digitalt med medborgarbudgetarna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "På en del ställen kan det vara bra med övervakningskameror, både ur ett förebyggande sätt, brottsförebyggande sätt och ur ett säkerhetsperspektiv. Sedan är det viktigt att också väga in den personliga integriteten, där det sätts upp kameror.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag har en viktig roll i Nässjö kommun. Vi tror att kommunala bolag som Linden och Nässjö affärsverk har en jätteviktig roll i bostadsbyggandet och klimatomställningen av Nässjö kommun.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Exakt hur köttkonsumtionen ska minska är vi öppna för att diskutera. Men vi behöver minska köttkonsumtionen i kommunen, såväl som i samhället. Att ha två köttfria skoldagar i veckan kan vara ett bra sätt att nå en lägre klimatpåverkan. Sedan är det viktigt att köttet som serveras i skolan är närproducerat och ekologiskt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är för en sänkning av arbetstiden och vi vill i första hand testa att införa 6 timmars arbetsdag i delar av äldreomsorgen till en början. Om det ger goda resultat vill vi utöka detta till hela äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folomröstningar är ett bra sätt att låta kommuninvånarna få säga sitt under mandatperioden. Vi har haft alldeles för få kommunala folkomröstningar i Nässjö. Därför är det viktigt att det finns enkel och bra information om vad som krävs för att genomföra en kommunal folkomröstning.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inte för ett allmänt språktest. Vi tycker att detta ska avgöras av de som anställer nyanställda inom hemtjänst och äldreomsorg. Däremot är det viktigt att svenskakunskaperna är goda. Det fackspråk som används inom hemtjänst och äldreomsorg finns det goda möjligheter att arbeta mer med inom SFI-utbildningen, samt att stärka samarbetet mellan Nässjö lärcenter och Socialförvaltningen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver byggas fler billiga hyresrätter i Nässjö kommun inom de närmaste åren. Idag byggs det inte tillräckliga många hyreslägenheter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreboenden och hemtjänst drivs bättre av kommunen än av privata företag. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att Nässjö kommun gör stora satsningar på publika laddstolpar för elbilar. Både för att möta de ökande behoven av laddstolpar, men också för att vara en drivande del i klimatomställningen. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nässjö kommun ska ta sitt ansvar i flyktingmottagningen. De senaste åren har det kommit färre flyktingar än tidigare, men vi behöver vara beredda på att ta vårt ansvar i kommun-Sverige. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inte speciellt många privata företag som driver skolor i Nässjö kommun idag. Det viktigaste är att skolor ger elever en riktigt bra utbildning och inte att företag ska kunna göra stora vinster på verksamheten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Kulturverksamheten i Nässjö är viktig för att sätta Nässjö kommun på kartan med väggmålningar och street art-festivaler bland annat, men också för att bibehålla och vidareutveckla ett levande kulturliv, som är fritt från politisk styrning.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet har en pragmatisk inställning till kommunalskatten. Det är inte en speciellt bra skatt att höja, eftersom den inte är progressiv och slår mer mot de som har lägre inkomster. Gör vi rätt satsningar och får fler kommuninvånare, så behöver vi inte höja kommunalskatten. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1904",
+          "1905",
+          "1907"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;A;D!;D!;D!;B;D!;A;D!;A!;1/5!;4/5;2/5;[1904,1905,1907]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Egentligen inte. Vi prioriterar ungefär samma frågor som på riksnivån, men givetvis från ett mer lokalt perspektiv.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill samarbeta med partier som vill göra ordentliga satsningar på miljö-och klimat, trygghet och på skolan. Vi är öppna för att samarbeta brett med de partier som vill samma sak. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla skolor och förskolor i Nässjö kommun ska ha en bra arbetsmiljö",
+        "description": "Vi vill att alla skolor och förskolor i Nässjö kommun ska ha en bra arbetsmiljö för personal, barn-och ungdomar. Det innebär att vi vill rusta upp skollokaler som är gamla, innehåller olika former av miljögifter, eller inte är tillräckligt bra ur ett pedagogiskt perspektiv. I detta ingår också att prioritera en nybyggnation av en ny Handskerydsskola, som ska bli färdig så snart som möjligt."
+      },
+      {
+        "category": "Införa fältverksamhet i Nässjö kommuns skolor",
+        "description": "Fältverksamhet innebär att särskilt anställda fältarbetare arbetar långsiktigt med barn-och ungdomar i Nässjö kommun. Det handlar om att vara tillgängliga på vardagar, kvällar och helger. Fältarna ska vara en del i Nässjö kommuns trygghetsarbete och stärka andra delar såsom resursteamet inom Nässjö lärcenter och personal inom Kultur-och fritid och samarbeta med Polis och Socialtjänst."
+      },
+      {
+        "category": "Satsa på det miljövänliga och hållbara resandet",
+        "description": "Vi vill att kommunen tillsammans med regionen förbättrar kollektivtrafikens turtäthet, både i rusningstrafik i centrala Nässjö, men också så att det går att resa kollektivt till kranorter som Bodafors, Grimstorp, Ormaryd och Malmbäck på helgerna. Vi vill se cykelbanor byggas mellan kransorterna och centralorten. Dessutom en kraftig utbyggnad av laddstolpar för elbilar."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda parti i Nässjö som tar sig an klimatutmaningen med solceller på taken, koldioxidbudget, fler cykelvägar och fler laddstolpar, samtidigt som vi arbetar för ett tryggare Nässjö med fältverksamhet och skollokaler som är giftfria, med tillräckligt med pedagoger, resurspersoner, skolkuratorer och psykologer. ",
+    "name": "Miljöpartiet Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-nassjo"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1302",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politik ska drivas med medborgarna. Det är medborgarna som ger oss mandatet att arbeta som förtroendevalda.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla verktyg som finns ska användas för att stärka tryggheten i kommunen. Undersökning BRÅ visar att medborgare till och med undviker att gå ut på kvällen i sitt eget bostadsområde. Så får det inte vara! Trygghet är en frihetsfråga. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det privata näringslivet det vill säga företagen i vår kommun ska främjas. Kommunal konkurrens är inte bra. Det är företagen som skapar jobben både små och stora företag. Kommunen ska ägna sig åt kärnuppdraget, vård, skola och omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun erbjuds vegetariansk mat som alternativ till skollunch som innehåller fisk, fågel, kött. Det obligatoriska i det här fallet tycker jag inte behövs. Samarbete mellan personal som arbetar med matlagning och framtagning av skolmeny är att föredra. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att finansiera förslaget blir en utmaning. Om vi fick starka bidrag ifrån regeringen för att genomföra detta över lång tid så är det möjligt att tacka ja till att ha en sex timmars arbetsdag med bibehållen heltidslön. I dagsläget ser jag inget förslag för att genomföra detta. Vi är i mycket större behov av en EKONOMI I BALANS där vi kan arbeta för att sänka skatten och möta framtida behov. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarna ska delta, bjudas in och ge sina synpunkter och åsikter kontinuerligt. När speciella frågor kommer upp så bjuder vi in till medborgarsamtal. Fler folkomröstningar skulle kunna bidra till ett ökat intresse för politiken men det är att föredra att samtala med medborgarna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre som tar emot hemtjänst och bor på Särskilda boenden behöver kunna göra sig förstådda och få känna att man kan hålla en konversation. Det är den sociala aspekten i mötet mellan vårdtagare och vårdgivare. Säkerhetsaspekten är också MYCKET viktig. Överlämningar mellan personal vid byten av olika arbetspass, skriftlig dokumentation måste vara korrekt. Annars riskerar vi de äldres hälsa!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nässjö kommun har ett kommunalt bostadsbolag de erbjuder lägenheter till mycket låga hyror. Just nu har vi lägenheter som står tomma. Varför skulle vi då finansiera fler billiga hyreslägenheter? Behovet av bostadsrätter och tomtmark för att bygga hus samt tomtmark till våra företag är mycket större. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvalitet - hög kvalitet - är frågan som ska stå i centrum. Inte vem som driver äldreboendet och hemtjänst. Kompetens hos vårdpersonal både professionel och språkkompetens är viktig, våra äldres livskvalitet - aktiviteter, sociala möten, upplevelser, valfrihet, även äldre ska självklart få välja själva. Utformning och kvalitet på boendet där lättillgänglig utevistelse är viktig.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar för att erbjuda laddstolpar fokus borde ligga på att laddstolparna man ansvarar för sk fungera. Därefter borde ett större samarbete med privata näringslivet uppmuntras för till sist är det näringslivet som kommer att avgöra om elbilar blir hållbara och tillräckligt med laddstolpar finns. Vi ser att företagen tar ansvar i Nässjö kommun Cirkle K, Nybergs bil, Lidl med flera. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska vi kunna få ordning på och lösa integrationsutmaningarna i Nässjö kommun så bör vi Först integrera de som redan bor här. Vi ser att långtidsarbetslösheten i denna grupp är hög. Detta beror oftast på att man inte klarar av begriplig svenska. Personer som inte har ett arbete mår ofta väldigt dåligt och barnen ser inte sina föräldrar gå till ett jobb. Utanförskapet ärvs genom generationer. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Vår kommun har bara en förskola som drivs privat. Hultetgårdens förskola. Det är en mycket populär förskola med många sökande. Samma krav ställs på dem som kommunala förskolor. Inga privatskolor har sökt sig till Nässjö utöver det. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Hur mycket pengar man lägger på kommunen är en sekundär fråga. Den relevanta frågan är hur Kultur och Fritid använder sina pengar. Det finns många utvecklingsmöjligheter med sändningar på nätet så att funktionshindrade, äldre och personer som lider av ensamhet kan delta på olika sätt. Kulturen behöver spridas ut i kransorterna. Kulturutbudet är bra i vår kommun men utvecklingsmöjligheter finns.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": "Idag är det många medborgare i Nässjö kommun som har försörjningsstöd. Fler av dem behöver komma ut i arbete och istället bidra till kommunen. Försörjningskvoten växe, det vill säga andelen som jobbar jämfört med dem som inte jobbar, gör att färre personer behöver försörja fler. Ju fler vi får ut i arbete desto snabbare kan vi sänka skatten. Effektivisering och fokus på kommunens kärnverksamhet. \r\n",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": "Trygghet, arbetslinjen, skolan och integration samt sänka skatten. ",
+        "value": [
+          "1909",
+          "1910",
+          "1906"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;B;B;C;D;A;D;B;D;3/5;2/5;0/5;[1909,1910,1906]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det politiska styret efter valet ska bestå av partier som vågar se samhällsproblemen identifierar vilka åtgärder som behövs och verkställer. \r\nDet finns ingen tid att slösa vi behöver åtgärda NU! Därför ser vi med glädje att det finns fler partier än vi som ser samhållsproblemen och vill åtgärda dem. Tryggheten, Arbetslinjen, Skolan, Integrationen och skatten ska sänkas på sikt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Som sagt vi vill samarbeta med partier som åtgärdar de samhällsproblem som finns",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet är en frihetsfråga! För att alla ska känna sig trygga i kommunen",
+        "description": "Trygghet - För att alla ska känna sig trygga behöver vi stärka det brottsförebyggande arbetet, alla verktyg måste användas. Vi är öppna för anställning av ordningsvakter, trygghetsvärdar. Fältassistenter ska vara närvarande kvällar och helger. Trygghetskameror ska användas."
+      },
+      {
+        "category": "Arbetslinjen ska gälla i Nässjö kommun",
+        "description": "Vi ställer krav då vi tror på människors förmåga och möjlighet till utveckling. All aktivitet är bättre än passivitet då inte minst språket stärks av att vara delaktig i samhället. Alla som lever på bidrag ska delta i aktivitet på heltid. Aktiviteterna ska vara en förutsättning för utbetalt bidrag. Fler personer i aktivitet som innebär ökad samhällsnytta som ökar möjlighet till arbete."
+      },
+      {
+        "category": "Skolan är viktigaste faktorn för ett bra liv! ",
+        "description": "Studiero och tydliga förväntningar och regler ska gälla i Nässjö kommuns skolor som ska präglas av hög kompetens där kunskap, lärande och språkutveckling står i fokus. Stärkt samarbete mellan skola, socialtjänst, elever och föräldrar är nödvändigt för att uppnå detta. De disciplinära åtgärder som skollagen ger stöd för ska användas."
+      }
+    ],
+    "motivateVote": "Moderaterna i Nässjö arbetar för en ökad trygghet genom hela livet. Det kommunala uppdraget är att erbjuda en Trygg vård och omsorg, Hemtjänst, Skola att vi ska bli en kommun där företagen etablerar sig och mer jobb skapas. Alla som kan arbeta ska arbeta och bidra till välfärden. Nässjös framtid bygger på att vi löser integrationen arbetar mycket med att alla ska behärska begriplig svenska. ",
+    "name": "Moderaterna Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-nassjo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1303",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka tryggheten är det förebyggande arbetet viktigast.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen ska inte konkurrera med privat näringsliv, vilket de inte gör i vår kommun.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Andra insatser för att hållbart arbetsliv är viktigare. Vi behöver arbetskraften. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska säkerställa kompetens och lämplighet inför anställning, men språktest är nog inte rätt väg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommunala bostadsbolaget ska tillhandahålla lägenheter i olika prisklasser.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärdstjänster som kommunen erbjuder ska vara i kommunal regi. Alla skattemedel ska gå till verksamheterna i vår kommun och vi vill också ha demokratisk insyn i det vi erbjuder kommuninvånarna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgång till publika laddstolpar är viktigt, men om det är STOR tillgång som kommunen ska ansvara för är inte helt klart.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor på flykt ska få hjälp. Vi vill ha en jämn fördelning av ansvaret för flyktingmottagande, men det är behovet som styr hur många vi som enskild kommun ska ta emot.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi inga friskolor i kommunen. Välfärdstjänster, inkl. skola, som kommunen erbjuder ska vara i kommunal regi. Alla skattemedel ska gå till verksamheterna i vår kommun och vi vill också ha demokratisk insyn i det vi erbjuder kommuninvånarna.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig och ska fortsätta finansieras på ungefär samma sätt som idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": "Skatten bör ses i relation till behoven. Höjd eller sänkt skatt är inget självändamål i sig. Att möta de behov som finns och kunna investera i välfärden, det går före skattesänkningar. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1904",
+          "1905",
+          "1906"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A;C;B;A;B;B;A!;B;A!;2/5!;2/5;2/5;[1904,1905,1906]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi Socialdemokrater vill fortsätta vara en självklar del av styret i kommunen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla välfärdstjänster i kommunal regi",
+        "description": "Välfärdstjänster som kommunen erbjuder, t ex hemtjänst och särskilt boende för äldre, ska vara i kommunal regi. Alla skattemedel ska gå till verksamheterna i vår kommun och vi vill också ha demokratisk insyn i det vi erbjuder kommuninvånarna."
+      },
+      {
+        "category": "Alla vuxna ska ha en sysselsättning som gör att de kan försörja sig",
+        "description": "Vi vill fortsätta att utveckla samarbetet med Arbetsförmedlingen och Näringslivet. Med innovation och nytänkande vill vi ge stöd åt människor så att de blir anställningsbara och matchning med kompetensbehovet på arbetsmarknaden kan ske. Kommunen ska vara en attraktiv arbetsgivare med justa arbetsvillkor som bl a innebär begränsning av delade turer."
+      },
+      {
+        "category": "Trygghet genom förebyggande insatser",
+        "description": "Alla barn och ungdomar ska ha förutsättningar för en god uppväxt. Det viktigaste trygghetsskapande arbetet är det förebyggande arbetet. Vi vill jobba långsiktigt och hållbart och ta ett helhetsgrepp. Skolan, socialtjänsten, det kommunala bostadsbolaget, kultur- och fritidsförvaltningen, föreningar m. fl. ska jobba tillsammans. Fortsätta utveckla ungdomsenheten till att vara ett nav i det arbetet."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna vill att Nässjö kommun ska vara en plats där det sjuder av liv präglat av gemenskap, delaktighet och trygghet. Vi står för frihet, rättvisa, jämlikhet och solidaritet och det ska synas i praktiken. Välfärdstjänster som kommunen erbjuder ska vara i kommunal regi.  Alla ska få del av välfärden och alla ska bidra till den efter kraft och förmåga.",
+    "name": "Socialdemokraterna Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-nassjo"
+  },
+  {
+    "abbreviation": "SAFE",
+    "altingetCandidateId": "1304",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ger kommuninvånare visst inflytande över närsamhället under pågående mandatperiod.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan ha en viss avskräckande effekt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna tillhandahålla boende och andra tjänster som är viktiga för välfärden är en naturlig del av en kommuns angelägenheter för att tillgodose invånarnas behov.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara eftersträvansvärt för klimatet men inte obligatoriskt. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan bidra till mindre arbetsskador, sammanhållen arbetstid och höja statusen för omsorgsyrken så att fler väljer äldreomsorgsutbildningar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar kan vara ett komplement till medborgardialoger i strategiskt viktiga frågor för invånarna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grunden för fungerande hemtjänst/äldreomsorg är att vårdtagaren kan förstå och göra sig förstådd. En nyanställd som inte klarar språktest ska erbjudas ändamålsenlig språkutveckling.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bedriva en ändamålsenlig bostadspolitik och finansiera fler billiga hyresrätter ska vara en nationell/statlig angelägenhet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattemedel ska inte finansiera privata företag som bedriver hemtjänst/äldreomsorg. Dessa välfärdsområden ska dessutom vara demokratiskt styrda.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ansvara för tillgång till laddstolpar i första hand för personals behov och tjänstebilar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ta emot färre flyktingar är inget självändamål. Flyktingmottagning ska främst styras av nationell fördelning.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "I Nässjö kommun finns idag inga privata skolor och så vill SAFE att det ska förbli.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Kultur bidrar till bättre livskvalitet och ökad trivsel.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": "SAFE skulle gärna sänka kommunalskatten några kronor och istället föredra en ökad nationell/statlig finansiering av lagstyrd välfärd, t.ex. skola, förskola och äldre- och funktionshinderomsorg.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": "1. Avskaffa delade turer inom den kommunala omsorgen.\r\n2. Avskaffa äldreomsorgens minutstyrda scheman.\r\n3. Bygga en ny simhall i kommunen.\r\nViktigt är också att sänka priset för måltidsabonnemang i omsorgen samt ökat stöd till elever med behov av särskilt stöd i skolan.",
+        "value": [
+          "1904",
+          "1908",
+          "1905"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A!;B;D!;C!;C;A!;A!;B;B;2/5!;3/5;1/5!;[1904,1908,1905]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "SAFE är ett lokalt parti som enbart finns i Nässjö kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I riksdagen, Region Jönköpings län samt Nässjö kommun vill SAFE ha ett politiskt styre som försvarar och utvecklar ett jämlikt och jämställt välfärdssamhälle. Miljöfrågor ska drivas med kraft och kollektivtrafiken byggas ut nationellt, regionalt och lokalt - dock inte höghastighetsbanor. En nationell bostadspolitik som bättre jämställer ägt och hyrt boende.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre villkor inom vård och omsorg",
+        "description": "Öka bemanningen inom äldre- och funktionshinderomsorgen.\r\nAvveckla delade turer, inför sammanhållen arbetstid. \r\nSlopa minutstyrning, inför ramtider i scheman.\r\nSänkt avgift för måltidsabonnemang till 3 600 kr/månad.\r\nSänkt tröskel för äldres rätt till insatsen särskilt boende.\r\nAvveckla den nya orättvisa hyresmodellen i särskilt boende.\r\nSubventionerad lunch för pensionärer till 72 kr. Vid köp av 10 al"
+      },
+      {
+        "category": "Förstärkta resurser till barn och elever",
+        "description": "Kommunala riktlinjer för barngruppernas storlek i förskolan som överensstämmer med skolverkets riktmärken. \r\nÖkat stöd till elever med behov av särskilt stöd samt språkutveckling i grundskolan.\r\nPaviljonger för att starta förskola och fritidshem i Grimstorp.\r\nFritidsverksamheten återupptas i Flisby, Fredriksdal och Ormaryd.\r\nEkonomiskt stöd till Emåns Ekomuseum för naturskola."
+      },
+      {
+        "category": "Satsning på kultur och fritid",
+        "description": "En ny simhall ägd och förvaltad av kommunen samt helt tillgänglig för personer med funktionsnedsättning.\r\nÖkat föreningsbidrag med 500 tkr samt stöd till att starta idrottsskola för lågstadiet.\r\nFritidsgård i Nässjö, Anneberg, Bodafors, Forserum och Malmbäck.\r\nFysiska bibliotekens bokbestånd ersätts ej av digitala tjänster."
+      }
+    ],
+    "motivateVote": "SAFE arbetar för ett jämlikt och jämställt samhälle. Välfärdsverksamhet som finansieras av skattemedel ska bedrivas i offentlig regi. Vi vill sänka omsorgsavgifterna inom omsorgen, avveckla delade turer och öka personaltätheten. Mer resurser till kolans direkta undervisning, minska barngruppernas storlek i förskola, införa fria pedagogiska måltider.",
+    "name": "Solidaritet, Arbete, Fred, Ekologi, SAFE Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "solidaritet-arbete-fred-ekologi-safe-nassjo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1305",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1909",
+          "1904",
+          "1908"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;D!;A;A;D;D!;B;C;A;D!;2/5;2/5;0/5!;[1909,1904,1908]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte inom kommunpolitiken. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Realistiskt sätt så hoppas Sverigedemokraterna i Nässjö att skapa ett majoritetsstyre tillsammans med ett eller fler andra partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I princip nej. Vi kan alltid samarbeta inom sakpolitiska frågor. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska bidragsberoendet",
+        "description": "Vi behöver se till att människor kommer ur bidragsberoendet genom att öka kraven på arbetsprövning, utbildningsinsatser och deltagande i aktiviteter som bryter beroendet.\r\nNässjö kommun har en stor del invånare med stora livsvariationer som hamnat i bidragsberoende. \r\nDetta skapar också förutsättningar för att sänka kommunalskatten i kommunen. Det är dags att sätta Nässjö på rätt spår."
+      },
+      {
+        "category": "En rättvis äldreomsorg",
+        "description": "Anställda ska ha schysta arbetsvillkor. Delade turer inom vården ska kosta jourtid för arbetsgivaren.\r\nVåra äldre som byggt upp förutsättningarna för vårt samhälle ska ha rättvisa villkor för boende, mat och aktivitet.\r\nDet är dags att sätta Nässjö på rätt spår."
+      },
+      {
+        "category": "Nässjö skall vara en trygg kommun att leva och bo i.",
+        "description": "I alla offentliga miljöer behöver tryggheten stärkas. Skolan ska innebära både arbetsro och trygghet för eleverna.\r\nFler vuxna (fältassistenter) som ser till att minska våld, trakasserier, mobbning och hot. Även fritidsverksamheter behöver stärkas kraftigt för att knyta goda relationer med våra yngre och unga vuxna. Nässjö skall vara en trygg kommun.\r\nDet är dags att sätta Nässjö på rätt spår."
+      }
+    ],
+    "motivateVote": "Utvecklingen i Nässjö har under många år gått åt fel håll. Sverigedemokraterna vill vända den utvecklingen genom att minska bidragsberoendet, återskapa en rättvis äldreomsorg, sänka kommunalskatten och sist men inte minst inte bara öka utan återställa tryggheten. Nässjö skall vara en trygg kommun att gå i skolan, att arbeta och att njuta ålderdomens frukter i. ",
+    "name": "Sverigedemokraterna Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-nassjo"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1306",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "dde343f96221b9d94904b8d35ef47f69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jättebra och uppskattat med medborgarbudgetar. Nästa steg kan vara att stadsdelar får det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c3ffbe881ceccba6f31495d92f098ece",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameror kan vara ett komplement vid ett proaktivt förebyggande arbete. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cd55cab1dd99dd513a5917916eaf1d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver våra kommunala bolag, de gör ett fantastiskt arbete för våra kommuninvånare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c7836a7840730d7d44648daa89d4d3d6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f631d65830c35e6d4019656da01e7d74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor gör ett bättre jobb på mindre tid, mår bättre får ihop vardagspusslet bättre. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "58676de17a1baf12e1a062a58e533b43",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar ska användas vid behov. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f04154a03e693194a0ddfd43dae9df2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tänker att med mentorer på arbetet kan man lära sig, och gör det säkert bättre när man är på plats istället för att sitta i skolbänken som inte passar alla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59db92a999e3c15e9340ea289e5180ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Boendemarknaden är dyr och svår att komma in på för vissa. Privata hyresvärdar får då möjlighet att ta ockerhyror för lägenheter i mycket dåligt skick. Här kan kommunen ta ett större ansvar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "abcef6df941394f18706b9a5655e75bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet har varit garant för att LOV inte ska bli verklighet i Nässjö. Många kommuner köper nu tillbaka sina äldreboende som såldes ut, en situation Nässjö inte är i tack vare Vänsterpartiet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c1835ae645a2183b1da12a268b0748b7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "602edd899dd601fb10f3c1824f4fb828",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver självklart vara balans men att säga att vi inte ska välkomna nya möjliga medborgare till vår kommun håller vi inte med om.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4707ad54307f632e7d39b4e8612ecace",
+        "questionType": "RANGE",
+        "reasoning": "INGA MARKNADSSKOLA EXPERIMENT i vår kommmun!",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "64d95797712b4ac9a748e4fb31345a03",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är ett viktigt inslag för att kommuninvånare ska ha en god psykisk hälsa och få möjlighet att båda uppleva och utöva kultur.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "936ea9d55bd890f475b22ebff18d8b12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "51a3ccc1861e8785ca0e4c727a3e43cd",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1904",
+          "1910"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;A;D;D!;B;B;D;A!;D;B;0/5!;3/5;2/5;[1904,1910]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ett styre med en majoritet som kunna mötas och förhandla fram om en politisk riktning för kommande år. Vänsterpartiet har tidigare tagit ansvar för vår kommun och står redo att göra det igen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Sociala insatser på arbetstid",
+        "description": "Allt fler vittnar om att tiden till att engagera sig i föreningar och organisationer på fritiden inte finns. Vi kan inte anställa hur många som helst. Därför föreslår vi sociala insatser på arbetstid. Där anställda ges möjlighet att engagera sig i ett par timmar exempelvis after school eller föreningslivet."
+      },
+      {
+        "category": "Förebyggande trygghetsarbete",
+        "description": "Stärka samverkan mellan socialtjänst, skola, kultur och fritid samt region för att arbeta förebyggande med våra barn och unga."
+      },
+      {
+        "category": "Mötesplatser för gammal som ung",
+        "description": "Det är i mötet mellan människor vi skapar gemenskap och sammanhang för individen. En meningsfull fritid för ung som gammal är en av de viktigaste faktorerna för att människor ska må bra. Med flera trygga mötesplatser för barn, unga och vuxna kan vi arbeta förebyggande med barn och unga, vi kan motverka ensamhet, psykisk ohälsa och utanförskap."
+      }
+    ],
+    "motivateVote": "-Vänsterpartiet i Nässjö vill skapa Trygga mötesplatser för gammal som ung.\r\n- Sammanhållen arbetstid för anställda i kommunen.\r\n- Social insatser på arbetstid för anställda i kommun och näringsliv som en del i det förebyggande arbetet i vår kommun. \r\n",
+    "name": "Vänsterpartiet Nässjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-nassjo"
+  }
+]

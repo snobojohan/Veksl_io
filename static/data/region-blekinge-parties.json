@@ -1,0 +1,884 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2355",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2021",
+          "2027",
+          "2023"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "C;D;D!;D;C;B;2/5;2/5;2/5;[2021,2027,2023]",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård",
+        "description": "Nära vård, både vid somatisk och psykisk ohälsa, ger ett mervärde, öka vårdcentralernas kompetens med fler personalgrupper.\r\nJobbiga resor till sjukhuset ska undvikas och genom modern teknik går till exempel hjärtövervakning att göra i hemmet."
+      },
+      {
+        "category": "Infrastrukturen i länet ",
+        "description": "Bra kollektivtrafik, järnvägar, vägar, hamnar och bredband – allt är av stor vikt för vår regions livskvalitet."
+      },
+      {
+        "category": "Hög livskvalitet",
+        "description": "En rik fritid med kultur, bildning och fysiska aktiviteter samt ett mångfacetterat företagande gör Blekinge till en bra plats att leva på."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-blekinge"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2356",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Attraktiviteten hos vårdcentralerna behöver stärkas och deras möjligheter att ta hand om ett bredare spektrum av sjukdomstillstånd utvidgas. Allt för att minska patienttrycket på våra sjukhus.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": "De flesta patienterna vill träffa samma läkare. Tryggt för patienten, men det underlättar även läkarens arbete att känna till patientens sjukdomshistorik. Hyrpersonal kan inte uppfylla dessa krav.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska samhällen av den storleken omfattas av tågservice. Det är alla politiker överens om.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Av naturliga skäl är detta trygghetsskapande för patienten. Trygg vård i hemmet är framtiden för de patienter som så önskar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förkortad arbetstid med bibehållen lön är ett kostsamt sätt att lösa vårdens rekryteringsproblem",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingenting är gratis. Det är alltid någon som betalar. Att öka resandet med kollektivtrafiken är dock önskvärt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste är att öka resandet med kollektivtrafiken. Om vi lyckas med det målet räknar vi med ökade utgifter.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": "Sjukvård är viktig. Alldeles för viktig för att \"svältas ut\". Löneläget för vissa grupper anställda behöver höjas. Staten har en viktig roll att spela för att uppfylla den ambitionen. Det är en av anledningarna till att vi anser att vården ska förstatligas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": "Privata företag kommer att betyda mycket för sjukvårdens utveckling. Dock fattas mycket innan den är integrerad med regionens sjukvård på bästa sätt.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2027",
+          "2024",
+          "2023"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;D!;D!;D!;B;B;2/5;2/5!;3/5!;[2027,2024,2023]!",
+    "color": "#331D79",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Regelsystemet för att integrera det privata vårdutbudet med Regionens bör förädlas.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill styra med partier som kan acceptera ett minskat detaljinflytande från politikerna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Lägg ner regionerna och inför en nationell vårdförmedling!",
+        "description": "Århundradets vårdreform: KD anser att sjukvården ska förstatligas. I stället för de 21 regioner som finns idag ska landet delas in i sex sjukvårdsområden eller sjukvårdsregioner. KD vill vara ”kittet” i Region Blekinges förändrings- och effektiviseringsprocess som ska leda vägen fram till att staten ska kunna ta över ansvaret för vården."
+      },
+      {
+        "category": "Bort med politikerstyre till förmån för verksamheten!",
+        "description": "KD vill bidra till att utveckla en samarbetskultur inom regionen bortom partipolitiken, ge tillit och frihet till tjänstepersonerna att bedriva och utveckla sin verksamhet utan att detaljstyras av politiska beslut. I KD:s förslag till ny vårdreform styrs de sex sjukhusområdena av en styrelse, inte av politiker."
+      },
+      {
+        "category": "Föreningssverige förenar Sverige!",
+        "description": "KD ser utökad folkhälsa som den enskilt viktigaste förebyggande faktorn för att minska belastningen på sjukvården. Vi vill ge föreningsverksamhet och frivilligorganisationer det stöd och den uppmärksamhet de förtjänar i deras viktiga arbete att ge sammanhang och mening i livet för många människor och inte minst, bidra till bättre folkhälsa."
+      }
+    ],
+    "motivateVote": "Politiker är inte kvalificerade att styra den komplicerade vården i Sverige. Vi vill därför förstatliga vården och introducera professionella styrelser. Tills det är infört vill vi vi ge tjänstemännen och övriga anställda mer makt på politikens bekostnad.",
+    "name": "Kristdemokraterna Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-region-blekinge"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2357",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2021",
+          "2024",
+          "2023"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;D!;D!;B;C;B;3/5!;2/5;3/5!;[2021,2024,2023]",
+    "color": "#1e69aa",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tror inte på att förstatliga vården!",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill medverka till att försöka få till stånd ett majoritetsstyre, att styra i minoritet är varken bra eller konstruktivt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi stänger inga dörrar!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Valfrihet",
+        "description": "Vi vill se fler privata vårdgivare i Blekinge. Med fler aktörer förbättras tillgängligheten och individen får ett större inflytande över sin vardag och sin vård. Valfriheten ska gälla såväl öppenvård som slutenvård. Liberalerna bejakar en sund konkurrens, med kvalitet och vårdidé som bärande element, och som bidrar till bättre vård och större engagemang hos vårdgivarna."
+      },
+      {
+        "category": "Stärkt Primärvård",
+        "description": "Vi vill stärka primärvården i syfte att ge individen en bättre tillgänglighet till vården och ge individen möjlighet att få rätt vård i rätt tid. Om individen får rätt vård från början avlastas den mer specialiserade vården. Ett husläkarsystem med inspiration från den norska fastläkarreformen bör införas. Syftet är att stärka primärvårdsläkarens roll i sjukvårdssystemet, förbättra kontinuiteten."
+      },
+      {
+        "category": "Regional utveckling!",
+        "description": "Med regional utveckling menar vi nödvändigheten att utveckla Blekinge som ett attraktivt län att bo, verka och leva i. Vi behöver bli fler i Blekinge. Det kräver fler attraktiva bostäder, fler arbetstillfällen inom det offentliga och privata näringslivet och ett bättre företagsklimat. Den kommunala samverkan behöver bli bättre. Blekinges kommuner ska inte konkurrera med varandra \r\nutan samverka."
+      }
+    ],
+    "motivateVote": "För att säkerställa att de liberala frågorna får mycket plats i den regionala politiken!\r\nVi vill skapa en positiv attityd till utveckling och en samsyn om att utveckling gynnar alla.\r\nVåra kärnfrågor i valrörelsen kommer att vara Kultur i hela länet, det attraktiva Blekinge och Personcentrerad vård.",
+    "name": "Liberalerna Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-region-blekinge"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2358",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Moderater tror att kompetensen inte bara sitter i yrkeskategorin. Kompetenser kan utvecklas genom erfarenhet, fritidsintressen och egna studier som inte per automatik kan ge en annan yrkeskategori. Det är viktigt att personalen inom Region Blekinge känner att de kan få arbeta i toppen av sin kompetens och att all personalens kompetens tas till vara på bästa sätt. RAK (rätt använd kompetens)",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att lyckas med bemanningspusslet och att utveckla arbetsplatsen tror vi Moderater det är viktigt att grunden i personalstyrkan arbetar tillsammans över en viss tid. Ibland behöver dock vakanser tillfälligt fyllas upp för att tillgodose våra patienter och då är det bra att kunna hyra in personal som trivs med att arbeta en kortare tid på samma plasts och sedan kunna få flytta vidare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inget förslag om att ta bort tågstoppen i Mörrum och Bräkne-Hoby. Järnvägen ska vara en naturlig pendlingsmöjlighet för de som har närhet till befintlig spårväg. Det behövs ytterligare spår genom Blekinge för att klara den ökande gods- och persontrafiken. Det nya spåret blir rakare och ger snabbare förbindelser/ kortare restid mellan de större orterna",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den monitorering som med fördel kan utföras på distans i hemmet bör användas men de patienter som har behov av att fysiskt träffa vården ska självklart behålla den möjligheten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Moderater tycker inte att grupper ska ställas mot varandra från politiken beträffande arbetstid och att vi idag har ett system där parterna själva förhandlar villkor och löner.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vet att inget är gratis, det finns alltid någon som betalar. Vi anser att ett system som betalar även för de som skulle ha möjligheten att betala själva slår hårt mot de som har låg betalförmåga och kanske inte ens själva har möjlighet att använda systemet. Låginkomsttagare som bor på landsbygden utan kollektivtrafik ska inte via skatten behöva betala för en höginkomsttagare som åker.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna vet att kollektivtrafiken har ökade driftkostnader för bla. drivmedel och löner redan under 2022, kommande utmaningar är svåra att förutse. Vi vill kunna fortsätta att hålla en god service till våra medborgare utan att göra det dyrare via regionskatten, en väl avvägd balans.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna vill alltid sträva efter en sänkt skatt och en ökad effektivitet. Brister på världsmarknaden på grund av pandemin och kriget i Ukraina har dock föranlett högre kostnader i våra verksamheter och därför ser vi inte att det är möjligt att sänka skatten i detta budgetarbete.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": "Vi Moderater tror på valfrihet och att individen bäst själv kan avgöra vilka insatser som skulle passa livspusslet bäst. För att skapa valmöjligheter tror vi det behövs fler privata alternativ.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi Moderater ser att en stor del av vården har skjutits upp på grund av pandemin och vi anser det viktigt minska köerna, alla som behöver vård ska få den inom rimlig tid. Det behövs både fler tandläkare, sjuksköterskor och undersköterskor.\r\nKvinnors vård och hälsa har länge varit eftersatt i Sverige och även om Blekinge ligger långt fram så tycker vi att ett rimligt förslag är att en barnm/födande\r\n",
+        "value": [
+          "2021",
+          "2023",
+          "2020"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;C;D;C;A;A;2/5;2/5;3/5;[2021,2023,2020]",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, Moderaterna är ett parti som arbetar för att hela Sverige ska kunna leva och utvecklas med förslag som ska gynna både storstad och landsbygd. Det kräver dock att alla delar av landet finns representerade i riksdagen och kan lyfta även det lilla- eller glesbefolkade länets förutsättningar.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "En majoritet som: \r\ntar miljöfrågan på stort allvar med kraftfulla reformer utan att hämma utveckling och ett modernt samhälle \r\nsom tror på människan och vill skapa en större valfrihet.\r\nModeraterna vill samla en majoritet tillsammans med partier som har borgerliga, företagsvänliga, frihetliga, liberala och konservativa grundvärderingar\r\nsom ser vikten av vår industri, våra näringar för vår välfärd\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, men vissa partier skulle medföra stora utmaningar i det praktiska arbetet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Korta vårdköerna.",
+        "description": "Pandemin har föranlett att en stor del av den vård som varit planerad fått stått tillbaka för hanteringen av den ökade akuta vården, Moderaterna Blekinge vill satsa mer på att arbeta bort dessa köer. För att lyckas korta vårdköerna tror vi\r\natt den fortsatta omställningen till god och nära vård måste prioriteras, att flytta vården närmare medborgarna, öka tillgängligheten och fast vårdkontakt"
+      },
+      {
+        "category": "Personalen, vårdens viktigaste tillgång.",
+        "description": "För Moderaterna i Blekinge är personalen avgörande för att vården ska vara välfungerande. Vi har idag en personalstyrka som slitit hårt de senaste två åren, färre har tagit hand om fler. För att ge en rimlig arbetsbelastning vill vi Moderater bla. utreda möjligheten till en barnmorska/ födande och se över antalet listade patienter/ primärvårdsläkare samt antalet slutenvårdspatienter/ sjuksköterska"
+      },
+      {
+        "category": "Fler Blekingebor i arbete.",
+        "description": "För att Blekinge ska fortsätta utvecklas tror vi Moderater att länets medborgare behöver en ökad tillgång till entreprenörskap, arbete och utbildning. När fler Blekingebor arbetar-, driver företag och betalar skatt ges bättre ekonomiska förutsättningar till alla länsmedborgares välfärd. Vi Moderater tror på människan  och vill ge goda, moderna förutsättningar att leva och verka i Blekinge"
+      }
+    ],
+    "motivateVote": "Rösta på Moderaterna om du tycker det är ORIMLIGT: \r\natt Sverige blivit det land i Europa som har flest gängrelaterade skjutningar men tredje lägst polistäthet där var tredje kvinna är rädd för att vara ute på kvällen\r\natt barn blir rånade och förnedrade på öppen gata\r\natt dömda våldtäktsmän får större skadestånd än sina brottsoffer\r\natt fossilfri, pålitlig och prisvärd fungerande kärnkraft avvecklas\r\n",
+    "name": "Moderaterna Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-blekinge"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2359",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Prioriterad fråga. För att minska kostnaderna och kvalitetssäkra vården behöver vi fast anställd personal istället för hyrläkare",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturen är viktig i hela Blekinge. Vi ska bygga ut, inte lägga ner",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 9,
+    "answersString": "C;D!;D!;C;D!;C;3/5;2/5;1/5;_",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Ett Socialdemokratiskt lett styre med majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna är uteslutet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Köerna i vården måste bort - patienter ska få rätt vård i rätt tid",
+        "description": "För många har väntat för länge på den vård de behöver. Blekinge uppfyller inte vårdgarantin för operation, behandling eller första besök. Exempelvis fortsätter kön till BUP öka, det gäller även till fördjupande utredningar. Resurs- och personalbrist gör att många cancerpatienter får vänta längre än de nationella kraven. De resurser regionen har måste användas på rätt sätt för att korta vårdköerna."
+      },
+      {
+        "category": "Utan personal stannar vården – arbetsvillkoren är avgörande",
+        "description": "Vårdarbetet är tufft. Nu måste resurser läggas på återhämtning och vila, bättre scheman, bemanningspooler och rimliga arbetstider. Fler ska ha möjlighet att spetsa sin kompetens samtidigt som man fortsätter jobba. Alla ska kunna påverka sin arbetsmiljö och jobba med det man är utbildad till. Vi ska ha fast, egen anställd personal istället för hyrpersonal och vi säger nej till privatiseringar."
+      },
+      {
+        "category": "Vården ska finnas nära och bli mer tillgänglig ",
+        "description": "Svar samma dag är viktigt i vården. Mer mobil vård ska hjälpa fler patienter hemma. Rätt antal vårdplatser på sjukhuset gör att även fler äldre och sköra kan läggas in direkt. Den nära vården liksom en värdig och trygg hemgång kräver större samverkan mellan Region och kommuner. Detsamma gäller i folkhälsoarbetet där även föreningslivet behöver vara med och bidra till en jämlik och jämställd hälsa."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna kommer alltid att sätta välfärden i första hand. Vi ska korta vårdköerna och ta tillbaka den demokratiska kontrollen över vår välfärd",
+    "name": "Socialdemokraterna Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-blekinge"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2360",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom fler personalkategorier på vårdcentralerna kan vi få en effektiva och närmre vård. Exempel är sjukvårdsbiträden, fotvårdsspecialister och sjukgymnaster.  ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med samma personal kan man lättare få bra team och sammanhållning. Det är även bra med fasta vårdkontakter så att patienter kan få träffa samma personal som man byggt ett förtroende med, detta sparar även tid.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även om vissa partier säger att de tycker detta så röstar de på ett sätt som gör att stationenerna försvinner. För oss Sverigedemokrater är landsbygden viktig och dessa stationer har en viktig roll för hela Blekinge. Det är även viktigt att vi inte tappar resenärerna från dessa orter då det försämrar för hela Blekinge genom högre pris på biljetterna med kollektivtrafiken. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Erbjuder man detta så borde man även inkludera andra yrken med stor vårdtyngd, vilket kommer få konsekvenser med större personalbrist och högre kostnader. Vi ser däremot att arbetsmiljön MÅSTE bli bättre för såväl barnmorskor som för annan personal. Det vi kommer prioritera är arbetsmiljö och vårdtyngd framför förkortad arbetstid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken är är redan kraftigt subventionerad. Detta förslag skulle bidra till att landsbyggden som inte har kollektivtrafik får betala för dem som bor centralt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser att sjukvården måste prioriteras och väljer att lägga mer skattemedel på vården och därmed lite mindre på kollektivtrafiken.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna med alliansen ville höja skatten mer än vad de gjorde efter förra valet men vi Sverigedemokrater satte stopp för detta. Vi anser att vi ska göra prioriteringar inom den regionverksamhet vi har idag och prioritera vården framför allt annat. Däremot skulle det vara skadligt för utvecklingen i Blekinge om vi höjde skatten mer, då den redan är bland de högsta i landet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": "Inom vissa kategorier som tex medicinsk fotvård och rehabilitering ser vi möjlighet till fler privata aktörer. Däremot ser vi att sjukhusen och slutenvården ligger i regionens regi. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2027",
+          "2022",
+          "2023"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;D!;D!;D;B;A;1/5;2/5;2/5;[2027,2022,2023]!",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad vi känner till",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Givetvis vill vi att Sverigedemokraterna får egenmajoritet och om inte detta är fallet så kommer vi sammarbeta med de partier som vi får igenom mest politik med, och då måste sjukvården vara högst prioriterad. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för samtliga partier där vi får igenom vår politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Behålla Mörrum & Bräkne-hoby tågstationer",
+        "description": "Regionen har tecknat en avsiktsförklaring med trafikverket som medför i ett första steg att Mörrums station försvinner från kustbanan. I ett andra steg kommer Bräkne-hobys station försvinna. Detta vill vi motverka och förespråkar fler stationer än sparad restid mellan några få orter."
+      },
+      {
+        "category": "Öppna en riktig akut i Karlshamn",
+        "description": "Vi vill att en riktig akut öppnar dygnet runt i Karlshamn igen."
+      },
+      {
+        "category": "Krav på svenska språket ",
+        "description": "För att man ska få jobba patientnära ska där finnas krav på att man behärskar det svenska språket."
+      }
+    ],
+    "motivateVote": "För att Sverigedemokraterna ser till hela Blekinge och är det parti som prioriterar sjukvården. Vi ser lösningar och bryr oss inte om hur eller med vem som kommer med förslagen, det viktiga är att det blir genomfört.",
+    "name": "Sverigedemokraterna Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-blekinge"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2361",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e817c1e66588b88e10eeb2b3564afcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler professioner ska finnas tillgängliga inom primärvården. Akuta fall ska i större utsträckning kunna tas omhand redan på vårdcentralerna. Hjälp med psykisk ohälsa och experter inom äldrevård ska också finnas.\r\nMen för det krävs också att resurserna följer med. Vi kan inte bara ge vårdcentralerna ett större uppdrag utan att också skicka med en pengapåse för det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a53c1a5bde83c92098d8dc58f866530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart!\r\nHyrpersonal är dyrare än egen anställd personal, men det är inte det enda problemet. De följer inte patienterna under längre tid vilket kan innebära risker och också skapar en osäkerhet hos patienten (\"jag träffar alltid nya läkare\"). De har heller inte koll på rutinerna på arbetsplatsen vilket både innebär ökade risker men också merjobb för ordinarie personal.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3ce8c4cd86923825ec12b15a41ac2647",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver dels rusta upp befintlig tågräls och dels bygga nya, snabbare banor. Vi föreslår stora klimatinvesteringar i Sverige som innebär att vi inte behöver välja mellan flera stopp och snabbhet. Klimatinvesteringarna innebär också många nya jobb. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba58e42e0493a4dc19a7c6714898fa44",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är upp till patienten och den behandlande läkaren att avgöra vad som blir bäst i den enskilde patientens fall. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "198771a6553b95af3aac08388b9ec7ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vil satsa på arbetsmiljön på sjukhuset. Flyr personalen får vi ingen vård. Därför vill vi se skräddarsydda lösningar som tas fram tillsammans med personalen. Det kan vara arbetstidsförkortning, ökad bemanning eller större inflytande över arbetet. Olika arbetsplatser har olika behov, samma lösning passar inte överallt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a026d136496d6e7f636981ed394ed32e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är vår vision: en skattefinansierad nolltaxa på kollektivtrafik inom länet. Som ett första steg föreslår vi halverade biljettpriser. Gratis busskort för ungdomar på loven och pensionärskort för äldre är självklart för oss.\r\nLika viktigt som biljettpriset är ökad tillgänglighet på landsbygd och i\r\nskärgård.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc0ab6c347aba1a2d4c48ac77ac92b89",
+        "questionType": "RANGE",
+        "reasoning": "Klimathotet är nu. Vi behöver satsa pengar där vi kan minska koldioxidutsläppen radikalt. Resor är ett sånt område. Ska fler åka kollektivt behöver det gå snabbare, finnas fler turer och vara billigare. För det krävs satsningar.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "457f9381e58211d81ce1ad13b254e648",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet har förslag på stora klimatsatsningar på riksnivå. Går de igenom behövs inga skattehöjningar i regionen. Gör de inte det kommer en skattehöjning förmodligen krävas för att kunna leverera patientsäker vård. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e1de2b2e5484b473b49ad3aefd881e40",
+        "questionType": "RANGE",
+        "reasoning": "En sjukvård fri från vinstintressen är en grundsten i Vänsterpartiets politik. Ingen ska kunna köpa sig före i köer, få snabbare eller bättre vård på grund av sin ekonomiska förmåga. Välfärden ska vara skattefinansierad och lika för alla.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "7927c206148b81aae1ed18c1135e9897",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2027",
+          "2025",
+          "2023"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;D;D;C;D;D;4/5;3/5;0/5;[2027,2025,2023]",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill se ett rödgrönt styre i majoritet. Alliansen har misslyckats med att styra regionen de senaste fyra åren, det har mest handlat om interna stridigheter. Blekinge förtjänar ett styre som ser bortom personliga motsättningar och istället fokuserar på att leda Blekinge framåt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förlossningsvården",
+        "description": "Varje barnmorska ska ansvara för högst en förlossning i utdrivningsfasen. Detta för att minska risker för komplikationer. \r\nFörbättrad eftervård där kvinnor får ökade möjligheter till hjälp med ”dolda” förlossningsskador. \r\nBättre förlossningsvård handlar till syvende och sist om samma sak som för övriga vården: resurser. Barnmorskornas viktiga arbete måste värdesättas och kvinnors vård prioriteras."
+      },
+      {
+        "category": "Kollektivtrafiken",
+        "description": "Kollektivtrafiken kan bli allas första val för resor.\r\nDet vill vi göra till verklighet genom kortare restid, ökad tillgänglighet på landsbygd och i skärgård samt halverade biljettpriser. \r\nGratis busskort för ungdomar på loven och pensionärskort för äldre är självklarheter för oss."
+      },
+      {
+        "category": "Arbetsmiljö/möjlighet att rekrytera",
+        "description": "Under senaste året har det rasat in nödrop från de anställda inom vården I Blekinge. Vi måste ta arbetsmiljön på allvar. Flyr personalen får vi ingen vård.\r\n\r\nVad som behövs är olika, det krävs en dialog med personalen. Åtgärder kan till exempel vara: minskad arbetstid, överrekrytering eller fler personal per säng."
+      }
+    ],
+    "motivateVote": "Du ska rösta på oss om du tycker:\r\n- Resurserna till vård och omsorg ska fördelas rättvist. Ingen ska kunna köpa sig före i köer. \r\n- Klimathotet ska tas på allvar. Låt kollektivtrafiken bli allas första val för resor.\r\n- Arbetsmiljön är viktig. Flyr personalen får vi ingen vård.\r\n- Kvinnors vård ska prioriteras högre, inte minst vården efter förlossning.",
+    "name": "Vänsterpartiet Region Blekinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-blekinge"
+  }
+]

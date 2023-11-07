@@ -1,0 +1,991 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1218",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-norberg"
+  },
+  {
+    "abbreviation": "DiN",
+    "altingetCandidateId": "1219",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "En storskalig utbyggnad av vindkraft tillintetgör förutsättningen till livskvalitet och tystnaden för oss som bor på landsbygden och drabbas av detta. Grunden för att vi en gång beslutade oss för att bo på landsbygden är borta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Norberg lägger idag ner omfattande resurser på kulturvård och byggnader samtidigt som villkoren för de som arbetar inom skola och äldreomsorg försämras. Vi måste prioritera dessa lagstadgade områden i första hand. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför skall politiken styra skolelevernas näringsintag. Det skall styras av den allmänna skolhälsan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Livsnerven i en kommuns utveckling är att stimulera privata initiativ.  Osund konkurrens finansierat av skattemedel är något vi inte villha.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget har genomförts i kommunen med start 2016. Det har inte lyckats utan resultatet har blivit att medarbetarna för utföra 8 timmars arbete på 6 timmar och sjuktalen ökade.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om den representativa demokratin inte fungerar är folkomröstningar ett redskap för att läsa av folkviljan. Idag finns ett regelverk för detta och det behöver inte förändras.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra medlemmar som arbetar inom hemtjänst och äldreboenden vittnar om att brukarna efterfrågar att man skall kunna föra ett samtal med vårdaren. Detta ökar trygghet och trivsel för våra äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns inget behov av detta i Norberg utan bostadsmarknaden styrs av dess intäkter och kostnader. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är av godo. Brukarna skall kunna välja företag för främst hemtjänsten. Utsätts en verksamhet för konkurrens måste man skärpa till sig och prestera bättre vård så att man blir vald.  Tror inte vårdföretag är intresserade av lilla Norberg men i grunden skall alla verksamheter genom upphandling kunna utsättas för konkurrens.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I takt med att fossila bränslen fasas ut så kan kommunen ansvara för detta både i centrala Norberg som i övriga delar av kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Norberg har tagit emot en alltför stor andel flyktingar sett till sin kapacitet. Det har belastat framför allt skolan men också socialtjänsten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": "Vissa delar av skolan och framför allt de som hanterar elever med NPF skall kunna drivas av privata företag. Dagens grundskola i Norberg har inte anpassat sin verksamhet för denna grupp.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag en situation där det utskott som hanterar kultur och näringslivsfrågor lägger 5 % på utveckling av näringsliv och 95 % på kultur och föreningsliv. Vi anser att näringslivsfrågorna bör ha en framskjuten roll där 50 % skall läggas på näringslivssatsningar. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": "Norbergs kommun har de senaste 5 åren visat ett överskott på 85 Miljoner kronor. Har man så stora överskott kan kommunalskatten sänkas med 2 kr.\r\nDet skulle öka kommunens attraktivitet utåt. Sänkningen skall inte påverka medarbetarnas arbetsvillkor eller välfärdsservice.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": "Det finns flera förslag som är intressanta inom vård och skola men varför vi valt att stärka elevhälsan beror på att det påverkar direkt skolresultaten. Trygga och friska elever presterar bättra. Däremot saknar jag grundläggande trygghetsfrågor som det uppsökande arbetet mot alkohol och narkotikamissbruk bland vuxna och ungdomar.",
+        "value": [
+          "1845"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;B;D;B;B;D!;B;C;C;D;3/5;0/5;0/5;[1845]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har inget riksparti vilket kan vara en fördel eftersom vi då kan lyssna och komma överens med alla. Det som är bäst för Norbergs befolkning på kort och lång sikt är vår ledstjärna.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Maktskifte där passivitet och trötthet i ledningen byts ut mot mod, framåtanda och vilja till förändring. Demokraterna är det största partiet och leder förändringsarbetet tillsammans med partier som har mod och vilja till förändring. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, alla som harmoniserar med vår ide är välkomna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi motsätter oss en utbyggnad av vindkraft",
+        "description": "Demokraterna i Norberg kommer konsekvent att säga nej till etablering av storskalig vindkraft och verka för att möjliggöra boende och inflyttning på landsbygden. Alla i kommunen ska tryggt kunna sova på nätterna oavsett var man bor."
+      },
+      {
+        "category": "Återställa demokratin i Norberg",
+        "description": "Demokraterna kommer efter en valseger 2022 att försvara och garantera oppositionens möjlighet till insyn och påverkan genom att tillsätta oppositionsråd. Då får vi en bättre politik för Norberg – då tillåts alla vara med."
+      },
+      {
+        "category": "Återställa trygghet och rättsäkerhet i skolan",
+        "description": "Vi vill att våra barn skall känna sig trygga i skolan utan att behöva vara rädda för att utsättas för våld och mobbing.  Vi förstärker trygghet och säkerhet samtidigt som elevhälsan förstärks med mobila team. Enbart trygga elever presterar goda resultat i skolan."
+      }
+    ],
+    "motivateVote": "Förändring ! Partiet består av unga, kunniga och modiga personer vars mål är att förbättra  och utveckla förutsättningar för skola, vård och omsorg att nå målen. Vi vill att hela Norberg skall vara med, även byarna i kommunen. Vi tror att nyckeln till framgång är att attraktivt och enkelt kunna etablera företag och byggande. Vi säger stopp för etablering av storskalig vindkraft. ",
+    "name": "Demokraterna i Norberg Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "demokraterna-i-norberg-norberg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1220",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Norberg har vi redan tagit ansvar för vindkraftsutbyggnaden. Nu föreslås en vindkraftpark till. Vi måste stoppa exploateringen av landsbygden. Det är inte rimligt att våra fastigheter ska falla till halva värdet för att Sverige i nuläget har ett undermåligt elsystem. Vi ser gärna små kärnkraftverk på fler ställen i Sverige. Hellre ett sådant till Norberg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en mängd tomma lokaler och Tingshuset blir i praktiken ett slags kulturhus med de planer som redan finns. Ett nytt kulturhus är uteslutet. Vi har andra investeringar som är viktigare i nuläget, bland annat förskola och utbyggnad/ombyggnad av flera skollokaler. Där går smärtgränsen för Norberg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att det finns ett vegetariskt alternativ alla eller flera av dagarna. Flera barn i Norberg är så pass ekonomiskt utsatta att de inte får kött hemma. Här har förskola/skola ett kompensatoriskt uppdrag. Det ska fortsätta serveras kött i Norbergs skolor men gärna med vegetariskt alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att personer kommer i egen försörjning. Vi har flertalet möjligheter till att skapa småföretag bland annat inom grön näring i Norberg. Det ska kommunen stötta genom att inte konkurrera. Istället för att låta skattepengar gå till att betala löner för att utföra vissa tjänster så kan kommunen gynnas av fler företagare som i sin tur betalar skatt bland annat till kommunen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan nu personalbrist. Vi har redan provat kortare dag inom viss verksamhet. Det tyckte inte personalen var bra och det tillförde bara mer stress under arbetsdagen. Vi ska se till att alla har så bra arbetsmiljö att man kan jobba 8 h utan att gå sönder. Kommunens arbetsmiljöansvar kan inte nog betonas och här finns det mycket att göra i Norberg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kostar mycket pengar med folkomröstningar. Vi har lagt förslag om att göra politiken mer tillgänglig genom att låta folk tycka till kring olika förslag, bland annat via sociala medier. Det är en mer ekonomisk lösning utan att folk behöver springa och rösta titt som tätt. Gå med i ett politiskt parti - då har du stora möjligheter att påverka i Norberg. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att vi har så många nysvenskar som jobbar inom välfärden. Vi måste dock ställa krav på att det går att kommunicera med alla och därför är vi för språktest men också att man ska kunna bygga vidare på sin svenska när man väl börjat jobba. För dåliga språkkunskaper är en riskfaktor i välfärden och därför måste vi satsa på språk. LSS ska också omfattas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte särskilt dyrt att bo i Norberg som det är. Det här ska vi i nuläget inte lägga skattepengar på. Det kommer att byggas fler lägenheter, lite oklart om det är bostadsrätter eller hyreslägenheter, inom kort av privat aktör. Det är inte kommunen som bygger och då bestämmer vi heller inte hyran.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja! Det behövs alternativ till en överbelastad kommunal verksamhet. Valfrihet är bra. Det gör också att personal kan välja arbetsgivare och kommer höja kvaliteten på alla sätt, både för de som behöver omsorg och de som jobbar inom omsorg. Kontroll och uppföljning är dock viktigt, har vi lärt av andra kommuner. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": "\"Stor tillgång\" är att ta i men det måste finnas infrastuktur för elbilar så att kommunens egna bilflotta kan byta över till el. Att besökare kan ladda sina elbilar på plats i Norberg är viktigt för besöksnäringen. Vi behöver ha några stycken laddställen, åtminstone.  Detta är redan på gång i kommunen och snabbladdstolpar kommer att sättas upp vid Frida Arena.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bär emot att säga men Norberg har tagit ett stort ansvar för flyktingar under lång tid. Ska man ta emot flyktingar så måste man också se till att integrationen fungerar att att folk kommer i arbete. Mottagandet ska vara människovärdigt och vi måste kunna möta olika behov i skolan. Norberg ska ta sitt solidariska ansvar, men det måste även andra kommuner göra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": "Vi välkomnar en friskola som alternativ till kommunal skola i Norberg. En skola, gärna med NPF-inriktning, står högt på önskelistan. Vi ser gärna privat aktör som tar över SFI med undervisning såväl digitalt som på plats. Fagerstas utspel angående SFI har varit oroväckande.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Det är socialt självmord i Norberg att ge sig på kulturpengarna. Vi tycker att det redan nu läggs för mycket pengar på kultur, eftersom det inte är lagstadgad verksamhet. Pengarna behövs i skolan. För att vara lite pragmatiska så vill vi inte lägga mer pengar på kultur än vad som redan görs. Hellre gratis kultur för barn och avgiftsbelagd för vuxna. I nuläget är det ibland tvärtom.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": "Flera partier kommer nu vilja sänka skatten i Norberg. Om man förstår att var tredje krona i Norberg är statligt bidrag så förstår man att det är orimligt att sänka skatten. Då måste vi sänka välfärden ytterligare och det är det ingen som vill. Vi behåller skatten som den är och vill att mer pengar ska läggas på skolan.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1847",
+          "1853",
+          "1846"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;B;C;A!;B;D!;A;D!;C;C!;4/5;2/5;2/5;[1847,1853,1846]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Näringsliv och integration = välfärd",
+        "description": "Kommunen ska ta större ansvar och se till att fler kommer i arbete. Enkla jobb, tillsammans med språkstudier i svenska, ska kunna fortsätta med praktik utom och inom kommunen eller vidare till utbildning. Detta ska ske istället för eller tillsammans med försörjningsstöd. Näringslivets behov behöver matchas med tillgänglig arbetskraft och en plan upprättas. Jobb ökar friheten för individen."
+      },
+      {
+        "category": "Norberg ska följa LSS",
+        "description": "Lagen om stöd och service (LSS) är en frihetslag som gör att fler kan leva sina liv som vanligt, men med visst stöd i vardagen. I Norberg har detta varit eftersatt i många år vilket drabbar de som får stödet, anhöriga och personal inom LSS. Det vill vi ändra på och jobbar aktivt för att det ska bli bättre att bo i Norberg, även om du berörs av LSS. Kompetent personal är viktigt."
+      },
+      {
+        "category": "Norbergs skola ska bli bäst – från förskola till vuxenutbildning",
+        "description": "Vi vill minska grupperna i förskolan, utveckla flerlärarsystemet, anställa fler svenska-som-andraspråkslärare och öka andelen behöriga lärare i grundskolan. Norberg kommer behöva bygga nytt och bygga om lokaler för att bättre möta barnens behov i förskola-skola. Vuxnas utbildning ska matchas mot jobb. God arbetsmiljö ska råda för personalen i samtliga skolformer."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-norberg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1221",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "Villkoren för alla kommuner ser olika ut. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kärnverksamheterna tillika lagstadgad verksamhet i Norberg har idag stora problem. Vi måste först reda ut de problemen innan vi satsar på kulturhuset. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi kunde köpa ner lokalproducerat och äta mat som produceras i säsong skulle maten fånen mer naturlig cykel",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag har inte samma regler som privata bolag så därför konkurrerar de på olika förutsättningar. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": "arbetsmiljön måste ses över från grunden. Är inte arbetsmiljön bra så blir den inte bättre av att jobba mindre timmar, problemet kvarstår ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helt självklart att all personal måste prata och förstå svenska. Risk för missförstånd och ev fel medicinerad  mm kan uppstå",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrens är bra och dessutom ökar valfriheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": "Valfrihet ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Lagstadgad verksamhet måste i dagsläget gå före ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1853",
+          "1845",
+          "1846"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;B;D;B;A;D;C;D;D;D;4/5;0/5;1/5;[1853,1845,1846]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Högerstyrd med moderaterna som ordförande ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inga kommentarer.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "öppna Björkängens matsal ",
+        "description": "Matsalen har varit stängd under Corona pandemin och tidigare fungerat som en mötesplats för många äldre samt möjligheten till ett mål med god mat. Nu är den stängd permanent men vi moderater vill öppna den igen."
+      },
+      {
+        "category": "mer behörigs lärare till skolan",
+        "description": "Idag är 50% av alla lärare obehöriga i Norberg och har en av Sveriges sämsta skola. Eleverna har inte adekvat kunskapsnivå när de ska till gymnasiet."
+      },
+      {
+        "category": "ekonomfunktion i Norberg ",
+        "description": "Ekonomin sköts idag aven gemensam ekonomi nämnd tillsammans med Fagersta. Vi vill ta tillbaka Ekonomistyrningsverkets till Norberg för bättre uppföljning och kostnadskontroll"
+      }
+    ],
+    "motivateVote": "Vi vill ha förändring inom kärnverksamheterna i Norberg såsom skola, äldreomsorg, ekonomi samt näringslivet. ",
+    "name": "Moderaterna Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-norberg"
+  },
+  {
+    "abbreviation": "PNF",
+    "altingetCandidateId": "1222",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det verkar ju ganska knepigt om kommunen ska kunna säga nej till en energisatsning riksdagen sagt ja till. Kommunen ställs inför ett svårt avvägande mellan Parisavtal som ska uppfyllas och kanske människor som upplever att de kommer i kläm. Ändå dags sätta ner foten och se riksintresset här före den enskilda kommunen. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kanske behöver man inte bygga ett kulturhus utan snarare se på de lokaler man idag har och fundera över hur dessa kan bli lokaliseringscenter för kulturen.\r\nF.d. Folkets Hus vore naturligtvis bästa valet förutsett att en del av nuvarande verksamheter hittade nya boplatser",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår uppfattning är att matsvinnet är det stora problemet ur miljösynpunkt. Vi vill anställa en kostchef och eventuellt en kökschef för att den vägen få en smakligare \"spis\" för alla grupper kommunen ansvarar för. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En tydlig genomlysning behövs igen kring äldreomsorgen. Vi tänker att lönen är en fråga samt rekryteringen. Vi upplever inte äldreomsorg som ett instegsjobb utan som ett kvalificerat jobb där de anställda kompetensutvecklas kring arbetsmiljöfrågor både för sin egen del men även för brukarens",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man ska arbeta med huvudsakligen svenska brukare är det självklart att man måste behärska språket. Vi förordar mildare uttryck än test.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt förslag är att om ingen annan vill bygga prisvärda lägenheter i kommunen måste kommunen göra det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ju en möjlighet för kommunen att låta brukarna använda sig av det fria valet som dock majoriteten förhindrar brukarna från idag",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand bör ansvaret ligga på marknaden men om ointresse råder är det självklart att kommunen måste ta sitt ansvar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är naturligtvis så att en liten kommun har svårare lyckas med en 100% mottagning och varaktig. Allt bottnar ju i vad som ska betraktas som ett normalt antal. Det är en hjärtefråga att vara öppen för att människor i nöd ska kunna känna sig säkra , trygga och känna mänsklig värme.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Hjärtefråga som knyter samman norbergarna. Pengarna bör vara stöttande för ett föreningsliv med inriktning kultur. Kulturskolan ska tillåtas växa. För det växande släktet är det viktigt att förutom kunskaper och kompetenser även ha en bredd som person som en arbetsgivare kan uppskatta",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": "Så länge som vi fortsätter att lägga pengar på investeringar och liknande som inte utförs bör en skatteminskning vara möjlig. Det är inte något att klappa sig för bröstet med att överskottet varje år blir högt. Svårt få igenom en planperiod där vi inte följer kommunallagens krav på % överskott varje period",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1852",
+          "1848",
+          "1847"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;C!;A;D;B!;A;C;D;D;C;B;_;4/5;1/5;[1852,1848,1847]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej då vi inte har någon riksorganisation",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har inga bindningar utan ämnar stå fria så valresultatet får vägleda oss.\r\nAtt det behövs en förändring är dock uppenbar och den svaga majoritet som styr nu har haft svårt att lyssna trovärdigt så en tydlig öronöppning blir nödvändig för att PNF ska samarbeta/samverka.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Agenda 2030 en överlevnads strategi",
+        "description": "Förslaget handlar om att på alla plan engagera samhället kring de svåra frågor som de globala målen i Parisavtalet satt som rubriker. En lokal nedbrytning till praktisk handling som inkluderar de här i Norberg som har kunskap erfarenhet och idéer kring detta svår greppade. Vi har tidigt motionerat kring klimatanpassningsgrupper men fått avslag. Vi har motionerat om stöd till de som har enskilda va"
+      },
+      {
+        "category": "Kulturstråk och kulturhus",
+        "description": "Vi har motionerat om att göra en \"gata\"här i Kärrgruvan till ett kulturstråk. Motionen gick igenom men har ändock inte realiserats. Kulturhus fick vi inget gehör för men tycker att eftersom vi lever i en kulturbygd borde en samlingspunkt behövas"
+      },
+      {
+        "category": "Ny politisk organisation",
+        "description": "Förstärka det politiska arbetet genom att ha permanenta och särskilda fullmäktigeberedningar. Vi tanke är att flera skulle komma till tals av de som sitter i fullmäktige. Nyttja den kunskaps bas som finns där. Norbergarna skulle också lättare kunna utkräva resultat av den enskilde fullmäktigeledamöten"
+      }
+    ],
+    "motivateVote": "Vi är ett lokalt parti där norbergarnas hjärtefrågor är viktigast för oss vid sidan om de hjärnkopplade frågor som ju är tydligt lagstyrda.(skola, äldreomsorg...)\r\nVi kommer att lägga en egen budget för 2023 och för planperioden där varje politiskt löfte får de resurser som behövs för genomförande.",
+    "name": "Partiet för Norbergs Framtid Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "partiet-for-norbergs-framtid-norberg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1223",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ställa om till en mer hållbar energiproduktion och vill se fortsatt utbyggnad av förnybar energi, som vindkraften, men tycker att alla kommuner solidariskt ska dela på utbyggnaden. Norberg har tagit ett stort ansvar i vindkraftsutbyggnaden. Vi vill att nya energikällor inom kommunen kommer norbergarna till gagn.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte aktuellt eftersom vi redan har lokaler i kommunen som kan användas och anpassas till kulturevenemang, exempelvis Frida Hansdotter Arena, Tingshuset, Teaterbiografen, Mimerlaven, Kraftcentralen mfl. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Näringsriktig och bra skolmat är viktigt under hela skoldagen. Vi anser att det är bra att alternativ kost finns för de elever som önskar det, och att större hänsyn tas till hållbarhetsaspekter och matens klimatpåverkan framför köttfria dagar. Det serveras alltid ett vegetariskt alternativ i skolmatsalarna i Norberg. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den frågan är inte aktuell i Norberg då vi inte har några sådana kommunala bolag.\r\nVi socialdemokrater vill stärka förutsättningarna att bedriva företagsamhet. Småföretag och entreprenörer ska ges bättre förutsättningar att växa och utvecklas och det vill vi stötta.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att Norbergs kommuns verksamheter fortsätter anpassas så att arbetsmiljön är hälsofrämjande och våra medarbetare orkar jobba heltid. Men minutstyrningen ska bort! Vi vill införa arbetstidsmodellen 80-90-100 inom kommunens verksamheter, från 62 års ålder kunna arbeta 80% av heltid till 90% av lönen och tjäna in 100% av tjänstepensionen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar i kommuner och regioner är bara rådgivande. Vi socialdemokrater tror att avståndet mellan oss politiker och medborgare i Norberg är mycket litet. Vill du få till en förändring kan du med lätthet vända dig till en politiker som du har förtroende för. Medborgarförslag, remisser till RÄF (rådet för äldre och funktionsnedsatta) & ungdomsrådet är vidare ex på hur medborgare kan påverka",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna prata, skriva och läsa svenska språket är nödvändigt inom äldreomsorgen. Detta för såväl den medmänskliga kommunikationen som den medicinska omsorgen. Kommunen ska som arbetsgivare säkerställa att all personal vid behov ges möjlighet till språkutbildning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Norberg finns inget behov av det. Det finns lägenheter av varierad storlek, standard och hyresnivå i både det kommunala och privata bostadsbeståndet. \r\nTvärtom så ligger fokus på att uppmuntra byggandet av attraktiva bostäder på nyligen planlagd kommunal mark. \r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattebetalarnas pengar ska gå till att stärka skolan, sjukvården och omsorgen - inte till stora vinster. Vi ska fortsätta ha kontroll över välfärden i Norberg utan att privata företag ska göra vinster med våra skattepengar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi socialdemokrater har drivit den här frågan under en längre tid och det ska bli verklighet i höst. Vi vill ha tillräckligt antal snabbladdare för elbilar på central plats och det kommer att byggas vid Frida Hansdotter Arenas parkering.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Norbergs kommun har vi under en längre tid tagit ett stort ansvar i flyktingfrågan och blivit oproportionerligt hårt belastade. Norbergs flyktingmottagande ska vara på en nivå som inte bidrar till arbetslöshet, bristande skolresultat och andra avgörande faktorer som skapar ojämlikhet. Undantag kan givet ske vid akuta krissituationer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata aktörer inom Norbergs kommuns skolor idag. Generellt vill vi socialdemokrater fortsatt ha kvar friskolor, valmöjligheter och skolval men skolor ska fokusera på barnens lärande – inte på vinstjakt eller religiös påverkan.\r\nSkolan ska alltid kunna anpassas till varje elevs kraft och kompetens och leda vidare till arbete eller fortsatta studier. \r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill fortsatt att Norbergs omfattande kultur- och idrottsverksamhet ska uppmuntras och stödjas att fortsätta vara mötesplatser för olika åldrar. \r\nVi vill att hela Norbergs föreningsliv tas på allvar. Det ideella arbetet är byggstenar för kreativitet, välbefinnande och arbetstillfällen samt är grunden för vår demokrati.\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": "Vi kommer även fortsättningsvis bedriva en ansvarsfull ekonomisk politik och kan inte se att en skattehöjning blir aktuell.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": "Grunden till allt lärande börjar i förskolan, vi vill ha minskade barngrupper & engagerad personal som har tid att se varje barn och deras behov. \r\n\r\nElevhälsan ska arbeta förebyggande och skolan ska alltid anpassas till varje elevs kraft och kompetens, leda vidare till arbete eller fortsatta studier. \r\n\r\nVåra äldre ska leva ett tryggt liv präglat av omtanke o gemenskap därför satsar vi på välfärden!",
+        "value": [
+          "1852",
+          "1847",
+          "1845"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;B;C;B;A;D!;A;A;C;D;2/5;2/5;2/5;[1852,1847,1845]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi försöker alltid påverka partiets politik när vi har en annan åsikt. Exempel på när vi fått gehör är lagen om mer rättvis fördelning av flyktingar mellan kommunerna och skärpta regler för Arbetskraftsinvandring. Det är en styrka att tillhöra ett parti som kan påverka kommunens förutsättningar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas få norbergarnas förtroende att fortsätta styra kommunen. Vi ser gärna en tydlig majoritet tillsammans med ett eller flera partier för att kunna göra långsiktiga satsningar för framtiden. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Guldkortet - ett VIP-kort för alla Norbergare",
+        "description": "Vi vill införa ett VIP-kort för alla som är skrivna i Norberg. Guldkortet är ett hållbarhetskort som är kopplat till bibliotektskortet och är laddat med bland annat:\r\nErbjudande från lokala företag, Avgiftsfri kollektivtrafik, Lån på fritidsbanken, Förmånliga fritidsaktiviteter och andra friskvårdsaktiviteter."
+      },
+      {
+        "category": "Skolsatsningar: Lärare ska vara lärare, Flerlärarsystem, Rastvakter, Mobilförbud",
+        "description": "Grunden för lärandet läggs i förskolan, vi vill därför ha en bra förskola för alla med minskade barngrupper. Vi vill permanenta flerlärarsystemet i skolan då det varit en framgångsfaktor för att rekrytera behörig personal. Vi vill minska lärarnas administrativa börda och satsa på rastvakter. Lärare ska vara lärare och ha mer tid med eleverna. Mobilförbud under skoltid."
+      },
+      {
+        "category": "Äldreomsorg: Bort med minutstyrningen, språkutbildning, slopad karensdag",
+        "description": "Vi vill komma bort från den minutstyrning som präglar äldreomsorgen idag. Omsorgen ska ske i samplanering och dialog med den äldre och utgå från individuella behov samtidigt som den är modern. Vi vill stimulera byggandet av attraktiva seniorboenden, personal med rätt kompetens, fler mötesplatser för våra äldre, språkutbildning (vid behov) för personalen, slopad karensdag inom kontaktnära yrken."
+      }
+    ],
+    "motivateVote": "Vi lovar att ta ansvar för hela Norbergs kommun - att orka leda, styra och utveckla i med- och motvind. Vi samarbetar gärna med alla politiska partier som delar vår syn om alla människors lika värde, har ärliga avsikter att på allvar ta ansvar och jobba för norbergarnas bästa.",
+    "name": "Socialdemokraterna Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-norberg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1225",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b9eb90199f487a3b35c48404a6b3733",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ställa om till en mer hållbar energiproduktion.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f8b9bbc6c77788efd425362036f6776c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dock tycker vi inte att vi ska bygga ett kulturhus utan att tingshuset i Norberg blir ett kulturhus.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8be0564a1d87adba979f462899d66abd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är väldigt bra tanke. Men att göra det obligatoriskt anser vi inte behövs för att detta är en fråga för kostenheten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2625b0c4b8e11e238649c20b12335ba3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e632b2431a94c0e4fcb30dd1b671830b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38eb3a640b79d4457f4e168ed85a61c0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff15e9896c1ec2d963770f484365508d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5be0246c80163902f59ca3cd52cd4f37",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "22e3c31ea0021765acccf24ce45a06f7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1260518a1023c3617b171a397ebeae0f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa3b47ff0937a14e1582b0b582989ac1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska vi taimot flyktingar. Men trycket på Norberg har varit högre än vad vi klarar av.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6dd719babf01afcb9fdd637d5d4b753a",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga aktörer som drivs av privata företag i Norberg. Det anser vi också vara bra.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a73941d74499d2ecd5ee76f29082a2eb",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att kulturskolan aktiviteter ska utökas med dans, bild och teater.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b4e12b8ac854dbfa2d551ec85381722a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "64665c1aabdc02eeff29c18806c451f3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1849",
+          "1847",
+          "1845"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;C;A;D;C;A;C;A;D;C;2/5;3/5;2/5;[1849,1847,1845]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett mer Vänster politiskt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": " Demokraterna i Norberg",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Färdtjänst ska jämställas med allmän kollektivtrafik.",
+        "description": "Färdtjänstresor ska jämställas med allmän kollektivtrafik.\r\nFärdtjänstresorna ska gälla inom hela länet och till Avesta/Krylbo. \r\nVi vill utöka antal resor med färdtjänst, från 120/år enkelresor till 216/år"
+      },
+      {
+        "category": "Se till att hudrastgård blir verklighet.",
+        "description": "Se till att beslutet om att anlägga en hundrastgård utförs."
+      },
+      {
+        "category": "Fler fritidspedagoger i skolan.",
+        "description": "Barn och unga i Norberg ska ha en trygg, lärorik och rolig tid i och utanför skolan. Vänsterpartiet i Norberg vill satsa på fler fritidspedagoger i skolan och utöka UNKANS öppettider till varje helg."
+      }
+    ],
+    "motivateVote": "För att Vänsterpartiet Norberg verkar för alla och inte bara några få. Få ett Norberg som präglas av medmänsklighet, solidaritet och rättvisa.",
+    "name": "Vänsterpartiet Norberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-norberg"
+  }
+]

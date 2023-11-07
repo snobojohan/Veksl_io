@@ -1,0 +1,1010 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2308",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "uppdrag. Medarbetarna går på knäna och vårdköerna är långa. Vi behöver flytta ut bassjukvård från universitetssjukhuset för att frigöra kapacitet. Om privata aktörer kan hjälpa till i detta arbete är det välkommet, men vi ska inte privatisera för privatiserandets skull. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Baserat på de utredningar som gjorts framstår spårväg inte som den bästa lösningen. Men det är en kommunal fråga att avgöra. Vi förtroendevalda i regionen ansvarar för att säkra nödvändig infrastruktur att trafikera eventuell spårväg med spårvagnar om Uppsala kommun väljer en sådan lösning.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dock är ytterligare en pendeltågstation i Bålsta inte aktuell på kort sikt. Det viktigaste är bättre spårkapacitet på Mälarbanan till Bålsta och förbättrade resmöjligheter med buss mellan station i Bålsta och Logistik Bålsta. Ska ytterligare stationer byggas på Mälarbanan är behovet större i Grillby.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid äldremottagningarna tar ett team av specialister ett samlat grepp om personens livssituation och vårdbehov. Det kan vara sjukgymnast, dietist, läkemedelsgenomgång, kontakt med kommunen för stödinsatser och rent sociala aktiviteter i samverkan med civilsamhället. De äldre ska också få en kontaktperson eller ett direktnummer till vården. Det är mycket bra och vi vill utveckla detta vidare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag är målet att kollektivtrafiken ska betalas till 50% av skattebetalarna och av 50% av resenärerna. Det är många skattebetalare som saknar möjlighet att välja kollektivtrafiken och därför vill vi inte öka skattebetalarnas andel av kollektivtrafikens finansiering. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara en viktig pusselbit och vi stänger inte den dörren. Barnmorskor måste vilja och orka jobba i förlossningsvården. Vi vill att det ska finnas fler alternativ både för kvinnan och barnmorskorna; en barnmorskeledd klinik, hemförlossningar och en sammanhållen vårdkedja från graviditet till eftervård.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "För att människor ska kunna bo och verka i hela länet krävs infrastruktur som fungerar. Bra väg- och cykelvägnät och pålitlig kollektivtrafik som når alla delar av länet. Vi vill att kollektivtrafiken ska bära minst 50% av sina kostnader. Det är ibland mer klimatsmart att ta bilen än att tomma bussar rullar. Vi vill gärna bygga ut kollektivtrafiken för klimatet och för människors rörelsefrihet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Idag är vårdköerna för långa. Alla vårdgivare som vill bidra till minskade väntetider ska vara välkomna. Decentralisering och fler aktörer främjar utveckling av arbetssätt och dynamik på arbetsmarknaden. Att kunna välja arbetsgivare och vårdgivare är viktigt. Patienter som inte får vård i tid innebär lidande och extra kostnader. Om alla jobbar tillsammans klarar vi detta.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Skatten ska hållas så låg som möjligt och ambitionen ska vara att kunna sänka den på sikt. Men region Uppsala är i ett svårt ekonomiskt läge och måste först och främst nå målet om ekonomi i balans.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": "Utan medarbetare i olika roller blir det ingen vård. Tillräckligt mycket kompetent och engagerad personal är en grundförutsättning för god och nära vård. På vissa håll är arbetsbelastningen och personalomsättningen hög. Vi har en grundmurad tilltro till att vårdens och omsorgens medarbetare är den främsta kraften att förbättra vården.",
+        "value": [
+          "2124",
+          "2128",
+          "2123"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "C;C;C;D;A;C!;3/5;3/5;2/5;[2124,2128,2123]",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi driver lokala frågor för Uppsala län, därför är politiken inte alltid exakt identisk. Vi driver centerpartistisk politik som genomsyras av samma gröna och liberala idéer på alla nivåer i hela partiet.  ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill ha ett styre som är fast förankrat i mitten av politiken. Vi vill se ett ansvarsfullt samarbete utan ytterkantspartier. Uppsala län står inför stora utmaningar och därför behövs samling och gemensamt ansvarstagande.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättrad förlossningsvård",
+        "description": "Idag erbjuds förlossningsvård bara på universitetssjukhuset. Vid högriskförlossningar och för förstföderskor är det ofta nödvändigt att föda på sjukhus. Men för friska omföderskor och deras barn kan det vara säkrare att föda på en barnmorskeledd klinik eller i hemmet. Därför vill vi starta en barnmorskeledd normalförlossningsklinik och ge regionfinansiering för hemfödsel i Uppsala län."
+      },
+      {
+        "category": "Stärkt primärvård i hela länet",
+        "description": "Tillgänglighet och god arbetsmiljö är nyckeln till kortade vårdköer. Vi vill se en utbyggd primärvård i hela länet med fler vårdmottagningar i mindre orter och på landsbygden, samtidigt som vi skapar bättre möjligheter att starta och driva små läkarledda mottagningar. Vi vill också satsat mer resurser på digitalisering, ett gott ledarskap i hälso- och sjukvården samt nyttjandet av mobila vårdteam."
+      },
+      {
+        "category": "Ett grönt och livskraftigt län",
+        "description": "För att samhället ska växa och utvecklas behövs livskraftiga företag som skapar jobb och välfärd. Region Uppsala ska främja samverkan mellan näringsliv, region, kommuner och civilsamhälle för att bättre stärka den regionala utvecklingen i vårt län, exempelvis genom att underlätta för finansiering och samarbeten kring grön omställning, innovationer, företagande och landsbygdsutveckling."
+      }
+    ],
+    "motivateVote": "Centerpartiet jobbar för minskade utsläpp och ökad jämställdhet. För en god, nära och trygg vård, fler jobb och en levande landsbygd.",
+    "name": "Centerpartiet Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-uppsala"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2309",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna säkerställa att Akademiska sjukhuset även framgent är ett universitetssjukhus i världsklass behöver en del mindre kvalificerad vård flyttas till andra sjukhus i sjukvårdsregionen och till lasarettet i Enköping. Därutöver kan en del vård också utföras av fristående aktörer för att avlasta den offentliga vården och säkerställa att patienter får vård i tid. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga spårväg och köra spårvagn i Uppsala kommer kosta orimligt mycket och drabba vården i hela länet. KD prioriterar hellre fler vårdplatser och god tillgänglighet i vården än att lägga pengar på spårväg. Dessutom vill vi inte ha en så tät byggnation i Uppsalas sydöstra delar som spårväg kräver för att det ska vara ekonomiskt försvarbart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "I nuläget måste frågan kring förlängning av pendeltågsspåret till logistikparken utredas tillsammans med Trafikverket, Region Stockholm och Håbo kommun för att se om förutsättningarna för en förlängning är realistiska. För det fall utredningen visar att det är görligt så vill KD ha en förlängning av pendeltågsspåret till logistikparken. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillsammans med en fast läkarkontakt och äldremottagningar för äldre, multi- och kroniskt sjuka vill vi underlätta förbättra vården för dessa patienter och genom förebyggande vård minska minska inläggningar på sjukhus.   ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur lockande detta förlag än verkar så skulle det i realiteten innebära antingen en mycket kraftig skattehöjning eller ett kraftigt minskat utbud av kollektivtrafik och sjukvård i Uppsala län.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Istället för arbetstidsförkortning vill KD vill stärka förlossningsvården och eftervården till nyblivna mödrar. Vi vill att varje födande ska få en dedikerad barnmorska under förlossningen. \r\n\r\nVarje kvinna ska känna trygghet under sin graviditet samt inför, under och efter sin förlossning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "Ungefär lika mycket som idag. KD vill dock göra om dagens avgiftsmodell för kollektivtrafiken och ta bort dagens flerzonsmodell och istället införa en biljett där man för samma pris kan resa över hela länet. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Vem som bedriver vården anser KD vara irrelevant. För KDs del är det viktiga att dagens vårdköer kapas och att tillgängligheten till vård ökar. Då kan det behövas fler aktörer som är med och bidrar. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Dagens 21 regioner gör svensk sjukvård ineffektiv. Sverige lägger 5:e mest av OECD-länderna på vård vilket inte märks i dagens vårdstruktur. Avvecklar vi dagens 21 regioner, vilket KD vill, kan kostnaderna för svensk sjukvård minska alternativt användas för göra vården mer tillgänglig. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2124",
+          "2120",
+          "2128"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B!;D!;C;D!;A;B;2/5;3/5!;1/5!;[2124,2120,2128]!",
+    "color": "#331D79",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": ".",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "KD vill ha ett politiskt borgerligt styre där vi får genomslag för vår politik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Århundradets sjukvårdsreform - statlig styrning av hälso- och sjukvården.",
+        "description": "Landstingssystemet som togs fram för 160 år sedan i Sverige har spelat ut sin roll. Vi skall inte sitta fast med ett gammalt system som uppenbart inte klarar av att möta dagens och framtidens behov. Vi behöver därför lägga ner regionerna och ersätta dem med en helt ny organisation där staten är huvudman. Vi sätter människan och patienterna före systemet och regionpolitikerna."
+      },
+      {
+        "category": "Förbättrad tillgänglighet - en sjukvård utan köer ",
+        "description": "Sveriges sjukvård har länge kännetecknats av två saker: hög medicinsk kvalitet – men långa väntetider. Vi vill därför inrätta ett patientkontor med en nationell vårdförmedling så att patienter snabbare kan få vård. Tillsammans med fler vårdplatser, fler vårdgivare och förbättrad vårdgaranti kan köerna kortas och tillgängligheten till vård öka."
+      },
+      {
+        "category": "Stärk förlossningsvården och eftervården till kvinnorna",
+        "description": "Vi vill ha trygga förlossningar. Varje kvinna ska känna trygghet under sin graviditet samt inför, under och efter sin förlossning. Vi vill stärka det förlossningsförberedande arbetet, ta till vara på äldre medarbetares kompetens och erbjuda ett tryggt eftervårdspaket till nyförlösta mödrar.\r\nVi vill även stärka kvinnosjukvården med bl a tidig upptäckt, behandling och forskning kring Endometrios."
+      }
+    ],
+    "motivateVote": "KD vill avskaffa dagens regionala ansvar för hälso- och sjukvård och istället inrätta en nationell styrning för sjukvården. Detta för att kunna skapa en mer jämlik vård utan de vårdköer som dagens 21 olika vårdorganisationer orsakar. \r\n\r\nUtöver fler vårdaktörer och fler vårdplatser i länet vill KD också inrätta ett patientkontor med en nationell vårdförmedling så att patienter snabbare kan få vård. ",
+    "name": "Kristdemokraterna Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-region-uppsala"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2310",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt fina universitetssjukhus ska finnas kvar. Privata vårdgivare i utförandet av sjukvården ger vårdpersonal en möjlighet att välja arbetsgivare. Den konkurrens om personalen som då uppstår sätter tryck på alla arbetsgivare att åstadkomma god vårdkvalité, goda arbetsförhållanden och högre löner. Tillsammans med privata aktörer kan köer kortas. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Val av trafikslag när Uppsala stad växer är en kommunal fråga. Men Liberalerna går till val som det borgerliga partiet som förespråkar spårvagn med tanke på miljön, klimatet och trängseln i Uppsala. Vi är en växande region och behöver kapacitetsstark kollektivtrafik som är miljövänlig, därför är vi positiva till spårväg. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna anser att det långsiktigt kan det vara motiverat att verka för att en pendeltågsstation öppnar även vid logistikområde som idag saknar en pendeltågsstation men det är en satsning som SL / Region Stockholm måste stå bakom. \r\nKortsiktigt anser Liberalerna att det är bättre att öppna den stängda uppgången på östra delen av nuvarande station. Vidare ser vi gärna 15-minuterstrafik med SL. \r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Liberaler vill se äldremottagningar/äldrevårdcentraler på alla vårdcentraler. Ett helhetsgrepp kring äldres hälsa med fokus på de med stort vårdbehov är nödvändigt. Det är viktigt att vi kan erbjuda ett bättre omhändertagande av våra äldre. Ett tidigt och professionellt omhändertagande kommer att ge färre vårddagar i på sjukhusen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna anser att en maxtaxa om tio kronor per dag inte är realistisk eftersom forskning visar att varken låga, eller inga, avgifter i kollektivtrafiken leder till fler resor. \r\nDäremot är vi Liberaler för att införa en maxtaxa på reskassa som är jämförbar med kostnaden för ett månadskort för att göra kollektivtrafiken flexiblare och attraktivare. \r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna anser att vi behöver hälsosamma scheman i vården så att våra medarbetare får tid till återhämtning. De flesta barnmorskor har ett schema där man har en förkortad arbetstid. Idag har vi för få barnmorskor och därför får de ta extrapass. Liberalerna vill arbeta för att behålla och locka fler barnmorskor till Akademiska - med fler medarbetare kan de hälsosamma schemana följas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "För att nå de långsiktiga nationella miljömålen måste vi ha en stark kollektivtrafik. Vi Liberaler anser att 50% av kollektivtrafiken ska finansieras med skattemedel och 50% med biljettintäkter. När vår region växer med fler invånare måste utbudet öka, men då ökar även skatteintäkterna och biljettintäkterna.  ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Vårdvalet har lett till ökad valfrihet och att patienter får vård snabbare. Privat drivna vårdcentraler är uppskattade och lyckas i högre grad attrahera och behålla kunnig personal och ge kontinuitet i vården. \r\nAtt kunna välja sin arbetsgivare är en frihetsfråga - och något liberalerna vill möjliggöra för professionen. Vinster är oviktiga. Kvalitet är däremot viktigt, oavsett vem som är utförare. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna är mot skattehöjningar, istället kan vi nyttja varje skattekrona bättre. Exempel på områden där vi kan frigöra tid och pengar är: minska administrationen för vår sjukvårdspersonal, förbättra it-system, minska vårdrelaterade infektioner, trycksår, och undernäring som kostar Region Uppsala 300 miljoner kr/år.\r\nVår region växer - varje år får vi ökade skatteintäkter. De ska förvaltas väl. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2121",
+          "2120",
+          "2128"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A;A;B;D!;A;C;2/5;3/5;2/5!;[2121,2120,2128]",
+    "color": "#1e69aa",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "För en tryggare vård - fast husläkare för alla",
+        "description": "För den vardagliga vården är det viktigt att få möta ett bekant ansikte som känner våra behov och vår medicinska historia. Liberalerna vill stärka kontinuiteten. Ingen ska hindras att söka vård annat håll, men Liberalerna vill att varje invånare får möjligheten att välja en namngiven fast läkarkontakt."
+      },
+      {
+        "category": "Satsning på arbetsmiljö, ledarskap och hållbarhet ger fler medarbetare",
+        "description": "För att få bättre tillgänglighet, fler vårdplatser, kortare köer och tryggare vård krävs fler medarbetare som vill jobba inom vården. Regionen behöver bli en mer attraktiv arbetsgivare, och kunna locka fler att ta och behålla jobb där. Liberalerna vill satsa på lönespridning, minska vårdpersonalens administrationsbörda, satsa på fortbildning - allt för att bli en hållbar arbetsgivare."
+      },
+      {
+        "category": "Äldremottagningar på alla vårdcentraler",
+        "description": "Vården måste anpassas efter att befolkningen blir allt äldre. Liberalerna vill ha äldremottagningar på alla vårdcentraler som samlar kompetenser och ser individens behov. Mobila vårdteam ska kunna göra hembesök hos äldre med stora vårdbehov, och kunna utföra specialiserad hemsjukvård, till exempel sätta dropp."
+      }
+    ],
+    "motivateVote": "Den som inte är frisk tvingas in i ofrihet. Var du kommer ifrån och var du bor ska inte avgöra hur bra din vård är, om du kan känna dig trygg i vardagen eller om du kan få stöd. Vi vill skapa jämlika förutsättningar för människor så att varje individ får god vård och att alla som arbetar inom vården har en god arbetsmiljö.",
+    "name": "Liberalerna Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-region-uppsala"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2311",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan handlar inte främst om privatisering. Det finns inget självändamål att privatisera vård på Akademiska sjukhuset. Miljöpartiet ser att det kan finnas fördelar med att viss bassjukvård kan hanteras av andra aktörer än Akademiska sjukhuset, såväl inom den egna verksamheten (t ex Lasarettet i Enköping eller primärvården) eller privata aktörer för att öka tillgänglighet och korta vårdköer.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppsala växer och det är viktigt att kollektivtrafiken byggs ut i takt med att befolkningen ökar. Det är bara spårväg som kommer klara av mängden resenärer på sikt, Uppsalas befolkningsökning är större än av vad busstrafik kommer klara i det stråket. Därför är det självklart att vi ska bygga spårväg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt knyta ihop Bålsta station med nya logistikparken som är stor arbetsgivare. Vi anser dock att det ska ske genom stadbussnätet. Det görs nu en översyn av stadsbussnätet i Bålsta tätort och MP anser att det är prioriterat att få bra kollektivtrafikförsörjning mellan Bålsta station och logistikparken. Det är också något som går att åtgärda i närtid, vilket inte är fallet med nya stationslägen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet har genom Malena Ranch (MP), ordförande i Vårdstyrelsen varit drivande att starta upp äldremottagningar och som nu breddinförs på samtliga vårdcentraler i länet. Målgruppen är 75 år och äldre, som har eller riskerar att få stora vårdbehov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att erbjuda en prisvärd taxa i kollektivtrafiken, taxorna i kollektivtrafiken har ökat betydligt mer än den generella prisökningen. Miljöpartiet anser att det ska införas en enzonstaxa för enkelbiljetter över hela länet, med rabatt för ungdom/student/pensionär. Samtidigt måste kollektivtrafiken då kompenseras för ev intäktsbortfall så att utbudet inte minskar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att stärka vården under graviditet, förlossning och eftervård. Idag är tillgången till vård ojämnt fördelad. En trygg graviditet och en positiv förlossningsupplevelse påverkar barnet och föräldrarna för resten av livet. Vi vill därför göra särskilda satsningar för att denna vårdkedja följs upp, utvecklas enligt bästa tillgängliga kunskap, och säkras.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "Regionen måste göra det lätt att göra rätt och främja hållbart resande. Därför vill vi att kollektivtrafiken ska ges mer resurser. Detta vill vi använda till att både utveckla trafiken och göra biljettsystemet enklare och mer prisvärt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Dagens nivå är rimlig. De privata vårdgivarna behövs också i vården. Samtidigt finns det ingen självändamål med att privatisera vården.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Målsättningen är att inte behöva höja skatten. Hälso- och sjukvård och kollektivtrafik behöver generellt mer resurser. Men vi ser helst att detta sker genom ökade anslag från statlig nivå, då det endast är personer med högre inkomster som betalar statlig inkomstskatt. En höjning av regionskatten påverkar alla invånare, även låginkomsttagare.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2124",
+          "2120",
+          "2123"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;A!;B;D!;B;C;3/5!;2/5;2/5;[2124,2120,2123]!",
+    "color": "#82c882",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Miljöpartiet vill se en koalition bestående av Miljöpartiet och andra partier som delar klimatambitioner och mål och som ser behov av åtgärder för ett mer hållbart Region Uppsala såväl ekologiskt som socialt. Region Uppsala ska med länets kommuner samverka för att tillsammans främja klimatarbetet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärka de hälsofrämjande insatserna och god tillgänglighet till den nära vården",
+        "description": "Region Uppsala tar ansvar för att driva på arbetet med jämlika livsvillkor och levnadsvanor tillsammans med länets kommuner och civilsamhället. Vi behöver stärka det hälsofrämjande och förebyggande folkhälsoarbetet samt trygga god tillgänglighet i primärvården och erbjuda riktad primärvård för sköra äldre och multisjuka. Dessa åtgärder förbättrar också situationen gällande akutsjukvården."
+      },
+      {
+        "category": "Främja de hållbara transportslagen i såväl städer, tätorter som landsbygderna",
+        "description": "Kollektivtrafikens andel av motoriserade resandet fördubblas till 2025 och andelen cykelresor i länet ska vara minst 20%. Fyrspår ska färdigställas Uppsala-Stockholm och järnvägsunderhåll kraftigt förbättras. Kollektivtrafik ska konkurrera med bil utifrån pris/restid, och cykelbarheten förbättras. I länets städer välutvecklad tillgänglig stadstrafik och i Uppsala kapacitetsstark spårväg och buss."
+      },
+      {
+        "category": "Ett klimatneutralt län med 100 procent förnybar energi",
+        "description": "Region Uppsala ska tillsammans med kommuner och aktörer arbeta med energieffektivisering och nå 100 procent förnybar energianvändning. En klimatfärdplan ska tas fram som visar vilka insatser som krävs för att klimatarbetet är i linje med Parisavtalets 1,5-gradersmål. Utbyggnad av laddinfrastruktur och tankställen samt produktion av förnybara drivmedel som t ex biogas och vätgas i länet."
+      }
+    ],
+    "motivateVote": "Miljöpartiet vill vara en röst också för de som inte kan göra sina röster hörda – klimatet, naturen, djuren, barnen och kommande generationer. Vår vision är ett hållbart samhälle där vi har mer tid för varandra och minskar vårt ekologiska fotavtryck. Ett samhälle som är ekologiskt och socialt hållbart, där klyftorna mellan människor i Sverige är små och resurserna i världen är rättvist fördelade.",
+    "name": "Miljöpartiet Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-region-uppsala"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2312",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att privatisera enskilda vårdavdelningar på Akademiska och det finns därför inget sådant förslag framlagt av något parti. Akademiska sjukhuset är ett forsknings- och undervisningssjukhus med en stor andel av högspecialiserad vård. Sjukhuset kommer därför alltid att vara i offentlig ägo. Moderaterna menar dock att man ska kunna upphandla vård av andra vårdgivare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan om det ska byggas spårväg i Uppsala eller inte ägs enbart av Uppsala kommun eftersom det är en stadsbyggnadsfråga. Region Uppsalas ansvarar för driften av kollektivtrafik och beslutad depålösning. Moderaterna anser därför att regionen ska leva upp till den ansvarsfördelning som finns och ansvara för driften av den nya kollektivtrafiken i Uppsala kommun och inte bestämma över kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppsala län tillhör en av Sveriges regioner med starkast tillväxt. För att kunna bibehålla den är det viktigt att vi tillhandahåller goda kommunikationsmöjligheter tillsammans med annan samhällsviktig service. Det är däremot Håbo-kommun som bestämmer om de vill att spåret ska förlängas och ansvarar för den investeringen inte regionen. Kommunen har inte tagit ställning i frågan i dagsläget. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna har tillsammans med samarbetspartier redan fattat beslut i frågan. Under 2023 ska breddinförandet slutföras av äldremottagningar vid länets alla vårdcentraler och utveckla ett hållbart utvecklingsstöd för arbetet med målgruppen. Vi har även påbörjat arbete med fast-läkarkontakt för våra äldre, det arbetet måste fortsätta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att dagens biljettpriser ligger på en rimlig nivå och att höjningar av priserna ska ske i den takt som behövs för att täcka ökade kostnader. Vår målsättning är att halva priset ska betalas av passagerarna och halva priset av skattebetalarna, eftersom vi vill uppmuntra folk att åka kollektivtrafik.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att arbetet som barnmorska är för tungt idag beror på att det är för få barnmorskor och på schemamodeller som inte är anpassade efter arbetsbördan. Med bra scheman och rätt arbetsuppgifter ska en barnmorska kunna arbeta heltid. Vi är öppna för barnmoskeledda enheter och vill att barnmorskor ska kunna rotera mellan förlossningen på Akademiska och barnmorskemottagningar för att få ökad variation.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att 50/50-finansieringen av kollektivtrafiken ska vara oförändrad. Det vill säga 50 procent av biljettpriset ska vara skattefinansierat medan resterande del ska finansieras av resenären. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "I läge med långa väntetider i vården får ideologiska skygglappar inte stå i vägen för att ge patienter vård i tid. Därför måste alla vårdgivare i hela Sverige användas för att minska väntetiderna i vården. För Moderaterna är det viktigare att du får bra och snabb vård med hög kvalitet snarare än vem som tillhandahåller den",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Moderaternas långsiktiga mål är lägre regionskatt. Detta kan uppnås om regionen får en långsiktigt hållbar ekonomi, att fler i Uppsala län jobbar och betalar skatt, att varje skattekrona används så effektivt som möjligt till kärnuppdraget. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": "Den nära vården måste byggas ut för att fler patienter ska få vård i tid. Det ska vara enkelt att komma i kontakt med din vårdcentral. Det innebär ökad digital kontakt. Tryggheten måste öka därför måste fler äldre  få en fast-läkarkontakt. Genom att förbättra arbetsmiljön och erbjuda karriärmöjligheter kan fler välja att jobba i vården vilket i sin tur ökar bemanningen och personaltätheten.",
+        "value": [
+          "2126",
+          "2121",
+          "2123"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A;B;C;D!;A;B;2/5;4/5!;2/5!;[2126,2121,2123]!",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi ser idag inga större stridslinjer med Moderaternas nationella politik. Som folkvald politiker i regionen jobbar vi primärt för boendes i Uppsala län och vi eftersträvar alltid ett större fokus på vår region och frågor som påverkar våra länsinvånare",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Moderaterna ämnar fortsätta styra regionen för och fortsatt jobba för att varje skattekrona gör nytta samtidigt som vi moderniserar sjukvården för att minska väntetiderna i vården och förbättra medarbetarnas arbetssituation. Under mandatperioden har Region Uppsala styrts av en blågrön koalition. Vi har tyckt att samarbetet fungerat väl och fortsätter gärna i samma spår. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård i tid, högre tillgänglighet och ökad valfrihet",
+        "description": "Sjukvården i vårt län håller en mycket hög kvalitet, men tillgängligheten till vården är för låg. Vi välkomnar alla idéer på hur köerna ska kunna kortas och vi stänger inte dörren för fristående aktörer. Framför allt vill vi göra patienterna mer delaktiga i att välja vård. En patient i Uppsala län ska ha rätt att välja vård i hela Sverige och ska få hjälp att välja av sin husläkare."
+      },
+      {
+        "category": "Vårdens och kollektivtrafikens medarbetare ska vara trygga och utvecklas ",
+        "description": "Medarbetarna är regionens viktigaste resurs och vi vill att de ska vara motorn i det moderniseringsarbete som regionen behöver genomgå. Arbetsmiljön inom vården måste bli bättre och den som anstränger sig extra genom att utbilda sig och ta ett särskilt ansvar för att förbättra verksamheterna ska belönas för det. Det ska vara möjligt att göra karriär och få en bra löneutveckling."
+      },
+      {
+        "category": "Fler digitala lösningar och förbättrad arbetsmiljö",
+        "description": "Region Uppsala måste ta ett digitalt kliv framåt. Du som patient ska inte behöva vänta i flera timmar för att få svar på bokningar eller andra frågor. De digitala läkartjänsterna blir en del i regionens vårdutbud. Man ska kunna ha sin husläkare i mobilen. Vi vill särskilt förbättra IT-miljön och minska onödig administrativt arbete så att vårdens medarbetare verkligen kan jobba med patienterna."
+      }
+    ],
+    "motivateVote": "Moderaterna går till val på att modernisera sjukvården för att minska väntetiderna i vården och förbättra medarbetarnas arbetsmiljö.\r\nVi har fyra prioriterade valfrågor:\r\n•\tVård i tid med patienten i fokus\r\n•\tMedarbetare ska trivas och utvecklas\r\n•\tAnvänd digitaliseringens kraft för att korta vårdköer\r\n•\tOrdning och reda i ekonomin – varje skattekrona ska användas på rätt sätt.\r\n",
+    "name": "Moderaterna Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-uppsala"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2313",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler sjuksköterskor och undersköterskor, inte fler privatiseringar. Varje privatisering kostar pengar. Det ökar administrationen, splittrar vården och gör sjukvården ännu krångligare att navigera i för patienter och anhöriga. För oss är valet väldigt enkelt: våra skattepengar ska gå till vården, inte till riskkapitalister och skatteparadis. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppsalas gator korkar igen redan idag. När fler väljer att bo i Uppsala så måste det finnas smidiga sätt att resa till jobb och skola. Spårväg är enligt utredningar det enda systemet som kommer klara av att transportera tillräckligt många Uppsalabor så att vi kan undvika trafikkaos i framtiden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget kräver statlig finansiering och skulle konkurrera med flera andra viktiga satsningar i länet, som fyra spår mellan Uppsala-Stockholm. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldres hälsa måste prioriteras. I takt med att vi lever längre måste vi också se till så att vi kan leva friska och goda liv. Vi vill att vårdcentralerna får ett utökat uppdrag och ersättning för att arbeta med äldres hälsa. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska taxorna i kollektivtrafiken hållas låga. Men ett tak på tio kronor skulle innebära att kostnaden för kollektivtrafiken ökar för regionen. Vi har begränsade resurser och vi har en sjukvård i kris. I det läget måste vi i så hög utsträckning som möjligt prioritera sjukvården. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den press och stress som barnmorskor i förlossningsvården utsätts för idag är ohållbar. Det vi måste göra är att se till så att vårdpersonalen orkar jobba heltid. Det gör vi genom att anställa fler barnmorskor och på riktigt införa en barnmorska per födande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver investera i vår kollektivtrafik så att fler kan ställa bilen och resa hållbart. Men vi har begränsade resurser och vi har en sjukvård i kris. I det läget måste vi i så hög utsträckning som möjligt prioritera sjukvården.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste ta tillbaka kontrollen över sjukvården. Därför vill vi stoppa pågående privatiseringar av Akademiska sjukhuset och Lasarettet i Enköping. Vi vill också titta på vilka verksamheter som borde tas tillbaka i regionens egen regi. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Idag försvinner pengar till fel saker. Pengarna finns, men de måste prioriteras till rätt saker. Vi måste sluta ösa ut pengar till privata företags vinstuttag, administration och dyra konsulter.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": "Vårdkrisen kan bara lösas genom mer personal. Fler ska vilja jobba i vår sjukvård och de som redan jobbar där måste vilja och orka stanna kvar. Därför måste vi satsa rejält på vårdpersonalen. Med mer personal kan vi också öppna fler vårdplatser. \r\n\r\nIdag får många barn och unga vänta alldeles för länge på att få hjälp när de mår dåligt. Vi måste korta köerna.",
+        "value": [
+          "2122",
+          "2120",
+          "2128"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;A;B;D;B;B;2/5;0/5!;2/5;[2122,2120,2128]!",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Det viktigaste är att Region Uppsala får ett styre med fokus på att prioritera vårdpersonalen. Vi vill se ett handlingskraftigt styre lett av Socialdemokraterna. Exakt vilka partier som ingår i styret kommer avgöras av valresultatet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Privatiseringsstopp på Akademiska sjukhuset och Lasarettet i Enköping",
+        "description": "Vi vill införa ett privatiseringsstopp på Akademiska och Lasarettet. Det inkluderar både nya privatiseringar och alla pågående och planerade privatiseringar. Uppsala läns sjukvård behöver inte fler dyra privatiseringar, det behövs investeringar i vårdpersonalen."
+      },
+      {
+        "category": "Bättre arbetsmiljö och höjda löner för vårdpersonalen",
+        "description": "Under allt för lång tid har det satsats för lite på de som jobbar i vården. Sjuksköterskor och undersköterskor säger upp sig på grund av dålig arbetsmiljö och hög arbetsbelastning. Det behövs rejäla satsningar på vårdpersonalen. Arbetsmiljön måste förbättras, kollegorna behöver bli fler och lönerna ska höjas."
+      },
+      {
+        "category": "Begränsa hyrpersonal i vården. Det ska endast användas vid tillfälliga behov.",
+        "description": "Idag kan en hyrsjuksköterska jobba på samma avdelning i år utan att bli anställd av regionen, med dubbelt så hög lön och mer makt över sitt schema än sina kollegor. Det dränerar regionens resurser och minskar utrymmet för löneökningar. Hyrpersonal ska användas vid kortare, tillfälliga behov. När en arbetsplats behöver förstärkas långsiktigt ska det krävas anställning i regionen."
+      }
+    ],
+    "motivateVote": "För att vi väljer sjukvården och vårdpersonalen före privatiseringar och administratörer. Vi kommer göra allt i vår makt för att stoppa personalflykten från vården och på riktigt lösa vårdplatskrisen. ",
+    "name": "Socialdemokraterna Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-uppsala"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2314",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inte principmotståndare till privatiseringar men de skall inte ske inne på sjukhuset.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett slöseri med skattemedel och en alldeles för oflexibel trafiklösning att lägga räls i marken, där det inte redan finns.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Spårinfrastrukturen finns ju redan, dessutom elektrifierad. Troligen erfordras lite mer utredning, och praktiska åtgärder innan det kan bli verklighet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart steg i att ha en välfungerande vårdkedja",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionen har en välfungerande kollektivtrafik som bygger på 50% finansiering via skattsedeln. Vi vill inte ändra på detta om det inte sker via statsbidrag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "En av flera möjliga lösningar för att göra det mer attraktivt att vara anställd i Region Uppsala",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "50% skattefinansiering är rimligt",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt att krav och uppföljning är väldigt bra, så vi kan kontrollera att vi får valuta för pengarna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": ": Med årsbokslutet 2021, som gav stor vinst, saknas motivation till skattehöjning",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2126",
+          "2122",
+          "2128"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;D;C;D;A;C;2/5;3/5;2/5;[2126,2122,2128]",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, men när det gäller införande av Hälsoenheter, så har SD i Region Uppsala en mer omfattande handlingsplan.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Sakfrågorna skall få huvudrollen, inte politiskt käbbel. Samarbetspunkter har under mandatperioden funnits med både styret och oppositionen. Mest gemensamt har vi haft med de partier som även på riksplanet för en dialog med oss. Så många förslag som möjligt i anslutning till vårt program skall bli verklighet, och vi har inga problem med att förstå att detta inte kan betyda \"allt till alla\".",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi tänker inte så. Vi vill ta de bästa besluten för våra uppdragsgivare=väljarna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hälsoenheter som första steg i vårdkedjan",
+        "description": "Hälso och sjukvården måste ta ett mycket större ansvar för den förebyggande vården. På åtminstone varje vårdcentral skall finnas en Hälsoenhet. Drop-in mottagning ökar medborgarnas tillgänglighet till vårdkedjans grundnivå.  Enkla åtgärder som blodtryckskontroll, kapillärprov, och urinprov ger snabb upplysning om hälsotillståndet. Patienten lugnas eller skickas vidare till nästa steg i vårdkedjan."
+      },
+      {
+        "category": "Verksamhetsplanering på kliniknivå",
+        "description": "Budgetering av både ekonomi och personal på kliniknivå, optimerar produktionen. Trivseln på arbetet ökas genom att de anställda på ”golvet” blir delaktiga i klinikens processer. Rekrytering underlättas, då det blir arbetsplatser man VILL jobba på. Resurser som skapas genom ökad klinisk personal, ger möjlighet för sjukhuset att öppna befintliga vårdplatser som är stängda på grund av personalbrist."
+      },
+      {
+        "category": "Planera bort Spårvägen.",
+        "description": "Vi vill gemensamt i Uppsala kommun och Region Uppsala verka för att inte exploatera Södra staden enligt förslaget, samt att ej bygga en spårväg.  Projektet kommer leda till en för snabb expandering av staden och leda till nya utanförskapsområden. Spårvägen blir en dyr investering med dålig beläggning. Busslinjer från närområdena till ett busscentrum vid Uppsala Södra är bättre och mer flexibelt."
+      }
+    ],
+    "motivateVote": "Skattebetalarna skall få full valuta för sina pengar. Hälso- och sjukvården måste förändras så att personalbristen och deras trivsel åtgärdas, samtidigt som köbildning i vården bekämpas från de rätta hållet, nämligen att färre hamnar i köerna. Regionens utveckling med trafik, turism och forskning måste ledas på ett optimalt sätt, och krisberedskap och planering skall vara god.",
+    "name": "Sverigedemokraterna Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-uppsala"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2315",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+        "questionType": "PROPOSITION",
+        "reasoning": " 1) Privatiseringar blir alltid dyrare till slut då företagen måste ta ut en vinst. \r\n 2.) Sjukvården blir svårare att styra och mindre effektiv när det splittras. Det kräver fler administratörer - pengar vi vill lägga på vårdpersonal istället. Det försvårar för forskning och utbildning.\r\n3.) Det öppnar upp för gräddfiler i vården, då privata vårdgivare tar patienten som kan betala mest först.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste börja åka mer kollektivt för att vårt resande ska vara hållbart ur klimatsynpunkt. Då är spårväg det mest framtidssäkra och effektiva alternativet . ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47b82433200d701c99d984973481971e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns alltid skäl att fundera över hur vi kan bygga ut trafikinfrastrukturen för att anpassa den till folks behov. Många människor kommer att jobba i närheten av Bålsta logistikpark och en förlängning av pendeltågsspåret vore en smidig lösning. Det är dock en fråga om vem ska ta kostnaden för det. Det blir antagligen för kostsamt för Region Uppsala eller Håbo kommun. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "550cf850724d8a24c9073778b7177938",
+        "questionType": "PROPOSITION",
+        "reasoning": "Pandemin visade att vården för äldre behöver bli mycket bättre. Bland annat behöver vi satsa mer på vårdcentralerna. Metoden \"äldremottagningen\" (som egentligen handlar om ett förebyggande arbete riktat mot äldre med risk av att utveckla ohälsa) har visat sig fungerar jättebra i andra län, till exempel i Region Östergötland.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "74d0c107bea851bd7ea20c23377f1300",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatkrisen kräver av oss att vi blir fler som åker kollektivt istället för att ta bilen. Då måste priset komma ner. Det är dyrt att åka buss eller tåg (27 kronor enkel resa inom en zon med reskassa). I Wien kan man köpa ett årskort som kostar 10 kronor om dagen - det har gjort att fler åker kollektivt. Idag finns det fler årskort än bilar i Wien, och kollektivtrafikens intäkter har ökat.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a495f6fb5ec589027115bc9bdca8379d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill införa seniortjänster för bland andra barnmorskor där äldre medarbetare erbjuds att gå ned i arbetstid med bibehållen lön och får lägga mer tid åt handledning. Det gör att fler vill och orkar arbeta några år längre, samtidigt som mindre erfarna barnmorskor får mer stöd. Vi ser också positivt på försök med generell arbetstidsförkortning på arbetsplatser på sjukhusen i länet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc94830af8d04e035de96d9da6a171a9",
+        "questionType": "RANGE",
+        "reasoning": "I vårt budgetförslag för 2023 lägger vi 100 miljoner mer på kollektivtrafiken än andra partier. Det gör vi för att vi tar klimatkrisen på allvar. Fler måste åka kollektivt istället för med bilen, och då behöver vi både bygga ut kollektivtrafiken och sänka priserna. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "41f735bd6c13a69a2edb979554e51638",
+        "questionType": "RANGE",
+        "reasoning": "Sjukvården ska inte drivas av privata företag med vinstintressen. En sammanhållen och offentligt ägd sjukvård är garanten för en snabb, jämlik och effektiv sjukvård med högkvalitativ utbildning, forskning och vård av patienterna.  Dagens sönderprivatiserade sjukvård har istället skapat gräddfiler, långa köer och en dålig arbetsmiljö för personalen, ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+        "questionType": "RANGE",
+        "reasoning": "Vi föreslår en skattehöjning med 50 öre för 2023. Det ger 500 miljoner mer som kan satsas på ordentlig finansiering av sjukvården, stopp för besparingar som går ut över patienter och personalen, och på bättre och billigare kollektivtrafik. Någon måste ta ansvar för sjukvården och klimatet! Dock hoppas vi på Vänsterpartiet i regeringen, och att vi ska slippa höja regionskatten när staten satsar.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ddaac420999feec1bdfd4f8052e67fba",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2124",
+          "2120",
+          "2128"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;A;C;D;D!;D!;4/5;0/5;3/5;[2124,2120,2128]!",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill helst se ett samarbete med Socialdemokraterna och Miljöpartiet, men vi är beredda att samarbeta med alla partier förutom SD om det ökar resurserna till sjukvården och sänker priserna i kollektivtrafiken.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer resurser till vården",
+        "description": "Hela vården lider av resursbrist.  Det har blivit särskilt tydligt under och efter pandemin, men problemen är inte nya. De kommer sig av decennier av underfinansiering, sparkrav och marknadspolitik. Vården behöver stora resursökningar. Bara så kan vi komma till rätta med dålig arbetsmiljö, brist på vårdplatser på Akademiska och långa vårdköer."
+      },
+      {
+        "category": "Satsa på personalen",
+        "description": "Personalen är det viktigaste Region Uppsala har. För att fler ska vilja och orka arbeta kvar inom vården krävs omfattande satsningar på arbetsmiljön. Personal ska garanteras återhämtning och tillräckligt många kolleger. Vi vill införa kortare arbetstid samt göra en lönesatsning på kvinnodominerade yrkesgrupper där många halkat efter lönemässigt, särskilt de erfarna."
+      },
+      {
+        "category": "Utökad och billig kollektivtrafik – för klimaträttvisa ",
+        "description": "Klimatkrisen är vår tids största fråga. Att göra kollektivtrafiken billig och mer tillgänglig är nödvändigt, och bidrar till en levande landsbygd och renare luft i staden. Alla ska ha råd att åka kollektivt. Vi vill bland annat införa ett årskort som kostar en tia dagen, enligt en framgångsrik modell från Wien. Vid trafikplanering ska hållbart resande med tåg, buss och cykel prioriteras."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är partiet som får saker gjorda i politiken.  Vi menar det vi säger och vi gör så mycket vi kan. Och vi behövs i Region Uppsala efter åratal av högerpolitik, Det är dags att satsa på sjukvården och personalen, och på klimatet och kollektivtrafiken.",
+    "name": "Vänsterpartiet Region Uppsala",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-uppsala"
+  }
+]

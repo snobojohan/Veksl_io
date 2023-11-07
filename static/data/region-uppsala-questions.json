@@ -1,0 +1,146 @@
+[
+  {
+    "altingetId": "4894",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "d9ba72147ce562a2ebf7070ff7ca7ffe",
+    "slug": "ingen-mer-vard-pa-akademiska-sjukhuset-ska-privatiseras",
+    "title": "Ingen mer vård på Akademiska sjukhuset ska privatiseras",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4895",
+    "description": "Nästa år väntas bygget av en spårväg i Uppsala börja. Bygget ska vara klart 2029 och då ska spåret trafikeras med spårvagnar. Vissa partier motsätter sig  byggplanerna.",
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "2bf87e1b75ad3c6aea8d24acec0e60fe",
+    "slug": "arbetet-med-att-bygga-sparvag-i-uppsala-ska-stoppas",
+    "title": "Arbetet med att bygga spårväg i Uppsala ska stoppas",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4896",
+    "description": "Syftet är att underlätta för arbetspendlare att ta sig till logistikparken.",
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "47b82433200d701c99d984973481971e",
+    "slug": "pendeltagssparet-i-balsta-ska-forlangas-till-logistikparken",
+    "title": "Pendeltågsspåret i Bålsta ska förlängas till logistikparken",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4897",
+    "description": "Syftet är att samla olika kompetenser inom geriatrik, sjukdomar hos äldre, på samma avdelning.",
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "550cf850724d8a24c9073778b7177938",
+    "slug": "aldremottagningar-ska-inforas-pa-alla-vardcentraler",
+    "title": "Äldremottagningar ska införas på alla vårdcentraler",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4898",
+    "description": "Den så kallade Wien-modellen innebär att invånarna får göra hur många resor de vill i kollektivtrafiken för en euro, ungefär tio kronor, om dagen. Ett månadskort kostar då ungefär 305 kronor.",
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "74d0c107bea851bd7ea20c23377f1300",
+    "slug": "resenarer-i-kollektivtrafiken-ska-betala-hogst-tio-kronor-om-dagen",
+    "title": "Resenärer i kollektivtrafiken ska betala högst tio kronor om dagen",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4899",
+    "description": "Syftet är att förbättra arbetsmiljön för de anställda och göra arbetsplatsen mer attraktiv för att öka möjligheterna till nyrekryteringar.",
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "a495f6fb5ec589027115bc9bdca8379d",
+    "slug": "barnmorskor-i-forlossningsvarden-ska-erbjudas-forkortad-arbetstid-med-heltidslon",
+    "title": "Barnmorskor i förlossningsvården ska erbjudas förkortad arbetstid med heltidslön",
+    "type": "PROPOSITION"
+  },
+  {
+    "altingetId": "4900",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "fc94830af8d04e035de96d9da6a171a9",
+    "positions": [
+    ],
+    "slug": "hur-mycket-skattemedel-ska-regionen-satsa-pa-kollektivtrafik",
+    "title": "Hur mycket skattemedel ska regionen satsa på kollektivtrafik?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4901",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "41f735bd6c13a69a2edb979554e51638",
+    "positions": [
+    ],
+    "slug": "hur-mycket-av-sjukvarden-ska-drivas-av-privata-foretag",
+    "title": "Hur mycket av sjukvården ska drivas av privata företag?",
+    "type": "RANGE"
+  },
+  {
+    "altingetId": "4902",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "a8ff223f4f9bbbb0c4b326d33b4e97a9",
+    "positions": [
+    ],
+    "slug": "hur-mycket-ska-medborgarna-betala-i-regionskatt",
+    "title": "Hur mycket ska medborgarna betala i regionskatt?",
+    "type": "RANGE"
+  },
+  {
+    "alternatives": [
+      {
+        "id": "2125",
+        "title": "Avsätta mer pengar till att fortbilda vårdpersonal"
+      },
+      {
+        "id": "2124",
+        "title": "Avsätta mer resurser till förlossningsvården"
+      },
+      {
+        "id": "2126",
+        "title": "Erbjuda drop in för enklare kontroller på vårdcentralerna"
+      },
+      {
+        "id": "2121",
+        "title": "Erbjuda patienter på vårdcentralen en fast läkarkontakt"
+      },
+      {
+        "id": "2122",
+        "title": "Göra en lönesatsning för att höja vårdpersonalens löner"
+      },
+      {
+        "id": "2127",
+        "title": "Installera laddstolpar för elbilar på alla sjukhusparkeringar"
+      },
+      {
+        "id": "2120",
+        "title": "Lägga mer resurser på att korta köerna till barn- och ungdomspsykiatrin"
+      },
+      {
+        "id": "2128",
+        "title": "Skapa fler vårdplatser på Akademiska sjukhuset"
+      },
+      {
+        "id": "2123",
+        "title": "Öka personaltätheten inom vården"
+      }
+    ],
+    "altingetId": "4903",
+    "description": null,
+    "electionType": "region",
+    "electionTypeSlug": "region-uppsala",
+    "id": "ddaac420999feec1bdfd4f8052e67fba",
+    "slug": "vilka-av-foljande-forslag-ska-min-region-prioritera",
+    "title": "Vilka av följande förslag ska min region prioritera?",
+    "type": "PRIORITY"
+  }
+]

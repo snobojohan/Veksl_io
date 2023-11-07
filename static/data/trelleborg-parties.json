@@ -1,0 +1,1293 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1833",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte finansieringen klar och ej heller Trafikverket, de som ska ha ansvar för nationella vägar i Sverige.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att inte bygga miljösmart är direkt dumt. Självfallet ska kommunen vara ett föredöme.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte på den placeringen. Däremot ser vi gärna att vi utvecklar häktet, vi tror att det kan fördubblas. Det ovärdigt att ianspråkta så mycket fin jordbruksmark, på ett objekt som har alternativ för sin placering.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är egentligen inte så enkelt. Vi vill till exempel INTE tappa kontrollen över hamnen, allmännyttan. Men annars i princip.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre med valfrihet, det valet kan eleverna själv göra. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att jobba med löneutveckling, schemaläggning och kompetensutveckling.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska egentligen inte vara nödvändigt. Men vi är inte emot. Tvärt om.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör hellre vara upp till staten att stödja den utvecklingen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut, vi vill ha flera olika vårdgivare. Vi menar att vårt uppdrag snarare ska vara fokus på tillsyn att de som driver verksamheten håller måttet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är nog nödvändigt, den typen av tekniksprång behöver stöd av samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot solidarisk. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Det som ska driva skolor i Trelleborg ska primärt vara bra och välfungerande, mindre fokus på driftsformen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Det finns flera utvecklingsdelar som vi behöver satsa på. Men vi har många verksamheter som behöver prioriteras.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Vårt mål är att vi ska ta ut \"rätt\" skatt. Vi ska debitera det som är nödvändigt. Nu gör vi den bedömningen att vi är på någorlunda rätt nivå.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B!;D!;A!;C;B;A;C;B;D;D;B;2/5;3/5;2/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser fram emot ett inkluderat och demokratiskt styre. Ett styre som har medborgarnas främsta för ögonen. Där ordning och reda är ledorden. Vi vill vara med och leda kommunen med alls lika rätt och värde som målbild. Ett humant och liberalt fokus helt enkelt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ytterkantspartier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Smart och hållbart byggande",
+        "description": "Jordbruksmarken är en av vår kommuns viktigaste och värdefullaste resurser. Centerpartiet vill vara med och utveckla kommunen UTAN att ta jordbruksmark i anspråk om det inte är absolut oundvikligt. Då får man prioritera hårt och bygga smart. Så ett fängelse där det är planerat är fel."
+      },
+      {
+        "category": "Satsa mer på skolan",
+        "description": "Vi behöver skolor i hela vår kommun. Vi behöver resurser för lärandet, för tryggheten i skolan och för elevhälsan. Vi vill värna skolorna i Alstad och Klagstorp. Det duger inte att ligga i botten i rankingar. Det duger inte att lägga ned mindre förskole enheter och skapa alltför stora opersonliga. Vidare vill vi utöka antalet timmar i förskolan för föräldralediga barn."
+      },
+      {
+        "category": "Förbättra demokratin i Trelleborg",
+        "description": "Politiken ska vara tjänare till folket. När en stor del av Trelleborgarna önskar att tycka till i bland annat en folkomröstning, ska det ske med respekt och om det är nödvändigt även raskt. Så är inte fallet än. Det måste vi anstränga oss än mer för. Vi vill förbättra kommunikationen mellan Trelleborgaren och politiken. Vi vill även införa ett ungdomsfullmäktige för öka stödet till folkbildningen."
+      }
+    ],
+    "motivateVote": "Rösta på Centerpartiet för att du vill att Trelleborg ska utvecklas hållbart. Vi vill att hela kommunen, staden och landsbygden ska leva och utvecklas. Skolan är vår viktigaste fråga, där läraren och elevhälsan är viktiga att satsa på. Jordbruksmarken är viktig att hantera ansvarsfullt. Inget fängelse vid tomatodlingen. Tryggheten i kommunen måste värnas. Sist så är näringslivsutveckling prio.",
+    "name": "Centerpartiet Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-trelleborg"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1834",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser östra Ringvägen som en förutsättning för att kunna fortsätta utveckla Trelleborgs stad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att alla nybyggen ska vara det senaste inom både miljö och byggteknik.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fängelset i Trelleborg är en förutsättning för att vi som samhälle ska skapa platser för de som döms till fängelse. Vidare så skapas det ett 100 tal nya arbetstillfällen i kommunen. Statliga myndighet ger en trygg grund att bygga på.\r\nVidare så är det så att en statlig myndighet lockar till sig fler statliga myndigheter. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de segment där det privata näringslivet kan utföra samma tjänst till samma eller bättre kvalitet bör det utredas.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en valfrihet inom skolan. Barn som inte vill äta kött slipper och de som vill äta kött ska ha samma möjlighet. Barnen behöver protein och närproducerad mat.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstidsförkortning gör personal ska hinna samma saker på kortare tid, vilket skapar ofrivillig stress och dålig arbetsmiljö. Personalen behöver tid att hinna med och att kunna återhämta sig.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skapar förutsättningar för stor förvirring. De folkvalda har mandat att driva frågor viktiga för kommunen.  Vi har val vart 4 e år där väljare ger oss mandatet. Är man missnöjd så röstar de emot.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser hellre att det skapas förutsättningar för de privata fastighetsägarna att skapa billiga lägenheter via styrande avtal och upphandling.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är viktigt. Viktigt också att mäta kvalite och arbetsmiljö.\r\nAtt vi som kommun har stor insyn i de privata företagens kvalites arbete.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD Trelleborg vill absolut driva detta som en fråga via Trelleborg energi. Vi måste skapa förutsättningarna för att alla som vill ha elbil ska kunna ha detta. Även om man inte bor i centrum av Trelleborg. Landsbygden behöver också hjälp med denna utveckling.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att nivån för flykting mottagning måste stå i paritet med de resurser som vi faktiskt har i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att en lagom nivå är den som finns idag . Skolan behöver båda delar.\r\nFör oss är valfrihet, arbetsmiljö och kvalité viktigare än vem som driver det.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser detta som en förutsättning för att fortsätta vara en attraktiv kommun för inflyttning. Kommunen kommer att växa och då är det viktigt att kulturen får utrymme att växa med.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Genom en tydlig strategi har vi fått budget i balans, vi avser fortsätta på denna väg. Med en stor omvärldsbevakning kan vi också skapa möjligheter för att kanske sänka skatten ytterligare.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2586",
+          "2592",
+          "2590"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D!;C;A!;B;B;B;D;D!;C;2/5;4/5;1/5;[2586,2592,2590]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej , vi verkar för ett och samma mål.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill verka för ett starkt styre med tydligt mandat. Som parti är vi måna om att tala med alla partier i ambition att alla jobbar på uppdrag av sina väljare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har ambitionen att verka genom samtal och samarbete. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Gasverket 2.0",
+        "description": "Genom att arbeta för att återstarta ungdomsverksamhet likt Gasverket vill vi fånga upp alla ungdomar som genom sina intressen inte vill vara inom idrotten. Vi ser också att detta kan hjälpa oss att se ungdomar på glid ."
+      },
+      {
+        "category": "Utöka elevhälsan ",
+        "description": "Genom att stärka det förebyggande arbetet mot psykisk ohälsa i tidigt stadie.\r\nTeam med kurator ,mfl vill vi jobba över alla gränser. Stoppa mobbingen genom tidiga och tydliga insatser."
+      },
+      {
+        "category": "Äldre kontakt. 24/7",
+        "description": "Vi vill ge de äldre möjligheten att få hjälp dygnet runt alla årets dagar .Ett nummer som gör att de når en samhällsjour som sedan kopplar dem vidare."
+      }
+    ],
+    "motivateVote": "KD Trelleborg står för en trygg utveckling av kommunen. KD Trelleborg arbetar aktivt för att stärka besöksnäringen,skolan och äldreomsorgen.\r\nVi vill arbeta med trygghet och att fortsätta utveckla landsbygden och centrum.",
+    "name": "Kristdemokraterna Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-trelleborg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1835",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan om östlig ringväg har utretts väl och det finns en tydlig politisk majoritet för byggande av östlig väg. Det finns också en avsiktsförklaring med Trafikverket om östlig ringväg. Det är dags att börja bygga ringvägen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att omfamna ny teknik och moderna lösningar, integreras miljötänk naturligt i kommunens byggprojekt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kriminalvården behöver byggas och frågan har kommit till Trelleborg om att få bygga ett fängelse här. Liberalerna står upp för lag och ordning, vilket leder till ökat behov av fängelseplatser. Rätt utformat behöver ett fängelse inte ge så stort intryck i stadsbilden. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som utgångspunkt skall kommunen inte konkurrera med det privata näringslivet, men det förutsätter att den privata marknaden är väl fungerande. På en icke fungerande privat marknad, har kommunala bolag en mycket viktig roll att spela. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elever skall inte tvingas till viss kost i skolan. Skolmåltiden spelar en viktig roll för lärande och skall vara tilltalande för eleverna. Om eleverna efterfrågar köttfria måltider, är det helt okey att erbjuda detta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver se till att förbättra förutsättningarna för vårdpersonalen och göra yrket attraktivt. Samtidigt innebär sex timmars arbetsdag att det skulle behövas många fler personer, personer som i dagsläget inte finns. Först behöver vi fler inom vården för att avlasta och se till att personalen mår bra. Samtidigt hoppas vi att möjligheterna för detta kanske kan finnas i framtiden. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar kan vara ett väldigt bra verktyg för att ta reda på vad allmänheten tycker i vissa särskilda frågor. Samtidigt är folkomröstningar i huvudsak användbara när valdeltagandet är högt och intresset för frågorna stort, vilket begränsar hur många frågor som kan hanteras genom folkomröstningar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan ska finnas till för att bidra till kommuninvånarnas möjligheter. Samtidigt ska inte kommunen i onödan konkurrera mot privata aktörer där marknaden är fungerande. Kommunen växer snabbt, samtidigt vill vi se till att billiga boendelösningar finns kvar i kommunen för de som behöver det. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att erbjuda brukare olika möjligheter gagnar samtliga. Kvalitet och brukarens bästa ska vara i fokus, inte vem som driver verksamheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag görs stora satsningar på elbilar och elektriska alternativ. Många aktörer är aktiva och involverade, och i dagsläget ser vi inte att det finns ett behov av att kommunen ska vara ansvarig för den utbyggnaden som redan sker. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fokus bör ligga på att kommunen har resurser för att hantera flyktingar på ett bra och effektivt sätt. Kommunen behöver ta sin del av det gemensamma ansvaret som vi har, samtidigt som vi ska kunna ge bra möjligheter för att bli en del av samhället. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att det ska finnas ett brett utbud av olika utbildingstyper för att det ska finnas något som passar varje individ. Vi tror dessutom att utökad konkurrens säkerställer en hög kvalitet. Samtidigt betyder blandningen av privata och offentliga aktörer att vi måste ställa höga krav och säkerställa att kvaliteten är hög. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig del av fritiden. Trelleborgs kultur har blivit eftersatt samtidigt som mycket annat förbättrats. Exempelvis vill vi se att kulturskolan byggs ut och att kulturen får bättre möjligheter för att visa upp och utöva sina olika områden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Liberalernas fokus är att det ska finnas nog med resurser för att hålla en hög kvalitet inom kommunens områden. Samtidigt ser vi att vi har en stark ekonomi vilket möjliggör för skattsänkningar. Vi är övertygade om att Trelleborgarna själva bäst hanterar sina intjänade pengar. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": "Trelleborg ligger idag långt ned på skolrankingen. Betydligt sämre än flera av våra grannkommuner. Vi vill genom satsningar på skolanse till att ge bättre möjligheter för att vidareutvecklas och för varje elev att uppnå sin potential. För det behöver vi satsningar på fler lärare, avlastning av lärarna och satsningar på elevhälsan.",
+        "value": [
+          "2586",
+          "2590",
+          "2588"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;C;C;B;B;C;B;D;B;B;3/5;3/5;1/5;[2586,2590,2588]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, Liberalerna på lokal nivå har samma uppfattning som Liberalerna på riksnivå. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna vill att styret efter valet 2022 skall kännetecknas av borgerliga värderingar och borgerlig politik. Fokus bör ligga på effektivt förvaltande av skattemedel för att hantera framtidens stora utmaningar. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partierna på den politiska ytterkanten samt partier som ställer ultimativa krav.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fokus på kommunal kärnverksamhet",
+        "description": "Efter en period med fokus på beslut av många utvecklingsprojekt, så behöver den kommunala verksamheten komma i fokus. Vård, skola och omsorg med också teknisk service behöver lyftas. Medborgarna måste känna tillit till att den kommunala servicen fungerar och levererar rätt kvalitet."
+      },
+      {
+        "category": "Bygg ringvägen nu",
+        "description": "Frågan om Östra ringvägen har utretts och beslut om planer för ringvägen har upprättats och beslutats av fullmäktige. Så fort planerna har antagits, så vill vi att beslut fattas om att påbörja projektering och byggande av ringvägen. Vi vill att fullmäktiges beslut om att ringvägen öppnas för trafik 1 jan 2026 skall respekteras."
+      },
+      {
+        "category": "Skolan först.",
+        "description": "Skolan är en av de absolut viktigaste delarna i ett samhälle. Skolan lägger en grund för både det sociala och det yrkesmässiga. Det erbjuder en plats för lärande och gemenskap. En bra skolgång är en av de viktigaste investeringarna vi kan göra inför framtiden. \r\n\r\nDärför vill vi prioritera fortsatta satsningar inom skola för lärare och elevhälsan."
+      }
+    ],
+    "motivateVote": "En röst på Liberalerna är en röst för ett borgerligt styre med liberala förtecken. Vi prioriterar skolan och vill tillsammans med borgerliga partier fortsätta driva Trelleborgs utveckling. Politiken skall präglas av kloka och genomtänkta beslut, med fokus på kommunal kärnverksamhet och ansvarsfulla ekonomiska beslut. ",
+    "name": "Liberalerna Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-trelleborg"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1836",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trelleborg behöver färre lastbilar, inte mer vägar. Styrets planer på östlig ringväg, ny västlig ringväg samt östlig infart och lastbilsparkering har en samlad kostnad på över 1000 miljoner kronor. Kommunen har skrivit \"medfinansieringsavtal\" med Trafikverket där kommunen tar 100% av kostnaden och Trafikverket 0%. Kommunens resurser behövs mer inom skola, vård och omsorg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljötänk leder ofta till långsiktiga ekonomiska vinster. Större miljötänk minskar slit och släng mentaliteten och är i grunden nödvändigt för mänskligheten. Byggsektorn är en väldigt viktig aktör för att nå ett mer hållbart och miljösmart samhälle. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jättefängelser blir inte bättre för att de läggs på Sveriges bästa åkermark. Åkermarken och kulturlandskapet ska prioriteras. Trelleborgs kommun måste agera smartare än att satsa på etableringar som ger så få jobb per yta såsom det enorma fängelset ger.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trelleborgs kommun har relativt få bolag som konkurrerar med det privata näringslivet i jämförelse med andra kommuner. Däremot ska kommunen öppna upp och utveckla sina upphandlingar och hantera det kommunala bolaget hamnen på mer marknadsmässig grund.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grunden är det positivt att äta mer vegetariskt, men att införa obligatoriska köttfria dagar är fel fokus anser vi. Vi vill fokusera på god, hälsosam och klimatsmart mat, vilket kommer vara bra för både elev och planet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är positiva till att sänka arbetstiden, men ser att detta behöver göras successivt över tid.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Styret i Trelleborgs kommun har varit dåliga på att lyssna in kommuninvånarna. Styret i Trelleborgs kommun har varit dåliga på att lyssna in kommuninvånarna. Stora frågor avgörs utan att det varit val emellan att frågan väckts och beslutet klubbas. Därmed minskar medborgarnas inflytande vilket det behöver det bli ändring på.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan är viktig för att minska segregationen och möta den mänskliga rättigheten att få tak över huvudet. I nya stadsdelar som sjöstaden är det viktigt att personer med olika storlekar på plånboken och olika förutsättningar kan bo.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många anställda inom de privata bolagen som gör mycket viktiga insatser för de äldre i Trelleborg. Samtidigt är det dåligt när stora vinstdrivande företag gör stora pengar på skattemedlen som ska gå till vård och omsorg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att möjliggöra för fler att satsa på elbil är laddinfrastrukturen viktig. Kommunen får renare luft, mindre buller och bidrar till mindre klimatpåverkan om fler byter bensin- eller dieselbilen till elbil, bio- eller vätgas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trelleborg ska dra sitt strå till stacken när krisen är framme och asylsökandet ökar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Nyligen erbjöds en privat aktör extra stöd i mångmiljonbeloppet för att göra samma sak som de kommunala skolorna gör. Så ska det inte gå till. Mer resurser ska satsas på skolan. Dessa resurser ska inte leda till att stora skolkoncerner ska kunna gå med större vinst, utan till att ge bättre förutsättningar för eleverna och personalen i skolan.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är central för ett levande och välmående samhälle. Med de stora överskott kommunen gjort de senaste året finns det stort utrymme att satsa mer på kulturen i Trelleborg. Miljöpartiet vill bland annat stärka kulturskolan, studieförbunden, museet och biblioteket i Trelleborg.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Idag satsar Trelleborgs kommun minst av alla kommuner i Sverige på grundskola. Det kommer stå Trelleborg dyrt. Vi kanske kan klara av att satsa mer på skola, vård och omsorg genom att satsa mindre på östlig infart och ringvägar. Men vi utesluter inte att skattesatsen tar ett litet steg närmare nivåerna i Malmö och Lund för att satsa mer på den offentliga servicen i Trelleborg.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": "Att satsa mer på skolan är vårt största vallöfte. Vi säger nej till att satsa 1000000000 på hamntrafikens bekymmer och vill istället minska lastbilsflödet genom Trelleborg. Vi värnar åkermarken och slättens kulturmiljö genom att säga nej till ett jättefängelse som ger väldigt få jobb i förhållande till dess enorma storlek. Vi satsar mer på kultur, fritid och arbetet med lika rätt och jämställdhet.",
+        "value": [
+          "2586",
+          "2590",
+          "2591"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D;A!;B;B;C;C;D;B;D;A;0/5!;4/5;3/5;[2586,2590,2591]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad vi kan se.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kan göra större skillnad om vi är med och styr. Ett brett samarbete med MP, S, C, och eventuellt V och VS om det behövs, tror vi kan nå en majoritet i fullmäktige. Det vore önskvärt då en majoritet kan leverera mer politik än en minoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, M och KD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer resurser till skolan",
+        "description": "Att satsa på skolan är att satsa på framtiden. Barnen och personalen är värda mer än idag. I vår senaste budget satsade vi i särklass mest av samtliga partier på skolan. 50 miljoner mer än styret. Att satsa mer på skolan är vårt största vallöfte."
+      },
+      {
+        "category": "Färre lastbilar genom eller runt Trelleborg",
+        "description": "Antalet lastbilar igenom Trelleborg ökar rejält. Dessutom får Trelleborgs skattebetalare stå för miljardnotan när ny östlig infart, orimligt dyr östlig ringväg och en ytterligare västlig ringväg ska byggas. I Miljöpartiets Trelleborg är det hamntrafik och staten som betalar dyra hamntrafikvägar. Istället för att kraftigt öka lastbilstrafiken vill vi minska den med mer gods på spår och sjöväg."
+      },
+      {
+        "category": "Ja till Sveriges bästa jordbruksmark och nej till att bygga jättefängelse på den",
+        "description": "Tyvärr är Sverige bara självförsörjande till 50% vad gäller mat. Trelleborg har landets bäst åkermark. Att då lägga ett jättefängelse mot en stark folkvilja på vackra Söderslätt blir helt fel. Fängelset ger få jobb i förhållande till sin enorma yta. Tillsammans med ringväg och fängelse försvinner ca100 hektar av prima åkermark. Miljöpartiets tar ansvar genom att värdera marken som föder oss högre."
+      }
+    ],
+    "motivateVote": "Vill du satsa mer på skolan i Trelleborg ska du rösta på oss. Vi är också en stark röst mot att kommunens resurser går till hamntrafikens utmaningar istället för skola, vård och omsorg. Vi värnar Söderslätt och åkermarken och vill inte bygga jättefängelse. Vi tar kampen för miljö, klimat, lika rätt och jämställdhet. Trelleborg ska bidra att hitta nya bättre lösningar för ett hållbart samhälle.",
+    "name": "Miljöpartiet Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-trelleborg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1837",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så att vi kan bygga kuststad",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är i dagens samhälle en självklarhet och vi har satsat och kommer att fortsätta satsa på Vätgas och byggnad av detta.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommer att innebära 450 nya arbetstillfälle, bra för det lokala näringslivet och att sjukvården i Trelleborg måste utöka med bla dygnet runt öppen akutmott samt ambulans.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bolag som inte har med kommunens kärnverksamhet att göra skall avvecklas till det privata tex Statsnärt som vi sålt av.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kött eller Fisk skall alltid finnas som alternativ till de som vill ha detta.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har påbörjat en heltidsresa i Trelleborg där alla skall ha möjlighet att arbeta heltid. Tycker också att ur ett likabehandlings perspektiv inte detta är bra hur skall vi då hantera LSS skolan renhållning mm",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en demokratisk process där KF är satta att fatta beslut som representerar det val som Trelleborgarna gjort.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall i så fall göra detta via Trelleborgs Hem AB och ägardirektiven skall styra detta. Vi skall inte ge oss in i bostadsmarknaden och påverka privata aktörers möjlighet att etablera sig i Trelleborg. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är den viktigaste frågan helt ideologiskt för oss Moderater.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ju en nationell fråga och vi tycker att Sverige skall ta emot mindre flyktingar då vi har problem med integrationen. Tycker dock att Trelleborg skall ta sin del av flyktingar som fördelas jämt över landet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Valfrihet, kvaliets aspekter och att konkurrans alltid är bra.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Vuxna personers fritidsintresse skall bekostas av vuxna människor med den peng som vi lägger skall framför allt gå till ungdomskultur.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Med tanke på omvärlden så kan vi inte sänka skatten nu.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2586",
+          "2592",
+          "2589"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;C;A;A;A;B;D!;D;C;3/5!;2/5;2/5!;[2586,2592,2589]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Möjligen byggnation på åkermark",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Många öppna dörrar och de som bor i Trelleborg bestämma.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V, S, Lokalt parti som heter Vårt Söderslätt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förenkla byråkrati får medborgarna",
+        "description": "Bygglov över disk, anmäl en regel tidsbegränsa policy, regler mm som fattas i framtiden"
+      },
+      {
+        "category": "Stark Ekonomi",
+        "description": "Vi har på 4 år vänt ett starkt underskott till att Trelleborgs kommun har en mycket stark ekonomi med rating AA+ stabil vilket gör att vi har de bästa förutsättningarna för att utveckla stan och stå emot den ekonomiska läget pga omvärlden"
+      },
+      {
+        "category": "Trygghet",
+        "description": "Man skall känna sig trygg i skolan, äldrevården och på stan."
+      }
+    ],
+    "motivateVote": "För att Trelleborg skall utvecklas in i framtiden både samhällsutbyggnad med en ny stadsdel, ringväg och klimat utveckling. ",
+    "name": "Moderaterna Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-trelleborg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1838",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en bättre miljö i tätort och för ett bättre trafikflöde.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett grönt tänk är viktigt för att genomföra klimatomställningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En statlig etablering som skapar många nya arbetstillfällen, en del i ett trygghetsskapande samt möjliggör för ett utvecklat företagsklimat.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att tex avveckla ett bolag som TrelleborgsHem skadar kommunens förutsättningar för att styra och reglera bostadsförsörjningen i kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan i framtiden vara en realitet för alla yrkesgrupper.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar genomförs vid behov, inte bara för att de ska hållas.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom en stark allmännytta, och med stöd från staten, kan kommunen bygga fler lägenheter som fler kan ha råd att bo i.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska hamna i verksamheten, inte som vinst hos privata utförare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan gå i täten för att komma igång med en infrastruktur som gör det möjligt för fler aktörer att vara delaktiga så att vi får fler publika laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ett system som bygger på att samtliga kommuner solidariskt ansvarar för att ta emot anvisade flyktingar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Skattepengar ska gå till verksamheten, inte till vinster i företag.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en viktig beståndsdel i ett samhällsbygge.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2587",
+          "2590",
+          "2591"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;A!;C;C;B;C!;A!;C;A!;0/5!;4/5!;2/5;[2587,2590,2591]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inga privata vinster i välfärden",
+        "description": "Inga skatteintäkter skall gå till att generera vinst i privata skol- eller omsorgsalternativ som flyttas från verksamheten till investerare eller aktieägare. Skattepengar skall hållas kvar i kommunen till medborgarnas gagn."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Jobba förebyggande med tidiga insatser för våra ungdomar. En samlad kombination av aktiviteter från skola, socialförvaltning, kultur, arbetsmarknad, polis med flera för att öka förutsättningarna till en trygg uppväxt med framtidsutsikter.\r\n\r\nBygga staden så att den är öppen och tillgänglig för att få bort mörka tillhåll och otrygga platser genom blandad bebyggelse."
+      },
+      {
+        "category": "Grön omställning för vår och våra barns skull.",
+        "description": "Satsningar på ny teknik som vätgas och elbussar men även beprövad teknik som vind och solkraft.\r\n\r\nMiljötänk måste vara ett huvudmantra i all ny och ombebyggnad i stadens alla projekt som är på gång och som är på planeringsstadiet. Här handlar det om dels i själva byggprocessen men även för ett framtida hållbart boende."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-trelleborg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1839",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behövs för utvecklingen av sjöstaden samt kuststaden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om förslagen är rimliga och verklighetsförankrade så är det bara positivt att man får in miljötänket i byggprojekten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge vi har överfyllda häkten och fängelser så behövs det nyetableringar. Då vi inte har möjligheten att hyra platser utomlands så kommer det behövas nya fängelser där kriminella sitter av sina straff.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet för medborgarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut inte. Man ska så klart servera vegetarisk men det ska inte ens behövas göras så en gång i veckan. Vi anser det ska serveras kött varje dag med vegetariskt alternativ.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalens hälsa och livspussel ska främjas. Det är ett hårt arbete och personalen behöver tid för återhämtning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är ett viktigt redskap i ett demokratiskt samhälle. Men det ska genomföras på stora lokala frågor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det som borde vara viktigast är att få igång flyttkedjorna tillsammans med att man bygger lägenheter som har en rimlig hyresnivå.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas en blandning av aktörer, kommunala och privata.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte en kärnverksamhet och det är inte rimligt just nu att kommunen ska ha det ansvaret i dagsläget.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sveriges flyktingpolitik måste reformeras från grunden så att vi ens har en chans att rätta till det ökande utanförskapet och parallellsamhälle som växer fram.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "En bra fördelning ligger ca runt 70% kommunalt och 30% fristående.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig, den ger en ökad samhörighet. Vi vill att man ger kulturarvet en framträdande plats i den offentliga konsten.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser den är på en hyfsat rimlig nivå.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2586",
+          "2587",
+          "2591"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;C;B;A;D;B;C;C;B;D!;2/5;3/5!;2/5;[2586,2587,2591]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna ett konservativt block där vi ingår och har inflytande över den politiska dagordningen. Men vi är beredda att prata med samtliga partier i olika sakfrågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "C, Mp, sen så blir det nog svårt med S.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad fokus på hot och våld mot pedagoger.",
+        "description": "Tyvärr så ser vi en ökande trend där pedagoger får utstå hot och våld på sina arbetsplatser. Detta måste få ett slut. Händelserna ska dokumenteras, utredas och anmälas samt stöd ska sättas in till den utsatte. Ingen ska bli utsatt för hot och våld på jobbet."
+      },
+      {
+        "category": "Öka personalens förutsättningar till mer social tid med brukarna.",
+        "description": "Genom att öka nöjdheten för brukarna så de får känna sig sedda och ha en trevlig stund ökar även deras livskvalitet."
+      },
+      {
+        "category": "Införa en kulturarvsfond",
+        "description": "Genom satsningar på vårt kulturella arv så uppnår vi en större sammanhållning i samhället. Med inrättandet av en kulturarvsfond så kan vi erbjuda de privatpersoner eller föreningar som håller vår svenska och skånska kultur levande ekonomiskt stöd."
+      }
+    ],
+    "motivateVote": "Medborgarna i Trelleborgs kommun ska känna sig trygga med att välfärden finns där för dem från livets början till ålderns höst. En barn-äldreomsorg som fungerar och en skola som upprätthåller trygghet och studiero.\r\nI Trelleborgs kommun ska varje invånare kunna känna trygghet genom livet.",
+    "name": "Sverigedemokraterna Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-trelleborg"
+  },
+  {
+    "abbreviation": "VS",
+    "altingetCandidateId": "1840",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "b858b3043cf7a7594954e856f04ae8c7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt Söderslätt föreslår en östlig ringväg innanför järnvägen som innehåller flera av/på-farter för att förenkla för alla Trelleborgare. Vägen behövs för den lokala trafiken men ska inte användas som infart till hamnen. Vårt förslag blir billigare, tar mindre åkermark i anspråk och inga hus behöver rivas.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4dffb11ca49a1e9256b3127faa590ff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt Söderslätt lovar att sätta människor och miljö i första rummet. Det innebär att alla byggprojekt måste beakta inverkan för framtida generationer. Därför måste all byggnation vara både miljö- och energismart. Lika viktigt är att tänka på den fysiska miljön för att skapa trivsel, välmående och trygghet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3130965346e70e7bff234403f667c5a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sveriges största fängelse planeras i Trelleborg, vilket är förödande för jordbruksmark som tillhör världens bästa. Självförsörjning har blivit ännu viktigare nu med pandemi och krig i Europa. Placeringen nära skolor och bostäder påverkar både trygghet och kommunens varumärke negativt. Fängelse är en riksängelängenhet och andra kommuner har lösningar utan att använda jordbruksmark.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "cb7e6b165245d22951d7a943149c5006",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunal och privat verksamt kan mycket väl komplettera varandra till nytta för kommunens innevånare. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9831552940fe0c3297d6404c5ab32a94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska självfallet alltid finnas vegetariska alternativ att tillgå. Vilket redan finns på kommunens skolor.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "633827d6394e8ff3434c25e37f221146",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsmiljö, lön, kompetensutveckling och karriärsmöjligheter är viktigare för att utveckla verksamheten och få en bättre äldreomsorg. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b6244cde84aaf64bb189ccee80df7fca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vissa frågor av stor vikt för kommunen och dess innevånare kan avgöras med folkomröstning. Folkomröstning är även att sätt att öka legitimiteten i ett beslut, vilket är positivt för demokratin.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7685a17832ca212419da59d40b49fc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt Söderslätt anser att allmännyttan har ett visst ansvar för att det finns bostäder tillgängliga för alla. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b4515bd07ffcf8b3aa96a77241b113d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt Söderslätt anser att det är viktigare vad som görs än vem som gör det. Både kommunala och privata verksamheter ska uppfylla samma krav och arbeta på samma villkor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d107fee191680fab52ca1164c833d194",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behovet av möjligheten att ladda elbilar kommer att öka. Det är då kommunens ansvar att ge möjlighet för placering av laddstolpar, men kommunen är bara en aktör i att tillhanda laddning.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "87256ea6883c1334d9de87ea48b83698",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ingen kommunal fråga, eller ingen fråga alls. Som kommun är vi enligt bosättningslagen skyldiga att ta emot flyktingar enligt den fördelning som görs av Migrationsverket.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bbd538981af19ff96a0c4749912d4da9",
+        "questionType": "RANGE",
+        "reasoning": "Vårt Söderslätt stödjer det fria skolvalet. Däremot är det bekymmersamt om\r\netablering av friskolor påverkar den kommunala skolans budget negativt.\r\nSom systemet fungerar idag är detta inte en kommunal fråga eftersom det är skolinspektionen som beslutar om vilka skolor som startas. Men vi är motståndare till att kommunen tillskjuter extra medel till friskolor.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f4ed05a845221a409b9a7f62831ae36e",
+        "questionType": "RANGE",
+        "reasoning": "Vårt Söderslätt vill satsa på kultur bland annat genom ett kulturhus, att utveckla kulturskolan och återställa bildningsförbunden. Bildningsförbundens bidrag har nyligen dragits in. Det vill vi ändra på. Utveckla kulturskolan så att den blir tillgänglig för alla, även de på landsbygden. Ett gott kulturliv gynnar både innevånare och näringsliv samt gör kommunen mer attraktiv.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "2191ce4e7476c2666a0fe0edc4c5e9bc",
+        "questionType": "RANGE",
+        "reasoning": "Vårt Söderslätt anser att skatteuttaget ska styras av behoven, inte tvärt om. Vi anser att dagens nivå är rimlig, men det är viktigt att pengarna läggs på rätt saker. Vårt Söderslätt anser t.ex. att de investeringar som görs i östlig hamninfart inte är \"rätt saker\".",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "913537b31173a8612a3f7ca6a5df905e",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi ser idag ökad psykisk ohälsa i skolan. Utifrån barnets bästa är det kommunens skyldighet att agera. Trelleborgs kommun har den lägsta skolpengen i landet för grundskolan. Det är dags att satsa på skolan och våra barn. Skolan får inte bli föremål för budgetexperiment. Föreningslivet är viktigt för alla för att förbättra hälsan, öka livskvaliteten och gynna integrationen.  ",
+        "value": [
+          "2590",
+          "2591",
+          "2588"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;A!;A!;A!;A!;D!;D!;D!;D!;A!;2/5!;4/5!;2/5!;[2590,2591,2588]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vårt Söderslätt är ett lokalt kunskapsbaserat parti utan anknytning till något riksparti. Vi kan se sakfrågan för vad den är utan att färgas av ideologisk övertygelse. Detta ger Vårt Söderslätt ett unikt spelrum att lösa lokalpolitiska frågor endast med invånarnas bästa för ögonen.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vårt Söderslätt vill spela en avgörande roll i Trelleborg efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan styra med alla som stödjer våra idéer och grundläggande värderingar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värna om jordbruksmark och miljö innebär nej till östlig hamninfart och fängelse",
+        "description": "Moderna och hållbara infrastrukturlösningar för den lokala trafiken innebär en dragning av ringvägen innanför järnvägsspåret. Detta gynnar samhällsviktiga funktioner, människor och miljö samt sparar värdefull jordbruksmark. Hamninfarten sker fortfarande från väster och ska förbättras i samarbete med Trafikverket, allt för att minska miljöpåverkan och hälsorisker för boende utmed infarten."
+      },
+      {
+        "category": "Skolan får aldrig bli ett budgetexperiment. Barnen är vår framtid och får kosta!",
+        "description": "Minska barngrupperna i förskolan och grundskolan samt öka lärartätheten\r\nUtöka resurserna till elevhälsan.\r\nGe elever rätt stöd, motivation och förutsättningar för att uppnå godkända betyg\r\nIdrott och hälsan på schemat varje dag ökar inlärningsförmågan\r\nUtöka programvalen och programprofiler i takt med samhällets utveckling och efterfrågan\r\nFler yrkesutbildningar i samverkan med näringslivet"
+      },
+      {
+        "category": "Vård och omsorg ska garantera hög kvalitet i livets alla skeenden ",
+        "description": "Ledorden i social omsorg ska vara närhet, tillgänglighet, kompetens och trygghet. Ett begränsat antal vårdpersonal ansvarar för samma vårdtagare. Personalen ska ges förutsättningar att utföra sitt arbete i en god arbetsmiljö och med möjlighet till en karriärstege. Det skall finnas äldreboende eller servicelägenheter till alla som vill flytta. Larm ersätter inte mänsklig kontakt."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som utgår ifrån kunskap, beprövad erfarenhet och evidens samt har en gedigen erfarenhet inom områden vi ska besluta om. En trygg och hållbar framtid där individen alltid sätts i främsta rummet. Skola, vård och omsorg samt näringsliv är viktiga frågor för oss. Skattemedel ska förvaltas väl och fördelas klokt så att livskvaliteten ökar för alla kommunens invånare.  ",
+    "name": "Vårt Söderslätt Trelleborg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vart-soderslatt-trelleborg"
+  }
+]

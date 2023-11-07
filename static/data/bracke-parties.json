@@ -1,0 +1,936 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "187",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar bör gå till Vård o Omsorg och Skollan",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dessa är inte upp till standard",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta har gjort tidigare i ex Göteborg och blev en oerhört stor kostnad. Personal innom äldreomsorg jobbar idag INTE 40 timmars vecka, så har redan mindre timmar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet när man jobbar med människor. Kommunikation är oerhört viktig mellan patient och vårdgivare",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara bra att få unga människor att stanna kvar i kommunen",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi i kommunen måste ställa upp och värna om människor på flykt",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": "Otrolig hög skatt för vad man kan tillgodo se sig som medborgare",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;D;B;A;D;C;C;D;D;A;2/5;2/5;1/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "Vi jobbar för människor lika värde, en bra och hållbar miljö, kvinnors rättighet",
+    "name": "Centerpartiet Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-bracke"
+  },
+  {
+    "abbreviation": "JVB",
+    "altingetCandidateId": "188",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har vi inte råd med vård skola och omsorg, har vi inte råd med skidtunneln. Däremot när vi inte längre behöver spara, då har vi råd med annat. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att riva bostäder om vi vill öka befolkningen! Bräcke kommun borde istället se över hyrorna, de är bland de dyraste i länet. Och hade inte det politiska styret sparat på underhåll av fastigheter, vägar och gator. Då hade det inte blivit så dyrt nu. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Växande barn och ungdomar skall ha mångsidig kost. Hjärnan kräver protein för att utvecklas, och det bästa proteinet kommer från kött.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": "All konkurrens är bra!\r\nKonkurrens utvecklar företag både privata och offentliga. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorgen är ett tungsamt arbete med många tunga lyft och obekväma arbetsställningar, då kan det vara bra med en arbetstidsförkortning. Arbetstidsförkortning kan också skapa mer arbetstillfällen och på så bidra till mer inflyttning och på så vis ökade skatteintäkter. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att kunskapskrav C ska gälla för anställning inom äldreomsorgen.\r\nDet är också viktigt att andra minoritetsspråk behärskas av vårdpersonal, men i första hand kunskapskrav C i klass 9. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor väljs av elever!\r\nVäljer nyanlända att gå på en friskola, ska de få gå på den de valt.\r\nTvång eller kvotering är inget bra sätt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Billiga lägenheter är bra för ungdomar och pensionärer, men det är inte i första hand kommunen som ska finansiera hyresmarknaden. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "När inte kommunen har råd med vård och omsorg ska privata eller kooperativa företag kunna starta och driva vård- och omsorgs-företag. För att få driva krävs det att minst 50% går tillbaka in i vården. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tillsammans med privata företag ska bygga ut laddmöjligheterna inom kommunen. Och kommunen borde kunna få till ett bra avtal gentemot el-leverantörer för att få till fungerande laddmöjligheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en kommun i ekonomisk kris och vi har knappt råd med våra äldre, då är det svårt att ta emot flyktingar som inte har en försörjning. \r\nNär vi får fart på ekonomin då blir det lättare att dela med sig, som det är nu så har vi inte mycket att dela med oss av. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": "Privata företag kan bidra med yrkesutbildning speciellt anpassade för de yrken de behöver.\r\nGrundskolan ska inte drivas av vinstintressen, politiska eller religiösa intressen. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är även det som våra föreningar bidrar med, allt från teater till jakt och fiske.\r\nDärför behövs det mer stöd till våra föreningar, de bidrar även till en demokratisk grundsyn i hela samhället. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": "Vi betalar bland de högsta kommunalskatterna i Sverige, och samtidigt har vi snart ingen service kvar. Därför måste vi se över vart pengarna från skatteintäkterna rinner ut, och därefter stoppa allt onödigt utflöde.\r\nAtt höja skatten bara för att det fattas pengar, är inte en bra lösning för oss i Jämtlands Väl Bräcke. Vi vill veta varför det inte går ihop, och därefter lösa problemet. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill ställa iordning ett Demenscentrum i Bräcke, och varsitt demensboende i första hand Kälarne och sedan Gällö.\r\nVi vill stödja det lokala näringslivet genom en ökad Härproduktion som gynnar Härekonomin.\r\nFöreningslivet är viktigt för den demokratiska utvecklingen och bidrar till trivsel och välmående i hela Bräcke kommun. Genom att stödja föreningslivet utvecklar vi Bräcke kommun. ",
+        "value": [
+          "913",
+          "915",
+          "912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A!;A;B;C;D!;B;C;C;C;C;2/5;3/5;0/5!;[913,915,912]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Eftersom vi inte har något moderparti med partipiska, är vi det enda parti som sätter Bräcke kommun och dess invånare först i alla lägen. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Får vi förtroendet från väljarna så kommer vi att styra själva, och på så sätt få Bräcke kommun på fötter igen. Vi kommer inte att sätta oss i knäet på något annat parti, en röst på oss är inte en röst på ett annat parti. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för alla som vill ha förändring i den förda politiken. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "7000 invånare 2030",
+        "description": "Östersunds kommun har satt ett mål på 74000 invånare 2030, vi har satt ett lägre mål på 7000 invånare. Vi vet att kvinnor styr val av bostadsort, och när de väljer sätter de närhet till Barnomsorg, skola och vård i första hand. Därför vill vi anställa fler personer inom vård, skola och omsorg. Nyanställningar kommer också att minska sjukskrivningarna genom att minska stressen på arbetsplatserna."
+      },
+      {
+        "category": "Härproduktion gynnar Härekonomin ",
+        "description": "Härproduktion är allt vi producerar i Bräcke kommun, tjänster och produkter. Härekonomin är pengar vi skapar i Bräcke kommun. \r\nVid all offentlig upphandling skall socialt ansvarstagande väga tungt, och på så vis kan vi stödja det lokala näringslivet.\r\nDet är Härproduktion och Härekonomin som bygger VÄLfärden"
+      },
+      {
+        "category": "Matavfall och kompostering ",
+        "description": "I Bräcke kommun bor 75% av befolkningen utanför tätorterna, därför ska de som inte har matavfall och eller komposterar betala avgift för den hanteringen\r\nJämtlands Väl Bräcke kommer att uppmuntra invånare till att själva ta hand om sitt matavfall och kompostera det. Vårt miljömål i Bräcke kommun är att minska  transporter och användandet av mineralgödsel mm."
+      }
+    ],
+    "motivateVote": "Vi är ett oberoende och lokalt förankrat parti som sätter Bräcke kommun och dess invånare först i alla lägen. Vårt mål är 7000 invånare till år 2030. För att nå de målen satsar vi på välfärden genom nyanställningar i vården, dessa finansieras genom nedskärningar i administrationen och att inte bidra med kommunala medel till skidtunneln.\r\nVi kommer också att stärka Härekonomin genom Härproduktion. ",
+    "name": "Jämtlands Väl Bräcke Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "jamtlands-val-bracke-bracke"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "189",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": "På sikt är ambitionen att kommunen ska fasa ut sitt engagemang i bolaget Mid Sweden 365. Där är vi inte idag. Vi ser nu att det händer mycket i området runt Gällöberget med flera spännande satsningar. Det är viktigt att kommunen är möjliggörare för fortsatt utveckling, vilket är bra för hela kommunen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är aldrig roligt att riva bostäder, men det är av allt att döma nödvändigt. Vi har idag många tomma lägenheter, vilket är kostsamt, samt stora underhållsbehov i flera fastigheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara varierad kost i skolan och gärna mer grönsaker och gärna närodlat. Vi har dock fullt förtroende för att vår personal och våra leverantörer lagar god, varierad och näringsriktig mat. Vi har en omfattande kommunal måltidspolicy. Fler styrande pekpinnar behövs inte. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen enkel fråga, måste bedömas från fall till fall. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver snarare arbeta för att våra arbetsplatser ska vara utformade så att fler orkar och vill arbeta fler timmar. Det kan dock vara intressant med försök i mindre skala med sex timmars arbetsdag, ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Egentligen ett mycket bra förslag, men med tanke på stor brist på arbetskraft är det nog inte genomförbart. Däremot bör alla som inte kan svenska ordentligt få stöd att snabbt lära sig. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler alternativa utförare inom välfärden. Det ökar kvaliteten och valfriheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler laddstolpar, men flera aktörer behöver samverka kring det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": "Vi lägger idag förhållandevis rätt mycket pengar på bibliotek, kulturskola och föreningsbidrag - även om det är små pengar i den totala ekonomin. Det är satsningar som ger mycket tillbaka på många sätt. Ambitionen är att upprätthålla den nivån.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": "Vi har egentligen en alldeles för hög skatt. I nuläget har vi inte möjlighet till stora skattesänkningar. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "913",
+          "917",
+          "915"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;C;A;B;B;C;B;A;D!;B;A;3/5;2/5!;1/5!;[913,917,915]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en stabil majoritet som både arbetar för utveckling och en ekonomi i balans. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning och reda på Bräcke kommuns ekonomi",
+        "description": "Moderaterna har varit med om att fatta flera tuffa beslut för att komma till rätta med ekonomin. Vi ser nu att det hårda arbetet har gett resultat, men vi behöver fortsätta arbetet. Vi kan inte skjuta skulden framför oss. En ekonomi i balans ger oss möjlighet att satsa mer på välfärden - på de äldre och barnen, på infrastruktur, vårt näringsliv m.m. En stark ekonomi är avgörande för utveckling."
+      },
+      {
+        "category": "Ökad polisnärvaro i Bräcke kommun",
+        "description": "Polistätheten i Sverige hör till de lägsta i Europa. Det är flera år sedan som polisstationen i Bräcke var bemannad. Det vill vi ändra på. När våra hem, företag och samhällsinstitutioner utsätts för brott ska polisen finnas nära. Likaså vet vi att det finns droger i omlopp i kommunen och att många utsätts för våld i hemmet. Vi vill att det ska vara tryggt för alla i vår kommun."
+      },
+      {
+        "category": "Bättre förutsättningar för ett blomstrande näringslivsklimat i Bräcke kommun.",
+        "description": "Ett blomstrande näringslivsklimat förutsätter att kommunen underlättar för företagarna och stimulerar till entreprenörskap. Bräcke kommun gör mycket idag – men kan bli ännu bättre. Vi behöver utveckla dialogen mellan kommunen och näringslivet. Det handlar bl.a. om upphandling, om service och bemötande, om att locka hit nyetableringar och att öppna upp för alternativa utförare."
+      }
+    ],
+    "motivateVote": "Vi är ett stabilt parti som man kan lita på. Vi vill att det ska vara möjligt att leva gott i vår kommun. Vi ska ha en bra infrastruktur, attraktivt boende och ett blomstrande näringsliv. Vård, skola och omsorg ska ha en hög kvalitet. Vår kommun ska vara en trygg plats för alla. ",
+    "name": "Moderaterna Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-bracke"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "190",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken har hela tiden varit att kommunen skulle vara med och starta upp en turism-verksamhet för att sedan dra sig ur och sälja sina aktier i bolaget. Detta ska ske så snart det är möjligt. Tunneln ger stora möjligheter för företag och arbetstillfällen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Antalet tomma lägenheter ska ner till en rimlig nivå. Senaste året kostade de tomma lägenheterna kommunen nästan sex miljoner kronor. Dessa pengar gör bättre nytta i skolan och vården!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går att minska mängden kött och servera mer klimatsmart mat utan att förbjuda kött vissa dagar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja självklart, om det finns företag som kan göra det bättre och billigare än kommunens egen verksamhet. Men tyvärr ser det inte alltid ut så i Bräcke- och i andra glesbygdskommuner.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god men tyvärr behöver vården all personal som finns och några jobbar heltid idag. Vi vill istället öka bemanningen, det vill säga anställa fler inom vården.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla nyanställda ska naturligtvis ha en riktig utbildning och kunna prata med våra äldre inom vården. Att man klarar vårdutbildning och språkutbildning är viktigt för att kunna bli anställningsbar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge skolan bekostas med våra gemensamma skattepengar ska självklart alla skolor ta emot de elever som söker en viss skola, oavsett vilken bakgrund eleven har.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen ser till att det finns bra hyreslägenheter med vettiga hyror. Det är inte alla kommuninvånare som kan, vill eller får köpa en bostadsrätt eller hus.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte se den utveckling som man kan se i andra kommuner, där stora privata vårdföretag plockar ut vinster till aktieägarna samtidigt som vården för de äldre missköts.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ansvarar inte för tankstationer för bensin- och etanolbilar och ska därför inte heller vara ansvarig för laddstationer för elbilar. Däremot ska kommunen hjälpa till så mycket man kan för att skapa fler laddplatser.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": "De senaste åren har det kommit färre flyktingar till Sverige och då är det naturligt att även kommunen tar emot färre. Men om det blir fler flyktingar på grund av krig eller katastrofer ska naturligtvis vår kommun vara med och bidraga.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": "De föräldrakooperativa förskolor som finns är bra och viktiga. Men de privata grund- och gymnasieskolor som finns i närheten ger inte våra elever det vi skulle vilja.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill öka stödet till kulturen så snart ekonomin tillåter. Den kultur som skapas av våra föreningar och invånare är oerhört viktig för att människor ska vilja leva och bo i våra byar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inget emot en hög skatt om vi har en riktigt bra skola och omsorg. Men när vi har en lite högre skatt än andra glesbygdskommuner då tycker vi att den ska ner till samma nivå som dessa.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "913",
+          "918",
+          "912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;C;B;C;D;C;B;B;C;1/5;3/5;1/5;[913,918,912]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja. Fördelningen av de statliga vägpengarna. Jämtlands län har ca 4 % av landets vägar men får bara ca 2,5 % av vägpengarna. Vi kräver en mer rättvis fördelning av vägpengarna inom landet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna att vi styr själva eller tillsammans med de partier som faktiskt vill lösa kommunens problem samt jobba för att utveckla kommunen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja. Rasistiska och nynazistiska partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre välfärd för våra invånare",
+        "description": "Bättre vägar och kollektivtrafik. Polisen ska komma tillbaka och polisstationen öppna igen. Bättre vård för våra gamla, särskilt de med demenssjukdomar. Börja prioritera förskolan och skolan."
+      },
+      {
+        "category": "Bättre stöd till föreningslivet",
+        "description": "Under två år har pandemin slagit undan benen för stor del av föreningslivet. Nu behövs en nystart för många föreningar och vi vill att kommunen tillsammans med föreningarna pratar ihop sig om vad som är viktigast att satsa på framöver och sedan genomför detta."
+      },
+      {
+        "category": "Bättre stöd till det lokala näringslivet",
+        "description": "Våra företagare är oerhört viktiga för vår kommun. De skapar arbetstillfällen och ger service till våra kommuninvånare, så det är möjligt att bo här. Vi vill att kommunen är möjliggörare för att starta och driva företag. Det kan handla om mark och lokaler, stöd och kontakter samt lösningsfokuserad myndighetsutövning."
+      }
+    ],
+    "motivateVote": "Vi vill ha mer rättvisa och ett mer jämställt samhälle. Vi vill ge alla barn, oavsett vilka föräldrar man har, en trygg start i livet så att man kan och vågar satsa på sina drömmar. Vi tror inte att stora skattesänkningar för de rikaste leder till detta. ",
+    "name": "Socialdemokraterna Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-bracke"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "191",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se en ordentlig genomgång av skidtunneln. Hur ser ekonomin ut? Finns det privata intressenter som kan gå in ekonomiskt i projektet?\r\nMen att Bräcke kommun ska fortsätta att kasta in skattepengar i detta projekt utan att få något för det, ser SD inte som en lösning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kommunen har en mängd tomma bostäder är naturligvis inte bra. Men innan bostäderna rivs kanske kommunen bör undersöka om det finns någon som är intresserad att ta över. Finns det någon bostad som är i sådant skick att de bör behållas?\r\nFinns det inte det bör fastigheterna rivas tyvärr.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi hoppas att skolserveringen serverar sådan mat som eleverna uppskattar att äta. Det inkluderar grönsaker också.\r\nAtt specifikt peka på två dagar och säga att nu får ni bara äta detta och dricka detta, det ser vi som ett dåligt förslag.\r\nLänge leve valfriheten",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att blanda ihop privat näringsliv och kommunalt näringsliv är för det mesta inte så bra. De två finansieringssätten är inte kompatibla, planekonomi och marknadsekonomi. \r\nUndantag från detta kan i vissa fall vara helt nödvändigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har svårt att se att en yrkesgrupp ska särbehandlas på det sättet. Det finns många yrkesgrupper som har ett mycket tungt jobb.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja! Självklart",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag kan inte se att detta löser några problem alls med Svenska skolor. Är det inte bättre att vi försöker göra skolorna bättre genom att införa en godkänd nivå för Svenska, mattematik, fysik, geografi osv för alla typer av skolor.\r\nDet kan hända att friskolor inte behövs om alla skolor måste uppnå ett godkänt utbildningskriterium i sina skolor.\r\nDet finns skolor som drivs som föräldrakooperativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte Bräcke kommun i alla fall. Efter vad jag förstår är kommunens ekonomi inte av sådan art att det går och finansiera billiga hyreslägenheter\r\nSed fråga 2",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som är bäst lämpade för att driva äldreboende och hemtjänst bör göra det, kommun eller ett företag.\r\nNaturligtvis ska verksamheten under granskas noggrant av beställaren. Det gäller oberoende om det är en kommunala utförare, eller privata utförare. Gällande lagar skall följas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej! absolut inte\r\nSka kommunen även ansvara för att det finns bensinstationer i kommunen?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bräcke kommun har Sveriges tredje högsta kommunalskatt i landet och har sökt nödlån. Med det sagt är det en fråga om kommunen har resurser att ta emot flyktingar överhuvudtaget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": "Efter vad vi förstår är kommunen och Folkets hus -rörelsen ganska hopkopplad i Bräcke kommun. Frågan är om det är en bra lösning.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": "Är kultur viktig? Möjligt men frågan är om situationen i kommunen är som den är. Vad är viktig?\r\nHellre en bra fungerande åldringsvård och skola.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": "För att attrahera nya kommuninnevånare och nya företag måste skatten ned.\r\nBibehålls denna höga skatt är det risk att Bräcke kommun, med de samhällen som finns här nu kommer att minska eller bli öde. Skolor, järnväg, vårdcentraler osv försvinner.\r\nDen utvecklingen måste vändas.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "915"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;B;C;B;D;B;B;C;A;C;1/5;0/5;0/5;[915]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej! De politiska frågorna som vi hanterar är på lokal kommunnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Förhoppningsfullt kommer det politiska styret bestå av kloka män och kvinnor  som har idéer och handlingskraft. Istället för en massa politiska låsningar som bara skapar problem och handlingsförlamning.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Egentligen inte. Det hela beror på inställning och attityd.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hur ser kommunens verksamhet ut \"Back to basic\"",
+        "description": "Här avser vi att kommunen har ett antal lagar att förhålla sig till, dvs baslinjen i kommunens verksamhet.\r\nGör Bräcke kommun mer än det är frågan? Gör kommunen saker som inte är uppstyrda av lagar o regler.\r\nTvå Exempel är kommunen kontra Folkets hus och den relationen som finns mellan dessa. Även skidtunneln i Gällö och kommunens ekonomiska stöd till den."
+      },
+      {
+        "category": "Genomlysning av Bräcke kommuns ekonomi",
+        "description": "En genomlysning av hur penningströmmarna går i Bräcke kommun. Den genomlysningen bör vara helt transparent för kommunes innevånarna.\r\nEftersom Bräcke ligger på tredje plats vad som gäller kommunala skatter i Sverige, kan det vara på sin plats att medborgarna får insyn i problemen.\r\nSkattetrycket är högst i Dorotea 35,15 / 100 kr\r\nMunkedal med 35,11 / 100 kr\r\nBräcke med 35,09 / 100 kr"
+      },
+      {
+        "category": "Skola och utbildning i Bräcke kommun.",
+        "description": "Hur ser lärartätheten ut i Bräcke kommun och är dessa lärare behöriga.\r\nHur väl underhålls de skolor och andra fastigheter som finns inom kommunen"
+      }
+    ],
+    "motivateVote": "Bräcke kommun har den tredje högsta kommunskatten i landet. Trots detta är kommunen tvungen att söka \"nödlån\" Vi vill se en kommun med bra ekonomi, fungerande vård och omsorg och en bra skola för våra unga.",
+    "name": "Sverigedemokraterna Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-bracke"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "192",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "de0c07de6b21281f70c69d75ced4ad82",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "144aed76152234fdc9d14b4b11c62a89",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "74045b366ed1af94dbdc6b4623bc45a7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7cfc74cb11179d184aada8f8b38daac0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "667b8099b5615cd951100bf60a2f9fff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "b566a8bd983817c61702b52dda2e79f0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "58977368ce0a05110e9d6cc3acdbb57e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "063e4af68e32645a5ed03947cdda76c1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7f8d83e26998effdd648aac0aae2e4b0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "99684867e16c4cd0a1dc4ca14fd3f52d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "773cc76fe1bb3b3c0bf75e55e7072270",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "09a8323daebfed7f03e88c0fcfd80111",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "06e3871a018a43c408b07920f239207b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "ae2e45ed87905b6770863c8dd1150ba0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "91d08c73e132f6d1075da3b224722b58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Bräcke",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-bracke"
+  }
+]

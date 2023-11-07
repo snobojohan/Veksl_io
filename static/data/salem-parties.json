@@ -1,0 +1,1331 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1432",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska främja privata aktörer att bygga i Salem. Men vill gärna se en blandad bebyggelse när Salem växer där det ska finnas olika upplåtelseformer för alla faser i livet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vad utredningen visar. Vi vill i första hand satsa på en totalrenovering av hela sim- och sporthallen. Simhallen ligger bra placerad och vi har inte oändligt med mark att disponera.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Persontransporter är den största utsläppskällan i Salem, och vi måste hjälpas åt att minska utsläppen. Det måste vara enkelt att vara klimatsmart och direktbussar är en del av lösningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att ett generellt slöjförbud kommer att få bukt med hedersproblematik i de hem där slöjan är en symbol för detta. Det riskerar i stället att skapa ett stigma mot de unga flickor som bär dem. Vi får aldrig blunda för hedersförtryck. Men det finns bättre sätt att komma åt det än genom att förbjuda ett klädesplagg. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språktest ska inte diskvalificera kompetent personal. Det är viktigt att vi erbjuder språkutbildning av god kvalitet med inriktning på olika yrken, inte minst bristyrken. Vi vill också verka för att fortsatt erbjuda vidareutbildning i svenska till befintlig personal.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Asylrätten är en mänsklig rättighet och Salem måste ta sitt ansvar och hjälpa människor på flykt, med väl fungerande integration.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom äldreomsorgen tror vi i första hand mer på att det ska vara rimliga arbetsvillkor med tid och resurser för att göra ett bra jobb. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska möjliggöra och driva på utbyggnaden av laddinfrastrukturen. Vi måste hjälpas åt att sänka utsläppen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag eller lite mer. Vi har bra skolor generellt och vilken huvudman skolorna har är inte det viktigaste. Om vi ska ha fler privata aktörer så ser vi gärna en skola med en annan pedagogisk profil (Montessori, kunskapskolan, internationell etc) för att öka valfriheten för eleverna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt med en meningsfull och aktiv fritid. Det nya medborgarhuset ska till exempel vara en kreativ hub för alla invånare, och vi vill bland annat tidigt låta elever ta del av kultur i skolan, och satsa mer på lokaler för scen-, konst- och andra kulturaktiviteter. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": "Det är viktigt att jobba förebyggande för klimat, ungas hälsa och för en meningsfull och aktiv fritid.",
+        "value": [
+          "2220",
+          "2221",
+          "2222"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D!;D;B;C;D;A!;B;D;D!;3/5!;3/5;2/5;[2220,2221,2222]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har fått igenom mycket av vår gröna liberala politik med Alliansen, och ser gärna ett fortsatt samarbete. Men det beror förstås på valresultatet. Vi vill samarbeta med partier som delar våra värderingar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Sverigedemokraterna och andra populistiska partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på ett ambitiöst lokalt klimatarbete - klimatneutralt Salem 2030",
+        "description": "- Öka samverkan mellan kommun och samhälle för minskad klimatpåverkan\r\n- Återbruka mer material och inventarier i kommunala verksamheter\r\n- Ta fram en handlingsplan för förstärkt biologisk mångfald\r\n- Skapa fler möjligheter för lokal matförsörjning\r\n- Bygga ut cykelvägar och underlätta cykelpendling\r\n- Skärpa miljö- och klimatkraven vid offentlig upphandling\r\n- Installera fler solceller och laddstolpar"
+      },
+      {
+        "category": "Varenda elev måste få lyckas och må bra i skolan",
+        "description": "Att klara skolan är den enskilt viktigaste faktorn för att våra barn ska bygga sig ett bra liv. Rätt stöd i tid, till både elever och lärare, ger en skola med studiero, som kan fokusera på kunskap.\r\nGenom bland annat  \r\n- Två mentorer i varje klass\r\n- Fler lärarassistenter\r\n- Satsa på utbildade elevassistenter med trygga anställningar\r\n- NPF-säkrad undervisningsmiljö\r\n- Fortsätta stärka elevhälsan"
+      },
+      {
+        "category": "Främja småföretagande i Salem",
+        "description": "Genom bland annat\r\n- Införa ett tydligt företagsmål i kommunens verksamhet\r\n- Sänkta kommunala avgifter för nystartade företag\r\n- Underlätta för lokala småföretagare att delta i kommunens upphandlingar\r\n- Inför sommarlovsentreprenörskap som komplement till kommunala feriejobb\r\n- Detaljplanera för och bygga fler lokaler för företag och co-workingplatser"
+      }
+    ],
+    "motivateVote": "Centerpartiet arbetar för ett ekonomiskt, ekologiskt och socialt hållbart Salem. Vi ser och tar tag i de utmaningar som finns – oavsett om det handlar om att skapa fler jobb, rädda klimatet eller stärka våra unga. Vi slåss för de långsiktiga och hållbara lösningarna. Vi gör det i samarbete med andra och låter alla röster komma till tals. För dig och för Salems bästa.",
+    "name": "Centerpartiet Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-salem"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1433",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mest kostnadseffektivt för Salem  för närvarande är att inte ha det",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi får se till vilket som är mest kostnadseffektivt  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD har haft detta som förslag länge.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att det finns alternativ i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD har redan tagit ett beslut att förbjuda hijab på förskola och lågstadie.\r\nNär små flickor skickas till skolan iklädd hijab så står det i strid med skolans värdegrund om jämställdhet mellan kvinnor och män, ,och även med barns rättigheter, ex rätten att slippa bli sexualiserad",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är en självklarhet för att kunna bedriva en bra och säker omsorg",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall självklart  finnas plats \r\nför privat verksamhet bara den äldre för all den vård som den behöver .",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen borde få bestämma över sin situation själv om  att ta emot flyktingar om det finns bostäder och möjlighet till integration",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra förslag men inte helt ekonomiskt försvarbart",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skall ha rätt att söka till de skolor de vill. De viktiga är dock att eleven har så bra språkkunskaper och kompetens att de uppfyller de krav att de klarar skolan",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Visst måste kommunen planera in för laddstoplar men man måste då se till att infrastrukturen fungerar med elnät etc",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "det vi har nu fungerar väl.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt att vi värdesätter vår kultur",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": "Vårat mål är så lite skatt som det är möjligt så länge det inte påverkar vår välfärd",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2215",
+          "2219",
+          "2216"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;D;D;D;D;C;B;B;B;2/5;3/5;0/5;[2215,2219,2216]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill trycka med på familjefrågor.\r\nVi är annars ett tufft parti som vågar sticka ut.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vill att det skall styras i  KD anda",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill vara med i en styrande allians",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill satsa på ett levande, trygg och välplanerad småstadsbebyggelse i Salem.",
+        "description": "Bebyggelse som underlättar för företag att etablera sig.\r\nBättre belysning, flera parkeringsplatser samt tillgångar till ladd stolpar.\r\nÖkad trygghet handlar om utformningen av byggnationerna samt gestaltningen och energiförsörjningen. En mer måttfull bebyggelse bör utföras. Planera för skyddsrum vid nybyggnation. Återfå polisstationen"
+      },
+      {
+        "category": "Det ska vara tryggt att åldras i kommunen.",
+        "description": "I hemtjänst och äldreomsorg ska medborgarna mötas av utbildad och kunnig personal som talar svenska. Antal hemtjänstpersonal för brukaren ska inte vara fler än att den enskilde kan lära känna alla. Se till att äldre kan leva ett aktivt liv och ha inflytande över sin vardag, bemötas med respekt och ha tillgång till god vård och omsorg. Vi vill bygga ett samhälle där människor kan åldras i trygghet."
+      },
+      {
+        "category": "Förbättra skolan. ",
+        "description": "Minska antalet elever i klassrummet så att eleverna får bättre studie ro samt minskade barngrupper i förskolan.\r\nGöra regelbundna kunskaps kontroller så att man kan sätta in tidiga stödinsatser. \r\nEn skola som bygger på tillit och förtroende mellan elever, lärare och föräldrar och som stimulera elevers  intellektuella utveckling. Utöka elevhälsan."
+      }
+    ],
+    "motivateVote": "Vi vill att äldre skall bemötas med respekt och åldras i trygghet och värdighet.\r\nAtt medborgarna skall känna sig trygga och att vi står på brottsoffrets sida. Återfå närpolisen. Alla skall få vård i tid genom att avskaffa regionerna till en nationell vårdförmedling. Stödja och förenkla för småföretagen. Studiero i skolan med mindre barngrupper och bygga ett samhälle med gemensam värdegrund.\r\n",
+    "name": "Kristdemokraterna Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-salem"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1434",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte konkurrera med privata aktörer, på lika villkor",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för en ny simhall, men inte nödvändigtvis en ny byggnad. Vi ska tänka ekonomiskt och klimatmässigt hållbart.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för alla kollektiva lösningar som underlättar för individen och är bra för klimatet",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver en bra mix av privata och kommunala aktörer",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska värna individens frihet och rätt att uttrycka sig. I möten med andra människor så är ansiktsuttryck en viktig aspekt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt i alla möten och extra viktigt för äldre att ha en bra kommunikation så inga missförstånd uppstår. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med en bra mix av privata och kommunala alternativ. Det ska dock finnas en kvalitetkontroll.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det finns krig och odemokrati, så behöver Sverige och Salem som befinner sig i fred och demokrati hjälpa till.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är alltid bra att försöka höja status och attraktivitet på arbete inom äldreomsorg.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": "skolor skall drivas på lika villkor",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ansvarar för att det ska finnas en infrastruktur och där ingår också laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "Vi är för bra privata alternativ, konkurrens höjer kvaliteten",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt med ett fungerande kultur och föreningsliv.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska inte betala mer i skatt än vad som behövs. Vi har idag lägst skattesats i Södertörn",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2220",
+          "2223",
+          "2222"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C!;D!;C;D!;D!;B!;C;D;D!;3/5!;3/5!;2/5!;[2220,2223,2222]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, .",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst egen majoritet annars i borgerligt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Sverigedemokraterna, Miljöpartiet. Feministiskt Initiativ.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värna de goda skolresultaten!",
+        "description": "En bra skola är grunden för allt annat, både för individen och för samhället i stort. Liberalerna vill se till att Salems skolor fortsätter att prestera goda resultat, bl a genom att satsa extra på läromedel."
+      },
+      {
+        "category": "Valfrihet genom hela livet",
+        "description": "Liberalerna menar att du ska kunna välja utförare av offentliga tjänster. Det kan gälla skola, vårdcentral/läkare, hemtjänst och äldreboende. Dels bör du kunna välja en verksamhet du känner förtroende för, dels bör du ha möjlighet att anpassa ditt val så att vardagspusslet går ihop. I Salem är Liberalerna ensamma om att förespråka valfrihet när det gäller äldreboende."
+      },
+      {
+        "category": "Trygghet i kommunen",
+        "description": "Liberalerna vill arbeta för att Salem åter ska bli Sveriges tryggaste kommun. För många boende i Salem är frågan viktig, och för en del har tryggheten varit en avgörande faktor i valet att bosätta sig i Salem. Bättre trygghet kan uppnås t ex genom gott samarbete med polisen, förebyggande arbete i kommunen och trygga gångstråk med bra belysning och gärna förläggning längs gator och nära bebyggelse."
+      }
+    ],
+    "motivateVote": "Vi värnar människors valfrihet och vi värnar de svaga. Skolan är grunden till ett välfungerande samhälle. Alla skall ha rätt till en bra skola oavsett var man bor. Ett bra företagsklimat är grunden för vår välfärd. öppenhet och varje människas frihet är vår värdegrund.",
+    "name": "Liberalerna Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-salem"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1435",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-salem"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1436",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden kan hanterar detta på ett mycket bra sätt. Kommunen ska stå för sina kärnuppgifter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste alltid verka för att våra invånare på ett bra sätt ska ta sig till arbetsplatsen eller skolan. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "det är bra att det finns viljan att driva förskolor i vår kommun, glädjande med fler aktörer förutom våra kommunala. Viktigt att kontroller görs så att verksamheterna når högsta kvalitet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan se att det finns fördelar med detta, jämställdhetsperspektivet väger tungt för mig här. Dock en svår fråga att hantera då den är mångfacetterad.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Handlar ju om säkerhet för våra äldre, vi måste kunna kommunicera med varandra, läsa instruktioner samt dosera medicin rätt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ta emot flyktingar är att ta ansvar över integration med, integration handlar om så mycket mer än bara ta emot för stunden. Bostad, utbildning, etc.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan vara behjälplig med anvisning av platser, företag får sedan etablera sig där.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "23 % av barnen går idag i friskola, det är jätteroligt. Ser inga problem med att det blir fler friskolor som etablerar sig, så länge det är till fördel för våran kommun och dess barn.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Tycker vi ligger på en nivå som är bra, sedan kan det från år till år göras satsningar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska ha en effektiv organisation, dock med en god service. isar vi på goda resultat så ska alltid invånarnas intressen stå först. Ibland via skattesänkning och ibland via investeringar i kommunala utbudet.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2223",
+          "2221",
+          "2222"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A!;_;D;D!;C;D!;D!;C!;A;D;A;3/5;2/5!;1/5!;[2223,2221,2222]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kommunpolis kan ibland ses med lite olika ögon.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Självklart skulle jag se att M fick 51%, dock får vi förhålla oss till det mandat som valet ger. Borglig politik förs bäst av borgliga partier. M, KD, L  samt C kommer kunna enas kring en politik som är bra för Salem. Om man inte målar in sig i hörn och begränsar samtalen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Miljöpartiet, Rönningepartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Klimatinitiativet",
+        "description": "Säkerställa kunskap för att på ett bra och tydligt sätt skapa mål för ett bättre klimat. Vi arbetar för att gå med i klimatkommunerna, ta del av deras arbete för att ge vår organisation bättre kompetens. Laddstolpar, solceller samt Energieffektivisering i våra kommunala fastigheter ska intensifieras. Allt för det ska vara ett klimatneutralt Salem senast år 2045."
+      },
+      {
+        "category": "trygghet",
+        "description": "Moderaterna i Salem har redan drivit på för ansöka om trygghetskameror på några platser, vi vill också se möjligheter för ordningsvakter i större utsträckning vid behov. Kamera och ordningsvakter är något som begränsas av den lagstiftning som nu finns, det vill vi vara med och ändra på. Bygga bort mörka platser och skapa levande miljöer är jätteviktigt. Sedan måste vi har polis på plats oftare."
+      },
+      {
+        "category": "Byggnation",
+        "description": "Ansvarsfullt byggande och god kommunikation med våra invånare. Att ta ansvar för bostadssituationen i vårt land är viktigt. Samtidigt måste vi se till att inte bygga bort det som lockar människor att flytta till vår kommun. Vi ser behov av att dämpa exploateringstakten., viktigt att vi bevarar det som lockar till vår kommun."
+      }
+    ],
+    "motivateVote": "Vill man ha möjligheter till egna val och möjligheter är M alternativet. Mindre statlig kontroll. Personliga ansvaret och friheten är viktig för en moderat och vi vill att det ska löna sig att arbeta, mer kvar i plånboken när lönen kommer. Våra äldre ska själva kunna välja sin omsorg, vara en del i beslut som tas om dom. Föräldrar ska inte riskera att få sina barn bussade till andra skolor.",
+    "name": "Moderaterna Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-salem"
+  },
+  {
+    "abbreviation": "R",
+    "altingetCandidateId": "1437",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs mer underlag för att besvara frågan. Innan det finns kan vi inte vara för ett sådant förslag.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sim- och sporthallen är i stort behov av underhåll. Den är också för liten och med en standard som inte motsvarar besökarnas krav och behov. Vi arbetar därför för en ny simhall i en multifunktionell byggnad: En anläggning för sport men också en mötesplats där även biblioteket kan ingå. Att bygga på detta sätt har också stora ekonomiska fördelar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla förslag som kan minska vår klimatpåverkan är välkomna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser ingen stor fördel med privat drift, även om vi inte på något vis är emot förskolor i privat regi.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna se varandras ansikten är viktigt, speciellt i skolan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår bedömning är att detta inte är en lokal fråga och därmed inte aktuell för Rönningepartiet att ta ställning till.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Salems kommun ligger efter och måste bli mycket bättre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Kulturutbudet i kommunen behöver öka. Vi vill på sikt se en avgiftsfri kulturskola.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": "Bygg en ny simhall\r\nKameraövervakning i Rönninge och Salems centrum\r\nStoppa kalhuggningen i kommunen",
+        "value": [
+          "2222"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D;B;D;D;C;A;B;D;D!;2/5;4/5;2/5;[2222]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ej aktuell.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett styre som prioriterar våra fyra hjärtefrågor:\r\n• Krafttag för ett tryggare Salem\r\n• Bygg en ny simhall\r\n• Låt Salem växa småskaligt\r\n• En offensiv klimatpolitik",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej. Vi kan styra med alla partier om de delar våra demokratiska värderingar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg en ny simhall i Salem Centrum",
+        "description": "Säby sim- och sporthall är i mycket dåligt skick. Det är tveksamt om en renovering ens är möjlig till rimlig kostnad. Dagens simhall är dessutom för liten och omodern. En renovering skulle också innebära att kommunen står utan simhall i minst ett år.\r\n•\tBygga en ny simhall som en del i ett medborgarhus. Det skulle gynna kultur, fritid och hälsa."
+      },
+      {
+        "category": "Krafttag för ett tryggare Salem",
+        "description": "Många i kommunen känner sig otrygga och är oroliga för att utsättas för brott. Den känslan måste vi ta på allvar. Vi vill förebygga rån, stölder, nedskräpning och annan brottslighet. \r\nVi i Rönningepartiet vill:\r\n•\tInföra kameraövervakning i Rönninge och Salems centrum, samt vid återvinningsstationerna.\r\n•\tAtt kommunen verkar för en ökad polisiär närvaro i kommunen."
+      },
+      {
+        "category": "Låt Salem växa småskaligt",
+        "description": "Vi vill att hela Salems kommun ska utvecklas utifrån en långsiktig vision och i en takt som är förenlig med bästa tänkbara livskvalitet – vi vill bibehålla lugnet och småskaligheten. \r\nVi i Rönningepartiet vill:\r\n•\tBygga  trygghetsbostäder i Rönninge centrum.\r\n•\tBygga fler radhus och kedjehus.\r\n•\tBygga nya cykelvägar mellan Salem, Botkyrka och Södertälje."
+      }
+    ],
+    "motivateVote": "Rönningepartiet är ett optimistiskt parti. I varje fråga arbetar vi på ett ansvarsfullt sätt för att finna positiva och konstruktiva lösningar som gagnar de som bor i Salems kommun.  Rönningepartiet för en praktiskt inriktad lokalpolitik utan ideologiska bindningar. Vi väjer inte för att driva obekväma frågor och vi stöder förslag som är bra, oavsett varifrån de kommer.",
+    "name": "Rönningepartiet Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "ronningepartiet-salem"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1438",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver använda alla redskap som finns i verktygslådan för att bryta segeration och utanförskap. Ett kommunalt bostadsbolag är ett sätt att öka möjligheterna att arbeta aktivt med boendefrågor. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om renoveringen av den gamla simhallen tar flera år så tycker vi det är rimligt att bygga en ny simhall.  Det slår hårt mot  simundervisningen och skolorna får svårt att leva upp till skollagen. Våra barns liv och hälsa påverkas om simkunnigheten minskar.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken behöver förstärkas. Vi behöver komma ifrån beroendet av bil. För en klimatsmart framtid behöver vi både se över dragningen av busslinjer, men även turtätheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att förskolan som ska byggas i Södra Hallsta ska ägas och drivas av kommunen. Det blir ett bra komplement till våra förskolor. En utredning från förvaltningen rekommenderar kommunal drift. För att vi ska kunna erbjuda fullgoda alternativ för våra medborgare, så behöver även nya förskolor drivas och ägas av kommunen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har religionsfrihet i Sverige, och det är bra. Ansiktstäckande slöja får inte användas för att dölja problem. Kraven på våra medarbetare att upptäcka och hjälpa till ska inte beror på om barnet bär slöja eller inte. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna förespråkar kompetensbaserad rekrytering, och språk är en viktig kompetens redan i rekryteringsfasen. Medarbetare som arbetar med klientnära arbete måste kunna tala med medborgarna och varandra. Kraven för dokumentation kommer att öka och det är viktigt att alla medarbetare kan uttrycka sig så att alla förstår. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ha verksamhet i egen regi, men det kan vara bra med privata utförare. Kommunen ska bli bättre på att ställa krav och följa upp verksamheterna som bedrivs i privat såväl som i kommunal regi. Även andra former som driftsentreprenad omfattas av det. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Salem är en rik kommun, med goda förutsättningar för både mottagande, boende och integration. Vi ska självklart ta vårt ansvar och ta emot flyktingar om det behövs, men det ska självklart ske på samma nivå som övriga kommuner. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Salems kommun ska i första hand ta hand om de anställda vi har, så att de får rimliga arbetsförhållanden och en rimlig arbetsmiljö, och där ingår en arbetstid som är rimlig. Det kan vara intressant att titta på en arbetstidsförkortning för den medarbetare som snart går i pension, för att denne ska kunna orka arbeta ända fram till pensionsdagen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla verksamheter inom kommunen ska verka för att integration och mottagandet av nyanlända blir så bra som möjligt, även friskolor. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska hjälpa till med markanvisning och ev bygglov för andra entreprenörer att tillhandahålla laddning. Kommunen ska arbeta aktivt för att underlätta exempelvis samfälligheters möjlighet att ordna egen infrastruktur avseende laddning av el-bilar. Kommunen ska ansvara för att laddstolpar till den egna fordonsparken finns. Det ska också finnas laddstolpar som vår personal kan använda.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": "Skatt är inte ett självändamål. Skattesatsen ska vara så det täcker den planerade driften, samt de investeringar som planeras. Skattesänkningar är inte rimligt under pandemi och ofredsår mot bakgrund av de utmaningar kommunen har. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2223",
+          "2221",
+          "2222"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;D;A;B;C;C;B;B;C;B;1/5;3/5;2/5;[2223,2221,2222]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Socialdemokraterna i Salem ser gärna ett styre över de traditionella blockgränserna. Vi är gärna med och styr i Salem.\r\n ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte styra tillsammans med SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "  Den planerade förskolan i Södra Hallstad ska drivas av kommunen",
+        "description": "Vi vill att nya förskolan som ska bygga i Södra Hallsta ska ägas och drivas av kommunen. Det kommer bli ett bra komplement till våra förskolor. En utredning från förvaltningen rekommendera kommunal drift."
+      },
+      {
+        "category": ". TA TILLBAKA KONTROLLEN ÖVER SKOLAN",
+        "description": "De barn som inte uppfyller kunskapsmålen ska få möjlighet till läxhjälp. Skolfrukost till alla som vill ökar elevernas förutsättningar att koncentrera sig och ger lugnare klassrum. Det bidrar också till att öka kunskapsresultaten. Den möjligheten vill vi ge alla barn. Med satsningar på skolan, föreningsliv, fritidsgårdar och stöd till barn- och ungdomsverksamhet ger vi alla barn livschanser"
+      },
+      {
+        "category": ". KLIMATOMSTÄLLNING FÖR FRAMTIDENS JOBB",
+        "description": "All upphandling och inköp i Salems kommun ska ske genom Klimatsmartupphandling – bra för klimatet och ger fler jobb \r\nSalems kommun ska ha en klimatplan och budget som visar hur snabbt klimatutsläppen måste minska\r\nFler klimatsmarta bostäder till rimliga priser"
+      }
+    ],
+    "motivateVote": "Vi vill skapa möjligheter för hela Salem. Alla, oavsett bakgrund, ska ha möjlighet att förverkliga sina drömmar, växa och ta sin del av ansvaret. Fusk inom välfärden måste upphöra. Solidariteten kring våra gemensamma resurser ligger i fokus för oss socialdemokrater i Salem.\r\n\r\n",
+    "name": "Socialdemokraterna Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-salem"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1439",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med ett långsiktigt ägande som kan säkerställa bostadsbeståndet för Salemborna och möjliggöra för ungdomar att få en första bostad. Vi vill se blandade upplåtelseformer med bostadsrätter, hyresrätter och villor/radhus.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för barn och även vuxna att få möjlighet att lära sig simma. Det är även viktigt för folkhälsan samt som attraktionskraft för kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att underlätta arbets- och skolpendling är det viktigt att det finns god kommunikationsmöjligheter och en väl utbyggd kollektivtrafik.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss sverigedemokrater är driftsformen inte det väsentliga utan att verksamheten bedrivs på ett så bra sätt som möjligt. Om det sker i privat eller kommunal regi är av underordnad vikt så länge kvalitén säkras.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag växer många unga upp i olika former av hederskulturer eller under normer där de står under påtryckningar att bekänna sig till och utöva en viss tro. Slöjan kan i vissa fall vara ett uttryck för sådana påtryckningar och kan i så fall utgöra en barriär från att fullt ut dela den frihet som bör tillkomma alla i Sverige. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språkkrav är en självklarhet för att säkerställa tryggheten i omsorgen. Om anställda ej kan göra sig förstådda eller förstå kollegor och brukare kommer kvalitén i omsorgen bli undermålig och i värsta fall resultera i vårdskador.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna ser positivt på valfrihet och privata vårdformer så länge de privata vårdgivarna lever upp till de ställda kvalitetskraven. Vid upphandling av entreprenad inom äldreomsorgen ska kvalité vara en tung och viktig faktor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Massinvandringen har skadat Sverige, inklusive Salem, så mycket och under så lång tid att vi nu måste ha en så begränsad flyktingmottagning som möjligt samt att fler ges möjlighet att återvandra till sina hemländer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ekonomiska läget idag tillåter inte en så betydande reform av arbetsmarknaden. Däremot ska kommunen erbjuda möjlighet till heltidsanställning inom omsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är kommunens ansvar att säkerställa utbildningsplatser till de elever som man accepterat att ta emot. Det är inte privata aktörers uppgift att tvingas lösa ett regeringens oansvariga invandringspolitik.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "För framtidens infrastruktur i Salem måste man se till att laddinfrastrukturen finns för den allt större grupp av invånare som väljer elbilen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "Blandade upplåtelseformer är något som Sverigedemokraterna anser vara positivt. Därför ser vi ingen anledning att ändra på existerande balans mellan kommunalt och privat.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste är att de pengar som satsas inom kultur- och fritid kommer så många invånare som möjligt till nytta. Att man även fortsättningsvis satsar på barn, ungdomar och individer med funktionsvariationer.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": "För att göra kommunen mer attraktiv och locka hit såväl småföretagare som privatpersoner är det viktigt att hålla nere avgifter och kommunalskatt så mycket som möjligt, samtidigt som man naturligtvis måste säkra tillräckliga skatteintäkter för den kommunala kärnverksamheten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2220",
+          "2215",
+          "2219"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;C;C;D!;D!;D;D!;B;A;C;2/5;2/5;1/5;[2220,2215,2219]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppna för samarbete med samtliga övriga partier så länge de har Salems bästa i åtanke.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola/utbildning",
+        "description": "Salems kommun måste säkerställa en trygg arbetsmiljö för såväl elever som lärare. Kraftag mot mobbare - det är alltid mobbarna som måste flytta, inte offren i de fall det är nödvändigt. Salems kommun måste säkra tillgången på utbildade pedagoger genom att erbjuda attraktiva arbetsvillkor."
+      },
+      {
+        "category": "Hälsa & Fritid",
+        "description": "För såväl det fysiska som för det psykiska välmåendet är det viktigt att kommunen satsar på möjligheter och ytor för såväl spontanidrott som organiserad idrott. Detta leder förhoppningsvis också till en ökad känsla av gemenskap inom kommunen."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Salems kommun utsågs 2010 till Sveriges tryggaste kommun. Målsättningen måste vara att återerövra den titeln. Otryggheten är förödande för såväl individer som företag, vilket i sin tur påverkar förutsättningarna för välfärden. Kamerabevakning (liksom finns idag på Rönninge gymnasium) och ronderande väktare är ett par av förslagen för ökad trygghet i kommunen."
+      }
+    ],
+    "motivateVote": "SD vill att Salem ska bli bra igen. Vi har många idéer för hur detta ska ske. Vi vill bevara Salem som småstadsidyll. Vi är inte som de andra och det kommer märkas när vi får styra.  Vi kommer hålla vad vi lovar och kommer alltid arbeta för Salembornas bästa. De övriga partierna har haft sin chans. Det är dags för en annan väg för Salem - välj Sverigedemokraterna.",
+    "name": "Sverigedemokraterna Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-salem"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1440",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "013a2276947cc9806ddc90e77063394f",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att säkerställa att vi bygger hyresrätter och att de blir så billiga som möjligt att hyra. Det är viktigt att Salem passar som bostadsort för alla livets faser.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7329a3b0a064f63f034612262d47b47f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att förslaget ses över som ett alternativ till renovering.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "046c5d972a2833304c710a1c27702991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste bli lättare att åka kollektivt så att vi får ner bilåkandet för klimatets skull. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad65ee1672f54e1ce9ad86d3f39c3775",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommunens delar ska erbjuda förskolor i kommunens regi, vi måste säkerställa att pengarna går till verksamheten och inte till vinster.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fc37c28c4a6d28ce76cc0fe2a3a5418d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte det förekommer på kommunens skolor och skulle det förekomma så får skolan lösa det i samråd med eleven. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c733673942661a052b17750a06af45f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att man kan svenska i verksamheten, det ska ske genom internutbildning av personal med otillräckliga språkkunskaper. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "37bbf3231d7505ad201e6291d3dddd4f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser alternativa driftsformer som personalkooperativ ex., däremot så vill vi inte att man ska kunna ta ut vinster i välfärden. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f1d64cf245baaf64dc0d268dcf284ee5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Salem är en välmående kommun som har goda möjligheter att ta emot flyktingar, och integrera dem i vårt gemensamma samhälle.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b3ffbfc7787b3e27a6c2d2c5fc62753",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är intressant att utreda.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "314770de85cce5402773356d8f21592d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för jämlikheten att barn med olika livssituation blandas i skolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f80f8fc3bc4c97b46fd1b3eb2a45e10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi går mot miljövänligare och klimatsmartare sätt att transportera oss, som ett komplement till kollektiva lösningar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f9788faea1cca4926f6547c29c19bf12",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inte ha vinster i välfärden, alla pengar som går till skolan ska spenderas på barnen.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "e416dac3140ab6718fa51b5cb6a983db",
+        "questionType": "RANGE",
+        "reasoning": "Ganska små summor skulle göra tillgängligheten bättre. Vi vill se utökade öppettider på biblioteket, och mer spontanaktiviteter för ungdomar, vi vill också satsa mer på föreningslivet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "884c61007bda44bd0aa8620d84503f00",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "98cdd2ca1e657b64c482d242ae8c71c9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2223",
+          "2221",
+          "2218"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D!;A!;A;B;B!;A!;C;D!;D;0/5!;3/5!;2/5;[2223,2221,2218]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej\r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna ett maktskifte i kommunen för större fokus på jämlikhet och miljö.\r\nVänsterpartiet är annars ett viktigt oppositionsparti som kommer driva frågor för billiga hyresrätter, hållbar utveckling, jämlik skola och att kommunen ska vara en bra arbetsgivare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunalt bostadsbolag - hyresrätter till rimlig kostnad",
+        "description": "Med ett eget kommunalt bostadsbolag kan vi styra bostadsbyggandet efter behov, det behövs mer anpassade bostäder för ungdomar och seniorer."
+      },
+      {
+        "category": "Satsa på kollektivtrafiken",
+        "description": "Med billigare och mer behovsanpassad kollektivtrafik kan fler välja kollektivtrafik framför bilen. Vi kommer verka för direktbussar till Södertälje och Kungens kurva för att komplettera linje 745."
+      },
+      {
+        "category": "Satsning på kultur och fritid ",
+        "description": "Vi vill utöka möjlighet till kultur och fritidsupplevelser i kommunen t.ex genom utökade öppettider på bibliotek och ishall. Det är viktigt att skapa möjlighet även  för barn och unga som inte är anslutna till föreningslivet att delta. Vi vill värna kommunens föreningsliv."
+      }
+    ],
+    "motivateVote": "Vi vill ha ett Salem för alla! I vårt Salem kan man leva på sin lön och jobba heltid om man vill. Vi vill ha en bra och jämlik skola av god kvalitet för våra barn. Man ska kunna hyra sin bostad och få en värdig och innehållsrik ålderdom. I vårt Salem får alla jämlika möjligheter att utvecklas och vi lever hållbart och klimatmedvetet med tanke på kommande generationer. ",
+    "name": "Vänsterpartiet Salem",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-salem"
+  }
+]

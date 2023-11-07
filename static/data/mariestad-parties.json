@@ -1,0 +1,1162 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1100",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturen tillåter inte det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med den stora etablering i Mariestad måste mer samarbete prioriteras.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att ha viss kontroll och inflytande över bostadssituationen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalförsörjningen är redan idag ett problem. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett för stort ohanterligt ingrepp i den parlamentariska demokratin. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillräckliga resurser ska tillföras för att göra det möjligt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska gälla samma för alla. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala skattepengar ska inte gå till att subventionera hyra. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka valfriheten för kommuninvånarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det sköter den privata marknaden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver mer arbetskraft.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": "Fördelningen fungerar bra.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": "Under pandemin har man sett att människor har stora behov av det. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1722",
+          "1727",
+          "1724"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;B;B;B;C;D;B;D;B;A;2/5;4/5;2/5;[1722,1727,1724]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Investeringen i höghastighetsbanan.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet i Mariestad söker stöd för liberal politik i mitten av politikerskalan.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD är inte ett alternativ, även V står långt ifrån oss ideologiskt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "God vård, omsorg och stöd i livets alla skeenden",
+        "description": "Oavsett var i kommunen du bor ska du ha tillgång till god vård och omsorg där kvalitet och omtanke om vårdtagarna prioriteras. Vi värnar om personalen som arbetar inom vård och omsorg. Resurser och bemanning måste prioriteras så att personalen räcker till och utvecklas. Det är då de kan ge god vård och omsorg."
+      },
+      {
+        "category": "En god utbildning för alla invånare",
+        "description": "Varje elev ska erbjudas hjälp och stöd för att utvecklas och lära sig. I en trygg skolmiljö där fokus ska ligga på kvalitet. Varje elev ska ha möjlighet att gå ur grundskolan med godkända betyg. Idag står många branscher utan arbetskraft. Vi vill värna om och utveckla utbudet på Vadsbogymnasiet, vuxenskolan och Da Capo för att möta näringslivets behov."
+      },
+      {
+        "category": "Värna om både landsbygd och småstad",
+        "description": "Landsbygden är själen i vårt parti.I Mariestads kommun ska alla kunna leva och förverkliga sina drömmar, oavsett var man bor."
+      }
+    ],
+    "motivateVote": "Vi är ett grönt parti i mitten med hjärta, beslutsamhet och sunt förnuft.",
+    "name": "Centerpartiet Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-mariestad"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1101",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-mariestad"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1102",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att främja centrumhandeln så är det viktigt att det är lätt att ta sig till centrum.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med samarbete mellan mindre kommuner för att få ner kostnader och främja etableringar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med kommunala bolag inom tex energi och bostäder då det är samhällsnytta före vinst.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anser att sex timmar arbetsdag skulle ha en för stor kostnadspåverkan samt att personalen kan bli mer stressade på arbetet då arbetsuppgifterna finns kvar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även friskolor ska vara en del av integrationen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att det är bra med fler alternativ och valfrihet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men låt marknaden och efterfrågan driva utbyggnaden av laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": "Det är en bra skattesats som det är idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1722",
+          "1723",
+          "1725"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;A!;A;B;D;D;B;D;C;B;3/5;3/5;2/5;[1722,1723,1725]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En borglig regering.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och Vänstern",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola",
+        "description": "Det är viktigt att grundskola och gymnasiet får tillräckliga\r\nekonomiska och organisatoriska förutsättningar för att uppfylla\r\nskollagen. Alla elever måste få möjlighet att nå kunskapsmålen\r\ni skolan. När man går ut grundskolan ska eleverna ha de kunskaperna\r\nsom krävs för att klara fortsatta studier."
+      },
+      {
+        "category": "Sociala",
+        "description": "Tidigt förebyggande arbete mot barn för att bl.a. förhindra omhändertagande av barn samt uppfylla\r\nsocialtjänstlagens syfte.\r\nBidra till minskad isolering av de gamla. Äldre svårt sjuka ska vårdas på attraktiva särskilda boenden\r\noch kommunen bör verka för att ytterligare seniorboenden byggs för äldre (55 +)."
+      },
+      {
+        "category": "Infrastukturen",
+        "description": "Vi anser att Kinnekullebanan måste finnas kvar och utvecklas.\r\nDenna linje är vikigare än någonsin för såväl industrier som  för privatpersoner.  Det finns flera viktiga skäl att Kinnekullenanan behålls med  tanke på miljön. I Tyskland provkörs idag vätgasdrivna tåg.\r\nKinnekullebanan kan ev få bidrag från EU  för att testa detta intressanta fossilfria alternativ."
+      }
+    ],
+    "motivateVote": "Du ska få leva ditt liv som du vill, bestämma över dig själv, ha dina egna drömmar och kunna jobba för att de ska bli verklighet. Det är frihet, och det är vad liberalism handlar om.",
+    "name": "Liberalerna Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-mariestad"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1104",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns inget förbud som vi vet om?",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi i MP har motionerat om mera laddstolpar 2021 02 18",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": "Lokal kultur ger oss som medborgare ett rikare liv",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens stora skuldsättning motiverar högre skatt. Inte rätt att kommande generationer ska betala för våra beslut.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1726",
+          "1730",
+          "1724"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;A;C;B;C;D;C;B;D;A;1/5;4/5;4/5;[1726,1730,1724]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att vi deltar i en stabil majoritet som arbetar med allas välfärd som grund.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna behöver ha en mycket bättre lokal ledning om de ska styra",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barnens perspektiv på stadens miljö",
+        "description": "Vi vill att barnen får en ökat inflytande över hur kommunen planerar för natur, bostäder, skolor och trafik"
+      },
+      {
+        "category": "Förbättra möjliheten att cykla ",
+        "description": "Miljöpartiet vill skapa en förändring av hur vi tänker när vi transporterar oss:\r\nKan jag gå? \r\nKan jag cykla? \r\nKan jag åka kollektivt?\r\nSka jag sitta i 1 ton fosildriven metall?"
+      },
+      {
+        "category": "Utvekla Sjöhagaparken",
+        "description": "Gör om Sjöhagaparken till ett område för rekreation och återhämtning för medborgarna. Parken ska även fungera som en grön korridor för biologisk mångfalld."
+      }
+    ],
+    "motivateVote": "För miljön och för kommande generationer",
+    "name": "Miljöpartiet Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-mariestad"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1105",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dag har vi redan bilfria zoner i Mariestad, exempelvis nattetid i centrum. Parallellt med detta arbetar vi med gångfartsområden där fotgängare har företräde.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska utveckla de delar i samarbetet som fungerar bra i dag, och öka vårt samarbete gentemot övriga Skaraborgskommuner, eftersom det är vår arbetsmarknadsregion.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen anledning att kommunen ska konkurrera med privata företag. Vårt kärnuppdrag är vård, skola och omsorg och finns det det ett befintligt näringsliv som tillhandahåller det som efterfrågas så ska inte en kommun konkurrera.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens och Sveriges ekonomi bygger på att alla som kan ska arbeta. Samtidigt ska man som anställd kunna påverka hur mycket man själv vill arbeta, och inte tvingas arbeta heltid om man själv vill ha en lägre tjänstgöringsgrad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan i dag finns möjligheten att påkalla en lokal folkomröstning. Samtidigt bygger den svenska representativa demokratin på att man väljer företrädare och det är ett misslyckande om som majoritetspolitiker hamnar i den situationen att man måste avgöra en fråga med en folkomröstning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är oerhört viktigt att den som arbetar inom äldreomsorgen kan kommunicera, både med kollegor och framförallt med våra äldre, så att man undviker felmedicinering eller andra misstag, samt att man kan vidarebefordra våra äldres önskemål till den personal som kommer efter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte ha någon segregation, därför är det av största vikt att alla skolor tar ett gemensamt ansvar, oavsett om de drivs i privat eller offentlig regi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att allmännyttan (Mariehus) ska ett brett utbud av boendeformer, samtidigt som det är kommunens uppgift att locka till sig andra hyresvärdar så att bostadsbeståndet tillgodoser allas behov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hittills har det inte funnits något intresse från privata aktörer att etablera sig i Mariestad, vilket kan ses som både bra och dåligt: vi blir inte konkurrensutsatta och äldres valmöjligheter minskar, samtidigt som kommunen har en mycket god kontroll över den vård som utförs då den är i egen regi.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns det en väl fungerande privat marknad som bygger upp laddinfrastrukturen. Så länge den fungerar finns ingen anledning för kommunen att börja konkurrera med näringslivet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mariestad ska ta emot de flyktingar som tilldelas oss, varken mer eller mindre. Migrationspolitiken är en nationell angelägenhet, där alla kommuner måste ta sitt ansvar. På nationell nivå måste man styra hårdare och snabbare vad gäller vilka som ska få stanna i Sverige.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi ett gott samarbete med de redan etablerade privata skolorna och vi har rätt antal platser. Vi planerar för att bygga fler skolplatser i framtiden, detta i kommunal regi.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": "Ett rikt och brett kulturliv är viktigt för Mariestadsborna. Därför är vi väldigt stolta över att under mandatperioden startat både kulturskolan och fritidsbanken samt att vi har ett nyrenoverat bibliotek och en fantastisk teater.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": "Tack vare att kommunens övriga intäkter växer kommer vi kunna ligga kvar på den nuvarande skattenivån. Man ska vara medveten om att en höjd skatt alltid drabbar de som har minst kvar i plånboken hårdast, det vill säga ensamstående pensionärer och ensamstående föräldrar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1727",
+          "1723",
+          "1725"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;C;A;B;D;D;B;B;B;B;2/5;2/5;2/5;[1727,1723,1725]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns inga frågor där vi avviker ideologiskt, däremot tycker vi att partiet måste bli bättre på att driva mindre kommuners intressen och inte ställa storstad och landsbygd mot varandra. Stad och land går hand i hand.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi önskar att få fortsätta med den alliansmajoritet vi arbetat i den här mandatperioden, då vi har ett väloljat samarbete där vi respekterar varandras ståndpunkter.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De som inte står för samma värdegrund som oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola och omsorg",
+        "description": "Vi vill ha en skola där man ser till varje barns behov. För att skolan ska lyckas behöver den ett gott samarbete med föräldrarna där vi tillsammans arbetar för att tidigt upptäcka dem som behöver extra stöd.\r\n\r\nVi vill ha en äldreomsorg med människans behov i fokus där våra äldre är trygga och vet att de får den hjälp de behöver i sina egna hem, i särskilda boenden och i vårt nya trygghetsboende."
+      },
+      {
+        "category": "En kommun man vill leva och bo i",
+        "description": "Mariestad ska bli en ännu mer attraktiv boendekommun, mer ett stort kulturellt utbud, och ett starkt föreningsliv. Vi ska utveckla vårt unika läge i harmoni med Vänern och landsbygden, till en än mer välskött kommun med en trygg och trivsam centrumkärna och blomstrande kransorter, där alla, ung som gammal, nyinflyttad eller redan bofast, hittar sina smultronställen och sin framtid."
+      },
+      {
+        "category": "En fortsatt hållbar tillväxt",
+        "description": "Genom att vi fortsätter vårt omställnings- och klimatarbete skapas nya gröna arbetstillfällen, en förutsättning för att befintliga företag ska finnas kvar, och att nya väljer att etablera sig i Mariestad. Ett starkt näringsliv innebär att kommunen får mer pengar i kommunkassan som kan återinvesteras i kärnverksamheten, skolan och omsorgen."
+      }
+    ],
+    "motivateVote": "Vi har visat att vi har en förmåga att utveckla och förädla Mariestad. Vi backar inte för de utmaningar vi ställs inför, utan vi tar tag i problemen omgående. Vi har fått ordning på kommunens ekonomi, och kan numer återinvestera pengarna i kärnverksamheten. Vi vill få förtroendet att fortsätta den inslagna linjen.",
+    "name": "Moderaterna Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-mariestad"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1106",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att biltrafiken inte prioriteras överallt. Det ska vara lätt att gå eller cykla i Mariestad! Däremot tror vi inte på större bilfria områden i centrum.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill arbeta för statligt stöd för fler hyresrätter samt för att det kommunala bostadsbolaget ska prioritera boenden i olika prisklasser.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": "Socialdemokraterna vill stoppa vinstjakten i skolan, men uppskattar väl fungerande och icke vinstdrivande privata alternativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1722",
+          "1727"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;A;A;A;C;D;C;B;D;B;2/5;3/5;2/5;[1722,1727]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I första hand socialdemokratiskt majoritetsstyre. I andra hand en koalition där Socialdemokraterna är det ledande partiet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler anställda i välfärden",
+        "description": "Vi vill förbättra arbetsmiljön i förskola, skola och omsorg genom att anställa fler så att fler får dela på arbetsuppgifterna."
+      },
+      {
+        "category": "Kulturhus",
+        "description": "Ett centralt kulturhus för möten över generationsgränser där också föreningar kan ha sina verksamheter."
+      },
+      {
+        "category": "Fritidsaktiviteter i de mindre tätorterna",
+        "description": "Mycket av barns och ungdomars fritidsaktiviteter finns idag i Mariestads centrum. Genom att upplåta kommunala lokaler till föreningar och fritidgårdsverksamhet vill vi möjliggöra fritidsaktiviteter i hela kommunen."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna är det självklara alternativet för dig som tycker att kommunens viktigaste uppgift är att bedriva en god service till invånarna. Mariestad behöver en fungerande barnomsorg, en skola med goda resultat och en trygg äldreomsorg.",
+    "name": "Socialdemokraterna Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-mariestad"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1107",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns en del bilfria områden i Mariestad, att göra delar av eller hela centrum riskerar ge negativ konsekvenser för handeln i centrum.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": "De samarbeten vi har med Töreboda och Gullspång fungerar i stort sett bra, men vi behöver däremot se över finansieringen och de andra kommunernas vilja och möjlighet att stanna kvar i samarbetet vid en mer rättvis fördelning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte påverka marknaden för de privata näringsidkare, med enstaka få undantag inom vissa viktiga välfärdsområden. \r\nRisken finns även att de kommunala bolagen snedvrider marknaden på ett negativt sätt och den naturliga konkurrensutvecklingen mellan de privata näringsidkarna om att ständigt öka sin kvalitet uteblir.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Någon måste stå för kostnaderna och det är inte rättvist att andra kommunalt anställda ska jobba fullt och dessutom få betala mer i skatt. Vi ska däremot inte vara avvisande mot att vissa väljer att jobba deltid med en deltidslön.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kostar mycket pengar och vi har förtroendevalda som på ett demokratiskt sätt valts att föra befolkningens talan i kommunala frågor. Folkomröstningar om kommunala frågor kan man ta till i undantagsfall, det är oftare nationella frågor av en viss dignitet där vi bör kräva fler nationella folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utan en adekvat kommunikationsförmåga blir det väldigt svårt för vårdgivarna att leverera den vårdkvalitet som våra äldre förtjänar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolorna ska givetvis kunna välja själva vilka elever man vill ta emot och vilka man har tillräcklig kapacitet för att ta emot.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska i samarbete med olika aktörer värna och verka för att det byggs fler billiga hyreslägenheter, men det ska inte subventioneras av kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en fråga om kvalitet, och inte vilken aktör som levererar vården. \r\nDet finns studier som visar att privata vårdbolag i genomsnitt lyckas bättre med vårdkvalitet och personaltäthet än de kommunala verksamheter, och sålunda är det kvalitetsbrister vi måste angripa och göra det svårare för både de offentliga och privata vårdgivarna att inte ställa tillräckligt höga krav på sina verksamheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens engagemang i frågan är viktig med den trendlinje kring elbilar vi haft och kommer fortsätta se, men det är i första hand staten och inte kommunen som ska subventionera en sån utbyggnad.\r\nKommunen kan inte vara den som tar ansvar för sina invånarnas olika val vid köp av bilar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte kapacitet för att ta emot fler i nuläget. Vi har också fortfarande människor som kommit hit 2015, men som ännu inte kommit in i samhället ordentligt, och som vi måste se till att prioritera först.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": "Man kan inte sätta någon generell nivå på i vilket omfattning det ska ske, utan det avgörs av efterfrågan, tillgång och kvalitet på verksamheten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": "Mariestad har i det stora hela en välbalanserad och sund prioritering kring hur mycket av kulturlivet som kommunen ska finansiera och underlätta förmedling och introduktion av.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": "Bland 290 kommuner i Sverige hamnar Mariestad på plats 80 bland de kommuner som har lägst skattesats, vilket såklart är positivt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": "Det finns uppenbarligen behov av att öka antal anställda och vårdkapaciteten i Mariestad på flera av våra boenden och vårdtagare som har hemtjänst.\r\n\r\nOm vi menar allvar med Mariestads hälsostrategi behöver vi utöka cykelvägarna både inom kommunen och göra det enklare att cykla till grannstäderna.\r\n\r\nFler seniorboenden ger plats för fler invånare som betalar skatt.",
+        "value": [
+          "1727",
+          "1726",
+          "1723"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;B;D!;A;B;C;B;D!;2/5;2/5;2/5;[1727,1726,1723]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte generellt sett men det kan ju i vissa sakfall finnas särskilda omständigheter som gör att man i just den aktuella frågan kanske förespråkar en annan politik än rikspolitiken.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill självklart ha något form av samarbete med de styrande partierna, för att vår politik och våra idéer ska få mer inflytande i kommunens politik genom att regelbundet kunna sluta överenskommelser och kompromisser över partigränserna. Men vi kan även tänka oss en vågmästarroll.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi resonerar inte så infantilt och oansvarigt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunen ska ha mer kameraövervakning och fler väktare",
+        "description": "Vi behöver stärka kameraövervakningen och väktarresurserna i kommunen för en förhöjd trygghetskänsla hos invånarna och en möjlig fortgång av vårt fina förenings- och näringsliv i Mariestad.\r\nDet är inte bara en förebyggande åtgärd, utan handlar också om att lättare kunna ge upprättelse och uppklarning till offren när de väl blir utsatta för brott."
+      },
+      {
+        "category": "Öppna jourcentralen",
+        "description": "Mariestads kommun ska utöva påtryckningar på regionen för att försöka få dem att snabbare verkställa det beslut som finns om att Mariestads jourcentral skulle öppnas upp igen."
+      },
+      {
+        "category": "Språktest för skolpersonal",
+        "description": "Precis som att vi vill se språktest för människor som ska jobba med våra äldre, för att kunna leverera en korrekt och kvalitativ vård, vill vi även se språktest för de människor som ska arbeta och undervisa våra barn i sin roll som lärare eller lärarassistent samt i andra roller kuratorer, barnpsykologer m.m."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna är ett socialkonservativt parti med nationalistisk grundsyn. Vi bejakar lag och ordning, gemensamhetsskapande traditioner, samhällsbärande institutioner och bevisat välfungerande naturliga gemenskaper i form av familjen och nationen. \r\n\r\nVi eftersträvar ett demokratiskt, jämställt och miljövänligt samhälle där alla medborgare skyddas av, och är lika inför, lagen. ",
+    "name": "Sverigedemokraterna Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-mariestad"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1108",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "81b040cc723b244eb33374766414aeff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har lagt en motion om en handlingsplan för att göra vissa områden bilfria. Hänsyn ska naturligtvis tas till personer som är beroende av bil t ex till följd av funktionsnedsättning. Vi vill att bil används så lite som möjligt vid kortare sträckor (i de fall det är möjligt) inom tätorten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4e413b1d29cc20e822acd0607167b214",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns samarbete inom en trad områden. Mindre kommuner kan tjäna på samarbete och därmed kunna utnyttja kompetens gemensamt",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "722215a46ee44cc47eeec636509ac238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag befinner sig på en marknad men ska styras enligt ägarens intentioner. Kommunala bolags primära uppgift är naturligtvis inte att konkurrera med privata företag",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f841eae6eef1ab1b7c39a6331c2028f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslår ett försök med arbetstidsförkortning i en enhet inom äldreomsorgen. Anställda inom vård och omsorg har ett tungt jobb, man ska orka ett helt arbetsliv. Det kräver en god arbetsmiljö och att kommunen är en bra arbetsgivare för att kunna rekrytera och behålla personal",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "83aa11c31924fc6aab5a604cd0106bf9",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de fall det är motiverat kan folkomröstning hållas som ett av flera inslag i vår kommunala demokrati. Det får avgöras från fall till fall om det finns en fråga som kan vara av en sådan karaktär att folkomröstning ska genomföras. Går ej att ge ett generellt svar på frågan",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bb205d1a67f44022e504ce2a719a0914",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för trygghet och säkerhet med språkkunskaper för en bra kommunikation\r\nExakt hur detta ska hanteras får avgöras från fall till fall",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7030e6b202ba7de604cf0b4ad6d35fc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för integrationen dessutom ska vi ställa samma krav på friskolor som på kommunala skolor. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "586a8371dfc631d32711734a33d9a879",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bostadsbolag ska värna hyresrätten\r\nNaturligtvis önskvärt med låga hyror men svårt framför allt i nyproduktion\r\nBostadsbidrag/bostadstillägg viktigt stöd vilket är statens ansvar. För att kunna hålla nere hyrorna krävs statliga subventioner vilket kan reducera byggnadskostnader",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a193542ce344feb9e63863823f64b1e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska i första hand gå till vård och omsorg, inte till vinstutdelning. Erfarenhet från pandemin visar också att det i flera fall varit enklare att ha överblick över och förhindra spridning av Covid i verksamhet som drivits av kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4df6c550e788bf43605b537283b752a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta fram plan/strategi för utbyggnad av laddstolpar",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b7a546a93f18c818ec7f1bb73ebc30b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ta emot flyktingar är en solidarisk handling. Dessutom är asylrätten en mänsklig rättighet",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cfe82eef0b45e8d90ad7db922670e87c",
+        "questionType": "RANGE",
+        "reasoning": "Skattepengar ska gå till undervisning. Då det finns enheter som ägs av skolkoncerner öppnar vi upp för att pengarna går till vinster som delas ut. Det kan också finnas en tendens att fristående skolor/förskolor kan köpas upp av större koncerner",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f08730b31e601856be76c15f272d5419",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har nyligen antagit ett nytt kulturpolitiskt program med höga ambitioner. Inga nya pengar har tillförts. Kulturen spelar en viktig roll. Avgifterna till Kulturskolan ska sänkas. Fler elever måste få möjlighet att delta",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8c2abc9f171fbb9a66672bd2b31d8e0b",
+        "questionType": "RANGE",
+        "reasoning": "För en trygg välfärd behövs mer intäkter. Det får vi dels genom fler i arbete men också genom höjd skatt. Det ekonomiska läget just nu är osäkert med bl a en mycket hög inflation. Det gör att många hushåll har en ansträngd ekonomi, något som vi måste ta hänsyn till.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "9874445df97ac815c5ad68fe420ee8ff",
+        "questionType": "PRIORITY",
+        "reasoning": "Anställa mer personal: Ökar trygghet både för vårdtagaren och personal. Minskar stress och bidrar till förbättrad arbetsmiljö.\r\nMindre barngrupper: Personalen ges större möjlighet att utföra sitt jobb och se varje barn. Vi vill minska barngrupperna med samma personal.  \r\nFler grönområden: Viktigt för klimatanpassningen, den biologiska mångfalden och invånarnas hälsa. Vi måste ha en tydlig strateg",
+        "value": [
+          "1727",
+          "1729",
+          "1730"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;A;C;C;B;D;C;A;D;A;0/5;4/5;3/5;[1727,1729,1730]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi hoppas på en stark vänstervåg i valet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna, moderaterna, centern, liberalerna, kristdemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Arbetsmiljöfrågorna i fokus",
+        "description": "Kommunen måste vara en god arbetsgivare för att kunna rekrytera och få anställda att vilja stanna på sina jobb. Det är viktigt för att klara välfärdsuppdraget och få trygga brukare. Svar i medarbetarenkäter ska resultera i förbättringsåtgärder. Lyhördhet inför anställdas önskemål gällande arbetstid. Vi vill genomföra försök med arbetstidsförkortning på enskild enhet inom vård och omsorg."
+      },
+      {
+        "category": "Handlingsplan för barn i ekonomiskt utsatta familjer",
+        "description": "Alla barn ska ha möjlighet till goda levnadsvillkor och en aktiv fritid. Alltfler barn lever i familjer med låg ekonomisk standard (enl SCB och Rädda Barnen). Viktiga åtgärder är att barngrupperna i förskolan blir mindre, med bibehållen personalstyrka. Vi vill införa frukost i grundskolan. Vi vill göra Mariestad till en barnrättskommun och bevaka att Barnkonventionen efterlevs."
+      },
+      {
+        "category": "Satsa på tätortsnära grönområden",
+        "description": "Mariestads kommun ska vara en föregångare när det gäller tätortsnära grönområden, en viktig del i bygget av ett hållbart samhälle. Det ska beaktas när kommunen expanderar och planerar för nya bostäder och industriområden. Vi vill också införa möjlighet till stadsodling. Det ger fler möjlighet att odla samtidigt som den främjar den biologiska mångfalden. Vi vill göra en grön park vid Katthavsviken."
+      }
+    ],
+    "motivateVote": "För (v) är välfärden och miljö- och klimatarbetet viktigt . Det ska finnas tillräckligt mycket personal inom barn- och äldreomsorg och inom skolan för att skapa trygghet och goda resultat. Arbetsmiljöarbetet ska vara centralt. Tätortsnära grönområden och möjlighet till stadsodling gynnar både rekreation och den biologiska mångfalden. Vi vill satsa på återbruk. Gång- och cykelvägar i gott skick.\r\n\r\n",
+    "name": "Vänsterpartiet Mariestad",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-mariestad"
+  }
+]

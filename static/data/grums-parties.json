@@ -1,0 +1,972 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "412",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;C;C;B;A;C;C;B;D;D;A;3/5;1/5;2/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, i det stora hela står centerpartiet i Grums för den politik som Centerpartiet står för. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "I Grums skolor ska varje elev få förutsättningar att lyckas ",
+        "description": "Alla barn har rätt att få en bra utbildning, oavsett var i landet eller kommunen man bor, med elevernas trygghet och kunskapsutveckling i fokus. Centerpartiet vill utveckla elevhälsan i Grums och samarbetet med BUP och att samverkan mellan skola och socialtjänst utvecklas. \r\nFler unga ska få hjälp i tid. Att våra barn har möjligheter att få tillräckliga kunskaper är vår framtid!"
+      },
+      {
+        "category": "En tillgänglig omsorg med bra arbetsmiljö för de anställda ",
+        "description": "Det är en trygghetsfråga att veta att man får hjälp när man behöver det. Vi vill bl.a. stärka den medicinska kompetensen i kommunerna för att kunna ge mer vård i hemmet. Kommunen ska vara en god arbetsgivare, inte minst för att kunna rekrytera kompetent och engagerad personal till omsorgen."
+      },
+      {
+        "category": "Sverige och Grums kommun ska gå före i klimatarbetet ",
+        "description": "Agenda 30 ska vara ett styrdokument för politiker och tjänstemän. Centerpartiet ska visa handlingskraft och ledarskap i det lokala klimatarbetet för att göra det lättare att ställa om till ett hållbart samhälle. Vi ska ta vårt ansvar för att fasa ut fossila bränslen, öka produktionen av förnybar energi, satsa på energieffektivisering och införa ett lägsta golv för miljö- och klimatkrav."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar. ",
+    "name": "Centerpartiet Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-grums"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "413",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vad som menas med motprestation. Alla människor har rätt till mat för dagen, tak över huvudet och andra livsnödvändiga saker.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att politiker ska styra skolans måltidsverksamhet på den detaljnivån. Maträtter utan kött i har alltid funnits i skolmaten och bör fortsätta finnas, de är en del av en varierad nyttig kost till låga priser och har ofta låg miljöpåverkan. Både mat med och utan kött bör dock upphandlas så att kommunen köper varor som producerats så hållbart som möjligt, t.ex. genom en hög andel eko.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det enda kommunala bolag som konkurrerar med privat näringsliv är det kommunala bostadsbolaget GHAB, och vi vill att det ska fortsätta finnas allmännyttiga bostäder i kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för att arbetstiden sänks på olika sätt, det är nu länge sedan sist vi tog ut produktivitetsökningen i kortare arbetstid. Det är förmodligen inte möjligt att i ett slag sänka arbetstiden så mycket med bibehållen heltidslön om kommunen ska ta hela kostnaden, men vi vill att det ska ske förändringar i den riktningen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att invånarna kommunen oftare ska få möjlighet att säga sin mening i viktiga frågor. Särskilt om det gäller förslag som inte varit kända när det var val.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna förstå och göra sig förstådd är viktigt i arbete med människor. Språkkraven ska dock vara rimliga i förhållande till arbetsuppgifterna, och behöver inte vara på samma nivå som t.ex. läkare eller lärare. Det är även bra om kunskaper i andra språk kan tas tillvara i omsorgen om äldre med annat modersmål än svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om de nyanlända bor i närheten av Borgvik eller Värmskog är det väl bara naturligt att de går på den lokala friskolan. Men det är viktigt att det tillförs resurser om det behövs t.ex. särskild modersmålsundervisning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att det behövs fler lägenheter i Grums. Även om de byggs på ett billigt sätt så blir dock nybyggda lägenheter sällan riktigt billiga, så det är även viktigt att bevara de billiga lägenheter som finns i de äldre fastigheter där bygginvesteringen är avskriven.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": "Det finns endast två friskolor i Grums kommun, och de är båda två kooperativt drivna byskolor utan vinstintresse.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att det ska finnas en kommunal kulturskola. Grums är en av endast tre kommuner i Sverige som saknar detta.\r\nSå länge som en sådan saknas, vill vi att kommunen ska kraftigt öka sitt stöd till den ideella kulturskoleföreningen (det är väldigt litet idag).\r\nAlla barn ska ha möjlighet att få utveckla sin kreativitet och musikalitet!",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;B;A;C;C!;C;C;C;B;D!;B;2/5;4/5!;2/5;_",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att Miljöpartiet ska finnas med i en styrande koalition.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ge mer resurser till skola och förskola",
+        "description": "MP har motsatt sig flera olyckliga beslut om neddragningar av resurserna i skola och förskola på senare år.\r\nPersonaltätheten behöver öka, inte minska - Alla barn ska bli\r\nsedda och få det stöd de behöver!\r\nVi vill också att Slottsbrons skola ska få vara kvar, och att kommunen samarbetar på ett bättre sätt med de kooperativa skolorna i Värmskog och Borgvik."
+      },
+      {
+        "category": "En kommunal kulturskola",
+        "description": "Vi vill ha en kommunal kulturskola! Grums är\r\nen av endast tre svenska kommuner som\r\nsaknar en egen kulturskola."
+      },
+      {
+        "category": "Bygdepeng/Medborgarbudget",
+        "description": "Vi vill att kommunen ska sätta av en årlig\r\nbudget till varje ort/bygd, som de som bor där\r\nfår bestämma över och som ska gå till något\r\nde vill utveckla."
+      }
+    ],
+    "motivateVote": "För att vi värnar barnens villkor, skola och förskola - barnen är vår framtid!\r\nFör att vi står upp för att värna miljö och klimat, dvs en natur och ett samhälle som fungerar för människor och andra arter även i framtiden!\r\nFör att vi arbetar för utveckling i hela kommunen!",
+    "name": "Miljöpartiet Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-grums"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "414",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det leder till bra saker både för kommunens ekonomi och individens välbefinnande. Alla mår bra av en meningsfull tillvaro och att finnas i ett sammanhang.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska använda oss av det bästa alternativet, konstgjorda och importerade alternativ till kött är inte alltid det bästa valet för miljön",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de kommunala kärnverksamheterna ska kommunala alternativ helst finnas, vi blir sårbara annars. Allt kan inte ersättas snabbt och enkelt. Verksamheter som ligger utanför kärnverksamheter gynnas av konkurrens. Viktigt att den inte snedvrids.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver alla händer och timmar vi kan få inom vården idag och många år framåt. Att i det skedet införa förkortade arbetstider rimmar dåligt. Vi ska verka för funktionella arbetsplatser där man har den tid man behöver för att utföra sitt arbete på ett ändamålsenligt sätt. Ingen ska behöva bli sjuk av att gå till jobbet!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi väljer våra företrädare för att vi anser att de kan göra adekvata val. Folkomröstningar kostar tid och pengar och präglas av \"bäst för just mig\" - åsikter. Få människor tar sig tiden att sätta sig in i hela bilden. Tyvärr!",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre i behov av hjälp och vård är viktiga för oss! Deras trygghet går först! Man måste alltid känna att man kan förmedla sig med personen som har sitt liv i deras händer och att de förstår medicinordinationer och liknande. \r\nVi anser därför att det skall vara en viss standard på språkkunskap för att få anställning i kundnära arbeten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vara ett val som styr din skola, inte kvotering. Att ställa krav på små skolenheter med begränsade möjlighet att ta emot olika grupper av elever är olyckligt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun behövs inte fler \" billiga lägenget\". ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sedan något år tillbaka en privatdriven vårdcentral och jag tror o princip alla känner ett större förtroende för tillgänhku,",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": "När det går att göra kostnadseffektivt och säkert skw det självklsr göras",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett ansvar att kunna sätta dessa nya människor i arbete/utbildning, därför måste tilldelningen som idag ske efter en förfrågan från staten/länsstyrelsen. Det är viktigt att vi kan göra ett bra jobb.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": "Man skulle önska att  på sikt sikt att verksamheterna jobbade mer tillsammans mot effektiv verksamhet. Det är inte ägarförhållandet som ät viktigast det är vården",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska öppna för samma stöd till den kulturella verksamheten som till idrottsförevningsrarnans",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": "Kunskaperna i kommunen sjunker och med dem måluppfyllelsen far att ta sig vidare till gymnasium ",
+        "value": [
+          "1134"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;C!;C;B!;A;D!;B;A;C;C;C;3/5;1/5;_;[1134]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vårt parti jobbar hårt för människor på landsbygden, det kan hända att vi i Grums jobbar ännu hårdare för människorna utanför \"byn\". \r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi skulle naturligtvis helst ha egen majoritet men det vet vi är en utopi. Vi hoppas bryta Socialdemokraternas egna majoritet så att de åtminstone måste överväga alla inkomna förslag.  Bryta deras maktfullkomlighet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan tänka oss att styra med de partier som är villiga att göra allt och ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola för alla.",
+        "description": "Skolan i Grums måste förändras så att alla kan utvecklas, inte bara de med problem. Det ska råda trygghet, arbetsro och fokus på lärande.\r\nPedagoger ska arbeta med undervisning, inte vara socialsekreterare eller väktare. Elevens fokus skall vara på lärande och inte på mobiötelefonen.\r\nVi skulle vilja införa två pedagoger i varje klassrum från åk1-6"
+      },
+      {
+        "category": "Fler Grumsbor ska vara i arbete.",
+        "description": "Innevånarnara i Grums behöver i större utsträckning bidra till egen försörjning och delaktighet i samhället. Detta skall vi uppnå genom en effektiv AME- enhet, krav på aktivitet vid försörjningsstöd samt en kommun som sörjer för ett gott företagsklimat som skapar arbetstillfällen."
+      },
+      {
+        "category": "Införa ett utvecklingsbidrag för föreningar.",
+        "description": "Grums är beroende av ett fungerande föreningsliv som håller Grumsborna i en meningsfull fritid. vi vill instifta en bidragspott där föreningar kan delfinansiera utvecklingsåtgärder inom sin verksamhet med fokus på att hålla kostnader nere och möjligheter öppna för fram för allt unga Grumsbor."
+      }
+    ],
+    "motivateVote": "Vi tycker att Grums behöver en nystart. Vi står inför stora utmaningar med ökande underskott i verksamheterna och ett samhälle i en negativ trend. Skolresultat, psykiskt dåligt mående, arbetslöshet, försörjningsstöd är  områden där vi i Grums ligger högt i \r\nstatistiken på ett skrämmande sätt. \r\nVi tror att man kan göra saker på andra sätt, det är dags för skiftesstyre.",
+    "name": "Moderaterna Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-grums"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "415",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1129",
+          "1131",
+          "1130"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;B;A;B;D;C;A;B;B;0/5;2/5;2/5;[1129,1131,1130]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Fortsatt egen majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett nytt äldreboende",
+        "description": "Fler blir äldre och då ska ser vi ett behov av att fler får en boendeplats. Det är viktigt för att visa respekt för de som byggt vårt land och vår kommun."
+      },
+      {
+        "category": "Ny skolverksamhet",
+        "description": "Vi socialdemokrater vill skapa ett nytt induviduellt program. Vi ser att allt fler blir utskrivna från gymnasiet och att vi behöver satsa på dem samt de som inte kommer klara målen i grundskolan så att de kan få stöd både med studier men också med det sociala."
+      },
+      {
+        "category": "Öka bostadsbyggande",
+        "description": "Vi vill att fler blir invånare i Grums kommun. Därför behöver vi bygga fler bostäder, ta fram nya tomter och skapa flyttkedjor. På så vis får vi fler invånare som bidrar till Grums kommuns utveckling."
+      }
+    ],
+    "motivateVote": "",
+    "name": "Socialdemokraterna Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-grums"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "416",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan på sikt en möjlighet för att bli anställningsbar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska inte vara tvingande. Finns alltid vegetariska alternativ på skolorna i Grums.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ägna sig åt sin kärnverksamhet ( vård, skola, och omsorg) inte konkurrera med privata aktörer inom något område. Däremot välkomnar vi privata alternativ för valfrihetens skull.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "8 timmars arbetsdag är normen. Varför ska personal inom äldreomsorgen särbehandlas? Dessutom betyder det i framtiden sämre pensioner.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kallas direkt demokrati. I viktiga frågor för kommunen ska detta övervägas",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet. Det är av största vikt att personalen ska kunna kommunicera med sina patienter och förstå deras behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att skolorna själva ska få avgöra vilka elever som ska antas, oavsett hudfärg eller härkomst.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grums kommun har inte råd med subventionerade hyror.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "OM kommunen inte kan tillhandhålla dessa tjänster fullt ut så välkomnar vi privata initiativ.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ingen anledning för kommuner att tillhandahålla denna tjänst. Låt marknaden ( bensinbolagen) ta det ansvaret.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun med dålig ekonomi ska inte behöva ta emot flyktingar, alls. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": "Privata alternativ bör finnas då Grums skolor i nuläget påvisar dåliga resultat.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen bör prioritera kärnverksamheterna vård, skola och omsorg. Kultur i andra hand.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": "Helst skulle vi gärna se en lägre skatt men i nuläget är det inte realistiskt.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": "Svårt att prioritera då alla tre alternativen är i allra högsta grad angelägna.  ",
+        "value": [
+          "1132",
+          "1129",
+          "1130"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D;A;D;D;A;A;D;A;D;3/5;1/5;1/5;[1132,1129,1130]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "EU frågan",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": " Allra helst skulle vi vilja ha majoritet. Tyvärr är det inte realistiskt. Med tanke på Grums katastrofala ekonomi som hålls vid liv med konstgjord andning.( Läs statsbidrag) kommer det bli nödvändigt med tuffa beslut i form av neddragningar inom alla områden framöver. I detta läge skulle vi föredra att ingå i en koalition alternativt vara vågmästare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorg",
+        "description": "Vi vill till skillnad från vad som nu ligger som ett förslag, bygga ett nytt äldreboende i markplan så de äldre har möjlighet att komma ut. Vi anser att de som en gång byggde vårt land och vår välfärd ska ha den bästa möjliga omsorgen."
+      },
+      {
+        "category": "Demokrati",
+        "description": "För en fullvärdig demokrati anser vi att det i kommunen också ska finnas ett oppositionsråd, vilket inte är fallet i dagsläget. Vi kräver mer insyn i kommunens alla verksamheter."
+      },
+      {
+        "category": "Psykisk ohälsa, alkohol, droger, och kriminalitet",
+        "description": "SD vill att kommunens invånare skall känna trygghet och ha framtidstro. Våra ungdomar ska kunna gå från skola till jobb. Kommunen behöver arbeta mer aktivt på ett tidigare stadium för att finna lösningar."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna i Grums vill verka för en förändring för allas bästa. Socialdemokraterna har haft makten alltför länge. Tryggheten och välfärden var tog den vägen? SD vill ha tillbaka folkhemmet, gemenskapen och tillhörigheten. Vi vill minska skatteslöseri och omfördela kommunens resurser till kärnverksamheter som skola och äldreomsorg.\r\n ",
+    "name": "Sverigedemokraterna Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-grums"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "417",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "307f9a2559755e41a1866c9f6ee92d75",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ställs redan krav på motprestation, den som söker försörjningsstöd måste stå till arbetsmarknadens förfogande, vara arbetssökande samt ta det jobb som erbjuds. Om vederbörande lider av någon sjukdom, t.ex. beroendesjukdom ska hen underkasta sig den behandling som erbjuds. Sökande måste dessutom vidta de mått och steg hen kan för att försörja sig själv, använda sparmedel, sälja kapitalvaror etc",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a76600161dac7b290ae2b3f1e3a3bff2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det gagnar mijö och klimat att äta så lite kött som möjligt. Ju mer vegetariskt vi äter ju bättre är det för miljö och klimat.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e476557030b5aca8bce356c4e34362bb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns kommunala bostäder exempelvis. Det är också viktigt att kommuner kan bedriva viss verksamhet som är för alla kommuninvånares bästa, exempelvis inom områden som friskvård, folkhälsa, vård och omsorg. Vissa verksamheter lämpar sig inte för privat drift, kommunala bolag garanterar att verksamheter bedrivs för allas bästa och att ev vinst går tillbaka till verksamheterna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ac08cf910a278a4f6d6b3a20c903a4a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skulle få positiva effekter för såväl sjukskrivningar som utslitning och trivsel för de anställda. Alla studier som gjorts av arbetstidsförkortning visar att anställda orkar med sitt arbete bättre, och sjukskrivningstalet går ner.  Folk orkar kanske arbeta tills de går i pension. Dessutom kan det höja yrkets status och leda till att fler vill jobba inom äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f981fe911f76b4796be0f1df737df58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det ska hållas fler kommunala folkomröstningar vet jag inte om man kan säga. I det fall en fråga lämpar sig för folkomröstning ska det hållas en sådan, men det måste bedömas och analyseras ordentligt. Det kan aldrig vara ett självändamål att hålla kommunala folkomröstningar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a4aec1664cbc23692f6459158c7a09b1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska verkligen bedömas från fall till fall, det går inte att säga att alla som ska jobba inom olika verksamheter måste klara ett visst språktest. Huvudsaken är att vederbörande kan sköta det arbete som den anställs för att utföra. Krävs vissa språkkunskaper så är det i så fall ett krav för anställning. Vi kan exvis behöva personal med norska, finska eller danska som modersmål.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f3b0aa4c2dc145396baecaa4dc2ac212",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor som bedrivs med skattemedel ska ha samma krav vad gäller vilka elever som ska tas emot.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "38d742f2d62a248269119b0d82575e95",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, kommunala bostadsbolag och fler hyreslägenheter behövs verkligen. Bostadsmarknaden ska inte bestå av övervägande privatägda alternativ eller bostadsrätter. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f32d70cc2d28176213a24df27cde7e3f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det har visat sig att det fungerar mycket dåligt. Äldreboenden och hemtjänst hör till de kommunala verksamheter som inte lämpar sig att läggas ut på privata utförare av den anledningen att det är verksamheter som inte ska bedrivas för att gå med vinst, framförallt inte vinst som hamnar i multinationella företagares fickor. Alla verksamheter som bedrivs med skattemedel skall drivas offentligt ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0dd915124ac5b0db43293275651b8751",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi ska underlätta en miljö- och klimatomställning måste vi se till att det finns kommunala laddstolpar för elbilar, även för hyresgäster i kommunala bostadsområden. Vi ska underlätta för människor att ladda sina elbilar  ekonomiskt och lättvindigt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5bc09b132283ce7fb2e99bb881678b11",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner ska ta emot nyanlända flyktingar, men det måste ske i samarbete med kommunen ifråga. Staten måste ställa anständiga krav på kommunerna, och det ska fördelas rättvist utifrån varje kommuns möjligheter. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4640b31fdf4a6dce6695e87e10cac530",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inga privata skolor i Grums kommun. Vi har endast friskolor som inte är vinstdrivande, och så vill vi att det ska förbli. Kommunala skolor och icke-vinstdrivande friskolor är en utmärkt modell. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1a92655200a6eae9016306985f0bfdd0",
+        "questionType": "RANGE",
+        "reasoning": "Mycket mer än i dag. Vi har en kulturskola, en fd musikskola, som vi vill ska drivas kommunalt. Det innebär en kostnad för kommunen. Vi vill även behålla vårt fina bibliotek, inga nedskärningar där alltså. Det skulle även vara välkommet att satsa mer på olika typer av kulturella begivenheter i kommunen, teater, filmvisning, konserter etc.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "cd4d3c17cff7180c5ff430637ad33023",
+        "questionType": "RANGE",
+        "reasoning": "Vi har redan en relativt hög kommunalskatt. Det är tveksamt om det går att höja skatten så som det ser ut i dag. Dock är det svårt att sia om framtiden, kanske blir vi tvingade att höja. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "aca9f463c580c6d90c49b5c51ed5fa41",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1132",
+          "1129",
+          "1136"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;A;D;B;B;D;D;A;D;B;2/5;4/5;2/5;[1132,1129,1136]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att vår kommun ska styras av en stark vänster. Det är det enda alternativ som borgar för att medborgarna garanteras att de kommunala resurserna används för allas bästa. Det är bara vänstern som står för en rättvis fördelning av de samhälleliga resurserna, där skattepengarna används för en gemensam välfärd.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre arbetsvillkor för personal inom äldreomsorgen",
+        "description": "Vi vill att äldreomsorgen i Grums ska ha fast anställd personal (anställ timvikarierna) och att det satsas på såväl arbetstidsförkortning som utbildning och kompetenshöjning. Vi menar att det leder till friskare personal som orkar med sitt jobb samt att det höjer arbetets status. En arbetstidsförkortning ska givetvis ske med bibehållen lön."
+      },
+      {
+        "category": "Skolan i Grums kommun ska vara jämlik, jämställd och hålla hög kvalitet",
+        "description": "Vi vill arbeta för att elever som bor i Grums också vill stanna kvar och gå i skolan i Grums, och inte välja skolalternativ utanför kommunen. Det innebär att den kommunala för- och grundskolan måste borga för att varje elev får en god utbildning, den kommunala skolan ska vara en skola som kan möta alla barn och unga utifrån deras olikheter och skiftande behov. Mer resurser till skolan."
+      },
+      {
+        "category": "Satsa på ett klimatsmart Grums",
+        "description": "Vi vill driva på i arbetet mot ett klimatneutralt Grums. Kommunen ska skyndsamt bli fossilfri och inkludera företag och kommuninvånare i omvandlingen. Konkreta förslag på hur det ska gå till behöver arbetas fram i brett samförstånd!"
+      }
+    ],
+    "motivateVote": "Därför att vänsterpartiet står för en politik som värnar de svaga i samhället. Vi vill minska klassklyftorna och öka jämlikheten och jämställdheten i samhället. Ett jämlikt samhälle där alla har det lika bra är en förutsättning för att komma till rätta med sociala problem. Vi säger nej till vinster i välfärden skatten ska gå till det gemensamma, vi vill också satsa på miljö och klimatomställning  ",
+    "name": "Vänsterpartiet Grums",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-grums"
+  }
+]

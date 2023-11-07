@@ -1,0 +1,512 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "51",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Arjeplog",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-arjeplog"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "52",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6487cf8b922723ce804afbac98f7916e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finansiella förutsättningarna för Arjeplogs kommun saknas helt. Vi vill så klart ha gymnasieutbildning på orten, men ett eget gymnasium är inte möjligt tyvärr.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "56dcaadabbf674f318b8553c79d96e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en kommun som Arjeplog, stor till ytan men med få invånare, behöver även de förtroendevalda bidra. Ett arvode i paritet med riksdagsarvodet är helt enkelt inte rimligt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e5e45e92ef08495e419650225bbec4cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fokus ska ligga på hur och var maten produceras samtidigt som den naturligtvis ska vara näringsrik. Vegetarisk mat är bra, men hela produktionscykeln måste tas i beaktande ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e40b1fe8a1fff3e1ebd542d0babe2979",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera på den privata marknaden. Existerande verksamheter ska inte läggas ned, men kommunen ska vara mycket restriktiv vid uppstart av nya verksamheter som konkurrerar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e0524ae4e1b8768fd192b309713a594b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att Arjeplogs kommun ska vara en attraktiv arbetsgivare är viktigt. Det är också viktigt att fler saker tas i beaktande i det arbetet där förkortad arbetsdag kan vara en av dessa saker.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "057961fac555ff5ee3ec8f43cbcdb2a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom det ofta är mycket att sätta sig in vid olika beslut är det svårt att få fram all fakta vid en omröstning. Alla beslut och protokoll är offentliga så det finns goda möjligheter för allmänheten att kontakta sina politiker för att påverka och ställa frågor",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7621640ed3475d4e3f7c4713c72e251f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vårdtagare kan göra sig förstådda på svenska. Både för att man ska känna sig omhändertagen men framför allt för att undvika fel. Språket är dessutom ett viktigt verktyg för att bli integrerad i samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1e1e24825165431764b3e48f60e7d253",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allt ansvar för nyanlände kan inte ligga på en och samma huvudman. Om det kommer nya elever till kommunen ska ansvaret fördelas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6d5bda4abe6cc25d5570be9feda4cf92",
+        "questionType": "PROPOSITION",
+        "reasoning": "Via stiftelsen arjeplogshus driver kommunen idag allmännyttan. I dagsläget finns det tillräckligt med boende i kommunen och om behov finns ska det såklart byggas fler, men finansiering ska ske via hyra",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb6d1a12a920e3b083dea91dd01ad689",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Däremot behöver kraven på den som driver verksamheten bli bättre. På samma sätt som ett företag kan gå med vinst på att bygga äldreboende borde ett företag även kunna gå med vinst på att driva det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "383c1f09b6907b1ff55980d80481c00b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inköp och underhåll av laddstolpar är kostsamt. Det finns bidrag att söka för företag som vill installera och sätta upp sådana. Därför är det inte något kommunen ska använda sin begränsade budget till.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3f6b0ae93f68f60d04779ea4cee71357",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget  har vi inte några privata företag som driver skola och det finns i nuläget inget behov av det. Skulle dock något företag vara intresserad ser vi inte några hinder. En byaskola skulle kunna vara ett exempel på sådan verksamhet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "fad83d4a29a4a682f603a4563117535f",
+        "questionType": "RANGE",
+        "reasoning": "Det är svårt att säga en summa eller procent eftersom möjligheterna skiljer sig från år till år. Däremot finns det ett behov av att öka stödet till kulturverksamhet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8f1f4a3ad80b57cbfb4918b15418b056",
+        "questionType": "RANGE",
+        "reasoning": "Med en av Sveriges högsta kommunalskatter finns det definitivt anledning att minska den för att öka attraktiviteten att flytta hit. Det finns ett utrymme för en sänkning, men det måste göras försiktigt och med eftertanke.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "9b73ab60fafee0995963862f82d93231",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill även anställa lärarassistenter för att lärare ska kunna ägna mer tid åt undervisning och mindre till administration",
+        "value": [
+          "784",
+          "776",
+          "779"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;B;C;C;A;D;C;B;D;A;3/5;3/5;1/5;[784,776,779]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. VI är överens i det mesta som rör oss; utökat kommunalt veto, reformerat strandskydd, närmare vård, för att nämna några",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val på att få kommunalrådsposten kommande mandatperiod. Vi ser fram emot att fortsätta utveckla Arjeplog med alla partier med fokus på befolkningstillväxt och inflyttning",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Gatuunderhåll",
+        "description": "Kommunen behöver öka gatuunderhållet och ha en tydlig plan för vilka gator som ska rustas"
+      },
+      {
+        "category": "Sänkt arvode för kommunalrådet",
+        "description": "Kommunalrådet har oskäligt högt arvode i förhållande till kommunens storlek. Detta behöver sänkas för att bättre passa kommunens ekonomiska resurser"
+      },
+      {
+        "category": "Sänkt kommunalskatt",
+        "description": "Arjeplog har en av Sveriges högsta skatter. För att skapa en attraktiv kommun och locka människor att flytta hit behöver skatten sänkas."
+      }
+    ],
+    "motivateVote": "För att vi har genomarbetade och finansierade förslag. Inför valet har vi fått flera nya namn som är engagerade och vill jobba för fortsatt utveckling av Arjeplog",
+    "name": "Liberalerna Arjeplog",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-arjeplog"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "53",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6487cf8b922723ce804afbac98f7916e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte längre möjligt att driva en platsförlagd gymnasieskola i Arjeplogs kommun då elevantalet är för lågt (och trenden ser likadan ut på många andra håll). Förskola, grundskola och omsorg är lagstadgade verksamheter som behöver gå i första hand. Däremot arbetar vi för att starta lärlingsutbildningar (teori via fjärr och praktiska moment hos det lokala näringslivet) från och med hösten 2023.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "56dcaadabbf674f318b8553c79d96e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att arvodet ska ligga på en nivå som är likvärdig de allra flesta andra kommuner i Norrbotten. I Arjeplog har kommunstyrelsens ordförande (kommunalrådet) ett stort ansvar då denne är ensam i rollen som heltidspolitiker samtidigt som vi har en en-nämndsstruktur (mycket/det allra mesta ansvaret faller på kommunstyrelsen då andra nämnder saknas).",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e5e45e92ef08495e419650225bbec4cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser inte att det nödvändigtvis ska vara obligatoriskt med två köttfria skoldagar i veckan, men vi är positiva till att det serveras fler goda, näringsriktiga köttfria alternativ i skolan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e40b1fe8a1fff3e1ebd542d0babe2979",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun har vi inga kommunala bolag som konkurrerar med privata företag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e0524ae4e1b8768fd192b309713a594b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver vara en attraktiv arbetsgivare, och då kan exempelvis 6-timmars arbetsdag vara ett alternativ att prova på arbetsplatser där det är lämpligt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "057961fac555ff5ee3ec8f43cbcdb2a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar lämpar sig dåligt för komplexa frågor och leder till ökad polarisering, dessutom tenderar dessa att ha ett lägre valdeltagande varpå resultatet sällan med säkerhet kan sägas vara representativt för befolkningen. Kommunen kan och behöver däremot ha en närmare dialog med medborgarna i svåra frågor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7621640ed3475d4e3f7c4713c72e251f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de tjänster eller arbetsställen där man arbetar direkt med brukare/boende är det viktigt att man kan tala och förstå svenska, det behöver säkerställas vid anställning. Om det finns behov av att höja kunskaperna i språket ska kommunen också kunna vara behjälplig. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1e1e24825165431764b3e48f60e7d253",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6d5bda4abe6cc25d5570be9feda4cf92",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag har vi ett överskott av lägenheter i Arjeplog, det innebär att det alltid är ett antal lägenheter som står tomma och inte nyttjas. Därför är det idag inte aktuellt för kommunen att finansiera byggandet av fler hyreslägenheter.    ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb6d1a12a920e3b083dea91dd01ad689",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Socialdemokrater kommer inte att sälja ut vår välfärd, den finansieras av våra gemensamma resurser och ska drivas i offentlig regi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "383c1f09b6907b1ff55980d80481c00b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att det byggs publika laddstolpar, men kommunen bör inte äga och driva dessa (på samma sätt som att kommuner inte driver och äger bränslestationer).",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3f6b0ae93f68f60d04779ea4cee71357",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "fad83d4a29a4a682f603a4563117535f",
+        "questionType": "RANGE",
+        "reasoning": "Idag avsätter kommunen i stort sett så mycket medel som det är möjligt på fritid och kultur, exempelvis i form av verksamhetsbidrag till Silvermuseet och öppethållande av Medan. Däremot vill vi samverka med det lokala kulturlivet för att se om vi tillsammans kan hitta sätt att finansiera utvecklingen av kulturen i Arjeplog, exempelvis genom projekt. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8f1f4a3ad80b57cbfb4918b15418b056",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att skattesatsen aldrig ska vara högre än nödvändigt. Idag har vi en av de högsta skattesatserna i landet och på sikt bör vi ha ambitionen att sänka denna något.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "9b73ab60fafee0995963862f82d93231",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "784",
+          "776",
+          "779"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;B;B;C;A;C;C;B;A;C;2/5;3/5;1/5;[784,776,779]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte direkt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas och tror att väljarna tycker att vi gjort ett gott arbete under de förutsättningar som råder och ger oss ett förnyat förtroende att leda Arjeplogs kommun under nästa mandatperiod.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, det är viktigt att kunna samarbeta och komma överens i viktiga frågor.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inflyttning och rekrytering",
+        "description": "Arjeplogs kommun har låg arbetslöshet och det kommer att bli svårare att rekrytera till både kommun och näringsliv framöver. Kommunen behöver aktivt bidra till att locka ny arbetskraft till kommunen, bland annat genom att satsa på att öka inflyttningen."
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Vi vill prioritera barn och unga i kommunen genom en bra för- och grundskola, ge unga fler möjligheter att forma kommunens framtid i samtal med kommunen och utveckla en meningsfull och rolig fritid för unga. Vi vill även underlätta för de som läser en gymnasieutbildning i en annan kommun att resa hem på helgerna, genom ett hemresebidrag som komplement till inackorderingstillägget."
+      },
+      {
+        "category": "Jobben",
+        "description": "Jobben är viktiga, särskilt flera typer av jobb. Vi vill se fler statliga arbetstillfällen i kommunen, vi vill att det ska vara enkelt, lätt och lockande att arbeta på distans i Arjeplog (genom att skapa en arbetsplats för de som studerar/arbetar på distans) och vi vill stötta näringslivet på vägen mot fler helårsjobb och förlängd säsong."
+      }
+    ],
+    "motivateVote": "Man ska rösta på Socialdemokraterna om man vill ha en politik med bredd, med fokus på utveckling, välfärd och ordning i ekonomin. Vi vill genomföra långsiktiga och genomtänkta satsningar som gynnar kommunens utveckling över tid. Vår politik utgår från jämställdhet, solidaritet och allas lika värde.",
+    "name": "Socialdemokraterna Arjeplog",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-arjeplog"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "54",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6487cf8b922723ce804afbac98f7916e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "56dcaadabbf674f318b8553c79d96e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på befolkningsunderlaget är arvodet alldeles för högt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e5e45e92ef08495e419650225bbec4cb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e40b1fe8a1fff3e1ebd542d0babe2979",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e0524ae4e1b8768fd192b309713a594b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tufft och viktigt jobb som kräver återhämtning. Fler orkar arbeta fram till pension. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "057961fac555ff5ee3ec8f43cbcdb2a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7621640ed3475d4e3f7c4713c72e251f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "1e1e24825165431764b3e48f60e7d253",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6d5bda4abe6cc25d5570be9feda4cf92",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cb6d1a12a920e3b083dea91dd01ad689",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "383c1f09b6907b1ff55980d80481c00b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3f6b0ae93f68f60d04779ea4cee71357",
+        "questionType": "RANGE",
+        "reasoning": " Vi har inga ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "fad83d4a29a4a682f603a4563117535f",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt i människans liv. Annars blir livet ett arbetsläger ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8f1f4a3ad80b57cbfb4918b15418b056",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9b73ab60fafee0995963862f82d93231",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D!;C;B;D!;C!;C;D!;D;A!;C;2/5!;3/5;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ej av större dignitet",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": " S, V, Mp",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ej Kd och Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Se nedan ",
+        "description": "Utökat timantal på förskolan för barn som ex har föräldrar som är arbetslösa eller barnlediga."
+      },
+      {
+        "category": "Se ovan",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Det enda partiet som strävar efter jämlikhet och rättvisa. ",
+    "name": "Vänsterpartiet Arjeplog",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-arjeplog"
+  }
+]

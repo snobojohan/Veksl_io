@@ -1,0 +1,1786 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1043",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1678",
+          "1679",
+          "1673"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;A!;D;B;D;C;D;A;D;B;3/5;2/5;2/5;[1678,1679,1673]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Nytt Ledarskap",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård, skola och omsorg ",
+        "description": "Satsning på kärnverksamheten skola, vård och omsorg är de viktigaste åtgärderna för ett friskare, jämlikare, och attraktivare Luleå. Skolor och omvårdnad ska finnas så nära hemmet som möjligt. Vi vill öka makten över det egna livet genom ökad valfrihet och tydligare rättigheter för den som är i behov av omsorg."
+      },
+      {
+        "category": "Företagare och miljö",
+        "description": "Vi vill skapa bättre förutsägningar för företagare att utvecklas och växa i hela kommunen. Det är viktigt att ta tillvara kreativiteten och entreprenörskapet hos innovatörer och företagare. För att skapa en hållbar utveckling in i framtiden i hela kommunen krävs att vi aktivt jobbar med miljö och klimatfrågorna tillsammans med civilsamhället."
+      },
+      {
+        "category": "Landsbygden",
+        "description": "Hela kommunen ska få förutsättningar att växa och utvecklas, boende och byggande ska ske där människor vill bo därför är det viktigt att service, infrastruktur fungerar både på landsbygden och i staden. Det krävs kraftfulla åtgärder för att säkra våra livsmedelsproducenter för att skapa en självförsörjningsgrad som är rimlig så att vi får närproducerad mat på tallriken."
+      }
+    ],
+    "motivateVote": "Centerpartiet vill med ett nytt ledarskap bygga ett tryggt och starkt Luleå som driver utvecklingen framåt. En hållbar utveckling för Luleå innebär att hela kommunens resurser, både i staden och på landsbygden, tas tillvara och det ska vara möjligt att bygga, bo, arbeta och driva företag i hela kommunen. Skolor och förskolor ska finnas i byar och stadsdelar samt en trygg, säker vård och omsorg.\r\n\r\n",
+    "name": "Centerpartiet Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-lulea"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1044",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "En skola med ordning, där eleverna känner sig trygga och behandlar varandra med respekt är en förutsättning för lärande och att kunskapen ska kunna stå i fokus. Det bör bli lättare kunna stänga av och flytta mobbare till andra skolor, och man bör kunna omplacera och stänga av för längre tid än idag. Den som klottrar ska dessutom få tvätta bort klotter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inne i ett skede där samarbete är väldigt viktigt. Många byar i ligger vid kommungränserna och det ska ses som naturligt att söka samarbete mellan dessa för att stärka och möjliggöra just den levande landsbygd som vi behöver.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå centrum är inte stort eftersom vattnet sätter gränser från många håll. Luleå ska vara Norrbottens hjärta och dit ska man aldrig tveka om det finns plats att komma. Även om man kommer med bil utifrån. Framtidens rena bilar ska finnas i framtiden Luleå.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "En mångfald och variation av utbudet av boenden är positivt. Vi ska uppmuntra privata aktörer att finnas i Luleå. Kvaliteten är mycket viktigare att ha koll på än i vilken form verksamheten bedrivs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gruppen 80+ förväntas öka kraftigt kommande år. Vår äldreomsorg står inför stora utmaningar och vi kommer behöva alla händer vi har tillgodo för att skapa en äldreomsorg av bästa klass. Vi Kristdemokrater vill se över arbetsmiljön och ta bort långpass och ge medarbetarna mer inflytande om hur vi ska bli en bättre och attraktiv arbetsgivare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för våra seniorer att känna att man förstår med talet de som ska hjälpa och ge omsorg. Därför ska vi ska erbjuda personal med annat språk SFI undervisning viss tid av arbetstiden just för att förbättra sin svenska och klara de krav som kan ställas. Då har man även möjlighet att snabbare lära sig just den svenska som behövs i sitt arbete.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Under många år har det byggts för lite i Sverige, vilket har lett till bostadsbrist och långa bostadsköer. Det saknas idag billiga bostäder i Sverige, men vi har också ett kraftigt underskott av villor. Kristdemokraterna vill se fler aktörer på marknaden som pressar priserna tillsammans samt stärka det regionala inflytandet över bostadsplaneringen och förenkla regelkrånglet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska erbjuda laddning för våra anställda på personalparkeringar. Kommunens bostadsbolag ska erbjuda sina hyresgäster goda laddningsmöjligheter. Men vi som kommun skall inte ge oss in på marknaden för allmänna laddstationer. Däremot ska vi planera för lämplig mark där marknaden kan få bygga laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå måste ta sitt ansvar. Vi har inte alls tagit samma ansvar som många andra kommuner i Norrbotten så att säga att vi ska ta mindre än vi hittills gjort ser vi som ett feltänk. Vi behöver fler människor i Luleå och vi ska vara extremt bra på att få in dessa i sysselsättning. Vår arbetsmarknad vill ha inflyttning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolorna ska ha rätt att ta emot nyanlända elever på samma sätt som kommunen. Först därefter kan övervägas om man bör införa skyldighet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget mål i sig att jobba för fler folkomröstningar. Vi bör ha ett folkvalt styre som har förtroendet från sina medborgare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "En internationell skola skulle vara ett stort lyft i den tillväxt vi nu står inför där arbetskraft från hela världen efterfrågas. En internationell skola är på många sätt en faktor som avgör om man flyttar hit från annat land. Även LTU har forskare som väljer bort Luleå som ort då en internationell skola saknas.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig i Luleå men vi skulle kunna prioritera och rikta pengarna annorlunda. Politikens uppgift är inte att styra kulturen utan att ge den möjlighet att växa fritt, både på amatörnivå och på professionell nivå. Vi vill verka för mer kulturverksamhet i skolan och stärka det civila samhället – till exempel föreningar, organisationer, kyrkor och samfund.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har senaste åren inte gett förslag om en skattesänkning men vi hoppas få den möjligheten framöver. Den enskilde ska i största möjliga utsträckning få behålla sin egen lön innan kompletterande bidrag betalas ut.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1678",
+          "1679",
+          "1673"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;B;D;B;C;C;C;B;C;A;3/5;2/5;2/5;[1678,1679,1673]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi kan inte se någon tydlig sådan i skrivandets stund.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Prio ett är ett skifte i politiska ledningen. Luleå har styrts av samma parti så länge någon kan minnas. Vi Kristdemokrater står för samarbete och vi är helt övertygad om att får vi chansen att samarbeta med andra för att få till ett nytt styre i Luleå så fixar vi detta. Vi vill vara en ny röst i båset och de nya pigga benen på plan som kommunen behöver.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vet att vi fungerar väldigt bra med Liberalerna, Centern, Sjukvårdspartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler äldreboendeplatser",
+        "description": "Alla seniorer som fyllt 80 år ska garanteras en plats på äldreboende ifall man vill ha detta. Det ska inte ifrågasättas och du som senior ska inte behöva motivera en sådan önskan. Därför behövs fler platser på äldreboenden då vi nu blir fler i det åldersspannet."
+      },
+      {
+        "category": "Inför fritidskort",
+        "description": "Alla barn och pensionärer ska ges ett fritidskort som är laddat med en summa pengar som går att använda till kostnader som kommer ifall man är medlem och aktiv i föreningsverksamhet. Pandemin och gjort att människor tappat naturliga gemenskaper och vi behöver få igång föreningslivet igen. Det spelar stor roll för människors hälsa."
+      },
+      {
+        "category": "Minska barngrupperna",
+        "description": "I förskolan måste vi minska barngrupperna så att pedagoger kan just vara de pedagoger som förväntas av dom. Barnen både i förskola och skola behöver lugn, trygghet och vi ska jobba för att mindre barngrupper ska ses som något positivt istället för någon som inte skulle vara nog effektivt."
+      }
+    ],
+    "motivateVote": "Vi Kristdemokrater i Luleå fokuserar på kärnverksamheten.  Kommunala verksamheter för våra barn, ungdomar och äldre ska prioriteras. För att hålla en välfärd med hög kvalitet krävs ett fungerande näringsliv för att ge de skatteintäkter kommunen behöver. För att kunna upprätthålla en välfärd i toppklass krävs ett starkt näringslivs som ska ges bästa förutsättningar att verka i kommunen. ",
+    "name": "Kristdemokraterna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-lulea"
+  },
+  {
+    "abbreviation": "LPo",
+    "altingetCandidateId": "1045",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1678",
+          "1679",
+          "1677"
+        ]
+      }
+    ],
+    "answersCount": 12,
+    "answersString": "D!;D!;_;A!;C!;D;C;A;_;_;A;0/5;2/5;2/5;[1678,1679,1677]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det får valet utvisa",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi är oberoende",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ruralisering inte Urbanisering",
+        "description": "Vi måste få en uppvärdering av Landsbygdens betydelse i samhället !\r\nPandemin och kriget i Ukraina måste tas på allvar när vi blir påmind om vår beredskap !"
+      },
+      {
+        "category": "Landsbygden måste utvecklas",
+        "description": "skolor ,gemensamma lokaler idrottsanläggningar ,gym , badplatser ,skidspår belysta ,ny bebyggelse \r\nSmå skolor har många fördelar, bla är miljön lugnare och mer stimulerande. Skolan är navet och måste bevaras varför kommunen måste avsätta resurser till en kvalitetsmärkt bygdeskola. \r\nBygdeskolan måste ges en långsiktig och hållbar utveckling där kommunen och föräldrakollektivet tillsammans kan profi"
+      }
+    ],
+    "motivateVote": "Landsbygdspartiet oberoende, anser att alla människors har lika värde och rättigheter vilket är grunden för Landsbygdspartiet oberoendes politik. \r\nDet enda ",
+    "name": "Landsbygdspartiet Oberoende Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "landsbygdspartiet-oberoende-lulea"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1046",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att samtliga Luleås skolor har tydliga ordningsregler och en konsekvenstrappa, i vilken det ska framgå vilka konsekvenser som gäller för elever som bryter mot regler. Lektionerna ska vara mobilfria i Luleå. All mobbning ska polisanmälas och elever som hotar eller utövar våld mot andra i skolan ska snabbutredas av elevhälsan och snabbt vidta åtgärder.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är drivande i att Luleå och Boden ska samverka mer för att knyta ihop kommunerna ytterligare. Ett ökad samverkan kommer gynna båda kommunerna och Norrbotten. Vi får inte glömma att även ha god samverkan med Piteå, Älvsbyn, och Kalix.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå centrum och vägnätet byggdes med en tanke om att trafik ska kunna flöda genom staden. Elbilar kommer att lösa stora delar av klimatproblematiken i centrum vilket gör bilfria zoner inte kommer skapa någon effekt för att lösa den utmaningen.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "I äldreomsorgen behandlas årsrika i hög grad som ett kollektiv. Samma lösningar erbjuds till alla. Att vi i Luleå inte kommit längre och inte respekterar de årsrikas rätt att själv kunna välja vem och vart man ska få omsorg är beklagligt. Vi vill därför flytta makten från politikerna till medborgarna genom att införa lagen om valfrihet i Luleå.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den forskning som finns om sex timmars arbetsdag visar att det varken leder till förbättrad hälsa eller leder till fler jobb. Anställda i hemtjänsten har svårt att se hur de ska kunna jobba 13 procent mer effektivt utan vidare. Risken är att stressen, pressen och slitet ökar snarare än minskar. Det behövs däremot åtgärder för de anställda i äldreomsorgen både inom arbetsmiljö men även inom lön.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bristen på språkkunskaper hos anställda är ett verkligt problem. Inspektionen för vård och omsorg har vid upprepade gånger påtalat risker och problem med detta. Ett språkktest handlar om att ge bättre förutsättningar för människor som jobbar inom hemtjänsten och äldreomsorgen. Man ska ha rätt till kunskap och rätt att kunna kommunicera flytande och förstå hygienrutiner och dokumentation  m.m",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyresrätter är en viktig boendeform, men vi vill också att det ska finnas bättre valmöjligheter mellan att äga och att hyra sin bostad. Både hyresrätter, bostadsrätter och ägarlägenheter behövs, och bostadsområden med en blandning av upplåtelseformer skapar bäst möjligheter för de boende att välja en boendeform som passar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer behövas ett stort antal publika laddstolpar. Kommunen ska vara möjliggörare för publika laddstolpar, inte ansvara för att äga en alltför stor infrastruktur som riskerar att kosta skattebetalarna mer än det hjälper. Vi behöver kreativa lösningar, t.ex. vill vi att kommunen skapar möjligheten att dela med sig av personalladdstolpar på icke arbetstid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå kommun ska ta sitt fulla ansvar för att ta emot flyktingar. Luleå ska fortsätta vara solidarisk i att hjälpa människor på flykt. I Luleå och Norrbotten kommer flyktingar fort att kunna integreras i samhället när Norrbotten nu behöver alla människor vi kan få till den gröna vågen av investeringar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vill att alla skolor, så väl fristående som kommunala, ska ha en kvot avsatt för nyanlända elever. Kvoten ska uppgå till 5 procent av platserna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är en viktig del av demokratin. Mellan valen är detta ett av få sätt för medborgarna att kunna få säga sitt. Den senaste folkomröstningen i Luleå handlade om skolan och om \"Vitåsveket\", det var viktigt att det blev av. Både politiken och medborgarna kan väcka frågan om folkomröstningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna tycker det är viktigt med valfrihet och därför är det viktigt att fler fristående skolor får finnas i vår kommun. När de första friskolorna kom till Luleå så valde kommunen att ta konkurrensen på allvar och det har resulterat i att vi har bra kommunala och fristående skolor i Luleå.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Det går att göra mycket inom befintlig ram, det viktigaste är att göra kommunen till en möjliggörare för att kulturen ska kunna frodas.\r\nNu när Norrbotten och Luleå växer kan det finnas fog för att fundera över hur budgeten kortsiktigt kan stärkas. Långsiktigt går mycket att omfördela inom betfintlig ram. Kulturen kommer spela en viktig roll när dom nya jobben kommer till Norrbotten.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "På sikt vill vi att kommunen ska få lägre skattesats. Vi kommer säga nej till skattehöjningar i Luleå.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": "Fler behöriga lärare är den övergripande viktigaste frågan för Luleå och skolan. Bemanning i äldreomsorg och hemtjänst är en utmaning framåt och där vi behöver undvika en alltför stor \"braindrain\" där personal väljer bort kommunala arbeten. Där det är möjligt är vi öppna för att återöppna nedlagda skolor förutsatt att det finns både intresse och underlag och går att genomföra.",
+        "value": [
+          "1679",
+          "1673",
+          "1674"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;B;D!;B;C;C;B;B;C;C!;3/5;3/5!;2/5!;[1679,1673,1674]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Sverige är avlångt och förutsättningarna är olika i hela landet. Liberalismen utgår ifrån dom utmaningar människor har där dom lever och bor. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna har samverkat ihop med Centern, sjukvårdspartiet och Kristdemokraterna under mandatperioden och där kommer vår grund att vara i ett styre, vi kommer kunna samtala med alla partier.\r\nDet är dags att byta ut Socialdemokraterna i ledningen, Moderaterna har möjliggjort att dom kunnat fortsätta styra denna mandatperiod. \r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill byta ut Socialdemokraterna från ledningen.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan ska vara i toppklass, vara trygg och ge studiero",
+        "description": "Skolan är central för att möta samhällets utmaningar, därför vill vi prioritera mer resurser och högre löner till lärarna kommande mandatperiod. Den viktigaste faktorn för att eleverna ska klara av grundskolan är att de får en kvalitativ undervisning. En del barn klarar inte skolan och där behöver vi satsa på tidiga insatser vilket motverkar höga sociala, ekonomiska och mänskliga kostnader på sikt"
+      },
+      {
+        "category": "Luleå behöver fler småföretag.",
+        "description": "Tack vare oss i Liberalerna Luleå har Luleå målet att företagsklimatet ska upp i toppen. Vi nöjer oss inte där, vi vill att kommunen tar fram en strategi och  genast börjar arbeta så Luleå kan få fler att starta företag. Luleå har idag bland landets minsta andel företagare. De små företagen är jobbskapare och det är grunden till ökade skatteintäkter för kommunen och därmed en god välfärd."
+      },
+      {
+        "category": "Självbestämmande åt de årsrika i äldreomsorgen",
+        "description": "I äldreomsorgen behandlas årsrika i hög grad som ett kollektiv. Samma lösningar erbjuds till alla. Att vi i Luleå inte kommit längre och inte respekterar de årsrikas rätt att själv kunna välja vem och vart man ska få omsorg är beklagligt. Vi vill därför flytta makten från politikerna till medborgarna genom att införa lagen om valfrihet i Luleå."
+      }
+    ],
+    "motivateVote": "Liberalerna är Luleås skolparti. Får L styra så kommer Luleå ha Sveriges bästa skola där landsbygdsskolorna får vara kvar, vi når topplaceringar i företagsklimatet och en omsorg som både har tid och ork att bry sig om våra medborgare och ett kulturliv som verkligen kan blomstra.",
+    "name": "Liberalerna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-lulea"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1047",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1678",
+          "1679",
+          "1673"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;D!;B;D;A;D!;D!;A;D;C;1/5;4/5;2/5;[1678,1679,1673]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "SD ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Levande byar med servicekontor",
+        "description": "Luleå kommun har fantastiska byar med unika platser och ett starkt föreningsliv som vi vill värna, samt utveckla. Miljöpartiet vill främja livskvaliteten och bidra till höjd levnadsstandard, byarna ska också få ta del av den service som finns tillgänglig i staden, därför vill vi satsa på servicekontor till byarna och ge utvecklingsstöd till butiker som väljer att etablera sig i en by."
+      },
+      {
+        "category": "Hållbar energi, trafik, kollektivtrafik, byggnation och konsumtion",
+        "description": "Miljöpartiet driver en aktiv politik för att Luleå kommun ska vara klimatneutralt senast 2040, för att detta ska ske behövs en bred samsyn över hela kommunen där ett hållbart tänk behövs på samtliga nivåer. Allt från en smart infrastruktur med snabba cykelstråk, god närservice, till energieffektivisering, återvinning/återbruk av kläder, inredning och byggnadsmaterial."
+      },
+      {
+        "category": "Hyggesfritt skogsbruk och skyddad natur",
+        "description": "Miljöpartiet arbetar för att Luleå kommun ska vara en ekologiskt hållbar kommun där mer natur skyddas, nu är 5,7% av naturen i Luleå skyddad, vi arbetar för att minst 20% ska skyddas. Miljöpartiet i Luleå arbetar även för att kommunen ska införa en skogspolicy baseras på hyggesfritt kontinuitetsskogsbruk för hela sin skogsbruksmark."
+      }
+    ],
+    "motivateVote": "Det är bara nu vi har chansen att bromsa klimatförändringen och skapa en framtid som barnen kan längta till! Omställningen är möjlig och vi i Miljöpartiet har viljan att genomföra den. Vi vill bygga ett samhälle där det miljösmarta är det självklara. ",
+    "name": "Miljöpartiet Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-lulea"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1048",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgängligheten till centrum måste säkerställas för alla Luleåbor och besökare, inte bara de som råkar bo längs LLT’s linjenät. Ett levande centrum ska vara tillgängligt för alla trafikslag inklusive bilen och därför måste genomfartsgator behållas och parkeringsmöjligheterna utökas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1676",
+          "1679"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A!;D;A!;C;B;A;C;A;A;3/5;1/5;0/5;[1676,1679]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tror att det kan vara nödvändigt med ett förstatligande av skolan för att uppnå likvärdighet och ge alla elever möjlighet att utvecklas. Specialistsjukvården kan också behöva en starkare statlig styrning.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Efter att Luleå sedan demokratins införande har styrts av Socialdemokratin i en eller annan form är det dags för förändring. Luleå behöver ett nytt ledarskap som präglas av pragmatism och framtidstro.\r\nModeraterna är beredda att tillsammans med andra ta ansvar för de nödvändiga förändringar som krävs nu och i framtiden.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": " Miljöpartiet, då de tyvärr visat sig vara motståndare till all utveckling.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Starkare kommunal ekonomi",
+        "description": "För att skapa utrymme för mer resurser till vår gemensamma välfärd krävs en stark kommunal ekonomi. Vi måste fokusera på kärnuppgifterna och sluta lägga resurser på fel saker. Luleå är idag en högskattekommun men det måste inte vara så."
+      },
+      {
+        "category": "Trygghet och säkerhet",
+        "description": "Luleå är generellt en trygg plats men oroväckande tecken visar att detta är på väg att förändras. Vi måste säkerställa tryggheten i hela kommunen och vägar för att uppnå detta kan vara insatser med slyröjning och belysning vid gång- och cykelvägar, bevakning och trygghetskameror på fler platser."
+      },
+      {
+        "category": "Bostäder",
+        "description": "Luleå växer redan idag och många fler vill flytta hit men bristen på bostäder är stor och våra unga har ingen möjlighet att flytta hemifrån. Vi vill skapa nya områden för byggnation och förenkla regelverk och minska på byråkratin. På stadshalvön ska det vara möjligt med höga hus och längs våra 279 mil stränder finns stora möjligheter till fantastiska strandnära bostäder."
+      }
+    ],
+    "motivateVote": "Vi älskar vårt Luleå, en stad nära vattnet men också nära naturen och med goda kommunikationer till omvärlden. En stadskärna med puls och folkliv men också en blomstrande landsbygd med välmående byar och många naturupplevelser. Mycket är bra men det mesta kan också bli bättre.\r\n\r\nVi är ett parti som har konkreta lösningar på de största samhällsproblemen och framtidens utmaningar.\r\n",
+    "name": "Moderaterna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-lulea"
+  },
+  {
+    "abbreviation": "RS",
+    "altingetCandidateId": "1049",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mer resurser för fler anställda är det som kan göra skolan lugnare: mindre klasser och resurspersonal till alla barn som behöver det . Otrygghet i skolan beror i grunden på ett otryggt samhälle: behämpa klassklyftorna, stoppa attacker på sjuka och arbetslösa, allas rätt till bostad mm är medicin mot grundproblemet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige slits isär av växande klyftor mellan fattiga och rika och mellan stad och land. När politiken anpassas efter intressen hos storföretag och banker skärs “onödig” välfärd och service ned på landsbygden. RS vill har nära kommunal service såsom skola/förskola och äldreboende i hela kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigast för att minska utsläpp från biltrafiken är utbyggt och billigare kollektivtrafik. RS vill omedelbart halvera biljettpriserna och inom några år göra kollektivtrafiken avgifts- och fossilfri. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gång på gång avslöjas skandalerna inom vinstdrivande vård, skola och omsorg. Miljarder av våra skattepengar slösas i vinstutdelning till några miljardärer - medan personalen får springa fortare och de äldre inte får den hjälp de behöver. Ingen vinstjakt i välfärden!",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "RS förslag om sex timmars arbetsdag med bibehållen lön behövs för hållbar arbetsmiljö, kunna rektrytera personal och för en bättre kvalitet i äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att nyanställda med svenska som andra språk får gå bredvid ordinarie personal, alltså som \"extra\" personal, tills dess att språkkunskaperna är tillräckliga.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "När vinstintresset styr bostadsmarknaden byggs  bara bostäder som ett fåtal har råd med. Lulebo ska bygga klimatsmarta hyresrätter till rimlig hyra i hela kommunen. RS säger JA till en social bostadspolitik och allas rätt till bra bostäder med rimlig hyra. Nej till marknadshyra!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "När privata vinstintressen styr koncentreras infrastruktur, som laddstolpar, till ett fåtal platser. RS anser att det behövs en offentlig plan för kraftigt utbyggt laddinfrastruktur i hela landet, inklusive landsbygden.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "På grund av ökad maktkamp och krig mellan stormakterna är antalet flyktingar i världen rekordstort. När samhällets problem felaktigt skylls på flyktingar splittras vi som har gemensamma intressen medans de ansvarig kommer undan. RS försvarar rätt till asyl och permanenta uppehållstillstånd för de som flyr från krig och förtryck.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra förslag så länge dagens system finns kvar. RS vill ha bort systemet med vinstdrivande friskolor, som segregerar samhället och skickar skattepengar rakt ned i miljardärers fickor. Alla barn ska vara garanterade bra skolor som tillgodoser de olika behoven.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt med mer inflytande för luleborna, men folkomröstningar är ingen magisk lösning. Se bara på skolkampen, där RS-medlemmar spelade en viktig roll i att mobilisera till samlade protester - folkomröstningen om skolan var viktig men för att de styrande ska lyssna behövs också kamp och organisering.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "RS vill ha bort systemet med vinstdrivande friskolor, som segregerar samhället och skickar skattepengar rakt ned i miljardärers fickor. Alla barn ska vara garanterade bra skolor som tillgodoser de olika behoven.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen måste bli en naturlig del av kommunens verksamhet, då kan kulturutövare också få rimligt betalt och utvecklas som konstnärer. Det behövs ett kommunalt kulturråd med direkt inflytande över kulturens del i vår livsmiljö: evenemang, gestaltning, bibliotek osv. Ett råd där olika grupper, föreningar och institutioner inom konst, litteratur, musik mm representeras demokratiskt.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "RS tror inte att skattehöjningar för vanligt folk är lösningen på välfärdens underfinansiering. Under pandemin fördubblade Sveriges miljardärer sina förmögenheter och 2022 förväntas en rekordaktieutdelning till de rika på 330 miljarder kr - beskatta storföretag och de superrika!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1678",
+          "1673",
+          "1674"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;A!;D!;C;D!;D;A!;C;C;0/5!;4/5;2/5;[1678,1673,1674]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en kommun där det är behoven som styr, där kommunmedborgarna tillsammans med kommunens anställda utvecklar välfärden utan nedskärningarna och privatiseringar. För att de ska bli möjligt krävs gemensam kamp underifrån, oavsett politisk majoritet i kommunfullmäktige.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inte med rasister eller partier som skär ned eller privatiserar. \r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ställ om äldreomsorgen: fler anställda och bättre villkor",
+        "description": "Pandemin har visat att dagens underbemannade äldreomsorg inte är hållbar, varken för de äldre eller för personalen. Vi kräver minimibemanning dagtid på äldreboenden på tre personer per avdelning och ett lokalt kollektivavtal om höjd minimibemanning i hemtjänsten. Dessutom behövs 6 timmars arbetsdag med bibehållen lön. De “på golvet” behöver få makt över schemaläggning och planering."
+      },
+      {
+        "category": "Satsning för att motverka sexism, rasism och HBTQ+-fobi.",
+        "description": "2021 dödades 15 kvinnor av män de var/varit i nära relation med, 2022 är det redan många fler! Det behövs fokus på samtycke i sex och relationer, allas rätt till kontroll över sin egen kropp, liv och sexualitet, fakta om mäns våld mot kvinnor, samt om rasismens och HBTQ+-fobins uttryck och effekter. Kvinnors position måste stärkas, tex genom bättre villkor i kvinnodominerade yrken."
+      },
+      {
+        "category": "Halvera biljettpriserna, sikta på avgiftsfri kollektivtrafik!",
+        "description": "Luleå kommun behöver en koldioxidbudget för fossilfri verksamhet 2030 och då behövs en massiv satsning på kollektivtrafiken, tillsammans med utökad cykelutlåning och en kommunal fossilfri bilpool. Våra förslag hänger ihop, att börja införa sex timmars arbetsdag är också ett viktigt steg mot ett hållbart samhälle, där det finns mer tid att gå, cykla, åka kollektivt och för engagemang."
+      }
+    ],
+    "motivateVote": "RS tar kampen MOT klyftorna och FÖR välfärden in i kommunfullmäktige. Vi visar att det finns pengar till fler anställda i vård och skola/förskola, hållbara jobb och en verklig, rättvis klimatomställning – ett socialistiskt alternativ. Vi tar strid mot sexism, rasism och splittring. RS samlar till protester på gator och arbetsplatser, för det är där styrkan finns att förändra samhället.",
+    "name": "Rättvisepartiet Socialisterna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "rattvisepartiet-socialisterna-lulea"
+  },
+  {
+    "abbreviation": "SJV",
+    "altingetCandidateId": "1050",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den svenska skolan där elevens rättigheter har fått dominera framför lärarens rättigheter och möjligheter att hålla ordning i en skolklass måste få ett slut. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": " Ett utmärkt förslag. Luleå kommun har i sin Översiktsplan valt ut några så kallade \"noder\" och lämnat stora delar av landsbygden mer eller mindre oplanerad. Vi vill lansera en särskild fördjupad Översiktsplan enbart för Luleå och Boden tillsammans. De båda kommunerna har till stora delar en gemensam landsbygd med direkt gräns till varandra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå centrum består av en centrumhalvö som enligt plan ska växa med tusentals nya innevånare. Samtliga hushåll har troligen bil som även i framtiden kommer att vara den viktigaste transportmedlet. Om ännu fler bilfria zoner ska införas i centrala Luleå ska det ske i mycket liten utsträckning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mångfald slår oftast enfald och det gäller även i fråga om driftsformer för äldre i särskilt boende och hemtjänst. Detta betyder inte att mångfald ska dominera utan en mix av andra driftsformer är att föredra. Konkurrens sporrar de olika driftsformerna att anstränga sig och erbjuda bättre omsorg än andra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget höjer inte bara kostnaderna rejält utan förstärker också den stora brist på arbetskraft inom äldreomsorgen som redan står för dörren och kommer att axellerera i framtiden. Det är vidare inte arbetstidens längd som är problemet inom äldreomsorgen utan den bristande tilliten till att arbetstagare med frihet under ansvar tar fram tidigare dolda resurser i arbetet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att tala och förstå svenska är förstås viktigt i sammanhanget men får inte hindra att de som inte klarat språktestet än förhindras att arbeta inom området i fråga. Möjligheten är gå dubbelt med en svensktalande arbetskamrat snabbar på språkkunskapen i svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett i huvudsak ganska bra förslag särskilt för ungdomar (men även för andra) som ska flytta in i sitt första egna boende. Kan förverkligas genom kommunens bostadsbolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett utmärkt förslag om man ska få fart på att fler el- bilar börjar rulla på kommunens gator och vägar. Kan med fördel åläggas kommunens energibolag att verkställa om andra intressenter tvekar eller inte vill ta ansvaret.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "I huvudsak ett ganska bra förslag. Ordet \"flykting\" är emellertid ett ord som omfattar allt ifrån människor som flyr för sitt liv till dom som endast är ute efter att få ett bättre och ordnat liv än i hemlandet för sin familj. Kvotflyktingar ska vi självklart ta emot.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett mycket bra förslag som väl knappast behöver motiveras väl? jag har trott att friskolor redan hade denna skyldighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska bra förslag men ska användas sparsamt och gälla frågor av stor betydelse för en stor del av befolkningen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "Blandningen av privata och kommunala skolor är i stort tillräcklig nu.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Som det är nu.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "Som det är idag men om viktiga kärnverksamheter i kommunen hotas och inte kan förbättras genom ökad effektivitet så måste man nog höja skatten",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1676",
+          "1673",
+          "1674"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;B;C;A;C;C;D;C;D;C;2/5;2/5;2/5;[1676,1673,1674]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ett lokalt parti och har inget \"moderparti\" på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill bryta det snart sekelgamla socialdemokratiska styret i Luleå som skiftat mellan S i majoritet och S, V och MP i samarbete. Vi tycker Luleåborna är värda att en ny ledning får ta över som inte fått någon chans att visa vad de duger till ännu.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "RS (Rättvisepartiet Socialisterna)",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Uppvärdera äldre- och handikappomsorgen i Luleå",
+        "description": "Vi måste ha råd att uppvärdera äldre- och handikappomsorgen i Luleå. Mer tid, mer stöd från chef och sjukvårdskunniga och bättre anställningsvillkor och utbildning. Lyssna mer på personalen för det är dom som kan verksamheten från grunden. Löftet att ta bort så kallade delade turer måste nu uppfyllas 11 år efter att löftet gavs från dåvarande kommunledningen."
+      },
+      {
+        "category": "Stoppa centralisering och hopslagning av mindre skolor till storskolor",
+        "description": "Centralisering och storskolor är som bekant de styrande socialdemokraternas lösningar för att uppnå en god studiemiljö. Detta har resulterat i en rad nedläggningar av byaskolor de senaste åren.  Vi i Sjukvårdspartiet tycker att det behövs skolor i såväl stadsdelar som byar. Vi vill ha en återstartsutredning av nedlagda skolor för att få en bild av vilka som kan återstartas kommande mandatperiod."
+      },
+      {
+        "category": "Det ska byggas och bo i hela kommunen inklusive landsbygden",
+        "description": "Eftersom målet är att vi ska bli fler medborgare så kan inte alla bo på den redan trånga centrumhalvön. Fördelningen med dagens 20/80 mellan stadsboende och landsbygdsboende bör förändras till 30/70 när det gäller bostäder. En viktig del i detta är att utöka samarbetet med framför allt Boden eftersom vi har en mer eller mindre gemensam landsbygd."
+      }
+    ],
+    "motivateVote": "Sjukvårdspartiet har fokus på kärnverksamheten i kommunen och är ett lokalt parti som inte är belastade eller låsta av ideologiska spärrar som de flesta andra partier. Vi värderar varje sakfråga för sig och tar ställning för de förslag som vi anser en majoritet av väljarna föredrar. Vi är blockpolitiskt obundna.",
+    "name": "Sjukvårdspartiet Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sjukvardspartiet-lulea"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1051",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att varje barn ska lyckas behövs det lugn och studiero i skolan, vilket ordningsregler bidrar till.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå och Boden har en gemensam landsbygd och kan göra mycket tillsammans, som den gemensamma servicepunkten i Avan-Unbyn.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centrala Luleå behöver fungera både för gående, cyklister och bilar. Inga bilfria zoner planeras. Det behövs en balans mellan trafikslagen för att skapa tillgänglighet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Välfärden ska inte privatiseras, utan ska drivas i offentlig regi. Vi tror på gemensamma lösningar i välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver vara en attraktiv arbetsgivare och då kan 6-timmars arbetsdag vara ett alternativ som kan provas på arbetsplatser där det är lämpligt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de tjänster där man jobbar direkt med brukare är det viktigt att man talar och förstår svenska bra och det behöver säkerställas vid anställning. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det byggs fler nya bostäder. Lulebo är en viktig aktör för att det byggs hyreslägenheter för olika behov. Luleå behöver även fler bostadsrätter och villor, då vi vill se blandade boendeformer i alla bostadsområden. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska skapa goda förutsättningar för publika laddstolpar, som kommersiella aktörer, inklusive vårt eget energibolag Luleå Energi får bygga och driva. Kommunen ska tillhandahålla laddstolpar för kommunens egna fordon.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå ska ta emot de flyktingar som blir placerade här och välkomna dem hit!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor, även friskolor behöver ta emot nyanlända elever och integrera dem i samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar lämpar sig dåligt för komplexa frågor och skapar polarisering i frågor, vilket försvårar samarbete. Däremot behöver kommunen ha en närmare och kontinuerlig dialog med medborgarna i svåra frågor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "Det är inte kommunen som bestämmer vilka friskolor som finns i kommunen. Kommunen ska ha ett gott samarbete med de friskolor som finns i kommunen. Kommunens egna skolor ska vara så bra att elever väljer att gå på dem.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för en attraktiv kommun, där människor vill leva och utvecklas. När Luleå växer behöver även budgeten för kulturen växa. För oss är det viktigt att alla barn och unga få kulturupplevelser kontinuerligt under sin uppväxt.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "Luleå kommun har en stabil ekonomi. Vi tror att nuvarande skattesats ger kommunen de inkomster som behövs för kommande år.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1671",
+          "1676",
+          "1679"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;B;A!;C;C;D;C;A;D;A;2/5;4/5!;2/5;[1671,1676,1679]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja, vi tror tex att det behövs flyttbidrag för att få fler människor att kunna flytta hit, där det finns jobb och brist på arbetskraft.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill gärna få lulebornas förtroende att fortsätta styra kommunen, själva eller i samarbete med andra partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Den gröna omställningen för jobb och framtidstro",
+        "description": "Vi står inför en spännande tillväxt i Norrbotten och i Luleå. Den gröna omställningen innebär att kommunens befolkning väntas växa till 100 000 personer. Klimatförändringarna och människors vilja att byta till mer klimatsmarta produkter driver på utvecklingen som kommer att skapa många arbetstillfällen och bidra till ett mer hållbart samhälle. Men det kommer inte att hända utan hårt arbete."
+      },
+      {
+        "category": "En jämlik välfärd för alla",
+        "description": "Luleå kommun ska ha en välfärd som skapar möjligheter för alla medborgare att få utbildning och omsorg genom livet. Välfärden ska styras demokratiskt, med tillgänglighet och insyn för alla medborgare att följa verksamheten. Välfärden är extra viktig som ett instrument för att skapa jämlikhet och minska klyftor i samhället och vi tror på att välfärdens utmaningar behöver gemensamma lösningar."
+      },
+      {
+        "category": "Ett tryggt och säkert Luleå",
+        "description": "Det är väldigt viktigt att alla vi som bor i Luleå ska kunna känna oss trygga, oavsett var i kommunen vi befinner oss. Trygghetsmätningar visar att Luleå är en trygg kommun att leva och bo i men det betyder inte att det saknas utmaningar. Vi behöver fortsätta jobba strukturerat kring trygghetsskapande åtgärder tillsammans med polisen, civilsamhället och andra aktörer."
+      }
+    ],
+    "motivateVote": "Vi socialdemokrater tror att vi bäst möter framtidens utmaningar med gemensamma lösningar och satsningar, inte genom privatiseringar. Vi prioriterar välfärd, trygghet och den gröna omställningen. ",
+    "name": "Socialdemokraterna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-lulea"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1052",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att alla elever ska känna trygghet och få arbetsro, gäller även lärare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "På sikt tycker vi att Boden och Luleå kommun ska utvecklas till en kommun.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha tillgång till centrum och detta är speciellt viktigt för dom som kommer från landsbygden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett bra komplement till kommunens verksamhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "En trygghet ,säkerhet och undvika missförstånd för dom äldre att personalen kan svenska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler billigare boende för våra ungdomar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det blir fler el bilar i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har för få lediga lägenheter och för lite resurser i dagsläget.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inga skillnader i åtagande mellan kommunen och friskolorna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "I stora frågor som berör kommunen . Folkomröstningar ska vara bindande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "Det fungerar bra idag i Luleå kommun, men det ska finnas möjlighet att starta friskolor där behoven finns.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Det fungerar bra som det är idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten är bra för att kärnverksamheten ska fungerar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;D;A;D;A;D;C;D;D;D;D;2/5;2/5;2/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej , vi är eniga med riks.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en annan politiskt styre. Vi vill gärna samarbeta med oppositionen i dom frågor vi tycker lika.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan samarbeta med alla bara det gynnar kommunmedborgarna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk landsbygden",
+        "description": "Många har under senare år valt att flytta ut i byarna, ut från stad och in till land. Sverigedemokraterna tycker att hela kommunen ska få samma förutsättningar oavsett var man bor, därför är det viktigt med att kommunen satsar på all service även hos de som bor utanför stan. Dagis, skola, äldreomsorg och infrastruktur skall också vara självklara satsningar på landsbygden."
+      },
+      {
+        "category": "Biltrafiken",
+        "description": "Luleå kommun måste få en ny policy när det gäller biltrafik, det ska vara lätt att ta sig till och från stan. Alla kan inte cykla till centrum och det går inte lokaltrafik till alla. Kommunen behöver inse att bilen är ett trafikslag bland alla andra och att bilen måste få samma status som andra trafikslag. Parkeringarna i stan måste utökas och det måste bli billigare att parkera."
+      },
+      {
+        "category": "Sociala omsorg och skola",
+        "description": "Sverigedemokraterna vill satsa stort på kommunens kärnverksamheter såsom social omsorg och skola. 40 miljoner till social omsorg och 40 miljoner till skolan höjer både lönerna för de som arbetar i kommunen och till att lyfta verksamheterna. Det ska tex. finnas läromedel i skolan till alla barn och personal på äldreboendet när så behövs. Att vårdpersonal är utbildad och kan det svenska \r\nspråket."
+      }
+    ],
+    "motivateVote": "Få en varaktig förändring . Göra Sverige bra igen.",
+    "name": "Sverigedemokraterna Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-lulea"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1053",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "6a33707971b4f7c90257d5b6d5a334be",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett regelverk för att bestraffa felsteg är inte rätt väg att gå. Med fler vuxna i skolans om ser och bekräftar det goda i elevers alla aktiviteter är bättre.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0811edb773dbea22c5aab83c24ff523a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samarbete är alltid bra och vi är ju i ett skede där vi behöver växa. Boden är en naturlig samarbetspartner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6a08998844a973301e38e88122219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Totalförbud för bilar kan vara väl så drastiskt. Vi vill dock satsa på att ge mer utrymme för gång- och cykling i hela kommunen. Det är ett viktigt steg i riktning mot hållbarare utveckling.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb16e4d55f9bda73a9e71d1daa92a8cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna verksamhet finansieras av offentliga medel och i grunden ska de också drivas offentligt i kommunal regi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "87c8ecf560d3ab30850ad8c63cd6be7c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta har vårt parti drivit på alla plan i politiken. Vi behöver bli fler, men vi måste också orka och ha balans i livet. Detta skulle kanske kosta i lön, men vara en besparing i sjuklön och individers välmående.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2efc56569f1a792bc3a8e8a2400959bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för allas möjlighet att komma ut i samhället, skapa sig goda förutsättningar för att försörja sigma genom att kunna språket.  Ett test kan vara hämmande för en person som kan passa i verksamheten, att ta jobb i den. Olika typer av inskolning i arbete och språk kan istället vara ett bättre förslag. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e86850222fedfaa356eae201e516d164",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostad är en rättighet och utifrån vårt allmännyttiga bostadsbolag är detta fullt möjligt. OM den politiska vilja till ett starkt allmännyttigt bostadsbolag finns. Vänsterpartiet har den viljan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8ed03aae8fd8ba598bcefdfcadb85d19",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska absolut dra sitt lass i en grön klimatomställning. dessa kan tillhandahållas, givetvis mot kostnad, ganska snabbt om kommunen är drivande i det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e3bc03a2ab17bde2960ec07560a9d5d9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Luleå kan och luleborna vill visa solidaritet och medmänsklighet med de som flyr i värden. VI har visat det förr. Vi kan visa det igen och Vänsterpartiet har alltid varit positiva till att finna lösningar för att möjliggöra ett stort och bra flyktingmottagande.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77d5975d2f121120fd5bd27dd962a45b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grunden så ska skolor vara offentliga. Dock så har vi ett antal friskolor i kommunen och självklart ska de ta emot nyanlända om de nyanlända vill gå på den skolan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "099a2a7358111577b897e848a5048cbd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstning ska nyttjas för att politiken behöver stöd och råd i stora frågor. I vår kommun har det inte hanterats bra och det beror dels på att väljarna fått kräva folkomröstning och politiken borde ha lyssnat på väljarna, gett vallöften som gäller efter valdagen och stått upp för dem. Vänsterpartiet ger löften som håller och vi står vid vårt ord.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3d9ba198721a7c1a5ff0653fd58a399d",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet vill helst se att skolans verksamhet sker i offentlig regi och utförande. Vi vill också att det ska vara absolut förbud av vinstuttag till privata aktieägare i skolans värld.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "7df864c7306e8a861dddab296ee51592",
+        "questionType": "RANGE",
+        "reasoning": "Vi kan absolut lägga mer pengar på att tillhandahålla kultur för fler. Viktigt att kommunen erbjuder både utövare och kulturanvändare jämställda och jämlika kulturvillkor.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f4d4b0a0887e0423ab765bcf3b8d1b6c",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att vi kan omfördela skatteintäkterna mer jämlikt och jämställt än vad S minoriteten med stöd av M gjort denna mandatperiod. I det fall att merpengar behövs och verkligen går till skola, vård och omsorg, kan vi vara öppna för att se över skattesatsen. Med ett starkt vänsterparti i kommunen är det en långt senare fråga.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26331d16475df1a72c5acc3c916bb9e0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1679",
+          "1673",
+          "1674"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D;C;A;D;B;D;D;A;D;B;0/5;3/5;2/5;[1679,1673,1674]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte för närvarande, men våra lokala förhållanden kan ibland skilja sig åt i väldigt specifika sakfrågor.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en tydlig socialistisk, feministisk och klimatsmart styre efter valet. Vänsterpartiet är en garant för sådan politik. Vi står för våra vallöften och håller vårt ord.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Kristdemokraterna\r\nModeraterna\r\nLiberalerna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Sex timmars arbetsdag i kommunal verksamhet",
+        "description": "Vi behöver allt mer arbetskraft, samtidigt som vi vet att många arbetar inom tunga och krävande yrken. Vi tror att ett sätt att locka till sig fler anställda, vara en attraktiv arbetsgivare och samtidigt ge de anställd möjlighet till balans i livet, är just genom förkortad arbetstid med bibehållen lön. Vi vill identifiera lämpliga kommunala arbetsplatser där detta kan införas."
+      },
+      {
+        "category": "Satsa på att bli en klimatsmart och hållbarare kommun",
+        "description": "Vi har idogt drivit miljö- och klimatsmarta förslag i kommunen. Allt från ekologisk och vegetarisk mat, som är gynnsamt för både hälsa och hållbarhet. Till att aktivt arbeta för att stötta kollektivtrafik för att kunna minska behov av privatbilar. Det är vår förhoppning att Luleå som kommun ska bli fossilfritt till 2040. Vi vill också bygga ut cykelvägarna i snabbare takt."
+      },
+      {
+        "category": "Satsningar på kommunens skolor",
+        "description": "Vi vill se skolor i både landsbygd och tätorten. Vi vill att landsbygdsskolorna ska få vara kvar och utvecklas utifrån sina förutsättningar. Vi vill öppna de landsbygdsskolor som lagts ned, precis så som folkomröstningen sa ja till. Vi vill också se fler vuxna i skolan, pedagoger, elevhälsopersonal och andra yrkesgrupper. Det är bra för barnen och stödjer dem i olika situationer på skolan."
+      }
+    ],
+    "motivateVote": "För politik som erbjuder jämlikhet och jämställdhet oavsett om du bor på glesbygd eller i storstad.",
+    "name": "Vänsterpartiet Luleå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-lulea"
+  }
+]

@@ -1,0 +1,847 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "55",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "c5f0e0b414f3e890503f6055a00e8454",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns tillräckligt många områden i kommunen som har olika typer av skydd",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "16a4619a0379341e4a9917852bbf783a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inget problem med att öka personalens inflytande. Ökad konkurrens ger ökad kvalité.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "67aec6540045f6c1ef5ed9fcab3cfed5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, vilken mat som ska serveras i skolan ska ske utifrån samråd med barnen och folkhälsoperspektiv. Vetenskaplig grund och beprövad erfarenhet. Dock bör köttet vara mer lokalproducerad och ska uppfylla svenska djurskyddsregler.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d6aa7d1cfb9b914b79772ca9d4922ae5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, kommunen ska inte konkurrera med privata företag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a68c6dec785c78f38d4989bed1a27760",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan idag problem med att rekrytera personal till äldreomsorgen, om 20 % av arbetstiden försvinner så måste fler rekryteras eller personalen hinna mer på kortare tid. Det är inte realistiskt att inom överskådlig tid minska arbetstiden m h s till svårigheten att idag rekrytera personal. Heltid ska dock vara norm.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9d37f89a320295898cfc33e41fc26035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ganska självklart att anställda måste kunna kommunicera med de som de ska hjälpa och stödja. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2d9f19aafbc2caa5cca0c303755702f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolorna vänder sig till medborgarna och för att vara ett alternativ till den kommunala skolan. Då ska skolorna ha samma regler som de kommunala, d v s man ska ta emot alla elever som söker sig till skolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ae92e85888cde494d013fa54bcc7ce1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte med gällande lagstiftning finansiera hyreslägenheter. Likabehandling av alla kommunmedborgare gäller. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e4cfffc9666a741e26b95b900e56bd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja självklart, men de ska uppfylla alla kvalitetskrav, lagkrav o s v. Det är inte driftformen som är viktig utan kvalitén på utförandet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "74831841a6c636fd9f2008d738c3ce96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det ska marknaden göra. Däremot ska kommunen ansvara för att det för den kommunala verksamheten finns laddstolpar för kommunens egna bilar som drivs med el. Vilket bör var huvuddelen inom nästa mandatperiod.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1953813f9e0dcc504cf29a9a78ee3663",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta emot flyktingar i den omfattning som vi har resurser för. F n är det inte färre. Vi ska solidariskt ta emot flyktingar i förhållande till vår storlek och tillgången på arbeten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5d1522b19a7cf33f7ddcbcdabf2331a8",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser inga problem med att skolor drivs av privata kooperativ eller i annan form så länge kvalitén upprätthålls. Det är inte driftformen som är viktig, utan kvalitén.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9aff94786533282eb2b064c97c0ebce4",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill satsa ytterligare medel på kulturaktiviteter i hela kommunen, inför 2023 yrkar vi på ytterligare en miljon kronor till kultur och fritid. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e24001ec451db65dcf2a285fc4df81cc",
+        "questionType": "RANGE",
+        "reasoning": "Vår bedömning är att dagens skattenivå behövs för framtiden. En sänkning med 25 öre innebär 67,50 kr i månaden i lägre skatt, 750 kr per år vid en inkomst på 25 000 kr i mån. Den sänkningen kommer ingen att märka, men skulle vi höja med motsv. skulle det upplevas mera negativt. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b319c9ce1a13c84fee961905f03ecd1e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "789",
+          "792",
+          "785"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;A;D;A;D;D;A;D;A;A;2/5;3/5;2/5;[789,792,785]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, dock är vi överens över partigränserna om att inte bygga vindkraft i Arvidsjaur. Det främst för att inte störa flygtrafiken.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas på att få egen majoritet, om det inte sker så hoppas vi kunna finna en lösning med som innebär en stor majoritet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Norrbottens bästa skola",
+        "description": "En skola - från förskola till gymnasieskola - som rustar barn och unga med kunskaper och som ger alla barn möjlighet till en bra start i livet. För att skapa likvärdiga livschanser är det viktigt med en skola som ger kunskap och verktyg för livet. Alla ska ha tillgång till utbildning av hög kvalitet. Investeringar i kunskap rustar oss för framtiden."
+      },
+      {
+        "category": "Jobben och jobbskaparna",
+        "description": "Företagen är grunden till vår välfärd, vi vill att Arvidsjaur ska klättra i Svensk Näringslivs rankinglista Sveriges bästa företagsklimat så att vi är bland topp 100. Vi värnar mark- och skogsägarnas ägande rätt. Vi vill att kommunen fokuserar på den kommunala kärnverksamheten."
+      },
+      {
+        "category": "Äldreomsorg",
+        "description": "Vi vill öppna upp för fler tankar och idéer så att fler ska kunna bidra. Seniorboende ute i byarna så att äldre inte behöver flytta till centralorten. Vi vill öppna upp för intraprenader inom omsorgen i syfte att vårdpersonalen ska kunna forma sina arbetsförutsättningar. Umgås mer över generationsgränser ex vis genom volontärbyrå där \"pigga pensionärer\" kan var \r\n\"klass/rast morfar och farmor.\""
+      }
+    ],
+    "motivateVote": "Centerpartiet i Arvidsjaur vill satsa på kommunens kärnfrågor, vård skola och omsorg. Vi vill se fler händer i vården och fler vuxna i skolan. För att lyckas med detta krävs ett gott företagsklimat. Vi vill se att hela kommunen växer och utvecklas. ",
+    "name": "Centerpartiet Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-arvidsjaur"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "56",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-arvidsjaur"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "57",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "c5f0e0b414f3e890503f6055a00e8454",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "16a4619a0379341e4a9917852bbf783a",
+        "questionType": "PROPOSITION",
+        "reasoning": "God ledning krävs!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "67aec6540045f6c1ef5ed9fcab3cfed5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d6aa7d1cfb9b914b79772ca9d4922ae5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a68c6dec785c78f38d4989bed1a27760",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra förslag om vårdens kvalitet kan bibehållas eller förbättras.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9d37f89a320295898cfc33e41fc26035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trygghet för medborgarna tillhör kommunens huvuduppgifter!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2d9f19aafbc2caa5cca0c303755702f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ae92e85888cde494d013fa54bcc7ce1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e4cfffc9666a741e26b95b900e56bd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utökar näringslivet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "74831841a6c636fd9f2008d738c3ce96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillhör ej kommunernas uopgifter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1953813f9e0dcc504cf29a9a78ee3663",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall ta emot det antal vi med säkerhet kan integrera .",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5d1522b19a7cf33f7ddcbcdabf2331a8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9aff94786533282eb2b064c97c0ebce4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e24001ec451db65dcf2a285fc4df81cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b319c9ce1a13c84fee961905f03ecd1e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "790",
+          "793",
+          "785"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;A;_;D;C;D!;D;B;C;B;B;2/5;2/5;2/5;[790,793,785]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Styret skall vara så bra som möjligt för invånarna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Beta av underhållsskulden! ",
+        "description": "Underhållet av vägar och VA-system är eftersatt."
+      },
+      {
+        "category": "Reivo som nationalpark!",
+        "description": "Arvidsjaur har turistvärden året om!"
+      },
+      {
+        "category": "Bättre arbetsmiljö för vårdpersonalen!",
+        "description": "Bättre möjligheter till kompetenshöjning och inga ovälkomna delade turer!"
+      }
+    ],
+    "motivateVote": "Vi är det enda parti som ser långsiktigt på Arvidsjaurs framtid.",
+    "name": "Moderaterna Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-arvidsjaur"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "58",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "c5f0e0b414f3e890503f6055a00e8454",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "16a4619a0379341e4a9917852bbf783a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "67aec6540045f6c1ef5ed9fcab3cfed5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d6aa7d1cfb9b914b79772ca9d4922ae5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a68c6dec785c78f38d4989bed1a27760",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9d37f89a320295898cfc33e41fc26035",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2d9f19aafbc2caa5cca0c303755702f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ae92e85888cde494d013fa54bcc7ce1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e4cfffc9666a741e26b95b900e56bd33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "74831841a6c636fd9f2008d738c3ce96",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1953813f9e0dcc504cf29a9a78ee3663",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5d1522b19a7cf33f7ddcbcdabf2331a8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9aff94786533282eb2b064c97c0ebce4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e24001ec451db65dcf2a285fc4df81cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "b319c9ce1a13c84fee961905f03ecd1e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "792",
+          "791",
+          "785"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;B;B;C;C;D;B;A;B;B;2/5;3/5;1/5;[792,791,785]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "- Villkoren för service för de som lever på landsbygden\r\n- Behovet av infrastruktursatsningar och fungerande drivmedel och dess kostnader\r\n- Det kommunala självbestämmandet - Vetorätten i vår egen kommun",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att det politiska styret ska fortsätta med en ännu tydligare vänsterprofil med ökade satsningar på vård, skola, omsorg, näringsliv och föreningar samt med en god samarbetsvilja från andra partier så att vi i främst ska kunna fatta de beslut som är bäst för Arvidsjaur kommun i sin helhet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, partier som har oförenliga värderingar med oss om allas lika värde. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård och omsorg",
+        "description": "I en liten kommun med äldre befolkning utgör vård och omsorg den huvudsakliga verksamheten för kommunerna med komptensförsörjningsproblematik och ökade kostnader. Utöver detta bör det centralt säkerställas huruvida social dumpning förekommer. Riktade prioriteringar för vård, skola och omsorg ska genomföras klokt"
+      },
+      {
+        "category": "Kompetens och utbildning",
+        "description": "Det är svårt för kommunen att hitta personer med rätta kompetenser i ett fler yrken. Brist på kompetent personal inom exempelvis biltestindustrin (som är en miljardindustri) gör att utländska bolag tar med sig kompetenser i stället för att anställa. Vård och byggsektorn saknar kunnigt folk. Brist att lokalt kunna utbilda/kompetensförsörja är problematiskt då Norrbotten expanderar, även inlandet."
+      },
+      {
+        "category": "Infrastruktur och kommunikationer",
+        "description": "Brist på riktade satsningar på kollektiv trafik och tåg för inlandets kommuner skadar kommunernas satsningar på såväl turism som annan teknisk utveckling och arbeten. Arvidsjaur saknar tågförbindelser och bussförbindelser till flertalet av sina grannkommuner över länsgränsen till Västerbotten. Kommunal flygplats är navet för kommun. I övrigt får man i huvudsak åka med egen bil till och från orten"
+      }
+    ],
+    "motivateVote": "Socialdemokraterna har genom åren varit det bärande partiet i Arvidsjaur och visar att med en bra politik har vi en etablerad flygplats som är viktig för hela Norrbottens inland. Hårt arbete och kloka satsningar har vi K4 tillbaka, myndigheter vill expandera här. Prioritering på skola, omsorg, badhus och med ökat stöd och samarbete är Arvidsjaur en livskraftig kommun där företag vill satsa.",
+    "name": "Socialdemokraterna Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-arvidsjaur"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "59",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "c5f0e0b414f3e890503f6055a00e8454",
+        "questionType": "PROPOSITION",
+        "reasoning": "Reivo skall vara tillgängligt för allmänheten. Sverigedemokraterna vill ta initiativ att samverka med markägaren och andra intressegrupper att rusta upp vägar, rastplatser etc. Ifall en nationalpark skall bli av är det viktigt att skoterleder och annat nyttjande av Reivo är ett förbehåll för att en nationalpark skall formas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "16a4619a0379341e4a9917852bbf783a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personal skall uppmuntras till att göra den kommunala verksamheten så bra som det bara är möjligt. Om det handlar om tex att sätta guldkant på vardagen inom tex äldrevården genom olika förbättringsförslag skall detta stödjas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "67aec6540045f6c1ef5ed9fcab3cfed5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill inte stödja tvång utan hellre uppmuntra till eventuella köttfria dagar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d6aa7d1cfb9b914b79772ca9d4922ae5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte driva bolag som konkurrerar med det privata näringslivet. Finns sådan verksamhet skall kommunen verka för en avveckling av dylik verksamhet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a68c6dec785c78f38d4989bed1a27760",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill erbjuda anställda heltidsanställningar som norm. Vi vill ta fram en modell som innebär att lönebortfall till följd av karensdagar vid sjukdom kompenseras för anställda inom vård och omsorg. En sextimmars arbetsdag kan medföra att statusen höjs inom yrket, attrahera personal och säkra kompetensförsörjningen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9d37f89a320295898cfc33e41fc26035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker detta är självklart. Särskilt våra äldre skall ha en trygg och pålitlig omsorg. Kommunikation är viktigt och är ett grundelement i vård och omsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2d9f19aafbc2caa5cca0c303755702f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan inte ha skolor som väljer elever utifrån ekonomiska incitament eller några kriterier som diskriminerar eleven. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ae92e85888cde494d013fa54bcc7ce1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej kommunen ska inte konkurrera med privata företag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e4cfffc9666a741e26b95b900e56bd33",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, förutsättningen lika villkor och krav som den kommunala verksamheten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "74831841a6c636fd9f2008d738c3ce96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej kan inte konkurrera med privat verksamhet. Tillhör inte kommunal kärnverksamhet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1953813f9e0dcc504cf29a9a78ee3663",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen tar knappt emot några asylsökanden idag så detta är idag en icke fråga. Vi motsätter oss avtal om invandrarmottagning och bestrider kommunplaceringar från Migrationsverket/Länsstyrelsen till dess att en mer ansvarsfull invandringspolitik införts på nationell nivå.  Skulle behovet finnas skall Arvidsjaurs kommun  kunna hjälpa till när det gäller kvotflyktingar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5d1522b19a7cf33f7ddcbcdabf2331a8",
+        "questionType": "RANGE",
+        "reasoning": "Finns det en marknad för privata företag inom skolan så är svaret att privata aktörer är välkomna. Förutsättningen lika villkor och krav som den kommunala verksamheten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9aff94786533282eb2b064c97c0ebce4",
+        "questionType": "RANGE",
+        "reasoning": "För Sverigedemokraterna spelar kulturen en central roll för människan och vår nationella sammanhållning. Vi eftersträvar en bred och livskraftig kulturpolitik där barns, äldres och funktionsnedsattas rätt till kultur särskilt beaktas. Vi vill främja kunskaper om, och insikt i, det lokala kulturarvet och stödja föreningar vars syfte är förenligt med det svenska samhällets demokratiska värderingar.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "e24001ec451db65dcf2a285fc4df81cc",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill verka för att kommunen skall kunna sänka skatten kraftigt med 2 kr till 20,80. vilket är en målsättning. Vi vill skapa incitament för att fler skall skriva sig i kommunen och även flytta hit.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "b319c9ce1a13c84fee961905f03ecd1e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "790",
+          "791",
+          "785"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;A;D;C;D;C;A;C;A;C;2/5;4/5;0/5;[790,791,785]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokala skillnader finns naturligtvis, men inget som inte ryms i våra politiska inriktningsprogram.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett styre som sätter social trygghet av högsta klass för Arvidsjaurs innevånare i första rummet och prioriterar kärnverksamheterna, såsom skola, omsorg och infrastruktur. Vi vill värna det kommunala självstyret mot alltför långtgående statliga och regionala ingrepp. Vi kommer att samarbeta med det eller de partier som ger oss bäst förutsättningar att genomföra vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan både samtala och förhandla med alla andra partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Optiska fibernät till alla byar",
+        "description": "Vi vill att alla byar som inte redan har optiskt fibernät skall kunna få detta oavsett hur många i den byn vill ha eller inte ha fiber. Vi vill att kommunen tar ett nytag och leder detta arbete framåt och inte förlitar sig på byarna att göra förstudier, vänta på andra privata aktörer att komma med erbjudanden."
+      },
+      {
+        "category": "Stöd till föreningslivet",
+        "description": "Arvidsjaur har ett aktivt föreningsliv, vi vill satsa och stödja lokala föreningar i hela demografin. Det finns många exempel på viktiga föreningar som i praktiken mer eller mindre är en förutsättning att tex turism fungerar."
+      },
+      {
+        "category": "Barnens bad",
+        "description": "Ett nytt badhus är beslutat att byggas i Arvidsjaur men man har inte tillgodosett barnens möjligheter till att bada, med andra ord inget äventyrsbad eller bassäng med grundare vatten för lek. Däremot har man bestämt att ha en varmvattenbassäng för äldre för rehabilitering, vilket vi tycker skall vara regionens ansvar och kunna garanteras av hälsocentralen. Vi har lämnat in ett medborgarförslag om"
+      }
+    ],
+    "motivateVote": "Vi kombinerar strävandet efter social och ekonomisk grundtrygghet med värdekonservativa idéer. Det övergripande målet med partiets verksamhet är att återskapa ett folkhem som i så hög grad som möjligt är präglat av trygghet, välstånd och demokrati baserat på en stark folklig solidaritet och\r\nsammanhållning.  Vi tillför både nytänk och erfarenhet.",
+    "name": "Sverigedemokraterna Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-arvidsjaur"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "60",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "c5f0e0b414f3e890503f6055a00e8454",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "16a4619a0379341e4a9917852bbf783a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "67aec6540045f6c1ef5ed9fcab3cfed5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d6aa7d1cfb9b914b79772ca9d4922ae5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a68c6dec785c78f38d4989bed1a27760",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9d37f89a320295898cfc33e41fc26035",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2d9f19aafbc2caa5cca0c303755702f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ae92e85888cde494d013fa54bcc7ce1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e4cfffc9666a741e26b95b900e56bd33",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "74831841a6c636fd9f2008d738c3ce96",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1953813f9e0dcc504cf29a9a78ee3663",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5d1522b19a7cf33f7ddcbcdabf2331a8",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inte ha några privata aktörer som driver skola i vår kommun. Finns inga i nuläget och det tycker vi är bra.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9aff94786533282eb2b064c97c0ebce4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e24001ec451db65dcf2a285fc4df81cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b319c9ce1a13c84fee961905f03ecd1e",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "792",
+          "793",
+          "785"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;A;B;D;C;D;B;A!;D;A!;2/5;2/5;2/5;[792,793,785]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi kommunicerar våra lokala perspektiv och utmaningar uppåt till region- och riksnivå, det för politiken framåt. I en representativ demokrati är storstadsperspektivet mer eller mindre ofrånkomligt inom samtliga partier. Väljarna kan förändra det. Det är medlemmarna som beslutar vår politik.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas såklart på egen majoritet. I annat fall är vi öppna för samarbeten med alla som bidrar till mer av vår politik. Resultatet speglar medborgarnas vilja, det har vi respekt för. Vi ser framemot att få representera våra väljare och att i demokratiska forum driva på för att göra Arvidsjaur ungdomsvänligare, mer inkluderande och mer jämlikt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej. Men det underlättar såklart om man delar värderingar och ideologi.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättrade arbetsvillkor inom äldreomsorgen",
+        "description": "Ta bort delade turer, inför arbetstidsförkortning eller högre löner! För en drägligare arbetsdag, för rätten till fritid och familjeliv! Lågavlönade vård och omsorgsyrken måste göras hållbara och attraktiva igen!"
+      },
+      {
+        "category": "Ökat kommunalt ansvar för klimatomställningen",
+        "description": "Ta fram tidssatta och konkreta insatser för att bidra till klimatomställningen:\r\nByta ut personbilar och andra mindre fordon till fossilfria fordon.\r\nMinska matsvinnet i skolrestaurangerna.\r\nFormulera kriterier som främjar klimatsmart/lokalproducerat vid upphandling.\r\nInsatser för att stötta/inspirera företagare och lokala näringsidkare i att ställa om för klimatet."
+      },
+      {
+        "category": "Stärkta förutsättningar för föreningslivet",
+        "description": "Föreningarna är viktiga och av enorm betydelse för orten, deras samlade insatser utgör ett ovärderligt bidrag till demokrati och folkhälsa genom sammanhang, gemenskap och rörelse. Vi föreslår utökad funktion för föreningsservice (tidsbokning, stöd, föreningsutveckling, finansieringsalternativ, bidragsansökningar mm) samt plan för underhåll/upprustning av anläggningar/idrottsplatser."
+      }
+    ],
+    "motivateVote": "Vi prioriterar barn/ungas utbildning och hälsa - att satsa på unga är långsiktigt, klokt och ekonomiskt. Haltande studieresultat, frånvaro och ökad ohälsa kräver krafttag efter pandemin, och föreningslivet ska stärkas och främjas. Lågavlönade vård- och omsorgsyrken måste få förbättrade arbetsvillkor för att bli attraktiva igen. Och kommunen ska ta aktivt ansvar och bidra till klimatomställningen.",
+    "name": "Vänsterpartiet Arvidsjaur",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-arvidsjaur"
+  }
+]

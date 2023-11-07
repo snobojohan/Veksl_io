@@ -1,0 +1,1344 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "156",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om staden skall förtätas så behöver vi bygga på höjden för att bevara de gröna stråken och parkerna i staden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga i trä är en viktig del i klimatomställningen och binder koldioxiden under lång tid\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan finnas omständigheter där detta behövs och då skall vi kunna erbjuda detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan bli tryggare i centrum och komplement till andra åtgärder",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Föräldrarna skall kunna välja skola ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att de äldre förstår de som kommer och hjälper dem",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor oavsett driftform har samma skyldigheter",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra kommunala bostadsbolag bygger hyreslägenheter i hela kommunen men skall inte finansieras med budgetmedel.\r\nenligt lag är det in te möjligt",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "De äldre skall kunna välja var de vill bo och vem som skall sköta om dem",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ansvara för att det finns laddstolpar vid kommunala fastigheter och parkeringar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ta vårt ansvar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "895",
+          "892",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D!;B;C;A!;A;C!;B;A;D!;C!;A;3/5;2/5;1/5;[895,892,890]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har en grön linje från riks till kommun",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Borås bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte tänka oss att styra tillsammans med SD och V",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Miljö och klimat",
+        "description": "Arbeta med Agenda 2030 för ett hållbart samhälle. Använd skogen i klimatomställningen genom att bruka, vårda men inte förbruka. Bygga fler hus i trä, fler solpaneler på hus och mark, fler laddstolpar, fordon på förnyelsebar energi, pendeltåg till serviceorterna och fler cykelbanor. Ta fram en livsmedelsstrategi och avsätta mark för bostadsnära odling och öka biologisk mångfald i våra parker"
+      },
+      {
+        "category": "Hela Borås skall leva",
+        "description": "Man ska kunna bo och arbeta både på landsbygd och stad i ett varierat boende, även strandnära. Service av olika slag ska finnas och närtrafiken utvecklas. Värna det mindre vägnätet och belysning på landsbygden\r\nVärna de gröna näringarna för högre lokal självförsörjning även i krisberedskapssyfte.\r\nVärna stadens parker och utveckla citykärnan med fler bostäder så Borås blir en socialt hållbar stad"
+      },
+      {
+        "category": "Vård och äldreomsorg",
+        "description": "För oss är det viktigt att vården finns nära. Trygghets/korttids/äldreboenden i hela kommunen. Valfrihet för privat, intraprenad eller kommunal utförare med likvärdig vård hos en jämställd arbetsgivare. Ökat samarbete med regionen och civilsamhället ger ökad trygghet. Personalen inom vård och äldreomsorg ska vara utbildade undersköterskor och kompetensförstärkning krävs att säkerställa kvaliteten."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar.",
+    "name": "Centerpartiet Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-boras"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "157",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås behöver fler nya bostäder. Men när vi bygger behöver vi också ta hänsyn till den omkringliggande bebyggelsen. Det passar inte in med ett 24-våningshus i Borås stadskärna. En förutsättning för att fler ska välja Borås, är att lägga kraft på att fler områden med villor och radhus byggs. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi välkomnar att man bygger mer i trä. Som vid alla investeringar behöver man även ta hänsyn till ekonomin i investeringen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås är den enda kommunen i Sverige som erbjuder generell rätt till förskola från det att spädbarn är 6 månader. Det vill vi ändra och istället följa lagkravet om förskola från 1 år. Vi är övertygade om att så små barn i regel mår bäst av att vara hemma med sina föräldrar. Erbjuder man förskola från 1 år finns det ändå möjlighet för undantag för mindre barn i de fall man har behov.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många boråsare känner sig otrygga i vår stad. Vi behöver återta tryggheten på gator och torg. Ordningsvakter på otrygga platser skulle kunna vara ett bra komplement till polisen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": " Vi tycker att det är bra att föräldrar får göra ett aktivt val om vilken skola deras barn ska gå i. Samtidigt har trångboddheten på en del skolor fått negativa effekter för en del elever. Det behöver åtgärdas så att elever får den skola de önskar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan tänka oss en modell med arbetstidsförkortning för äldre medarbetare inom vård- och omsorgsyrken för att förlänga yrkeslivet inom vård- och omsorg. För många är det en trygghet att kunna välja hur mycket man vill jobba, men att rakt av införa sex timmars arbetsdag med bibehållen heltidslön skulle vara ekonomiskt omöjligt.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det är självklart att när man som äldre person med hemtjänst, släpper en för sig okänd person över tröskeln till sitt hem, också har en rätt att kunna göra sig förstådd till och förstå den personen. Äldreomsorgen är inget integrationsprojekt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag får friskolor inte ta emot nyanlända på samma sätt som kommunen. Det tycker vi att de borde få göra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bygger väldigt få lägenheter – det är det framförallt privata företag som bygger. De lägenheter våra kommunala bostadsbolag bygger ska hålla god standard – det skapar flyttkedjor som frigör billigare lägenheter. Att subventionera lägenheter skulle innebära att kommunen kan bygga färre nya lägenheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är i grunden positiva till valfrihet inom välfärden. Det viktigaste för oss är att det är bra kvalité på vården eller utbildningen som erbjuds. Vi tycker att det är viktigt finns en valfrihet med flera aktörer. Det är viktigt för såväl vårdtagaren, som för den anställde. Det ska finnas möjlighet att välja eller välja bort en vårdgivare eller för den delen arbetsgivare. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har framförallt ansvar för att det finns laddstolpar till kommunens egna bilar. Kommunen har ett ansvar för att det finns ett elnät som tillåter utbyggnad av laddinfrastruktur i hela kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås har allvarliga problem med segregation. Segregationen har blivit en grogrund för utanförskap, där parallellsamhällen och gängkriminalitet har slagit rot. En begränsad migration, även till Borås, är en förutsättning för att vi ska kunna vända utvecklingen och börja bryta utanförskapet i våra utsatta områden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha bra skolor, oavsett om de är kommunala eller fristående. Vi välkomnar seriösa aktörer att vara med och driva utbildning i Borås.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Som politiker behöver man göra prioriteringar med skattepengar. Vi ser stora behov av mer resurser till skolan och fler äldreboendeplatser. Det innebär att vi behöver se över våra kostnader inom andra områden.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "Borås har ganska hög kommunalskatt. Vi tycker att det är eftersträvansvärt att sänka kommunalskatten. Samtidigt får det inte ske på bekostnad av resurserna som behövs i vård, skola och omsorg.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "889",
+          "895",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A!;C;D;D!;A;A;D!;C;A;D;C;D;2/5;1/5;1/5;[889,895,890]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vår ambition är ett politiskt styre i Borås med ett så stort kristdemokratiskt inflytande som möjligt. Ett styre som tar otryggheten i Borås på allvar, som sätter stopp för nedskärningar i skolan och bygger fler äldreboendeplatser. Vi är beredda att prata och förhandla med alla partier i Kommunfullmäktige för att få till ett styre som har den politiska inriktningen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Utesluter inte samarbete med något parti. Osannolikt att det sker med S och V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inför P-skiva i centrala Borås",
+        "description": "Vi vill införa P-skiva för parkering i centrala Borås. Det skulle ge möjlighet att parkera avgiftsfritt en tidsbegränsad stund. Det skulle stärka stadskärnans attraktivitet och gynna centrumhandeln."
+      },
+      {
+        "category": "Bygg fler äldreboenden",
+        "description": "Borås har brist på äldreboenden. Det är inte värdigt att personer som har arbetat och betalat skatt ett helt yrkesliv, som behöver mer hjälp på ålderns höst möts av orden \"det finns inte plats för dig\". Vi menar att kommunen snarast behöver börja planera för ytterligare äldreboendeplatser både i staden och ute i de mindre orterna utanför Borås."
+      },
+      {
+        "category": "Trygghetsvakter på Resecentrum och Södra Torget",
+        "description": "Många boråsare upplever otrygghet på Södra Torget och Resecentrum. Vi vill att kommunen ansöker till Polisen om att göra platserna till så kallade paragraf 3 områden. Kommunen skulle då kunna upphandla ordningsvakter (trygghetsvakter), som i samarbete med Polisen skulle kunna öka tryggheten på platserna."
+      }
+    ],
+    "motivateVote": "Vi kommer inte presentera stordådiga vallöften om att kommunen ska göra dyra investeringar som ska ”sätta Borås på kartan”. Vårt vallöfte är att prioritera det som är viktigt på riktigt. Våra viktigaste frågor är att återta tryggheten på gator och torg och göra Borås tryggt igen. Vi vill sätta stopp för besparingarna på skolan och bygga ut antalet äldreboendeplatser. Välfärd före skrytprojekt.",
+    "name": "Kristdemokraterna Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-boras"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "158",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staden växer och vi behöver förtäta den ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdnadshavare som har behov av förskola före 1 års ålder ska kunna erbjudas det efter samtal men generellt gäller förskola från 1 år.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om polis ser behov av ordningsvakter ska kommunen kunna ordna det. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna tycker det är viktigt att elever och föräldrar själva får välja skola. Att ha ett aktivt skolval innebär att alla väljer, inte bara de som känner till att möjligheten finns. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att den som har hemtjänst kan kommunicera med dem som ska hjälpa till i hemmet. Flerspråkighet inom äldreomsorgen är en fördel.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom nyanlända inte har haft möjlighet att delta i skolvalet ska alla skolor ta emot nyanlända elever. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den som äger och driver hemtjänst/boenden spelar ingen roll. Det viktiga är att det är hög kvalité i såväl kommunala som privata boenden och hemtjänst.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen och privata aktörer ska kunna tillhandahålla publika laddstolpar för elbilar. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna ska dela på ansvaret att ta emot flyktingar precis som Europas länder behöver dela på ansvaret. Borås ska självklart ta emot de flyktingar som behöver hjälp. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vi Liberaler välkomnar alla fristående aktörer. Vi vill att föräldrar och elever själva ska få välja skola. Därför är det upp till föräldrar och elever hur många skolor som kommer drivas av privat eller offentlig aktör. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "I Borås är vi stolta över att vi lägger mycket pengar på kultur. Genom en stadsteater, skulpturer och riktad barnverksamhet ökar livskvalitén för hela staden. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "896",
+          "895",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;C;D;C;A!;A;C;D!;B;D!;C;A!;2/5;2/5!;1/5;[896,895,890]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Behålla det aktiva skolvalet",
+        "description": "Föräldrar och elever har självklart rätt att välja skola. I Borås behövs både fristående och kommunala skolar, så föräldrar och elever kan hitta den skola som passar dem. För att inta bara de som känner till rätten att välja skola gör det vill vi att alla elever och föräldrar får samma information och hittar den skola de vill gå på."
+      },
+      {
+        "category": "Öka tryggheten för alla",
+        "description": "Våra bostadsområden ska var trygga och snygga. Vi behöver ett starkare samarbete mellan skola, polis och socialtjänst. Alla elever ska gå ut skolan med godkända betyg. Alla ska kunna få ett jobb, för det krävs att det blir lättare att anställa och att alla lär sig svenska."
+      },
+      {
+        "category": "Göra det enklare och billigare att agera miljövänligt",
+        "description": "Kommunen ska ta större ansvar genom att hålla återvinningscentralerna i toppskick, installera fler laddstolpar och bygga en ringled runt staden för bättre luftkvalité och mindre trafik i centrum."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-boras"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "159",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hållbar stadsbyggnad är viktigt oavsett höjd på hus. Rätt hus skall byggas på rätt plats med hållbara material och metoder. Det är viktigt att styra mot en fossilfri kommun där alla får tillgång till hållbar mobilitet och ett tryggt närområde.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, träbyggande är mycket viktigt för att nå en hållbar och fossilfri kommun.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi kan erbjuda de mycket få barnen som behöver så tidigt stöd de bästa förutsättningarna och att vi bygger bra relationer och ger stöd till de föräldrarna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trygghet är en nyckelfråga för att bygga ett gott och demokratiskt samhälle men det är viktigt att vi har fokus på att knyta ihop samhället och bygga relationer och nätverk så att vi inte ökar motsättningarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att de som vill välja skola kan göra det men skolvalssystemet som det ser ut idag fungerar dåligt och behöver göras om så att det blir rättvist och hållbart.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi har bra villkor och lockar fler till vård och omsorg. Särskilt viktigt är det med arbetstidsförkortning för äldre medarbetare med tunga jobb så att de inte sliter ut sig i förtid.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns redan ett tydligt grundkrav på språkfärdighet för att bli anställd och vi tycker att det är viktigt att alla får tillgång till vidareutbildning som de har behov av.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart, skolvalssystemet måste göras om så att det blir rättvist och hållbart,",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för att alla ska kunna få en bostad inte minst våra yngre som ska flytta hemifrån . ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte förbjuda privata äldreboenden eller hemtjänst men verksamheter i välfärden får inte hanteras som vilken marknad som helst. Vi vill att vinster skall återinvesteras i verksamheten.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att utfasningen av fossilbilarna inte bromsas av brist på laddinfrastruktur. De kommunala arbetsplatserna, bostadsbolagen och parkeringsplatserna skall ha tillräckligt med laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "När människor flyr undan krig och förtryck så skall vi i Borås göra vad vi kan. Det är en självklarhet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Marknadsskolan så som den ser ut idag skapar problem och snedvridningar samtidigt som den blöder ut pengar som borde använts till bättre undervisning. Att barn kan välja skola är bra, men systemet måste förändras i grunden.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Det är kulturen som gör oss unika, vi vill ha mer tillgång till fri kultur och förstärka våra yngres tillgång till kultur och människor med erfarenhet från andra kulturer.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser hellre att man justerar miljöskatter och skatter med en bättre fördelningsprofil men vi ser också att det finns stora behov inom skolan, omsorgen och omställningen. \r\nVi kommer göra det som krävs för att bygga ett tryggt och hållbart samhälle även om det innebär att vi behöver justera skatten något. I samverkan staten vill vi se ett höjt grundavdrag i om kommunalskatten måste höjas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "896",
+          "893",
+          "894"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D!;A!;B;C;C!;A!;D!;C!;C;D!;A!;0/5!;3/5!;2/5;[896,893,894]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill forma ett politiskt styre med partier som är överens om att omställningen skall ske här och nu och att vi skall göra den tillsammans med parisavtalet och FNs globala mål som ledstjärna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunens transporter och egna bilpark skall bli avgasfri",
+        "description": "Vi vill upphöra med inköp av avgasbilar och avgastransporter och vi vill säkerställa att laddmöjlighet finns på alla kommunens parkeringar och arbetsplatser."
+      },
+      {
+        "category": "Tvålärarsystem i skolorna",
+        "description": "Ingen unge skall lämnas efter eller hamna i kriminalitet. Därför vill vi sätta in resurser tidigt och möjliggöra för skolorna att introducera tvålärarsystem, studiecoacher och/eller socialpedagoger så att skolan, fritids och förskolan kan fånga upp barnen när problemen är små."
+      },
+      {
+        "category": "Ett naturnära skogsbruk",
+        "description": "Borås stad är en stor skogsägare, vi vill att den verksamheten skall växa och att den skall ske på naturens villkor med ett myller av liv. Vårt skogsbruk skall ge än större nyttor för biologisk mångfald, klimat, rekreation och hälsa samtidigt som den möjliggör fler former av arbetsträning och praktik."
+      }
+    ],
+    "motivateVote": "Vi vill bygga en hållbar framtid, där vi tar hand om varandra och vår planet. Med tidiga insatser för barnen och investeringar i naturen och omställningen verkar vi för ett modernt, miljövänligt och medmänskligt Borås.",
+    "name": "Miljöpartiet Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-boras"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "160",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns redan många höga hus och fler planeras. Det behöver därför göras en noggrann prövning av varje ny ansökan om ytterligare höga hus så staden även fortsättningsvis upplevs som attraktiv.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att bygga i trä är klimatsmart och långsiktigt hållbart. Dessutom äger kommunen mycket skog som med effektivt skogsbruk kan användas vid byggnation.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Riktlinjen ska vara att följa lagstiftningen. Lagen tillåter att barn kan få plats tidigare ifall särskilda skäl finns. Resten av landets kommuner har regeln att plats på förskola fås när barnet fyllt ett år.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Otryggheten är stor på flera platser i centrala Borås och ordningsvakter har större befogenheter än cityvärdar eller väktare. de kan t ex avvisa störande personer. Ordningsvakter är ett bra komplement till polis.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det obligatoriska skolvalet ger familjen möjlighet att välja den skola som passar barnet bäst oavsett var i kommunen familjen bor. Det är lika viktigt att kunna välja bort den skolan som eleven inte trivs i, som att kunna välja skola.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorgen har redan idag svårt att fylla alla de lediga arbeten som finns för  att ta hand om de äldre som behöver omsorg. Att korta ner arbetstiden skulle innebära att fler personer behöver anställas. Konsekvensen är att kostnaderna ökar och ifall kommunen inte får tag i den personal som behövs, drabbas de äldre av sämre omsorg.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förstå och bli förstådd är viktigt för den som ska få omsorg. Inom hemtjänst och på boenden ges sjukvård på delegation och då är det viktigt att kunna läsa och förstå vilken vård som ska ges.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor borde ta ansvar. Däremot kan inte kommunen tvinga en fristående skola att mot sin vilja ta emot nyanlända elever.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte subventionera (d v s ge bidrag till) byggnation av lägenheter. Det viktiga är att bygga så mycket så det finns tillräckligt med bostäder. Då blir det billiga lägenheterna tillgängliga när människor flyttar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna välja vem som ska ge vården och omsorgen. Med fler aktörer finns det fler möjligheter att tillhandahålla och anpassa vård och omsorg till den person som är i behov av det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara enkelt att köra elbil. Kommunen ska ta sitt ansvar för att det finns laddstolpar på de kommunala parkeringsplatserna och för den egna bilparken.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår kommun ska ansvar och ta emot det antal flyktingar som anvisas till Borås. Däremot anser vi att kommunen ska meddela Migrationsverket att Lagen om eget boende inte ska gälla i hela kommunen (Hässleholmen, Hulta och Norrby). Anledningen är att vi inte vill förvärra den segregation som redan finns.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser positivt på fristående skolor och anser att det är bra att det finns skolor med olika pedagogiska inriktningar. Med fler fristående skolor kan det bli fler inriktningar än de som kommunen erbjuder. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig då den gör kommunen attraktiv för både kommuninvånare och besökare. Vi anser att det inte bara är kommunen som ska stå för det kulturella utbudet. Det är kulturutövarna bättre på. Vi prioriterar kultur riktat till barn och unga. Den konst som kommunen har ska visas och vårdas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "Det ska alltid löna sig att arbeta. Sänkt skatt ger kommuninvånarna mer pengar i plånboken och ökar egenmakten, främst för dem med små och medelhöga inkomster. Att Borås har många arbetstillfällen och många som arbetar är det som är viktigast för att få ökade skatteintäkter. Kommunen ska prioritera kommunens kärnverksamhet, till exempel trygghet, skola, vård och omsorg.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "895",
+          "892",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D;C;D!;A!;A;D!;C;A;D!;D;C;3/5;2/5;0/5!;[895,892,890]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Borås har i många år formats av moderat politik. Pragmatism och moderata idéer ligger till grund för förslagen vi lägger fram. I valet söker vi förtroendet att ta tag i problem som utanförskap och otrygghet samt förbättra skola, omsorg och företagsklimat. Det är frågor som är viktiga för hela Borås.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna vill bilda ett nytt styre tillsammans med de partier som möjliggör att det går att driva igenom så mycket borgerlig politik som möjligt. Vilka partier det blir, avgör väljarna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi fokuserar på de partier vi kan styra tillsammans med, när väljarna sagt sitt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Motverka utanförskap - Stärk skolan",
+        "description": "Vi vill ge mer resurser in i klassrummen till pedagoger, särskilt stöd, särskilda undervisningsgrupper samt fler undervisningstimmar i svenska och matematik de tidiga skolåren. Dessutom behöver fritidshemmen likvärdiga villkor gällande utbildad personal och barngruppers storlek."
+      },
+      {
+        "category": "Ett tryggt och sammanhållet Borås",
+        "description": "Inga utsatta områden. Bra belysning, kameror, röjd växtlighet ökar känslan av trygghet på väg hem från jobbet, träning, bio eller krogen. Klotter och skräp ska tas bort inom 24 timmar. Ordningsvakter ska finnas där ordningsstörningar och brott sker samt där känslan av otrygghet är hög. I en trygg äldreomsorg finns plats på äldreboende samt stöd till anhöriga. Ett rikt föreningsliv främjar möten."
+      },
+      {
+        "category": "Främja jobb och företagande",
+        "description": "Bidrag ska växlas till jobb och krav på sysselsättning ska finnas för att få socialbidrag. Företagsklimatet ska bli bättre med korta handläggningstider, mindre byråkrati och regelkrångel, samt insikt om företagens villkor. Fler korttidsparkeringar för att främja handel och öka tillgängligheten. Elkapacitet ska säkerställas."
+      }
+    ],
+    "motivateVote": "Moderaterna i Borås står upp för trygghet, utveckling och ordning & reda. Vi är stolta över vår kommun och ser vilka utmaningar och problem som finns. Vi vill ha ett tryggt och sammanhållet Borås utan utsatta stadsdelar. Vi vill motverka utanförskap genom att stärka skolan samt främja jobb och företagande med ett bra företagsklimat.\r\nFrämja jobb och företagande\r\n",
+    "name": "Moderaterna Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-boras"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "161",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att ha en generell ingång i denna fråga. Bostadsbyggande måste anpassas efter omgivningen i varje enskilt läge. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en viktig miljöfråga för oss. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ibland kan föräldrar behöva stöttning även om barnet är under ett år. Då ska samhället finnas där och hjälpa till. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte ha ordningsvakter utan ha stadsdelsvärdar som kan röra sig över hela centrum. Ordningsvakter är begränsade till ett visst område. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den närmaste skolan ska vara ett självklart val som inte lämnar något övrigt att önska för barn och föräldrar. Skolorna i Borås ska vara likvärdiga. Vi ser också att barn drabbas av det obligatoriska skolvalet genom att inte få plats på den närmsta skolan tillsammans med sina kamrater, vilket är en sortering av barn utifrån föräldrars möjligheter att göra olika val. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Löner och arbetstid förhandlas mellan arbetsgivare och arbetstagare via de fackliga organisationerna. Det är den svenska modellen och den vill vi värna. På sikt vill vi att arbetstiden ska minska för alla. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att alla inom hemtjänst och äldreomsorg ska kunna svenska. Det är viktigt att vi stöttar alla i att lära sig svenska. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att de kommunala bostadsbolagen bygger fler hyresrätter med rimliga hyror. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill stoppa vinstjakten i välfärden. Våra skattepengar ska gå till omsorg för våra invånare och inte till ägarnas plånböcker. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elbilen är viktig för en bättre miljö. Det ska finnas god tillgång till laddstolpar i kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill stoppa vinstjakten i välfärden. Våra skattepengar ska gå till skolan och satsningar på fler lärare och elevhälsa. De ska inte gå till privata fickor som gör vinst på bekostnad av eleverna. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill göra mer satsningar på kulturen. Vi vill till exempel satsa på avgiftsfri kulturskola. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska inte ta ut mer i kommunalskatt än vad som behövs, samtidigt har vi stora behov i välfärden som behöver finansieras varför kommunalskatten ligger på en bra nivå idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "893",
+          "895",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D;B;C;D!;C;C;D;D!;A!;D;A;0/5!;3/5;2/5;[893,895,890]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val som socialdemokrater och hoppas få så starkt stöd som möjligt för vår politik. Efter valet är vi beredda att samtala med alla partier utom Sverigedemokraterna för att formera ett majoritetsstyre. Vi är nöjda med det samarbete vi har haft under mandatperioden med Centerpartiet, Liberalerna och Miljöpartiet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärka skolan i Borås ",
+        "description": "Vi vill prioritera ökad lärartäthet och göra satsningar på särskilt stöd. De elever som behöver mest stöd ska få det. Det ska inte spela någon roll vilken skola du går på – skolorna ska vara likvärdiga. Den närmaste skolan ska vara ett självklart val som inte lämnar något övrigt att önska för barn och föräldrar. Vi vill också stärka elevhälsan genom bland annat fler kuratorer."
+      },
+      {
+        "category": "Borås ska göra sin del för klimatet ",
+        "description": "Klimatet måste genomsyra alla beslut vi fattar i kommunen. Byggsektorn är en stor miljöbov som står för nästan en femtedel av Sveriges utsläpp. Klimatkraven på byggande bör skärpas. Vi måste ställa om från betong till trä och minska utsläppen i hela kedjan av byggprocessen. Vi vill också skärpa miljökraven vid upphandling och fasa ut fossila bränslen i kommunens verksamhet till 2030."
+      },
+      {
+        "category": "Samhällsplanering för integration och social hållbarhet ",
+        "description": "Genom samhällsplanering kan vi skapa socialt hållbara boende- och närmiljöer och bryta segregationen. Vi ska planera bostadsområdena så att det finns god tillgång till kommunal och kommersiell service. För att skapa ett hållbart samhälle ska vi planera på kommunal mark innan markförsäljning och markanvisning. Vi ska verka för blandad bostadsbebyggelse och varierade upplåtelseformer."
+      }
+    ],
+    "motivateVote": "Vi socialdemokrater vill avlägsna orättvisorna i samhället. I en tid präglad av klimatkris vill vi skapa ett grönt folkhem utan ekonomiska och sociala skillnader, och med vår politik vill vi åstadkomma ett rättvisare samhälle. Strävan efter ett jämlikt och jämställt samhälle ska genomsyra allt politiskt arbete.",
+    "name": "Socialdemokraterna Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-boras"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "162",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås Stads stadskärna utgörs av en rutnätsstad, som vi ska värna och vårda. Borås stad har lagom stora, slutna kvarter med trivsamma innegårdar. En god stadsstruktur har även mindre torgbildningar och inslag av öppna platser och gröna ytor som möjliggör trivsamma möten och samvaro. Detta har Borås stadskärna idag och det ska vi värna och bygga vidare på.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trä är ett ekologiskt hållbart material som är bra för hälsan. Forskning tyder på att synligt trä i inomhusmiljöer kan höja välbefinnandet och motverka stress. Trä är även ett byggmaterial som vi har gott om i Sverige. Vi anser att de är bra att staden bygger i trä, där det är byggnadstekniskt möjligt och ekonomiskt försvarbart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "När barnen är så unga, är anknytningen till föräldrarna som viktigast. Det är då barnet lär känna sin familj. Samtidigt har förskolan i Borås det svårt. Arbetsmiljöproblem är ett återkommande ämne, samtidigt som personalen är underbemannade. Ett spädbarn på 6 månader kräver mycket uppmärksamhet och omtanke, något de främst kan få från sina föräldrar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Borås vill vi att arbetet ska inriktas på förebyggande åtgärder, bland annat belysning i otrygga miljöer, stärka socialtjänsten och grundskolan, samt flera patrullerande ordningsvakter. Vi vill också utveckla kameraövervakning på allmänna platser. Ordningsvakter ska agera komplement till dess Polisen stärkt sin organisation och möjlighet till närvaro i samhället.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "De fria skolvalet ska finnas kvar. Detta då vi anser att de är föräldrarna och eleverna som ska bestämma vilken skola som man önskar gå på - inte politiker. De fria skolvalet kan förbättras genom att mer information ges till vårdnadshavare och elever, samt att fler skolplatser etableras på befintliga skolor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tanken är god, särskilt då detta är ett yrke som innebär mycket fysisk påfrestning och tyvärr har en dålig lönebild. Dock är personalbristen redan svår idag, vilket skulle försvåras ytterligare genom en sex timmars arbetsdag. Detta skulle i sin tur leda till att kommunen inte kan upprätthålla en god välfärd, och arbetsmiljön skulle försämras genom mer stress och brist på personal.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "I kölvattnet av pandemin har många brister uppdagats inom den kommunala äldreomsorgen, däribland språkförbristningar hos personalen. Detta har tyvärr även lett till medicinska konsekvenser för den äldre, när man delegerat medicin till personal som inte behärskar språket. De är en rättighet för den äldre att kunna förstå och göra sig förstådd på svenska i Sverige.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inga skolor i Sverige kan sålla bland elevunderlaget för att få den elev man önskar allra mest. Friskolor i dag använder sig av ett kösystem, där platsen i kön är oberoende av om individen är född i Sverige eller är nyanländ. Därför vore de beklagligt om man forcerade en form av \"kvotering\" med syfte att använda barn och unga som ett integrationsverktyg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att de kommunala bostadsbolagen ska bygga hyresrätter med varierande standard och prisbild. Detta leder i sin tur till att vissa lägenheter kommer att ha en lägre hyra, och andra lägenheter en högre hyra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är inte frågan om vem som är utförare viktig, utan kvalité och kompetens är vägledande. Vi anser att ju fler aktörer som de finns att välja på, desto bättre blir det för brukaren att hitta den service som passar en själv bäst.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att kommunen ska etablera en god infrastruktur för alla drivmedel i samhället.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den bästa integrationspolitiken för Borås i dagens läge, är att inte ta in fler nyanlända innan de som kommit hit har lyckats anpassat sig efter majoritetssamhället i Sverige. Borås har mer än väl tagit sin del av ansvaret för flyktingar världen över, men vi har dock hela ansvaret för våra invånare, något som har förbisetts och förminskats.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga synpunkter kring antalet utövare i staden, utan anser att om eleverna önskar få nya program och nya friskolor att välja bland, så kommer fler utövare att vilja etablera sig i Borås. Detta är dock ingenting som kommunen ska forcera.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt, dock anser vi att svenska skattekollektivets resurser ska gå till att finansiera kultur som tillhör den svenska majoritetskulturen eller de nationella minoriteterna. Resurser ska även prioriteras i första hand till barn och unga. Idag går mycket pengar till att finansiera mångkultur och annan kultur.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "Vår ambition är att först och främst omfördela resurser till att prioritera välfärden. Andra politiska sidoverksamheter och utsvävningar kan med fördel begränsas, och resurser kan återgå till förvärvsarbetaren.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": "Inrätta en Trygghetscentral och anställa ordningsvakter.",
+        "value": [
+          "896",
+          "895",
+          "890"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A;D;D;D!;A;A;D!;A;C;D;C;D!;2/5;1/5;1/5;[896,895,890]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi anser att de finns en stor utsatthet i Borås. Detta i form av hemlöshet, brottslighet, arbetslöshet, segregation och utanförskap. Mot denna bakgrund anser vi de vara oansvarigt att hjälpa fler flyktingar till Borås, oavsett bakgrund, till dess vi har fått ordning på dessa samhällsområden.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Självklart önskar vi en egen majoritet, för att få ett så starkt genomslag för vår politik som möjligt. Om detta inte är möjligt, önskar vi ingå i ett styre där man prioriterar brottsoffer först och sätter brottslingar bakom bom.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, genomslag för vår politik är överordnat partifärg.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Gör Borås till en trygg stad",
+        "description": "Sverigedemokraterna i Borås vill sätta upp trygghetskameror i fler områden i Borås. Vidare vill vi bland annat upphandla trygghetsvakter, förstärka myndighetssamverkan kring tillsyn för att motverka narkotikahandel, införa regelbundna besök av narkotikahundar i Borås skolor, samt införa en trygghetscentral för kollektivtrafiken i samverkan med Västra Götalandsregionen."
+      },
+      {
+        "category": "En fungerande integration",
+        "description": "Vi föreslår bland annat ambulerande språkpedagoger i förskolan, att kommunala bidrag endast ska gå till föreningar som verkar för den svenska majoritetskulturen och de nationella minoriteterna, att en samverkan med blåljuspersonal ska utvecklas på Borås skolor, samt att systematiska rutinkontroller ska införas för att förhindra bidragsfusk."
+      },
+      {
+        "category": "En trygg skola",
+        "description": "Vi vill möjliggöra för elever i behov av särskilt stöd att återigen få detta efter de senaste årens sparkrav i grundskolan. Vi värnar om Borås små skolor på små orter och vill bevara möjligheten för elever att kunna välja en skola nära det egna hemmet och för en levande landsbygd."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna såg problemen komma, och presenterade lösningar som förkastades och förlöjligades av övriga partier. Idag talar samma partier om våra lösningar som sina egna. Vi vill ha ett tryggt samhälle, där man gör sin plikt innan man kräver sin rätt.",
+    "name": "Sverigedemokraterna Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-boras"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "163",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "796564b78c37dc416dbb86fd29ae274d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås har fortfarande bostadsbrist och den behöver byggas bort. Framförallt behöver vi bygga fler hyresrätter som vanligt folk har råd med. Den frågan är större än att enbart handla om höga bostadshus i centrum.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9749c9ecdb183240bc76ec814a3e21b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet vill se ett klimatsmart byggande i Borås. Att bygga i trä är många gånger ett bra alternativ för detta. Under mandatperioden som gått har vi arbetat för att Borås träbyggnadsstrategi ska användas i praktiken.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d3a2bee5f7ab9710f9e2d10637d1f03",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet vill inte begränsa dagens regler som möjliggör för barn under ett år att börja förskolan i Borås.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7170c2ee237d1f942c4c34de55f03cd9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det krävs mer för att göra Borås till en trygg stad, men kommunala ordningsvakter kan inte och ska inte göra polisens jobb. För att öka tryggheten i Borås bör kommunen inrikta sig på sådant som vi är bäst på - en bra skola, en välfungerande socialtjänst och att skapa trygga utemiljöer i hela staden.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "78c1be045fe8624a50d6d27f7c503e94",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet är motståndare till obligatoriskt skolval. Det finns inget stöd för att obligatoriskt skolval skulle minska skolsegregationen. I vårt Borås ska alla skolor vara bra skolor och inga skolor bli så kallade bortvalsskolor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8555a9212ebd1628770a2d0bbb925278",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet har länge arbetat för bättre arbetsvillkor i äldreomsorgen. Ett viktigt förslag handlar om att förkorta arbetstiden. Under mandatperioden har vi drivit att personal i äldreomsorgen som är över 60 år ska få sex timmars arbetsdag med bibehållen lön.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a1b45d4cdbe7fc27c36d3cc90b59f2e0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart är det viktigt att man kan göra sig förstådd om man jobbar med människor i beroendeställning. Den typen av frågor hanteras bäst vid anställningsintervjun - ett test gör ingen skillnad. Vi behöver fler som jobbar i äldreomsorgen och hitta modeller för hur man kan lära sig bättre svenska på jobbet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "10eecc6e8c6cbc3c54735ff2074ac00f",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Vänsterpartiet är det en självklarhet. Men i grund och botten handlar detta om att vi får ett skolsystem som är bättre rustat för alla elever om det inte är möjligt för privata företag att plocka russinen ur kakan och göra vinster på skattemedel.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8c25f5959e3383bebb6b890c7155097f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borås behöver göra mer för att bygga bort bostadsbristen. Vi vill använda kommunens allmännyttiga bostadsbolag för att göra detta. För att detta ska göras måste hela den kommunala bostadspolitiken läggas om för att underlätta en sådan utveckling.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b45364ce4981039df9ae8963696eb0b0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet är motståndare till privata företags möjlighet att göra vinster i välfärden. Vi vill avskaffa Lagen om valfrihet i hemtjänsten och åter driva de äldreboenden som idag är på entreprenad i egen regi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d835ae213c0734465fd869b03d3a8eef",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi ska klara klimatomställningen så behöver kommunen göra mer - tillgång till publika laddstolpar är en viktig åtgärd.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e1881095c81b628d7e89755d22c157f4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet står upp för en generös flyktingpolitik och utgår från att alla kommuner måste dra sitt strå till stacken för att klara detta.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d4ffbf9835943e53beb3f93761cdf9c6",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet är motståndare till marknadsskolan. Vi vill avskaffa dagens möjlighet för privata företag att tjäna pengar på elevers rätt till utbildning. Om skolan ska bra för alla elever har vi inte råd med vinstslöseriet.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "af0b135243314024b092abe7eaee5c95",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig del av välfärden. Vänsterpartiet vill bland annat att Borås ska avskaffa avgiften i kulturskolan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "db1a960659ad43525023351c53a45ce2",
+        "questionType": "RANGE",
+        "reasoning": "För vänsterpartiet kommer välfärden främst. Vi har under mandatperioden inte drivit höjd kommunalskatt - för oss är det tydligt att staten behöver skjuta till mer resurser för att kommunerna ska kunna förstärka välfärden.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f82e4c97bcda824bafdf774555495d71",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "895"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;D;A;A;D!;D!;B;D;D!;A!;D;A;0/5!;3/5;2/5;[895]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vänsterpartiet har under de senaste fyra åren varit ett oppositionsparti som har gjort skillnad i Borås. Vi är beredda att ta ansvar för staden också efter valet. Vår utgångspunkt är att alla som röstar på Vänsterpartiet ska få maximal utdelning på sin röst. Oavsett om vi är i opposition eller inte så kommer vi att agera för att göra Borås till en bättre stad.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökade resurser till skolan",
+        "description": "Skolan i Borås behöver ökade resurser för att alla ska få den kunskap som man har rätt till i skolan. Idag finns det en betydande skolsegregation. Elever kommer till skolan med olika förutsättningar hemifrån. Med mer resurser skapas bättre förutsättningar för en jämlik skola."
+      },
+      {
+        "category": "Ingen vinstjakt i äldreomsorgen",
+        "description": "Borås ska ta krafttag mot privata företags möjlighet att göra vinster i välfärden. Lagen om valfrihet (LOV) som öppnar upp för privata vinstdrivande företag i hemtjänsten ska avskaffas och äldreboenden som drivs på entreprenad av privata företag ska istället drivas i kommunal regi."
+      },
+      {
+        "category": "Borås behöver göra mer för klimatomställningen",
+        "description": "Om vi ska klara omställningen bort från klimathotet måste Borås göra mer. Varje beslut ska analyseras utifrån hur det påverkar klimatet och investeringar i klimatsmarta lösningar, som förnyelsebar energi, laddinfrastruktur och hållbart byggande, behöver öka."
+      }
+    ],
+    "motivateVote": "För Vänsterpartiet kommer välfärden alltid främst. Den är vårt viktigaste verktyg för att Borås ska bli en jämlik stad. Under mandatperioden som har gått har vi kunnat ta initiativ och få viktiga välfärdsreformer genomförda - trots att vi varit i opposition. Vänsterpartiet vill fortsätta göra skillnad också efter valet. En röst på Vänsterpartiet är en röst för ett jämlikt Borås.",
+    "name": "Vänsterpartiet Borås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-boras"
+  }
+]

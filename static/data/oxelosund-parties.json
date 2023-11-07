@@ -1,0 +1,1278 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1357",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att driva restaurang är inte kärnverksamhet. Det sköts bättre av privata eller kooperativa aktörer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler och fler skaffar eller överväger att skaffa eldriven båt. Då är det bra att denna service finns - men en sådan båtmack behöver inte drivas av kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hemtjänsten är dyr och alltför litet tid läggs på brukarna. Nya friska idéer och sätt att jobba behövs!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "För äldre som kanske har nedsatt hörsel och i vissa fall minskande kognitiv förmåga är språket viktigt. Att kunna kommunicera med personalen är A och O.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ingen kommunal kärnverksamhet att finansiera hyresgäster.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara bra att en sådan service finns - men kanske kan den enskilde betala en avgift för laddningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet! Kommunen ska inte \"leka affär\" och slå ut riktiga företag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna ska respektera den reglerade flyktingpolitiken och ställa upp solidariskt utifrån befolkningsmängd, m.m.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det offentliga ska inte styra folks matvanor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska lita på den representativa demokratin i så hög grad som möjligt. I undantagsfall kan folkomröstningar arrangeras. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Mångfald är bra!",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Det går att prioritera mer och satsa på kärnverksamheterna.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1979"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;A!;A;D;B;D;C!;B;C;A;3/5;3/5;2/5;[1979]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Eftersom Oxelösund är en kustkommun och ett gammalt fiske ort så verkar vi mera intensivt rörande frågor kring det kustnära yrkesfisket en partiet i övrigt. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst av allt önskar vi ett icke-socialistiskt styre i Oxelösunds kommun eftersom S (nu ihop med V) styrt i många år. En borgerlig politik med högre andel konkurrensutsättning, valfrihet och minskat krångel vore nyttigt. Kärnverksamheterna kan prioriteras hårdare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Centerpartiet  är det  liberala gröna partiet som verkar för en trygg skola",
+        "description": "I Oxelösunds skolor ska eleverna känna sig välkomna och inkluderade. Alla ska få den undervisning och det stöd de behöver utifrån sina förutsättningar.\r\nCenterpartiet vill:\r\nFörbättra insatserna för elever som inte når kunskapsmålen\r\nAtt de som har lätt för sig får utmaningar och stöd för att fortsätta utvecklas"
+      },
+      {
+        "category": "Båtturism och ett levande småskaligt yrkesfiske",
+        "description": "Centerpartiet i Oxelösund är det gröna liberala partiet som verkar för en levande landsbygd.\r\nVi vill ha en levande och inbjudande båtturism som erbjuder en fullskalig gästhamns verksamhet som gynnar både företagandet och turismen i kommunen. I Oxelösund har sedan flera hundra år bedrivits småskaligt kustnära yrkesfiske. Det vill vi utveckla och gynna för en levande skärgård."
+      },
+      {
+        "category": "Konkurrensutsätt hemtjänsten för bättre resultat",
+        "description": "Hemtjänsten i Oxelösund har visat sig dyr, jämfört med andra kommuner. Centerpartiet vill att en andel konkurrensutsätt för att få in nya idéer och ett mer effektivt utförande med ökad medmänsklighet och mer tid hos brukaren. I dag går alltför mycket tid till administration och annat."
+      }
+    ],
+    "motivateVote": "Centerpartiet står för en decentraliserad politik med individen i centrum, för ökat självbestämmande, egenmakt och medmänsklighet.",
+    "name": "Centerpartiet Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-oxelosund"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1358",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD vill att en privat aktör ska kunna bygga och driva en restaurang på denna vackra plats. Inga kommunala skattepengar till restaurangbygge och drift av en sådan",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "El är framtidens drivmedel även på sjön.\r\nVi vill vara med på framtidsresan",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hemtjänst ska bedrivas av den som ger mest och bäst vård för pengarna. Det kan prövas av någon annan av kommunen också",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har tyvärr inte visat på några särskilda positiva effekter där det har prövats",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart måste brukare och personal kunna kommunicera på ett tryggt och säkert sätt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns företag och byggbolag som bygger och hyr ut hyresrätter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste möjliggöra för privata som erbjuder laddning av bilar. Ex.vis genom att se till att det finns uppställningsytor för fordon, även se till att det ”roteras” på offentliga platser. Men ägande och drift måste ske kommersiellt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska se till att medborgarna får service, inte trycka ut privata företag",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste finnas en regering som har ansvar för en jämn fördelning",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn ska ha näringsriktig kost till rimligt pris. Inte så att det blir onödiga pekpinnar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska vara sparsam med separata folkomröstningar utanför ordinarie kommunala beslutsprocesser. Det kan lätt urarta till motstående beslut och enfrågepartier",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver fler alternativ och möjlighet för barn och föräldrar att få välja",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": "Bör dock styra om mot fritidspeng och efterfrågestyrt idrotts- och kulturutbud",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska åtminstone kunna hålla samma skattesats som kringliggande kommunen. Det finns ju utjämningssystem som ger likartade förutsättningar.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1978",
+          "1977",
+          "1979"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;B;D;A;B;D;B;A;A;3/5;2/5;1/5;[1978,1977,1979]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Tror jag inte",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi samarbetar tätt med Moderater och Liberaler inom ”Allians för Oxelösund”. Vi  hoppas på att Centern ansluter igen och vi ser gärna att SD och kanske MP stöder vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det blir jättesvårt samarbeta med soc.dem. (och V) då de aldrig vill dela makt",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Färre nya ansikten i hemtjänsten",
+        "description": "Vi vill att antalet hemtjänstare per mottagare ska ner. Det får inte vara fler än att mottagaren kan lära känna alla. Idag råder stort missnöje bland mottagare, anhöriga och personal;  Oxelösund är t.o.m. sämst i Sverige med 24 olika hemtjänstare till samma äldre mottagare under en uppmätt 14-dagarsperiod! Det går att skapa en bättre organisation eller ge andra vårdgivare chansen."
+      },
+      {
+        "category": " Mer Ung Företagsamhet i gymnasiet",
+        "description": "Vi vill att fler elever ska kunna gå kursen Entreprenörskap. Vi vill också stimulera elever att starta och driva företag, gärna via Ung Företagsamhet. Oxelösund ska inte vara en gammal ”bruksort” där allt kretsar kring Järnverket. Vad händer om SSAB måste minska drastiskt?  Dessutom vill vi öka samverkan mellan skolan och det lokala näringslivet, med lärlingsutbildningar och praktikplatser."
+      },
+      {
+        "category": "Sänkt skatt med 5.000 kr",
+        "description": "Vi vill pressa ner kommunalskatten i Oxelösund, till samma nivå som Nyköping. Idag är skatten 80 öre högre än i Nyköping, och för en typisk familj betyder detta ca 5.000 kr per år. Oxelösund kan effektivisera massor, tillåta privata initiativ och nyttig konkurrens. Att samma parti styrt sen 1950 har troligen inte stimulerat till nytänkande och förändringar"
+      }
+    ],
+    "motivateVote": "Vi står upp för FAMILJEN. Våra gemensamma resurser ska först och främst användas för barn, ungdomar och äldre. En lägre skattesats, inga skattepengar till att bygga en skrytig restaurang, en mer effektiv hemtjänstorganisation och en renoverad sporthall",
+    "name": "Kristdemokraterna Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-oxelosund"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1359",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattebetalarna ska inte finansiera ny restaurang på Läget. Det är osund konkurrens. Ny restaurang ska byggas och drivas av entreprenör.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att eldistributörer anläggen \"elmack\".Kommunen ska inte investera med skattemedel lika lite som kommunen inte ska investera i en bensinmack.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här behövs alternativ. Vi tror att hela eller delar av verksamheten kan ske inom ramen för lagen om offentlig upphandling alt. lagen om valfrihet. Bättre kvalitet; brukare kan välja utförare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tveksam lösning! Har ingen info hur detta skulle påverka verksamhetens ekonomi. Torde fördyra hemtjänsten mycket.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "En säkerhetsfråga vad gäller utdelande av medicin. Brukare och anställda måste kunna kommunicera!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska möjliggöra för aktörer inom branschen att flera laddstolpar anläggs. Kommunen ska inte själv finansiera laddstolpar lika lite som kommunen finansierar bensinmackar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska driva skola, vård och omsorg. Behov finns av en översyn av kommunens bolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grunden bör de valda ombuden i kommunfullmäktige handha alla frågor. Jag tror att lokala omröstningar gärna riskerar bli föremål för grupptryck och populism mm.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "I en mindre kommun som Oxelösund finns inte förutsättningar att starta privata skolor i större omfattning än idag. Alternativ finns idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att vi  på sikt, bör och kan sänka skatten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1973",
+          "1978",
+          "1979"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;B!;A;D!;A;D!;C;C;A;B;2/5;2/5;1/5!;[1973,1978,1979]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte vad jag kan se nu.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en borgerlig majoritet i Oxelösund. För att nå detta kan krävas samtal/diskussioner med SD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan samtala med alla partier som har blivit inröstade i kommunfullmäktig",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rätt att välja boende för äldre, skola, förskola, personlig assistans",
+        "description": "Valmöjligheter innebär en ökad kvalitet och upplevd trygghet och trivsel. Alternativa utförare, som betalas av skattebetalarna, måste ha höga kvalitets-och servicekrav. Det är viktigt att deras verksamheter kontrolleras."
+      },
+      {
+        "category": "Fokus på lärandet och uppföljning av skolans kunskapsmål och elevhälsa.",
+        "description": "Lärarna ska vara lärare. Det behövs flera roller i skolan. Fritidspedagoger heltid för arbete både på raster och fritids, assistenter för de med behov, social- och skolpedagoger är några exempel, IT stöd för alla i verksamheten. Stödja elever genom samarbete mellan socialen, skola och polis för att ge alla elever bästa förutsättningar för framtiden. Skapa studiero och trygghet i våra skolor."
+      },
+      {
+        "category": "Vi vill ha rent och fint i stad och natur. Tillgänglig skärgård, båtliv och bad.",
+        "description": "Vi vill bla skapa ett utegym på Jogersö, utveckla kommunens badplatser,  anlägga miljöanpassade bryggor, båtmack med elladdning, gröna kilar i bostadsområdena."
+      }
+    ],
+    "motivateVote": "Rösta på oss för att Liberalernas idéer och förslag rörande skolan-eleverna når kunskap i skolan; miljön- rent, grönt och snyggt; boende- alternativt boende och omsorg för äldre; framtida investeringar- inget kommunalt restaurangbygge vid Läget; levande näringsliv-attraktiv turism, ska få större inflytande i den kommunala politiken och vara en del av en borgerlig majoritet efter valet 2022.",
+    "name": "Liberalerna Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-oxelosund"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1360",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gästhamnsområdet är strategiskt mycket viktigt för kommunen som därför fortsatt behöver försäkra sig om rådigheten över mark, vatten och anläggningar i området.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att främja en omställning även av fritidsbåtar från fossila bränslen till eldrift behöver också laddinfrastruktur för elbåtar tillskapas i anslutning till kommunens gästhamn och småbåtshamnarna. Antal laddstationer, huvudmannaskap, placering och utbyggnadstakt ska ske i samråd med båtklubbar och företrädare för båtbranschen.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är principiellt emot vinstuttag i välfärden och ser i dagsläget inga fördelar med att verksamheten drivs av privata företag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett sätt att öka attraktiviteten och minska sjuktalen i verksamheten vilket också gynnar brukarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Subventioner och bidrag till bostadsbyggande är en statlig angelägenhet. Kommunen kan bl.a. genom både den kommunala allmännyttan (Kustbostäder) och privata byggföretag stimulera till \"billiga\" hyresrätter genom att tillhandahålla mark. infrastruktur, el, vatten och fjärrvärme till rimliga kostnader. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har genom ägardirektiv gett Oxelö energi AB i uppdrag att utreda frågan om behov av och huvudmannaskap för publika laddstolpar och Kustbostäder i uppdrag att tillskapa minst två laddstolpar per år i sitt bostadsbestånd. Ett antal publika laddstolpar finns redan i anslutnig till P-platser i centrum och vid kommunhuset.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oss veterligt finns inget kommunalt bolag i Oxelösund med syftet att konkurrera med privat näringsliv. Vad gäller gator, vägar, parker, småbåtshamnar, idrottsplats, skol-, omsorgs- och förvaltningsfastigheter mm kan kommunen välja driftform - egen regi eller bolagsform. Vi anser att den för kommunen mest rationella och fördelaktigaste driftsformen inom ramen för gällande lagstiftning ska tillämpas",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingmottagandet ska i enlighet med lagen ske genom att Migrationsverket fördelar nyanlända solidariskt till landets kommuner.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Oxelösund serveras varje dag ett vegetariskt alternativ (Lunch 2) som därmed också är köttfritt. Samtidigt kan konstateras att Lunch 1 enligt tillgängliga matsedlar inte sällan också är köttfri så steget till två köttfria skoldagar i veckan är sannolikt till stor del redan uppfyllt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget självändamål - men väl om det handlar om strategiskt viktiga frågor av allmän karaktär.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Vi är principiellt mot vinstuttag i välfärden men anser att dagens omfattning av privat skolverksamhet är acceptabel.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": "För att finansiera en avgiftsfri Kulturskola.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Vi är beredda att stödja en viss höjning för att säkra kvaliteten och trygga personalförsörjningen inom skolan och äldreomsorgen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A;C;C;D;D;B;C;A;A;C;C;2/5;3/5!;3/5!;_",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett politiskt styre med MP-inflytande som prioriterar hållbarhetsfrågor, bra livsmiljöer,  goda uppväxt- och utbildningsförhållanden och omsorgerna om våra äldre och funktionsnedsatta invånare.      ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD vars värderingar och människosyn vi inte delar.  ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygg skola och äldreomsorg genom ökad personaltäthet",
+        "description": "De senaste årens personalnerdragningar måste ersättas av satsningar på ökad personaltäthet och kompetenshöjningar. För ökad attraktivitet och minskad sjukfrånvaro vill vi ha full lön för 80% arbetstid inom äldreomsorgen."
+      },
+      {
+        "category": "Avgiftsfri Kulturskola",
+        "description": "När det tidigare MP-förslaget om inrättandet av en Kulturskola nu har blivit verklighet vill vi att den ska vara avgiftsfri för att alla elever oavsett socioekonomisk bakgrund ska kunna delta i verksamheten."
+      },
+      {
+        "category": "Ishall i kombination med ny sporthall",
+        "description": "En satsning på aktiv fritid för barn, unga och idrottsintresserade i alla åldrar när den nuvarande sporthallen vid Ramdalen nu behöver ersättas av en ny modern hall kombineras den lämpligen med en enkel ishall som även kan anpassas och användas för andra sporter och aktiviteter som konserter, konferenser, utställningar mm."
+      }
+    ],
+    "motivateVote": "Vi vill med miljö och klimat som ledstjärnor fortsätta och utveckla Oxelösund som en växande, modern och livskraftig bruksort med goda livsmiljöer för både invånare och företag. Vi är idag ett oberoende oppositionsparti. Utöver miljön handlar det för oss om bostäder och jobb, omsorgen om våra barn och äldre, bra skolor och en aktiv fritid, välfungerande infrastruktur och ett bra företagsklimat. ",
+    "name": "Miljöpartiet Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-oxelosund"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1361",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den politiska majoriteten har tagit fram ett beräkningsunderlag för att riva och bygga ny restaurang, kostnad 24 miljoner.\r\nDet skulle komma att kosta 1,2 mkr om året att hyra för att få tillbaka investeringen. Det finns ingen krögare som kan betala den hyran.\r\nModeraternas ide är att sälja marken till ett kapitalstarkt bolag som ska bygga, äga och driva restaurangen, året runt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihetsfrågan är grundläggande. Alla ska kunna välja vem som ska komma hem till sitt eget hem.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Möjligen om lön utbetalas för sex timmar arbetsdag.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att alla ska kunna tala och skriva på svenska språket.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska fokusera på kärnverksamheten inte finansiera billiga hyresrätter. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta ansvar för att det finns stor tillgång inte investera själva förutom vid egna fastigheter samt att de kommunala bolagen bygger ut vid sina fastigheter. Det ska erbjudas lämpliga platser för företag att bygga infrastrukturen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunenens bolag i Oxelösund bedriver städtjänster och fastighetsförvaltning åt Oxelösunds kommun. M ser till att dessa verksamheter konkurrensutsätts med LOU. Då kan även kommunal bolag vara med i upphandlingen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna behöver i samråd med Länsstyrelsen hitta lämpliga former och platser i kommunerna i länet, som idag. Hänsyn ska tas hur mottagandet varit över tid.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag vill att varje elev ska kunna göra sitt eget val. Det har att göra med bestämmanderätten och att vi vill att var och vill och kan fatta egna beslut. Men det är bra att torgföra alternativen och varför det är bra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är motiverat, ja.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Det ska finnas alternativ beroende på efterfrågan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": "Väldigt svår fråga. En balansgång vad som ska göras för olika åldersgrupper. En viktig del är att sporra ideella föreningar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi 80 öre höger skatt än i grannkommunen Nyköping och det har vi haft sedan 2010. Det är en konkurrens nackdel. Vi har signalerat om att sänka skatten med fem öre per år i våra skuggbudgetar.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1973",
+          "1978",
+          "1979"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;A!;A!;D!;A!;C!;D!;C;B;C;3/5!;2/5;1/5!;[1973,1978,1979]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst den gamla Alliansgruppen. Men då C, L och KD endast har ett mandat var, så är M tydliga med att vi håller \"alla dörrar öppna\" för alla partier att diskutera olika typer av samverkan/ valteknisk samverkan / direkt samarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Tveksamt med Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förskola- och skola: En trygg och säker utbildning för alla",
+        "description": "Elevhälsan i skolan med regelbundna hälsoundersökningar för fysisk och psykisk hälsa. Identifiera och fånga upp problem eller diagnoser. \r\nEn trygg och säker skola - Lärarna ska inte bära hela ansvaret för barns oro – nära samarbete mellan skola och socialförvaltning. \r\nFlexibilitet: för elever som behöver mindre format samt anpassat format för särskilt begåvade elever."
+      },
+      {
+        "category": "Äldreomsorgen, speciellt inom hemtjänsten behövs en kraftig nivåhöjning!",
+        "description": "-Äldreomsorgen ska präglas av valfrihet, hög kvalitet och värdigt bemötande. \r\n-Äldre ska ha rätt till självbestämmande och valfrihet, varje människa är unik.\r\n-Högre kompetens hos medarbetare.\r\n-Medarbetare ska tala och förstå svenska.\r\n-Färre timanställda, \r\n-Bättre personalkontinuitet\r\n- Max 10 olika hemtjänstpersonal hos hemtjänsttagaren"
+      },
+      {
+        "category": "Efterfrågan på färdig tomtmark för att bygga villor, radhus, kedjehus. ",
+        "description": "Oxelösund finns i en expansiv region med bl.a. SSAB som ställer om sin produktion till fossilfritt. Det ökar trycket på kompetens men också efterfrågan på villaområden.\r\nSnabbare handläggning av bygglov.\r\nEn kommun med kundperspektivet i fokus och ser näringslivet som en viktig del i samhällsutvecklingen.  \r\nGe förutsättningar för medflyttande till arbete samt en trygg skolgång."
+      }
+    ],
+    "motivateVote": "Moderaternas grundläggande ide är att tro på den enskilda individen att kunna fatta beslut själv. \r\nInte högre kommunalskatt än verkligen nödvändigt. Därför viktigt att se hur kommunen hanterar skattemedel.\r\nVerksamhet som idag drivs inom kommunen, städning, fastighetsförvaltning, gata & park vill vi konkurrensutsätta.\r\nModeraterna driver frågan om valfrihet inom äldreomsorgen.\r\nNäringslivet viktigt.",
+    "name": "Moderaterna Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-oxelosund"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1362",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kommunen investerar själva är ett strategiskt vägval. Vi vill behålla rådigheten över utvecklingen och marken i området och säkerställa allmänhetens tillgång till att kunna vistas på platsen och säkerställa att det bedrivs en restaurang där. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om efterfrågan på laddning för elbåtar ökar är det ett förslag som vi kan tänka oss att titta vidare på. Att byta ut fossila bränslen mot alternativa energislag är något som vi ser positivt på.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att välfärdens resurser ska användas i just i välfärden och inte gå till vinster i aktieägarnas plånböcker. Valfrihet handlar inte om vem som är utförare utan om möjligheten för brukaren att kunna välja innehållet i insatsen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att all kompetens som finns kommer att behövas inom äldreomsorgen i framtiden. Däremot behöver vi arbeta med att få till hållbara scheman och en arbetsmiljö som gör att personalen orkar arbeta heltid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som jobbar i omsorgen ska kunna göra sig förstådda och förstå svenska språket, både i tal och skrift. Det är en trygghet för både brukare, personal och anhöriga.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det viktigt att det finns en kommunal allmännytta som kan tillhandahålla hyresbostäder. Det är också viktigt att andra exploatörer ges möjlighet att bygga hyresrätter. Vi har en målsättning om att vi ska ha en tredjedel av varje upplåtelseform. Hyresrätter, bostadsrätter och egna hem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill fortsätta att bygga laddstolpar, både i bostadsområden och i offentliga miljöer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den verksamhet som de kommunala bolagen bedriver är reglerade i lagstiftning. Vi ska följa den lagstiftning som finns.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver en solidarisk fördelning av mottagandet där alla kommuner hjälps åt.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår skolmåltid serverar ett vegetariskt alternativ varje dag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är strategiskt viktiga frågor som invånarna vill lyfta i folkomröstningar ser vi inga hinder för det. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att fokus ska vara på kunskap och bildning, inte vinstjakt. Vi vill stoppa vinstuttagen i skolans värld. Vi vill ha en skola som är likvärdig för alla. Det betyder att elever ska kunna välja skola i Oxelösund, men skolan ska inte kunna välja elever.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": "Vi socialdemokrater värnar om ett rikt och brett kulturliv. Vi vill att våra unga ska vara prioriterade",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Om vi ska kunna fortsätta att bedriva den välfärd och service som våra invånare förväntar sig att få samtidigt som vi har investeringar som behöver göras i samhällsfastigheter så krävs det att skatten ligger kvar på samma nivå.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill satsa på att höja standarden i de hyresrätter som kommunen äger genom kustbostäder, med början i innerstaden. Vår ambition är även att höja standarden i den yttre miljön,för allas trygghet och trivsel. Vårt mål är att vi ska ligga i nivå med riket när det gäller hur många anställda en hemtjänsttagare ska möta. Utvecklingen av gästhamnen vill vi ska ske bla genom en ny restaurang vid Läget.",
+        "value": [
+          "1974",
+          "1978",
+          "1976"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;D;B;D;C;D;B;A;C;C;2/5;2/5;2/5;[1974,1978,1976]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val som eget parti och med våra egna frågor. När valet är över så får vi utifrån det parlamentariska läget titta på och eventuellt samtala med andra partier om samverkan och samarbete. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Välfärd",
+        "description": "Det ska vara tryggt och åldras i Oxelösund. Alla som har behov av särskilt boende ska ha ett anpassat och bra boende. Alla som jobbar i omsorgen ska kunna göra sig förstådda i det svenska språket, både i tal och skrift. För oss får inte vinstintressen vara styrande i välfärden. Att hemtjänsten fortsatt kommer att bedrivas i kommunal regi är en fråga som vi prioriterar."
+      },
+      {
+        "category": "Utbildning",
+        "description": "En bra skola och förskola tillsammans med ett rikt föreningsliv är grunden för ett tryggt vuxenliv. Behörighet till gymnasiet, likvärdig skola för alla, fokus på kunskap och bildning och förebyggande arbete är viktigt för oss socialdemokrater. Vi vill stoppa vinstuttagen i skolans värld. Det betyder att elever ska kunna välja skola inte skolan som väljer elever i Oxelösund."
+      },
+      {
+        "category": "Bostäder",
+        "description": "Oxelösund ska utvecklas och ha bra och trygga boende miljöer. Viktigt att det finns ett bra utbud av bostäder för alla oavsett storlek på plånboken. Vi vill se blandade bostadsomräden med villor, radhus och flerfamiljshus som bryter den växande bostadssegregationen. Höja standarden i hyresrätterna som kommunen äger genom Kustbostäder med start i innerstaden, även höja standarden i den yttre miljön"
+      }
+    ],
+    "motivateVote": "För oss socialdemokrater är grunden för ett starkt och tryggt samhälle allas lika värde och att vi tar gemensamt ansvar för varandra. Välfärden går först och för oss  bygger den bla på arbete, bra boende, social service, tryggt åldrande, goda skolresultat samt ett rikt kultur och fritidsliv. Vi vill ha en välfärd som det går att lita på och för oss går det före sänkta skatter och privatiseringar.",
+    "name": "Socialdemokraterna Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-oxelosund"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1363",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej i dagsläge, det finns inte så många elbåter än.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, ska finnas utrymme för andra aktörer. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, då  orkar personalen jobba bättre och ha mer tid till kunder. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, absolut ett krav. Kommunikation är så viktig faktor på jobbet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, vi har tillräckligt hyreslägenheter, kanske inte så biliga i dagsläge. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, finns inte så stor behöv.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla bolag är lika viktiga oavsett om de är små eller stora. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man i mycket höger grad behöver beakta våta medborgarens synpunkter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1978",
+          "1977"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;A;C;D;B;B;A;D;A;D;3/5;2/5;1/5;[1978,1977]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, finns inte. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det är dags för ett nytt politisk styre. Vi vill ha styre som gör det möjligt att vi håller vad stå vi för i vårt program. Där rösten från våran väljare kommer att höras och göras. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, Sverigedemokraterna Oxelösund kan tänka sig  att samarbeta med alla partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Vi strävar efter en social och ekonomisk trygghet i kommunen. Det offentliga rummet ska alltid vara tryggt och säkert. Oxelösund ska vara den kommun där det går att leva och bli gammalt, för alla. Exkludering och diskriminering har ingen plats i Sverigedemokraternas Oxelösund. Vi vill göra skillnad-på riktigt.  Vi kommer aldrig tillåta att ett fåtal skapar oro. För ett flertal."
+      },
+      {
+        "category": "Äldreomsorgen ",
+        "description": "Med vår politik kommer äldre alltid ha rätt till en trygg och värdig vardag med hög livskvalitet. För att öka den äldres trygghet så vill vi att antalet personal per brukare minskar. Vi vill minska på den isolering som äldre ofta tvingas leva med, och satsa på en god kommunikation med i första hand medarbetarna. Vi i SD vill helt enkelt se en äldreomsorg där de äldre får en extra guldkant i tillva"
+      },
+      {
+        "category": "Skolan",
+        "description": "En förutsättning för lärande är god arbetsmiljö. Både för lärare och elever. Lärarnas auktoritet och möjlighet att upprätthålla disciplin i klassrummet måste stärkas. Lärarna behöver större befogenheter att upprätthålla studiero för att kunna arbeta med det de är utbildade för, nämligen att kunna ge våra barn en god utbildning. De elever som ej hörsammar tillsägelse skall flyttas till jourklass"
+      }
+    ],
+    "motivateVote": "För att: för Sverigedemokraterna Oxelösund står trygghet högt på agenda.\r\nSkolan ska återfå studiero, trygghet och oredig och reda. För både elever och lärare. \r\nEnn värdig ålderdom med hög kvalitet, oavsett boendeform. Valfrihet ska främjas.\r\nNationella minioritetsgrupper ska garanteras sina rättigheter.",
+    "name": "Sverigedemokraterna Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-oxelosund"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1364",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "103f8a62fe61ecaff52b3d99bde48eee",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett strategiskt område och som vi bör förfoga över, vi vill bygga en ny restaurang och lyfta området för invånare och turister. Vi kommer sen hyra ut till en bra restauratör. (Vi ska inte hamna i den situationen vi var i med promarina)",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a093b1017813c9d27c2cc715d5b95ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ändå bygga en ny mack. Så då kan det göras i samma veva.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "21e56e95b9457fdc7e4b3dc4fb13d274",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skattekronor ska gå till verksamhet, vinster ska inte gå till privata fickor..",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8e3376af962add1bedb071ca6818ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill införa ett riktat sextimmarsprojekt inom ett utvalt område i kommunen.\r\nDet ska också bygga på erfarenheterna från liknande framgångsrika projekt i andra kommuner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a74e635186cf05490da01b3471cc1f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha rimlig kunskap i yrket och facksvendkan inom området, det gäller alla nyanställda oavsett var det kommer ifrån.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2e204b5d204f8233a3e0fc0c3b9fa3a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska bygga fler hyresbostäder till rimliga hyror, så gott det går utan statliga investeringsstöd. (Vilket Vänsterpartiet vill ha på riks och förhoppningsvis får igenom också)",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f4787e45330ae70c92450d5008fe206",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste öka kapaciteten och tillgången i takt med att behovet ökar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "514fb133955ba489e4057d7046d553bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bolag ingår i en koncern med allmännytta och energibolag och det används till att maximera kommunens servisgrad till invånarna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b6063a7c77e899737cb9fedc81d67a20",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige bör fördela resurserna i alla kommuner, sen kan kommuner välja om de vill ta emot ytterligare nyanlända.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bd95bee36efe3cc187bc361b21263e78",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska i grunden finnas alternativ varje dag, både kött och vegetariskt, men det kan också finnas någon dag i veckan som är helt vegetarisk för miljöns skull.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eea227648861eed4b90b2914e21b0b9f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Invånarna väljer sina representanter i valet och majoriteter uppstår efter det, då representerats invånarnas röster proportionellt. Det går också bli medlem i alla partier och göra sin röst hörd där. Men vid stora händelser, som en kommunsammanslagning eller liknande bör  det vara en folkomröstning. Det är inte på agendan, men ett exempel.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "65842cf6446c5cf70c68cff262f75f3f",
+        "questionType": "RANGE",
+        "reasoning": "Skatten ska gå till barn och personal inte till privata fickor eller till skatteparadis.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "26d5694791341842d5a334dad207a782",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver få till en en mer aktiv och förebyggande verksamhet med mindre och stora kulturevenemang och även mer kulturell utsmyckning. Vi vill även investera i en sporthall som även kan ha större kulturella evenemang.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "5cdf855a2e483c2dcc61dec2b81ff141",
+        "questionType": "RANGE",
+        "reasoning": "Just nu ser nivån ok ut, pga inflyttning av nya invånare, men om behoven ökar och konjunkturen viker kan korrigeringar göras uppåt behövas, istället för nedskärningar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "79ed4a3187d8491a74c65958c1ac7871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1980",
+          "1976",
+          "1979"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;D!;D;C;D!;D;A;A;C;B;0/5!;4/5!;2/5;[1980,1976,1979]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Oxelösund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-oxelosund"
+  }
+]

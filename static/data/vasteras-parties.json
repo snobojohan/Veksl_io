@@ -1,0 +1,1377 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2087",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med nya Sätra så måste trafiken flyta på och då behövs dubbelfilig väg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan är viktig men för att kunna fortsätta och investera kan vissa bestånd säljas till privata fastigetsägare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver få fram mer förnyelsebar energi i kommunen där så är möjligt. Vindkraft är ett bra energislag som på kort tid till relativt låg kostnad kan generera el. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett förslag som vi har med i vårt handlingsprogram och driver i valet. Det kommer underlätta för elever att välja den skola man vill gå på och för vuxna att pendla till arbetet. Vi vill kombinera det med mer anropsstyrd trafik. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte ha osund konkurrens. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det blir orimligt dyrt. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att människor som arbetar inom äldreomsorgen har förmåga att göra sig förstådd på svenska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns en stor vilja hos våra fristående skolor att kunna vara med och bidra.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "De hyreslägenheter som byggs måste människor ha råd att hyra. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till alternativt drivna verksamheter, men kommunens upphandlingskrav och tillsyn måste följas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ansvar för laddstolpar vid kommunens egna verksamheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "668",
+          "667",
+          "672"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "657",
+          "661",
+          "663"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;C;D!;D!;D;A;D!;D;C!;D!;C;2/5;3/5;2/5;[668,667,672];[657,661,663]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa utan inflytande av ytterkantspartierna SD och V. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte ge SD makt över Västerås. Ideologiskt ligger vi långt från V. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer kollektivtrafik i hela kommunen",
+        "description": "Vi vill se en förändring där upphandlad skolskjuts på landsbygden så långt som möjligt ersätts med mer kollektivtrafik genom nya sträckningar som täcker in hela kommunen. Det gör att elever lättare kan välja vilken skola man vill gå på och fler som bor på landet kan välja att åka kollektivt. Vi vill ha mer anropsstyrd trafik och öka samordningen över kommungränserna med kombinerade buss-tågresor."
+      },
+      {
+        "category": "Producera mer lokal mat och grön energi",
+        "description": "Västerås kan producera mer grön energi och livsmedel och är på väg att bli ett livsmedelskluster. Vi måste värna den produktiva åkermarken. Tillåt vindkraft \r\n och fortsätt utveckla biogasproduktionen. Mer solceller på kommunens fastigheter. Handla mer lokal mat till kommunen. Det stärker också kommunen i tider av kris eller krig."
+      },
+      {
+        "category": "Tryggare kommun för barn och unga, kvinnor och män. ",
+        "description": "Man ska kunna leva i Västerås utan att bara rädd för att utsättas för brott. Våld i nära relation och hedersrelaterat våld och förtryck måste bekämpas. Tjej- och kvinnojourer ska ha långsiktig finansiering. Aktivt idrott-och föreningsliv är förebyggande som tillsammans med skola, fritidsgårdar och nära samarbete med polis och socialtjänst kan fånga upp unga tidigare innan de hamnar i kriminalitet."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden och i stan. Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och trygg sjukvård. Vår politik får fler i jobb sänker skatter. Vi försvarar den liberala demokratin och medmänsklighet, mot främlingsfientlighet och rasism.",
+    "name": "Centerpartiet Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vasteras"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2088",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerås växer och då måste framkomligheten öka",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan är viktig och har ett viktigt uppdrag som är mer än bara ansvara för bostadsförsörjningen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska fortfarande ha veto att avgöra var vindkraft ska placeras.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det går ska kollektivtrafik användas men det finns en hel del ställen som inte har kollektivtrafik och då ska särskilda skolskjutsar fortfarande användas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte konkurrera med privata näringslivet. Enda undantaget är vårt allmännyttiga bostadsbolag och vårt energibolag. Det är viktiga bolag för Västerås.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kostar väldigt mycket pengar att införa det förslaget.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är oerhört viktigt för patientsäkerheten att de som arbetar inom äldreomsorgen kan språket.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där det är möjligt",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med olika alternativ och för den enskilde att få välja mellan olika utförare",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är i första hand fastighetsägare/markägare som skall tillhandahålla det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Driftsformen är inte det viktigaste. det viktigaste är att eleverna klarar skolan med godkända resultat",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill öppna upp för mer privata initiativ och crow funding",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Vi går till val på en oförändrad skattesats",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "667",
+          "664",
+          "672"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "657",
+          "658",
+          "661"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;B;C;C;B;D!;C;A;D!;B;3/5;1/5;2/5;[667,664,672]!;[657,658,661]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill prioritera infrastrukturen i mälardalsregionen. Det är Sveriges hjärta. Vi vill ha medfinansiering till resecentrum, tågstopp vid Finnslätten och en ny Hjulstabro",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val på ett styre tillsammans med M",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte styra med de partier som definierar sig som socialister.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Oförändrad skattesats",
+        "description": "Välfärden behöver tryggas men vi har redan ett högt skattetryck i kommunen. Därför vill vi prioritera istället för att höja eller sänka sktten."
+      },
+      {
+        "category": "Redo att bekämpa brotten",
+        "description": "Tillsammans kan vi göra skillnad och göra Västerås tryggt igen. Ökat samarbete med polisen, fler ordningsvakter, fler trygghetskameror, trygga stråk, bättre belysning, bättre grannsamverkan, mer resurser till civilsamhället, bättre näringslivsklimat och bättre skolresultat. Men också fokus på värderingsfrågor. Barn måste från början lära sig vad som är rätt och fel."
+      },
+      {
+        "category": "Avskaffa hemlösheten",
+        "description": "Det är inte värdigt en kommun som Västerås att det finns människor som inte har ett eget hem. Tydligt fokus på bostad först och bygga så att alla har möjlighet att efterfråga ett hem."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna står för tydliga värderingar även i kommunpolitiken, Vi är redo att ta över styret i Västerås. Vi är redo att bekämpa brotten och redo att förbättra företagsklimatet och avskaffa hemlösheten.",
+    "name": "Kristdemokraterna Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vasteras"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2089",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill göra fyrfilig väg på Norrleden hela vägen från Erikslund till Vallby, däremot inte vid den smala passagen söder om Åshagen. Att bygga ut Norrleden kraftigt vid Åshagen skulle medföra stora negativa konsekvenser för de boende där.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är för en stark allmännytta. Däremot ska Mimer fokusera på enbart hyresrätter och inte ge sig in i andra typer av tillgångar och projekt. Vi är motståndare till Moderaternas vilja att sälja ut stora delar av Mimer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraft är ingen stor fråga i Västerås, eftersom kommunens läge inte är det bästa för vindkraft. Om vindkraft kan byggas utan att det stör för mycket så är vi dock positiva till det.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara vettigt på vissa håll, men det kan också vara tvärtom på vissa platser - alltså att man kan öppna skolskjutsarna som \"kollektivtrafik\" för andra passagerare än bara skolbarn.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att svara ja på denna fråga är omöjligt för L, då det skulle innebära att hela Mälarenergi och Mimer skulle behöva avvecklas. Däremot står L för en restriktiv syn på kommunal konkurrens. Kommunen bör generellt akta sig för att konkurrera med privat näringsliv och Mimers och Mälarenergis verksamheter får därför inte svälla ut utanför kärnuppdraget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta skulle de facto innebära 33% löneförhöjning (per timme) för all personal inom äldreomsorgen. En sådan åtgärd skulle förstöra den svenska lönebildningen, spä på en redan hög inflation och leda till lägre framtida reallöneökningar för alla. Liberalerna värnar den lönebildningsmodell (baserad på \"märket\") som togs fram på 90-talet och vill inte tillbaka till 70- och 80-talens lönebildningskaos.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är helt avgörande för god kvalitet inom äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor som är skattefinansierade ska möta samma krav som kommunala skolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bygger hyreslägenheter via Mimer. Mimer bygger små och prisvärda lägenheter, men det är i normalfallet hyresgästen som ska betala hyran, inte kommunen. Enda undantaget är sociala bostäder, som kräver biståndsbeslut från socialtjänsten. När det gäller sådana lägenheter har Liberalerna fått igenom ett pristak, så att inga dyra eller exklusiva lägenheter kan användas som sociala bostäder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla undersökningar visar att kvaliteten är minst lika bra i de privata alternativen inom äldreboende och hemtjänst. Det finns absolut ingen anledning att förbjuda dem. Tvärtom är konkurrensen nyttig för kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan spela en viss roll i detta, men tankning/laddning av bilar är primärt en sak som det privata näringslivet både kan och vill arbeta med. Detta är ett exempel på där kommunen inte ska ge sig in och idka osund kommunal konkurrens med privata företag. Däremot kan kommunen givetvis underlätta privat utbyggnad av laddstolpar, tex genom att upplåta mark.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Västerås har en bra blandning av offentligt och privat, vilket ger ungdomar och föräldrar många alternativ. Det är i grunden positivt. Det är viktigt att även den kommunala skolan håller god kvalitet. Här finns det mer att jobba med.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna har drivit på för utökning av kulturanslagen de senaste åren. Bland annat har vi byggt ett nytt bibliotek samt utökat öppettiderna på de befintliga. L var också drivande i att rädda Sinfoniettan från nedläggning.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Västerås kommun har de senaste fem åren haft väldigt stora överskott. Det har varit ok, eftersom det funnits och finns \"hål\" att fylla, framförallt kring grundskolans finansiering och äldreomsorgen. När kvaliteten i dessa verksamheter så tillåter kan vi dock tänka oss att justera skatten nedåt.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": "Utöver de tre åtgärderna fler ordningsvakter, kartlägg gängkriminalitet (vilket måste ske tillsammans med polisen) och öka socialtjänstens fältarbete så är vi även för att tjej- och kvinnojourer ska ha en långsiktigt stabil finansiering. Den viktigaste trygghetsåtgärden är dock att större andel elever går ut grundskolan med godkända betyg!",
+        "value": [
+          "666",
+          "668",
+          "671"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": "Att våga prioritera handlar om att våga välja bort. Därför väljer vi att bara märka ut två förslag: fler behöriga lärare och färre olika personer som en hemtjänstmottagare möter. (L är visserligen också för ökade öppettider på bibliotek och satsningar på cykelvägar mm, men dessa frågor är trots allt mindre prioriterade än fler behöriga lärare och hög kvalitet i hemtjänsten.)",
+        "value": [
+          "657",
+          "658"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C!;D!;C;C;B!;A;D!;D;B;D;B;2/5;3/5;1/5;[666,668,671]!;[657,658]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är lokalt mer skeptiska än på riksnivå till att göra gemensamma utspel och gemensam politik med SD, och vi är lokalt mer skeptiska än nuvarande partiledning på riksnivån till integritetskränkande åtgärder, som exempelvis olika former av övervakning utan brottsmisstanke.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett liberalt styre med tyngdpunkt i den politiska mitten. Vi stänger inga dörrar, men vi är tydliga med att vi politiskt står längst ifrån SD och V.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Se svaret på frågan ovan.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad andel behöriga lärare, för högre kunskapsresultat i grundskolan",
+        "description": "Andelen behöriga lärare i Västerås grundskolor är betydligt lägre än rikssnittet (64,5% jämfört med 71%). Samtidigt är det för många elever i åk 9 som går ut grundskolan utan godkänt i alla ämnen (mer än var fjärde elev). Vi behöver öka andelen behöriga lärare i Västerås, för att åstadkomma högre kunskapsresultat bland eleverna."
+      },
+      {
+        "category": "15 olika ansikten från hemtjänsten - det är inte ok!",
+        "description": "Idag får en person med beviljad hemtjänst i snitt besök av 15 olika personer under en tvåveckorsperiod. Det är för rörigt! Dvs för många olika hemtjänstanställda som kommer hem till den som fått hemtjänst beviljad. Vi vill halvera antalet olika personer som kommer hem till den äldre."
+      },
+      {
+        "category": "Slakta inte allmännyttan (Mimer)!",
+        "description": "Moderaterna i Västerås går till val på att sälja ut en stor del (ca 25%) av det allmännyttiga bostadsbolaget Mimer. Detta är vi emot. Vi vill ha en fortsatt stark allmännytta, med ett tydligt fokus på hyresrätter (dvs Mimer ska inte syssla med annat än just hyresrätter)."
+      }
+    ],
+    "motivateVote": "Vi är det socialliberala alternativet, alltså alternativet för dem som både vill ha marknadsekonomi och socialt ansvarstagande genom en gemensamt finansierad välfärd. Röstar du till vänster om oss får du för lite marknadsekonomi, för lite valfrihet och för lite konkurrens. Röstar du till höger om oss får du för lite socialt ansvarstagande, för lite kultur och för mycket egoism.",
+    "name": "Liberalerna Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-vasteras"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2090",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vill prioritera investeringar i hållbara trafikslag och kommer inte lägga mångmiljonbelopp på ökad bilism i ett läge där den växande staden i första hand ställer krav på bättre förutsättningar för cykel och kollektivtrafik.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan är viktig för att åstadkomma en bostadsmarknad som är jämlik, jämställd och fri från diskriminering. Därför ska den både bibehållas och stärkas, vilket i de allra flesta fall innebär fortsatt kommunal ägo.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerås har goda förutsättningar att vara en del av omställningen till hållbara och förnybara energisystem. Elektrifieringsindustrin, som är stark i vår kommun, ställer stora krav på snabb upprustning av elförsörjningen och vindkraft är det absolut snabbaste sättet att möta det behovet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "I de fall där det fungerar med den enskildes behov kan detta bidra till att utveckla kollektivtrafiken på landsbygden, men fokus måste alltid utgå från den enskilde.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett flertal av våra kommunal bolag är viktiga för att exempelvis aktivt möjliggöra grön omställning. Den typen av aspekter behöver också tas i anspråk. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet menar att arbetstidsförkortning kan vara en viktig del i ett hållbart arbetsliv,.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna arbeta inom vård och omsorg behöver den anställda självklart prata så pass bra svenska att det inte uppstår risker på arbetsplatsen för de som behöver hjälp och stöd eller kollegor, men det viktigaste är att vi som arbetsgivare säkerställer att det finns möjlighet att stärka språket i kombination med att man arbetar. Att lägga emfas på att testa leder fel.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet menar att alla skolor i större utsträckning än idag ska präglas av allsidig sociala sammansättning elever. Skolan ska möjliggöra möten mellan elever från samhällets olika delar, och i det sammanhanget är det naturligt att även friskolor har ett ansvar för nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är både rätt och viktigt eftersom risken annars är överhängande för höga hyror, vilket i sin kan leda till ökad segregation och ökad bostadsbrist för de med låga inkomster.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar idéburna aktörer som bidrar med mångfald och innovation till välfärden utan vinstintresse. Pengarna som vi betalar i skatt ska dock gå till det de är avsedda för och eventuella vinster ska återinvesteras i verksamheten.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fordonsflottans omställning är central för att vi ska kunna klara av att möte klimathotet. En viktig del i detta är att laddinfrastrukturen är rätt dimensionerad och det kan bara offentliga aktörer som kommunen säkerställa.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är inte hur stor andel som är kommunal, utan att skattemedel går till vad de är avsedda för. Det är exempelvis fel att koncernskolor kan betala ut vinst till sina ägare istället för att tillhandahålla tillräckligt bra undervisning och elevhälsa till elverna.  Miljöpartiet vill att skolpengssystemet reformeras så att friskolor slutar överkompenseras för uppdrag de inte har.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Kommuner som prioriterar ett livskraftigt kulturliv är som regel framgångsrika kommuner. Vi miljöpartister menar att vi behöver fortsätta stötta det fria kulturlivet efter pandemins stora utmaningar, samtidigt som vi fortsätter bygga ut kulturskola och bibliotek för att möta den växande kommunens krav.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet kan konstatera att Västerås har en stark ekonomi och i första hand bör kunna möta de behoven som vi ser i verksamheterna genom prioriteringar, men utesluter inte heller skattehöjningar under mandatperioden om vi ser att det blir nödvändigt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi menar att den viktigaste funktionen kommunen kan spela är att stärka det förebyggande arbetet. Därför behöver vi satsa hårt på skolan, på ett starkt idrotts- och föreningsliv och på fältarbete. Om de delarna funkar kommer färre unga att lockas av en kriminell livsstil. När det gäller de som redan idag är tungt kriminellt belastade så är det viktigt att kommunen är lyhörda för polisens behov.",
+        "value": [
+          "670",
+          "667",
+          "671"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": "Kommunens viktigaste fråga för de kommande åren är att säkerställa att det blir lätt för både människor, föreningar och företag att kunna bidra till grön omställning. En viktig del i detta är att det ska vara enkel och attraktivt att leva hållbart. Därför behövs inte minst en ny kommunövergripande cykelstrategi och satsningar på kollektivtrafiken.",
+        "value": [
+          "657",
+          "661",
+          "663"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A;D;D;B;B;D!;B;D;D;C;D!;2/5!;4/5!;2/5;[670,667,671];[657,661,663]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Miljöpartiet är ett samarbetsparti som över tid kunnat göra upp med sju av åtta partier i kommunfullmäktige. Viktigast för oss är att vi får genomslag för den politk som krävs för att säkerställa omställning för Västerås.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD är ett främlingsfientligt parti med rötterna i vit makt-rörelsen.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "1. Växla upp tempot i klimatarbetet genom Västerås klimatlöfte",
+        "description": "Vi vill ha netto-nollutsläpp redan 2035. Genom att kroka arm med näringslivet och civilsamhället i konkreta utmaningar i Västerås klimatlöfte sätter vi agendan för hela stadens utveckling och genom en ny cykelstrategi för ALLA kommundelar och bättre kollektivtrafik gör vi det hållbara till det attraktiva alternativet för alla som vill vara med på resan mot ett hållbart Västerås."
+      },
+      {
+        "category": "2. Barn och unga - en framtid att tro på",
+        "description": "En fungerande förskola och skola är grundläggande för att hantera de flesta\r\nav framtidens utmaningar. Därför behöver vi bryta skolsegregationen och\r\nförstärka resurserna till skolan, samtidigt som vi stärker det viktiga föreningslivets förutsättningar för att tillhandahålla en meningsfull fritid för växande västeråsare."
+      },
+      {
+        "category": "3. Kultur och demokrati",
+        "description": "Det fria kulturlivet är en förutsättning för ett öppet och demokratiskt samhälle. Vi vill stötta den lokala kulturen, möta upp nya kulturformer och öka möjligheten för västeråsarna att både skapa och ta del av kultur. Vi ser biblioteken som demokratisk infrastruktur och startplatsen för många bildningsresor. Därför ska de finnas i många stadsdelar med generösa öppettider."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda partiet som sätter omställningen till ett hållbart samhälle i första rummet. Vi vet att Västerås, precis som landet som helhet, behöver öka takten på det arbetet och har de politiska förslagen som krävs för att lyckas.",
+    "name": "Miljöpartiet Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-vasteras"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2091",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det krävs en utbyggnad av Norrleden för att undvika trafikkaos. Det byggs nya bostadsområden i anslutning till Norrleden och när hela Västerleden blir utbyggd är det risk för ytterligare trafikproblem. Även trafikkaoset på Erikslund behöver byggas bort.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Västerås ska även fortsättningsvis ha kvar allmännyttan. Däremot behöver vi sälja för att vårt allmännyttiga bolag också ska kunna bygga exempelvis trygghetsboenden. Bolaget ska inte heller vara totalt dominerande på marknaden utan behövs för att bygga när andra inte gör det och för att också garantera tillgången på hyresbostäder och sociala bostäder.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Västerås finns få plaster lämpliga för vindkraft.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolskjutsar ska gå som idag men exempelvis boende på landsbygden ska kunna åka med på dessa bussar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun ska inte konkurrera med näringslivet och driva verksamhet som konferensanläggningar och caféer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oerhört kostsamt. Viktigare att få löneutveckling för de som jobbar i äldreomsorgen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna bli förstådd är oerhört viktigt när man är beroende av stöd och hjälp.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många friskolor i Västerås hjälper redan idag till och tar emot nyanlända elever.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommun en ska inte subventioner hyreslägenheter däremot ska staden exempelvis vid upphandlingar kunna använda kriterier med låg hyra för att få byggnation av hyreslägenheter med lägre hyra i Västerås.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldre ska kunna välja hemtjänstutförare och äldreboende. Kommunen ska ha tydliga kvalitetskriterier som gäller alla utförare.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om någon privat leverantör inte bygger ut laddinfrastrukturen behöver kommunen göra det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Det är kvalitén som räknas oavsett utförare. Västerås behöver fler bra skolor som når målen. Det måste vara nolltolerans mot dåliga skolor.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Det behövs mer kultur i Västerås och allt behöver inte finansieras med skattepengar. Utökade öppettider på stadsbiblioteket och skapa Sveriges bästa barnbibliotek är några av våra förslag. Anundshög och Vallby friluftsmuseums potential behöver tas tillvara och barn och ungas kultur och kulturupplevelser ska prioriteras.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten ska sänkas i små finansierade steg.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": "Alla dessa åtgärder behövs för att öka tryggheten i Västerås. Det krävs både långsiktiga och kortsiktiga åtgärder. Fältande socialsekreterare och tjej- och kvinnojourens arbete är oerhört viktigt. Som exempel föreslår vi att föräldrar kontaktas inom 24 timmar när en ungdom misstänks för brott.",
+        "value": [
+          "666",
+          "664",
+          "672"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": "\r\nFör oss moderater är krafttag mot otryggheten, jobb istället för bidrag och kunskap, studiero och trygghet i skolan samt en äldreomsorg att lita på våra prioriterade frågor.",
+        "value": [
+          "657",
+          "658",
+          "661"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C;B;D;D!;A;D!;C;A;D;D!;3/5;1/5;1/5!;[666,664,672]!;[657,658,661]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi behöver satsningar på infrastruktur till Västerås och en ny station. En station utan gyllene tak och mur mot Vasaparken. Vi har fått partiets stöd för ombyggnad av Hjulstabron och nu arbetar vi för att få stöd för en satsning på ny station och stationsområde.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi moderater söker väljarnas stöd att styra tillsammans med Kristdemokraterna. För en majoritet krävs ytterligare samverkanspartier och vi är beredda att styra tillsammans med partier som står bakom en politik som ger alla människor möjlighet att utvecklas, en tryggare och säkrare stad och med fokus på kunskap, studiero och trygghet i skolan samt en äldreomsorg att lita på.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det viktigaste är överenskommelse om det politiska innehållet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Krafttag mot otryggheten",
+        "description": "Alltför många västeråsare känner sig otrygga. Nolltolerans mot brott ska råda. Störande personer ska portas från offentliga byggnader och det krävs fler trygghetskameror och ordningsvakter. För ett tryggt Västerås krävs både förebyggande och akuta åtgärder. Förtryckande strukturer som gängkriminalitet ska kartläggas och motverkas i samverkan mellan myndigheter."
+      },
+      {
+        "category": "Jobb istället för bidrag",
+        "description": "Det ska alltid löna sig att arbeta. 25 % av västeråsarna är beroende av bidrag och över 10 % har inget arbete. Bidragsberoendet måste brytas. Det behövs nya och enklare vägar in på arbetsmarknaden samt heldagsaktivitet/praktik med jobbfokus och obligatorisk närvaro för att få försörjningsstöd. Det behövs tidig information om utbildning i bristyrken, högre kvalitetskrav och heltidsstudier på SFI."
+      },
+      {
+        "category": "Ordning och kunskap i skolan och en äldreomsorg att lita på ",
+        "description": "I Västerås ska skolan fokusera på kunskap, trygghet och studiero. Vi ska ha nolltolerans mot dåliga skolor och mot mobbning. Skolan ska hjälpa svaga elever och inte bromsa begåvade. Äldre förtjänar högsta möjliga livskvalitet på ålderns höst. Kvalitet, medicinsk säkerhet och valfriheten måste stärkas. Ingen ska vänta två timmar vid larm och alla har rätt att välja boende och hemtjänst."
+      }
+    ],
+    "motivateVote": "Västerås ska vara en stad där frihet och utveckling kombineras med ett starkt civilsamhälle. En stad med ekonomi i balans där skattpengar används rätt och skulder inte vältras över på barn och barnbarn. Bristande underhåll måste åtgärdas. Vi ska ha ett levande city. Det krävs krafttag mot otryggheten, jobb istället för bidrag, fokus på kunskap i skolan och en äldreomsorg att lita på.",
+    "name": "Moderaterna Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vasteras"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2092",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är nödvändigt att göra Norrleden dubbelfilig på en stor del av sträckan, inte minst för att öka framkomligheten för kollektivtrafik och yrkestrafik. Redan idag är Norrleden under rusningstid så frekvent använd att det bildas långa köer. Nu när den nya stadsdelen Sätra växer fram är det nödvändigt att Norrleden blir dubbelfilig från Suraleden fram till Bergslagsvägen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mimer är ett kommunalt bolag att vara stolt över. Det är också väldigt viktigt att vi har allmännyttan kvar i kommunal ägo, så att vi kan erbjuda västeråsarna lägenheter som vanligt folk har råd att bo i. Vi kan styra över i vilka stadsdelar det ska byggas fler hyresrätter och vi kan bygga när marknaden inte gör det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till alternativa, fossilfria energikällor. Industrin i kommunen kräver att vi ligger i framkant vad gäller ny teknik.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolskjuts för elever som bor på landsbygden kostar kommunen väldigt mycket pengar, trots att det berör relativt få elever. Vi tycker att det kan vara intressant att utreda vad det skulle kosta och få för konsekvenser i övrigt om man ersatte den med kollektivtrafik. En positiv effekt skulle bli en utökad kollektivtrafik på landsbygden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för västeråsarna att vi har kommunala bolag som kan ansvara för en viss del av kärnverksamheten. Vi är stolta över kommunens bolag. De möjliggör låga kostnader, hög kvalitet och en god service för kommunens invånare. Vi måste självklart följa konkurrenslagen och ska inte bidra till osund konkurrens.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "En svår fråga där olika intressen ställs mot varandra. Ett av våra största bekymmer inom äldreomsorgen idag är att det inte finns tillräckligt många med rätt kompetens att anställa. Den befintliga personalen behöver fler kollegor. När det är personalbrist kan vi inte minska ner arbetstiden för redan anställd personal. Vi anser att det här är en fråga för den centrala avtalsrörelsen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna prata, skriva och läsa svenska språket är nödvändigt inom äldreomsorgen. Detta för såväl den medmänskliga kommunikationen som den medicinska omsorgen. Kommunen ska som arbetsgivare säkerställa att all personal vid behov ges möjlighet till språkutbildning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor har samma ersättning som kommunala skolor, då måste de också kunna ta samma ansvar. Det är inte rimligt att de väljer sina elever. Det fria skolvalet innebär för oss att eleven ska kunna välja var hen vill studera.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte finansiera byggande av bostäder, varken åt Mimer eller andra aktörer. Inom allmännyttans bestånd ska det finnas hyresrätter som västeråsarna har råd med. Därför ska vi stimulera en hög bostadsproduktion, som kommer leda till att hyresnivåerna hålls på en rimlig nivå. Det är viktigt att staten har en bra bostadspolitik som gynnar byggande av hållbara och billiga hyresrätter. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den icke-vinstdrivande äldreomsorgen ska prioriteras. Vi vill återta och säkerställa den demokratiska kontrollen inom äldreomsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommunala bolaget Mälarenergi kan ta ett visst ansvar för tillgången på publika laddstolpar, i samverkan med det privata näringslivet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att skolor ska drivas med elevernas lärande som främsta syfte. Det innebär att icke vinstdrivande privata skolor och kommunala skolor är att föredra framför vinstdrivande skolor.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill öka kulturbudgeten. Samtidigt behöver vi lägga en stor del av kommunens medel på kärnverksamheten inom skola och äldreomsorg.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Vi går inte till val på att höja skatten, men är heller inte främmande för att göra det om det blir nödvändigt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "670",
+          "667",
+          "664"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "657",
+          "659",
+          "661"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D!;D;C;A!;B;C;D;A;B;C;1/5!;3/5!;2/5;[670,667,664]!;[657,659,661]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, egentligen inte. Det kan vara lite olika nyanser, men i stort sett tycker vi lika som partiet centralt och så har det också varit historiskt under lång tid.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Önskedrömmen vore att få egen majoritet, men det som är mest realistiskt är att det kommer krävas ett samarbete mellan minst två och troligen flera partier. Vi vill naturligtvis ingå i och leda en sådan styrande koalition, under förutsättning att vi kan få stort genomslag för vår politik. Det är också viktigt att styret har majoritet i fullmäktige, så att styrets förslag går igenom.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna – de har en värdegrund som skiljer sig så mycket från vår.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En tryggare stad genom att stoppa kriminaliteten och bryta segregationen",
+        "description": "Västerås ska vara en trygg stad att leva i. Man måste från samhällets sida vara tuff både mot brotten och brottens orsaker. Det ska inte finnas några utsatta områden i Västerås. Något konkret som vi har gjort är att skapa ett Trygghetsråd tillsammans med polisen här i Västerås för ännu bättre samverkan. De nya tjänster som tillsatts kan nu börja göra verkstad av de förslag som rådet arbetat fram."
+      },
+      {
+        "category": "Vi ska ta tillbaka den demokratiska kontrollen över välfärden",
+        "description": "Vi kan inte tillåta att pengar som avsätts för elever och äldre istället hamnar i skatteparadis. Alla elever ska få det stöd de behöver för att uppnå gymnasiebehörighet i grundskolan. En lyckad skolgång är nyckeln till att få jobb. Pandemin har visat att välfärden behöver mer resurser. Det ska vi tillföra och därmed ge personalen bättre arbetsvillkor och äldre ökad makt att styra sin egen vardag."
+      },
+      {
+        "category": "Vi ska leda klimatomställningen och värna om vår miljö",
+        "description": "Västerås ska vara ett miljöföredöme i Sverige och vi är stolta över arbetet våra kommunala bolag VafabMiljö och Mälarenergi gör. Det ger oss fler möjligheter att skapa en hållbar stad med den höga ambitionen att vara fossilfri redan 2030. Vi måste ta ansvar för klimatomställningen. Vatten är vår viktigaste naturresurs. Utsläppen till dagvattnet ska minska och vattenreningen ska förbättras."
+      }
+    ],
+    "motivateVote": "Vi ska arbeta brett med allt från förebyggande åtgärder till brottsbekämpande för att stoppa kriminaliteten. Varje barn som växer upp i Västerås ska ha rätt till en bra skola och äldreomsorgen ska hålla hög kvalitet. För det krävs fler anställda med rätt kompetens. Tillsammans kan vi göra Västerås bättre. Vi lovar att fortsätta göra allt vi kan för att Västerås ska vara en riktigt bra kommun.",
+    "name": "Socialdemokraterna Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vasteras"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2093",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Norrleden är en pulsåder i Västerås. Sverigedemokraterna förstår invånarnas behov av bilen och vill underlätta framkomligheten för att minska bilköerna. Att skapa förutsättningar för bra trafikflöden med minskade utsläpp som följd är positivt för miljön.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att etablera vindkraftverk innebär betydande konsekvenser för närområdet. Både förstörda natur- och kulturvärden, estetiska samt landskapsbildsmässiga värden riskerar att gå förlorade. Ofta lägger man vindkraftverken på mark som hade kunnat användas till andra saker. Bor man i närheten av ett vindkraftverk kan man drabbas av både oljud och solreflexer.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många skolskjutsar på landsbygden går på vägar långt ifrån där kollektivtrafiken rullar. Det kan vara motiverat att en del av skolskjutsarna även fungerar som kollektivtrafik för att möjliggöra för fler att bo och leva på landet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna anser att kommunen inte ska konkurrera med det privata.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill införa språkkrav för personal inom hemtjänsten och äldreomsorgen. Dagens pensionärer har byggt Sverige och bidragit till att skapa ett fantastiskt land för oss att leva i. Därför har samhället en skyldighet att inte heller kompromissa när det kommer till ekonomisk trygghet, omhändertagande och rätten till en värdig livskvalité.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill inrätta en obligatorisk förberedelseskola för nyanlända elever som ännu inte kan svenska eller har kunskap om det svenska samhällets grundläggande funktioner, värderingar och regler. Nyanlända elever behöver särskilt stöd och visa att de klarar grundläggande krav innan de kan ingå i ordinarie skolundervisning. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill underlätta bostadsbyggande genom att förenkla och snabba på beslutsprocesser och se över de omfattande regelverk och krav som styr bostadsbyggande. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna anser att det ska vara kvalitén som avgör vem som ska driva äldreboenden och hemtjänst. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "När elektrifieringen av fordonsflottan tar fart så behövs en nationell strategi för att laddstationer ska finnas tillgängliga i hela landet. En sådan strategi kan innebära att kommunen eller staten ska ta ansvaret. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska göras till en trygg plats för elever och personal, som skapar normer för sammanhållning mellan människor och som fokuserar på kunskap och bildning. Målet ska vara att ge alla som växer upp i Sverige har samma förutsättningar att bli goda och självständiga samhällsmedborgare. Vi vill införa ett förbud mot segregerande extremistiska friskolor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna vill värna, vårda och visa svensk kultur. Sverigedemokraterna vill bidra till att levandegöra Västerås historia och ser med fördel att ett museum över stadens historia inrättas.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Sänkta eller bättre utformade skatter kommer i många fall att på sikt öka skatteintäkterna eftersom en sådan politik leder till ökad tillväxt.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": "Västerås har drabbats hårt av de kriminellas framfart. Droger, skjutningar och rån har blivit en del av normalbilden. Det är något vi aldrig kommer acceptera. Kriminella ska vara otrygga i Västerås, inte vi andra. Vi vill använda de medel som finns att tillgå för att göra så att Västerås mår bra.",
+        "value": [
+          "668",
+          "664",
+          "665"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": "Allt fler äldre råkar ut för stölder, rån och överfall i sina egna hem. Det ska inte vara en plånboksfråga för äldre att känna trygghet.\r\nPersonal i omsorgen ska trivas med arbetsmiljön och arbetsvillkoren. Det kan innebära bättre scheman, utbildningar och statushöjning av yrket.\r\nFler behöriga lärare är en viktig del för att höja skolresultaten.",
+        "value": [
+          "657",
+          "660",
+          "659"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D;A;C;D;B;D;A;B;D;C;2/5;3/5;1/5;[668,664,665]!;[657,660,659]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet och sammanhållning i kommunen.",
+        "description": "Den allt grövre brottsligheten i samhället bryter ner tryggheten och sammanhållningen. Vi vill arbeta med både förbyggande åtgärder och trygghetsskapande åtgärder, så som fler väktare och ordningsvakter samt kameraövervakning. Vi vill motverka parallella samhällsstrukturer och kriminalitet. Ett tryggare samhälle bidrar till ett bättre företagsklimat, minskad arbetslöshet och ökad framtidstro."
+      },
+      {
+        "category": "Västerås skolor ska kännetecknas av trygghet, studiero och kunskapsförmedling. ",
+        "description": "Våra skolor ska vara attraktiva arbetsplatser med tydliga karriärvägar, vidareutbildningar. Öka andelen behöriga lärare. Lunchbuffén ska bestå av näringsrik och helst lokalproducerad mat. Utökad tid för idrotten och skolgårdar som inspirerar till rörelse. Elever som stör ska flyttas till andra enheter. Alla grundskolor ska erbjudas kameraövervakning och kunna sökas igenom med narkotikahundar."
+      },
+      {
+        "category": "En tryggare äldreomsorg.",
+        "description": "Vi vill förbättra äldrevården med krav på att personalen behärskar svenska språket samt lämnar in registerutdrag ur misstanke o belastningsregistret. Som äldre ska man skyddas från att få in kriminella i sitt hem. Vi föreslår kostnadsfria larm för brukarna och högre löner till anställda. Vi vill arbeta för mer umgänge över generationsgränsen."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vasteras"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2094",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "43ba357931658c1a8141c0b21dade7cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trafiksituationen behövs lösas på Erikslund, men att att hela Norrleden görs om dubbelfilig väg är inte lösningen. Vi vill se mer kollektivtrafik, cykel och gångvägar på området så att det blir enkelt att lämna bilen hemma.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7e359baf6ee2eb16b0950a449b2e1a47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för att vi kan komma igång med att bygga billiga hyresrätter och se till att alla har ett hem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a6c2890da1c3e68599b22647348d4f5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraften är nödvändig för den gröna energiomställningen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7cc7623d1138dbe34dca6ad1d2286a5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se mer kollektivtrafik i hela kommunen, men skolskjuts behövs som ett komplement. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cb83d5681c6b92d641a7cf25301e5d6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra kommunala bolag är viktiga för att politiskt kunna styra utvecklingen, exempelvis när det gäller värme och el men också bostad.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8d49259fc031fce5b972d949b7b90fd5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vi ska orka jobba hela livet är en kortare arbetsdag viktigt. Vi behöver bättre arbetsvillkor och arbetsmiljö i äldreomsorgen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4aab0ce78e4045456276663e514cc01f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna förstå och göra sig förstådd på jobbet, men ett test är inte lösningen. Vi behöver stärka upp SFI:n och vuxenutbildningen istället. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3f24579147e9cd139ca54d9d8fe1848e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med en bladning i våra skolor, ingen skola ska kunna välja bort elever.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4ef23880b3e4a6b8ff0a60efa39550ed",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många som saknar bostad i Västerås, det behövs fler hyresrätter med rimliga hyror.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cecc584694758aa036eb37ba65d4ff31",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett vad 30 års av marknadsexperiment har lett till i äldreomsorgen. Vi vill stoppa vinstjakten i äldreomsorgen och ta tillbaka kontrollen till kommunen och västeråsarna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2c112eb375bf2ffe52a1dd1f89fba2d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver ta ansvar för klimatomställningen, fler laddstolpar gör enklare för fler att ha en elbil.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "de632c26146da91ab9d19086c833faaa",
+        "questionType": "RANGE",
+        "reasoning": "Marknadsskolan har under lång tid ökat på skosegrelgrationen, det är viktigt att politiken återtar kontrollen över skolan så att alla barn får den bästa utbildningen.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "5eb63ab96b121f8fa9ff2006d4981e59",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill se ett levande och fritt kulturliv i Västerås, där det är enkelt att både utföra som att uppleva kultur och där plånboken inte är ett hinder.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ca20ded3f3a83067404cbc9c531fc73e",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste för oss är den kommunala verksamheten, att vi har en bra äldreomsorg, skola och kollektivtrafik för att nämna några exempel. Att höja kommunalskatten är inte självändamål, vi vill se bättre fördelningspolitik på statlig nivå.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "13d84cfc8243c42bd76a2d8dd09aab25",
+        "questionType": "PRIORITY",
+        "reasoning": "Polisen betonar att det krävs politiska lösningar. Bara ett starkt välfärdssamhället kan lösa detta på lång siktigt. Det är viktigt att vi har en fungerande förskola, skola, socialtjänst, men också att vi stoppar rekryteringen av unga och tillgången till vapen och droger.",
+        "value": [
+          "669",
+          "667",
+          "671"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "2a14d0c28daa8639d3d7b985ea9489b3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "659",
+          "655",
+          "662"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D!;D;B;A;D!;B;D;D!;A!;D;0/5!;4/5;3/5;[669,667,671];[659,655,662]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se mer vänsterpolitik i Västerås, så vill vi se en tydlig vänstermajoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stoppa vinstjakten i välfärden",
+        "description": "Marknadslösningar passar inte för välfärden. När marknaden bedriver välfärd är ägarnas intressen – effektiviseringar, flexibilitet, avkastning – i centrum. Då kommer glädjebetyg och vägda blöjor som ett brev på posten. Vi vill ta tillbaka kontrollen över skolan, vården och omsorgen och sätta våra behov i första rummet."
+      },
+      {
+        "category": "Sänk priserna i kollektivtrafiken",
+        "description": "S, M, SD, L, C, KD och MP tog nyligen bort det populära 40-resorskortet och höjde priserna för barn och äldre. Vi vill stegvis trappa ner biljettpriserna i kollektivtrafiken till nolltaxa. Avgiftsfria bussar får fler att välja kollektivtrafik och gynnar de av oss som redan åker mest buss – kvinnor, ungdomar och låginkomsttagare."
+      },
+      {
+        "category": "Bygg fler hyresrätter med rimliga hyror",
+        "description": "Vänsterpartiet tog och vann fann fajten mot marknadshyror, nu vill vi bygga fler hyresrätter med rimliga hyror. Det är fullt möjligt att lägga om bostadspolitiken. Kommunen behöver ställa hårdare krav vid nybyggnation så att hyrorna kan hållas nere, motverka lyxrenoveringar och sluta sälja ut eller ombilda kommunens lägenheter."
+      }
+    ],
+    "motivateVote": "Allt för länge har marknaden fått avgöra människor möjligheter till ett bra liv – så får det inte vara. Vi söker ditt stöd att vända denna utveckling och ta tillbaka kontrollen över samhället och vår framtid.",
+    "name": "Vänsterpartiet Västerås",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vasteras"
+  }
+]

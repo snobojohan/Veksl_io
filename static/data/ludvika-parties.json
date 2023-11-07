@@ -1,0 +1,1416 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1034",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett av våra egna förslag är att unga ska slippa långa restider och undersöka hur digitaliseringen kan bevara byskolorna. Dessutom är det för närvarande många elever i skolorna i Ludvika stad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för att äldre ska få det bättre och kunna stanna i närheten av sin hemtrakt och sina anhöriga. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget vi lägger en större värdering kring.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen tenderar till att vara ineffektiva och ha för stor kostym jämfört med privata alternativ. Så vi är emot att driva verksamheter i kommunala bolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att arbetsmiljön är en nyckel till att minska den höga sjuktalen. Vi har inte prioriterat en sex timmars arbetsdag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är kostsamma och omfattande att hålla folkomröstningar, men vi är för att invånarna ska större insyn i politiska beslut och en större öppenhet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt inom omsorgsyrken kan kommunicera med vårdtagarna och att kommunen har ett ansvar att bistå med utbildning i svenska språket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har många lediga lägenheter och flera privata aktörer bygger både hyreslägenheter och bostadsrätter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrens är bra men kräver kvalitetssäkring. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bidra med laddstolpar och infrastruktur som gör det möjligt att både ldaa på genomresa och för invånarna i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna fler privata alternativ i kommunen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": "Kultur ska prioriteras men Ludvika kommun har en ansträngd ekonomi och vi behöver lägga mer resurser på skola, vård och omsorg.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": "Ludvika har redan hög skatt och kommunen behöver effektivisera verksamheten. Jämfört med tex Avesta och Smedjebacken har Ludvika kommun mycket högre kostnad per invånare.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1667",
+          "1663",
+          "1664"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;B;C;B;B;C;C;B;D;C;3/5;2/5;2/5;[1667,1663,1664]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att vi har fått mer än 8 mandat och att vi sitter i majoritet med några andra samarbetspartier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola där varje elev får förutsättningar att lyckas",
+        "description": "Alla barn har rätt att få en bra utbildning oavsett i vilken skola man går, där elevernas trygghet och kunskapsutveckling är i fokus. Vi vill utveckla samverkan mellan skola, vårdnadshavare och socialtjänst samt samarbetet med Barn och Ungdomspsykiatrin. Alla unga ska få hjälp i tid.\r\nFör att nå bättre studieresultat är det viktigt med fler resurser i skolan."
+      },
+      {
+        "category": "Hela Ludvika kommun ska utvecklas",
+        "description": "Man ska kunna bo och leva i HELA Ludvika kommun. Vi vill återöppna byskolor för att eleverna ska få bättre arbetsmiljö samt mindre restid vilket även gynnar miljöarbetet. Bredbandsutbyggnaden ska fortsätta för att möjliggöra och utveckla företagande i hela kommunen. Vi förslår en inventering av gårdar, torp och hus för att kunna erbjuda olika former av boenden samt planera för strandnära tomter."
+      },
+      {
+        "category": "En tillgänglig omsorg med bra arbetsmiljö för de anställda ",
+        "description": "Ludvika kommun har hög sjukfrånvaro bland personalen inom vård och omsorg och där behöver vi som arbetsgivare ta ett större ansvar för arbetsmiljön. En bättre arbetsmiljö genererar kompetent och engagerad personal till omsorgen, vilket säkerställer en trygg och säker omsorg. Det ska finnas vårdplatser i hela kommunen."
+      }
+    ],
+    "motivateVote": "Vi är ett humanistiskt parti där våra kärnvärden är skola vård och omsorg.\r\nDessutom det enda oppositionella partiet i Ludvika som inte regerat med Socialdemokraterna. Ludvika behöver ett nytt ledarskap.",
+    "name": "Centerpartiet Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-ludvika"
+  },
+  {
+    "abbreviation": "K",
+    "altingetCandidateId": "1035",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, Grängesberg skulle behöva öppna igen\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja en central fråga och viktig för hela byb och dess rrygghet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan finnas alternativ\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bör inte finnas kommunala bolag som konkurerar överhuvudtaget\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja många tvingas att gå i pension vid 60 år för att dom inte orkar",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, i centrala och viktiga frågor\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, på sikt men som det är nu skulle äldrevården falla ihop\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bör inte finnas friskolor överhuvudtaget\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är emot privata företag inom vård och omsorg",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Inget alls\r\n",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D;B;A;D;C;B;A;D;A;D;0/5;4/5;2/5;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Rätten till en bra äldrevård",
+        "description": "Att den finns tillgängliga boenden för äldre även på orter som betraktas som glesbygd. Enligt devisen . Allas rätt till en likvärdig vård och omsorg var man är bor i landet. Viktigt med en satsning på utbildning av personal. Men också tillgång på personal.  Samt drägliga arbetsvillkor"
+      },
+      {
+        "category": "Mot bolagisering och marknadsanpassning av den kommunala verksamheten.",
+        "description": ". Bolagiseringen  gör att den kommunala verksamheten glider in och blir en del av den s.k marknaden. Öppnar upp för direkta privatiseringar av offentlig vård och service vilket vi anser bör vara i offentlig regi."
+      },
+      {
+        "category": "Mer statliga resurser.till kommunerna.",
+        "description": "Kommunen har ålagts så många uppgifter såsom skola och äldreomsorg. Men har inte dom ekonomiska förutsättningarna att bedriva det på ett ändamålsenligt sätt."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Kommunistiska Partiet Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kommunistiska-partiet-ludvika"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1036",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att uppnå gynnsamma förutsättningar för lärandet i allt för små skolor. Vi ser också utmaningar att lyckas rekrytera personal med rätt behörighet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att äldre människor också ska kunna bo kvar i kommunens västra delar hela livet. Närstående ska enkelt kunna besöka sina anhöriga även på särskilt boende.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör vara upp till varje skola att tillsammans med föräldrarna bestämma ambitionsnivån på antal köttfria dagar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "Principiellt ska kommunen inte bedriva konkurrerande verksamhet där förutsättningar annars finns för privat företagande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget är tänkvärt för att bl a minska sjukfrånvaron, men det finns tyvärr inget ekonomiskt utrymme för detta i dagsläget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår lilla kommun med kort avstånd mellan medborgare och folkvalda ser vi inte att det finns några sådana behov.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ger sämre trygghet och kan vara direkt farligt om det blir missuppfattningar och fel i dokumentationen ifall medarbetarna inte behärskar det svenska språket. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "En bra spridning av nyanlända barn ger bättre förutsättningar för god integration.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nyproduktion av bostäder måste bära sina egna kostnader.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser mycket positivt på en mångfald av utförare som ökar valfriheten inom både äldreomsorg och hemtjänst.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bidra till utbyggnaden av laddinfrastruktur på de parkeringsplatser som kommunen ansvarar för.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att flera av våra skolor skulle kunna drivas av andra huvudmän och dessutom bidra med olika profiler.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt att värna om kulturen även under ekonomiskt sämre tider. Det är dessutom viktigt för integrationen med ett brett kulturutbud.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska drivas med hög effektivitet och ett gott förvaltarskap där kärnverksamheterna prioriteras. Skatten ska vara så låg som möjligt, inte minst för att den slår hårdast mot de med låga inkomster.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1670",
+          "1668",
+          "1664"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;B;D;C;B;D!;C;B;D!;C;3/5;3/5;1/5!;[1670,1668,1664]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ingen fråga där vi har en direkt motsatt uppfattning, däremot är inte alla frågor som partiet driver på riksnivå relevanta för vår kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill vara med och styra kommunen tillsammans med partier som delar våra grundläggande värderingar. Vi samarbetar därför gärna fler mandatperioder med M och L.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Samarbete med Kommunisterna eller NMR är helt uteslutet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En stabil ekonomi utan skattehöjningar",
+        "description": "Kommunen ska drivas med hög effektivitet och ett gott förvaltarskap där kärnverksamheterna prioriteras. Skatten ska vara så låg som möjligt och så hög som nödvändigt. \r\nStyrning och uppföljning av sambandet mellan resurser, prestationer, resultat och effekter i verksamheterna ska återkommande utvärderas. På områden där kommunen ligger över genomsnittet i kostnad ska en djupare analys genomföras."
+      },
+      {
+        "category": "Ökad valfrihet i äldreomsorgen",
+        "description": "Äldreomsorgen ska präglas av trygghet, värdighet och delaktighet. Vår utgångspunkt är att varje person bäst känner sina egna behov och att möjligheten till inflytande och valfrihet därför ska vara stort.\r\nVarje person som fyllt 85 år ska utan biståndsbedömning garanteras plats i anpassat boende, som exempelvis trygghetsboende.\r\nSärskilt boende bör åter erbjudas i Fredriksberg."
+      },
+      {
+        "category": "Bra företagsklimat för tillväxt",
+        "description": "Kommunens service till företagen ska tydliggöras genom att det införs servicegarantier, med tydliga besked om vilka effekter det blir för kommunen om garantin inte uppfylls.\r\nFöretagslotsar ska införas för att tydliggöra vem som ansvarar för näringslivsfrågorna i kommunen och för att ärenden ska kunna få en snabb och säker hantering."
+      }
+    ],
+    "motivateVote": "Vi anser att Ludvika kommun ska drivas med ett gott förvaltarskap där kärnverksamheterna prioriteras och skatten inte höjs. Barn och unga i Ludvika ska ges fler alternativ i förskola/skola, samt även möjlighet att välja internationell skolgång. Det ska ges plats för alternativa driftsformer i omsorgen.",
+    "name": "Kristdemokraterna Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-ludvika"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1037",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grunden måste vara kvalliten på utbildningen - inte var den ligger. Det negativa med att inte öppna byskolorna igen är givetvis tiden fram och tillbaka till skolan. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att närhet till en miljö som är känd är viktigt för att skapa en trygghet för de äldre. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att det kommer krävas av oss alla att förändra vårt sätt att se på mat nu och i framtiden. En bra grund som alltid sätts i skolan ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en liten kommun som Ludvika är det inte så lätt att driva detta. Möjligheten för en privat aktör att driva är inte alltid rimligt. Här måste man se från fall till fall - dock är vi i grunden positiva till privat ägande och drift",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag redan svårt att finna personal att jobba 8h. Man får finna andra vägar fram inom tunga yrken för att hålla arbetslivet ut. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för oss alla att vi känner oss delaktiga i den riktning som kommunen går. Det skapar en bra grund för vår lokala demokrati",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Friskolor ska verka under samma förutsättningar som den kommunala skolan ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska kunna erbjuda olika typer av boenden som speglar de behov vi har på bostadsmarknaden ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har ingen betydelse vem som är huvudman så länge kvallten säkerställs och att de boende känner den trygghet som man ska ha",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jag tror att kommunen ska spela en roll här - speciellt i en sådan liten kommun som Ludvika för att säkerställa att vi gör en snabbare omställning",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Har egentligen ingen betydelse om det är privat eller kommunalt. Det är studieresultataen som måste styra här",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1669",
+          "1663",
+          "1668"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D;B;A;C;D;D;C;C;D;3/5;2/5;2/5;[1669,1663,1668]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha en borgerlig regering då vi tror att våra frågor på bäst sätt kan hanteras av en sådan regering. Vi tror vidare inte på att isolera enskilda partier från inflytande, medborgarnas röst måste ligga till grund för hur vi ska arbeta efter valet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, sakfrågorna måste styra",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värdefull fritid för våra barn och unga",
+        "description": "Förutsättningarna för våra barn och unga att få möjlighet att utöva sin idrott eller annan fritidssyselsättning måste förbättras. Vi är glada över att ha skapat förutsättningar för en ny anläggning i Ludvika och tror att det ska öppna upp ytterligare förutsättningar. Vi vill även se över hur kommunen bättre kan stötta föreningarna i sitt arbete då vi vet att tiden vi har mellan jobb/hem är knapp"
+      },
+      {
+        "category": "Mindre elevgrupper i förskolan",
+        "description": "Liberalerna vill arbeta för att uppnå max 12 barn per vuxen i förskolan. För att nå detta kommer det att krävas ett stort arbete för att nyrekrytera samt behålla vår duktiga personal som jobbar hos oss idag. Vi vill vara en kommun som man vill jobba och verka i"
+      },
+      {
+        "category": "Attraktiva boenden i kommunen",
+        "description": "Ludvika behöver mer attraktiva platser för nybyggnation för att kunna skapa förutsättning för inflyttning till kommunen. Idag har vi en stor arbetspendling in till kommunen - det vill vi ändra på"
+      }
+    ],
+    "motivateVote": "Vi tror på kraften i individen och tror att man ska få ges möjligheten att utöva sina egna val i sitt liv så långt det inte påverkar andras möjligheter. Vi tror vidare på att grunden till ett bra samhälle vilar på en god utbildning och en positiv grundinställning till innovation och teknik som svar på utmaningar kring miljö t.ex",
+    "name": "Liberalerna Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-ludvika"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1038",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns idag inte nog med behöriga lärare, därför är det en dålig idé att öppna flera mindre skolor.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala verksamheter ska lokaliseras efter behov och möjligheter. Vi kan inte bedöma behovet av ett särskilt boende eller möjligheterna att bedriva en verksamhet med god kvalitet där.  ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "MP Ludvika ser gärna att kommunens kök lagar mer klimatsmart mat. Att uttrycka sig i termer av obligatorium tycker vi bara är dumt. Vi tycker inte man behöver säga att det ska vara köttfria dagar, utan vi ser hellre att man pratar om att matens klimatpåverkan ska minska. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna att de kommunala bolagen blir kvar. Vi ser ingen poäng med att avveckla vårt fastighetsbolag eller energibolag. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "MP ser gärna att man på sikt minskar arbetstiden, men vi ser inte att det är möjligt att göra en så stor förändring under en mandatperiod. Just nu ser vi också ett stort behov att förbättra arbetsvillkoren inom omsorgen, och det behövs fler händer inom vården. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att öka möjligheterna för medborgarna att påverka, men folkomröstningar är ett dyrt och trubbigt instrument. Vi ser gärna att man jobbar med andra metoder för att öka det demokratiska inflytandet.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker det är viktigt att de som jobbar inom omsorgen kan bra svenska. Språktest kan vara ett sätt, men det kan även finnas andra sätt att jobba med de anställdas språkkunskaper. Om de äldre inte känner att de kan göra sig förstådda, eller kan förstå, så är det ett problem vi måste ta på allvar.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att skolorna inte ska kunna välja bort elever. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är problematiskt att det är höga hyror i nybyggen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunal fråga, men vi är emot privata företag inom äldreomsorgen. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte nödvändigt att det är kommunens ansvar, men det är viktigt att kommunen underlättar för den som vill bygga laddstolpar. Kommunen har dock ett stort ansvar för laddpunkter som kan användas av den egna verksamheten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker dagens struktur är bra. Dock tycker vi det är tråkigt att skolfrågorna reduceras till en ägandefråga. Det finns viktigare frågor för skolan än vem som är huvudman.  ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens kulturliv behöver utvecklas. Ska vi bli en attraktiv kommun så måste kulturen lyftas fram mer, och inte enbart reduceras till en fråga om pengar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1666",
+          "1663",
+          "1665"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C!;A;B;B;C;D;C;B!;C!;2/5;3/5;2/5;[1666,1663,1665]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skärp kommunens miljö - och klimatarbete",
+        "description": "För att minska utsläppen av växthusgaser vill vi se mer solenergi på kommunala tak och en snabb utfasning av fossildrivna fordon. Samtliga kommunala verksamheter behöver genomlysas utifrån ett miljö- och klimatperspektiv. Tjänsten som kommunekolog måste återbesättas. Kommunens skogsinnehav behöver skötas med ett större fokus på ekologi och rekreationsvärden, och det behövs mer skyddad natur."
+      },
+      {
+        "category": "Skola & förskola",
+        "description": "Det behövs mer resurser till läromedel, lärarlöner och specialpedagoger. För att behålla lärare måste arbetsmiljön förbättras, tex. genom att flera icke-pedagogiska tjänster inrättas. Barngrupperna inom förskolan behöver minskas."
+      },
+      {
+        "category": "Social hållbarhet och rekreation",
+        "description": "Alla vuxna har rätt till en meningsfull sysselsättning, och långvarigt bidragsberoende måste brytas med mera kraftfulla verktyg än de som används idag. Psykisk ohälsa bland barn och unga måste mötas med fler åtgärder, och utbudet av fritidsaktiviteter behöver stärkas, särskilt vad gäller friluftsliv. Här behövs fler promenadleder, grillplatser, småstugor, cykelleder mm."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-ludvika"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1039",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eleven och kvaliteten är i centrum för vår skolpolitik. Vi vill satsa på behörig personal för bästa möjliga utbildning. Vi vill även titta på att bygga en ny större skola i Grangärdebygden (Sunnansjö). ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag ett särskilt boende med hemtjänst i Fredriksberg. Många väljer att bo kvar i hemmet med hemtjänst och det är där vi skall satsa i dagsläget. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inget emot köttfria skoldagar men upp till verksamhets att prioritera i dialog med eleverna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "I mesta möjliga mån. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsmiljö för det som jobbar inom äldreomsorgen är viktigare än kortare arbetstid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att personal och brukare kan kommunicera med varandra för bästa möjliga omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Ludvika har vi en stor allmännytta och den behöver inte bli större. I dagsläget finns billigare lägenheter lediga. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ludvika saknar idag alternativ till den kommunala äldreomsorgen. Vi förespråkar alternativ så det blir valfrihet även för de i behov av omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall möjliggöra för privata aktörer att sätta upp laddstolpar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi privata aktörer på både grundskola (F-6) och gymnasieskola vilket innebär en bra mix av kommunal och privat. Vi skulle gärna se att ett alternativ till den kommunala 7-9 också etablerar sig i kommunen. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": "22.07 är skattesatsen idag i Ludvika kommun. När vi har ordning i reda i ekonomin och vi kan klara överskottsmålet kommande år så ser vi gärna att kommunalskatten sänks. Vi skall inte beskatta befolkningen mer än vad som behövs för att bedriva kommunal service. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1667",
+          "1663",
+          "1668"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;A;C;A;A;D!;D;A;D!;B;3/5;2/5;1/5;[1667,1663,1668]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning och reda på ekonomin ",
+        "description": "En bra ekonomi är en förutsättning för att kunna utveckla en kommun. Moderaterna har varit en del av majoriteten sedan 2019 och sedan dess har vi levererat budgeterat överskottet på 2 %. Det finns saker kvar att jobba med men vi har kommit en bra bit på väg när det gäller att ha kontroll på intäkter och utgifter."
+      },
+      {
+        "category": "Valfrihet",
+        "description": "Under senaste mandatperioden har Ludvika fått möjlighet till valfrihet inom skola/förskola vilket är bra. Inom äldreomsorgen saknas fortfarande möjligheten att välja utförare inom så väl särskilda boenden och inom hemtjänsten, vilket vi kommer jobba aktivt för under nästkommande mandatperiod."
+      },
+      {
+        "category": "Bostäder",
+        "description": "Tillväxten hos företagen inom kommunen är fantastisk och de behöver nyanställa kommande åren, 800 nya jobb är det beräknat. För att möjliggöra denna expansion behövs arbetskraft och dessa behöver möjlighet att bo i närområdet. Moderaterna jobbar för att Ludvika kommun skall kunna erbjuda tomter för villabebyggelse, bostadsrätter och hyreslägenheter i attraktiva lägen för att möjliggöra tillväxten"
+      }
+    ],
+    "motivateVote": "",
+    "name": "Moderaterna Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-ludvika"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1040",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste för oss är att vi kan hålla bra kvalitet och kompetens i våra skolor för barnens bästa.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Verksamheten är nu bättre anpassad för de behov som finns i den kommundelen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Ludvika har vi matråd där även elever ingår. Matrådet ser vi som viktigt för eleverna att ha inflytande på skolmåltiderna. Där kan man diskutera hur man kan utveckla skolmåltiderna",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte någon målsättning att ha konkurrerande verksamhet i bolagen men bolagen ska kunna välja att utföra verksamheter för sina behov i egen regi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Heltids anställningar är infört i Ludvika. För oss är utgångsläget att ha en organisation och arbetsmiljö som är hållbar för 8 h arbetsdag.\r\nVi följer de försök som finns i landet med 6 h arbetsdag så vi stänger inte dörren för en framtida arbetstidsförkortning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att folkomröstningar är ett ganska trubbigt instrument då vi sett att det ofta är svårt att få ett brett engagemang. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ludvika kommun har redan språktester.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge vi har friskolor så ska de ha samma villkor som de kommunala skolorna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att allmännyttan bygger med lösningar som ger rimligt låga hyror.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Ludvika finns inget behov att fler platser i äldreomsorgen. Kommunen klarar själv att täcka de behov som finns. Vi vill bibehålla den demokratiska kontrollen över välfärden och därmed ser vi att detta äventyras om privata företag tillåts.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att infrastrukturer som i det här fallet laddstolpar etableras i kommunen. Men kommunen bör inte ansvara för att driva dem.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "En grundskola (F-6) och en gymnasieskola finns i dag och vi ser inget ytterligare behov.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill höja statusen på kulturutbudet så vi tror att ökade satsningar kommer att behövas.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger väl i paritet med övriga kommuner i dalarna.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1670",
+          "1663",
+          "1668"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;A;A;B;A;D;D;C;A;B;2/5;3/5;2/5;[1670,1663,1668]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte specifikt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill givetvis vara det största partiet i ett kommande styre. Vilka eventuella samarbetsparter som kan bli aktuella får valresultatet utvisa",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna (SD)",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Införa en bymiljon",
+        "description": "Föreningslivet behöver ytterligare stärkas. En satsning på en \"bymiljon\" ger förutsättningar för föreningslivet ute i våra kommundelar att växa och utveckla våra byar."
+      },
+      {
+        "category": "Öka bemanningen i välfärden med trygga anställningar",
+        "description": "Vi vill fortsätta satsningen på äldreomsorgslyftet som ger kompetens och kvalitet åt personalen som stärker tryggheten i anställningen.\r\nVi vill också satsa på en ökad bemanning i omsorgen."
+      }
+    ],
+    "motivateVote": "Vi socialdemokrater står för ett säkert, tryggt och jämlikt samhälle, oavsett vem man är, var man kommer ifrån eller hur tjock plånbok man har. Vi är garanten för en god vård, skola och omsorg.",
+    "name": "Socialdemokraterna Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-ludvika"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1041",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1670",
+          "1663"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;A;B;C;D;D;B;D;D;C;2/5;0/5;2/5;[1670,1663]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill vara med och styra Ludvika kommun.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tiggeriförbud",
+        "description": "Tiggeriförbud i 3 zoner centrum Ludvika, centrum Grängesberg och centrum Fredriksberg. Förbudet skrivs in i den kommunala ordningsstadgan och bevakas av Polisen."
+      },
+      {
+        "category": "Förbud mot böneutrop ",
+        "description": "Förbudet skrivs in i den kommunala ordningsstadgan och bevakas av Polisen."
+      },
+      {
+        "category": "Kommunala upphandlingar ",
+        "description": "Kommunala upphandlingar måste göras bättre, ofta blir det mycket dyrare i slutändan än vad som var överenskommet i offerten."
+      }
+    ],
+    "motivateVote": "Tiggeriförbud i Ludvika kommun är vår viktigaste lokala fråga.",
+    "name": "Sverigedemokraterna Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-ludvika"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1042",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5621104681091ddd7a9e821b1bfb838b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inget behov av att återöppna den byskola som stängdes för ett antal år sedan (Saxdalen), eftersom man istället rustat och byggt ut skolan i Blötberget.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8b528751624a15b168aa3123096e61cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett av våra viktigaste politiska krav inför nästa mandatperiod. Vi var det parti som konsekvent motsatte oss nedskärningarna i Fredriksberg och hade ett förslag hur man skulle kunna undvika att behöva spara de pengar som motiverade stängningen. Vi har drivit frågan i vård- och omsorg, kommunstyrelsen och kommunfullmäktige. Detta är ett absolut krav från vår sida om vi ska ingå i en majoritet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2be1b4c7719b69dc51e51c69e2f69f84",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatet kräver att köttkonsumtionen minskar. Vi ser gärna att man fokuserar mer på god vegetarisk kost i skolorna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e6c0fe8090f21b674816b280f22aa8da",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inga bolag som konkurrerar med privata företag, så frågan är tämligen irrelevant. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ccbe8950eed39a9a3cd337b1e36ea74",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt mål är att normalarbetstiden i Sverige sänks till 30 timmar, och det är fullt rimligt att den kommunala välfärden och äldreomsorgen prioriteras i denna omställning. Lokalt ser vi det dock som en viktigare och mer akut åtgärd att resurserna och bemanningen måste öka. En arbetstidsförkortning i hela omsorgen kräver statlig medfinansiering.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d8de348dc992df47cd2072425d96672",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar har oftast ett väldigt lågt valdeltagande och ger därför sällan en särskilt representativ bild. Vi tycker att kommunfullmäktige i normalfallet kan fatta beslut i kommunala frågor. Om en folkomröstning ska hålls i någon stor och viktig fråga ska detta ske i samband med ett allmänt val för att säkra ett högt valdeltagande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d572a32845075ace55c70399e4a9246",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den som jobbar i äldreomsorgen ska självklart kunna kommunicera med den de hjälper och med sina arbetskamrater. Det viktiga då är inte ett språktest, utan utbildning och framförallt att kommunen slutar utnyttja otrygga anställningar. Genom att all personal ges fasta jobb kan också kompetens, både vad gäller språk och yrkesskicklighet öka rejält inom kommunens omsorgsverksamhet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ec560f08f3ec8f806b1fc2468e0b1966",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge det finns privatskolor, eller friskolor som de av någon anledning kallas, så ska de självklart lyda under exakt samma regler som den kommunala skolan. Vi vill att marknadsskolan avskaffas och att staten blir huvudman för skolverksamheten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "579a3ceb91e38f6dc84844c25cee1b49",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart måste kommunen bidra till att bygga fler bostäder som vanligt folk har råd att bo i. I dag ser vi inget akut behov av att bygga fler hyreslägenheter i Ludvika men det är viktigt att sköta Ludvikahem på ett sådan sätt att de kan hålla nere hyror och satsa på underhåll i de äldre husen. Då kan man inte sälja ut bostäder och därmed undergräva bolagets ekonomi.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c39f60193da6ae3e0008e9fdecbd0466",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vinstintresset ska bort från välfärden. Vi behöver inte fler giriga riskkapitalister som snor pengar från välfärden genom att ha högre andel otryggt anställd personal och lägre bemanning. Varje öre vi betalar i skatt för att finansiera vår gemensamma välfärd ska stanna i välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f19417692eb8d71cb2abc2bdfa5470ac",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska jobba aktivt för att öka tillgången på laddinfrastruktur i hela kommunen. I första hand ska man se till att bygga ut fler laddpunkter på de kommunala arbetsplatserna, så att personal kan ladda sina elbilar på jobbet. Ludvikahem ska bygga ut infrastruktur inom allmännyttans bostadsomrden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9af622d06333987ddc299a76aae42700",
+        "questionType": "RANGE",
+        "reasoning": "Inte en enda skola (men det är inte ett kommunalt beslut)",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c8e7cbf497529161242fa59bb2372f97",
+        "questionType": "RANGE",
+        "reasoning": "I likhet med skola och omsorg har kulturen fått kraftigt sänkta anslag. Vi vill öka anslaget till kulturen som också är en viktig del av välfärden. Därför föreslår vi mer än 40 miljoner mer än majoriteten till välfärden nästa år - inklusive kulturen.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "565fc3bc0392aae9a643a618689bd989",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill öka anslagen till välfärden, men det finns massor att göra utan att röra kommunalskatten. Det finns ett oansvarigt högt överskottsmål på 40 miljoner att sänka, vinsmiljoner att plocka tillbaka till välfärden från kommunens fastighetsbolag och hyror att sänka. Det är mycket bättre än att höja kommunalskatten. inte minst nu när priserna stiger så kraftigt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e1c457f7a7e94f9307d4855664f8b259",
+        "questionType": "PRIORITY",
+        "reasoning": "Saknades många viktiga förslag i listan. Ökade resurser till skola och äldreomsorg är den i särklass viktigaste frågan. ",
+        "value": [
+          "1670",
+          "1669",
+          "1663"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C;A;C;B;B;D;D!;A!;C;0/5!;4/5;2/5;[1670,1669,1663]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas att vi får se en betydligt mer välfärdsinriktad kommunledning efter höstens val. Vårt mål är att bli vågmästare och på så sätt tving fram kraftigt ökade satsningar på välfärden i Ludvika.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och deras lokala kopia Dalademokraterna samt Kommunisterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minst 40 miljoner mer till välfärden i Ludvika kommun",
+        "description": "Genom att sänka det oansvarigt höga överskottsmålet på 40 miljoner, genom att ta tillbaka de många miljoner (20 msek under 2020-2021) från kommunens fastighetsbolag och genom att sänka kommunens hyror med minst 8 miljoner om året vill vi satsa minst 40 miljoner extra på Ludvikas välfärd. Nedskärningarna inom inte minst skola och äldreomsorg måste stoppas."
+      },
+      {
+        "category": "Flytta kommunala jobb till Grängesberg",
+        "description": "Vi vill utlokalisera kommunala jobb till det f.d. gruvkontoret i Grängesberg. Dels skulle det vara en bra åtgärd för att stärka Grängesberg som samhälle, men det skulle också spara pengar åt kommunen om man använde sina egna lokaler som man redan äger, istället för att hyra lokaler i centrala Ludvika av privata fastighetsägare."
+      },
+      {
+        "category": "Återställ Säfsgården",
+        "description": "Vi vill riva upp nedskärningsbeslutet inom äldreomsorgen i Fredriksberg som resulterat i att man tagit bort demensplatserna och omvandlat Säfsgården till boende med hemtjänst. Vi vill ha en god omsorg i hela kommunen och kräver därför att demensavdelningen återöppnas och att boendet återställs till ett särskilt boende med heldygnsomsorg."
+      }
+    ],
+    "motivateVote": "Vi prioriterar välfärden på ett mycket tydligare än övriga partier. Vår budget för 2023 innebär mer än 40 miljoner mer till skola, äldreomsorg och övrig kommunal välfärdsservice. Resurserna till inte minst skola och äldreomsorg behöver ökas rejält i Ludvika. Vi prioriterar välfärd framför oansvarigt stora överskottsmål, miljonregn över det kommunala fastighetsbolaget och ogenomtänkta investeringar",
+    "name": "Vänsterpartiet Ludvika",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-ludvika"
+  }
+]

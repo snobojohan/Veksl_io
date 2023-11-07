@@ -1,0 +1,1247 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1559",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I ett naturreservat får man inte göra någonting, inte ens ta bort invasiva växter eller anlägga en gångstig",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ger en trygghet för medborgarna",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår högklassiga jordbruksmark är en icke förnybar tillgång och måste skyddas för att producera livsmedel, vilket är en bristvara i världen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det krävs en helhetsbild för att bäst avgöra var skattekronorna behövs mest",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är arbetsmarknadens parter som förhandlar om lönevillkor, inte politiker",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera, men skapa förutsättningar för att det byggs fler billiga hyreslägenheter",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns bra sådana exempel i vår kommun",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska skapa förutsättningar för att det uppsätts laddstolpar",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Eftersom vi startar på en så låg nivå behövs mycket mer satsning på kultur för att medborgarna ska ha en rik och varierad fritid",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;C;D!;A;C;A!;B;B!;D;B;B;2/5;4/5;2/5;_",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Starkt inflytande av Centerpartiet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bevara och skydda Höjeådalen och angränsande jordbruksmark",
+        "description": "Höjeådalen ska användas för rekreation och angränsande jordbruksmark för livsmedelsproduktion, ej för bebyggelse"
+      },
+      {
+        "category": "Bygg tillgängliga bostäder för unga",
+        "description": "Stort behov av billiga enkla bostäder lämpliga för unga människor"
+      },
+      {
+        "category": "Fältgruppen behövs för Staffanstorps bästa",
+        "description": "Ny fältgrupp etableras för att arbeta förebyggande med ungdomars väl och hälsa"
+      }
+    ],
+    "motivateVote": "Ett ansvarstagande grönt parti i mitten av svensk politik",
+    "name": "Centerpartiet Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-staffanstorp"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1560",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Kristdemokrater tycker att kommunen borde se över möjligheten att inrätta naturreservat för att skydda naturen för både dagens invånare i Staffanstorps kommun som framtidens. Idag har vi bara ett naturreservat i kommunen medan det finns i Skåne närmare 350 naturreservat\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att en kommun ska vara attraktiv krävs det att medborgarna upplever den som trygg och där spelar kameraövervakning en viktig roll. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att bevara den Skånska åkermarken. Utan åkermark har inte Skåne eller Sverige något jordbruk eller livsmedelsproduktion. Att vi bevarar och förvaltar åkermark är en förutsättning för att framtida generationer ska kunna odla och producera skånska och svenska livsmedel.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns flera positiva effekter av att arbeta med medborgarbudget. Engagemanget hos berörda invånare ökar när de får möjlighet att vara delaktiga i processen. Dessutom ökar deras kunskap om den komplexa verksamhet som kommuner har ansvar för. Vi ser därför positivt att testa det i kommunen för att se om det skulle fungerar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn i förskola och skolans tidiga årskurser ska inte vara beslöjade. Slöjans funktion som ”barriär” (som det arabiska ordet hijab betyder) och kontrollmedel gör att den inte är lämplig för små barn i skolans och förskolans vård.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dag råder det redan brist på arbetskraft inom äldreomsorgen och minska den med 20 % är inte möjligt. Istället måste vi arbeta för bättre arbetsvillkor och förbättra arbetsmiljön. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla medborgare ska kunna åldras med värdighet. Det innebär att service, vård och omsorg ska vara tillgänglig och ges utifrån en helhetssyn på den enskilde med hänsyn till själsliga, andliga och materiella behov och att de som utför det kan svenska. Att inte bli förstådd är inte är värdigt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyresrätten har en viktig roll att spela, inte minst för unga, studenter och äldre personer som vill ha ett utökat serviceinnehåll. Det kommunen kan göra är att skriva in att det skall byggas fler hyreslägenheter vid marköverlåtelser. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den vårdsökande ska kunna välja vilken hemtjänstutförare eller vilket äldreboende man vill bo på. Vi välkomnar privata, ideella och kooperativa alternativ som komplement till den kommunala verksamheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det behövs rejäl höjning av stödet för utbyggd laddinfrastruktur från staten. Staffanstorps skall inte sätt upp upp egna laddstolpar men skall delta och skapa förutsättning i områden som man anser lämpliga samverkan med aktörer. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Kristdemokraterna är det centralt att migrationspolitiken är långsiktigt ansvarsfull, rättssäker, human och överblickbar. Kristdemokraterna vill därför ha en stram migrationspolitik. Vi vill kraftigt begränsa den totala migrationen till Sverige med ett mål på nordiska nivåer. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna anser att fristående skolor är en självklar och viktig del av det svenska skolväsendet. De medverkar till att stärka den pedagogiska förnyelsen och utvecklingen inom svenskt skolväsende. Föräldrar och elever ska fritt kunna välja den skola som passar bäst, eller välja bort den som inte fungerar. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Kultur uppstår i mötet mellan människor och skapas av oss alla gemensamt. Kulturen ger oss mening i nuet, men kulturen bär också våra historiska rötter och föder visioner för framtiden. Kulturen bidrar till att vidga den egna verkligheten och fantasin. Kulturen, precis som moralen, håller ihop gemenskaper och skapar förutsättningar för ett gott samhälle. Därför är den viktigt att investera i. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "Skatten ska vara så låg som möjligt och så hög som nödvändigt, en strävan efter sänkt skatt är önskvärd. Politik måste vara något mer än att räkna pengar och ha ett kameralt tänkande. Det är ett välfungerande näringsliv och fler personer i arbete som genererar de skatteintäkter som gör det möjligt med en god välfärd för alla, inte skattekronan i sig. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2330",
+          "2324",
+          "2323"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D;C;D;A;D;B;D;B;C;3/5;3/5;2/5;[2330,2324,2323]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi ser positivt på gårdsförsäljning och att kunna ha kommunal polis. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kan även söka samarbeten i sakfrågor bland de partier där stöd finns oavsett var på den politiska skalan det stödet kommer ifrån i syfte att få genomslag för vår politik. Vi vill helst se ett borgligt styre som består av KD, M och L. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi går till val för endast ett borgligt styre",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barngruppernas storlk",
+        "description": "Barngruppernas storlek i förskolan ska minska. Vi vill att barn som är tre år eller yngre inte ska behöva tillhöra grupper som är större än tolv barn."
+      },
+      {
+        "category": "Boendegaranti i anpassat boende",
+        "description": "Varje person som fyllt 85 år ska utan biståndsbedömning garanteras plats i anpassat boende, som exempelvis trygghetsboende."
+      },
+      {
+        "category": "Stärka trygghet i kommunen",
+        "description": "Ordningsföreskrifter ska ses över för att reglera trygghet och trivsel i\r\noffentlig miljö. Vi ska ha nolltolerans mot nedskräpning och klotter. Kommunen ska kunna delfinansiera poliser för att öka polisnärvaron (beslut krävs på nationell nivå för att möjliggöra detta). Som komplement till fler poliser skall vi behålla våra ordningsvakter som har som uppgift att öka tryggheten i kommunen."
+      }
+    ],
+    "motivateVote": "Vi har hjärta för hela Staffanstorp - Kristdemokraterna sätter människovärdet främst och vill prioritera det som är nödvändigt för att bygga ett samhälle som håller ihop. Vår barn och ungdomar, äldrefrågorna och tryggheten är våra prioriterade frågor. ",
+    "name": "Kristdemokraterna Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-staffanstorp"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1561",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har länge velat freda den gröna lunga som finns närmast Höje å för all framtid. Området måste göras lättillgängligt för alla, skolor, förskolor, cyklister, äldre, funktionsvarierade m fl. Både då naturvärdet är högt, och då fler Staffanstorpsbor flyttar hit kommer ett ökat rekreationsbehov finnas i denna del av kommunen. \r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Individens trygghet är viktig. Alla ska känna sig trygga och lita på att brott bekämpas. Kameraövervakning är nödvändig, men måste alltid vägas av mot enskildas rätt och måste vara noga reglerat. Andra trygghetsskapande metoder måste användas, såsom fältgrupp, samarbete med civilsamhället, belysning, smart stadsplanering. Alla ska våga gå eller cykla i hela Staffanstorp, hela dygnet.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermarken ska värnas, världsläget visar att Sverige behöver sträva mot högre självförsörjandegrad. Om vi ska bygga på åkermark måste det vara i kollektivtrafiknära lägen och satsas ännu mer på förtätning. Detta gäller även för industrimark, där man måste börja göra en avvägning mot antalet arbetsplatser den genererar vid exploatering på jungfrulig mark.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är valda av medborgarna och har fått ett mandat att förvalta och utveckla. Det krävs mycket tid och engagemang för att sätta sig in i kommunens budget. En mindre del skulle kunna vara öronmärkta som medborgarbudget vilket borde kunna öka delaktigheten och intresset för kommunens verksamhetsområden och utveckling.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Såklart behöver elever och lärare kunna se varandra för att få den förtroendefulla relation som kunskapsutveckling kräver. Om något ska förbjudas inom skolans väggar ska förbudet inte kopplas till religion, utan till verksamhetens behov.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Först handlar det om att säkerställa heltid för medarbetarna och förbättra arbetsmiljön. Nästa steg är att öka attraktiviteten och utvecklingen av arbetsplatserna för att skapa förutsättningar att vara verksam ett helt yrkesliv. \r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den som kan svenska ökar sina chanser att få jobb och lön istället för att isoleras i hemmet. Språket ökar friheten både i förhållande till samhället och sin partner. Vi vill att svenska språket ska gå som en röd tråd från första dagen i Sverige till medborgarskapet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staffanstorp behöver fler hyresrätter, och vi vill att kommunen är en aktiv part. Att bygga kostnadseffektivt och mindre bostäder så att alla har råd att flytta hemifrån, skilja sig, flytta på ålderns höst osv, anser vi vara prioriterat. \r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvaliteten på kommunens verksamheter ska vara bra. Vem som driver dem är underordnat. Vi ser gärna en mix av kommunala och privata verksamheter. När det gäller hemtjänsten har vi historiskt sett att det blir sårbart utan ett kommunalt alternativ, och det vill vi undvika.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid varje publik parkeringsplats av ej ringa dimension bör det finnas ett visst antal laddstolpar. Då kommunen ansvarar för ett antal större parkeringsplatser bör det finnas laddstolpar på dessa.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att integration ska kunna fungera måste alla länder i EU hjälpas åt vid större flyktingströmmar, och Sverige ska ta sitt ansvar. Inom Sverige måste alla kommuner sluta upp solidariskt för att våra nyanlända fort ska bli en aktiv del av vårt gemensamma samhälle.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Kvaliteten på kommunens verksamheter ska vara bra. Vem som driver dem är underordnat. Det är elevens kunskapsinhämtning som är i fokus. Vi ser gärna en mix av kommunala och privata verksamheter.\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt. För avkoppling och underhållning. För ökad förståelse för vad det är att vara människa. För att förstå andra. För den intellektuella infrastruktur som är central om människor ska växa och demokratin ska fungera. Och för så mycket mer. \r\nEfter pandemin behöver kulturen ökat stöd till återstart och återhämtning. Framöver ska musikchecken vara en musik- och kulturcheck.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "Det primära är att varje skattekrona används väl. Vi är inte rädda att vare sig sänka eller höja kommunalskatten.\r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": "Skolan är grunden för att individen skall lyckas, vi är bra men behöver bli ännu bättre. För att utveckla vårt samhälle krävs både stålhandske och lovikavante där det förebyggande arbetet behöver förbättras samtidigt som en meningsfull fritid skapas. Sedan kan vi ignorera miljön utan vi måste ta frågan på allvar i kommunen där det första är att tillföra mer kompetens via en miljöstrateg.",
+        "value": [
+          "2328",
+          "2325",
+          "2327"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;C;C;A;A;D;D;D;C;A;2/5;3/5;2/5;[2328,2325,2327]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det viktigaste är att få till förändringen där vi får möjlighet att påverka de politiska besluten, antingen att vara en del av det politiska styret eller ge stöd med tydliga liberala förutsättningar. Staffanstorp behöver mer öppenhet, demokrati och liberal politik.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan göra upp i sakfrågor med alla. Att styra med V och SD är inte aktuellt. \r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler lärare i skolan - inför tvålärarsystem och fler utbildade förskolelärare",
+        "description": "Alla barn som lämnar lågstadiet ska kunna läsa, skriva och räkna. Lovskola redan i mellanstadiet för de som behöver extra stöd. Satsa mer på skolan, barnen är vår framtid. Alla behöver utmaningar på rätt nivå. Mer utbildad personal i klassrum och förskola gör skillnad. Ska kommunen fortsatt ha en låg arbetslöshet behövs kompetenta personer på morgondagens arbetsmarknad. Höj golvet OCH krossa taket"
+      },
+      {
+        "category": "Ett miljöarbete värt namnet - En tydlig och konkretiserad plan",
+        "description": "Anställ en miljöstrateg för att starta, vidmakthålla och utveckla miljöarbetet. Utkastet till miljöplan är bara en sammanställning av dagens nuläge och har inget framåtblickande perspektiv med tydlig målsättning. Med en utgångspunkt och konkretisering i Sveriges miljömål hade vi kommit en bra bit på väg. Vi kan inte sätta detta på paus längre då det gäller framtiden för våra barn."
+      },
+      {
+        "category": "Är du inte trygg, är du inte fri",
+        "description": "Trygghet är viktigt för individen och samhället. Inte minst för att bevara demokratin. Förebyggande arbete måste förstärkas och återinföras (Fältgrupp 2.0/ungdomscoacher i skolan, Ung i Hjärup mm), stödet till och relationerna med civilsamhället är i delar eftersatt (exempelvis ridskolan). Trygghet ska vara med i all samhällsbyggnad. Alla ska våga gå eller cykla i hela Staffanstorp, hela dygnet."
+      }
+    ],
+    "motivateVote": "Vi är de borgerliga partiet med hjärta. Vi har respekt för din plånbok, och värnar en låg skattesats. Samtidigt känner vi ett socialt ansvar och tycker att samhället ska stödja de som behöver. Med rättigheter kommer alltid skyldigheter, och att ställa krav är att bry sig. Du ska ha möjlighet att forma ditt eget liv – din frihet är viktig för oss!",
+    "name": "Liberalerna Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-staffanstorp"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1562",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Höje å är en grön oas som måste skyddas mot exploatering och skadlig miljöpåverkan. Miljöpartiet i Staffanstorp och Lund är det parti som konsekvent arbetat för naturreservat. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning kan vara nödvändigt, inte minst för att övervaka cykelparkeringar. Men ännu viktigare är det förebyggande arbetet och en aktiv fältgrupp. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åkermarkens skydd är en fråga om skydd mot kris och svält. Vi har den bästa jordbruksmarken och måste ta ansvar för att säkra matproduktionen. Idag ser nog alla det behovet tydligare än någonsin. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Engagemang börjar med att man faktiskt kan påverka. Vi har många byar och två större tätorter och vi vill se byabudgetar där byarna och tätorterna kan delta i arbetet och påverka investeringar till det som är viktigt för den som bor där. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbud som detta är främst en politisk markering som drar uppmärksamhet från de riktiga utmaningarna i skolan; stress, resursbrist, mental ohälsa med mera. Det finns inte ett problem relaterat till slöjor i våra skolor och om det blir ett problem är vi säkra på att skolan kan hantera det om de har resurser. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore utmärkt med kortare arbetsdagar i en verksamhet som sliter på personalen. Vi tror dock att det rent praktiskt skulle vara en enorm utmaning idag då det finns en personalbrist.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna göra sig förstådd i det nära arbetet med människor, men ett test får inte vara utformat på ett sätt som utesluter personer med brytning eller dialekter. Vi behöver allas hjälp att bemanna framtidens kommun. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska i alla fall stimulera byggandet av billiga hyresrätter, för att underlätta för den som studerar, är nyskild eller nyanländ eller behöver lämna villan för ett enklare boende. Finansieringsfrågan kan vara mer kreativ än att kommunen står för allt, vi vill att billiga hyresrättsprojekt får billigare mark vilket kan finansieras av andra byggprojekts dyrare markköp. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, privata aktörer får finnas. Vinstuttaget behöver dock vara lågt och kvaliteten hög. Vi vill också se ett kommunalt äldreboende då det saknas idag viket minskar valfriheten. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, vi vill se många fler laddmöjligheter för elbilar och andra elfordon i kommunen. Kommunen och det kommunala energibolaget bör vara pådrivande för en god utbyggnad av laddstolpar, inte bara i tätorterna. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staffanstorp tar emot få flyktingar och har till och med vägrat ta emot lagligen anvisade personer. Vi ska vara solidariska och lägga tid och resurser på en god integration. Det lönar sig på sikt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inget emot skolor som drivs privat. Vinstuttaget behöver vara lågt och kvaliteten hög. Men vi behöver vara vaksamma på hur stor andel privata utförare vi har och hur avtalen är skrivna, då det är kommunen som har ansvaret för skolbarnen den dag en privat skola går i konkurs eller lämnar kommunen. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Kultur och idrott är inte en stor del av kommunens budget idag. En stor ökning av denna budget är inte en stor ökning av kommunens totala budget. Vi vill se mycket mer satsningar på ett levande Staffanstorp, fler aktiviteter i samarbete med föreningar och näringsliv och stöd till kulturupplevelser för både yngre och äldre invånare. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha en så låg skatt som möjligt, men vi kommer inte ifrån att Staffanstorp har skaffat sig en hög låneskuld, utför inte alla lagstadgade uppgifter pga resursbrist och har en demografisk utveckling som leder till att kommunalskatten måste öka på sikt. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2329",
+          "2323",
+          "2325"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D!;D!;A;D;C;C!;C;D!;A!;2/5;4/5!;3/5;[2329,2323,2325]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte vad vi sett. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Staffanstorp behöver ett maktskifte. Vi vill se ett rödgrönt styre och räds inte en bredare lösning med fler partier som nu är i opposition mot M och SD. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Moderaternas och Sverigedemokraternas nuvarande politik är oförenlig med vår. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skydda jordbruksmarken",
+        "description": "Staffanstorp är omgivet av värdefulla åkrar på Sveriges bästa matjord. Vi har ett särskilt ansvar att säkra marken för matproduktion i dag och i framtiden. Industrier måste byggas yteffektivt och bostadsområden ska först och främst byggas kollektivtrafiknära på redan asfalterade ytor som Sockerbruket i Staffanstorp och norr om Jakriborg i Hjärup."
+      },
+      {
+        "category": "Lokal demokrati med byabudget och dialog",
+        "description": "Staffanstorp har blivit alltmer toppstyrt och demokratiska processer utmanas. Vi vill att medborgarna får ökad möjlighet att påverka utvecklingen i sitt närområde genom att få delta i budgetarbetet för respektive by / tätort, och att medborgardialog och insyn i beslutsprocesser prioriteras."
+      },
+      {
+        "category": "Fossilfritt - för närproducerad energi",
+        "description": "Vi måste ersätta det fossila bränslet, för frihet från diktaturer och framför allt för att undvika en klimatkatastrof. Även Staffanstorps kommun behöver göra sitt för att eliminera fossila bränslen i kommunens transporter och verksamheter och samtidigt stödja det bränslebyte som pågår hos både privatpersoner och företag just nu. Vi har många konkreta förslag för det lokala arbetet."
+      }
+    ],
+    "motivateVote": "Om du vill ha stärkt lokaldemokrati står vi för byabudget och dialog. Om du vill skydda marken står vi för härodlad mat och långsiktighet. Om du vill ha närproducerad energi står vi för den fossilfria politiken. Och mycket mer. ",
+    "name": "Miljöpartiet Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-staffanstorp"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1563",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna i Staffanstorp vill behålla naturområdet men inte göra det till ett reservat. Det går att kombinera rekreation och naturvärden i området.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameror ökar tryggheten men bidrar också till att klara upp brott. Utöver det har kameror en preventiv effekt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarna har redan idag möjlighet att lämna in medborgarförslag",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Yngre elever ska inte kunna tvingas bära ansiktstäckande slöja i kommunala skolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre som har behov av äldreomsorg måste förstå de som utför arbetet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2326",
+          "2330",
+          "2328"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C;C;D;B;D!;B;C;C;D!;2/5;2/5;1/5;[2326,2330,2328]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fortsatt högpresterande skolor",
+        "description": "Staffanstorp har bra och trygga skolor. Det är ett arbete som aldrig får ta slut eller där nöjdhet får ta vid. Barn och elever måste känna trygghet och att de får en gedigen utbildning. Ordning och reda måste råda i våra skolor."
+      },
+      {
+        "category": "Trygghet i Staffanstorps kommun",
+        "description": "Trygghetsfrågorna är oerhört viktiga. De som inte känner sig trygga får sin frihet begränsad. Den som fuktar för sin säkerhet kan inte prestera. I Staffanstorp har vi alltid arbetat utifrån denna grundläggande tanke. Ännu fler kameror på gator och torg, poliser i yttre tjänst måste bli mer synliga i kommunen och fortsatt patrullering med kommunala ordningsvakter!"
+      },
+      {
+        "category": "En god och värdig äldreomsorg",
+        "description": "De senaste åren har Staffanstorps kommun satsat oerhört mycket på äldreomsorgen. Våra äldre har rätt till en fin och värdig ålderdom. Idag tillhör äldreomsorgen i kommunen landets bästa och det ska den fortsatt göra. Den generation som byggt vårt land ska vi hedra genom en fin omsorg!"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-staffanstorp"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1564",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillsammans med Lunds kommun skulle vi kunna skapa ett fint naturområde! Staffanstorps kommun är en kommun som saknar såväl skog som sjöar. Området är betydelsefullt för vårt friluftsliv, vår flora, fauna och är av intresse ur ett naturmiljömässigt perspektiv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Platser som känns otrygga eller där det sker en del brott (läs cykelstölder) ska kameraövervakas. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jordbruksmark är en ändlig resurs som i ett långt perspektiv kommer att vara ovärderlig för jordens befolkning. Planeringsansvaret för hushållande med jordbruksmark ligger hos kommunerna. Vi behöver bevara jordbruksmark för framtiden inte minst i vår kommun som råkar ha Sveriges bästa jordbruksmark (+10) inom sina gränser. Kommunen har ett ansvar för att undvika att ianspråkta jordbruksmark.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarbudget är ett system som ger medborgarna möjlighet att prioritera kommunala resurser och få förståelse för hur resurser kan användas för lokal utveckling. Medborgarbudget ger möjlighet till både inflytande och ansvarstagande för att utveckla och ta hand om den lokala miljön där medborgaren lever sitt vardagsliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ingen fråga som är relevant för vår kommun. Vår uppgift är att se till att alla barn klarar skolan och får det stöd som behövs för att bli en del av samhället. Barn behöver bemötas som individer och förbud är inte rätt väg att gå. Den stora utmaningen ligger i att fler barn med invandrarbakgrund behöver stöd för att få fullständiga betyg och språkkunskaper.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är angeläget att höja status på verksamheten. Ett sätt är att höja lönen men man kan också sänka arbetstiden så att fler söker sig till en angelägen verksamhet. Vi behöver se över arbetsmiljön, arbetstiderna (inte minst delade turer och helgtjänstgöring) men också lönen inom äldreomsorgen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är för oss självklart att de som arbetar i hemtjänsten och äldreomsorg måste kunna svenska så att de kan kommunicera med brukarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera hyreslägenheter däremot ska kommunen verka för att man bygger hyreslägenheter antingen via ett ägardirektiv eller genom att upplåta mark för bygga fler hyresbostäder.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår grunduppfattning är att verksamheten ska bedrivas i kommunal regi. Vi vill ha en verksamhet som präglas av hög kvalitet, bra arbetsmiljö och stor respekt för brukarna. Resurserna ska gå till verksamheten och inte till vinster. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Staffanstorps kommun måste engagera sig i frågan om omställning till en fossiloberoende fordonsflotta men också genom att uppmuntra kommuninvånarna till en övergång till elbilar genom att bl.a. erbjuda bättre möjlighet till laddning i vår kommun. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige ska ta emot färre flyktingar (då vi tog ett stort ansvar 2015). Det är dags  att andra länder tar ett större ansvar. Däremot har vår kommun inte tagit ett stort ansvar, utan majoriteten har sett till att placera \"våra\" flyktingar i andra kommuner. Andra kommuner har med all rätt reagerat på Staffanstorps kommuns agerande. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ingen större efterfrågan på privata skolor. Våra kommunala skolor har gott rykte och medborgarna väljer oftast i första hand ett kommunalt alternativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Staffanstorps kommun lägger mycket lite på kultur. En attraktiv kommun erbjuder sina invånare bra kultur.  Mycket tyder på att kulturen bär på en omvälvande potential både för den enskildes välmående och för folkhälsan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "Menar vi allvar med att förbättra arbetsmiljön inom äldrevården, hjälpa varje barn i skolan och förbättra utbudet av fritidsaktiviteter (nytt bad, ridanläggning, bättre stöd till föreningar) måste kommunalskatten höjas något (ungefär i nivå med moderaternas skatteuttag 2019-2021). ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2326",
+          "2323",
+          "2325"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D!;D;B;C;D;B;A!;D;C;2/5;3/5;3/5;[2326,2323,2325]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "En koalition där S ingår!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, det är inte aktuellt att styra tillsammans med! Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet i vårt (S)taffanstorp",
+        "description": "Trygghet är när man tillåter sig ha mindre barngrupper för att det gynnar barnen och så att föräldrarna känner sig trygga. Trygghet är att veta att i våra skolor där uppnår varje elev gymnasiebehörighet och där finns resurser att hjälpa eleverna över tröskeln och med läxor. Trygghet är också att våra föreningar har goda förutsättningar i vår kommun. Förebyggande verksamhet prioriteras."
+      },
+      {
+        "category": "Stärka demokratin genom att ha egna alternativ med kommunal och trygg omsorg",
+        "description": "Att våra äldre får den omsorg de förtjänar när orken tryter. Att våra äldre har en livskvalitet som innebär att man längtar till ännu en ny dag kantat av aktiviteter, god mat och samvaro, men också en god omsorg som innebär att det finns personal då man behöver gå på toaletten, få hjälp med att sköta sin hygien eller sällskap vid en promenad. Att varje skattekrona används i verksamheten."
+      },
+      {
+        "category": "Bostäder för alla - med social, ekonomisk och ekologisk hållbarhet",
+        "description": "Hyreslägenheter till våra ungdomar som vill flytta hemifrån eller till våra äldre som tröttnat på underhållet av den stora villan men också till paret som valt att gå skilda vägar. Idag är väntetiden för en hyreslägenhet i vår kommun cirka tre år! Bygg fler billiga klimatsmarta hyresrätter!"
+      }
+    ],
+    "motivateVote": "En trygg kommun bygger vi bäst tillsammans. Vi vill se en kommun som håller ihop, där alla har möjlighet att utvecklas och få det stöd som var och en behöver, i livets alla skeden. Fler behöver klara skolan, hitta en meningsfull fritid, och vägar in i arbete. Ett starkt samhälle där ingen faller mellan stolarna är också ett tryggt samhälle. \r\n",
+    "name": "Socialdemokraterna Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-staffanstorp"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1565",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I ett naturreservat finns en skarp reglering av vad man får göra som kan begränsa istället för tillgängliggöra. Exempelvis får man inte campa, grilla eller rensa bort sådant som hotar övrig flora och fauna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är medborgarnas trygghet överordnad allt annat. Kameraövervakning kan både förhindra brott och bidra till brott som ändå begås kan lösas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att skydda åkermarken och den samhällsviktiga jordbruksnäringen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som fattar beslut och gör prioriteringar behöver ha en helhetsbild och heltäckande information. Vi ser dock gärna att insatserna för att engagera fler den demokratiska dialogen utökas, t.ex. genom en utbyggnad och effektivisering av dialogen med kommuninvånarna via olika forum, ex. systemet med medborgarförslag och dialog med elever, brukare, anhöriga och övriga verksamheter.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansiktstäckande klädnad är en form av maskering som inte hör hemma i ett öppet samhälle eller i myndighetsutövning där rättssäkerheten bygger på identifiering. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi verkar intensivt för att våra vårdanställda ska ha bättre yrkesvillkor. T.ex. vill vi ha bort delade turer och ställa krav på goda villkor och god arbetsmiljö vid upphandling med privata aktörer. Vårpersonalens välmående och trivsel borgar för en hög kvalitet i omsorgen, där t.ex. kontinuitet i personalstyrkan är en avgörande faktor. De som vill ska ha möjlighet att arbeta heltid.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att personal som arbetar med våra mest utsatta och sköra medborgare behärskar språket är helt avgörande både för känslan av trygghet och för att minimera risken för fel som beror på misskommunikation. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som helhet ser vi gärna en blandad bebyggelse i kommunen för att undvika framväxt av problematiska områden. Det finns ett identifierat behov av billiga hyreslägenheter och vill att det ska byggas sådana. Politikens uppgift är dock främst att skapa förutsättningar för byggnation inte att finansiera den då husbygge är inte en kärnverksamhet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreomsorg är en av kommunens viktigaste kärnverksamheter och för att upprätthålla en hög kvalitet kan det vara positivt att brukarna kan välja mellan olika utförare. Ett kommunalt alternativ behöver dock finnas för att säkra en standard. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens uppgift är att skapa gynnsamma förutsättningar för byggnation av laddstolpar men att bygga dem är ingen kärnverksamhet som kommunen ska ägna sig åt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige har historiskt sett och i jämförelse med övriga nordiska och europeiska länder tagit ett mycket stort ansvar för flyktingar vilket påfrestat samtliga välfärdssystem. Vi behöver pausa det utomeuropeiska flyktingmottagandet för att landet ska kunna återhämta sig och för att ha resurser och kapacitet att stötta krigsdrabbade i vårt närområde då det just nu rasar ett krig i Ukraina.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Skolan är vår viktigaste kärnverksamhet. Dagens unga är morgondagens samhällsbärare. Elevernas utbildning får aldrig kompromissas med och skolan får aldrig användas som budgetregulator. Vi ser gärna en blandning av privata och kommunala skolor så att varje elev kan välja den profil som passar bäst. Kvaliteten är det viktigaste. \r\n",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Kulturbudgeten ska prioritera ett rikt utbud för barn och unga. Kulturarv av stort allmänmänskligt intresse ska värnas. I övrigt är kultur och fritidsaktiviteter för vuxna är ingen självklar kärnverksamhet utan bör främst vara självbärande. Vår målsättning är att hålla skatten så låg som möjligt vilket ger mer pengar i plånboken för invånarna att välja och kunna finansiera det utbud som önskas. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att skatten ska vara tillräcklig för att kärnverksamheterna ska hålla en hög kvalitet. Finns det behov i verksamheterna som endast kan tillmötesgås genom en skattehöjning så måste det göras, men ett slöseri med kommuninvånarnas pengar är oacceptabelt. Kommunbudgeten ska hushållas ansvarsfullt som medborgarnas pengar och om utrymme finns ska skatten sänkas. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2326",
+          "2330",
+          "2324"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C!;C;B;C!;B;C!;B;C;B;D;2/5;2/5;2/5!;[2326,2330,2324]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har ett gott samarbete med moderaterna sedan 2018 då vi har en samsyn i många centrala frågor. Principiellt är vi öppna för samarbete med samtliga partier då det viktiga för oss är kommuninvånarnas bästa.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Språktest inom äldreomsorgen",
+        "description": "Vi verkar för att personalen som arbetar med våra äldsta och sköraste medborgare ska klara av en grundläggande kommunikation med brukare och anhöriga. Detta är mycket viktig dels för att brukarna ska känna sig trygga och väl omhändertagna, dels för att minimera risken för allvarliga misstag beroende på misskommunikation."
+      },
+      {
+        "category": "Utveckla ridsporten",
+        "description": "Vi brinner för att samarbetet mellan kommunen och den lokala ridklubben ska utvecklas så att ridsporten ska kunna blomstra. Ridning är en av de populäraste sporterna hos flickor och förtjänar att investeras i."
+      },
+      {
+        "category": "Fler vuxna kring barnen",
+        "description": "Vi verkar för en trygg och utvecklande förskola och skola. Våra barn och unga ska omges av trygga vuxna som har tid att se och stötta varje individ. Detta kan uppnås på olika sätt, ibland krävs en minskning av gruppstorlek medan ibland handlar behovet om särskild personal som kan stötta. Varje situation är unik. Politiken ska ge förutsättningarna. Expertisen ska avgöra hur behoven kan tillgodoses."
+      }
+    ],
+    "motivateVote": "En del för samhällsutvecklingen skadliga beslut fattas på riksnivå men deras konsekvenserna slussas ut på kommunerna. Vår uppgift är att värna Staffanstorpsbornas intressen och motverka skadeverkningarna. Lokalt brinner vi för en förskola och skola i toppklass, trygg och tillgänglig äldreomsorg, vårdpersonalens yrkesvillkor samt ett rikt utbud av aktiviteter för såväl flickor som pojkar.",
+    "name": "Sverigedemokraterna Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-staffanstorp"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1566",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "07ab8018fe10f63bca29a2130ce068f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver göra mer för att skydda vår natur. Att bevara området kring Höje å är ett viktigt och naturligt steg att ta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b90ba5f7fa54630d24dd0b35dec4340",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning kan hjälpa mot viss typ av brottslighet, men det är oftast inte lika effektivt som god belysning. Vet man vilken typ av brott man vill komma åt och om läget lämpar sig för ändamålet kan kameraövervakning vara ett bra alternativ, annars ser vi hellre att man hittar andra, mer effektiva och mindre integritetskränkande lösningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "70f07be9f66642577779c96d48b52df7",
+        "questionType": "PROPOSITION",
+        "reasoning": "På nationell nivå behöver vi öka självförsörjningsgraden och då krävs det att vi bevarar den bördiga åkermark som finns runt oss. Vi ser hellre att man förtätar befintlig bebyggelse. Företags ekonomiska intressen kan inte alltid komma först. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a63eba24dcc3804f821face4fee80c59",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarbudget är ett beprövat och bra sätt för att öka kommunikationen mellan invånare och politiker. Det är också ett bra sätt för att hitta bra lösningar på problem som politikerna kanske inte ens är medvetna om. Det är också ett bra sätt att skapa engagemang och bygga gemenskap i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "93e7b8612afa457f95964e905444a53b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett förbud mot ansiktstäckande slöja i grundskolan skulle gissningsvis syfta till att ta bort ett uttryck för hedersförtryck. Vänsterpartiet är naturligtvis emot alla former av hedersförtryck, men vi tror inte att ett förbud mot ett plagg är rätt väg att gå. Det är inte kommunens sak att bestämma hur våra skolbarn klär sig, särskilt inte när det inskränker barnens religionsfrihet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fa41a3080e7db651e3232df51de3d674",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett fantastiskt förslag. Vi förväntas jobba längre och längre upp i åldrarna och därför är det viktigt att vi inte slits ut i förtid. Minskad arbetstid ger också ökad livskvalitet och mer tid till det som är viktigast i livet. Ett försök med minskad arbetstid och bibehållen lön under ett par år, följt av en ordentlig utvärdering kan visa om det är rätt väg att gå för Staffanstorp.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3d89f34a2b15b27c1582e5debbce9057",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att anställda inom hemtjänst och äldreomsorg kan kommunicera med de som de ska hjälpa. Bristande språkkunskaper är dock inte det problem inom hemtjänst och äldreomsorg som är viktigast att få bukt med. Vi behöver sätta till mer resurser för att förbättra villkoren för de som arbetar inom hemtjänst och äldreomsorg.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4d8ae8ceef34c96d87634096ffd4c24a",
+        "questionType": "PROPOSITION",
+        "reasoning": "En bostad är en rättighet och inget som bara ska finnas tillgängligt för de med mest pengar på banken. Fler hyresrätter ger också en större flexibilitet och valfrihet för invånarna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "394c252d3aa29607320cf3d3855d6bc4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här behöver vi lära oss av Lomma som tagit tillbaka äldreomsorgen i offentlig regi. Det talas ofta om att privata företag är mer effektiva än offentligt ägda motsvarigheter, men i verkligheten handlar det ofta om försämrade villkor för anställda och vårdtagare - det är så man sparar pengar och skapar vinst till sina ägare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "86769d04972879e52b2524e6f0e86cbb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra sätt att för kommunen att hjälpa till i omställningen till grön energi samtidigt som det kan vara en bra för kommunen i ett längre perspektiv. Elbilar utgör en allt större del av bilflottan och folk kommer i större utsträckning förvänta sig den typen av infrastruktur.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a588eda088df56f479602328ea9b685c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helst vill vi ha en värld utan behov av att ta emot flyktingar, men som verkligheten ser ut är det många som behöver skydd. Vi värnar om asylrätten och vill att vi investerar brett i samhället och varandra för att bygga ett starkt och inkluderande samhälle för alla.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "154a09c7fa67e1ac6f384944de044dff",
+        "questionType": "RANGE",
+        "reasoning": "Alla tjänar på en mer jämlik skola och företagsskolorna leder till att klyftorna ökar. Vi vill inte att barn delas upp i bra och mindre bra skolor. Vi vill att alla våra skolor ska vara bra. Idag får företagsskolor samma ersättning per elev som den kommunala skolan, trots att deras uppdrag är mycket mer begränsat. Våra skattepengar ska inte gå till vinster, de ska gå till våra barns utbildning!",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "34d723d302c042d4f7b4d046d3c62726",
+        "questionType": "RANGE",
+        "reasoning": "Ett starkt kulturliv är oerhört viktigt för ett levande samhälle. Många av våra kulturella behov som invånare tillgodoses av våra större grannkommuner, men vi vill se att mer händer lokalt.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "002e677c59304804cb62493b752a98e5",
+        "questionType": "RANGE",
+        "reasoning": "En låg kommunalskatt har länge varit ett självändamål i Staffanstorp, men det är viktigt att komma ihåg att man får det samhälle man betalar för. Vill vi ha ett starkt samhälle som klarar de utmaningar som ligger framför oss och därför behöver vi investera mer i bl.a. våra skolor.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "14bb7035d06625d5ea0a625208e96cfe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2326",
+          "2323",
+          "2325"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D;D;A;D!;C;D!;A;C;A;0/5!;4/5;4/5;[2326,2323,2325]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Större satsning på skolan",
+        "description": "Alla barn ska få hjälp i skolan vid behov. Det ska finnas fler behöriga lärare, fler elevassistenter, skolkuratorer och skolsköterskor. Vi vill också se mindre klasser i skolan och förskolan."
+      },
+      {
+        "category": "Flera fritidsgårdar med  fritidslärae .Aktivitethus tlli Hjärup ",
+        "description": "Vi måste satsa barnen och ungdomar .Flera fritidsgårdar med fritidslärare \r\nAktivitetshus i Hjärup som kan alla i Hjärup har tillgång barn/ ungdomar ,vuxna men även till äldre också .Anställa ungdoms coacher ."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Staffanstorp",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-staffanstorp"
+  }
+]

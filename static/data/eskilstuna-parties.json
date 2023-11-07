@@ -1,0 +1,1340 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "278",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eskilstuna flygplats blir sannolikt aldrig en storskalig kommersiell flygplats, men med tanke på det förändrade säkerhetspolitiska läget finns det ingen anledning att just nu fatta ett oåterkalleligt nedläggningsbeslut.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser gärna fler aktiviteter i stadskärnan, men föredrar en mer mobil scenlösning. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag står många branscher utan arbetskraft samtidigt som arbetslösheten är hög. Vi vill därför att kopplingen mellan studier och arbetsmarknad blir bättre, oavsett om du läser ett teoretiskt eller praktiskt program. Yrkesprogrammen ska vara av hög kvalitet och utformas tillsammans med företagen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eskilstunas äldreomsorg ska hålla hög kvalitet och alla ska kunna välja och påverka sin omsorg. Det är viktigt att våra äldre känner trygghet i sin tillvaro och får den vård och omsorg de behöver och har rätt till, oavsett om det är hemma med hemtjänst, på trygghetsboende eller på vård- och omsorgsboende och oavsett aktör. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör alltid vara aktsamma vid försäljning av kommunala hyreslägenheter, men det finns ingen anledning att helt sätta stopp för dessa. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag bör inte konkurrera med det privata näringslivet, men vi ser ingen anledning till avveckling av fungerande befintliga verksamheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdanställda drar ett oerhört tungt lass på frontlinjen, men det är viktigare med en hållbar arbetsmiljö än förkortad arbetstid. Vi vill till exempel ha max 25 medarbetare per chef inom äldreomsorgen så att alla har tillgång till stöd från närvarande chefer. Digitalisering och välfärdsteknik har också stor potential att skapa både en bättre vård och omsorg för patienten och avlasta de anställda. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nödvändiga kunskaper i svenska språket är viktigt för att vården ska ske på ett tryggt och säkert sätt. Samtidigt är äldreomsorgen en viktig väg in på arbetsmarknaden för många utrikes födda, inte minst kvinnor, så språkkravet bör i första hand gälla den personal som arbetar nära de äldre för att inte hindra nyrekryteringen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha fler laddstolpar i kommunen, men de bör i första hand sättas upp av det privata näringslivet. Däremot ska kommunen se till att det finns infrastruktur för det. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, ansvaret för att ta emot nyanlända flyktingar bör fördelas solidariskt. Däremot är det viktigt att fördelningen vilar på korrekta och rättvisa grunder. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Fördelningen i sig är oviktig, vi ska ställa synnerligen höga och tydliga krav på alla skolhuvudmän och våra gemensamma skattepengar ska gå till seriösa och långsiktiga aktörer som bedriver utbildning utifrån skolans kunskaps- och demokratiuppdrag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser ingen resursökning men gärna en omfördelning, där kulturutbudet i skolan utökas, i synnerhet på landsbygdsskolorna, och att satsningar sker på ungdomskultur och ungdomars eget skapande samt att kulturutbudet för äldre breddas. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Eskilstuna ligger idag på en låg nivå i förhållande till många andra kommuner och vi bör arbeta för att bibehålla denna. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "91",
+          "93",
+          "87"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "81",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D!;D!;B;C;B;C;B;B;2/5;2/5;2/5;[91,93,87]!;[79,81,85]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Eskilstunas bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, vi tänker inte medverka till främlingsfientlighet i svensk politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla barn och unga ska få förutsättningar att lyckas",
+        "description": "Barn och unga har rätt till trygga och goda uppväxtvillkor. En bra skolgång och meningsfull fritid ger våra barn kompetens och frihet att själva välja väg i livet. Genom tidigt agerande och samordnade insatser riktade mot såväl barnen själva som deras föräldrar kan eventuella svårigheter rättas till innan de växer till problem. Fler unga ska få hjälp i tid."
+      },
+      {
+        "category": "Hela Eskilstuna ska leva",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. Därför måste det vara lätt att bygga bostäder överallt. Pålitligt bredband, kollektiva färdmedel och en bredd av olika servicealternativ ska också finnas tillgängligt i hela kommunen. Och det ska vara lika enkelt att driva företag på landsbygden som i tätorten och i logistikparken."
+      },
+      {
+        "category": "Företagen ska blomstra och det ska finnas jobb åt alla",
+        "description": "Vi vill att Eskilstuna ska vara landets bästa kommun att starta och driva företag i, utan onödigt regelkrångel. Det ska även vara enkelt att få ett jobb, både för den som är ny på arbetsmarknaden och för den som har arbetat ett helt liv. Fler anställningsmöjligheter i framför allt växande småföretag är avgörande för att förbättra integrationen och ge flera unga ett arbete."
+      }
+    ],
+    "motivateVote": "Vi vill att hela Eskilstuna ska leva. Det ska vara möjligt att bo, arbeta och driva företag hållbart i hela kommunen och alla ska givetvis känna sig välkomna och inkluderade. Vi vill att våra barn och unga ska ha tillgång till en bra skolgång och en meningsfull fritid fylld av goda förebilder. I vårt Eskilstuna är jämställdheten hög, gemenskapen stark och tryggheten stor. ",
+    "name": "Centerpartiet Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-eskilstuna"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "279",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att en liten lokal flygplats främjar näringsliv och fritiden för våra medborgare men det kräver en god ekonomi och ett gott samarbete med näringslivet i Kjula, vi kan inte se flygplatsen gå med stor förlust varje år på skattebetalarnas pengar.”",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att främja kulturlivet och den sociala samvaron i det offentliga rummet är värdefullt men kräver stor respekt och trygghet för att kunna användas som det är tänkt, dessutom finns där redan en scen och vi behöver hålla hårt i skattepengarna för att lösa de mest grundläggande behoven först.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska främst erbjuda gymnasiala grundutbildningar, därefter finns fler aktörer som kan komplettera med andra utbildningar som främst ska matchas mot arbetssökandes kompetens för att på så sätt få ner arbetslösheten och erbjuda utbildningar utifrån den enskildes behov.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de som vet och vill välja själv är det bra och för övriga ska förtroendet för att kommunens olika valmöjligheter vara högt. man ska kunna lita på, oavsett om man väljer själv eller inte, att kommunen tillhandahåller hemtjänst av god kvalitet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsbolaget måste gå bra och ha en stadig ekonomi, ibland kan de behöva säljas för att få in medel till nybyggnationer. Andra utvägar ska finnas som tex förhandlingar med privata bostadsaktörer samt utbilda och hjälpa människor till en egen bostad genom att kunna sköta och ha ett eget kontrakt på sin bostad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen behöver finnas som en grundtrygghet för sin kommun för kunna erbjuda bostad till de som allra mest behöver, men i grunden får de inte konkurrera med det lokala näringslivet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den stora klimatomställning som behöver göras kommer genomföras främst genom regeringspolitik. Därför bör staten i första hand finansiera laddstolpar. Kommunens uppdrag ska vara att upplåta mark för dem och ge begränsad finansiering.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristdemokraterna vill prioritera nyanlända som Eskilstuna kommun redan har tagit emot. För att ge dem en ärlig chans att komma in i samhället och bygga sin framtid hellre än att ta emot flera nya nyanlända.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker inte verksamhetsformen är det viktigaste, utan hur bra kvalitet skolorna har i sin verksamhet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "\r\n",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": "-Kommunala ordningsvakter \r\n-Återinföra fältarbetarna.\r\n-Följa upp barn i skolan.\r\n",
+        "value": [
+          "89",
+          "93",
+          "87"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "81",
+          "83",
+          "78"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;C;C!;D!;A;C;A;D!;B;C!;2/5!;2/5;1/5!;[89,93,87]!;[81,83,78]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja, Sverige är bland världens största biståndsgivare. Vi vill se en större kontroll och uppföljning. Vi har full respekt för de insatser som Sverige gör ute i världen för att bekämpa fattigdom. Varje biståndsöre måste bidra till en bättre och tryggare värld.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kristdemokraterna i Eskilstuna arbetar för ett maktskifte efter valet i Eskilstuna och kommer att förhandla med alla för det.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi tar ansvar för Eskilstuna, vi låter valresultatet avgöra.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tryggheten",
+        "description": "KD är redo att arbeta för:\r\n-Ökad polissynlighet med permanent närvaro i utsatta områden i form av fysiska eller mobila polisstationer.\r\n-Införa kommunala ordningsvakter\r\n-Återinföra socialtjänstens fältarbetare med tydliga och konkreta arbetsuppgifter.\r\n-Rensa bort gängens drogcentraler och källarförråd och skydda invånarna från gängvåld och maffiakultur."
+      },
+      {
+        "category": "Familjepolitiken",
+        "description": "Familjens ansvar är avgörande för att förebygga kriminella gäng, därför vill vi:\r\n- Införa familjerådgivning med hembesök, befogenheter för myndigheter att ingripa vid behov.\r\n-Följa barnen ända från förskolan och framåt.\r\n-Förbättra kommunikation, skola, föräldrar, socialen och polisen.\r\n-Satsa på mer idrott för bra förebyggande arbete."
+      },
+      {
+        "category": "Hjärtlandet (Landsbygden)",
+        "description": "-Sänka skatten och minska biodrivmedel för att sänka bränslepriserna.\r\n-Bevara jordbruken och den gröna näringen för att öka självförsörjningsgraden.\r\n-Polisen måste få möjlighet att stoppa stöldligorna samt skärpning av straffen för inbrott.\r\n-Fler poliser på landsbygden för att minska utryckningstiden.\r\n-Ökat vägunderhåll.\r\n-Öka tillgängligheten av vård ex ambulerande vårdcentraler."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna har kraftfulla politiska förslag på hur hela Eskilstuna och Sverige ska fungera oavsett vart du bor i landet! Vi sätter människovärdet främst och vill prioritera det som är nödvändigt för att bygga ett samhälle som håller ihop. Vården, äldrefrågorna och tryggheten är våra prioriterade frågor!",
+    "name": "Kristdemokraterna Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-eskilstuna"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "280",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte driva flygplatsen, det ska näringslivet göra. Om inte näringslivet vill driva den vill Liberalerna använda marken till att bygga ut logistikparken för att skapa fler jobb.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har länge drivit frågan om en levande stadspark för att få en mer attraktiv centrumkärna. Med fler människor i rörelse får vi en ökad trygghet i centrum. Vi vill även ha glasskiosker, restauranger och barer i stadsparken och på Strömsholmen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att rusta kommunens elever med rätt kompetenser för de bristyrken som finns i Eskilstuna och närliggande städer. Många företag söker efter arbetskraft, men hittar inte arbetssökande med rätt utbildning. Därför ska kommunen erbjuda fler utbildningar inom bristyrken.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att varje människa ska kunna påverka sin vardag, oavsett ålder. Kanske är det allra viktigast att få göra det när du inte längre klarar av vardagen själv. Att kunna påverka vart du bor eller vem som släpps in i ditt hem för att hjälpa till med hushållssysslor och personlig hygien ska vara en självklarhet i vårt Eskilstuna. Vi har lagt det här förslaget men S, M och C har röstat emot",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att det kommunala bostadsbolaget ska bli hur stort som helst, utan det är viktigt med en mångfald av olika hyresvärdar. Vi vill att det kommunala bostadsbolaget ska bygga fler lägenheter, men för att det inte ska leda till stora hyreshöjningar i nyproduktion vill vi att bolaget säljer en del av de befintliga lägenheterna för att kunna finansiera byggandet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att kommunen ska leka företagare och konkurrera med det privata näringslivet. Kommunen ska fokusera på kärnverksamhet som är skola, vård och omsorg. Ett bra exempel är försäljningen av Parken Zoo som under lång tid gick med mångmiljonförlust där kommunen fick täcka upp med skattebetalarnas pengar. Nu går Parken Zoo med vinst efter att en privat aktör har tagit över.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag är inte något som politiker bör fatta beslut om, utan är en förhandling mellan fackförbund och arbetsgivare. Det är viktigt att kunna finansiera en sådan satsning och ställa den mot fler händer i vården. Liberalerna vill hellre se en ökad bemanning inom äldreomsorgen. Då slipper många inom omsorgen den stress det innebär att vara underbemannad.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna har lagt förslag om språkkrav för att jobba inom omsorgen i Eskilstuna. För många äldre är det en trygghet att kunna kommunicera med någon som behärskar sitt eget språk. Insatserna inom äldreomsorgen och LSS kan många gånger vara komplexa och innebära att en god kommunikation måste föras för att säkerställa patientsäkerheten, till exempel vid medicinering och dokumentation. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den budget som Liberalerna har lagt som förslag har vi valt att fyrdubbla satsningen på laddstolpar i Eskilstuna. Vårt samhälle elektrifieras allt mer och fler väljer att köpa elbilar. Därför är det viktigt att Eskilstuna är med i den gröna omställningen och satsar på laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha en jämn fördelning av nyanlända flyktingar till Sveriges kommuner. Därför är det viktigt att kommuner som innan inte tagit emot flyktingar ska ta sitt ansvar. För att få en bra integration, få fler i arbete och ge en bra start för de nyanlända ska kommuner likt Eskilstuna, som historiskt tagit emot många nyanlända, inte behöva ta emot lika många de kommande åren.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna värnar det fria skolvalet och vill se en ökad mångfald av olika skolaktörer - i Eskilstuna, Torshälla och på landsbygden. Här spelar de fristående aktörerna en viktig roll. Vi vill se ett bättre samarbete mellan den kommunala och de fristående skolorna om hur vi gemensamt kan förbättra skolresultaten i Eskilstuna. Däremot säger vi nej till nya religiösa friskolor.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna vill värna det offentliga stödet till kulturen. Samtidigt är det viktigt att underlätta för fler privata aktörer att bidra till att kulturen får bättre villkor och mer resurser.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna vill värna den hårt arbetande medelklassen. På längre sikt vill vi sänka Eskilstunas kommunalskatt så den ligger på samma nivå med övriga kommuner i vår storlek. Idag är skatten i Eskilstuna alldeles för hög.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "89",
+          "93",
+          "87"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "83",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D;D!;A;D;B;D!;D;C;4/5!;2/5;0/5!;[89,93,87]!;[79,83,85]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalerna söker ett så stort stöd som möjligt för vår politik och att ingå i ett samarbete som kan genomföra så mycket liberal politik som möjligt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har inga förbud mot andra partier, men vi ligger längst ifrån V och SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk lärarnas befogenheter i klassrum och säkra ordning och studiero",
+        "description": "Med mindre stök i klassrummen, mår både elever och lärare bättre. Tydliga ordningsregler, ordning och reda, tidigt\r\nstöd, fler speciallärare och små undervisningsgrupper ska finnas för dem som\r\nbehöver det. Socialtjänsten ska samarbeta med skolorna så att utsatta barn\r\nklarar sin skolgång."
+      },
+      {
+        "category": "Inför valfrihet i äldreomsorg och hemtjänst (LOV)",
+        "description": "Du kan välja tandläkare, vårdcentral och skola – men när du blir äldre ska du tydligen inte få välja vem som du får hjälp av i det egna hemmet och vem som går över tröskeln till ditt hem. För Liberalerna är det en självklarhet att de som är i behov av äldreomsorg och hemtjänst ska ha rätten att välja utförare."
+      },
+      {
+        "category": "Trygghetsteam på skolor som jobbar förebyggande mot gängkriminalitet",
+        "description": "Unga som riskerar att hamna i kriminalitet ska fångas upp tidigt av lärare, kuratorer, fritidsledare och fältarbetande socialsekreterare. Liberalerna satsar därför både på förebyggande åtgärder och åtgärder här och nu. Vi föreslår fler lärare och socialpedagoger ute på skolorna samt mobila trygghetsteam bestående av socialsekreterare, väktare och fritidsledare."
+      }
+    ],
+    "motivateVote": "Vi liberaler värnar om den enskilda människans frihet. Politiken ska riva hinder och skapa möjligheter, inte bestämma hur vi ska leva våra liv. Vi ska skapa en starkare kommun där människor arbetar och känner framtidstro genom att barnen går i bra skolor med utbildade lärare, göra Eskilstuna till en trygg stad och där äldreomsorgen präglas av kvalité och valfrihet.",
+    "name": "Liberalerna Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-eskilstuna"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "281",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att de partier som nu styr Eskilstuna länge drivit på för en kommersiell flygplats i Kjula är klimatmässigt vansinne. Flyg är det mest klimatbelastande färdmedlet och ser på kort sikt ut att bli svårast att ställa om till hållbara drivmedel. Det är fel att lägga kommunala skattepengar på en flygplats, vi ser hellre att området används för en solcellspark. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "En ny scen i Stadsparken skulle främja kulturlivet i Eskilstuna och bidra till att skapa en levande stad, särskilt under sommaren. Miljöpartiet värnar alltid kulturen och ett levande centrum.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår politik ska ge alla människor möjlighet att efter sina egna förutsättningar kunna utbilda, fortbilda och omskola sig i relation till arbetsmarknadens efterfrågan. Vi menar att till exempel yrkesutbildningar är särskilt viktiga att satsa på eftersom dessa i stor utsträckning leder till arbete efter genomförd utbildning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet önskar se olika aktörer som erbjuder olika typer av service, exempelvis specialkompetens inom demensvård eller funktionsvariationer eller service på olika språk. För de seniorer som vill bo kvar hemma ska vi ha en fungerande hemtjänst i vår kommun. Vi vill att fler kommer in och erbjuder något annorlunda, till exempel service på olika språk eller annan specialkompetens som är nischade",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna erbjuda bostäder anser vi är ett viktigt kommunalt uppdrag. Alla behöver någon stans att bo. Genom att äga och driva ett kommunalt bostadsbolag kan vi dessutom bidra till att utveckla Eskilstuna till en socialt och miljömässigt hållbar stad",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inget konstigt med att driva företag i offentlig regi, tvärtom anser vi att det är positivt att vissa viktiga samhällsfunktioner ägs gemensamt. Det skapar nödvändiga förutsättningar för hållbar omställning.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se ett mer jämställt arbetsliv. Ett viktigt steg på vägen är bättre arbetsvillkor och arbetsmiljö i kvinnodominerade yrken inom äldrevård och barnomsorg, där många sliter hårt. Här vill vi se att arbetstidsförkortning stegvis införs där det är lämpligt genom 6 timmars arbetsdag",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att i rekryteringsprocessen bedöma sökandes kunskaper i det svenska språket. Men att införa språktest vid alla nyanställningar skulle innebära en indirekt diskriminering och utesluta en del av de sökande. Forskning om språkinlärning visar att förutsättningarna varierar mellan individer och grupper och att test därför skulle verka diskriminerande.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill vika mer av gatuutrymmet åt mer yt- och energieffektiva färdmedel som gång, cykel och kollektivtrafik, men ser också att bilen kommer vara fortsatt nödvändig. Här är det viktigt med så hållbar energi som möjligt. Vi vill öka tillgången på laddstolpar på mark som kommunen har rådighet över, både för lätt och tung trafik och både vid arbetsplatser, trafiknoder, bostadsområden mm.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tidigare flyktingmottagande har visat att ofta rika moderatledda kommuner som Danderyd smiter undan sitt ansvar och hjälper inte till med mottagandet. Det ska vara rättvist över landet, alla kommuner behöver ta ett ansvar här och därför behöver vi en centralt styrd fördelning av flyktingmottagandet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet värnar om en mångfald av aktörer och pedagogiska inriktningar i skolan. Friskolor och det fria skolvalet utgör en viktig del i det. Alla elever och föräldrar ska ha möjlighet att välja den skola som passar dem bäst. Idag drivs många skolor av stora aktiebolag vars syfte är vinst. Vi vill att skattepengar som avsatts för skolan skall gå till skolan.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen ger upplevelser och stärker bildningen. Den kan utmana etablerade föreställningar och hjälpa kritiskt tänkande. Alla ska ha möjlighet att ta del av kultur. Kulturen har också potential som integrationsverktyg. Vi vill därför bidra till att kulturen når fler och bland annat se till att Kulturskolan får de resurser de behöver för att skapa positiva möten med uppsökande verksamhet. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inget egetvärde i att höja skatten, vi ser också att det behöver satsas mer på välfärden. Däremot föredrar vi att ha mer skatt på miljöförstörande verksamheter än höjd skatt på arbete. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": "Alla barn i Eskilstuna ska få en trygg uppväxt med möjligheter och en framtid att längta till. För att det ska bli möjligt behöver vi jobba i två parallella spår. För att få stopp på skjutningar och otrygghet måste vi dels försvåra för de kriminella, dels fokusera på sådant som bygger motståndskraft mot våldet, med bred samverkan mellan polis, förskola, skola, kommun, socialtjänst mfl.",
+        "value": [
+          "93",
+          "87",
+          "88"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "82",
+          "80"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;C;D!;A;D!;A;D!;A;1/5;4/5!;2/5;[93,87,88]!;[79,82,80]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Principiellt är vi öppna för att samarbeta med alla partier vars politik och ideologi inte går helt på tvärs mot vår. I praktiken innebär det att ett samarbete med S, C och V ligger närmast till hands. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "3.\tSamarbete med SD är uteslutet och med M och KD föga sannolikt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Badbar å och fria vandringsvägar",
+        "description": "Ån är en källa till glädje för många Eskilstunabor, men idag går det tyvärr inte att ta sig ett dopp i centrala staden. Det vill vi ändra på och utveckla å-rummet för rekreation.  Vi värnar också om ett rikt djur- och växtliv och vill ge fisk som ål och asp möjlighet att komma tillbaka till Eskilstunaån genom att skapa fria vandringsvägar."
+      },
+      {
+        "category": "Satsa på fler gröna jobb och utveckla Eskilstuna till Sveriges energihuvudstad",
+        "description": "Vi behöver ställa om ett hållbart energisystem. Eskilstuna har goda förutsättningar för att bli en spjutspets i omställningen, med Energy evolution center, ett universitet, ett kommunalt energibolag, och två myndigheter med energi i fokus. Det här vill vi ta vara på och skapa Sveriges energihuvudstad - i Eskilstuna och driva på för en grön omställning som skapar innovation."
+      },
+      {
+        "category": "Sätt stopp för våld och skjutningar",
+        "description": "Alla barn i Eskilstuna ska få en trygg uppväxt med möjligheter och en framtid att längta till. Förebyggande insatser skapar motståndskraft mot våldet, därför vill vi bredda de satsningar som finns för ökad trygghet idag (Trygga Unga, 13-20 år), till att omfatta även förskolan och familjecentraler och satsa resurser på både Trygga Barn (0-12 år) och fler familjevägledare."
+      }
+    ],
+    "motivateVote": "1.\tEn röst på Miljöpartiet de gröna i Eskilstuna är en röst på ett nytt grönt folkhem. Vi vill ställa om till ett långsiktigt hållbart och miljövänligt samhälle och satsa stort på en förbättrad välfärd, där alla ska med. Vi vill öka takten på omställningen genom förnybar energi, skydda vår värdefulla natur, satsa på skolan, bättre arbetsvillkor och krafttag mot våld och kriminalitet. ",
+    "name": "Miljöpartiet Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-eskilstuna"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "282",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om varken Försvarsmakten eller regionen vill ha flygplatsen för sina ändamål, bör marken användas till etablering av företag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens gymnasier erbjuder redan idag flera utbildningar inom bristyrken och vi ser i dagsläget inte att det är aktuellt med andra utbildningar på gymnasienivå. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är mycket viktigt och något som ska gälla genom hela livets olika skeenden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förstå och kunna tala tillräckligt bra svenska är väldigt viktigt här då personal måste kunna kommunicera med alla som har hemtjänst. Extra viktigt då det många gånger handlar om att kunna hantera mediciner på rätt sätt för den enskilda individen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det tillhör inte den kommunala kärnverksamheten och något som det privata näringslivet kan och gör bättre. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner har olika förutsättningar för att kunna ta emot olika många nyanlända flyktingar. Det handlar om bostäder, arbetstillfällen och andra resurser för att kunna hjälpa och stötta på bästa sätt. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Ett bra kulturutbud är viktigt för vår stads attraktion, turistnäring och människors välmående. Dock får det inte rusa iväg i för stora kostnader då prioritering ändå är på kommunens kärnverksamheter; skola, vård, omsorg. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Skattetrycket är för högt. Vi vill sänka skatten för att människor ska få mer kvar i plånboken för att få större utrymme att själva bestämma vad de ska lägga sina egna intjänade pengar på. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "89",
+          "91",
+          "87"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "81",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;A;D;A;D;B;D;A;D;2/5;2/5;0/5;[89,91,87];[79,81,85]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, inte i någon större fråga. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det får valresultatet utvisa. Vi spekulerar ingenting i förväg.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet och Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Vi måste på riktigt få bort otryggheten. Vi måste arbeta både kort- och långsiktigt. Kortsiktigt handlar det mycket om fler kameror på fler platser, använda LVU-lagstiftningen så som den är skriven\r\n,fler kommunala ordningsvakter och tidigare kontakt mellan skola och polis. Långsiktigt handlar det om massivt och aktivt förebyggande arbete i samverkan med polis, skola och civilsamhället."
+      },
+      {
+        "category": "Jobben",
+        "description": "Fler måste bli självförsörjande. Att ha ett arbete att gå till är positivt både för den enskilda individen men också för samhället i stort då man är med och bidrar till välfärden. Näringslivet är också väldigt viktigt för jobben och utvecklingen av Eskilstuna."
+      },
+      {
+        "category": "Utbildning",
+        "description": "Utbildning är framför allt avgörande för varje elevs möjlighet att skapa sig ett gott liv. Det kräver fokus på mer kunskap i skolan, och lugn och ro i klassrummen. Lärare måste få vara lärare och alla elever ska känna sig trygga i skolan. Vi tror att både barnen och deras lärande gynnas av föräldrar som är närvarande och engagerade, och där \r\nömsesidiga förväntningar mellan hem och skola delges."
+      }
+    ],
+    "motivateVote": "För att få ökad valfrihet genom livets alla skeenden och ökad trygghet i hela Eskilstuna . Vi prioriterar resurser till kärnverksamheterna, istället för det som det privata näringslivet kan och gör bättre, t ex. äga vindkraftverk. För att vi skapar så goda förutsättningar som möjligt för ett växande näringsliv och \r\nnågra konkreta förbättringsområden handlar om förenklade tillståndsprocesser. ",
+    "name": "Moderaterna Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-eskilstuna"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "283",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Just nu är läget oklart. Som flygplats för allmänhet och affärs/turistresor finns inga möjligheter inom överskådlig tid. Men flygplatsen har visat sig vara av stor strategisk vikt för Sveriges försvar, igen. Det den byggdes för från början. Att lägga ner kan betyda att skada Sveriges försvarsförmåga med stor sannolikhet. Arbete pågår. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre är att ha flyttbara scener där behov finns för stunden. Risken är att fasta anordningar blir oanvända långa tider. Picnic i Parken är ett exempel på vad som funkar utan en fast scen.z",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Det är så vi jobbar idag. Men det styrs inte enbart av kommunen utan staten påverkar detta likväl. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "LOV har visat sig öppna för oseriösa aktörer, organiserad kriminell verksamhet som ätit sig in och osäkerhet kring kvalitet. Bättre är att jobba med upphandling av aktörer och att öka valfriheten inom den kommunala verksamheten. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inget självändamål med att sälja dessa lägenheter. Och allmännyttan ska vara stor och ha bra bostäder människor har råd med. Men för att bygga fler bostäder åt fler och hålla hyror nere på dessa och på det som renoveras, för det måste också göras, så kan mindre försäljning ibland behövas för att betala för att hålla nere hyrorna på det nya och renoverade. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte konkurrera med privat verksamhet om det inte är så att det ligger ett stort och viktigt demokratiskt intresse för medborgarna i att driva ett bolag för deras behov. Som att kunna ha inflytande eller hålla ner taxor och avgifter. Det gäller att vara vaksam så att bolag ägnar sig åt rätt saker. I Eskilstuna finns en bra vaksamhet och balans på detta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Verkligheten är den att det är svårt att få tag i tillräckligt med duktiga medarbetare idag. Så dem vi har behövs i verksamheten. Därför är det viktigare att säkra att vi inte har delade turer, har önskad sysselsättningsgrad, en god löneutveckling, bra chefer och tillräckligt med kollegor så att man orkar med sitt arbete. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja. Man ska inte kunna få anställning om man inte klarar språket såväl som inte har andra kunskaper. En person som ändå är lämplig ska få kunna få stöd och utbildning. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inte det formella ansvaret idag och äger inte all mark och alla fastigheter. Så det är svårt. För alla kommuner. Men kommunen ska ta ansvar där den har rådighet samt samarbeta med privata företag och bostadsrättföreningar och fastighetsbolag. Det är ett gemensamt ansvar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både ja och nej. Vi vet själva bäst i kommunen hur stor segregationen är, vad arbetsmarknaden kräver och vad vi klarar av utifrån våra resurser. Att staten tvingar en ojämn fördelning mellan kommuner och att en del kommuner smiter från ansvar är ett problem. Om staten tog ansvar för flyktingen tills den försörjer sig och familjen själv vore problemet mindre. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inte stänga några befintliga skolor, men vill ha ett stopp för nyetableringar av aktiebolagsskolor i Eskilstuna. Pengar som skattebetalarna lägger på skolan ska gå till elever och lärare. Inte vinster i ett annat land eller till nån som bor på annan ort. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Kultur får människor att må bra, skapar jobb och trygghet. Eskilstuna konsumerar mindre kommun än andra kommuner. Fler företag inom sektorn behövs, men då kan kommunen också behöva satsa mer. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Helst skulle vi behöva sänka skatten lokalt något och höja nationellt. Då får de med lägst inkomster sänkt skatt och de med högst lite högre. Men vi kan inte sänka om det riskerar att minska resurser till skola, äldreomsorg och sociala förebyggande insatser.  Kan vi undvika att höja är det också bra jobbat. Viktigt är att vara varsam med och prioritera varje skattekrona noga. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "89",
+          "87",
+          "90"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "84",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;C;C;B;C;B;C;2/5;3/5;1/5;[89,87,90];[79,84,85]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det gör det säkert. Vi söker mandat från eskilstunaborna, för att företräda eskilstunabornas intressen. Om det kolliderar med vad riksdagen eller partierna tycker där, som har hela landet som fokus, kommer vi alltid att ta Eskilstunas sida. Alltså förekommer det. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val som eget parti. Men det samarbete vi nu ingår i har fungerat mycket väl och har tjänat Eskilstuna väl. Vi är ett samarbetsparti till naturen och vill ta ansvar för att bilda det bästa samarbetet för Eskilstuna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi pratar med, har samsyn i enskilda frågor med alla. Samarbeten är mer krävande",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Segregationen ska brytas och samhällsgemenskapen öka",
+        "description": "Barn ska inte växa upp i stadsdelar där inga vuxna går till jobbet – därför ska aktivitetsplikt för personer som har försörjningsstöd genomföras. Trångboddhet ska motverkas och segregationen ska motverkas – krav på annan inkomst än försörjningsstöd för hyreskontrakt i vissa stadsdelar och begränsningar i antal boende/lägenhet är sådana metoder. Samarbete viktigt med såväl K-fast som privata värdar"
+      },
+      {
+        "category": "Brottsligheten ska pressas tillbaka och samhället tidigare gripa in",
+        "description": "Socialtjänsten ska agera ingripande och tillsammans med polis kunna intervenera i familjer med individer som misstänks ägna sig åt brottslighet. Det brottsförebyggande arbetet ska utökas med vår satsning Trygga Unga där kommunens samarbete mellan socialtjänst, polis och skolor står i centrum för att fånga upp ungdomar. Antalet ordningsvakter ska bli fler och kamerabevakningen ska utökas."
+      },
+      {
+        "category": "Trafiksituationen ska lösas och parkeringarna bli fler. ",
+        "description": "Fler gator ska öppnas upp för biltrafik och antalet parkeringar i stadskärnan ska bli fler, t. ex. längs Nygatan. Avgiften för parkering ska stimulera ett levande centrum och underlätta betalning för parkering. Vi ska åtgärda trafikproblemen med t. ex. cirkulationsplatser vid Djurgårdsskolan och Gap Sundin och sänka hastigheten där det behövs, t. ex. vid Lagersbergsskolan."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna kommer alltid att sätta Eskilstunas intressen främst. Aldrig tveka att säga som det är och göra vad som krävs. Vi är ett parti med kunniga och engagerade företrädare. Partiet har en politik för helheten och inom alla områden, vilket är viktigt. Socialdemokraterna kan samarbeta med många partier, leda i svåra som goda tider och företräder mångas perspektiv. ",
+    "name": "Socialdemokraterna Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-eskilstuna"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "284",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flygplatsen behövs för att kunna utveckla logistikparken samt så kan det komma finnas möjlighet att bygga ut flygplatsen i framtiden. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har köpt in en mobil scen som kommer kunna ställas dit vid behov. Vi anser att det räcker tills vidare. Dessutom så användes den gamla och numera rivna fasta scenen inte alls mycket sista åren den fanns kvar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler utbildningar som leder till riktiga jobb. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förutsatt att de aktörer som finns är seriösa och levererar god kvalité. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inget självändamål att kommunen ska äga ett stort lägenhetsbestånd. Vi är öppna för att sälja av ytterligare hyreslägenheter som står inför stort renoveringsbehov till nya ägare som kan ge löften om fortsatta rimliga hyror.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte en kommunal angelägenhet att bedriva verksamhet som konkurrerar med det privata. Kommunen ska ha fokus på kärnverksamheterna. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det råder redan brist på personal inom äldreomsorgen och att minska arbetstiden kommer leda till ännu större brist. Men vi är öppna och lyhörda gentemot modern forskning på området för att hitta en bra balans mellan arbetsvillkor och tillräcklig bemanning.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet för oss. Borde ha införts för längesen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att fler laddstolpar kommer till. Däremot behöver kommunen nödvändigtvis inte äga alla. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen vet bättre än staten kring hur förutsättningarna att ta emot nyanlända ser ut just i Eskilstuna. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Privata alternativ är ett bra komplement till den kommunala. Vår ambition är att förbättra den kommunala och välkomna de privata och låta det egna skolvalet avgöra utvecklingen. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Skattetrycket är alldeles för högt i Eskilstuna. Det måste löna sig att arbeta. Därför vill vi sänka skatten ner till jämförbara städer. Exempelvis ner till Västerås nivå. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "89",
+          "91",
+          "86"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "81",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;D;D;B;C;B;D!;C;D!;2/5;2/5;0/5!;[89,91,86];[79,81,85]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vår ambition är att styra tillsammans med Moderaterna och Kristdemokraterna ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna, Vänsterpartiet och Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Uppmuntra fler att våga vittna ",
+        "description": "För att bryta den utbredda tystnadskulturen ska ett massivt arbete dras igång för att uppmuntra fler att våga vittna mot yrkeskriminella. Fokus ska vara de utsatta stadsdelarna. Arbetet ska utformas och genomföras tillsammans med Polis, föreningsliv och näringsliv för ökad effekt."
+      },
+      {
+        "category": "Trygghetsbidrag till föreningslivet ",
+        "description": "Fler föreningar ska genom trygghetsbidraget stimuleras till att ta\r\nett större samhällsansvar för tryggheten genom ökad närvaro i otrygga områden. Det kan vara allt ifrån att arbeta med att fånga upp ungdomar som ligger i riskzonen att hamna i kriminalitet, stärka ungdomar att våga vittna till att arrangera nattvandringar."
+      },
+      {
+        "category": "Återhållsam befolkningsökning",
+        "description": "Vår ambition är att lägga om politiken så att befolkningsutvecklingen ska leda till positiv tillväxt i takt med stadens förmåga att bygga bostäder, möjliggöra utbildningsplatser, arbetstillfällen och gemenskap mellan stadens invånare. Tanken är att nya invånare måste ha en plan om hur de ska kunna försörja sig innan de flyttar hit."
+      }
+    ],
+    "motivateVote": "Vi har viljan och förslagen för att kunna vända utvecklingen och åter kunna skapa en känsla av trygghet. Vi är beredda att ge Eskilstuna ett nytt ledarskap som behövs för en förändring. ",
+    "name": "Sverigedemokraterna Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-eskilstuna"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "285",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "25ca243aa9bfc2bfd65cf96d2e63fba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet anser att flygplatsen ska läggas ner, om försvaret inte vill ta över och bekosta den ska ytan användas till logistikparken där behovet av mark är stort.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "67db64676dcf71cb2a6c7f5c12d0f873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att om vi vill ha en levande stad så måste vi främja kulturlivet i Eskilstuna. En ny scen i stadsparken skulle ge större möjligheter, särskilt under sommartid, att nå fler Eskilstunabor. Det finns ett stort intresse för arrangemang i Stadsparken och en ny scen skulle bli en naturlig mötesplats mellan människor och över generationer.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8bd77a9adb13204b42d96acc4ef3f2a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att den kommunala gymnasieskolan på alla sätt och vis ser till att erbjuda så många möjligheter som möjligt för ungdomar, och det är viktigt att det inom kommunen ständigt görs analyser av hur det ser ut på arbetsmarknaden och kommande bristyrken och matcha upp det för att se till att ungdomar också kommer i jobb snabbare efter avslutad gymnasial utbildning.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "35940c72d8131fd3f9af8caafea21aa2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att den kommunala vården och omsorgen byggs ut i Eskilstuna och att kvaliteten ständigt förbättras och utvecklas för brukarna och att grundbemanningen höjs. Vi anser inte att privata företag eller riskkapitalbolag ska bedriva välfärd då det görs stora vinstuttag.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ba2f3b6595057525f1cc9edf8153ad89",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att kommunala hyreslägenheter ska ägas av kommunen och att det ska förvaltas på ett ansvarsfullt sätt och ses som en stor tillgång för att bygga ut välfärden. Bostad är en rättighet. Vi vill att det byggs fler kommunala hyreslägenheter med rimliga hyror och vi vill att det görs renoveringar i det gamla hyresbeståndet i dialog med de boende och där inte hyrorna chockhöjs.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2b531f38c3ad22a5e077fd4f802fa10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med kommunala bolag som ser till att stärka välfärden tex som Eskilstuna Energi och Miljö.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e94d6ec0485e6aecafceb57784d69488",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att införa 6-timmars arbetsdag inom äldreomsorgen. Vi har lagt motioner om det tidigare i Eskilstuna att införa det som projekt till att börja med och sen utvärdera. Men vi har fått avslag på våra motioner. Vi kommer att fortsätta driva frågan om 6-timmars arbetsdag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "100a674a3995aadc89e375a1cfd5122a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att alla som utbildar sig inom vård och omsorg får träna på svenska språket så mycket som möjligt i den pågående utbildningen samt att det erbjuds extra stöd i att få träna på att konversera svenska språket under tiden man är anställd. Det genomförs redan sådana satsningar inom vård och omsorg i Eskilstuna och det kan behöva utvecklas.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "30d1d4da15091057523d518dd6f5b717",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen tar sitt ansvar i utbyggnaden av laddstolpar för att på så sätt bidra till den gröna omställningen. Redan idag finns flertalet laddstolpar uppsatta i Eskilstuna men vi vill se fler.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ad28ccac493cb3fd2033d6c52ade8530",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att vi som kommun ständigt ska vara en del av vår omvärld. När det händer fruktansvärda förändringar i vår omvärld som tex. krig, naturkatastrofer, demokratier som faller och människor måste fly så ska vi som kommun ta vårt ansvar i att ta emot flyktingar i vår kommun och samarbeta med Länsstyrelsen och hela Sverige på allra bästa sätt.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "684660f4127cf17a5c521ea95ddfe68f",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att skolan inte ska drivas av privata företag, många av dem gör vinst på elever och pengar försvinner ut ur Sverige istället för att gå till att förbättra skolan och till eleverna så att mer skattemedel fördelas för att tillgodose alla barns och ungdomars behov i skolan av kunskap och omsorg. Riskkapitalbolag ska inte få bedriva skola.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "e884e1fdb7d4329dc8becbb7b5359b12",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att det är viktigt att kulturen är en del av välfärden och utvecklingen i Eskilstuna kommun. Det är viktigt att främja de lokala kulturutövarna mera och att musiken, dansen, konsten och alla kultur blir mer integrerat i förskolan och skolan men också i hela i det offentliga rummet i Eskilstuna kommun.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "5755bbcff78e29a9b930cdcc4e39d410",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att kommunalskatten ska användas för att höjas vid behov i kommunen som uppstår och vi inte kan lösa på annat sätt. Om det är så tex att det skulle bli en situation där skolan eller vård och omsorg riskerar att helt underfinansieras då anser vi att vi kan behöva höja kommunalskatten för att det inte ska bli kraftiga försämringar i välfärden. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "4c008dc19bb42e6b086f071e8bad098c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "91",
+          "87",
+          "90"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "4e5d09b365a142729ebcc478d1864b93",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "79",
+          "84",
+          "85"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;A!;D!;A;D!;A;D!;A!;0/5!;4/5!;2/5!;[91,87,90]!;[79,84,85]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej vi har samma uppfattning i Eskilstuna som Vänsterpartiet på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterpartiet vill se en ett rödgrönt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte styra med Sverigedemokraterna. Vi vill ha ett rödgrönt styre.       ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utbildning och jobb",
+        "description": "Vi ser att utbildning från förskola, grundskola, gymnasieskola är grunden för att ge barn och unga en bra uppväxt och framtid, det är stor arbetslöshet i Eskilstuna och jobben kommer att stå i fokus, där krävs insatser från alla håll och vi kan som kommun satsa ännu mer på vuxenutbildning och yrkesutbildningar och jobba mer aktivt i samverkan med AF, Universitetet och Näringslivet."
+      },
+      {
+        "category": "Klimatet",
+        "description": "Klimatfrågan är avgörande för framtiden. Det behövs mer satsningar på att utveckla kollektivtrafiken i Eskilstuna med både biogasbussar och elbussar. Det krävs stora satsningar på förnyelsebar energi som solceller, vindkraft och vattenkraft. Det behövs mer satsningar på att bygga ut cykelbanor och underlätta för att åka kollektivt. Retuna återbruksgalleria är en plats som vi kan utveckla ännu mera"
+      },
+      {
+        "category": "Bostäder",
+        "description": "Bostad är en rättighet. Vi vill bygga ut Allmännyttans hyreslägenheter i Eskilstuna och pressa ner hyrorna så att fler har råd att bo och leva. Att stoppa utförsäljningar av det kommunala bostadsbolagets hyreslägenheter är avgörande. Det har pågått utförsäljningar under flera år i Eskilstuna av bostäder med rimliga hyror. Många människor i Eskilstuna idag har inte råd med hyran."
+      }
+    ],
+    "motivateVote": "Det är dags för Eskilstuna att välja väg. Vår stads utmaningar kräver att politiken tar ett annat ansvar. Vi behöver kraftfulla satsningar som ger hopp inför framtiden. Yrkesutbildningar som gör att fler får sitt första jobb. Ett bostadsbyggande som ger mer rimliga hyror och slopade inkomstkrav. En grön omställning med kraftfulla sänkningar på kollektivtrafiken och utbyggnad av solcellsparker.    ",
+    "name": "Vänsterpartiet Eskilstuna",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-eskilstuna"
+  }
+]

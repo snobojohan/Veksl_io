@@ -1,0 +1,827 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "397",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-gnosjo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "398",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2cfe3e73e9116ad45c92d44b99fea671",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där det är möjligt ska det ske, annars ska det ske så miljövänligt som möjligt ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d089d36fa956c331319cd46f62d763b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi önskar istället utveckla fältverksamhet och nattvandring där det civila samhället och föreningar ska kunna delta",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f51ee279b15be9e8fa4119fe40690302",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att näringslivet ofta är effektiva att driva verksamheter",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "255d06565b65dd57f7c3f09629a14642",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tror att våra verksamheter kan utveckla kosten på ett bra sätt utan att vi ska styra detta",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a7cad1f627c5ebdb3898bd9bedaea3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anser att den enskilde medarbetaren avgör sin arbetstid tillsammans med verksamhetsledning",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a10f8201eca30cf901fc090073672ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "En god dialog mellan medborgare och de politiska partier så att förslag och önskemål kan debatteras demokratiskt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "426ebf73d9a66096093bdb91d434939c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra äldre behöver kunna höra och förstå vad vår personal säger. Samtidigt har vi flera med andra språk på våra boende som behöver tala sitt hemspråk. Så det är viktigt med personal från olika länder i vården",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e08744de61ef01888d96b2e32997c239",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver finnas ett brett utbud av lägenheter med olika priser. Men marknad och kommunala bolag ska klara sköta detta utan att politiken styr. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "77cf7643ce6b25450a44ff86188fd0d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ofta är en privat aktör bra och effektiv. Men kvaliteten måste säkras för våra äldre",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046188c8dd27d86ed7a81f98c24a7606",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en god utveckling av laddinfrastruktur måste olika aktörer tillsammans med kommun och region utveckla detta",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a0c1ae35699fa21c9ba76b3018ce293",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag en stor grupp invandrare som vi behöver hjälpa till ett bra liv i vår kommun. Så en återhållsamhet behövs nu. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e0d81a0ad753425325c01e16f19e0b2a",
+        "questionType": "RANGE",
+        "reasoning": "Finns inte idag några privata aktörer. Skolan sköts bra av kommunen idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d31241f6e99ef459480fcea2590fa16b",
+        "questionType": "RANGE",
+        "reasoning": "Vi lägger idag en stor finansiering på olika kulturer. Men en samlande byggnad för olika kulturer behövs i framtiden i Gnosjö",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "da3033aeb927f5341adffbcb2055bcdb",
+        "questionType": "RANGE",
+        "reasoning": "Vi önskar inte höja skatten, utan effektivera vårt utnyttjande av de skatteintäkter vi har",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "9981aa7f48c3949f28211747e97d1be0",
+        "questionType": "PRIORITY",
+        "reasoning": "För att göra kommunen attraktiv och få fler att bosätta sig i kommunen ",
+        "value": [
+          "1125"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B!;C!;B;A;B;C;B;D;B;D;2/5;2/5;2/5!;[1125]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i dagsläget",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgerligt styre där Kristdemokraterna är det ledande partiet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för att samtala med alla. Men ser gärna ett borgerligt styre",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Familjecentral",
+        "description": "Vi vill bygga ett ny modern familjecentral där alla familjer oavsett hur familjen ser ut ska känna sig välkomna"
+      },
+      {
+        "category": "Boende för våra äldre ",
+        "description": "Vi vill bygga ett nytt Särskilt boende med inriktning demens boende i Hillerstorp samt utveckla flera trygghetsboenden i Gnosjö och Hillerstorp"
+      },
+      {
+        "category": "Industrimark och bostads område",
+        "description": "Vi önskar ta fram nya attraktiva villaområde i både Gnosjö och Hillerstorp samt möjliggöra byggnation på landsbygden. \r\nVi vill ta fram fler område för att industrin ska kunna växa och utvecklas än mer."
+      }
+    ],
+    "motivateVote": "Vi är det parti som värnar familjen och allas lika rättigheter både lokalt och nationellt. Vi vill utveckla Gnosjö till en mer levande och trygg kommun",
+    "name": "Kristdemokraterna Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-gnosjo"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "399",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2cfe3e73e9116ad45c92d44b99fea671",
+        "questionType": "PROPOSITION",
+        "reasoning": "i stort sett en \"ickefråga\" vi flyger max några få gånger/mandatperiod redan idag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d089d36fa956c331319cd46f62d763b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnosjö kommun är bland de tryggaste kommunerna i landet enl BRÅ med mycket låg brottslighet så det är inte aktuellt i dagsläget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f51ee279b15be9e8fa4119fe40690302",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga sådana bolag i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "255d06565b65dd57f7c3f09629a14642",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a7cad1f627c5ebdb3898bd9bedaea3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver tillse att alla har en god arbetsmiljö. Det är inte ett realistiskt förslag varken ekonomiskt eller kompetensmässigt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a10f8201eca30cf901fc090073672ea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "426ebf73d9a66096093bdb91d434939c",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet att alla aka bli förstådda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e08744de61ef01888d96b2e32997c239",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte subventionera hyror med skattemedel, däremot kan vi verka för att olika typer av bostäder finns på marknaden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77cf7643ce6b25450a44ff86188fd0d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår kommun är för liten för detta i praktiken, underlaget är för litet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "046188c8dd27d86ed7a81f98c24a7606",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden ska hantera detta, däremot ska vi se till att infrastrukturen är på plast i backen på kommunal mark.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7a0c1ae35699fa21c9ba76b3018ce293",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gnosjö kommun har en mycket stor andel invånare med annat modersmål än svenska (33%)",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e0d81a0ad753425325c01e16f19e0b2a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "d31241f6e99ef459480fcea2590fa16b",
+        "questionType": "RANGE",
+        "reasoning": "Här kan mycket göras i samverkan med civilsamhället och så sker.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da3033aeb927f5341adffbcb2055bcdb",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9981aa7f48c3949f28211747e97d1be0",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill öka grundbemanningen i äldreomsorgen och därmed minska timvikarier.",
+        "value": [
+          "1122",
+          "1121",
+          "1125"
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D;B;D;C;A;_;D!;A;D;B;D!;_;2/5;2/5;[1122,1121,1125]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Höghastighetståg som vi i länet vill ha då det skulle utveckla hela regionen och södra Sverige i positiv riktning.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi Moderater vill se ett styre där vi får igenom så mycket Moderat politik som möjligt. Vi pratar med alla partier och kan bekräfta att vi under alla år haft ett bra samarbete med de borgerliga partierna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En kommun att trivas och vara aktiv i",
+        "description": "Vi vill utveckla Hamnenområdet i Hillerstorp för bostäder \r\nModeraterna ska verka för Allaktivitetshus- en mötesplats för alla generationer i samverkan med näringslivet  \r\nModeraterna i Gnosjö kommun vill tillskapa fler lekplatser, motorikbanor och utegym."
+      },
+      {
+        "category": "Näringsliv",
+        "description": "Näringslivet är nerven i Gnosjö kommun, därför vill vi fortsätta att utveckla samarbetet.\r\nModeraterna vill ha byggklar mark och en smidig service till näringslivet.\r\nSamarbete skola-näringsliv vill Moderaterna också fortsätta att utveckla.\r\nModeraterna i Gnosjö ska verka för 90 km/h på \"pendlingsstråken\"."
+      },
+      {
+        "category": "En kommun både för gammal och ung",
+        "description": "Moderaterna vill bygga en ny förskola som ersätter \"Kluringen\" inte minst för att öka integrationen.\r\nVi vill ha fler lekplatser och ännu mer samarbete mellan skolan/näringslivet\r\nModeraterna vill skapa en anpassad utemiljö på våra äldreboenden där man kan uppleva dofter, smaker och känna sig trygg. Vi vill fortsätta erbjuda bra äldreomsorg och hemtjänst där trygghetsboenden är viktiga."
+      }
+    ],
+    "motivateVote": "Vi vill fortsätta att utveckla Gnosjö kommun.",
+    "name": "Moderaterna Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-gnosjo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "400",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2cfe3e73e9116ad45c92d44b99fea671",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så långt det är möjligt ska vi välja tåget för tjänsteresor, det är klimatsmart och kostnadseffektivt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d089d36fa956c331319cd46f62d763b4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f51ee279b15be9e8fa4119fe40690302",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ha en sund konkurrens och en mångfald av bolag, kommunala bolag spelar en viktig roll för att bredda tjänsteutbudet för kommunens invånare",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "255d06565b65dd57f7c3f09629a14642",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a7cad1f627c5ebdb3898bd9bedaea3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a10f8201eca30cf901fc090073672ea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "426ebf73d9a66096093bdb91d434939c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e08744de61ef01888d96b2e32997c239",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "77cf7643ce6b25450a44ff86188fd0d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha kontroll på välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "046188c8dd27d86ed7a81f98c24a7606",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a0c1ae35699fa21c9ba76b3018ce293",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e0d81a0ad753425325c01e16f19e0b2a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d31241f6e99ef459480fcea2590fa16b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "da3033aeb927f5341adffbcb2055bcdb",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9981aa7f48c3949f28211747e97d1be0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1123",
+          "1126",
+          "1125"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;B;B;C;A;C;C;A;D;B;2/5;2/5;2/5;[1123,1126,1125]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att det ska vara ett majoritetsstyre som orkar fatta beslut.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi spekulerar inte utan vi väntar in valresultatet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Det behövs fler bostäder - åt alla",
+        "description": "Våra ungdomar ska kunna flytta hemifrån, därför behöver vi bygga fler bostäder till rimliga boendekostnader."
+      },
+      {
+        "category": "Barnen är vår framtid",
+        "description": "Vi vill anställa mer personal så att våra barn och ungdomar får de bästa förutsättningarna att förverkliga sina drömmar."
+      },
+      {
+        "category": "Sveriges bästa omsorg!",
+        "description": "Socialdemokraterna i Gnosjö spänner bågen och vill att omsorgen om våra barn, sjuka och gamla ska vara Sveriges bästa. För det krävs det mer resurser till omsorgen och en tydligare styrning och ledning som inte ägnar tid åt att försöka privatisera vård, skola eller omsorg."
+      }
+    ],
+    "motivateVote": "Gnosjö kan bättre! Vi behöver öka takten på bostadsbyggandet, tillföra mer resurser inom äldreomsorgen och rusta upp våra grundskolor. ",
+    "name": "Socialdemokraterna Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-gnosjo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "401",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2cfe3e73e9116ad45c92d44b99fea671",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tåget kan fungera till de större orter dit tågen går. I övrigt ser vi att det blir mer effektivt att i hög utsträckning samåka och transportera sig med bil.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d089d36fa956c331319cd46f62d763b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då polisnärvaron i vår kommun är så pass låg, behöver vi anlita- eller anställa ordningsvakter för att öka tryggheten. Detta kan också kompletteras med fler nattvandrare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f51ee279b15be9e8fa4119fe40690302",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är inget som är aktuellt för Gnosjö kommun. Kommunen har ett starkt näringsliv och detta ser vi som positivt och använder gärna dess tjänster och produkter.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "255d06565b65dd57f7c3f09629a14642",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn behöver proteiner och kött. Svensk husmanskost skall i högre utsträckning serveras på skolorna och dessutom med svensk- och närproducerade råvaror. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a7cad1f627c5ebdb3898bd9bedaea3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dag har vi varken de ekonomiska eller personella förutsättningarna att minska arbetstiden med en bibehållen lön. De anställda skall ha en stimulerande arbetsmiljö och även känna att de har möjlighet att påverka. Trivseln att jobba i äldreomsorgen skall vara hög i Gnosjö kommun.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9a10f8201eca30cf901fc090073672ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att öka demokratin i kommunen genom att hålla fler lokala folkomröstningar, ser vi som positivt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "426ebf73d9a66096093bdb91d434939c",
+        "questionType": "PROPOSITION",
+        "reasoning": "De anställda MÅSTE kunna göra sig förstådda hos brukarna. De som redan är anställda och som har bristande språkkunskaper, skall genomgå språkutbildning för att uppnå detta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e08744de61ef01888d96b2e32997c239",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattekollektivet skall generellt inte finansiera vissa boendeformer som inte avser kommunens kärnverksamheter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "77cf7643ce6b25450a44ff86188fd0d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte driftsformen på verksamheter i kommunen är det viktiga. Det viktiga är att uppställda kvalitetskrav på de utförda tjänsterna uppnås.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "046188c8dd27d86ed7a81f98c24a7606",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ligger utanför kommunens kärnverksamhet och utförs bäst av näringslivet. Gnosjö kommun har inte det behovet av publika laddstationer som större tätorter har och näringslivet har förutsättningar att erbjuda laddmöjligheter till de som besöker dem.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "7a0c1ae35699fa21c9ba76b3018ce293",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en stor andel utrikes födda och har idag inte rätt förutsättningar att klara av de vi redan tvingats ta emot.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e0d81a0ad753425325c01e16f19e0b2a",
+        "questionType": "RANGE",
+        "reasoning": "Vi är öppna för alternativa driftsformer även i skolan. Det är uppställda kvalitetskrav som skall uppnås, snarare än vissa driftsformer. Det faktum att kunskapsnivån även lyfts i de kommunala skolorna, när det finns alternativa driftsformer ser vi som positivt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d31241f6e99ef459480fcea2590fa16b",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens kärnverksamheter måste prioriteras framför kulturutbud. Så länge kommunen dras med ett budgetunderskott, blir utrymmet för utgifter för kultur mindre. Vi ser dock positivt till de ideella engagemangen som finns i kommunen för kultur och fritidsverksamhet och vill fortsätta stötta de verksamheterna. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "da3033aeb927f5341adffbcb2055bcdb",
+        "questionType": "RANGE",
+        "reasoning": "Gnosjö kommun har näst högst kommunalskatt i Jönköpings län, samtidigt som vi har goda förutsättningar för arbetsmarknad och arbetsliv. Kommunen behöver sänka sin kommunalskatt för att vara en attraktiv kommun för såväl kvalificerad arbetskraft som för företagare. Kommunen har idag en alltför stor andel inpendlare och detta behöver förändras genom en större inflyttning till kommunen.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "9981aa7f48c3949f28211747e97d1be0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1122",
+          "1121",
+          "1125"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;B;A!;A;D!;D!;A;C;B;D!;3/5;1/5;0/5!;[1122,1121,1125]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. Vi står bakom vår politik som vi har på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att Sverigedemokraterna får en egen majoritet. I övrigt är vi öppna för samarbete med samtliga övriga partier för att i så stor utsträckning som möjligt få igenom sverigedemokratisk politik i Gnosjö kommun.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, Sverigedemokraterna är öppet för samarbete med samtliga partier i Gnosjö.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldrevården",
+        "description": "Vårt mål med äldrevården är hög bemanning och därmed mer social tid för brukarna dvs. kvalitet och värdigt bemötande. Vi kräver också att samtlig personal med brukarkontakt skall kunna prata svenska så att brukarna förstår och känner trygghet gentemot personalen. Vi kommer också att verka för att utreda möjligheten att installera klimatanläggningar på kommunens samtliga särskilda boenden."
+      },
+      {
+        "category": "Trygghet i samhället",
+        "description": "Detta är en viktig fråga då vi enligt lokaltidningen har högst andel otrygga invånare i närområdet. Vi måste få fler poliser, ronderande ordningsvakter i centrum, utökad belysning samt fler trygghetskameror på utsatta platser."
+      },
+      {
+        "category": "En kunskapsinriktad skola",
+        "description": "Vårt syfte inom skolan är att få upp betygen och tryggheten dvs. elever skall ha studiero samt att se över hela skolstrukturen. Vi ser också nödvändigheten att få skolans budget i balans. Vi behöver också införa jourklasser där vi på ett bättre sätt kan fånga upp elever med otillräckliga kunskaper och därmed också en mer individanpassad utbildning."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna står för en hållbar utveckling och arbetar aktivt för en trygg kommun. Trygg och värdig ålderdom där personal med brukarkontakter kan tala svenska, en trygg och kunskapsinriktad skola och en trygg miljö ute i samhället. ",
+    "name": "Sverigedemokraterna Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-gnosjo"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "402",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2cfe3e73e9116ad45c92d44b99fea671",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens anställda måste föregå med gott exempel för ett hållbart resande",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d089d36fa956c331319cd46f62d763b4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "f51ee279b15be9e8fa4119fe40690302",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte ha vinstintresse som mål, skatten ska gå till investeringar i bra bostäder",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "255d06565b65dd57f7c3f09629a14642",
+        "questionType": "PROPOSITION",
+        "reasoning": "Resurser ska gå till i första hand vegetariskt spannmål, inte till att föda upp animalier, det gör att resurser tar slut",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a7cad1f627c5ebdb3898bd9bedaea3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett mål som kämpats för länge och som skulle gagna hela samhället, att mer tid ges till återhämtning, motion, familj",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9a10f8201eca30cf901fc090073672ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska kunna lita på de förtroendevalda, att de gör sitt jobb",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "426ebf73d9a66096093bdb91d434939c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de man är anställd för är det viktigt att man kan kommunicera, det handlar om trygghet för de som anlitar hemtjänsten, att bli förstådd",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e08744de61ef01888d96b2e32997c239",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att alla ska kunna bo bra utan att det ska kosta skjortan, idag betalar de som har hyresrätt mest för sitt boende",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "77cf7643ce6b25450a44ff86188fd0d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privat företagsamhet hör inte hemma i vård och omsorg",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "046188c8dd27d86ed7a81f98c24a7606",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut jätteviktigt att det finns service, så att omställningen till ennhållbar bilflotta går snabbare",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a0c1ae35699fa21c9ba76b3018ce293",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kommer att behöva människor som kommer hit, som flykting har du rätt till skydd och söka asyl",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e0d81a0ad753425325c01e16f19e0b2a",
+        "questionType": "RANGE",
+        "reasoning": "Tack och lov har vi ingen privat utförare inom skolan idag",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d31241f6e99ef459480fcea2590fa16b",
+        "questionType": "RANGE",
+        "reasoning": "Mer kultur till barn",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "da3033aeb927f5341adffbcb2055bcdb",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver stärka äldreomsorg, förskola, skola samt personlig assistans",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "9981aa7f48c3949f28211747e97d1be0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1124",
+          "1127",
+          "1121"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;_;D!;D!;D!;B;C!;D!;A!;D!;B!;2/5!;3/5!;3/5!;[1124,1127,1121]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Arbetsmiljö inom skolan och vård-omsorg",
+        "description": "Vi vill fortsätta arbetet med att stärka arbetsmiljön när det gäller villkor, lön, inflytande för särskilt kvinnor som idag har en stressig arbetssituation och känner att det påverkar dem som de ska utföra sitt arbete för, t.ex vårdtagare inom personlig assistans, psykiatrin, men även barn/elever i förskolan och skolan. Vi vill att de ska känna glädje, trygghet i sitt jobb."
+      },
+      {
+        "category": "miljöfrågor",
+        "description": "Vi vill jobba för att det anställs en hållbarhetsstrateg i Gnosjö kommun, som kan ta ett helhetsansvar. Vi vill jobba för att så mycket som möjligt av gods och persontrafik ska ske på ett för miljön hållbart sätt, tåg går före väg t.ex"
+      },
+      {
+        "category": "mäns våld mot kvinnor",
+        "description": "Vi vill jobba förebyggande med utbildning på grundskolan i hur man beter sig i en relation. vi vill att barnkonventionen lyfts och att barnens rättigheter blir viktiga. Och det ska inte kosta att få skydd från våld!"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Gnosjö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-gnosjo"
+  }
+]

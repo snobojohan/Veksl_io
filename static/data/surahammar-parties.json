@@ -1,0 +1,991 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1648",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ekonomi i balans",
+        "description": "Realistiska budgetar i förvaltningar. Restriktiv upplåning. God soliditet. Kontinuerlig och strikt uppföljning av ekonomin."
+      },
+      {
+        "category": "Fungerande kommunikationer.",
+        "description": "Viktigt för pendling till arbete, utbildning och skolgång. Attraktiva biljettpriser. Flera alternativa utförare. Kan även vara kommunen i egen regi."
+      },
+      {
+        "category": "Fortsatt satsning på äldreomsorg och skola.",
+        "description": "Ökad trygghet inom äldrevård skola."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-surahammar"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1649",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2394",
+          "2393",
+          "2397"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;B;D;B;C;A;C;B;C;C;B;2/5;2/5;1/5;[2394,2393,2397]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Om väljarna vill så är vårt parti beredda att fortsätta styra kommunen tillsammans med andra partier. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är beredda att diskutera sakpolitik med alla. \r\nValets utfall får avgöra. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Få igång ett organiserat samarbete mellan förskola och äldreomsorg.",
+        "description": "Förskolor kan regelbundet flytta sin verksamhet till något äldreboende. Ställ iordning lokaler som lämpar sig för lek och samvaro med de som bor på äldreboende. Positivt för både barn och äldre."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna arbetar för att få en inflyttning till kommunen, bostadsbyggandet måste komma igång. Vi är ett parti som vill fortsätta utveckla äldreomsorg och skola. Att äntligen få inviga en familjecentral i Surahammars kommun.",
+    "name": "Kristdemokraterna Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-surahammar"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1650",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": "Byggklara tomter är prioriterat område för oss. Det är så vi ökar inflyttningen till Surahammar, tillsammans med bra förskola och skola.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det fungerar bra så det finns ingen anledning att byta ägare. Det är bra med en blandning av kommunalt ägda lägenheter och privata fastighetsägare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": "JAAA! Det är trångt i Surahammars skolor och vi behöver bygga en ny mellanstadieskola så att fler elever får plats.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att erbjuda ett vegetariskt alternativ. Vi tror på valfrihet!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är alltid bra med företag. Om kommunen konkurrerar ut sådan näring så är det fel.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fler som vill arbeta inom omsorgen men att sänka arbetsdagen till 6 h är inte bra. Det kommer betyda fler ansikten för den som behöver omsorg. Se hellre över arbetsmiljön för personalen så att det är rimlig arbetsbelastning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna göra sig förstådd inom all omsorg. Språkkrav är bra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns annat som vi behöver lägga pengarna på.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är generellt för att det finns privata alternativ för att öka valfriheten.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på vad man menar med \"stor tillgång\". Det behövs laddstationer för besökare på olika platser i kommunen. Det främjar besöksnäringen om vi underlättar för detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Olika kommuner tar olika stort ansvar. Surahammar begränsas framförallt av att det inte finns lediga boenden för flyktingar. Vi måste ta solidariskt ansvar för mottagandet, liksom övriga kommuner i Sverige.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har i sig inget emot friskolor, så länge inte kvaliteten blir sämre än på våra kommunala skolor. Lärarbehörighet och kvalitet på undervisning är viktigt för oss.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": "-",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": "I nuläget finns inget som gör att vi borde höja eller sänka skatten. Vi har ett omfattande välfärdsuppdrag där pengarna behövs.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2395",
+          "2394",
+          "2397"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;D;B;C;B;D;B;C;C;B;2/5;2/5;2/5;[2395,2394,2397]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att det är L som styr. I nuläget har vi dock inga lokala företrädare.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ingen kommentar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan först ",
+        "description": "Vi liberaler sätter alltid skolan först för det är sättet för alla barn oavsett bakgrund att förverkliga sina drömmar. Bra skolor är viktigt för att få inflyttning till kommunen samt behålla nuvarande medborgare. I en bra skola blir varje elev sedd och får bästa möjliga förutsättningar för att lyckas i sitt lärande. För att nå dit krävs behöriga och bra lärare samt tid till varje elev."
+      },
+      {
+        "category": "Bygg i Surahammar",
+        "description": "Bristen på lägenheter är stor och vi ser gärna att kommunen kan vara med och erbjuda lägenheter eller byggklara tomter. Idag är det svårt att få tag på en ledig lägenhet, när en ungdom vill flyga ur boet, hyresgäst vill byta till mindre eller större lägenhet eller ens livssituation gör att ett nytt boende behövs. Det saknas också byggklara tomter för familjen som vill kunna bygga sitt eget hus."
+      },
+      {
+        "category": "Fler poliser ",
+        "description": "Polisens närvaro behöver öka i Surahammar för att kunna erbjuda innevånarna service och arbeta brottsförebyggande. Polisen behöver finnas regelbundet i alla våra tre tätorter och samarbeta med skolan i ungdomsfrågor."
+      }
+    ],
+    "motivateVote": "Vi är ett mittenparti som kombinerar individens frihet med att också ta gemensamt ansvar för samhället. Du ska kunna välja själv vad du vill ha. Valfrihet är också viktigt för oss.",
+    "name": "Liberalerna Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-surahammar"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1651",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska möjliggöra för villabebyggelse. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valmöjligheter är bra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste följa med i utvecklingen, man behöver även se över kommunens bilpark. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": "Skapa en valmöjlighet i kommunen. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2394",
+          "2400",
+          "2397"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;D;A;D;A;C;A;C;C;C;3/5;2/5;1/5;[2394,2400,2397]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet, ordning och reda ",
+        "description": "Ordning och reda i kommunen, ingen ska behöva känna sig otrygg i kommunen. Fortsätta att arbeta med det brottsförebyggande arbetet och kräva polisnärvaro i kommunen."
+      },
+      {
+        "category": "Möjliggöra för bostadsbyggande ",
+        "description": "Underlätta för tillväxt, det ska vara lätt att hitta vart det finns detaljplanerad mark för byggnation. Vi ser möjligheter inte hinder."
+      },
+      {
+        "category": "Företagsklimat ",
+        "description": "Företagarna är viktiga för kommunen. Möjliggör för befintliga företag att utvecklas och nya att etablera sig i kommunen. Flera ska gå från bidrag till jobb."
+      }
+    ],
+    "motivateVote": "Vi är ett partiet som tror på kommunen. \r\nVi pratar inte bara utan vi verkställer beslut. ",
+    "name": "Moderaterna Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-surahammar"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1652",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs nya villaområden, men också fler hyresrätter, och andra boendeformer för att få igång flyttkedjor och bygga bort bostadsbristen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill utveckla SurahammarsHus och inte sälja ut det som högern drivit. Vi vill att Surahus tar täten i att bygga nya hyresrätter för vanligt folk.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det här är ett projekt som vi satte igång, givetvis vill vi genomföra det. \r\nEn ny skola behövs i Surahammar för att minska trångboddheten, förbättra arbetsmiljön, möta framtidens behov av fler elever och\r\nmoderna lokaler.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med hållbar, varierad, god och\r\nnäringsrik kost i skolan, men vi tror inte\r\npå tvång för att främja det.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med\r\nprivata bolag men mäste kunna erbjuda\r\ntill exempel bostäder via allmännyttan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är upp till förhandlingar mellan fack\r\noch arbetsgivare för att komma överens\r\nom arbetstid och andra villkor för de\r\nsom jobbar i välfärden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är givet att alla som jobbar med människor i vård och omsorg ska kunna kommunicera på svenska. Det är viktigt för säkerheten och trygghet för alla brukare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": "Över 1000 pers står i kö till SurahammarsHus. Bygg bort bostadsbristen! \r\nHyresrätter som vanligt folk har råd med är en viktig del av lösningen. Vi vill att kommunen går före och då tror vi privata byggherrar följer efter. Unga måste kunna flytta hemifrån, äldre måste kunna sälja villan och bo kvar i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska gå till välfärd inte privata vinster. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar att vi hänger\r\nmed i utvecklingen med fler laddbara\r\nfordon, men det är inte bara kommunens ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner i landet mäste ta sin del av ansvaret att ta\r\nemot flyktingar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inget emot att elever väljer skola\r\neller att det finns friskolor. Vi vill sätta\r\nstopp för vinstiakten i skolan",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inrätta en kultur- fritids- och\r\nturismnämnd så att bla kulturfrägor\r\nprioriteras högre.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga planer på varken höjd eller sänkt skatt. Vår skattenivå är i miiten av Västmanlands kommuner. Den kan inte vara mycket högre än i närliggande kommuner om vi ska locka fler invånare.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2395",
+          "2394",
+          "2397"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D!;D!;A;B;B;C;D!;B!;C;B;2/5;3/5;2/5;[2395,2394,2397]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i någon avgörande fråga. Vi är en demokratisk organisation, vi ställer upp på den politik som vi i vårt parti beslutar tillsammans på våra kongresser. Sen tycker vi förstås lite olika i en del sakfrågor men huvudinriktningen är vi överens om. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett modernt politiskt styre där kommunens bästa går före blockpolitik. Nästa politiska styre ska kunna rösta ja till ett bra förslag oavsett var förslaget kommer ifrån. Vi hoppas att väljarna ger oss förtroendet att leda ett sådant modernt och resultatinriktat politiskt styre. För Surahammars kommuns bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, deras grundläggande värderingar är för olika våra. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg bort bostadsbristen ",
+        "description": "Säg nej till utförsäljning och privatisering av Surahus!\r\n• Ge Surahus i uppdrag att sätta igång byggande av fler hyresrätter för vanligt folk.\r\n• Prioritera en långsiktig bostadsförsörjningsplan för hela kommunen\r\n• Planlägga områden i hela kommunen för villabyggande, andra bostäder och företagsetableringar.\r\n• Inrätta en tomtkö för de som vill bygga nytt"
+      },
+      {
+        "category": "Ordning och reda i hur kommunen styrs",
+        "description": "Lyhördhet, transparens och ordning och reda på hur kommunen sköts är nyckeln.\r\nFår vi möjlighet kommer vi att jobba hårt för att alla ska få snabb professionell kommunal service, likvärdig behandling och bra bemötande. Vi har alla ett gemensamt intresse att utveckla kommunen och hitta de bästa lösningarna. Vi vill samarbeta över parti- och blockgränser för kommunens bästa."
+      },
+      {
+        "category": "Satsa på skolan och barnen!",
+        "description": "Vi vill satsa på att höja resultaten och ge alla barn en bra start i livet. Surahammar ska vara en av landets främsta skolkommuner!\r\nVi satsar på:\r\n• En ny mellanstadieskola i Surahammar för att minska trångboddheten och bättre arbetsmiljö.\r\n• Mindre grupper i förskolan, mindre klasser i skolan\r\n• Ungas psykiska hälsa\r\n- Bättre arbetsro\r\n- Längre öppettider på fritidsgårdarna"
+      }
+    ],
+    "motivateVote": "Vi går till val med ett förnyat lag, ny energi och en tydlig vision om hur vi vill utveckla kommunen. Vi vill bygga bort bostadsbristen, satsa på välfärden, mindre grupper i skola och förskola och en trygg omsorg för alla. Schyssta villkor och en bra arbetsmiljö för alla som jobbar i välfärden och ordning och reda på hur kommunen sköts är viktigt för oss. Vi vill samarbeta för kommunens bästa.",
+    "name": "Socialdemokraterna Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-surahammar"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1653",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är bättre att bygga en villa i lugna Surahammars kommun än tex. Västerås. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det lokala kommunala bostadsbolaget ska vara kvar i kommunens ägo. Men fortsättningsvis skötas bättre än vad som har gjorts tidigare. Det är viktigt att det finns hyresrätter för de som önskar bo i hyreslägenhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barngrupperna måste minska främst i förskolorna där det finns mest behov. Vi måste ha en mer komplett utredning för att undersöka om det behövs byggas både en förskola, låg, mellan samt ny högstadieskola.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för valfrihet, vi är positiva till att det finns vegetariska alternativ men det ska inte vara ett tvång. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte avveckla befintlig verksamhet som fungerar bra. Och som det finns behov för. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Låter bra, men finns ingen möjlighet att genomföra kostnads och resursmässigt då det redan idag är brist på personal inom vården.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att äldrevården ska inte vara ett integrationsprojekt. De äldre förtjänar att ha en vårdare som förstår vad dom säger så att de kan få den hjälp de behöver ha för att klara av sin vardag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattebetalarna ska inte behöva finansiera billiga hyreslägenheter. Däremot så ska det byggas hyreslägenheter i kommunen så billigt som det är möjligt för de bo i hyreslägenhet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har kommit fram rapporter om missförhållanden i privata vårdföretag.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": "pga. att allt fler köper elbilar och måste få möjlighet att ladda dessa i sin hemkommun för att komma till sitt arbete. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart så ska kommunerna själva få avgöra hur många de anser att de kan ta emot i sin kommun utifrån de förutsättningar som finns. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": "Det finns väldigt många privata skolor där föräldrarna sätter barnen i kö för att komma in på just den skolan som de anser är bäst för deras barns utveckling. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": "Det finns saker att utveckla inom kulturverksamheten. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": "Invånarna i Surahammar får idag inte en högre service än de invånare i andra kommuner som tex. Västerås som betalar mindre i skatt. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": "Att minska barngrupper pga. att barnen är vår framtid och det är viktigt med bra förutsättningar redan i låg ålder dvs från förskolan. \r\nSurahammars kommun ska inte tillåtas att få utanförskapsområden som ex. bäckby i Västerås eller som något av de andra 60 talet områden där kriminella har stor påverkan på hela bostadsområden. * Ökat stöd till personer ... så att de kan få ett värdigt liv. \r\n",
+        "value": [
+          "2394",
+          "2397",
+          "2399"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;A;A;C;D!;A;B;C;D!;4/5;3/5;0/5!;[2394,2397,2399]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad vi känner till?",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att fortsätta ingå i det styret som tillträder efter valet så vi kan fortsätta driva våran politik som är den bästa för Surahammars kommuns invånare. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Varsamhet med skattebetalarnas pengar.",
+        "description": "Detta är förutsättningen för att kunna bedriva en bra äldreomsorg, skola samt alla andra verksamheter som finns i kommunen."
+      },
+      {
+        "category": "Trygghet ",
+        "description": "Poliser ska vara stationerade i Surahammars kommun."
+      },
+      {
+        "category": "En levande kommun.",
+        "description": "Vi vill utveckla hela vår kommun med bostäder, skolor och infrastruktur i Surahammar, Ramnäs och Virsbo."
+      }
+    ],
+    "motivateVote": "För att vi driver de viktigaste lokala frågorna för Surahammars kommun.  Såsom mindre barngrupper i förskolan och skolan, att skolelever får gymnasiebehörighet, att öka närvaron i skolan, minska den psykiska ohälsan,  en trygg och värdig äldrevård, fasta stationerade poliser som ger trygghet i Surahammar, Ramnäs och Virsbo. ",
+    "name": "Sverigedemokraterna Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-surahammar"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1654",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "faab72ba148d720771077c9823bdd072",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klart villatomter måste skapas men prioriteten måste ligga på flerfamiljshus.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "15ae85d57c53b503c20003ab9a439b10",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet för oss inom Vänsterpartiet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1c24b88837c3a422852ffa96c59d719e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste få bort trångboddheten i skolan och samtidigt minska barngrupperna, en ny skola är ett måste.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4d66467991cae5adacfbc3e17e36b282",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barnen ska ha mat som dom äter oavsett det är kött eller inte.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e8387b8c0e8ce6192c59c5897a15c57b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "57fe2fbcfe737c4c5713c8390b0ef242",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsbördan har blivet större under årtionden med en åldrande befolkning. Ska personalen orka måste arbetsdagen minska till 6 tim.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d25a90a45c48c2dc4f75f97e8c04e219",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b1203f2e181fb2a226d5fb44090d174",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3e4ff977b6ebe186a8e9687ecef65a6a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "12af03f2a4cae895280b80c97640603b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de9e524d8cf26a2692c937ca18f37ef9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Migrationsverket måste fördela platser rättvist bland alla kommuner, då kan det inte bestämmas i varje kommun. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8c2613b3d00a54aa53aad3710604562c",
+        "questionType": "RANGE",
+        "reasoning": "Just nu är platsbristen stor inom förskolan och då är privat ett komplement.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eda9b712df63738401bb183aeabb67f3",
+        "questionType": "RANGE",
+        "reasoning": "En viktig del för medborgarna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "abe7f6e2169c170b5562de0989e24e4a",
+        "questionType": "RANGE",
+        "reasoning": "Så länge kommunen gör överskott behövs ingen skattehöjning.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c13b0d8b23ad99554229537811b19018",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2395",
+          "2394",
+          "2393"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D!;A;A;D!;D;D;A;D;A;2/5;3/5;2/5;[2395,2394,2393]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill naturligtvis vara med och föra kommunen framåt genom att ha viktiga poster i nämnder och styrelser. En röd majoritet förstårs.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Rent idiologiskt är Sd en omöjlig samarbetspartner.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Barnens mående i skolmiljön.",
+        "description": "Vi kommer driva frågan om våra barns mående i skolan. Det behöver satsas betydligt mer på elevhälsoteam, kuratorer och psykologer som kan hjälpa barnen må bättre och förhoppningsvis ger det godkända betyg för att kunna bli behörig för gymnasiestudier."
+      },
+      {
+        "category": "Meningsfull fritid hos våra barn.",
+        "description": "Vi kommer strida för att fritidsgårdarna ska vara öppna betydligt mer än idag. Vi kommer även försöka få fritidsgårdarna att finnas i andra lokaler än i skolmiljö.\r\nHar barnen en meningsfull fritid så tror vi det kommer påverka måendet och skolarbetet positivt."
+      },
+      {
+        "category": "Mindre barngrupper i förskola och skola.",
+        "description": "Vi har i våran kommun för stora barngrupper i skola och i förskolan, om barnan ska kunna bli sedda och få likvärdig undervisning och uppmärksamhet måste både lokaler och storlek på barngrupperna anpassas. Detta kommer påverka barnens hela skoltid och deras mående."
+      }
+    ],
+    "motivateVote": "Vi är ett parti för alla medborgare i kommunen! Vi vill få kommunen att växa och trygga våra barns framtid! Trångboddheten i skola och förskola måste byggas bort snarast möjligt. Barn och ungdomar måste få en meningsfull fritid med öppna fritidsgårdar. Våra äldre ska ha en värdig ålderdom. Hemtjänst som hinner stanna och prata, ta en kort promenad mm. Se över scheman inom äldreomsorgen.",
+    "name": "Vänsterpartiet Surahammar",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-surahammar"
+  }
+]

@@ -1,0 +1,988 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1307",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan nu är det brist på förskollärare och det behöver inte vara fler barn i grupperna. Undantag för barn med särskilda behov.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala företag skall få möjlighet att växa och bli starka.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska i huvudsak koncentrera sig på vård, omsorg och skola. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan nu är det brist på personer som arbetar i äldrevården. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns frågor som passar detta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket lär man sig bäst när man är aktiv och arbetar. Viktigt med uppdaterade planer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att få sin första egna bostad kräver mycket om man måste köpa den.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dock tror Centerpartiet att kommunen är för liten för att få detta att fungera på ett bra sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elbilar blir fler och fler. De måste laddas. Alla bor inte i egna fastigheter där elbilar kan laddas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inte tagit emot så många flyktingar de senaste åren eftersom vi inte aviserats om detta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen är liten. Skolan behöver alla medel den kan få. Elever har möjlighet att söka friskola i angränsande kommuner.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": "Kultur av olika slag är utvecklande.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen har gått med positivt resultat i många år. Det egna kapitalet har då kunnat byggas upp. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1916",
+          "1913",
+          "1912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;C;B;C;B;C;C;C;C;B;2/5;3/5;2/5;[1916,1913,1912]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Samverkan i frågor där andra tycker lika som vi. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Solceller på kommunala fastigheter",
+        "description": "För att möta framtiden och ett ökande behov av energi behöver vi ta till alla tänkbara möjligheter att bidra."
+      },
+      {
+        "category": " Lokala yrkesutbildningar/lärlingsutbildningar som möter lokala kompetensbehov i",
+        "description": "För att möta kommunens behov av kompetens inom olika verksamheter och företag."
+      },
+      {
+        "category": "Öka andelen lokala företag i kommunens upphandlingar ",
+        "description": "Öka andelen lokala företag i kommunens upphandlingar för att säkra en nära och robust produktion."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett parti med konkreta förslag till lösningar.",
+    "name": "Centerpartiet Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-ockelbo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1308",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-ockelbo"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1309",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet har motionerat om detta under mandatperioden",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": "De är viktigt men det är också viktigt att de lokala företagen som upphandlas har hög miljöprofil",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där konkurrens råder bör kommunen inte ha bolag. I en liten kommun som Ockelbo är dock situationen oftast omvänd. Det finns inga bolag och kommunen fyller en viktig funktion att erbjuda service, både till medborgare och företag. Där behöver konkurrenslagstiftningen snarare ändras till förmån för små kommuner på landsbygden.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta har Miljöpartiet Ockelbo motionerat om under mandatperioden",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ofta finns inte möjligheten att bereda folkomröstningar på ett bra sätt lokalt. Miljöpartiet vill däremot öka dialogen med medborgarna på andra sätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är inte bara en fråga om nyanlända, utan det totala uppdraget, där friskolor inte behöver ta ansvar för samtliga elever och samtliga uppdrag. Dagens situation, där friskolor får full ersättning, utan att behöva ta ansvar för ALLA elever är osund.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om den kommunala ekonomin och bolagens ekonomi tillåter bör bostäder byggas. Det är rimligt att de kommunala bolagen strävar efter lägre hyresnivåer. Att subventionera hyresnivåerna är dock problematiskt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Handlar helt om driftsform och ägandeform. Upphandlade, längre avtal, av icke-vinstdrivande aktörer bör tillåtas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det behövs är det bra att kommunen står för investeringskostnader, där marknaden inte bygger själv. Idag är det inte en jättestor fråga i Ockelbo.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet vill inte ha in privata aktörer i skolan i Ockelbo. Däremot kan icke-vinstdrivande, idéburna aktörer vara aktuella",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet har motionerat om kultursatsningar och planer.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": "Kommunens goda ekonomi ger utrymme för skattesänkning. Miljöpartiet ser dock större behov av satsningar och förstärkningar, speciellt inom utbildning och kultur",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1915",
+          "1913",
+          "1912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;C;D!;B;C;D;C;C;C;B;2/5!;3/5;2/5;[1915,1913,1912]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill ha en stabil majoritet med ansvarsfulla partier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygdsutvecklingsprogram",
+        "description": "Många av framtidens frågor - energi, klimat, livsmedel, biologisk mångfald, skogsbruk - avgörs hur väl kommunen kan utveckla sina planer och sin samverkan med byinvånare och företagare både på landsbygden och i tätorten."
+      },
+      {
+        "category": "Barnomsorg och skola",
+        "description": "En skola fri från kränkande behandling, vilket är och har varit ett problem i Ockelbos största skola. Vi vill säkerställa att en ny skolledning ser till att huvudmannen - kommunen - följer skolans utveckling och säkrar resurser till skolan. När det gäller förskolan vill vi att barn till föräldralediga vårdnadshavare kan gå 30 timmar i veckan på förskolan för att inte tappa kontakt med kompisarna."
+      },
+      {
+        "category": "Klimat- och miljö",
+        "description": "MP arbetar för ökad lokal självförsörjning av både mat, energi och drivmedel. Vi vill se en biogasmack lokalt, laddmöjligheter i byarna, bättre cykelvägar och mer kollektivtrafik. Det miljöstrategiska programmet ska genomföras och stötta kommunen och näringsliv. För att lyfta klimatfrågan föreslår vi också att en klimatdebatt ska bli lika självklar och årligt återkommande som budgetdebatten."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda partiet som sätter miljön och klimatet i fokus. Vi låter dessa frågor styra våra vägval.\r\n\r\nMiljöpartiet är det parti som alltid sätter framtiden och barn och unga först.",
+    "name": "Miljöpartiet Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-ockelbo"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1310",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att barnomsorg ska erbjudas arbetande föräldrar, även på obekväm tid ska detta kunna möjliggöras i form av nattis. \r\nUnder föräldraledighet eller arbetslöshet ska barnomsorgens omfattning begränsas. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte bedriva affärsverksamhet mer än det som kan klassas som samhällsnytta där man kompletterar det privata näringslivets verksamhet. Kommunen ska inte tränga undan privat näringsliv. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver vara en attraktiv arbetsgivare med hög effektivitet och kvalitet inom äldreomsorgen. Hur detta bäst kan göras behöver ses över. Privat näringsliv behöver också ges chans att etablera sig på marknaden. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för alla parter att personalen behärskar det svenska språket och kan kommunicera utan att det sker missförstånd. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behöver finnas ett varierat utbud av bostäder, inte minst avseende ägandeform. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1916",
+          "1913"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D!;B;B;D!;B;C;D!;C;D;3/5;2/5;1/5;[1916,1913]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Högerkonservativt samarbete",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Miljöpartiet, Vänsterpartiet och socialdemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inför Lagen om valfrihetssystem (LOV) inom äldreomsorgen",
+        "description": "Vi vill låta privata aktörer få möjlighet att verka inom äldreomsorgen i Ockelbo kommun och låta brukarna själva få välja utförare för att passa individens behov  och önskemål."
+      },
+      {
+        "category": "Ge goda förutsättningar för företagare att etableras och utvecklas i kommunen",
+        "description": "Vi vill främja tillväxten för näringslivet och inte konkurrera med kommunal verksamhet. Det ska finnas god tillgång på beredd mark för näringsverksamhet och handläggningstider ska gå snabbt och smidigt i samförstånd med företagare."
+      },
+      {
+        "category": "Fokusera på kärnverksamheten",
+        "description": "Vi vill att kommunen ska ta sitt huvuduppdrag på allvar och säkerställa kvaliteten i skola, vård och omsorg. Kommunen ska på ett ansvarsfullt sätt värna om skattemedlen."
+      }
+    ],
+    "motivateVote": "För att skattemedlen ska nyttjas förnuftigt. Vi vill att kommun och region ska fokusera mer på kärnverksamheten, för att höja kvaliteten i skola, vård och omsorg. Dessutom vill vi utveckla företagsklimatet och sysselsättningsgraden. Integrationen behöver prioriteras. Tryggheten ska öka. Vår kommun ska vara attraktiv att bo och verka i. ",
+    "name": "Moderaterna Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-ockelbo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1311",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen erbjuder 15 timmar barnomsorg till föräldralediga. Det finns i dagsläget inte möjlighet att erbjuda fler timmar. Fler förskolor skulle behöva byggas för att kunna erbjuda fler timmar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler riktade statsbidrag för att små kommuner ska kunna bygga fler bostäder",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Små kommuner behöver få bidrag från staten för att kunna öka antalet laddstolpar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inga privata skolor i kommunen, vi har en förskola som drivs av ett kooperativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": "1. Stärka arbetet för studiero i klassrummen genom mobilförbud under lektionstid och fler vuxna i skolan.\r\n2.  Vi vill utöka välfärdstekniken för äldre , som ska användas som komplement för att ge tid för mjuka värden.  \r\n3. Att alla barn i kommunen ska ges möjlighet att växa upp under jämlika ekonomiska förhållanden. ",
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;A;C;A;C;D;B;A!;C;B;2/5;3/5;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Rovdjurspolitiken ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi Socialdemokrater vill i första hand fortsätta samarbetet med Centerpartiet efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna är absolut inte ett alternativ att samarbeta med.Rovdjurs",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola",
+        "description": "En jämlik kunskapsskola med höga resultat är grunden för en framgångsrik kommun.  \r\nVi vill stärka arbetet för studiero i klassrummen genom mobilförbud under lektionstid, fler vuxna i skolan ex elevcoach/socialpedagog.\r\n Tidiga insatser ska göras för barn både när det gäller språkutveckling och barn med NPF.  \r\nVi vill ha fler specialpedagoger inom förskola och förskoleklass."
+      },
+      {
+        "category": "Vård ",
+        "description": "Vi ska tillsammans i Ockelbo bygga ett bra samhälle att åldras i. \r\nVi ska som äldre kunna leva och bo självständigt under trygga förhållanden. \r\nVi vill utöka välfärdstekniken, som ska användas som komplement för att ge tid för mjuka värden, till exempel smarta duschar.  \r\nVi vill utveckla träffpunkterna för äldre samt •införa biståndsbedömda aktiviteter till exempel promenader, bad, gym."
+      },
+      {
+        "category": "Omsorg",
+        "description": "När du är som svagast ska samhället vara som starkast. Vi ska ha ett tryggt skyddsnät för de som behöver det mest.\r\n Vi vill öka kunskapen om psykisk ohälsa för att upptäcka i tid och sätta in stöd. \r\nAlla barn i kommunen ska ges möjlighet att växa upp under jämlika ekonomiska förhållanden.  \r\nKommunen ska stärka sitt arbeta med att stödja och skydda kvinnor som utsätts för våld i nära relationer."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna tror på alla människors lika värde och rätt. \r\nOckelbo ska vara en plats där vi ger människor jämlika förutsättningar att kunna vara delaktiga i det sociala, kulturella, ekonomiska och politiska samhällslivet.  Vi Socialdemokrater vill fortsätta vara bäst på vårt huvuduppdrag, vård, skola och omsorg.",
+    "name": "Socialdemokraterna Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-ockelbo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1312",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på att de som bäst tar hand om sina barn är föräldrarna, barnen behöver också vara med sina föräldrar. Barn har redan idag rätt att vistas 15 timmar i veckan inom barnomsorgen vid exempelvis föräldraledighet. Vi anser det vara tillräckligt. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att möjliggöra för fler lokala företag att vara med i kommunala upphandlingar som Ockelbo kommun genomför kan vi genom det investera i vår egen kommun och därigenom bidra till tillväxt och sysselsättning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med det privata näringslivet i onödan och vi ser gärna att verksamhet läggs ut på entreprenad, samt att upphandlingsprocessen förbättras för att stödja det lokala näringslivet. Vi tror dock på att ha kvar viss allmännyttig verksamhet i kommunala bolag, exempelvis det kommunala bostadsbolaget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan eventuellt vara motiverat med den typen av arbetstidsförkortning i vissa fall, det är dock upp till arbetsmarknadens parter att komma överens om. Sverigedemokraterna ser det som viktigast att kommunens anställda ska ha rätt till heltid och att ofrivilliga delade turer avskaffas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "När så är motiverat ska folkomröstningar hållas. Sverigedemokraterna är förespråkare för ökad direktdemokrati. Vi har exempelvis föreslagit folkomröstning gällande regionsammanslagningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska anställda inom omsorgen kunna uttrycka sig på- och förstå svenska, det är en trygghetsfaktor! Utöver den viktiga sociala delen är den av största vikt att felmedicinering eller felaktig vård ej sker på grund av språkförbistringar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med sverigedemokratisk politik kommer antalet nyanlända elever minska kraftigt. Om en situation liknande den som skedde 2015 ändå skulle uppstå, på grund av krig i vårt närområde, bör barnen placeras i särskilda skolor, med specialistkompetens, tills de uppnått godtagbar nivå i svenska och samhällskunskap.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att bostadsbidraget fyller funktionen av att ge ekonomiskt svaga hushåll lägre hyra. Allmänt rabatterade hyror betalda av skattepengar är fel väg att gå.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna vill att medborgarna ska ha valfrihet med ett brett utbud av olika leverantörer av tjänster och boenden. Vi vill även se ett blomstrande näringsliv och ett gott företagsklimat, så vi ser gärna att privata företag har möjlighet att bedriva den typen av verksamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att det i första hand är en fråga för marknaden, att företag tillhandahåller laddmöjligheter där behov finns och att kommunen möjliggör lämplig mark för detta. Men kommunen kan behöva gå in som aktör där brister finns.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hjälp till flyktingar ska ske i krisernas närområden. Asyl- och migrantinvandring från avlägsna länder till Sverige ska stoppas. Tillfälligt skydd för flyktingar från Ukraina ska ges, då Ukraina ligger i vårt närområde.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna betonar valfrihet och inflytande för föräldrar och elever i den svenska skolan. Därför är vi i grunden positivt inställda till friskolor, inte minst då de har lett till ett bredare utbud av olika pedagogiska undervisningsmodeller och till en ökad valfrihet. Friskolereformen har även skapat problem vilket behöver lagreglernas tydligare.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att den offentligt finansierade kulturen i första hand ska rikta sig till barn och ungdomar, samt grupper som kan ha svårt att tillgodogöra sig annat kulturutbud, exempelvis multisjuka äldre och personer med svåra funktionsvariationer. Generellt behöver kommunen prioritera kärnverksamheterna före dyr vuxenkultur.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": "Sverigedemokraterna är inget uttalat skattehöjar- eller skattesänkarparti, men med ett förbättrat företagsklimat, med fler personer i egenförsörjning, och minskat inflöde av svåranställningsbara migranter, finns det goda möjligheter för en sänkning av kommunalskatten, som enligt vår mening är hög.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1914",
+          "1917",
+          "1916"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;C;B;D;D!;B;A;C;B;D!;2/5;0/5!;2/5;[1914,1917,1916]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD, M och KD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trivsammare kommun",
+        "description": "Trygga både de ekonomiska förutsättningarna så som boendemiljö och intressesfären. \r\n\r\n- Trygghetskameror vid utsatta områden\r\n- Förbättrad gatubelysning i kommunen\r\n- Nej till störande vindkraftsindustri\r\n- Behåll skolorna i ytterområdena\r\n- Återställ eftersläpat underhåll av parker, lekplatser, vägar mm\r\n- Anslutning till utbyggt kommunalt VA ska vara frivillig"
+      },
+      {
+        "category": "En hållbar migrationspolitik ",
+        "description": "En hållbar migrationspolitik för ett sammanhållet Sverige\r\n-\tVerka för avskaffande av anvisningslagen för migranter till kommunen\r\n-\tMinska migrationen till kommunen genom kommunalt undantag från EBO-lagen\r\n-\tInföra ”integrationsplikt” där svenska språket samt svenska normer och värderingar är obligatoriska delar\r\n-\tStimulera frivillig återvandring genom att inrätta en återvandringshandläggare"
+      },
+      {
+        "category": "God äldreomsorg",
+        "description": "En kommun att åldras i.\r\n\r\n-\tTrygghetsboenden för äldre som ger ett självständigt boende\r\n-\tAll personal ska tala god svenska\r\n-\tKontinuitet av personal för att främja äldres integritet och trygghet\r\n-\tEn arbetsmiljö med varierande arbetsuppgifter för att underlätta arbetsbördan\r\n-\tVerka för en mångfald av boendeformer för våra äldre\r\n-\tParboendegaranti för våra äldre"
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna ökar tryggheten, minskar migrationen och stärker landsbygden. Vi uppnår en god ekonomi genom ett förbättrat näringslivsklimat och en företagarvänlig attityd.",
+    "name": "Sverigedemokraterna Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-ockelbo"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1313",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "496ee26a44df2e2d335cfdb9a84ed436",
+        "questionType": "PROPOSITION",
+        "reasoning": "Forskning visar att barn som går på förskola senare får bättre resultat i skolan. Förskolan är även viktig för barnets sociala utveckling.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "df1c4267b18d79702c8028a30984c528",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala företag är välfärdens motor som ger oss skatteintäkterna till vård skola och omsorg. Att styra så långt lagen tillåter mot att handla lokalt är även ett viktigt verktyg för att motverka arbetslöshet och utanförskap. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a34d87cfb46dea50b04f630fc7bc8ce2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hur kommuner kan och får verka på marknaden är strikt reglerat i lag och är inte en lokal fråga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f001fd5ae3c5510ba86c3847d8747f0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är något att arbeta emot i etapper, det är ett förslag helt i linje med partiprogrammet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d5c9adf51292d267eb6a3fb051a9602e",
+        "questionType": "PROPOSITION",
+        "reasoning": "För vissa frågor är folkomröstning väldigt viktigt men rent generellt ska de inte hållas slentrianmässigt.\r\n\r\nJag kan inte dra mig till minnes att vi någonsin haft en lokal folkomröstning och ser heller inga frågor framöver som är aktuella för det. Men dyker de upp ska det givetvis hållas en lokal folkomröstning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "08f0267962cb8ff3daa77f0741f2cd7b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna kommunicera är centralt i vårdyrken.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6abee60d8cc07201757fdf9e5f83fe15",
+        "questionType": "PROPOSITION",
+        "reasoning": "En skola ska inte kunna välja sina elever. Skolan är till för barnen inte bolagsägarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6f6e0665174a8f01d94b18b6b4bacfc9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett väldigt viktigt förslag, det skulle även kunna vara ett verktyg emot gentrifiering. För att förslaget skulle kunna bli verklighet krävs dock en lagändring. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "823816e2216b3421661ae4064c04e9b4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är vårdtagarens intresse som ska vara centralt i vården inte ägarens vinstintresse. Vidare så garanterar offentlig drift insyn i verksamheten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "09bbad8bd36f8bd00a81db1e561142b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att det finns laddmöjligheter på kommunala gator och parkeringar är kommunens ansvar. Det betyder dock inte att det är kommunen som måste sköta driften.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0fead7a8fb5bb1733770224d056f6b7f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingmottagandet är den enskilt största anledningen till att vi vänt befolkningstrenden och äntligen växer igen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e53b3baf117cf51c0c080c0fe2eb90b4",
+        "questionType": "RANGE",
+        "reasoning": "Idag har vi en bra nivå på privata skolor. Vi har inga alls.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d1edf2aecdb026afc74255bb38662807",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att kommunen ska iordningställa en utställningslokal för skapande konst. Det är en investeringskostnad som kommer ge driftskostnader. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "c93a66efd2e1f3b3d92f9ccce0aae96d",
+        "questionType": "RANGE",
+        "reasoning": "I Ockelbo har vi en ekonomi i balans och förhållandevis höga skatter. En skattehöjning är inte aktuellt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a19415a448349e7f15e83b24ef967871",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1913",
+          "1912"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;A;D;B;D;D;D;A;D;A;2/5;4/5;2/5;[1913,1912]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill se ännu större möjligheter för avsteg ifrån strandskyddet på landsbygden än partiet centralt. I en kommun som Ockelbo med mindre än 6000 innevånare och mer än 200 sjöar och oräkneliga vattendrag bredare än 1,5m blir mängden strandskyddad mark orealistiskt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterpartiet vill styra tillsammans med S efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kultur ",
+        "description": "Vi behöver fler forum för kultur. Bland annat saknas utställningslokal för målad konst och skulptur i centralorten. Därför behöver det iordningställas utställningslokal."
+      },
+      {
+        "category": "Säkra övergångar",
+        "description": "Våra barn och ungdomar har inga säkra övergångar för att ta sig över väg 272 som går igenom centralorten. Vi anser att det bör anläggas säkra övergångar på båda sidor om Sundsbron samt vid järnvägsstationen."
+      },
+      {
+        "category": "Rönnåsen",
+        "description": "Vänsterpartiet föreslår att kommunen ska köpa marken vid Rönnåsens fritidsområde och skydda den som naturreservat."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är ett socialistiskt och feministiskt parti. Vi står för allas lika värde och möjligheter att leva och utvecklas. Om vi håller ihop samhället och krymper klyftorna kommer utanförskapet och kriminaliteten minska samtidigt som tryggheten ökar.",
+    "name": "Vänsterpartiet Ockelbo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-ockelbo"
+  }
+]

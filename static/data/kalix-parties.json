@@ -1,0 +1,1454 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "715",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart att man som äldre få välja vem som kommer in i mitt hem",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behöver utvidgas för att nå en bredare målgrupp, inte endast nyinflyttade.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med det lokala näringslivet, utan istället ägna sig åt kärnverksamhet som samhällsviktiga funktioner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns vegetariskt alternativ på menyn.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har personalbrist och behöver därför all personal all den tid som går.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dyrt, medborgarna har valt politikerna för att ta ansvar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kommunicera för en kvalitets säker vård och omsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte kommunens sak, finns en stiftelse Kalixbo samt privata aktörer.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bidra tillsammans med andra aktörer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver inflyttning och arbetskraft till kommunen. Flyktingmottagningen måste fungera för att integrera de som kommer i samhället.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inte elev underlag för fler privata aktörer.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska ge resurser för andra aktörer inom föreningsliv och organisationer att bedriva kulturell verksamhet, inte vara den som driver.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": "Skulle önska att vi kunde minska men det är tyvärr inte möjligt för att få ihop den kommunala budgeten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1387",
+          "1391",
+          "1386"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;A;B;A;D;A;C;B;D;2/5;3/5;2/5;[1387,1391,1386]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går ut som ett självständigt parti i mitten som kan tänka oss att samarbeta både till höger och vänster för Kalix bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Levande landsbygd",
+        "description": "Bredband i alla byar för att möjliggöra företagande såväl som nära vård och trygghet."
+      },
+      {
+        "category": "Näringslivet",
+        "description": "Näringslivsutvecklare i kommunen som jobbar aktivt med att se vilka företag som har utvecklingspotential, samt kan jobba aktivt med att locka till sig externa etableringar för en satsning i Kalix. \r\nVi har ett brett gymnasieutbud och en stark vuxenutbildning för att trygga personalförsörjningen för vårt näringsliv."
+      },
+      {
+        "category": "Vård och omsorg",
+        "description": "Utveckla ett nära samarbete med kommun och region för ett bra omhändertagande av våra äldre och multisjuka. Boende samt LOV är viktiga frågor."
+      }
+    ],
+    "motivateVote": "Vi står upp för en levande landsbygd med ett brett näringsliv,  där vi erbjuder en bred utbildning för kompetensförsörjning för vårt näringsliv för att möjliggöra att våra unga kan stanna kvar i kommunen. Vård och omsorg är viktiga  prioriterade frågor. ",
+    "name": "Centerpartiet Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-kalix"
+  },
+  {
+    "abbreviation": "FRAK",
+    "altingetCandidateId": "716",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvalitetssäkrad valfrihet - ja!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kalix är i stort sett var 3:e arbetsför anställd av kommunen. Vi måste börja sanera bland alla tjänster som tillkommit.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Kalix har vi inte dessa problem. Sund konkurrens är OK, osund är inte OK!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Näringsriktighet och näringsvärden är det primära! Däremot måste livsmedelsproduktionen öka bland både kommunens och Sveriges producenter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ekonomiskt vansinne. Däremot skall arbetsförhållandena kraftigt förbättras med bl.a plattare organisationer och mer självstyrande arbetsgrupper",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi väljer politiker för att de skall ha helhetsbild!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Säkerhetsfråga av stor vikt för brukarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte primärkommunens uppgift.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, inte för publika, dock för det egna behovet ( när/om kommunen går över till el-drivna fordon)",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värvat emot flyktingar i proportion till vår del av Sveriges befolkning. Mao jämn fördelning över Sveriges kommuner.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturligtvis, var finns logiken i annat fall?",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Kvalitetssäkrad undervisning och betygsättning!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Enligt tillgänglig statistik skall vi lägga mer kommunala pengar på kulturaktiviteter = medborgarna trivs bättre",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": "Välfärd fordrar intäkter",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;A;B;A;A;A;D;A;A;B;D;2/5;3/5;2/5;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har ingen ”riksnivå”",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Genom vårt gedigna politiska arbete under mandatperioden känner vi vinden i ryggen! Vi kommer att efter valet samverka med partier där våra hjärtefrågor får mest genomslag. Jag ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorgen i fokus",
+        "description": "Kalix kommun är i skriande behov av drygt 30 nya SäBo-platser \r\n+ ca 20 korttids-/utredningsplatser.  Skulle frigöra stora resurser inom hemtjänsten med målet att erbjuda samtliga äldre den bästa omsorgen avpassad för just deras individuella behov. Självstyrande arbetsteam. Färre chefnivåer. Beakta avvikelserapporter för en utvecklad omsorg."
+      },
+      {
+        "category": "juridisk kompetens - grunden för beslut!",
+        "description": "Sakkunskap och juridiskt väl avvägda beredningar som grund för beslut. Kommunens juridiska inkompetens gör att företagare ständigt rankar Kalix som varande bland Sveriges 10 sämsta kommuner"
+      },
+      {
+        "category": "Utbilda mot behov",
+        "description": "Inrätta fler riktade och praktiska utbildningar mot det verkliga behovet. Vi skall inte starta program med en (1) sökande (naturturism) utan inrikta våra ansträngningar mot behov inom bl.a byggsektorn."
+      }
+    ],
+    "motivateVote": "Vi värnar om alla kalixbor, äldreomsorgen, IFO, barnomsorgen, utbildningen, näringslivet, den juridiska plattformen för beslut mao ett Kalix att bo och trivas i samt verka från.\r\n\r\n",
+    "name": "Framtid i Kalix Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "framtid-i-kalix-kalix"
+  },
+  {
+    "abbreviation": "KXP",
+    "altingetCandidateId": "717",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "De ska finnas valfrihet inom omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "för att nyinflyttade får vetskap om o hur och var allting fungerar i kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att dom privata bolag ska må bättre.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall vara varierande kost.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det innebär flera arbetstillfällen i kommunerna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det folkvalda styret skall bestämma.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dom äldre skall förstå vad som sägs när hemtjänsten besöker dom.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "För alla ska ha råd till en bostad.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall vara förebild för den fossilfria trafiken.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folk som är i behov av skydd måste tas om hand.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Det skall finnas valfrihet i skolan åckso.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Rikare kulturliv för folket.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": "Det räcker för tillfället.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D!;C!;C!;C;A;D!;D!;C!;B;C;2/5;3/5;2/5;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "XXXX",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "KxP,M.L.C",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "XXX",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "- Stödja en aktiv landsbygdsutveckling  och stötta aktiva byaföreningar. ",
+        "description": "- Stödja en aktiv landsbygdsutveckling \r\noch stötta aktiva byaföreningar. Öron\u0002märkta pengar till byaföreningarna."
+      },
+      {
+        "category": "- Att hemlösas situation i Kalix ska  lösas.",
+        "description": "Alla ska ha rätt till bostad. Kommunen behöver bygga fler lägenheter \r\ntill rimliga hyrespriser."
+      },
+      {
+        "category": "- Ha en trygg och stimulerande skola  och barnomsorg.",
+        "description": "där det finns tillräckliga resurser så att alla barn klarar \r\ngodkända betyg."
+      }
+    ],
+    "motivateVote": "Kalix Partiet arbetar för kalixbornas bästa.",
+    "name": "Kalixpartiet Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kalixpartiet-kalix"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "718",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Du ska själv kunna bestämma vem som ska komma in i din bostad och hjälpa dig!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte kommunal kärnverksamhet. Kommuner driver inte bensinstationer, och ska inte heller finansiera och ansvara för laddstolpar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1388"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D;A;B;C;D;B;A;B;D;3/5;3/5;2/5;[1388]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokalt ser vi gärna att sjukvården förstatligas. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett maktskifte! \r\nTillsammans med Moderaterna och Centerpartiet har vi lagt gemensamma budgetar de senaste åren och de ser vi som naturliga samarbetspartier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna, Sverigedemokraterna och Vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En äldreomsorg med kvalité, valfrihet och trygghet.",
+        "description": "Vi vill införa en äldrejour som hjälper till med enklare hushållsgöromål, och som även kan fungera som en ”digital hjälp” med kontakter med myndigheter, företag m.m. Lagen om Valfrihet ska införas: du ska bestämma vem som ska utföra tjänster i ditt hem, inte kommunpolitiker. Äldre och funktionshindrade ska få välja vilken form av omsorg man vill ha, och vem som utför den."
+      },
+      {
+        "category": "Behöriga lärare för bättre skola.",
+        "description": "För att våra elever ska få en bra start i livet måste de undervisas av behöriga lärare. För att våra skolor ska bli attraktiva för behöriga lärare måste vi förbättra arbetsvillkoren. Minska det administrativa arbetet för lärare. Lärare ska undervisa. Vi vill se riktade lokala lönesatsningar för lärare under en period av år. Mindre administration och högre löner ger fler behöriga lärare."
+      },
+      {
+        "category": "Utveckla Strandängarna.",
+        "description": "Med ett läge nära centrum, och med en camping på området är Strandängarna perfekt för fler satsningar. Vi vill se hamnen leva upp med hjälp av små försäljningsstånd: här kan det säljas våfflor på våren, bröd, bär och sylt på hösten o.s.v. För ungdomar och turister vill vi att det byggs en skatepark på området. Sammantaget ger förslagen än mer liv åt ett redan fint område!"
+      }
+    ],
+    "motivateVote": "Vi vill förbättra äldreomsorgen. Vi vill införa en äldrejour som kan hjälpa äldre med digitala kontakter med företag och myndigheter. I vår digitaliserade värld måste vi ge alla medborgare möjlighet att utnyttja vår välfärd och den moderna tekniken. Vi vill införa LOV. Det innebär i korthet att äldre och funktionshindrade kan välja vilken form av omsorg man vill ha, och vem som utför den. \r\n",
+    "name": "Liberalerna Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-kalix"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "719",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att pengarna ska nå de äldre inte bli till vinster hos riskkapitalister, men det kan finnas undantag där privata alternativ kan vara bra och vi är beredda att pröva alternativa former.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver all arbetskraft som finns, därför är det viktigt att både nå så många som möjligt, kartlägga kompetenser och matcha till utbildning eller arbete.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att privat näringsliv ska gå i första hand, men det kan finnas undantag där samhällsnyttan överväger.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är ett bra förslag för både miljön och folkhälsan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag är det i första hand arbetsbelastningen som är det stora problemet. Sex timmars arbetsdag kan innebära att arbetsbelastningen blir ännu tuffare. Idag behöver vi istället satsa på högre bemanning i första hand.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar i kommunen är i undantagsfall bra. Vi vill istället stärka medborgarinflytande på andra sätt, med fler dialoger före beslut i olika frågor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "För brukarnas säkerhet så krävs goda språkkunskaper.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi antar att man menar själva investeringen som betalas av hyresgästen. Kommunen ska inte subventionera bostäder från skattemedel.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är andra aktörer i samhället som redan bygger och ska bygga publika laddstolpar. Kommunen bygger för sitt eget behov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar emot lite flyktingar idag. Vi har möjlighet att ta emot fler, det är bara bostäder som begränsar just nu, så därför är det fel att principiellt säga att vi ska ta emot färre flyktingar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolan ska drivas på lika villkor som den kommunala skolan. Friskolor ska varken få säga nej till svenska elever som kräver mer resurser eller nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Vi är inte emot friskolor, däremot är vi emot att man kan plocka ut vinster. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig för en kommuns attraktivitet och kan bidra till att fler trivs i kommunen och fler flyttar in.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1390",
+          "1391",
+          "1386"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;C;D;B;B;D;D;B;A;D;2/5;3/5;2/5;[1390,1391,1386]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ingen avgörande fråga. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är inte höger eller vänster, för oss är det viktiga vilken politik vi kan genomföra. Vi har erfarenhet och är beredda att ta ansvar för att utveckla Kalix efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stimulera bostadsbyggande",
+        "description": "För att få fler att bosätta sig och stanna i kommunen så krävs det bostäder, både lägenheter och villor. Färdigställa fler områden och säkerställa mark för bostadsbyggande."
+      },
+      {
+        "category": "Bra förskola och skola",
+        "description": "Mindre barngrupper i förskolan. Fortsatt satsning på rörelse, kultur och tidigt agerande när barn och elever har behov av stöd."
+      },
+      {
+        "category": "Kompetensförsörjning både till näringslivet, vård och förskola och skola",
+        "description": "Att arbeta för att fler ska stanna kvar och flytta in till kommunen, då är jämställdhet, boendemiljöer, friluftsliv exempel på viktiga förbättringsområden."
+      }
+    ],
+    "motivateVote": "Fler generationer ska få uppleva ett gott liv i Kalix. Vi ser helhet och tar ansvar för hela kommunen. Äldreomsorg, förskola och skola är grunden i kommunen, men för att människor ska bo kvar och flytta behöver vi även en jämställd kommun , idrott, kultur och ett rikt friluftsliv. För oss är ett hållbart samhälle ett samhälle med människan i centrum.",
+    "name": "Miljöpartiet Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-kalix"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "720",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Även äldre har rätt till valfrihet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att den tjänsten ska inrättas i samarbete med andra aktörer så som lokalt näringsliv, Region Norrbotten, Polisen samt andra myndigheter",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens kärnuppgift att konkurrera med privata näringsliv. Däremot så tycker vi att det är rätt att kommunala bolag går in där marknaden inte finns samt att driva exempelvis fastighetsbolag för att tillhandahålla lokaler, mark osv för företagsetableringar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Menyer på skolorna måste professionen besluta om, Det är alltså inte politiken som ska bestämma vad människor ska äta ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan nu svårt att resurssätta äldreomsorgen. Att den befintliga personalen i det läget skall arbeta mindre är ett dåligt förslag. Däremot så tycker vi att det finns anledning att se över arbetstidsmåttet. Många anställda vill inte arbeta 6 timmar per dag utan ser hellre längre pass och fler lediga dagar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Demokratiskt valda politiker skall ta ansvar för de politiska beslut som måste tas. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att den personal som arbetar i direkt omsorg skall kunna svenska. Däremot så finns det arbetsuppgifter utan direkt brukarkontakt där det inte är lika viktigt med det svenska språket. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattemedel ska inte användas till subventionerade bostadspriser. Däremot skall kommunen skapa förutsättningar för byggnation till rimliga byggkostnader. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste se till att infrastrukturen för laddning finns på plats. Däremot så vänder vi oss emot \"stor\" tillgång samt att ansvaret är delat mellan kommun, privatperson, företag och ägare av elnäten.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska inte ta emot fler flyktingar än vi klarar av att ta hand om. Vi har ett solidariskt ansvar som vi skall ta. Kalix behöver fler invånare och flyktingar som vi kan integrera i samhället och matcha till arbete är mycket välkommet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att friskolor med kö skall ha möjlighet att ta emot nyanlända. Friskolor utan kö skall ta samma ansvar som kommunen. Däremot så måste det vara upp till varje huvudman att ta beslut.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt med valfrihet och konkurrens.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Just nu är det viktigt att uppfattas och vara attraktiva som kommun. Därför behöver vi bland annat göra satsningar på kultursidan. Däremot så måste det på sikt vara marknaden som tar större ansvar för finansieringen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": "Kalixborna skall inte betala mer skatt än kommunen behöver för att bedriva kommunal verksamhet. Inför kommande år kommer vi inte sänka skatten men på sikt är målsättningen att Kalix ska ha den lägsta kommunskatten i Norrbotten",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1386"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;C;A;B;A;D;A;B;B;B;2/5;2/5;1/5;[1386]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, däremot är lokala politiska lösningar på samhällsutmaningar olika i landet",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill leda kommunen i samarbete med partier som ligger oss nära i politiska frågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Socialdemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "NAV - Nämnden för arbete och välfärd",
+        "description": "Vi vill göra en ordentlig genomlysning av verksamheten inom Socialnämnden. Vi kommer sedan byta namn på nämnden från Socialnämnden till NAV. För att minska stigmatiseringen som finns inbyggt i namnet, för att tydligt visa att vi tror på arbetslinjen och på individen."
+      },
+      {
+        "category": "Framtidsbygget Kalix",
+        "description": "Vi står inför stora möjligheter för tillväxt i hela Norrbotten. Men investering på 1000 miljarder och många nya arbetstillfällen. Vi vill ta ledartröjan i Norrbotten och bli den mest attraktiva kommunen att bo i. Därför vill vi göra en stor satsning med ett tillväxtresurs som ska marknadsföra kommunen som en etableringsort och skapa förutsättningar för bostadsbyggande."
+      },
+      {
+        "category": "Ordning på Kalix",
+        "description": "Tidigare majoriteter har valt att inte reinvestera tillräckligt i anläggningar och framförallt vägar/VA i kommunen. Vi lovar att få ordning på Kalix och ta hand om det vi har samtidigt som vi investerar i framtiden."
+      }
+    ],
+    "motivateVote": "Vi är garanten för förnyelse och utveckling i kommunen. Vi lovar att få ordning på det som inte fungerar idag.",
+    "name": "Moderaterna Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-kalix"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "721",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "En demokratisk styrd välfärd handlar om att samhället värderar alla människor lika och att behovet bestämmer vem som går först, inte storleken på plånboken.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett behovet och har inrättat en funktion som inflyttningslots.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att minska klimatpåverkan och skapa en bättre hälsa.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utbildning i svenska ska till stora delar vara arbetsplatsförlagd.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att fler ska kunna få sin första bostad är det viktigt med billiga hyresrätter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för klimatet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver bli fler.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor ska ta emot nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Plundringen av välfärden ka stoppas.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1390",
+          "1387",
+          "1386"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;B;C!;C!;A;B;C;C!;A;D!;0/5!;3/5!;2/5;[1390,1387,1386]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inflyttning, bostäder och gröna jobb",
+        "description": "Vi ser ett behov av fler invånare för att bland annat klara kompetensförsörjningen, därför behöver vi skapa förutsättningar för att fler bostäder ska byggas, så fler kan flytta hit. Vi vill bygga 250 nya bostäder för alla åldrar. Vi ska vara med i den gröna omställningen och de arbetstillfällen som skapas i norra Sverige.\r\nVi satsar på en inflyttningslots som en resurs till de som flyttar hit."
+      },
+      {
+        "category": "Kommunen som arbetsgivare",
+        "description": "Vårt ledarskap bygger på tillit till personalens kompetens.\r\nVi ska ta bort delade turer, höja grundbemanningen, ha konkurrenskraftiga och jämställda löner.\r\nAlla anställda inom vården och äldreomsorgen ska ha fria arbetskläder och arbetsskor.\r\nVi ska ha fler sjuksköterskor, undersköterskor och tillgängliga läkare."
+      },
+      {
+        "category": " Skola, äldreomsorg och sjukvård",
+        "description": "Alla barn ska lyckas i skolan, så att de blir redo att anta nya utmaningar eller satsa på vidare studier.\r\nVi inför frukost i skolan och 60 minuter rörelse per dag.\r\nVi ska ha Sveriges bästa äldreomsorg, utan privatisering.\r\nVi står upp för Kalix Sjukhus som ska ha tre vårdavdelningar och Sveriges bästa strokevård.\r\nVi ska en tillgänglig folktandvård för alla."
+      }
+    ],
+    "motivateVote": "Vi Socialdemokrater vill fortsätta att skapa ett samhälle som vilar på medmänsklighet, demokrati, solidaritet, jämlikhet och jämställdhet.\r\nVi ska ha ett rikt näringsliv, en bra skola, ett stort utbud av kultur och ett rikt föreningsliv. Vi vill bli fler Kalixbor, därför bygger vi bostäder för alla åldrar. Det är viktigt att hela kommunen är livskraftig. Det som händer i Norrbotten, händer i Kalix.",
+    "name": "Socialdemokraterna Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-kalix"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "722",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi får välja många andra saker i samhället hur vi vill ha det. Så visst måste man även få välja omsorgsform fast man har blivit äldre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förstår egentligen inte varför det skall behövas finnas en sådan tjänst. \r\nGäller det utrikesfödda kan det vara ok. De kan behöva hjälp att komma tillrätta och få lära sig hur det fungerar i Sverige med olika saker.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det låter helt galet. Samkör kött med alternativa maträtter istället. \r\nMan ska ha kvar möjligheten att äta kött varje dag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då kan personalen hålla längre och klara att jobba fler år. Arbeta inom äldreomsorgen är fysiskt och psykiskt tungt. Då kan arbetsskador undvikas mer. Men då är det viktigt att schemat blir bra. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan vara bra. Beror givetvis på vad folkomröstningen gäller. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja det är en självklarhet. Man ska kunna förstå vid tilltal, samt kunna förstå vad en brukare säger. Viktigt att kunna förstå arbetsordning, sysslor, helt enkelt klara av allt som ingår i arbetet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyrorna har blivit väldigt höga. Svårt för många att ha ett luftigt boende. Viktigt att ha bra boende. Där är det bra att finansiera billigare hyreslägenheter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna  är ej för med elbilar. Inte kommunens uppgift att tillhandahålla en massa publika laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha valet att kunna välja skola. Även om du är nyanländ.\r\nOch då skall friskolan vara skyldig att ta dessa elever också.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Är nog bra i min kommun som det är i dagsläget.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Man måste överväga att kultur är stort. Innehåller mängder av olika saker. Då gäller det att satsa pengar på rätt saker, välja rätt. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1390",
+          "1387",
+          "1391"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;C;A;D;D;D;D;B;D;D;2/5;2/5;2/5;[1390,1387,1391]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i dagsläget",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD tillsammans med M, L, C lokalt",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej det finns det egentligen inte. Bara man är på samma spår i sakfrågor.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Det lokala boendet i kommunen",
+        "description": "Flera nybyggen med lägenheter. Ettor, tvåor samt treor. Viktigast är mindre lägenheter då vi flyttar som ung i en mindre och som äldre flyttar till mindre, sluter boende cirkeln. \r\nMen i samband med nytt privat byggande/boende så måste vi snabba på med bygglov. Unga som vill bygga egna hem vill ha snabba beslut. Annars kan vi tappa dem och dem flyttar till annan kommun. Så korta ned bygglovs tiden."
+      },
+      {
+        "category": "Kvalitet säkra maten inom all kommunal verksamhet",
+        "description": "Kvalitet säkra maten till förskola, skola samt inom omsorgen. Är viktigt att maten håller hög nivå på näringsinnehåll och hög kvalitet på råvarorna. Som även skall vara närproducerade. Vi ska nyttja våra lokala producenter som tar fram bra råvaror. Och närproducerat lika med inom närområde och max inom landets gränser så långt det är möjligt beroende på produkter."
+      },
+      {
+        "category": "Tillväxten lokalt",
+        "description": "Öka tillväxten inom företagande och industri. Få företag att vilja satsa i kommunen genom att bygga ut/bygga nytt. Etablera sig.  Öka inflyttningen genom att skapa arbetstillfällen. Ha en bra barnomsorg/skola/omsorg."
+      }
+    ],
+    "motivateVote": "För att vi vill ha ett Sverige som värnar om familjen, tryggheten, välfärden, rättssäkerheten, vård och omsorgen. Vi ska kunna känna oss trygga i Sverige dag som natt.  ",
+    "name": "Sverigedemokraterna Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-kalix"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "723",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5ff5ca6246cbe00d2e440d46063a3611",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "60b67908ba8c340bcaa881a0997f4e96",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor behöver lotsning och matchning för att hitta arbete, utbildning och få hjälp och stöd att komma till rätta i dagens samhälle.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a8ac6590c7c2e3a13df3be21284c835",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt kommunallagen så får inte kommunala bolag konkurrera med privata företag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8a6086b3722ad32cb7658f7ce21baadb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn och ungdomar som växer behöver mycket näring och proteiner. Kött och fisk, ägg är mycket bra proteinkällor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ee4d94443b1e579e3730d2e2bd373b36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förbättra kvalitet och arbetsmiljö genom en friskare och piggare personal.\r\nDe som sliter på golvet är i huvudsak kvinnor och jobben är tunga. \r\n\r\nMedarbetare skall orka och trivas!\r\n\r\n6 timmars arbetsdag kommer att lösa kompetensförsörjningen, helt och hållet.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb0fa56d6b5ed7c0fd11a1ee66d1b6ea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folket skall i högre utsträckning vara med och bestämma, det är bra för demokratin. \r\nDet skapar en större förståelse och ett bättre samhällsklimat.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c457267e5b9ad89f7ea22398b6052752",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall finnas möjligheter att utbilda sig i språket samtidigt som man praktiserar, arbetar eller utbildar sig.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ecfdc8a32e2f5db45f62b0aec8f31d77",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skall kunna ha möjlighet till en bostad.\r\nUnga människor skall kunna bo kvar och flytta hit.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6a2e5be04d7ae9e2d84e84777597ad76",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler och fler skaffar elbilar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2ac5ad8c85285622b64e690a0b3bdaf8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "744df06174abdb27b8bc0c3f0c74a780",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jämställt och jämlikt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4bba101c937d82dc2a91ef1a4b41e56",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att våran välfärd skall vara möjlig för alla och vill inte privatisera den.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "73ee69bf5efbd11f8f1f9eec5f72fcd3",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktigt och helande för människor, barn, ungdomar och äldre.\r\n\r\nSkapande och kreativitet är en viktig mänsklig resurs. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "0bc5a96def88cb97c962912744f830fd",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill absolut inte höja skatten mer.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "bb921ab6cf25be7365c8791670e8955c",
+        "questionType": "PRIORITY",
+        "reasoning": "\r\n6 timmars arbetsdag!",
+        "value": [
+          "1387"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "_;D;C;A;D;D;B;D;C;C;C;0/5;4/5;2/5;[1387]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Naturligtvis föredrar vi ett rött styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Oklart.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "6 timmars arbetsdag",
+        "description": "Våra medarbetare skall få 30 timmars vecka, precis som Kommunala fackförbundet driver."
+      },
+      {
+        "category": "Fortsätta bygga bostäder.",
+        "description": "För att höja attraktiviteten och möjligheten för att fler kan bosätta sig i Kommunen.\r\nVi behöver fler billiga hyresrätter, bra bostadsrätter samt attraktiva tomter i attraktiva lägen."
+      },
+      {
+        "category": "Fortsätta utveckla äldreomsorgen",
+        "description": "Vi vill införa en äldreomsorgsgarnti.\r\nVi fortsätter byggnationen av ett nytt särskilt boende och korttidsboende med totalt 50 platser. Skall stå klart 2025."
+      }
+    ],
+    "motivateVote": "Vi vill fortsätta bygga ett jämlikt samhälle och värdigt liv för alla medborgare.\r\n\r\nVi vill införa 6 timmars arbetsdag för våra medarbetare inom vård & omsorg i Kalix kommun.\r\n\r\nVi vill fortsätta utvecklingen av äldreomsorgen med en äldrevårdsgaranti.\r\n\r\nVi vill fortsätta satsningarna på att bygga en stark folkhälsa. Gratis träning för medarbetare i kommunen. Aktiviteter för barnfamiljeroch unga.",
+    "name": "Vänsterpartiet Kalix",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-kalix"
+  }
+]

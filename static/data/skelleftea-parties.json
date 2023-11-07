@@ -1,0 +1,1325 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1485",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2259",
+          "2264",
+          "2266"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A!;C;D!;D;B;B;C;C;A;D;C;B;3/5;2/5;2/5;[2259,2264,2266]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygga, nära skolor",
+        "description": "Skolor och förskolor ska vara trygga platser för våra barn och ungdomar. Förskolor och småskolor i närhet till hemmet inger trygghet hos barnen och skapar mindre trafik i anslutning till lämning och hämtning. Det behöver även finnas mindre enheter, både för barn och pedagoger."
+      },
+      {
+        "category": "Bostäder för hela livet, i hela kommunen",
+        "description": "Det ska vara lätt att bygga och bo på landsbygden och i staden. Det behövs fler småhusområden, billiga bostäder för våra unga och bra seniorboenden, både på landsbygden och i staden.  Det behövs bra tillgång till bredband, kollektivtrafik och bra vägar där man väljer att bosätta sig."
+      },
+      {
+        "category": "Satsa på de gröna näringarna",
+        "description": "Vi behöver öka självförsörjningsgraden på mat och bränsle. Livsmedelsförsörjning, skogsbruk, jordbruk och djurhållning är områden som på många sätt är grunden för detta. De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen, för en ökad livsmedelsproduktion och för en bättre beredskap. Men företagsklimatet måste förbättras, dialog och minskat regelkrångel är två sätt."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla människor i hela landet, på landsbygden i städer och i förorter. En röst på Centerpartiet är en röst för klimatets bästa - för minskade utsläpp, grön omställning. För ökad jämställdhet och en trygg sjukvård.  Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism",
+    "name": "Centerpartiet Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-skelleftea"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1486",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nationellt behöver vi mer kärnkraft absolut, men vi ser inte att det är just Skellefteå Kraft som i förstahand skall vara med och investera i Kärnkraft. Kanske på sikt, men inte nu i närtid. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inte rakt emot en koldioxidbudget. Vi är dock ifrågasättande till hur denna skall utformas och vilka faktorer som skall vägas in. Ramarna för denna budget bör först utformas ordentligt, innan man sätter en faktisk koldioxidbudget",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut, Norge är ett bra exempel i hur man fördelar resurser och inkomster till delar av landet som producerar energi och råvaror. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skellefteå kommun måste aktivt motverka osund konkurrens. \r\nSkellefteå ligger ständigt på låga placering i Svenskt Näringslivs ranking över företagsklimat. En stark bidragande faktor till detta är den omfattande osunda konkurrensen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är svårt att få detta att gå ihop. 25% kortare arbetsdag innebär 25% högre lönekostnad, om de totala tjänste utförandet skall vara detsamma. Vi har idag även en situation med kompetensbrist inom äldreomsorgen. Skall fler anställda göra färre timmar per dag, så behövs fler anställda för att täcka det totala behovet. Och det är svårt att få tag i personal redan i dagsläget.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med ett (S) styre har det visat sig att folkomröstningars resultat inte räknas. De styrande gör ändå som man vill. Därav har det varit dysfunktionellt.\r\nVi anser dock inte att fler folkomröstningar är något att sträva efter. De folkvalda politikerna som väljs i kommunalvalen måste i hög grad ha mandat att fatta beslut, utan ytterligare folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Språktestet bör även vidareutvecklas. Det är av yttersta vikt att personal och brukare förstår varandra. Av både trygghet och säkerhetsskäl",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör vara ett rimligt krav att en viss andel nyanlända elever även skall kunna placeras i friskolor. Friskolorna skall även ha rätt till samma summa per elev, som de kommunala skolorna. Och en beräkningsmodell måste tas fram i samråd med friskolorna för hur många nyanlända elever som är lämpligt och möjligt per respektive skola.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen behöver fler hyresrätter, och billiga sådana. För att göra det möjligt att komma in på bostadsmarknaden. Därav måste SKEBO det kommunala bostadsbolagets avkastningskrav sänkas, för att göra detta möjligt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut! Det behövs valfrihet inom äldreomsorgen. Bara för att man blir äldre skall man inte fråntas möjligheten att välja boende eller hemtjänst.\r\nNationella undersökningar visar även att nöjdheten är högre inom både personal och boende vid privata alternativ. Skellefteåkommun har en dyr äldreomsorg utan att kunna påvisa hög kvalitet. Det behövs val konkurrens och valmöjlighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens kärnverksamhet. Därav bör andra aktörer i första hand vara exploatörer av ladd-infrastruktur. Om kommunens bolag Skellefteå Kraft AB ansvarar och investerar i publika laddstolpar är en annan sak. Det vore positivt. Skekraft har även påbörjat det i ett stort samarbete med OKQ8.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut, detta behövs för att se till att man på ett förtjänstfullt och hållbart sätt klarar av att ta väl hand om dem som kommer. Med hög kvalitet för de kommande individerna, för att ge en bra förutsättning för god och hållbar integration. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser potential i att friskolor är ett bra komplement i en växande stad, där det kan erbjudas mer valmöjligheter och mångfald.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": "Denna kommun lägger mycket pengar på kultur redan idag, räknat mot vad kostnaden för vårt kulturhus innebär. \r\nVi hade gärna sett en annan fördelning, där kulturhusets kostnader varit lägre. Till förmån för kultur även utanför kulturhusets väggar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill i dagsläget inte se någon skattesänkning. Det är inte motiverbart i den expansiva fas Skellefteå befinner sig i. Då vi har många och stora satsningar som måste göras. På sikt är vi dock öppna för en skattesänkning när vi vet hur väl kommunen klarar av expansionen och prioritering av välfärden.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2264",
+          "2266",
+          "2263"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "C;C;D!;D;A;B;D!;C;C;D!;B;C;3/5;2/5;2/5;[2264,2266,2263]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad som är känt när dessa svar lämnades in",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett maktskifte, och ett borgerligt styre, för första gången sedan allmän rösträtt infördes.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det är inte troligt att vi skulle styra med S eller V. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordningslärare i skolan för ökad studiero och lärares huvudfokus på undervisning",
+        "description": "Vi vill införa ordningslärare/socialpedagoger i skolan. De ska stötta elever och lärare i olika sociala frågor, såväl förebyggande som aktivt, med att skapa bättre studiero och trygghet i och utanför klassrummen. Studiero och trygghet gynnar alla elever inte minst elever med behov av särskilt stöd. Det ger även lärarna bättre möjligheter att fokusera på sin huvudsakliga uppgift- att undervisa."
+      },
+      {
+        "category": "Ökad kompetensförsörjning och bostadsbyggande i orter även utanför stadskärnan.",
+        "description": "Utifrån dagens bostadsbrist vill vi öka bostadsbyggandet och därmed stärka möjligheten för fler att bo i orter utanför stadskärnan. Det är viktigt inte minst för att få en positiv utveckling, levande samhällen och ökad möjlighet för kompetensförsörjning till verksamheter på orter utanför stadskärnan. Det skapar även möjligheter för fler att jobbpendla från landsbygdsorter in till centrum."
+      },
+      {
+        "category": "Valmöjlighet och alternativ inom vård och omsorg. Kommunens verksamhet brister.",
+        "description": "KD vill ge de äldre rätten att välja sitt äldreboende och sin hemtjänst. Vi vill tillåta privata alternativ. Vi ser att kommunens äldreomsorg har stora brister och vi menar att fler alternativ kommer att bidra till att kvaliteten höjs. Rätten att bestämma över sitt liv skall inte upphöra bara för att man blir äldre. Rätten att välja eller att välja bort det som inte fungerar ska gälla hela livet!"
+      }
+    ],
+    "motivateVote": "Vi vill sätta invånarna främst, genom hela livet, Skellefteå skall vara en bra plats att bo på oavsett ålder. Skellefteå växer och det viktigaste för oss är att vi växer hållbart och inte slösar med skattemedel på fel saker. Vi vill lägga största fokus på att bibehålla eller öka kvaliteten inom välfärden. Kommunen måste prioritera sina kärnverksamheter före extravaganta projekt.",
+    "name": "Kristdemokraterna Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-skelleftea"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1487",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatomställningen kräver en omfattande elektrifiering. Produktionen, distributionen och användningen av el behöver minst fördubblas inom 20 år. För att det tekniskt ska vara möjligt att klara av det och samtidigt upprätthålla leveranssäkerheten behövs mer planerbar elproduktion. Kärnkraften är det enda fossilfria planerbara kraftslaget som går att bygga ut i stor skala.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kommunens vatten och natur ska bevaras krävs att den biologiska mångfalden värnas och att gröna korridorer upprätthålls för kommunens ekosystem. Om klimatmålen ska kunna nås i Skellefteå måste koldioxid avskiljas vid stora förbränningsanläggningar och lagras långsiktigt. Tekniken för kolinfångning ur luften måste också utvecklas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta sker redan i dag i Skellefteå eftersom kommunen äger vårt eget kraftbolag. Liberalerna vill att en större del av pengarna som kommer från vind- och vattenkraftverk ska tillfalla kommuner och regioner än vad de idag gör.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Osund konkurrens är inte önskvärt och det är någonting Liberalerna har kämpat länge emot i Skellefteå kommun, som ligger bland de sämsta kommuner i landet i denna fråga och enligt aktuella rapporter från näringslivet. Vi står för att motverka osund konkurrens i vår kommun men inte för att hela kommunala bolag ska avvecklas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Forskning som finns om sex timmars arbetsdag visar att det varken leder till förbättrad hälsa eller leder till fler jobb. Liberalerna vill hellre satsa på att höja lönerna, anställa rätt kompetenser, förbättra arbetsmiljön - scheman framförallt - och arbetsvillkoren, motverka tystnadskulturen, jobba med tillit baserad ledarskap och utöka karriärmöjligheterna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna tycker att folkomröstningar ska användas varsamt. Den erfarenhet vi har av folkomröstningar är däremot att det inte har respekterats av de majoriteten.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna föreslår att språkkrav ska införas för anställda inom äldreomsorgen, och ett språktest vid nyrekrytering. Enligt IVO är ett riskområde att patienter kanske inte får den vård som de borde ha. Det är en förutsättning för att kunna göra ett gott arbete och kommunicera med de årsrika. Hjälp ska självklart finnas även på det egna språket för dem som har ett annat modersmål än svenska. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna att alla skolor, så väl fristående som kommunala, ska ha en kvot avsatt för nyanlända elever. Kvoten ska uppgå till 5 procent av platserna. Det ska inte vara någon skillnad om det är en kommunal eller friskola. Integration börjar i skolan. En vision för integrationspolitiken är att det så långt möjligt ska råda jämlika möjligheter för inrikes och utrikes födda.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna tycker att detta är ett ganska bra förslag och särskilt nu, i dessa tider av otrolig expansion och bostadsbrist. Skebo är vårt kommunala bostadsbolag och en viktig aktör på bostadsmarknaden och det är vårt ansvar att se till att vi har en fungerande bostadspolitik.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna menar att alla har rätt till en värdig ålderdom. I Skellefteå ökar antalet personer över 80 år. Det ställer växande krav på vård- och omsorgen. Kommunen ska visa äldre som behöver hjälp respekt för deras behov, livsval och intressen. Äldre som behöver boende eller hemtjänst ska ha stor valfrihet. Liberalerna har dessutom länge jobbat för mellanvårdsboende och hospice.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vill att en elektrifieringspakt med näringslivet och andra skall bidra till att bygga ut Skellefteås infrastruktur för elbilar – antalet laddstolpar ska utökas kraftigt. Detta vid sidan av Skellefteå krafts nuvarande investeringar i en ladd-infrastruktur. Det är väldigt viktigt för den gröna omställningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vil att människor som flyr krig och förföljelse ska få skydd. Asylrätten ska värnas. Det är individens skyddsskäl som avgör om man får stanna. Arbetskraftinvandring är bra för Skellefteå. Det måste vara enkelt för företag att anställa människor från andra länder och attraktivt för människor med nyckelkompetens att välja stanna i vår kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": "Liberalerna tror på valfrihet, från förskola och uppåt. Vi har inte så många friskolor. Finns utrymme för fler i Skellefteå. Vi tror även på ett aktivt skolval för alla elever och vi säger nej till kommunal styrning av vilken skola du ska gå på.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": "Skellefteå växer så det knackar. Vi behöver fler och fler kompetenser. För att locka människor hit måste vi kunna erbjuda en bra kultur och fritid. En fri konst och kultur är grundläggande för individens och samhällets frihet. Liberal kulturpolitik syftar till att människor ska få tänka själva – inte att de ska tänka ”rätt”. Principen om armlängds avstånd från politiken ska vara styrande. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2259",
+          "2264",
+          "2266"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C;D;C;B;B;D!;C!;C;D!;D;B!;3/5;2/5;2/5;[2259,2264,2266]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalerna i Skellefteå kommun har samma politik i riksfrågor som Liberalerna på riksnivå. I lokala frågor som gäller vår kommun är det Liberalerna Skellefteås medlemmar som beslutar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Skellefteå behöver ett maktskifte efter 100 röda år. Vi jobbar aktivt för ett liberalt borgerligt styre, en Allians där L, M, C och KD ingår. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som vill diskriminera människor utifrån kultur eller härkomst.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan är en av kommunens viktigaste uppgifter",
+        "description": "En god och likvärdig utbildning för alla är av största vikt för demokratin och samhällets utveckling. Oavsett bakgrund ska alla ges samma möjligheter. Barn och unga ska mötas av höga förväntningar, undervisningen ska så långt möjligt anpassas till individens förutsättningar. Ingenting är viktigare för en bra skola än skickliga lärare och rektorer. Kommunen ska erbjuda bästa tänkbara arbetsvillkor."
+      },
+      {
+        "category": "Ett tryggt Skellefteå att arbeta, bo och leva i",
+        "description": "Vi liberaler kommer alltid att vara en röst för att det ska löna sig med utbildning, ansvar, erfarenhet, ambitioner och att göra rätt för sig. Vi prioriterar trygghet i alla former - fysisk, psykisk, social och ekonomisk trygghet. Varenda människa ska ha möjlighet att bestämma över sitt eget liv och jobba hårt för att uppfylla sina drömmar. Hela Skellefteå ska vara möjligheternas kommun, för alla"
+      },
+      {
+        "category": "Skellefteå ska senast år 2040 vara klimatneutralt",
+        "description": "För en hållbar utveckling kommer det att krävas omställningar. Det kräver i sin tur ny teknik, ekonomiska styrmedel och en effektivare hushållning av naturresurser. Frisk luft, rent vatten och en giftfri miljö är nödvändigt för god hälsa och livskvalitet. För en socialt hållbar stad vill vi bygga fler bostäder och för klimatet vill vi bygga fler hus i trä, plantera fler träd och bevara grönytor."
+      }
+    ],
+    "motivateVote": "Liberalerna står för utbildning som grundsten i vårt liberala demokratiska samhälle och en integrationspolitik som skapar möjligheter och ställer krav. Vi tror på ett hållbart Skellefteå där vi bygger hinder för klimatutsläpp och river hinder för klimatvänlig teknik. Tillsammans med Dig skapar vi ett växande, tryggt och hållbart Skellefteå, som är möjligheternas kommun för alla.",
+    "name": "Liberalerna Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-skelleftea"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1488",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kärnkraft är dyrt och tar lång tid att bygga. Det som lockat investeringar till norra Sverige är den förnybara energin, och det är det spåret Skellefteå kraft ska fortsätta på. Dessumtom finns det många miljökonsekvenser av kärnkraften",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "En koldioxidbudget är ett tydligare verktyg än ett utsläppsmål, och gör att arbetet inte kan skjutas på framtiden",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet var tidiga att föreslå att intäkter från vindkraft ska gå till kommunerna. När det gäller vattenkraft, som ofta påverkar ett större större geografiskt område vill vi att inkomster tillfaller regionen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att avveckla alla sådana bolag vore drastiskt. Kommunala bolag, som till exempel Skellefteå kraft är viktiga för samhället och det är bra att kommunen och medborgarna kan vara med och påverka bolagens utveckling.  Däremot är det viktigt att inte konkurrera med näringslivet i onödan och att man deltar på marknaden på rättvisa villkor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för en arbetstidsförkortning, som ett första steg kan det göras i verksamheter som efterfrågar det och där det går att lösa praktiskt och det finns en efterfrågan från arbetsgruppen. Om fler ska arbeta färre timmar måste det bidra till sjunkande sjuktal och att kommunen blir en mer attraktiv arbetsgivare, så att kompetensförsörjningen klaras",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är positiva till mer direktdemokrati, i frågor som passar för en folkomröstning. även om det inte görs i formen av folkomröstningar är det viktigt med en tidig dialog med medborgarna.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla anställda har den kompetens de behöver för att kunna göra ett bra jobb och ge en god omsorg. Vi bör kunna lita på att de som anställer gör en bedömning från fall till fall. Att tala andra språk kan också vara en merit. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vinstjakten inom omsorgen måste stoppas, vi vill därför inte se att stora koncerner driver äldreboenden och hemtjänst. Vi är däremot positiva till idéburna verksamheter och mindre företag där vinsterna återinvesteras i verksamheten. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör vara en av många aktörer som arbetar för detta. Gärna genom det kommunägda bolaget Skellefteå kraft",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner bör ta samma ekonomiska ansvar för flyktingmottagnadet. Däremot kan det vara vissa kommuner som vill ta emot fler, och vissa som har möjlighet att ta emot mindre. Det är vitkigt att varje ny medborgare får en bra möjlighet att integreras i samhället. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste är att pengar som skulle gått till skolan inte försvinner som vinster och att skolans verksamhet är stabil. Privata skolor kan ibland vara ett bra komplement. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": "Mer satsningar på små utövare och även uppmärksamma nya former av kultur och inkludera den kreativa näringen som till exempel spelkulturen",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;D!;B;C;C;B;D;D;B;D;B;2/5;3/5;2/5;_",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Viktigast är att grön politik får så stort genomslag som möjligt",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk miljö- och klimatarbetet i Skellefteå",
+        "description": "Skellefteå ska bidra till den gröna omställningen i världen och samtidigt vara ett föredöme lokalt. Tillväxten ska ske med minskad klimatpåverkan och med hänsyn till miljön. För det behövs en tydlig plan från kommunen och att näringsliv, forskning och medborgare får vara delaktiga. En koldioxidbudget anpassad för Skellefteås förutsättningar. Miljövänliga val ska alltid främjas."
+      },
+      {
+        "category": "Bostäder till utsatta",
+        "description": "När trycket på bostadsmarknaden ökar blir det svårare för de som behöver hitta en bostad snabbt. Det kan till exempel handla om kvinnor som lämnat en våldsam partner och snabbt behöver en ny bostad för sig och sina barn. Vi vill att en liten andel av de nya lägenheter som byggs går till socialtjänsten så de kan hjälpa dem som är i akut behov av en bostad."
+      },
+      {
+        "category": "Bättre arbetsförhållanden i kommunen",
+        "description": "När det gäller både skola och omsorg är personalen den viktigaste resursen och då är arbetsmiljön en väldigt viktig fråga. Kommunen måste bli en betydligt bättre arbetsgivare. En arbetsgivare som lyssnar och tar vara på den kompetens och erfarenhet som de anställda besitter. Med personal som trivs och känner delaktighet så får vi bättre kvalitet i verksamheterna men även lättare att rekrytera nya"
+      }
+    ],
+    "motivateVote": "Vi är en ständig röst för miljö och hållbarhet, och fortsätter kämpa för att det perspektivet ska finnas med. Vår politik för alla områden grundas i solidariteten med djur, natur, världens alla människor och kommande generationer. ",
+    "name": "Miljöpartiet Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-skelleftea"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1489",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att säkerställa tillgången till stabil och klimatsmart energi i Sverige behövs investeringar i ny kärnkraft. Det är viktigt för svenska hushåll, klimatomställningen och för basindustrin. Eftersom Skellefteå Kraft redan idag är landets fjärde största producent av el från kärnkraft vill Moderaterna att bolaget ska tillåtas att investera i ny kärnkraft, om det bedöms lönsamt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill minska kommunorganisationens utsläpp av koldioxid, bland annat genom att byta ut fordon till sådana som går på el eller fossilfritt bränsle, genomföra energieffektiviseringar av lokaler och utöka kollektivtrafiken. Men vi ser risker i att kommunen skulle ta på sig för omfattande åtaganden, utanför kommunens uppdrag, om vi inför koldioxidbudget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fastighetsskatten för vattenkraftverk ger staten ca 1,5 miljarder kr per år och för vindkraftverk ca 60 miljoner per år. Idag når en allt för liten del av de pengarna till de kommuner där vattenkraften och vindkraften finns. Det vill Moderaterna ändra på. Vi vill att en större del av pengarna som kommer från vind- och vattenkraftverk ska tillfalla kommuner och regioner.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skellefteå kommun är sämst i hela landet när de lokala företagen svarar på frågan om de upplever osund konkurrens från kommunen. Moderaterna vill därför kartlägga och avveckla kommunala verksamheter som konkurrerar med privata företag. Vårt mål är att osund konkurrent inte ska förekomma, men det behöver inte betyda att hela bolag, som ägs av kommunen, ska avvecklas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skellefteå kommun måste göra det mer attraktivt att arbeta inom vård- och omsorgen. Det handlar till exempel om att förbättra arbetsmiljön, erbjuda bättre villkor och utöka karriärvägarna. Här är lön och bättre schema viktiga faktorer. Från Moderaternas sida prioriterar vi därför åtgärder för en bättre arbetsmiljö och lön framför förkortad arbetstid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna står upp för den representativa demokratin och vi anser att folkomröstningar ska användas varsamt. Vi är dock beredda att stötta genomförandet av rådgivande folkomröstningar som begärs av invånarna genom ett så kallat folkinitiativ. Det vill säga att minst tio procent av de röstberättigade i kommunen begär det.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att skapa tilltro och trygghet i äldreomsorgen är språket centralt. Att förstå och bli förstådd är viktigt i all vård och omsorg. Det är svårt att bygga upp en relation människor emellan när kommunikationen brister. Moderaterna vill därför införa krav på att den personal som arbetar inom äldreomsorgen talar svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolornas branschorganisation har aktivt drivit på för att friskolorna ska ges möjlighet att ta ansvar och ha en kvot, vid sidan av kösystemet, för nyanlända. Friskolorna vill således själva vara med och ta ansvar. Regering och riksdagen bör bejaka detta och skapa bättre förutsättningar för friskolornas vilja till ansvarstagande.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler bostäder i Skellefteå och vi behöver olika bostadsformer, allt från hyresrätter till villor. Att det ska byggas fler hyreslägenheter i allmännyttan – SKEBO – är en del av detta. Men SKEBO måste på samma sätt som alla andra bostadsföretag följa reglerna för hyressättning. Därför är effektivitet och enklare byggregler viktigt för faktorer för hyreskostnaderna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill införa lagen om valfrihet (LOV) i Skellefteå. Det innebär att den som har behov av omsorg ska kunna välja vem som ska utföra omsorgen och därmed välja den omsorg som passar den äldre bäst. Samstämmiga rapporter från Socialstyrelsen visar att fler aktörer inom omsorgen ger plats för nya idéer och bidrar till en bättre kvalitét, samtidigt som personal trivs bättre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill driva på och skapa förutsättningar för laddplatser på kommunens mark. Det ska sedan vara företag som tillhandahåller tjänsterna. Kommunens bolag Skellefteå Kraft är en aktör som arbetar med att sätta upp laddinfrastruktur på affärsmässiga grunder. Vi ser med fördel att bolaget fortsätter med detta arbete vid sidan av andra företags etableringar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna anser att kommunerna måste ha större rätta att bestämma över mottagandet av nyanlända baserat på den kapacitet av bostäder, skola och integrationsinsatser som kommunerna har. Att inte ta hänsyn till sådana faktorer riskerar att leda till ökad segregation och utanförskap, vilket i förläggningen kan leda till social oro och otrygghet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna tror på valfrihet. Det är bra att föräldrar och elever kan välja mellan olika skolor och förskolor. Det leder också till högre kvalitet och verksamhetsutveckling. Vi ställer oss därför positiva till fler friskolor och friförskolor. Vi vill även införa ett aktivt skolval och utreda hur skolskjutsreglerna kan förändras för att underlätta valfriheten.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna värna välfärdens kärna, såsom förskolan, skolan och omsorgerna. Vi vill prioritera mer till dessa verksamheter framför breda kultursatsningar. Skellefteå är en av de kommuner som idag lägger mest skattepengar på kultur per invånare. Här är vi beredda att omprioritera. Den kultur som kommunen finansierar ska fokuseras till barn och unga samt för dem som finns inom omsorgen.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill sänka kommunalskatten för att invånarna får behålla mer pengar av sin lön och att Skellefteå ska bli mer attraktivt för inflyttning. Vi vill göra det succesivt och ansvarsfullt. Målet är 50 öre. Idag förlorar en vanlig familj som flyttar från södra Sverige till Skellefteå ca 20 000 kr om året efter skatt pga skatten. Det försvårar den arbetskraftsinflyttning som Skellefteå behöver.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": "Moderaternas mest prioriterade frågor är en bättre skola med kunskapsfokus och studiero, mer bostadsbyggande och ett tryggare Skellefteå.",
+        "value": [
+          "2259",
+          "2261",
+          "2266"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;B;D;C!;A;B;D!;C;C;D!;D;D!;3/5;1/5;1/5!;[2259,2261,2266]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Främja ett växande Skellefteå – både på landsbygden och i staden",
+        "description": "Nya etableringar gör att Skellefteå växer. Det ska ske både i landsbygd och stad, vilket kräver bostäder, infrastruktur och kompetensförsörjning. Vi har offensiva mål för byggandet av fler småhus, hyres- och bostadsrätter i hela kommunen. Vi vill investera i väg, järnväg, hamn och flygplats. Vi prioritera mer pengar till utbildning och vill sänka kommunalskatten för att locka till inflyttning."
+      },
+      {
+        "category": "Insatser för ett tryggare Skellefteå",
+        "description": "Enkäter visar att hälften av Skellefteås tjejer känner sig otrygga. Vårt svar: tydliga trygghetinsatser. Vi vill införa kamerabevakning på brottsutsatta platser och anlita kommunala ordningsvakter med ett brett trygghetsuppdrag. Socialtjänstens fältverksamhet ska förstärkas och droger i skolmiljön ska bort. Vi vill bygga bort otrygga miljöer och förbättra belysningen av t.ex. gång- och cykelvägar."
+      },
+      {
+        "category": "Prioritera kärnverksamheten – skola och äldreomsorg",
+        "description": "Vi prioriterar välfärdens kärna, såsom skola och äldreomsorg. Besparingar inom byråkrati, projekt och kultur samt mer konkurrensutsättning ska frigöra pengar till utbildning och omsorg. Kunskap och ordning ska stå i centrum för skolan. Fler elever ska nå godkända betyg. Trygghet, hög kvalitet och valfrihet ska stå i centrum för äldreomsorgen. Vi vill se LOV i hemtjänsten och fler trygghetsboenden."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-skelleftea"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1490",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skellefteå Kraft är en nyckel till kommunens gröna omställning och har ett viktigt fokus på förnyelsebar energi. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skellefteå Kommun ska vara skyltfönstret för en grön omställning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturtillgångar är nationella i första hand. Däremot ska kompensationer finnas för olägenheter som uppstår i samband med exempelvis energiutvinning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samhällsviktiga funktioner ska ägas av samhället. Alla resurser som avsätts till samhällsviktiga funktioner ska gå till verksamheten, inte till vinster i privata företag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Minskad arbetstid är ett långsiktigt mål som kan möjliggöras av ökad automatisering i samhället.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan aldrig vara ett självändamål att ha folkomröstningar. De ska hållas om tillräckligt många invånare tycker att det behövs. Vi vill alltså inte styra antalet folkomröstningar utan tycker att nuvarande regelverk ska gälla.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språkkunskaper är nödvändigt men utbildning och stöd är betydligt viktigare än tester.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skattepengar ska inte gå till att bygga bostäder. Däremot är det kommunala bostadsbolaget Skebo en viktig aktör på bostadsmarknaden. Och en kommunal allmännytta är viktig för en fungerande bostadspolitik.   ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla resurser som avsätts till vård, stöd och omsorg ska gå till verksamheten. Inte till vinster lite privata företag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansvaret delas med andra aktörer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner bör ta ansvar. Men kommuner som Skellefteå har velat ta ett större ansvar än tilldelningen bör kunna göra det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2258",
+          "2266",
+          "2263"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A;D;B;A;C;B;B;D;D;A!;B;B;0/5;3/5;2/5;[2258,2266,2263]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill lokalt att Sverige skriver under FN:s resolution mot kärnvapen.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se en Socialdemokratiskt ledd regering, ett socialdemokratiskt lett regionfullmäktige och en stabil majoritet i kommunfullmäktige med ett eller flera socialistiska partier..",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som vill diskriminera människor utifrån kultur eller härkomst.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi ska vara en trygg kommun att leva i, för alla, på alla sätt.",
+        "description": "Att alla medborgare i Skellefteå Kommun ska vara trygga är en prioriterad fråga för oss. Gator och torg ska vara trygga platser men även social och ekonomisk trygghet är grundläggande förutsättningar för att alla ska kunna skapa sitt bästa liv i vår kommun."
+      },
+      {
+        "category": "Våra viktiga samhällsfunktioner ska ägas av samhället, inte av privata företag.",
+        "description": "Skellefteå kommun växer så det knakar och en förutsättning för det har varit att kommunen har behållit kontrollen över viktiga samhällsfunktioner och äger ex. flygplats, hamn, kraftbolag och exploaterbar mark. Därför klarar kommunen att möta stor inflyttning och etableringar. Vård, omsorg och stöd i kommunal regi innebär mer vård och stöd där inga skattepengar går till vinster i privata företag."
+      },
+      {
+        "category": "Vår kommun ska vara skyltfönstret för en grön omställning.",
+        "description": "Skellefteå är en viktig del av den  omställning för framtidens gröna industri som pågår i norra Sverige. Där ska politiken vara en möjliggörare och Skellefteå ska vara ett skyltfönster för hela landet som visar vägen framåt."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna är ett parti som står för solidaritet, jämlikhet och jämställdhet. Vi står för ett samhällsbyggande där vi alla, efter våra förutsättningar, bidrar med det vi kan. \r\n\r\nVi ska vara en trygg kommun att leva i, för alla, på alla sätt. Våra viktiga samhällsfunktioner ska ägas av samhället och inte av privata företag och vår kommun ska vara skyltfönstret för en grön omställning. ",
+    "name": "Socialdemokraterna Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-skelleftea"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1491",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "De industriella satsningarna i norra Sverige, och i synnerhet runt Skellefteå, kommer att öka behov av stabil baskraft i stora delar av landet. Detta gäller särskilt vintertid, då vindkraften inte producerar i önskad omfattning. Vi tror på kärnkraft som en viktig, framtida energilösning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": "En koldioxidbudget för att minska kommunala utsläpp kan låta bra, men har en väldigt ringa betydelse när det gäller både miljö- och klimat. Det kan därför innebära helt onödiga kostnader och begränsningar för våra kommuninvånare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som regel anser vi inte att kommunen ska konkurrera med privata företag. Samtidigt finns det både kommunala bostadsbolag och energibolag på den privata marknaden, som vi menar är viktiga för kommunens utveckling, och vi har inga ambitioner att avveckla dem. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag med heltidslön inom vården har blivit ett enkelt sätt för trötta politiker att verka handlingskraftiga inför arbetsmiljöproblematik i vården. Jämförelser visar emellertid att konceptet inte fungerar, och att det istället hämmar löneutvecklingen. Vi vill stärka arbetsmiljön på andra sätt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuninvånarna ska absolut få bättre möjlighet att tycka till och uttrycka sin åsikt i stora politiska frågor med omfattande betydelse för kommunens utveckling. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdanställda ska givetvis kunna prata och uttrycka sig väl på svenska. Dåliga språkkunskaper är ett problem inom vården som kan leda till allvarliga konsekvenser såsom risk för felbehandling och andra allvarliga missförstånd. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att kommunen bygger fler hyreslägenheter så att inte minst unga får lättare att komma ut på bostadsmarknaden, men det är också väsentligt att man bygger varierat, så att även den som söker bostadsrätt, radhus och villa upplever Skellefteås bostadsmarknad som attraktiv. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi förhåller oss pragmatiskt i frågan och ser inget självändamål i att enbart eftersträva kommunal eller privat vård- och omsorg. Viktigast för oss är att vården fungerar bra, oavsett driftsform och utförare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstolpar kommer framöver bli viktigare i takt med att elbilarna blir fler. Idag har Skellefteå Kraft redan ett omfattande arbete med att erbjuda den sortens tjänster.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kommuner tvingas ta emot nyanlända är ett symptom på regeringens misslyckade migrationspolitik, där för många asylsökande kommit på kort tid. Den bästa lösningen är inte att tvinga kommuner att ta emot nyanlända - istället måste invandringen begränsas och incitament till återvandring stärkas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": "Det finns inget självändamål i fler eller färre friskolor. Det viktigaste är att de skolor som finns i kommunen, kommunala såväl som privata, håller god kvalitet och erbjuder god undervisning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": "Skellefteå kommun har spenderat stora summor pengar på kultur och kulturverksamhet de senaste åren. Den kommunalt finansierade kulturen är samtidigt starkt subventionerad. Det vore klokt att verka för en högre självförsörjningsgrad inom kommunala kulturella verksamheter. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser inget behov av att höja eller sänka skatten i nuläget, även om vi långsiktigt betraktar ansvarsfulla skattesänkningar som något positivt, så måste det ske när det finns rimliga förutsättningar för det. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2260",
+          "2259",
+          "2263"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;A;C;C;A;D;D!;A;C;C;C;D!;2/5;1/5;2/5;[2260,2259,2263]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg vackrare nybyggnationer och bevara mer klassisk arkitektur.",
+        "description": "Skellefteå kommun har under 1900-talet drabbats av stora rivningsvågor som förstört viktiga lokala, kulturella och historiska värden i stadsmiljön. Vi vill att kommunen i högre grad bevarar klassisk arkitektur, underhåller kulturhistoriska byggnader och strävar efter att bygga vackrare och mer estetiskt tilltalande vid nybyggnation - inte bara kalt och fyrkantigt."
+      },
+      {
+        "category": "Satsa mer på kommunal kärnverksamhet.",
+        "description": "För Sverigedemokraterna är välfärden viktigast, och höga välfärdsmål är vår riktlinje i de kommunala prioriteringarna. Vi vill att mer pengar prioriteras till kommunal kärnverksamhet med utökad budget inom bl a förskola, skola, äldreomsorg, VA- och väg- och gatuunderhåll och landsbygdstutveckling."
+      },
+      {
+        "category": "Fler insatser mot otrygghet.",
+        "description": "Idag upplever många, i synnerhet unga kvinnor, att Skellefteå blivit mer otryggt. Vi vill stävja otryggheten med fler trygghetsinsatser. Vi vill t ex utöka den befintliga ramen för kommunala ordningsvakter, att socialtjänsten får utökade resurser till förebyggande arbete, arbeta mer med offentlig kamerabevakning och ta bort infrastrukturell otrygghet - som mörka gränder och obevakade gångtunnlar."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-skelleftea"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1492",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "16bf4f9e75fcd36cf542993ce97e560b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ej förnybar energi. Dessutom måste det radioaktiva avfallet lagras under en enrom lång tid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "871138b035e488d96371eae8054ead52",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a27dd0ff05eca6e6a273ade3cfce21b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska inkomster i större utsträckning hamna från där de skapas. Kolonialtänket ska upphöra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fe8d8d99e94fdecd75c4b92b2b5f219a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beror helt vilken marknad vi pratar om. Bostadsbolag, lokaltrafiken, vård- och omsorg mm känns för oss självklara att kunna bedriva i offentlig regi, för rådighet och för den samlade samhällsnyttan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "1edd5411b487ac3270418e75daf8597a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är det slutliga målet. För oss är det dock viktigast att vi kommer tillstånd med någon form av arbetstidsförkortning för de som utför tunga arbetsuppgifter, för en arbetsgrupp där vi inte enbart kan konkurrera med lönen. Det är inte för inte som många inom detta arbetsområde självmant väljer att inte jobba heltid, det känner att återhämtningen är för kort.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9790ecc7bcd45f75fb4c298ea6ca551",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala folkomröstningar är inte bästa sättet att styra en kommun, de är dyra, svårt att få tydliga alternativ och en ständig konflikten om de ska vara rådgivande eller avgörande eller hur stort valdeltagande som krävs för giltighet? Vi hävdar att dialogmöten med medborgare, intressegrupper och berörda kommer att ge betydligt bättre underlag för beslut om politiken tvekar i någon fråga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9925e36a1be6217dbe5a6c4ee8e5bde3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, men det är viktigt att de som anställs har tillräckligt goda kunskaper i språket för att kunna möta och förstå vårdtagare och för att kunna utföra sina arbetsuppgifter utan risk för felbehandling eller liknande uppstår.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f43f078527a0f262f3b6636078171320",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. Eftersom det äe offentliga medel, skattemedel, som betalar deras verksamhet så ska den gälla för alla, inte bara utvalda elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "17bf1bc94184f6ef7cd0fdcc770b0690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5ae696335298692bf724505053d44e45",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "30022f37bb805f2d7ef2b67888a30c53",
+        "questionType": "PROPOSITION",
+        "reasoning": "I ett samarbete mellan Skellefteå kraft AB och OkQ8 kommer laddstolpar att finnas tillgängliga i kommunen. Vi är dock tveksama till om det ska vara en ansvarsfråga för kommunen. I dagsläget planerar SKEBO för laddstolpar i nybyggnation och kanske snart i det äldre bostadsbeståndet. Tesla pratar också om att öppna sina laddare för andra bilmärken än endast deras eget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "452d1a31521fa5df262127caf0476204",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "929e8ee1352e9789a13b8b3a1a6c9ade",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "77ad8b1e2dbf7cfc41ab05a32ba5ce37",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6842808662c47e9753b7f90c1dcbf4c2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d9b89a3047fd8eb40a32dd44659d896a",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2258",
+          "2266",
+          "2263"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A;D;D;B;D!;B;B;D;D;B;B;A;0/5;3/5;3/5;[2258,2266,2263]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "På riksplanet vill vi se en rödgrön regering med egen majoritet.  På kommunnivå ett fortsatt samarbete med Socialdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och alla partier som kan tänka sig samarbeta med dem.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad bemanning och förbättrad arbetsmiljö inom vård, omsorg, stöd och service.",
+        "description": "De, oftast kvinnor, som jobbar i de lågavlönade yrkena inom vård, stöd och omsorg har tunga och långa arbetspass med ohälsosamma scheman. Därför vill Vänsterpartiet öka bemanningen så att vår välfärdspersonal ges tillräcklig tid för återhämtning och hälsosammare arbetstid. Ett införande av 30-timmars arbetsvecka är ett verktyg för att kunna nå ett hållbart arbetsliv."
+      },
+      {
+        "category": "Feminism och jämställdhet - viktiga byggstenar i det hållbara samhället",
+        "description": "Vänsterpartiet vet att en feministisk stadsplanering ger bättre bostadsområden och gång- och cykelvägar för alla. Det handlar om trygghet, men också om vem som är normen. Vem är det som handlar, lämnar på förskolan eller åker med bussen? Vänsterpartiet vill att detta ska genomsyra all offentlig verksamhet, i planering av allt från belysning och planteringar till bostäder och infrastruktur."
+      },
+      {
+        "category": "Skellefteå - en levande landsbygd, en levande stad, en bra plats att leva på",
+        "description": "Vänsterpartiet vill att Skellefteå ska vara en plats där människor vill leva och bo. Detta åstadkommer vi med en väl utbyggd kollektivtrafik som ger möjlighet att kunna leva och bo även utanför tätorterna. Vi vill fortsätta att bygga blandade bostadsområden med både lägenheter och villor. Vi behöver många gröna stråk, fler stadsnära parker och ett rikt kultur- och fritidsliv."
+      }
+    ],
+    "motivateVote": "Därför att vi är ett parti som håller vad vi lovar, står upp för de svaga i samhället och aktivt arbetar för att ta tillbaka kontrollen över välfärden.",
+    "name": "Vänsterpartiet Skellefteå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-skelleftea"
+  }
+]

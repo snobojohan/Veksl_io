@@ -1,0 +1,1387 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "147",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "När el-flyget utvecklas kan det innebära helt nya möjligheter att resa. Då vore det oklokt att avveckla vår flygplats.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste öka vår självförsörjning av livsmedel. Då är den brukningsvärda jordbruksmarken oerhört viktig. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag får inte konkurrera med privata näringslivet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är inte ekonomiskt genomförbart.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar ska användas mycket sparsamt. Bättre att utveckla formerna för dialog mellan beslutsfattare och kommuninnevånarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla som jobbar i äldreomsorgen kan kommunicera med de äldre på ett bra sätt.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra sätt att öka integrationen om en ny flyktingkris uppstår.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bostadsbolag kan se till att det finns billiga hyreslägenheter men kommunen kan inte gå in och täcka kostnader.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslut är nyligen taget i Borlänge om att handla upp hemtjänst från privata bolag",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre att olika företag tillhandahåller laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borlänge har tagit emot många flyktingar. Det ställer krav på oss att klara integrationen. Men vi behöver fler, inte färre människor som jobbar i framtiden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bara ett fåtal friskolor i Borlänge. Skulle vara bra med fler att välja på.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Kulturverksamhet är viktigt. Vi vill fortsätta satsa ca 45 miljoner så som vi gör idag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Just nu ser vi inte möjligheten att minska kommunalskatten. Men kan vi minska de kommunala utgifterna är vi beredda att sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "41",
+          "42",
+          "40"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "31",
+          "33",
+          "27"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;A!;D!;A;B;D;C;B;D!;B;B;3/5;2/5;2/5;[41,42,40]!;[31,33,27]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten för Borlänges bästa. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En skola där alla elever lyckas",
+        "description": "Vi vill stärka ledarskapet i skolan för att säkra en god lärmiljö som attraherar både personal och elever• Samspelet mellan skolan, elev och vårdnadshavare behöver stärkas. Skolan och socialtjänsten skapar väl fungerande rutiner för tidiga samordnade insatser till elever och familjer. Stärka samarbetet mellan skolan och näringslivet för att utveckla skolans undervisning så att fler får arbete."
+      },
+      {
+        "category": "En trygg vård och omsorg",
+        "description": "Öka tryggheten, självbestämmande och valfriheten inom äldreomsorgen och funktionshinderomsorgen. Äldre ska kunna välja mellan kommunal och privat hemtjänst. Alla med behov av insatser enligt LSS ska kunna känna sig trygga med att de får den hjälp de behöver. Genom ett stärka ledarskapet kan vi förbättra arbetsmiljön och få fler att vilja jobba inom omsorgen. Vi vill öka satsningen på anhörigstöd."
+      },
+      {
+        "category": "Trygga uppväxtvillkor",
+        "description": "Vi ska se till att det lokala samarbetet mellan skola, socialtjänst, fritidsverksamhet, företag och polis fungerar för att tidigt motverka att unga hamnar i kriminalitet. Vi behöver bygga upp ett föräldraskapsstöd som kontinuerligt erbjuds och som hjälper föräldrar att stödja sina barn. Stödet till föreningar ska utvecklas för att de ska kunna inkludera barn och unga från socialt utsatta områden."
+      }
+    ],
+    "motivateVote": "Centerpartiet ser till hela Borlänge. I våra byar och bostadsområden skall du kunna skapa ett bra liv.  Vi tror på människors förmåga att ta ansvar för sig själva och varandra. Vi vill ha mer dialog med borlängeborna så att fler känner sig delaktiga i vår kommuns utveckling. Företagsklimatet ska stärkas. Vi ska driva på den gröna omställningen, det gynnar både näringslivet och klimatet.",
+    "name": "Centerpartiet Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-borlange"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "148",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är delägare i regionens viktigaste flygplats. Det finns både intäkter och kostnader kopplat till det,  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste bli rimligt att markägare som vill omvandla sekundär jordbruksmark till bostadsmark får göra det och att vi i kommunen uppmuntrar att så sker. Vi vill ju såklart även stärka den svenska självförsörjningsgraden viket manar till försiktighet med produktiv åkermark. Det är en balans, men det går att göra mer än vi gör idag.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det fria näringslivet är motorn i vår välfärd och naturligtvis ska Borlänge inte konkurrera med det genom att bygga krogar eller erbjuda servicetjänster som finns på marknaden. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi lider redan kompetens, och personalbrist i stora delar av äldreomsorgen. I hemtjänsten kan det vara 15-20 olika ansikten på en vecka för den som har stöd, att lägga till 4-5 till ansikten är ovärdigt, dessutom kan den som vill idag redan välja att jobba sex timmar. Men skatten är tyvärr så hög att få har råd med det. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar lokalt blir ofta förenklingar och inger en falsk känsla av medverkan. Då tror vi mer på kommundelsutveckling, som i Falun. Där avsätter kommunen pengar för projekt ute i byar och bostadsområden som gagnar samverkan och utveckling det lokala samhället, det skulle vi vilja prova i Borlänge med.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inga konstigheter, ett värdighetskrav och helt rimligt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här ska villkoren jämnas ut mellan de olika huvudmännen och detta är att bra steg på den vägen som leder till en bättre integration och att fler barn lyckas nå sina drömmar i slutändan. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tunabyggen är samhällsnyttig bostadsaktör i borlängebornas tjänst, många har sitt första boende i vår kommun genom dem och därför är prisbild relevant. Med stora volymer borde det gå att till bra hyror. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tveklöst så, det är en värdighetsfråga och ett myndigförklarande av våra äldre borlängebor som vi kämpat för länge. Det är även bra för de som jobbar inom omsorgen att ha fler arbetsgivare att välja mellan och för kvalitetsledningens skull. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politik är att prioritera gemensamma medel för det gemensamma bästa. När vi har stora behov inom kärnverksamheten kan det inte vara kommunens ansvar eller uppgift att ge sig in på en snabbt växande marknad för nya fordonsbränslen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borlänge har under lång tid tagit ett mycket stort ansvar i denna fråga, till och med för stort med resultat i stort utanförskap och påtagliga brister i integrationen. Därför är det rätt att vi tar emot färre flyktingar nu. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Borlänge behöver bli en mer normal kommun. Jämfört med motsvarande kommuner i vår kommungrupp sticker vi ut med väldigt låg andel elever i annan regi än kommunens. Speciellt ser vi fram emot fler idéburna skolor och förhoppningsvis någon IB. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Borlänge är en kulturstad med ett rikt musikliv och gott om föreningar, så ska det fortsätta vara. Det är viktigt med ett transparent och bra system för stöd till kultur och evenemang. Mångfalden av olika kulturutbud kan bli större om det systemet fungerar. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Vår ambition är lite mindre än idag, för det är kronorna som är kvar efter skatt vi köper limpa, bensin och boende med. För att komma dit behöver först fler borlängebor bli självförsörjande. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": "Det är ett svek att inte tryggheten råder i hela Borlänge, faktum 'är att när SCB gjorde sin stora medborgarundersökning sår rankade borlängeborna sin stad som Sveriges mest otrygga. SÅ kan vi inte ha det, men för att bygga ett socialt kapital behövs det regler, det behövs koll på buset och det behövs blandade boendeformer. ",
+        "value": [
+          "38",
+          "37",
+          "35"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": "Det är bara genom att bli fler borlängebor vi på riktigt kan öka vår kommunala resurser till välfärden och resterande åtaganden. Borlängeborna är idag under ett välfärdssvek och det måste attackeras från flera håll, ett av dem är just fler bostäder.   ",
+        "value": [
+          "27"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;C;C;B;B!;C!;C;C;D!;A!;D;3/5;2/5;1/5;[38,37,35]!;[27]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill att det ska bli ett nytt styre i Borlänge och vi kommer samtala med alla partier i kommunfullmäktige som delar den uppfattningen. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Återupprätta tryggheten i Borlänge ",
+        "description": "Tryggheten kommer om vi har ordning, det behövs en folkräkning och regler kring hur många som får bo i en lägenhet hos oss. Vi måste få föreningsbidrag som är transparenta och förutsägbara samt följs upp.  Det måste finnas fritidsgårdar med utbildad personal, och föräldrastöd. Hedersvåldet och kvinnofrid ska prioriteras i Borlänge. Vi vill få bli försökskommun för kommunal polis."
+      },
+      {
+        "category": "Bostadsbyggandet måste ta fart i Borlänge, speciellt villor!",
+        "description": "Vi ska se till att det finns mark att bygga bostäder på i olika former och i olika delar av vår kommun. Från Tuna hästberg, via Torsång till Lännheden. Det är rimligt att bygga oss närmare Falun och fortsätta bygga stad samtidigt. För det krävs bättre dialog med markägarna och samarbete med de som bygger."
+      },
+      {
+        "category": "Värna välfärden, stoppa välfärdssveket ",
+        "description": "Vi vill ta fram en välfärdsstrategi, med personal, medborgare, anhöriga, chefer och input från både forskning och andra som gjort det. Både skolan och omsorgen behöver detta för vi kan inte fortsätta som sämst rankade i landet inom detta. Sen ska vi bryta ned den i planer, med mål. Längre sjukskrivning, fler som klarar skolan och att undersköterskor inte ska städa är början på vårt välfärdslöfte."
+      }
+    ],
+    "motivateVote": "För att vi inte lovar allt åt alla, men vi håller vad vi lovar. KD är en stark röst för de svaga, vi tror på trygghet och ansvar. Borlänge behöver en nystart med ett nytt politiskt ledarskap och vi är redo. ",
+    "name": "Kristdemokraterna Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-borlange"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "149",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver fortsatt flygplatsen som en beredskapsflygplats, för charter så länge det bär sig för branschen och för sjuktransporter. Vi är dock öppna för att kontinuerligt utvärdera flygplatsens vara eller icke vara. Flygbränslen kommer dock blir mer och mer fossilfria, vilket talar för en mer positiv framtid för flyget. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vid detaljplanering göra en noggrann analys av gällande lagstiftning och enbart exploatera jordbruksmark om de särskilda skälen i miljöbalken tydligt uppfylls. Detta för att undvika resursslöseri och i förlängningen undvika upphävda detaljplaner.  Kommunens jordbruksmark som bedöms inte kan användas till byggande ska mer aktivt bytas till mark som är mer lämplig för just bostäder. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att dra alla kommunala bolag över en och samma kam. Vi kan se att det finns ett värde i att bolag som Borlänge energi tjänar borlängeborna väl med dels lägre taxa och att Tunabyggen ger möjlighet för kommunen att t ex ge direktiv om sociala bostäder. Dock är vi fundersamma på huruvida Hushagen verkligen behöver vara ett kommunalt bolag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket tveksamt om ekonomin finns för det i våra kommuner då det skulle leda till fler anställningar och ökade lönekostnader. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill hellre satsa på mer medborgardialog och insyn i beslutsfattandet. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "För äldre är det en trygghet att kunna prata med någon som behärskar sitt eget språk. Vi vill därför att Socialstyrelsens föreskrifter ska ändras genom att personalen i äldreomsorgen måste ha tillräckliga kunskaper i svenska språket. Nyanlända är viktiga i omsorgen. Därför är det viktigt att stat och kommun tillsammans ger anställda rätt förutsättningar för att kunna kommunicera med de boende. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att klara av att minska segregationen så vill vi att alla skolor, såväl fristående som kommunala, ska ha en kvot för nyanlända elever. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna vill förenkla byggreglerna för att öka byggandet och underlätta konkurrens, så att byggkostnaderna kan pressas. Vi anser inte att kommunala skattemedel ska användas för att subventionera byggande av lägenheter, snarare viktigt att vi får in fler aktörer på marknaden. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfriheten och självbestämmandet måste ökas och byråkratin måste minskas kring biståndsbedömningen. Vi är alla olika, även när vi är årsrika. Vi behöver fler platser i vård- och omsorgsboenden, trygghetsboenden och seniorboenden samt att det sociala innehållet i omsorgen måste utvecklas. Här är valfriheten viktigt. Vi har kommit en liten bit på väg i Borlänge men vi behöver fortsätta. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ansvara tillsammans med andra fastighetsägare och aktörer. Det är en gemensam fråga och inte enbart ett kommunalt ansvar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna försvarar asylrätten och anser att alla kommuner ska vara med och dela på ansvaret. Varje kommun ska ta emot nyanlända som anvisas till kommunen och på så vis hjälpas åt. Det skulle innebära att Borlänge som kommun skulle ta emot färre flyktingar och andra kommuner, som hittills tagit mindre ansvar, skulle få ta ett större ansvar. Då hjälps vi åt solidariskt. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Vi värnar idén om borlängebornas egenmakt och individens valfrihet. Vi kommer alltid stå upp för det fria skolvalet. Dock ser vi att efter 30 år med friskolereformen har brister blivit tydliga. Vi vill därför se en ny friskolereform som ersätter den gamla där de skolor som sköts dåligt inte ska kunna ta ut vinst. Det är positivt för kommunen att mäta sig mot andra skolor för förbättring. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för både barn som ung. Genom att läsa och skriva utvecklar elever sitt språk och tänkande. Genom konst och teater utvecklas alla sinnen.  Vi ser att när vi vill prioritera i våra medel så prioriterar vi skola och omsorg högst och därefter bl a kultur.  ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Borlänge är en högskattekommun och på sikt när kommunen har en stark ekonomi måste skatten börja sänkas. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill att alla borlängebor ska känna trygghet i hela kommunen. Vi vill i väntan på fler poliser att kommunen anställer trygghetsvakter som arbetar förebyggande. Vi vill ha Lex Lotta-hus där våldsutsatta snabbare får rätt hjälp och olika myndigheter finns under samma tak. Alla bostadsområden ska vara rustade för ökad trygghet och i Tjärna ängar vill vi att olika aktörer ska samarbeta för det. ",
+        "value": [
+          "39",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": "Det finns inget bättre vaccin mot utanförskap än satsningar på skolan, ingen bättre integrationspolitik, inget mer brottsförebyggande, ingen större frihetsreform. Genom att satsa på skolan och att så många elever som möjligt blir behöriga till gymnasiet lägger vi grunden för en bättre framtid! Högpresterande elever ska också motiveras. Språkförskola med språkkrav för personalen lägger viktig grund",
+        "value": [
+          "29",
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;C;C;A;B;D!;D!;A;D!;C;C;4/5!;3/5;0/5!;[39,41,42]!;[29,31,32]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej in te specifikt men vi arbetar aktivt med att öka företagarperspektivet inom Liberalerna eftersom det är en viktig fråga för oss i Borlänge. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett styre där vi får genomdriva så mycket liberal politik som möjligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "i dagsläget Vänsterpartiet och Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan måste sättas först!",
+        "description": "Vi har höjt skolresultaten och lärarbehörigheten i Borlänge men mycket arbete kvarstår. Fokus ska ligga på elevernas/lärarnas arbetsmiljö, trygghet/studiero. Undervisningen ska individualiseras. Diagnos ska inte krävas för att få särskilt stöd, våra skolor ska NPF- säkras via ett NPF-lyft. Lärare ska vara lärare, deras status/löner måste höjas. Högpresterande elever ska kunna gå i spetsklasser."
+      },
+      {
+        "category": "Fler i arbete och bättre integration",
+        "description": "Det ska gå snabbare från bidrag till jobb genom motprestation för försörjningsstöd, krav på att delta i svenskundervisning som behöver bli bättre.  SFI ska ges på kvällar/helger och ha tydlig jobbkoppling. Bättre matchning till jobb behövs. Man ska kunna plugga SFI och jobba/praktisera samtidigt. Bekämpning av hedersförtryck/parallellsamhällen. Språkförskola med språkkrav  för personalen ."
+      },
+      {
+        "category": "Fler bostäder i Borlänge",
+        "description": "Vi vill ha mer blandat boende med fler bostadsrätter och ägarlägenheter i Tjärna ängar för att öka valfriheten och stärka den ekonomiska situationen. Krafttag behövs för att skapa fler tomter i hela kommunen så fler kan bo här. Kommunen ska aktivt byta sin jordbruksmark till mark som inte är lämplig för odling men lämplig för bostadsbyggande. Realism behövs vid framtagande av detaljplaner."
+      }
+    ],
+    "motivateVote": "I ett liberalt Borlänge får du skola, vård och omsorg med hög kvalitet som är baserat på ditt val. Du erbjuds ett rikt kultur,- fritids- och nöjesliv. Ingen ska hamna utanför. Stöd och hjälp ska därför ges så tidigt som möjligt. Vi har lösningar för ökade skolresultat, snabbare integration, ökad trygghet, säkrad personlig assistans och ett bättre näringslivsklimat. Nu lyfter vi hela Borlänge!",
+    "name": "Liberalerna Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-borlange"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "150",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte att skattebetalarna ska subventionera flyget. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste bevara all jordbruksmark som återstår. Odlingsbar mark blir bristvara i klimatkrisens spår.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen driver på en utveckling som är progressiv och stimulerar andra företag. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sjukfrånvaron är hög bland personalen och med sex timmars arbetsdag ges mer tid för återhämtning. Vi behöver en frisk och kompetent personal för att kunna bedriva en värdig äldreomsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bättre med fler och tidiga medborgardialoger.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver kompetent personal men eventuella språkbrister ska avhjälpas genom samarbete med vuxenutbildningen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla elever ska ha samma möjligheter. Att vara nyanländ ska inte spela roll. All skola ska vara likvärdig.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att det finns ett bra utbud av lägenheter till överkomliga hyror.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill helst se kooperativ och intraprenader.som komplement till den kommunala verksamheten.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra om kommunen sätter upp laddstolpar på egen mark.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det finns bostäder ska Borlänge kommun ta det solidariska ansvaret precis som andra kommuner i Sverige. Det är viktigt med god integration.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Med fler privata företag som driver skola så har inte kommunen längre insyn eller ansvar för alla kommunens elever. Elever med olika förutsättningar behöver mötas i olika skolor för att ge alla en likvärdig utbildning.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Idrott, konst och kultur är kittet som håller ihop samhället. Det bygger broar och vidgar perspektiven. Viktiga faktorer för att göra Borlänge attraktivt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill varken höja eller sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "41",
+          "42",
+          "35"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "28",
+          "34",
+          "31"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;A!;A;D!;B;B!;D;C!;B;D;A!;0/5!;3/5;2/5;[41,42,35];[28,34,31]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. Vi skiljer oss inte från riks.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett samarbete med flera partier där vi får genomslag för våra viktiga frågor. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokrater ligger alldeles för långt ifrån oss förstås. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska utsläppen av koldioxid och klara klimatmålen",
+        "description": "Vi måste minska utsläppen drastiskt och ställa om samhället genom att bl.a.:\r\nStimulera utbyggnaden av solpaneler genom att förenkla bygglovsprocessen.\r\nUnderlätta för att gå, cykla, samåka och åka kollektivt.\r\nAvveckla stödet till Dala Airport."
+      },
+      {
+        "category": "35 timmars arbetsvecka",
+        "description": "Vi vill genomföra 35 timmars arbetsvecka för alla i kommunen. De grupper som ska\r\nprioriteras i övergången är främst de som arbetar i sektorer där den höga\r\narbetsbelastningen leder till brist på personal. Det kan gälla vård/omsorg, socialtjänsten med\r\nflera. Kostnaden för detta kommer på sikt att minska pga bättre kompetensförsörjning och\r\nbättre hälsa för människor och deras familjer."
+      },
+      {
+        "category": "Bevara värdefull natur",
+        "description": "Vi måste bevara biologisk mångfald och skydda värdefulla naturmiljöer. Bebyggelse ska inte\r\ntillåtas i natur som behöver bevaras. Ny bebyggelse ska inte heller tillåtas på jordbruksmark,\r\nutom i undantagsfall. Vid all ny bebyggelse måste stor hänsyn tas till naturen. Vi måste\r\nfrämja biologisk mångfald och ekosystemtjänster i allt vi gör."
+      }
+    ],
+    "motivateVote": " För att miljöpartiet, som enda parti, tar klimatkrisen på fullaste allvar och vågar prata om den. Vi vill att hela Sverige ska göra en omställning där alla kan vara med samtidigt som vi bidrar till en högre livskvalitet. Vi måste leva inom planetens ramar, inte förbruka mer resurser.\r\nFeminismen måste gå längre. Mäns våld mot kvinnor måste få ett slut, kvinnor måste få halva makten och hela lönen.",
+    "name": "Miljöpartiet Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-borlange"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "151",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikationer är viktiga för såväl näringsliv som samhället i övrigt. Dala AirPort ska utvecklas med fler verksamheter på plats",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Livsmedelsproduktionen är viktig och vi ska värna god jordbruksmark för detta ändamål. Bebyggelse kan ske på andra platser som inte konkurrerar med det aktiva jordbruket.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ägna dig åt sin kärnverksamhet, vård, skola och omsorg. För att främja ett blomstrande näringsliv ska kommun hjälpa privata entreprenören med bygglov och i tillståndsärenden. Kommunen ska dock inte konkurrera ut det privata näringslivet. Ju fler egna företagare i kommunen desto mer välmående blir kommun och dess invånare",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varför ska man ha lön för tid som man inte arbetar? Vem betalar den, jo nån annan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns dagsläget ingen fråga som jag ser som aktuell för folkomröstning. Men det kan ju komma en och då får man ta ställning till den.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Brukarna i Borlänges omsorg ska kunna bli bemötta av svensktalande personal. Det är även en trygghetsfrågor då missförstånd kan leda till skada för brukar om  han inte blir förstådd.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns privata entreprenörer som kan bygga bostäder i form av billiga lägenheter, dyrare lägenheter, bostadsrätter och villor. Finansieringen av projekten för sökas på den finansiella marknaden.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska inte bli omyndigförklarad på äldre dar. Du ska ha möjlighet att finna en bostad som du anser lämplig för dig. Det räcker inte med de kommunala kollektiva lösningar där ingen vill bo.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska anvisa var dessa laddstolpar ska lämpligen placeras men de ska installeras och drivas av privata. Jämför med bensinmackar. Jufler laddstolpar desto bättre.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borlänge har misslyckats med integrationen. Det gäller nu att se till att de som bor i västra Borlänge börjar försörja sig själva. Borlänge är en tudelad stad.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är inte vem som driver skolan utan det viktiga är att den som leder undervisningen är utbildad och behörig lärare. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Det finns alltför många synnerligen kostsamma kulturprojekt i denna kommun och kulturföreningar som mjölkar kommun på bidrag",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Borlänge ska ha en kommunalskatt som understiger rikssnittet.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": "Riva nedgångna fastigheter i Tjärna ängar.",
+        "value": [
+          "38"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "29",
+          "27"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;B;D;A;B;D!;A;A;D!;D!;D!;3/5!;0/5!;0/5!;[38]!;[29,27]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill vara del av ett majoritetsstyre där moderaternas idéer tar tydlig plats.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning och reda i ekonomin",
+        "description": "Borlänge kommun har en hög skatt och Borlängeborna är högt skuldsatta.  Kommunen har för höga kostnader och bedriver verksamheter som privata aktörer kan sköta. Moderaterna vill med ordning i ekonomin sänka såväl skattesats som skuldsättning och effektivisera verksamheten till glädje för kommuninvånarna."
+      },
+      {
+        "category": "Ökat krav på integration och egen försörjning.",
+        "description": "Borlänge ligger på plats fem i Sverige när det gäller kostnader för försörjningsstöd. Kostnader som ökar år från år. Vi moderater vill införa arbetslinjen för de Borlängebor som har arbetsförmåga. Det är viktigt att barn får se sina föräldrar arbeta och bidra till samhället och arbete anser vi vara den bästa grunden och möjligheten till integration."
+      },
+      {
+        "category": "Bättre skola och förskola",
+        "description": "Borlänge kommun rankas på 286:e plats av Sveriges 290 kommuner när det gäller skolan. Borlänges barn går genom skolan utan att få tillräcklig kunskaper för att kunna klara sig i samhället. Vi moderater kommer att satsa på skolan som en kunskaps bärare där lärandet sätts i fokus för elevens och samhällets bästa"
+      }
+    ],
+    "motivateVote": "Vi moderater ser varje människa som en unik individ med möjligheter att själv forma sin egen utveckling. Den enskilde ska själv bestämma över sin vardag. Det allmänna ska erbjuda vård, skola och omsorg av hög kvalite där individen sätts i centrum. Alla är unika och därför vill vi erbjuda olika lösningar för olika individer. ",
+    "name": "Moderaterna Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-borlange"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "153",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dala Airport behövs för både medborgarna och näringslivet i Borlänge och regionen. Förutom ambulans- och brandflyg samt försvarets behov kräver näringslivet att vi har en flygplats. Det framtida elflyget kommer kräva fler lokala flygplatser. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska naturligtvis inte bygga på bästa jordbruksmark, men det finns mycket mark i vår kommun som inte har brukats på länge eller kommer brukas under överskådlig tid. Samtidigt har vi ett stort behov av tomter för både bostäder och företag. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska naturligtvis vara rädda om våra lokala företag och inte konkurrera med dem. Samtidigt finns det områden som vi inte vill konkurrensutsätta - vård, skola och omsorg är tydliga exempel. Våra kommunala bolag, Borlänge Energi, Tunabyggen, Hushagen och Maserhallen är inte till salu! ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstidsförkortningar kan vara bra men det är upp till arbetsmarknadens parter att förhandla fram formerna för förändringar i arbetsvillkoren.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "De nuvarande reglerna för kommunal folkomröstning är tillräckliga och vi ser gärna att medborgare tar lokala demokratiska initiativ och väcker debatter om folkomröstning. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att de som tar hand om våra äldre enkelt ska kunna göra sig förstådda på svenska. Därför måste vi satsa på språkutbildningar för vård- och omsorgspersonal och ställa krav vid anställning. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska alla skolor som får del av skattemedel vara med och dela på ansvaret för att ta emot nyanlända och elever med särskilda behov. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen finansierar lägenhetsbyggen genom vårt kommunala bostadsbolag som har ett vinstkrav. Allmännyttan har i uppgift att bygga för alla inkomstgrupper men måste ta ett särskilt ansvar för att det finns bostäder för människor som av olika skäl har svag ekonomi.  ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att våra skattemedel går till vård, skola och omsorg och inte vinster. Det är också viktigt att Borlänges medborgare har makt att påverka de verksamheter som får skattemedel. Vårt fokus är att förbättra vår kommunala äldrevård. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar för att se till att utveckla god infrastruktur för elfordon - tillsammans med privata företag. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borlänge har länge tagit ett oproportionerligt stort ansvar för flyktingmottagande och vi har länge drivit att EBO (lagen om eget boende) ska avskaffas för att uppnå en rättvisare fördelning av ansvaret för flyktingmottagning mellan kommunerna. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Socialdemokraterna är emot att privata företag får göra vinst på pengar som ska gå till barns utbildning. Friskolor ska tillåtas, men bara om de tar samma ansvar som de kommunala skolorna och att överskott som uppstår går till att stärka skolan - inte vinster. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Borlänge har ett rikt kulturliv och det är viktigt att så många som möjligt, inte minst barn och unga, får möjlighet att uppleva och utöva kultur i olika former. Vi har också ett ansvar för att vårda och tillgängliggöra vår lokala kulturhistoria. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Ändamålet med skatten är att tillgodose våra medborgares behov av välfärd, trygghet och service. Det finns goda möjligheter att effektivisera bruket av skattemedlen och vi ser inget behov av att höja kommunalskatten. Målet är att om möjligt sänka kommunalskatten.  ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": "Notera att det står fel stad. \r\nVi ska stoppa svartuthyrning, erbjuda boende att ombilda för att uppnå blandade boendeformer, renovera eller riva slitna fastigheter samt begränsa inflyttningen av människor som saknar egen försörjning i områden med hög arbetslöshet. Självklart ska vi också driva fritidsgård, bekämpa våld mot kvinnor och barn  och ha kameror på otrygga platser. ",
+        "value": [
+          "41",
+          "42",
+          "35"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi kommer alltid att prioritera resurser för att stärka vården, skolan och omsorgen. ",
+        "value": [
+          "34",
+          "31",
+          "27"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "A;C;C;B;B;D;D!;D!;B!;D;D!;0/5!;2/5;2/5;[41,42,35]!;[34,31,27]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi anser bland annat att staten bör ta över ansvaret för försörjningsstödet. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "För att kunna ta tag i Borlänges problem behöver vi ett starkt styre men också ett gott samarbete mellan de politiska partierna i Borlänge. Ett starkt S är garanten för en handlingskraftig kommunledning. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna står för långt ifrån oss för att ingå i en koalition med S.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öka tryggheten",
+        "description": "För att öka tryggheten och minska brottsligheten måste vi ha fler poliser och övervakningskameror. Vi ska stoppa svartuthyrning, bidragsbrott och näringslivskriminalitet. Fler vuxna i kommunen ska arbeta för att unga inte ska hamna i brottslighet."
+      },
+      {
+        "category": "Fler bra boenden",
+        "description": "Vi ska bygga 2500 bostäder till 2026. Vi måste snabbt få fram attraktiva tomter för småhus. Vi ska bygga för alla inkomstgrupper i alla områden. Segregationen ska brytas. Miljonprogrammet ska rustas och försiktigt ombildas till modern, blandad bebyggelse."
+      },
+      {
+        "category": "Minska segregationen  ",
+        "description": "I Borlänge är många arbetslösa beroende av försörjningsstöd. Vi vill införa en aktivitetsplikt för arbetslösa som behöver försörjningsstöd och har arbetsförmåga. Alla har rätt till stöd för att komma ut i arbetslivet och en skyldighet att bidra till det gemensamma efter bästa förmåga. Vi vill begränsa inflyttningen av människor som är beroende av försörjningsstöd i områden med hög arbetslöshet."
+      }
+    ],
+    "motivateVote": "För att vi sätter trygghet, ekonomisk utveckling och välfärd för vanligt folk främst. ",
+    "name": "Socialdemokraterna Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-borlange"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "154",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "I och med att vi bor i glest befolkat län så behövs Dala Airport och då måste kommunen ge stöd till detta.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Borlänge är vi i stort behov av tomter att bygga på och därför måste jordbruksmark tas i anskpråk.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrans är bra och Borlänge har välskötta bolag inom kommunen som fungerar bra och som måste få vara kvar. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalen inom äldreomsorgen är många gånger utarbetade och har ett stort ansvar vilket gör att de måste få kortare arbetsdagar för återhämtning med bibehållen lön.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är det genomförbart så är detta ett bra förslag så kommuninnevånarna får säga sitt om vissa kommunala beslut.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturligtvis så ska alla kunna prata, skriva och läsa svenska inom hemtjänst och äldreomsorgen. Ett språktest är en säkerhet för både brukare och personal så att misstag kan undvikas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla måste ta sitt ansvar och det är inte enbart kommunala skolor som ska ta ansvar för integrationen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste se till att det finns fler billiga hyreslägeneheter att tillgå i och med att bostadsbristen i Borlänge kommun är stor. Så de måste vara med och finansiera flera och billiga hyresrätter.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "I och med att kommunen misslyckats  med att tillhandhålla en hemtjänst med kvalitet så måste det finnas privata aktörer som driver äldreboenden och utför hemtjänst.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstoplar är ingen kommunal angelägenhet utan ansvaret här ska ligga främst på Regionen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att slippa den segregation som uppståt i en del bostadsområden i Borlänge måste vi ta emot färre utomeuropeiska flyktingar. Vi måste få till en fungerande integration gällande de personer som redan kommit hit och bor här. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": "Den kommunala skolan i Borlänge är ett haveri och då måste lösningar till med andra skolor och då skolor som drivs av privata aktörer. Helst ser vi att skolan drivs i statlig regi.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": "Samma summa som idag i och med att kommunen måste satsa på omsorg, skola och en levande landsbyggd samt bostadsbyggande.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": "Det är svårt att sänka skatten i en kommun där vare sig skolor, integration och äldreomsorg fungerar tillfredsställande. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": "Då det är ett mörkertal hur många som bor på Tjärna Ängar och i andra områden i kommunen så måste det finnas ett tak för hur många som får bo i kommunens lägenheter. Det påverkar hela infrastrukturen om det bor fler människor i ett område än vad det är byggt för. Det blir en stor segregation och integrationen fungerar inte. Det måste även satsas på en fungerand SFI.",
+        "value": [
+          "37"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": "En fungerande skola är A och O för att ett samhälle ska fungera. Borlänges skolor har låga resultat och det är oordning i klassrummen. Vi vill gå tillbaka till katederundervisning i och med att många elever inte klarar av att söka kunskap själva och inte heller klarar av att jobba i grupp. SFI som fungerar och innebär kvalitet.",
+        "value": [
+          "31"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "B;D!;B;D!;C;D!;C;D;D!;A;D!;3/5!;2/5!;2/5!;[37]!;[31]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, men vi har lokala frågor som inte tas upp på Riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill bli vågmästare i kommunen och vill se ett blått styre. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Miljöpartiet, Centerpartiet och Partiet Nyans.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård & omsorg",
+        "description": "Det ska vara tryggt att åldras och att bli gammal. Alla ska ha rätten till en fungerande hemtjänst eller ett tryggt äldreboende. Vi vill prioritera äldreomsorgen inom Borlänge kommun. Innebär detta att man har en partner, hund, katt så ingår dessa i boende oavsett om det är hemma, på ett äldreboende, anpassat boende eller ett servicehus."
+      },
+      {
+        "category": "En fungerande skola",
+        "description": "Vårt mål är att behålla alla byskolor i kommunen för att vi ska kunna ha en levande landsbygd med bra service. Småskalighet gällande skolor/klasser då vi inte alls ser några fördelar med storskalighet där många elever blir anonyma i den stora mängden. Skolan ska vara en trygg plats att vistas på med behöriga lärare."
+      },
+      {
+        "category": "En levande landsbygd utan vindkraft",
+        "description": "Vi vill se en levande landsbygd i vår kommun. \r\nVi är helt emot en vidare utbyggnad av vindkraft i kommunen och i närområdet. Förstörelsen av skog och mark är enorm och vindkraften har en negativ påverkan på både djurlivet och insekter."
+      }
+    ],
+    "motivateVote": "Vi innebär en förändring i vår kommun. Vi lovar inte guld & gröna skogar. Inte heller kommer vi att komma med populistiska förslag. Vi vill förändra vår kommun innefrån och ge den lilla människan en röst.",
+    "name": "Sverigedemokraterna Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-borlange"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "155",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "5453554ab85b66414fef5244998e94ab",
+        "questionType": "PROPOSITION",
+        "reasoning": "En flygplats har en samhällelig funktion för beredskaper i kris. Det kan vara skogsbränder, sjuktransporter eller andra krisfunktioner. Men det kommersiella flygets ska inte få mer subventioner av Borlänges skattemedel. Det kommersiella flyget har tvärtom avvecklat sig själv. Frågan om Dala Airport ska vara, tillsammans med de andra andra flygplatserna i Dalarna, en regional angelägenhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9a8c0cb5b0700def997adb6e8a3242a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs både odlingsmark för lokalproducenter samtidigt behöver vi bygga fler bostäder. Vi är för att kommunerna ska få en större rätt till att kunna använda mer mark, därmed inte sagt att det behöver vara just odlingsmark. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "98c41ba96a4e249b94379b5caf9a4e3e",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bolagen i Borlänge ska finnas kvar. Det är våra politiska motståndare som fått för sig att man ska sälja och det tycker vi är både oansvarig och uruslet gentemot Borlängeborna. Borlängeborna ska fortsatt äga sitt el- och energibolag själva. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "83f62411c2e2ca4f9dfb01795c032766",
+        "questionType": "PROPOSITION",
+        "reasoning": "6-timmars reformen är vår tid största arbetstagarreform. Inte sedan 8-timmars arbetsdag infördes 1919 har det gjorts några förbättringar kring arbetstiderna. Fler inom vård- och omsorgsyrken går själva ner i arbetstid till 6-timmar bara för att orka med sitt arbete och förlorar därmed både på lön och kommande pension. Låt de arbeta 6-timmar med bibehållen lön!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a8e9563bfbdbc9baeb14dde1cf105a22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar har sällan tenderat att göra någon reell skillnad. Det är en kostsam procedur för kommunen och de resurserna tas från välfärden. Däremot borde fler engagera sig partipolitiskt t ex i Vänsterpartiet och tillsammans jobba för fler politiska förslag i Borlänge. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4a2f8bf19d4c7915e6cbdc42dc7ded46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oavsett vart inom kommunen ska man kunna kommunicera med Borlängeborna. Att specifikt peka ut nyanställda inom hemtjänst och äldreomsorg är inte rättvist. De ska precis som alla andra inom kommunen t ex lärare, förskolepedagoger och tjänstemän göra sig förstådda! ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ab7d9d239f77b9c17aa8a6202ba43ec8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lika köer för alla. Marknadsskolan kan inte leva under egna regler utan ska också bidra till en positiv utveckling. Sen är det säkert bekant att Vänsterpartiet är starkt kritiska till marknadsskolor och marknadiseringen av välfärden. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "473d43113ada51b65b5c5e28387e9919",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bostadsbolag ska fortsatt ha det uppdraget!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f271583ebc71669790fa3a055ba43b9a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknadiseringen av välfärden är både kostsam och många gånger visat sig mycket sämre. De kommunala äldreboendena och hemtjänsten behöver fler kollegor och mer resurser, inte tvärtom. Därför måste ju även den kommunala verksamheten bli bättre för de som jobbar i kommunen än vad den är idag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7a3fc02d3890c41a7a711ea32b9fc67a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här behöver man nog fundera ett tag. Vi är för laddstolpar och det är kommunen som äger de största parkeringarna. Borlänge-energi, som kommunen äger, ska se över detta tycker vi. Privata aktörer kan också vara aktuella, efter vi kommit överens om hur vi ska göra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59891329f319454325224f9db78d2bb5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fördelningen mellan kommunerna är helt under all kritik. Bara i Dalarna har Borlänge tagit ett stort ansvar och kommer behöva göra det i framtiden med tanke på kriget i Ukraina och andra kriser och konflikter runt om i världen. Men andra kommuner kan ju inte bara stå och se på! Här behövs bättre direktiv och tydlighet alla kommuner emellan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0be7e13149bb73674c20fa77d57a7413",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "602b95c62f729398af3cb1d0d2a87ee4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "e4926f36b453a09d8ef526203a41b10d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dc0c220987bf7a9efe755509b9b46c83",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "41",
+          "36",
+          "40"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "79484b2e43863fcd35325817e758b56d",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "28",
+          "34",
+          "31"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;C;A!;D!;B;B;D;D;A!;C;A;0/5;4/5;2/5;[41,36,40];[28,34,31]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, däremot kan utformningar på hur programpunkter kommer till praktiken skilja sig lokal mellan kommuner, region och riksdag.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst en rödmajoritet men annars en rödgrön majoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Motverka klassamhället och öka jämlikheten",
+        "description": "Borlänge är en segregerad kommun med stora skillnader mellan innevånares boenden, utbildningsnivåer och möjligheter till jobb. Allt fler kan komma att hamna utanför samhället och folkhälsan försämras om någon inte görs för att bryta detta."
+      },
+      {
+        "category": "Bekämpa barnfattigdomen",
+        "description": "Borlänge har en av landets högsta barnfattigdom. Det är ovärdigt en kommun år 2022 att det ska behöva vara så. Fler barn behöver se sina föräldrar få en fast inkomst om fler ska kunna ta del av det fritids- och kulturutbud som finns utan höga kostnader."
+      },
+      {
+        "category": "Satsa på rödgröna omställningar för jobb och ett hållbart liv",
+        "description": "I vår satsning på 700 miljarder så finns nya gröna jobb med. Men för att det ska bli verklighet behöver kommunerna också göra sin omställning och verka för att fler jobb startas. Etableringen av en batterifabrik i Borlänge är bara ett gott exempel på hur samverkan för omställning och nya jobb kan gå till."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är det parti som satsat mest i sin budget, närmare 700 miljarder, på gröna jobb och för en klimatomställning. Klimatomställningen är en ödesfråga och klimatomställningen måste ske rättvis så fler får jobb och att det skapas nya jobb. ",
+    "name": "Vänsterpartiet Borlänge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-borlange"
+  }
+]

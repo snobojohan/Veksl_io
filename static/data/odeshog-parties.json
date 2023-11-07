@@ -1,0 +1,935 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2173",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra förslag, då kommunen behöver fler fastigheter så vi får en utökad inflyttning",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Området vid Solgården ska användas till att bygga lägenheter",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att Vättern ska behålla sitt rena vatten och kunna ge dricksvatten till alla kommuner.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på att ta bort de delade turerna inom vård- och omsorg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "De allra flesta skolor idag har vegetariska alternativ. Vi ska gynna Sveriges bönder som producerar världens bästa livsmedel och för en levande landsbygd och den biologiska mångfalden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostar alldeles för mycket för en liten kommun att bygga, bättre att privata företag går in och gör detta",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan  bidra till utvecklingen av betalbara laddstolpar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här har alla kommuner ett gemensamt ansvar!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tycker inte det är så viktigt i en liten kommun där alla känner sina politiker.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns ingen privat skola i kommunen, vi skulle gärna ge valfrihet till våra elever",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Tycker att bidraget till kultur ska vara på samma nivå som idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2907",
+          "2904",
+          "2905"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D!;D!;B!;D;A!;B;C;A;B;4/5;2/5;2/5;[2907,2904,2905]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverige ska styras utan inblandning av Vänstern eller SD",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Flexiblare arbetstider och utbildning för undersköterskor",
+        "description": "Att kommunen ska vara en bra arbetsgivare med god arbetsmiljö, där alla medarbetare får mer inflytande. Alla undersköterskor bör få ökad möjlighet till vidareutveckling genom utbildning som gagnar de äldre både på kommunens äldreboende och de äldre som är anslutna till hemtjänsten."
+      },
+      {
+        "category": "Höjt bidrag till enskilda vägar.",
+        "description": "Viktig fråga för landsbygdsutvecklingen i kommunen"
+      },
+      {
+        "category": "Ökade resurser till elevhälsan",
+        "description": "För att minska ohälsan hos barn och ungdomar behövs ökade resurser för en utökad elevhälsa med kurator och utökad tjänst av skolsköterska"
+      }
+    ],
+    "motivateVote": "För företagen och landsbygdens bästa. Centern står upp för alla människors lika värde oavsett vilket land man kommer ifrån, sexuell läggning eller funktionshinder",
+    "name": "Centerpartiet Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-odeshog"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2175",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mycket viktigt att kommunen fortsätter att planera för bostäder. Tomterna kring Ödeshög är snart slut. Sväm är ett av flera områden där det på sikt kan byggas många bostäder och bli ett fint område vid Vättern. Nära till tätort och E4:an ger bra möjligheter. Sväm är också ett område som inte är jordbruksmark, vilket kommer vara viktigt för framtida planerad bebyggelse. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att region Östergötland nu vill bygga en ny vårdcentral i centralt läge är mycket viktigt för vår kommun. Det bor många äldre i lägenheterna kring centrum och vårdcentralen kommer att bidra till utveckling i centrum. Det kommer gynna vår butiker i centrum. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mycket viktigt att kommunen verkar mot gruvan och värnar Vättern och natur- och kulturvärdena i området. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte möjligt varken ekonomiskt eller personalförsörjningsmässigt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mycket viktigt att de äldre kan göra sig förstådda och förstå de som arbetar i vården och hemtjänsten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att köttet som serveras är från Sverige där vi har en mycket bra produktion. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska verka för att fler bostäder byggs till så låg kostnad som möjligt att hyra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns en laddinfrastruktur. Här kan kommunen tillsammans med privata aktörer bidra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver vara solidariska i mottagandet. Alla kommuner ska bidra utefter de beräkningsmodeller som tagits fram. Annars riskerar mindre kommuner få ta större ansvar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en representativ demokrati där vi går till val var fjärde år och väljer våra företrädare. Folkomröstningar bör hållas i undantagsfall.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Skolan i Ödeshög ser vi fungerar väl i kommunal regi och ser det inte aktuellt med privata aktörer. Vi har flera privata aktörer inom förskolan som berikar kommunens verksamhet och det är vi positiva till.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill stärka Kulturskolan och föreningslivet i Ödeshög",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det viktigt att inte höja skatten ytterligare utan att använda skattemedlen på ett ansvarsfullt sätt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2906",
+          "2904",
+          "2905"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;B;D;A;C;A;C;C;A;A;2/5;3/5;2/5;[2906,2904,2905]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte som vi ser just nu. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val för att kristdemokratisk politik ska få så mycket utrymme som möjligt i framtida styre. Det viktiga för oss är en stabil majoritet som kan arbeta tillsammans och ta ansvar för Ödeshögs bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi ser att det är viktigt att de vi styr med delar samma grundvärderingar.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": " Vi vill satsa på en förskola och skola för våra barn och unga",
+        "description": "Vi har under mandatperioden startat arbetet med att bygga ny förskola och skola. Vi vill fortsätta det arbetet och också satsa mer resurser på att förstärka inom verksamheterna, framför allt för barn med särskilda behov. Våra barn och unga är vår framtid och vi behöver satsa på dem."
+      },
+      {
+        "category": "Stärk krisberedskapen och klimatarbetet i kommunen",
+        "description": "Vi vill stärka arbetet med krisberedskap för att rusta kommunen för kriser av olika slag. Vi vill också öka arbetet med klimatfrågorna. Vi kommer värna Vättern som vår stora viktiga dricksvattentäkt och jobba aktivt för att det inte ska bli en gruva i Norra Kärr."
+      },
+      {
+        "category": "Fortsätta arbeta för tillväxtfrågor, näringsliv och bostadsbyggande",
+        "description": "Att arbeta för tillväxt och utveckling är nödvändigt för att skapa en positiv utveckling i kommunen och säkra service och välfärd för våra medborgare för framtiden. Vi vill skapa ett ännu bättre företagsklimat där kommunen uppfattas som den bästa kommunen att starta, driva och utveckla sitt företag i. Vi vill fortsätta bygga bostäder i olika delar av kommunen och för olika skeenden i livet."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna vill fortsätta arbeta för utveckling och framtidstro i Ödeshög. Vi kommer att prioritera skola och förskola. Vi kommer att arbeta för att kommunen ska vara attraktiv och trygg att leva och verka i. Fortsatt satsning på tomter och bostäder i olika delar av kommunen där +65 lägenheter behöver tillskapas. Fortsatt satsning på ett gott näringslivsklimat och verksamhetsmark.",
+    "name": "Kristdemokraterna Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-odeshog"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2176",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Strandlinjen är värd att bevara orörd",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Närheten vore bra",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en mycket viktig fråga då en gruva kan påverka dricksvattnet från Vättern",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdpersonalen är en eftersatt grupp. Det är svårt att rekrytera personal. Vårdyrket måste bli attraktivare ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att boende och personal förstår varandra men man behöver inte kunna perfekt svenska, de kommer att lära sig mer svenska allteftersom de arbetar. Det finns andra kompetenser som är viktiga. De behövs mer personal inom vården. Mångfald berikar. Fler med annat språk har behov av vård och att bli förstådda",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att lära sig att vegetariskt kan vara gott ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som motiveringen ovan",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som motiveringen ovan",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste alla hjälpas åt att ta emot flyktingar ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att man lyssnar på kommuninnevånarna",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska inte drivas av privata företag som vill ha vinster. Det motverkar en skola för alla på lika villkor",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktigt för kunskapen och bildningen . Det ger också gemenskap",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": "För att man ska kunna satsa mer på skola, omsorg, kultur och miljö",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2909",
+          "2904",
+          "2905"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "A!;C;D!;D!;B!;D!;D!;D!;B!;C;0/5!;4/5!;3/5!;[2909,2904,2905]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill komma in i riksdagen och vi hoppas på några platser i kommunfullmäktige i Ödeshög",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan absolut inte styra tillsammans med SD och KD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbart Ödeshög",
+        "description": "Vi vill anställa en omställningsstrateg\r\nHa tydliga och långtgående miljökrav vid upphandling\r\nUppmuntra gröna jobb\r\nSkydda skogen vattentäkterna och den biologiska mångfalden\r\nVi säger nej till gruvan i Norra kärr och skjutningarna i Vättern"
+      },
+      {
+        "category": "Verka för ökad självförsörjningsgrad av livsmedel",
+        "description": "Öka andelen ekologiska och närproducerade livsmedel i kommunens måltidsverksamhet. Gynna Gröna jobb"
+      },
+      {
+        "category": "Värna kommunens natur och kulturvärden",
+        "description": "Skydda skogen vattentäkterna och den biologiska mångfalden och att den värdefulla naturen skyddas .Vi vill ha en kultur och bildningsnämnden som samverkar och ökar kunskapen om kultur i skolan"
+      }
+    ],
+    "motivateVote": "Miljöpartiet behövs mer än någonsin, klimatet kan inte vänta. Här är frågan om Vättern vårt dricksvatten viktig. Vi säger nej till gruvan i Norra Kärr och försvarets skjutningar över Vättern ",
+    "name": "Miljöpartiet Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-odeshog"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2177",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att först säljer vi tomter, sedan projekterar vi. Dessutom prioriterar vi skolan vad gäller kommunens ekonomiska resurser.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att en förtätning av kommunen genom föreslagen plats i centrum är fel väg att gå. Dessutom bör en vårdcentral ligga nära de verkligt vårdbehövande.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "En mer olämplig plats att anlägga en gruva än Norra Kärr är svår att finna. Riskerna för kontaminering av såväl Vättern som omgivande vattendrag är alltför stora.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kostsamt och dessutom svårt att rekrytera den ökande personalstyrka som behövs.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ömsesidigt förstå varandra är en förutsättning för såväl trivsel som att undvika misstag i exempelvis medicinering beroende på språkliga brister.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att barnen har en bra och näringsrik mat samt att ett vegetariskt alternativ ska kunna erbjudas",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas en balans i utbudet av bostäder. Att kommunen ska finansiera byggande kan vara en del i detta, dock ska inte kommunen subventionera lägenheter för att de ska bli billiga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Måste vara branschen som ser till detta. Kommunen ska dock underlätta i den mån byggnadslov etc krävs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan inte ta emot fler flyktingar än vad som finns resurser för och det gäller såväl bostäder som resurser att integrera flyktingarna i samhället. Samarbete mellan stat och kommun är att föredra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar bör endast avse väsentliga frågor. Vi vill inta ha inflation i folkomröstningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är ett vitt och brett begrepp. Vad avses med frågan? Fotboll? Teater? etc",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": "Vi får helst inte överskrida omgivande kommuner som konkurrerar om invånare. Kommunalskatten ska användas så effektivt som möjligt.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2907",
+          "2904",
+          "2905"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B!;C!;D!;A;D;B;B;B;D;B;2/5;2/5;1/5;[2907,2904,2905]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Gruvan i Norra Kärr där vi lokalt säger nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgerligt styre är att föredra. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi är redo att samarbeta med alla demokratiskt valda partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "SKOLAN",
+        "description": "Vårt fokus är att skapa en skola där alla kan lyckas. Vi vill skapa framtidens skola där vi tar vara på barnens nyfikenhet och som ger ett bra stöd för barn vars föräldrar saknar högre utbildning. Vi vill också skapa möjligheternas skola där kunskapsförmedling i en trygg miljö är huvuduppgiften och där alla elever får lika rätt till en utbildning av hög kvalitet."
+      },
+      {
+        "category": "VÅRDCENTRALEN",
+        "description": "En ny vårdcentral ska byggas i Ödeshög med placering i centrala Ödeshög. Vi vill i stället verka för att den nya vårdcentralen placeras nära de som är borende av närhet till vården, till de äldre och svaga som bor på kommunens omsorgsboende. I Solgårdens absoluta närhet finns mark och avståndet till centrum är fortfarande gångavstånd."
+      },
+      {
+        "category": "BOENDEUTVECKLING",
+        "description": "Kommunens majoritet vill projektera villatomter i Sväm. Vi motsätter oss detta då stora investeringar krävs innan tomtförsäljning. Byggklara tomter finns i närområdet och nyligen har 6 villatomter samt 6 radhus sålts i Hästholmen, ett i jämförelse med Sväm mycket attraktivt område.  Vi menar också att kommunens ekonomiska resurser bör allokeras till den nya skola som är under projektering."
+      }
+    ],
+    "motivateVote": "Vi är för fri företagssamhet, människans rätt att själv besluta om sitt liv och framtid. Individen före kollektivet",
+    "name": "Moderaterna Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-odeshog"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2178",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna nå målet om 6000 invånare behövs det idag kring 350 nya bostäder, detta är ett steg på vägen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att närheten till vård för de äldre blir bättre och sparar in personal.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att värna om vårat dricksvatten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kunna behålla kompetent personal längre tid så måste vi sänka arbetsbördan. På detta sätt gör vi även vårdyrket attraktivt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som har nära kontakt med brukare bör kunna svenska så att inga missförstånd uppstår i kommunikationen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns det redan vegetariska alternativ varje dag i skolan, så att eleverna själva kan få välja.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårat eget bostadsbolag kan ta steget och börja bygga billigare hyreslägenheter för att öppna upp marknaden till andra aktörer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör jobba för att kunna se till att behovet av laddstolpar tillgodoses .",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste vara solidariska och hjälpas åt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget finns det många andra sätt att få reda på invånarnas inriktning  olika frågor genom samråd och medborgarförslag.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Generellt är vi emot vinstdrivande skolor.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill införa avgiftsfri kulturskola och tillföra ytterligare  inriktningen hantverk. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": "Vi gjorde en höjning av skatten inför 2020. Denna höjning räcker i dagsläget för att klara kommunens ekonomi.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2910",
+          "2907",
+          "2904"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;C;D;C;C;B;D!;C;A;A;0/5!;4/5!;2/5;[2910,2907,2904]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokalt vill vi sitta i majoritet för att kunna förverkliga vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Lokalt har vi inte fattat något sådant beslut.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Näringslivet - vår motor i kommunen",
+        "description": "Ett blomstrande näringsliv är motorn i vår kommun. Vi vill att ny företagsmark och ett nytt logistikområde tas fram i anslutning till E:4an, och därmed förbättrar förutsättningarna att verka, bo och vistas för företag i Ödeshög."
+      },
+      {
+        "category": "Medborgarkontor - ett måste i Ödeshög",
+        "description": "Vi saknar många statliga myndigheter i vår kommun. Vi vill underlätta för våra kommuninvånare genom att öppna ett medborgarkontor, där man kan få hjälp med myndighetskontakter tex försäkringskassan, arbetsförmedlingen, skatteverket m.m"
+      },
+      {
+        "category": "Seniorbostäder - Bygg för våra äldre!",
+        "description": "Ta fram och bygg bekväma seniorbostäder. Genomtänkta lägenheter med smarta mervärden och funktioner. Det ska vara ett enkelt och bekvämt alternativ för den aktiva och friska senioren."
+      }
+    ],
+    "motivateVote": "Vi vill avlägsna de ekonomiska, sociala och kulturella hindren för invånarna i Ödeshög. Alla ska ha samma rätt och skyldigheter i Ödeshög.",
+    "name": "Socialdemokraterna Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-odeshog"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2179",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9286176d2bf7d4d61c0726ef0e94998f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sväm är ett projekt som kraftigt äventyrar kommunens ekonomi. Om området hade varit så lysande som några få tycker hade tidigare markägaren drivit projekt själv.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2abd3553b987ad3772407ba813003b47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Solgården är en plats för äldre, deras anhöriga, vänner och vårdpersonalen. De behöver en lugn och trygg miljö utan onödigt spring.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8ea038e1f866a30bb59e5dd85cdc19ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Riskerna med gruvplanerna är stora. Både ur miljö och ekonomiska synpunkter. Då det är utrikiska aktörer som spekulerar så har vi svårt att tro att det kommer att gynna Sverige varken på lokal eller nationell nivå. De kommer att plocka \"guldkornen\" och sedan försätta bolaget i konkurs. Vilket kommer att leda till enorma kostnader att återställa och säkra området. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5aea90b1ea4db1aa1292d4aef08f5ee8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Extremt dyrt förslag. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0fadcc7e0df0ed095688604e33229ba0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då vi i Sverige och har svenska som språk, så ser vi det som en självklarhet att även personalen talar svenska. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ddbbe78f24c39e791421a9395052b035",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan ska ha en bra och varierande kost. Men vi ska inte tvinga någon till vegetarisk eller vegansk kost. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9a835cbffb037085101d445276907179",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att tvinga fram lågprislägenheter kommer att sänka boendemiljön vilket vi inte vill.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "10f941dce3e99d6a8515ac409b56cd26",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns tillräckligt med laddmöjligheter i vår kommun ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bac85b39b55a112060c17061c39611f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ju kommunen som måste ombesörja boende, vård och skola så det är självklart att kommunen ska sätta gränsen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7b61b571c415a13c3b49998db16eacff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är kostsamma och invånarna väljer sina företrädare i de allmänna valen. Men om det finns frågor med stor påverkan för invånarna så bör folkomröstning tillämpas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "308813a3da133f3d11253a6d59bd3b6f",
+        "questionType": "RANGE",
+        "reasoning": "Skolan bör förstatligas.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f47382c172ef575f43b77cd079ef9ced",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska verka för att den svenska kulturen bevaras ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a35cf3a70e91a3595a8a3f8015b0dc38",
+        "questionType": "RANGE",
+        "reasoning": "Vi strävar efter att bli flera invånare. Då måste vi vara ett attraktivt alternativ och hög kommunalskatt lockar inte nya invånare.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "eb54776eeceed6f425284c17668a9ed3",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "A;B;D!;A;D!;A!;B;A;D!;B;2/5;2/5;1/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ja gruvan i Norrakärr och försvaret skjutningar i Vättern.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi skulle vilja styra ihop med M och KD om KD vore jämnstora eller mindre än SD och M tillsammans. Idag har KD 33% och styr kommunen diktatur aktitigt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja Mp och Folk och natur.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Norrakärr",
+        "description": "Vi i SD Ödeshög är kritiska till de rådande gruvplanerna i Norrakärr.\r\nDå det riskerar att att förstöra vårt dricksvatten och vår finna natur."
+      },
+      {
+        "category": "Turism",
+        "description": "Värna våra turist attraktioner så som Omberg , Tåker, Hästholmen osv. Då de attraherar till ny inflyttande och nybyggnation. Vilket i sin tur kan gynna vårt näringsliv."
+      },
+      {
+        "category": "Kommunikation",
+        "description": "Mer och bättre kollektivtrafik även över länsgränsen. Då det förenklar för våra invånare att ta sig till arbete och skola."
+      }
+    ],
+    "motivateVote": "För att vi vill att hela kommunen ska leva och utvecklas. ",
+    "name": "Sverigedemokraterna Ödeshög",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-odeshog"
+  }
+]

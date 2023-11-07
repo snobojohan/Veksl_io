@@ -1,0 +1,980 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "563",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": "främja en levande stad, där de som kan välja cykel kan promenera till butiker, restauranger och caféer för att binda ihop torg och hamnområdet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som en kommun med mycket gröna näringar, ser jag gärna att lokal mat används.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fri företagsamhet",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har höjt lönen i budget. Enligt önskemål införs heltid som norm.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": "\r\n\r\nGrundläggande kunskaper i svenska behövs, med tydliga instruktioner, i ett arbetsgivaransvar för kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": "finns inget kommunalt bolag",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en liten kommun kan det vara svårt att få till det, för det privata företaget",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja om möjligt finnes",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": "vi tar emot de vi anvisats",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": "har byggt ny grundskola och satsar på de skolor som finns i staden och ytter områdena",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är för alla",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": "hoppas slippa höja",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1253",
+          "1255",
+          "1252"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;B;D;A;A;C;A;C;D;A;0/5;2/5;2/5;[1253,1255,1252]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I vår kommun hoppas vi fortsätta med en allians styrd ledning.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Centerpartiet leder utvecklingen - för Hela Hjos bästa",
+        "description": "Vi vill se tidiga insatser och stärkt föräldrastöd, som skall ge god hälsa och bra studiegång för barn/ ungdomar. Hamngatan ska bli gångfartsområde, utveckla vår strandpromenad och mötesplatser som Guldkroksområdet och Högaliden. skapa sociala trättpunkter i Hela Hjo, samt god vård, omsorg för alla. Värna vårt vatten och hjälpa till att företagandet blir mer grönt."
+      },
+      {
+        "category": "Företagande i Hela Hjo",
+        "description": "Vi vill ge landsbygden och det gröna näringslivet förutsättningar att driva starka och livskraftiga företag. Öka samverkan mellan skola och näringsliv. Ta vara på nysvenskars kunskap och erfarenhet. Verka för en reglerad rovdjursstam."
+      },
+      {
+        "category": "God vård och omsorg och stöd i livets alla skeden",
+        "description": "Vårdens arbetsplatser ska vara attraktiva med god arbetsmiljö. Utveckla och stärka den nära vården- den vård man behöver ofta. Främja tidiga insatser för psykisk hälsa, främst för barn och ungdomar. Och skapa sociala trätt punkter i ytterområderna."
+      }
+    ],
+    "motivateVote": "Leva och bygga och bo i hela HJO,  vill vi , Centerpartiet leda utvecklingen för Hjos bästa. Vi vill ge landsbygden och det gröna näringslivet förutsättningar att driva starka och livskraftiga företag . Vi vill jobba för klimatets bästa för oss i kommunen och hela världen samt värna Vätterns vatten. Alla ska få God vård, omsorg och stöd i livets alla skeden.",
+    "name": "Centerpartiet Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-hjo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "564",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stadskärnan i Hjo ska vara trygg att röra sig i. Vi i KD vill utveckla området mellan torg och hamn.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor, företag och föreningar ska kunna ha aktiviteter i Hjo för att samla in pengar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elever, lärare, måltidspersonal och kostansvarig ska tillsammans utveckla och bygga en näringsrik meny och en god miljö att inta sin mat i.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetskraftsbrist utesluter förslaget. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har representativ demokrati. Partierna har all möjlighet att förankra olika förslag bland medborgare. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvaliteten och risken för fel i vården ökar med kommunikationsproblem.   ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hjo kommun har inget bostadsbolag. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": "En variation av företag ökar valfriheten.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med mål för en hållbar miljö och ett hållbart klimat ska kommunen ansvara för publika laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hjo kommun ska ta det ansvar som åligger oss.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": "Samma eller mindre. Hjo kommun har klarat att göra stora investeringar i skola och omsorg utan skattehöjningar. En balanserad framfart utan skattehöjning är målet för KD Hjo.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1259",
+          "1253",
+          "1254"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;A;D;A;B;C;A;D;D;B;2/5;2/5;2/5;[1259,1253,1254]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "lokalt har Kd Hjo inga frågor som går emot partiet på riks.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I Hjo har vi en lång tid haft en stabil majoritet med M, L, C och KD. Ett gott samarbete i alliansen ger Hjo goda förutsättningar för att fortsätta att utvecklas. KD Hjo vill gärna fortsätta samarbetet med allianspartierna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "KD Hjo samarbetar bra med allianspartierna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tillsätt en MAR medicinskt ansvarig rehabiliterare.",
+        "description": "Kommunen ska ha en medicinskt ansvarig rehabiliterare, MAR, för att snabbare kunna påbörja rehabilitering efter sjukdom eller skada. \r\nFör att motverka det digitala utanförskapet och göra det enklare för våra seniorer att ta del av den digitala utvecklingen i samhälle ska kommunen \r\nstötta med viss hjälp och utbildning. Vi vill utveckla tillgången till kulturinslag som en viktig del av vården."
+      },
+      {
+        "category": "Klimat och miljö",
+        "description": "Vättern är en riksangelägen resurs både som livsmedel och för olika former av rekreation. Det är därför angeläget att Vätterns kvalitet värnas.\r\nVi vill att Hjo kommun ska öka sin ambition inför klimatmål 2030 och att det ska vara enklare att leva miljövänligt och klimatsmart. Genom att bl.a. göra kommunen fossiloberoende och minska matsvinn."
+      },
+      {
+        "category": "Belys banvallen, bind ihop torg och hamn.",
+        "description": "Rusta upp banvallen som en belyst gång- och cykelväg så skapas en god och trygg miljö och på det sättet binds stad och landsbygd ihop. Vi vill utveckla trygghets- och hemkänsla genom att satsa på mer belysning och skapa fler offentliga utsmyckningar. Vi vill anpassa trafiken inom tätorten för en god boendemiljö genom att till exempel enkelrikta trafiken i hamnbacken och över torget."
+      }
+    ],
+    "motivateVote": "KD Hjo vill att stad och land ska gå hand i hand. Vi vill fortsätta att utveckla kommunen till en attraktiv kommun att leva, bo och verka i. Vård skola och omsorg ska ge ett högt värde för innevånarna. Frågor som rör näringsliv och företagande är viktiga för KD Hjo. ",
+    "name": "Kristdemokraterna Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-hjo"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "565",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;C;C;B;A;A;D;A;B;C;C;2/5;3/5;2/5;_",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Samarbete med Moderaterna, Kristdemokraterna, Centern",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet, Miljöpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ingen höjd kommunalskatt",
+        "description": ""
+      },
+      {
+        "category": "Fortsatt satsning på barnomsorg, skola, fritidshem",
+        "description": ""
+      },
+      {
+        "category": "Rödingen, en mötesplats för äldre",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Du ska leva ditt liv som du vill, bestämma över dig själv, ha egna drömmar och kunna jobba för att det ska bli verklighet. Det är frihet, och det är vad liberalism handlar om!",
+    "name": "Liberalerna Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-hjo"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "566",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": "En utökning Hamngatan ner skulle öka tryggheten för gående och cyklister i centrum. I Hjo kan fler cykla, avstånden är korta - klimatsmart och bra för folkhälsan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svårt att upprätthålla ett sådant förbud eftersom vi har dåligt med polisiär närvaro. Det skulle falla stort ansvar på våra handlare och näringsidkare och det är inte ok.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi lever i jordbruksbygd och möjligheten till närproducerade råvaror är stor. Vi behöver värna vår svenska matproduktion och förbättra självförsörjningsgraden totalt i landet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkurrensen från vårt kommunala bolag är minimalt (Hjo energi) och förutsättningarna för bolaget reglerar till stor del möjligheterna för bolaget att konkurrera.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver våra kompetenta medarbetare på heltid och arbetet med heltid som norm pågår för fullt. Vi har dessutom en ekonomisk realitet att förhålla oss till där detta inte är görligt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ta ställning i en enskild, lösryckt fråga är lätt om man inte behöver ta ett helhetsansvar. I den kommunala världen hänger det mesta ihop, inte minst ur ett ekonomiskt perspektiv. Var fjärde år har vi val, då ska valen genomföras. Är man inte nöjd ska man agera då, genom att engagera sig politiskt själv eller rösta fram andra förtroendevalda.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för tryggheten för våra vårdtagare men också viktigt för den enskilde medarbetaren som behöver känna sig trygg i att man förstått sitt dagliga uppdra och kan kommunicera med arbetskamrater, chefer och vårdtagare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inget eget bostadsbolag men gott samarbete med en stor lokal fastighetsägare som tar stort ansvar för att hjälpa socialt utsatta grupper.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med konkurrens men i vår kommun som är liten har det inte hittills funnits något större intresse från privat sektor för att etablera sig här.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns inget egenvärde i att kommunen tillhandahåller detta men om ingen privat aktör agerar kan kommunens engagemang vara ett måste.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan ta emot fler. Större mångfald skulle göra Hjo gott.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": "Alla grundskolor i Hjo är idag offentligt drivna inom barnomsorgen har vi glädjande nog privata alternativ.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": "Som pendlingskommun är det viktigt att våra innevånare i ska behöva pendla till sin fritid. Därför vill vi kunna erbjuda ett rikt kulturliv på hemmaplan.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inte höjt kommunalskatten på 18 år och hoppas slippa göra det framöver också.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1257",
+          "1259",
+          "1253"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;A;B;A;A;D;B;D;A;A;2/5;3/5;2/5;[1257,1259,1253]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte som lokalt parti i sin helhet men självklart finns det frågor där enskilda medlemmar lokalt inte håller med riksnivån.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har sedan många år ett gott samarbete med de övriga borgerliga partierna, C, L och KD. Allians för Hjo. Vi kommer fortsätta det samarbetet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi talar och diskuterar med alla men kommer inte aktivt styra med SD eller V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kompetensförsörjning",
+        "description": "En utmaning för oss som liten kommun. För att kunna uppfylla de uppdrag som är kommunens ansvar samt skapa goda förutsättningar för tillväxt i vår kommun måste vi har rätt personer på rätt plats och tillgång till kompetens inom alla kommunens områden. Vi måste vara en extra god arbetsgivare och kunna stå oss väl i lönejämförelser."
+      },
+      {
+        "category": "Vi tar ansvar för ekonomi och kvalitet",
+        "description": "Vi tar ansvar för Hjo och för en balanserad ekonomisk framfart. Nödvändigt  att kommunens verksamheter får tydliga och tillräckliga planeringsförutsättningar om vi ska säkerställa god kvalitet, god ekonomisk hushållning och positiv utveckling av vår kommun över tid."
+      },
+      {
+        "category": "Rätt insats i rätt tid och fullföljda studier",
+        "description": "Vi vill säkerställa att alla barn får rätt insats i rätt tid. Vi anser att vi måste bli mycket bättre på att sätta in kraftfulla insatser tidigt, redan i förskolan, för att lyckas med att alla barn i Hjo får en lustfylld och lärorik skolgång och att alla får förutsättningar för att fullfölja sina studier, genom grundskola och gymnasie."
+      }
+    ],
+    "motivateVote": "Vi tar ansvar för Hjo och vi genomför det vi lovar. Vi kommer arbeta vidare med att skapa ännu bättre förutsättningar för dem som lever, verkar, bor eller vill etablera sig i vår kommun. Invånare, näringsliv, föreningar och organisationer ska känna delaktighet och medansvar för utvecklingen. Vi vill att du ska ha möjlighet att påverka din vardag och att du ska känna dig stolt över att vara Hjobo. ",
+    "name": "Moderaterna Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-hjo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "567",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att utöka gångfartsområdet skulle göra det möjligt att utnyttja den delens som gång och basar område. Små handels verksamheter skulle kunna använda den delen för försäljning under turist säsongen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen väljer att vara fattig.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har klimat mål som kommunen står bakom. Natura 2030 som innebär att vi ska minska klimatpåverkan. Kött genererar mycket klimatförstöring med avseende på växthusgaser.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag som bedriver en kostnads neutral verksamhet måste kunna drivas vidare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man kan få ekonomin att gå ihop så kan en sex timmars dag vara en bra motivering för vårdpersonal som har tunga och stressiga arbetsdagar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är en sådan betydelsefull fråga som motiverar det kan det vara en bra möjlighet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra brukare måste kunna känna sig trygga med att kunna göra sig förstådda och bli förstådda. Med ökad ålder kan språket försvinna till vis del och deras trygghet är att kunna kommunicera med den som kommer hem eller in i rummet för att få vård av.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många unga har en trång ekonomisk situation, det kan behövas billigt boende i starten av vuxenlivet för att senare bilda familj när studierna är klara.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi gillar inte vinstdrivande företag i skolan, vården eller omsorgen",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja laddstolpar gör att kommunen blir attraktiv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot det antal som är möjligt för vår storlek av kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": "Vi har endast ett operativ förskola som föräldrarna gemensamt sköter verksamheten. Vi vill inte ha privata skolor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1256",
+          "1259",
+          "1253"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;C;A;C;C;D;D;A;D;B;2/5;2/5;2/5;[1256,1259,1253]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej det har vi inte.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill naturligt vis få så många mandat att vi kan bilda en majoritets styre med V.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi har svårt att tänka oss ett av ytterside parti på borgarsidan.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hjo kommun behöver en full stor idrottshall.",
+        "description": "Hjo kommun behöver en idrottsanläggning som inrymmer en full stor idrottshall. Idrottens verksamhet är en naturlig del av folkhälsoarbetet som ska stimulera till rörelse. En stor hall blir ett naturliga centrum för idrottsrörelsen, samt möjligheten till en fritidsbank. Vi har en idrottsanläggning som inte klarar av att ta emot de tävlings arrangemang som våra idrottsföreningar behöver för att leva"
+      },
+      {
+        "category": "Trygghetsboende för våra äldre.",
+        "description": "Hjo kommun har behov av olika boendeformer. Som boende i Hjo har vi olika krav på vårt boende. Allt från hyra en lägenhet till den som behöver kommunens omsorg på ett äldre boende. Vi behöver möjlighet att flytta till en boende form som har möjlighet till enklare vård samt gemensamma lokaler för att umgås med andra, det stärker det sociala sambanden och hälsan. Det ger alla nya möjligheter."
+      },
+      {
+        "category": "Gångfartsområde från Hjo torg till Norrbro",
+        "description": "Vi har ett torg som har en trafik kultur att vi främjar gående, som en naturlig förlängning av torgets handelsplats införlivar vi även gatan ner mot Strömparterren i det lite lugnare trafikerade området kan man ströva och känna in det lilla stadens lugn. Detta gör att handel stimuleras. Vi får en miljö där alla kan röra sig i området."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som står på arbetarnas sida i vår kommun.\r\nSocialdemokraterna i Hjo vill att alla barn ska klara kunskapsmålen.\r\nVi vill att alla ska känna sig trygga i Hjo.",
+    "name": "Socialdemokraterna Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-hjo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "568",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "41f4b1975a66b0a85fc5f1fbe6e7fca0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0435e77ad68bfd56c95a86fc6672d861",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att förstå bakgrunden",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c180b7698ce654b398f3a201bd9f7931",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "609e96f00822f8c5be41228e3fe68444",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0be0aa6682cc4ee2d6c63b6092fbb2af",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8d4b26b2392bd3f04917448a3418efa6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2f85a686b3e81cdfa1cb86e3d9e2822d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har motionerat om detta, alliansen har en annan uppfattning",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed739826c35da3dc346997e00bef51af",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har inga fastigheter alls",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3a76e0123a5b3c6dff55236fa9721b30",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns men lågt intresse här",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "094f095c359bed731ddd5b73c1b08c39",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommer privata aktörer",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3a2069d9c37017a01d473d4e73002869",
+        "questionType": "PROPOSITION",
+        "reasoning": "Partiets åsikt gäller och vi har rekordinvandring nu",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "154ea0fe8c81b6c81970a598f1fff5ad",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "53e462cda512df001f426884e73f3680",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3d10e517a8d9ada80ff4f6c87920d18e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "2bc7885c5257ee5c12512e3b0bd148a0",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;D;C!;D;B;A;D!;B;C;B;D;2/5;2/5;2/5;_",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte direkt",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Önskedrömmen är naturligtvis att bli mycket större som parti i kommunen och därmed få mer inflytande",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skattesatsen skall bibehållas under mandatperioden",
+        "description": ""
+      },
+      {
+        "category": "Framtida investeringar",
+        "description": "Vi har en lista på framtida investeringar, att genomföras vid möjlighet\r\n\r\n\r\nVärmekraftverk- solpark-uppdatering reningsverk-utbyggnad av Guldkroksområdet så att alla är nöjda"
+      },
+      {
+        "category": "Energiplan",
+        "description": "Vi föreslår en ny energiplan som innefattar vind, sol och kraftverk"
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna i Hjo för en politik för Hjo kommun och dess innevånare.\r\nKommunen styrs borgerligt med en allians med majoritet, S och SD är alltså i opposition, vi ser en viktig funktion i vår roll",
+    "name": "Sverigedemokraterna Hjo",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-hjo"
+  }
+]

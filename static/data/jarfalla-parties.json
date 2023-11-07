@@ -1,0 +1,1310 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "699",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ingen orsak som motiverar att kommunen ska äga och förvalta lokaler som vi inte behöver för att verksamhetens ska kunna bedrivas",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vi fortsätter arbeta för biologisk mångfald. Att klassa Hästa klack som naturreservat är ett viktigt steg i den processen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla hyresrätter ska inte nödvändigtvis ombildas till bostadsrätt, men hyresrätter i de utsatta områdena kan med fördel ombildas som ett steg i att bryta bostadssegregationen",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Innan detta genomförs behövs en ekonomisk konsekvensanalys genomföras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att detta krav ställs på alla nyanställda. Samtidigt är det viktigt att kompetensutveckla svenska språket för alla som redan är anställda.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att samma förutsättningar gäller för alla skolor oavsett huvudman.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "För konkurrensen, mångfaldens och valfrihetens skull är det en självklarhet att privata företag driver äldreboenden och hemtjänst.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att elever erbjuds köttfria alternativ alla dagar i veckan. Men att det ska vara köttfritt helt och hållet två dagar är vi emot. Viktigare då att skolorna kan prioritera närproducerad och ekologisk mat.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska äga infrastrukturen gällande laddstolpar men driften.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mottagandet måste fördelas solidariskt mellan alla kommuner i Sverige. Järfälla har tagit mer än sin beskärda del i jämförelse med andra.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "För att öka konkurrens, mångfald och valfrihet.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver satsa  mer på kulturskolan och fritidsgårdar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Under förutsättning att kvalitén i välfärden bibehålls.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "223",
+          "229",
+          "225"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "218",
+          "216",
+          "217"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;A!;C;D;D!;D!;B!;D!;C;3/5!;3/5!;1/5;[223,229,225];[218,216,217]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha ett brett mittsamarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "C är ett borgerligt parti som står i mitten och vi kan samarbeta med flera parti",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skydda Järfällas naturområden",
+        "description": "3.\tVi vill självklart fortsätta värna vår hjärtefråga; våra naturområden behöver fortsatt skyddas. Därför kräver vi att den biologiska mångfalden, spridningskorridorer, åkermark och de många områden med höga naturvärden i Järfälla bevaras och utvecklas. Som ett led i detta vill vi under nästa mandatperiod se till att Hästa klack blir klassat som naturreservat"
+      },
+      {
+        "category": "Utveckla Järfällabornas möjligheter till fritidsaktiviteter",
+        "description": "2.\tAtt har tillgång till natur, rekreationsområden och givande fritidsaktiviteter är A och O för folkhälsan. För oss är det viktigt att alla får tillgång till detta. Därför vill vi fortsätta att utveckla tillgängligheten till våra naturreservat, bygga om simhallen till ett föreningshus och utveckla kommunens fritidsgårdar för att motverka rekrytering av barn och unga till kriminella nätverk."
+      },
+      {
+        "category": "Omklassificera utsatta områden till trygga innan 2030",
+        "description": "1.\tDet går inte bara att bygga nytt. Vi behöver också värna om och utveckla det vi redan har. Jakobsberg har hamnat i skuggan av Barkarbystaden och dess handelsområde, därför vill vi arbeta för att rusta upp Jakobsbergs centrum och skapa en tryggare miljö och se till att service utvecklas så att området blir mer attraktivt både för boende och företag."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som vill skapa lika villkor för alla oavsett om de lever på landsbygden, i städer eller i förorter. En röst på Centerpartiet är en röst för klimatets bästa, för ökad jämställdhet och en trygg sjukvård. Vår politik får fler i jobb och sänker skatter. Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism.",
+    "name": "Centerpartiet Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-jarfalla"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "700",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den frågan måste bedömas från fall till fall. En bra kolverksamhet som vill etablera sig i en lokal som kommunen äger men inte nyttjar kan säljas till en seriös skola. Det motsatta kan gälla med en centralt belägen fastighet av stort värde för Järfällas framtida behov. Då är det bättre att skolan hyr lokaler av kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Området har skyddsvärde.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Andelen ägarlägenheter bör öka i ett område med övervägande hyresrätter för att öka mångfald och erbjuda fler boendeformer i ett område. Båda boendeformerna har fördelar men en blandning är att föredraga,",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att jobba inom äldreomsorgen är ett viktigt arbete och vi måste göra allt för att höja statusen och kompetensen i yrket. För att nå målet så behöver vi fortsätta att utbilda vår personal och höja lönerna. Då blir det lättare att rekrytera ny personal och våra äldre får en bättre omsorg om våra äldre. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "KD har redan genomfört det förslaget i Järfälla.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en självklarhet för KD.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet är viktigt! Vi måste respektera varje Järfällabos rätt att välja både när det är första gången men lika viktigt är att ha möjlighet att välja bort något som inte passar eller fungerar. Det viktiga är att Järfälla kommun garanterar att alla omsorgsgivare håller hög kvalitet. Det säkerställer vi genom tät dialog och kvalitetskontroller av all omsorg.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige har gjort barnkonventionen till svensk lag och kommunen måste ge barnen inflytande över sina måltider. Idag slängs mycket mat på grund av att den väljs bort. Om barnen skall orka med skoldagen och må bra så kan vi inte låsa fast oss vid två köttfria skoldagar i veckan som norm. Klimatet kan gynnas genom att korta transporter och upphandling från närliggande bönder och matproducenter. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall medverka till att bilar kan laddas hemma under natten då förbrukningen och elpriset i landet är lägst. Solceller med batterilagring är en smart lösning för hemmaledning. Boende i hyresrätter skall ha lika bra laddmöjlighet som villaägare. Skattemedel skall inte gå till offentliga laddstolpar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigast att barn och föräldrar kan välja mellan bra skolor. Driftsformen är mindre viktig.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "När Järfälla växer kraftigt och vi får fler skattebetalare så måste kulturbudgeten hänga med. Kulturen är en viktig faktor för en attraktiv kommun.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Vårt mål är att erbjuda högre kvalitet genom ständiga förbättringar. Ny teknik innovation  och användningen av smarta it system skall frigöra resurser till kommunens kärnverksamhet exempelvis barnens skolgång och omsorgen om våra äldre. I valet mellan skattesänkning och omsorgen om barn och äldre kommer vi att prioritera kvalitén i verksamheten. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "230",
+          "227",
+          "225"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "216",
+          "215",
+          "220"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;C;B;A!;D!;D!;C!;A!;A!;_;2/5;3/5!;2/5!;[230,227,225];[216,215,220]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Styret skall ha ett stort inslag av KD politik för bättre uppväxtvillkor för barnen inget barn som växer upp i Järfälla skall bli kriminell! Vi vill fortsätta den stora satsning vi gjort på seniorpolitiken och äldreomsorgen. Järfälla skall byggas med vår arkitekturpolicy och trähusstrategi för bra boendemiljö. Vi vill utveckla Järfälla tillsammans med föreningslivet exempelvis med IOP avtal.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Partier som inte respekterar alla människors lika värde.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fritidscheck och Kulturpeng",
+        "description": "Med en fritidscheck och kulturpeng till alla Järfällas barn skapar vi ett alternativ till kriminell livsstil. Metoden har haft stor framgång andra länder. Checken har införts under mandatperioden. Kulturpengen vill vi införa nästa mandatperiod."
+      },
+      {
+        "category": "Program för Sveriges seniorvänligaste kommun.",
+        "description": "Under mandatperioden har vi tillsammans med seniororganisationerna tagit fram ett program för att göra Järfälla till Sveriges seniorvänligaste kommun. Nu vill vi genomföra programmet och förhoppningsvis nå målet att Järfälla blir Sveriges mest seniorvänliga kommun."
+      },
+      {
+        "category": "Föreningarnas hus i Järfälla",
+        "description": "Järfällas gamla simhall skall omvandlas till ett 3000 m2 stort föreningshus som kommer att erbjuda idrott kultur och kontorslokaler för Järfällas föreningar. Barn och seniorer skall prioriteras men även elitidrott kommer att få plats Projektet kommer att genomföras i samverkan med Järfällas föreningar."
+      }
+    ],
+    "motivateVote": "KD Järfälla prioriterar skola äldreomsorg och boendemiljö. Ny teknik och nya metoder skall användas för att höja kvalitén i verksamheten. Klimatsatsning på solceller och laddplats hemma. Gäng skall motverkas med positiv fritid exempelvis vår fritidscheck och kulturpeng. Mälarkusten skall tillgängliggöras. Järfälla skall byggas med god arkitektur och i lugn takt. Bygg bort köer i trafiken.\r\n",
+    "name": "Kristdemokraterna Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-jarfalla"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "701",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är mycket positiva till friskolor och vi tycker att de är ett viktigt komplement till de kommunala skolorna. Däremot anser vi att skollokalerna som regel ska ägas av kommunen. Det är ont om mark i centrala delar av kommunen och därför behöver kommunen äga lokalerna för att kunna ta ansvar för skolverksamheten på lång sikt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna tycker att det har byggts för mycket höghus i betong i kommunen de senaste åren. Därför är vi positiva till att bevara fler grönområden som Hästa klack. Vi vill se mer grönt och mindre betong helt enkelt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser positivt på att fler Järfällabor får möjlighet att äga sitt eget boende. Vi tycker också att det är viktigt att det i områden med hög andel hyresrätter kan tillföras fler bostadsrätter för att få en bättre blandning av boendeformer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att förstärka äldreomsorgen är en prioriterad fråga för Liberalerna. Men vi tror inte att kortare arbetsdagar är rätt väg att gå. Däremot tycker vi det är viktigt att fler timanställda inom äldreomsorgen får möjlighet att arbeta heltid.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, språktest vid nyanställning är en fråga som Liberalerna driver. Vi vill också erbjuda språkutbildning till befintlig personal med bristfälliga språkkunskaper. Det finns också brukare med bristfälliga kunskaper i svenska som bättre kan matchas med anställda med kunskaper i deras språk.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en god idé men idag finns inte stöd i lagen för att kräva det. Liberalerna har tagit initiativ till en friskolereform för att reformera kösystemet till friskolorna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna är positiva till valfrihet inom både äldreomsorg och hemtjänst. Äldre ska ha rätt att välja själva utifrån önskemål och behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga för Liberalerna är inte hur många köttfria dagar skolan har utan att eleverna äter maten, att den är nyttig, miljösmart och varierad. Liberalerna har med anledning av detta tagit initiativ till en översyn av skolmaten. Mat ska ätas, inte slängas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tillgången till laddstolpar för elbilar är viktig för klimatomställningen. Kommunen ska i detaljplanerna skapa möjligheter för fler laddstolpar och det kommunala bostadsbolaget JHAB ska ta ansvar för att hyresgästerna har tillgång till laddning vid bostaden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "För Liberalerna är viktigt att kommunen tar sin del av ansvaret för de flyktingar som kommer till Sverige. Kommunen kan dock inte påverka hur många flyktingar som Sverige tar emot, det är ett statligt ansvar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker det är viktigt att det finns både friskolor och kommunala skolor i kommunen. Friskolorna är ett viktigt komplement till de kommunala skolorna och vi ser gärna att fler friskolor etablerar sig i kommunen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt för Liberalerna att det finns ett rikt kulturliv i kommunen. Kulturskolan är ett exempel på en viktig verksamhet som fler bör få tillgång till. Samtidigt är det viktigt att värna den kommunala kärnverksamheten såsom skola och äldreomsorg.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "För Liberalerna är det viktigt att kärnverksamheten som skola och äldreomsorg håller en bra kvalitet. De senaste åren har Liberalerna varit med och utökat resurserna till skolan kraftigt vilket har varit nödvändigt. Men vill vi inte ta ut mer skattepengar än nödvändigt. Om möjligheten finns är vi positiv till att på sikt sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "223",
+          "224",
+          "225"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "222",
+          "216",
+          "220"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;B;B;D;C;D;B;C;B;3/5;2/5;2/5;[223,224,225];[222,216,220]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kommunen styrs idag av Liberalerna i samarbete med Moderaterna, Kristdemokraterna och Centern. Det är ett samarbete som vi tycker har fungerat väl och vi hoppas att vi får fortsatt förtroende efter valet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler villor och radhus, färre höghus i betong",
+        "description": "Järfälla har vuxit alltför snabbt de senaste åren, mestadels med tät stadsbebyggelse med höghus i betong. Vi har den här mandatperioden sänkt byggtakten och investerat i skolor, förskolor och vägar för att komma till bukt med de köer och problem som den snabba utbyggnaden skapat. Nu vill vi ta nästa steg genom att styra om byggnationen till fler villor och radhus och färre höghus i betong."
+      },
+      {
+        "category": "Satsning på elevhälsovården och tidiga stödinsatser",
+        "description": "Många elever upplever idag stress och psykisk ohälsa. Därför vill vi satsa mer på elevhälsoenheten så att alla elever får det stöd de behöver. För att alla elever ska nå kunskapsmålen behöver det vara lugn och ro i klassrummet. Det behövs också se tidigare stödinsatser till de elever som behöver det och ett tätare samarbete mellan skola, fritidsförvaltning och socialtjänst."
+      },
+      {
+        "category": "Språkkrav och  mer resurser till hemtjänsten",
+        "description": "Hemtjänsten präglas idag i alltför stor utsträckning av tidspress och stress. Genom en förenklad och mer generös biståndsbedömning kan vi utöka möjligheten till hemtjänst och därmed höja livskvaliteten för de äldre samtidigt som vi förbättrar arbetsmiljön för personalen. Vi vill också erbjuda befintlig personal med bristfälliga språkkunskaper språkutbildning och ställa språkkrav vid nyanställning."
+      }
+    ],
+    "motivateVote": "Vi vill sänka byggtakten i Järfälla. De senaste åren har det byggts för mycket och för tätt. Genom att låta Järfälla växa i långsammare takt får vi också möjlighet att åtgärda de trafikproblem och ekonomiska bekymmer som den tidigare snabba expansionen har orsakat. Det ger också möjlighet att fortsätta öka resurserna till skolan som är hjärtefråga för oss.",
+    "name": "Liberalerna Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-jarfalla"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "702",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det billigaste för kommunen kommer alltid vara att äga de verksamhetslokaler som vi betalar för. Dessutom riskerar vi att skollokaler försvinner till andra verksamheter om friskolan går i konkurs.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktig fråga som MIljöpartiet drivit länge, i den framväxande Barkarbystaden är det viktig att bevara grönska och framförallt grönska som tillåts vara vild. Det räcker inte med trevliga parker.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala hyresrätterna är i princip de enda billiga bostäder som finns i denna region idag. Att då göra om de till bostadsrätter slår undan möjligheten för unga och andra svaga grupper att överhuvudtaget etablera sig på bostadsmarknaden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att klara kompetensförsörjningen måste vi vara en attraktiv arbetsgivare, kan vi erbjuda kortare arbetstid och det är något som efterfrågas av arbetstagarna är det absolut något att prova.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är oerhört viktigt att de äldre kan kommunicera med sin vårdpersonal, samtidigt kan språk vara något man lär sig delvis på jobbet och vi vill inte formalisera detta genom ett språktest.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla skolor behöver hjälpas åt och ta ansvar för att säkerställa mottagandet och integrationen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill säkerställa en god kvalitet och omvårdnad i kommunen, de senaste åren har vi sett lite för många problem med privata utförare för att kunna vara helt bekväma med att fortsätta den omfattande privatiseringsvåg som skett de senaste decennierna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver minska ner köttkonsumtionen av klimatskäl. Om detta ska ske genom köttfria dagar eller på något annat sätt vill vi lämna till den duktiga personalen i våra skolbespisningar.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en stor bilpark som allt eftersom ska ställas om till el. De laddstolpar som de använder ska finnas tillgänglig för allmänheten när vi inte själva använder dem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Järfälla har goda förutsättningar för att ta sin del av mottagandet till Sverige och det vill vi fortsätta göra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Med de förslag som vi har på riksplan för reformer av marknadsskolan är en rimlig slutsats att koncernskolorna kommer vara mycket mindre intresserade av att bedriva verksamhet när de inte ges samma möjlighet att mjölka skattebetalarna på stora vinster.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "Ett centralt förslag för oss är att 1% av alla kostnader för nybyggnation eller renovering ska läggas på konstnärlig utsmyckning. Detta måste inte i varje fall ske i direkt anslutning till fastigheten utan det viktigaste är att det kommer Järfällaborna till del.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Våran bedömning är att det är svårt att fullt ut finansiera välfärden med den skattesänkning som skedde inför 2022. Vill man inte se fortsatta nedskärningar kommer antagligen en mindre skattehöjning under kommande mandatperiod vara nödvändig.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "229",
+          "226",
+          "225"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "218",
+          "219",
+          "215"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;C;C;B;D;B;C;D!;A;0/5;4/5;3/5;[229,226,225];[218,219,215]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Helst vill Miljöpartiet att vi får egen majoritet men om så inte sker ser vi framförallt S som naturliga samarbetspartner. Vi har de senaste mandatperioderna även samarbetat med V och C.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte samarbeta med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Säkra skolvägar",
+        "description": "att varje barn i Järfälla ska känna sig trygg när den går/cyklar till förskolan eller skolan att det sker en översyn och en anpassning av trafiken  utifrån barnens behov."
+      },
+      {
+        "category": "Införande av tränorm",
+        "description": "Järfälla är i mångt och mycket byggt i betong som är en stor utsläppskälla, framåt vill vi istället satsa på trä som är vackert och som lagrar koldioxid. Vi vill att de byggnader som kommunen bygger de kommande åren ska vara i trä."
+      },
+      {
+        "category": "stoppa nerskärningarna i välfärden",
+        "description": "Världen står inte still. Priser går upp. Löner går upp. Men när “satsningar” inte ens täcker\r\ndessa ökande kostander får undersköterskor och lärare jobba med färre kollegor och\r\nresurser för varje år som går. Det är dags att bryta den här spiralen. Därför utgår vår\r\nbudget från en grund där vi räknar upp budget för skolpeng, äldreomsorg, osv med minst 2,1 procent för bibehålla nuvarande nivå."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är ett parti som vill ta ansvar för klimatet, för att vattnet är rent och för att våran miljö är frisk, detta vill vi göra samtidigt som vi tar hand om varandra och ser till att alla är med när Järfälla ställer om.",
+    "name": "Miljöpartiet Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-jarfalla"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "703",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget är bra förutsatt att det är ett fördelaktigt beslut för kommunen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svenska språket är otroligt viktigt för att kunna arbeta inom hemtjänst och äldreomsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Ökad valfrihet i skolan bidrar till ökad kvalitet för Järfällas elever. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Järfällabornas skattepengar ska användas ansvarsfullt och effektivt och Moderaterna ser möjligheter att sänka kommunalskatten ytterligare. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "223",
+          "230",
+          "225"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "222",
+          "216",
+          "219"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;A!;A;D;B;D!;A;B;C;3/5;2/5;1/5!;[223,230,225];[222,216,219]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Järfälla har idag ett väl fungerande allianssamarbete som Moderaterna vill se även under kommande mandatperiod.  ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet i Järfälla",
+        "description": "Det omfattande pågående trygghetsarbetet i Järfälla behöver fortsätta och utökas med ytterligare brottsförebyggande insatser."
+      },
+      {
+        "category": "Ordning i ekonomin",
+        "description": "Moderaterna kommer alltid att ta ansvar för Järfällas ekonomi och säkerställa att järfällabornas skattepengar används ansvarsfullt med fokus på kärnverksamhet som skola, omsorg och trygghet."
+      },
+      {
+        "category": "Mer kunskapsfokus i skolan",
+        "description": "Moderaterna vill fortsätta arbetet med mer fokus på kunskap i skolan och ökade meritvärden. Fler järfällaelever måste bli behöriga till gymnasiet."
+      }
+    ],
+    "motivateVote": "En röst på Moderaterna innebär en röst för ökad trygghet, ordning i ekonomin, fokus på företagsklimat och mer fokus på studieresultat och kunskap i skolan.",
+    "name": "Moderaterna Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-jarfalla"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "704",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen är ytterst ansvarig för att säkerställa att alla barn får en skolplats. Med ägandeskap över lokalerna följer friheten att kunna planera och strukturera om ifall det skulle behövas. En försäljning löper också stor risk att bli en förlustaffär för kommunen. Det finns gott om stöd för att det vid långsiktiga lokalbehov är betydligt billigare att äga än att hyra lokaler. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara lätt för alla Järfällabor att ta sig ut i våra naturområden. Järfälla är en kommun som växer i högt tempo. För oss är det därför högprioriterat att skydda stadsnära natur, den biologiska mångfalden och Järfällabornas friluftsliv. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill införa bostadsgaranti för unga och äldre, vilket kräver fler hyresrätter i kommunen. I Järfälla ser vi idag att hyresrätter helt prioriteras bort vid nybyggnation samtidigt som delar av befintligt bestånd ombildas. Resultatet blir att unga får allt svårare att flytta hemifrån, friheten för äldre minskar och trångboddheten ökar. Järfälla behöver fler prisvärda hyresrätter, inte färre.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för att testa sex timmars arbetsdag inom olika delar av verksamheten, men ser inte i dagsläget att det är en generell lösning inom hela äldreomsorgen. För oss är det mer prioriterat att säkerställa rätten till heltid och avveckla minutscheman inom hela den kommunala verksamheten. Det skulle både förbättra arbetsmiljön för de anställda och omsorgen för de äldre. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som har behov av äldreomsorg ska känna trygghet med personalen och Personalen ska ha goda förutsättningar att göra ett bra jobb. Vi vill säkerställa att alla som arbetar inom äldreomsorgen har tillräckliga språkkunskaper, och att alla som saknar det idag ska få stöd att klara kraven. Vi är däremot inte övertygade om att ett språktest är det enda eller bästa verktyget.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs ett gemensamt mottagande av nyanlända elever, för att skapa bästa möjliga förutsättningar för lärande. Det är kommunen som har ansvaret att alla barn som har rätt till en skolplats också får det, även om många friskolor vill hjälpa till. Däremot är ansvaret inget som de kommunala skolorna får särskilda pengar för, vilket ytterligare motiverar behovet av att alla skolor hjälps åt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata alternativ kan vara ett komplement till kommunal verksamhet, men LOV öppnar upp för fusk och missbruk med våra skattepengar. Vi vill avskaffa LOV i hemtjänsten och ersätta det med upphandling som ställer krav på kvalité för brukaren och goda arbetsvillkor för personalen. Det ska vara medborgarnas behov, inte företagens vinstjakt som styr hur äldreomsorgen och hemtjänsten utformas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det är mycket bra att det idag alltid erbjuds ett vegetariska alternativ i Järfällas skolor. Att fler väljer att äta mindre kött är en insats i den gröna omställningen. Utöver det ska skolmaten alltid vara god, näringsrik och ekologisk, oavsett om den är vegetarisk eller inte. Det är viktigt för att barnen ska orka hela dagen och för att vi ska minska matsvinnet.   \r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill säkerställa att det finns laddstolpar så att du kan ladda din bil i hela kommunen. Alla berörda aktörer behöver bidra i omställningen, och vi vill se ett särskilt kommunalt ansvar bland annat för att du ska kunna ladda din bil i hela Järfälla.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Flyktingmottagandet är ett gemensamt ansvar för alla kommuner. För att vi ska lyckas med integrationen och på ett värdigt sätt välkomna människor i behov av skydd behöver alla kommuner hjälpas åt utifrån var och ens kapacitet, så även Järfälla. Samtidigt är det viktigt att inte ett fåtal kommuner behöver ta ett oproportionerligt stort ansvar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ta tillbaka den demokratiska kontrollen över skolans utveckling. Det är elevernas lärande som ska styra skolan, inte skolföretagens vinster. Vi vill sätta stopp för vinstuttag och säkerställa att skattepengarna som är avsatta till skolan går till att anställa fler lärare, till skolmaterial av hög kvalitet och en närvarande elevhälsa. Vi välkomnar friskolor utifrån den premissen. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "Ett attraktivt kultur- och föreningsliv skapar mötesplatser mellan människor och bidrar till att brygga över sociala och kulturella klyftor. Därför är det viktigt att kulturen får det stöd den behöver och att vi kan möjliggöra en meningsfull fritid för alla, inte minst våra barn, unga och äldre. Samtidigt kommer kommunens kärnverksamheter, som skola och omsorg alltid vara prioriterade.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Skattenivån ska styras utifrån behov. Den ekonomiska politiken behöver vara lyhörd med ett särskilt fokus på de människor som har störst behov av samhällets stöd. Det finns stora behov av att stärka upp skola och omsorg, därför kan det finnas behov av att justera skattenivån på sikt. Vi vill stärka ekonomin genom att minska på konsulter, administration och motverka slöseri med skattepengar. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "229",
+          "226",
+          "225"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "216",
+          "217",
+          "215"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D;D!;C;C;D;C;C;D;B;1/5!;3/5;2/5;[229,226,225]!;[216,217,215]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på allmännyttan för fler prisvärda hyresrätter",
+        "description": "Det blir allt svårare att komma in på Järfällas bostadsmarknad. Det finns för få prisvärda hyresrätter som till exempel ungdomar och pensionärer har råd att bo i. Vi vill påbörja byggandet av minst 200 hyresrätter per år, samtidigt som vi renoverar det befintliga beståndet. Vi vill också införa ett ombildningsstopp. Järfälla behöver fler prisvärda hyresrätter, inte färre."
+      },
+      {
+        "category": "Avskaffa LOV i hemtjänsten",
+        "description": "Den fria etableringen i hemtjänsten öppnar upp för fusk och missbruk med våra skattepengar. Det är känt från andra kommuner att systemet möjliggör rent bedrägliga upplägg, samtidigt som det blir mycket svårare att kontrollera verksamheternas kvalitét. Vi vill avskaffa LOV i hemtjänsten och ersätta det med upphandling som ställer krav på kvalité för brukaren och goda arbetsvillkor för personalen."
+      },
+      {
+        "category": "Stoppa överkompensationen till friskolor och ta tillbaka kontrollen över skolan",
+        "description": "Idag får friskolor ersättning för sina lokalkostnader baserat på ett snitt, istället för faktisk kostnad. En utredning från 2018 visar att friskolor får ungefär 10 miljoner för mycket i förhållande till sina kostnader. Detta är medel som hade kunnat gå till extra stöd, fler lärare eller kuratorer. Nu skapar de istället bättre marginaler för att göra vinst."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-jarfalla"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "705",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Har en skola under lång tid varit en uppskattad och effektiv utbildare, likt Engelska skolan i Jakobsberg, så ser vi inga problem i att de kan få köpa och hantera sina egna lokaler.  För oss handlar det om kontinuitet och resultat framför allt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hästa Klack är ett kultur och naturområde som inte borde bebyggas och urbaniseras. Området borde absolut bli naturreservat. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Delar av allmännyttas hyresbestånd ska kunna omvandlas till bostadsrätter om de boende efterfrågar detta. Det är de kommunala bostadsbolagen uppgift att tillhandahålla hyresavtal för resurssvaga grupper som ungdomar. Men det behöver inte stå i konflikt med viss omvandling av hyresrätter till bostadsrätter. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en perfekt värld vore detta bra men i verkligheten är detta absolut ekonomiskt omöjligt och skulle drabba de äldre. \r\nFör att upprätthålla nivåerna äldreomsorgen så skulle det krävan massiva nyanställningar och budgeten skulle falla ihop som ett korthus. Dessutom så är det redan nu svårt att hitta kvalificerade vikarier. \r\nVi är dock emot delade turer i äldreomsorgen och vill slopa karensdagen.  ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation är A och O för att upprätthålla tryggheten i omsorgen. Språkkrav är ett absolut krav för att få ansvara för andra medborgares trygghet och omsorg. Det handlar om mediciner, intim hjälp och medmänsklighet. Kan man inte göra sig förstådd eller läsa instruktioner så faller kvalitén och människor utsätts för alvarliga risker.   ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill satsa på en föreberedelseskola för nyanlända med fokus på språket och studieteknik. Det är oseriöst att bara kasta in barn och ungdomar utan att ge dem verktygen all lyckas i svensk skola. Modersmålsundervisningen bör också slopas för att flytta dessa resurser och lärare till föreberedelseskolan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fria vårdvalet är en positiv del av samhället och människors frihet att styra sin vardag. Med det sagt är vi extremt fokuserade på kvalité och om någon missköter sig så förlorar de vårt förtroende snabbt. Vi har röstat för att återta båda äldreboendena Linden och Lönnen i kommunal drift eftersom de inte uppfyllde kommunens krav. Samma sak hände med Flottiljen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det ska finnas en kötträtt och vegetarisk rätt i skolan. I övrigt ska individuell anpassning av skolmaten enbart ske vid medicinska skäl. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska satsa på en bred funktionell infrastruktur som förenklar för tillgodose medborgarnas behov. I samband med att elbilarna blir fler så behövs laddningsmöjligheter för dessa. Detta ska dock inte ta bort parkeringsmöjligheter för övriga fordon. Järfälla är onödigt svårt att parkera i och det behöver ses över på en generell nivå. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Järfälla har redan nu en väldigt obalanserad social gemenskap där många grupper aldrig talar med varandra. Detta är ohållbart över tid. Järfälla behöver satsningar på återvandingscentrum för de som inte vill anpassa sig till Sverige och vi kan inte ta emot stora flyktingströmmar innan vi löst trygghetsfrågan, bostadsbristen och infrastrukturproblemen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Vi baserar vår åsikt på hur bra en friskola levererar utbildning till sina elever. Vi eftersträvar inte att expandera eller bekämpa våra samarbeten så som det ser ut idag. Det viktigaste är att titta på varje enskilt fall och besluta utifrån värdighet och seriositet. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "Kultur ska finnas tillgänglig för alla. Vi är villiga att satsa på mer kulturpengar för att lyfta lokal historia, musik och kreativitet. Ett rikt kulturliv är ofta något som kan lyfta eller fälla en kommun. Järfälla har mycket potential att ha ett fantastiskt kulturliv.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Vi eftersträvar stabilitet i skattefrågan. Det finns behov som skulle kräva korrigeringar av kommunalskatten men innan det är aktuellt så vill vi sänka kommunalrådens löner och lokalpolitikernas arvoden. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi behöver krossa och avväpna gängen. \r\nDen som vill ta sig ur ett kriminellt liv ska givetvis ges en chans till det. \r\nJakobsbergs centrum behöver bli attraktivt igen. Det ska bli en plats man åker till, inte i från. ",
+        "value": [
+          "223",
+          "230",
+          "225"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi är djupt oroade över den utbredda psykiska ohälsan. \r\nAll har sett hur soprum och sopstationer ser ut i Järfälla. Vi vill sätta upp kameror och öka satsningarna på att hålla fint i kommunen. \r\nSeniorerna förtjänar de bästa vi kan erbjuda de eftersom de byggda upp landet. \r\n",
+        "value": [
+          "216",
+          "219",
+          "220"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;B;A;D!;A;C;A;C;D!;2/5;3/5!;2/5;[223,230,225]!;[216,219,220]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, men vi lägger mer tungvikt vid vissa lokala frågor så som psykisk ohälsa och lokala miljöfrågor. Vi oroar oss mycket för ensamhet bland äldre, depressioner bland medborgare och vill plantera 100 blommande träd runt i kommunen.   ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": " Vi brinner för att lyfta vår kommun både socialt och ekonomiskt. Efter att vänsterblocket bland annat ville ta bort alla ordningsvakter i sin gemensamma budget har vi varit skeptiska till deras kapacitet att leda kommunen. Som vågmästare har vi valt att stötta Alliansen och anser att det varit det bästa för Järfälla kommun. Vi kommer ge vårt stöd till den som kan få bort gängen och våldet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi bryr oss om sakpolitik främst men V och MP står väldigt långt ifrån oss.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet i Järfälla",
+        "description": "För att öka tryggheten vill vi ha fler ordningsvakter och öka polistätheten i Järfälla.  \r\nVi har stoppat 2021år S budgeten när de ville sparka alla ordningsvakter av just den anledningen! Vi har också jobbat för att stötta kvinnojouren. \r\nSlutligen vill vi skapa trygga ytor och stoppa de kriminella gängens framfart i alla kommunens delar!"
+      },
+      {
+        "category": "Infrastruktursatsningar behövs omgående",
+        "description": "Järfälla kommun har flera infrastrukturproblem som skapar köer och gör framkomligheten sämre. Det fattas även parkeringar för besökande utanför våra tätorter samt brist laddstolpar för elfordon. Vi vill se smidigare och säkrare trafiklösningar och bättre parkeringlösningar inom kommunen."
+      },
+      {
+        "category": "Tillsammans mot psykisk ohälsa",
+        "description": "Vi har alla sett allt fler individer som inte känner sig som en del av resten av  samhället och som drabbas av depression, ångest och flera andra psykiska tillstånd. Detta skadar både medborgare och samhället! \r\nVi vill satsa på både skolkuratorer och på Äldrekuratorer för att kartlägga och motverka psykisk ohälsa bland både barn och de äldre. Detta och andra förslag ska motverka mental ohälsa."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna är den folkliga rösten som skapar debatt och leder verklig förändring i svensk och lokal politik. Vi har balanserat de två blocken aktivt under detta mandatet för att ge Järfällas medborgare så mycket inflytande som möjligt. Vi har fått igenom trygghetssatsningar, rätt till heltid i äldrevården och satsningar på kvinnojouren.",
+    "name": "Sverigedemokraterna Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-jarfalla"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "706",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "f885cf3808b478b61ec5298d71ddb5a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska äga de fastigheter där samhällsviktig verksamhet bedrivs. Det gärller skolor, förskolor, äldreboenden mfl. Det är billigare och kommunen har full tillgång till lokalerna och kan ändra och anpassa dom vid förändrad verksamhet,",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cb660ce83a3c2b05b9d1c0f9fdcffe4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår växande kommun behövs tillgång till fredade naturområden.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b46303401d0e7efd78a5331a36c657bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler bostäder i Järfälla som inte kräver en stor ekonomisk insats för att få tillgång till. Hyresrätten är en bra boendeform för unga som vill flytta hemifrån, trångbodda barnfamiljer och äldre som vill flytta från sin villa. De ska byggas klimatsmart med minsta möjliga negativa påverkan på klimatet och de ska vara rimliga hyror för vanligt folk.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3b1dc1c10a49bcb8f260c2f4ab71a01c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att hinna leva vill vi att en arbetstidsförkortning genomförs. Vi kan börja inom äldreomsorgen som är ett viktigt men tungt arbete. Det är kvinnodominerat och fortfarande  innebär det ofta dubbelarbete för kvinnor att ansvara för hem och försörjning genom yrkesarbete.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "60c2e84a15a611727bfedaffe5b5878d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Målsättningen ska vara att alla anställda som möter våra äldre ska kunna svenska. Det uppnås genom utbildning på betald arbetstid. Det är också viktigt att äldre med annat språk än svenska ska mötas på sitt hemspråk. Språktest är kontraproduktivt om vi vill att fler ska arbeta med omsorgen om våra äldre.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7a095f89ff09662eac53953c68ebc409",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska även friskolor uppfylla  kraven på att nyanlända ska omfattas av skolplikten och därmed erbjudas utbildning,",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "352ab3f3816da52da07c17899c08dffb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgen om våra äldre ska ej vara föremål för privata företags vinstjakt. Andra hänsyn ska stå i fokus för denna viktiga verksamhet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "957801a1fc623f45ddbead1b15df34fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver förändra vår konsumtion av mat för att klara klimatkrisen. I det ingår att äta mer vegetarisk kost. Skolan är en viktig plats där matvanor på ett positivt sätt kan förändras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "947ae2a7c3a11876cd9f62fb51d0ed5c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan vid publika plaster exempelvis idrotts och friluftsanläggningar tillhanda hålla laddstolpar. Det viktiga är att det vid bostaden, flerfamiljshusen finns laddstolpar så att laddning kan ske nattetid för att på så sätt bidra till att jämna ut elförbrukningen under dygnet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "beb8eea3a376f4d7645695027fb0b35a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Antalet människor på flykt bestäms av pågående krig/konfliker och klimatförändringar i världen som medför att människor tvingas lämna sina hem för att söka skydd. Därför måste det finnas beredskap i kommunen för att ta emot de antal människor som vid en fördelning av platser tilldelas kommunen. Alla kommuner har ett solidariskt ansvar att ta emot människor på flykt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a09c76be8afcc02daf37c80293dc5ba5",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska drivas utan vinstjakt från privata skolföretag. Alla barn och ungdomar har lika rätt till en bra utbildning i en skola nära hemmet. Skattepengarna ska användas till det som de är till för, inte till privata skolföretags vinster.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "bdbb9355934cd196a96afb78466ed914",
+        "questionType": "RANGE",
+        "reasoning": "I vår växande kommun behöver kulturen i form av skapande verksamhet och publika kulturevanemang, teater mm öka. Det ska var en möjlighet att utöva eller avnjuta kultur i Järfälla som komplement till huvudstadens stora utbud.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c743a8caa84bc5ee5e550a6b4a7da54b",
+        "questionType": "RANGE",
+        "reasoning": "Den borgerliga alliansen har under mandatperioden prioriterat att sänka skatten istället för satsningar på välfärden. Vi ser att det behövs ökade resurser för att minska barngrupperna  i förskolan, fler lärare till skolan och fler händer inom  äldreomsrogen. Vi ser helst att staten ökar de generella statsbidraget till kommunerna. Men i valet mellan nedskärning och skattehöjning är valet lätt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "86fa039784c5181ea517580145d934bb",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "229",
+          "226",
+          "230"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "da25b843fdef705c24a917cd6092df58",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "216",
+          "217",
+          "215"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D;D!;D!;B;D;A;C;C;A;0/5;3/5;3/5;[229,226,230];[216,217,215]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler hyresrätter med kommunal hyresvärd",
+        "description": "Det behövs en särskild satsning på prisvärda hyresrätter i hela Järfälla i olika storlekar för att motverka trångboddhet och bostadsbrist. Unga behöver större möjligheter att flytta hemifrån. Viktigt är också att tillgången till hyresrätter är god så att kvinnor och barn som vill lämna destruktiva förhållanden har en plats att bygga ett nytt liv på."
+      },
+      {
+        "category": "En trygg och jämlik skola för alla",
+        "description": "Vi vill prioritera långsiktig förbättring av Järfälla skolor och förskolor: vi vill se mindre barngrupper, fler lärare och övrig personal i skolan. Vi vill att alla områden får de resurser de behöver. Finansiering efter behov."
+      },
+      {
+        "category": "En trygg anställning för alla kommunanställda",
+        "description": "Heltid ska vara en rättighet, deltid ska vara en möjlighet. Vi vill komma bort från alla otrygga anställningsformer. Vi vill att en systematisk genomgång görs i alla verksamheter i kommunen. Tillsvidareanställningar ska finnas för all personal som vill ha det. Timanställningar ska bort från viktiga verksamheter som skola och omsorg."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Järfälla",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-jarfalla"
+  }
+]

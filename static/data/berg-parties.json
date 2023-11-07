@@ -1,0 +1,816 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "92",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f55088d493f06dd2e72d14e517f0ba4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom eget ägande kan man enklare omforma lokaler vid ändrade behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfb43c11c4d1342e2750261bebb2bdea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är i grunden positiva till vindkraft. Dock finns det ställer som är bättre eller sämre lämpade för vindkraft. En viktig aspekt är också den s.k. bygdepengen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "debfd6819b9a130735e8ab69c31b6dec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med näringslivet. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f5b58a9b507db6875287a84c4db28f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det vore bra för yrkets status. Tveksamt när det kan införas, dock. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "18f9365023be328a9b1a049a92f35bec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ser i dagsläget ingen anledning till det.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3165ee578f7d9e65eeed904e392f81fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vårdande yrken är det viktigt för t.ex. den äldre att känna sig trygg och förstådd.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a695b62f143929dfb3df3b7d5a854085",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om närmsta skola är en friskola bör denna skola ta emot de nyinflyttade eleverna, oavsett vilken nationalitet de har.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "19507a662c5b7dee5217b03daa4ea8d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör genom sitt bostadsbolag på sikt utöka antalet hyresrätter i attraktiva områden. Vad som är billigt eller ej är en definitionsfråga, men kommunen ska inte skattefinansiera hyresnivåerna. Behöver man hjälp med hyran finns bostadsbidrag att söka.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0a19a278acb601499ef0970f4939535c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till privata utförare inom äldreomsorgen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7654a4604dbb7733d6526c2228d76bc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler publika laddstolpar behövs, men bör lösas av marknaden. Dock bör kommunen i olika sammanhang påvisa behovet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e726faf86d441ebfe0f8bf9f84bf619f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bli fler invånare. Det bästa vore om fler av de flyktingar som kommer till vår kommun väljer att stanna kvar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d1aea4c2fa45192a9dd89747af1bd454",
+        "questionType": "RANGE",
+        "reasoning": "Ser inte behovet av förändring av nuläget.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "027f6e681a0ba5009c7d78de4c4b3b8a",
+        "questionType": "RANGE",
+        "reasoning": "Ser just nu inget behov av förändring av nuläget.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4417aee0c6e1dcee157029bd99d6b93",
+        "questionType": "RANGE",
+        "reasoning": "Berg har redan idag en förhållandevis hög skattesats. Den behövs för att klara finansieringen av våra kärnverksamheter (vård, skola, omsorg), men den bör inte bli högre. Hellre sänkas, på sikt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bed6680c1e6280a0d41793a30ad57da5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "836",
+          "832",
+          "828"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;C;D;A;C;C;B;C;B;B;2/5;2/5;2/5;[836,832,828]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kommer inte på någon konkret fråga just nu, men generellt kan sägas att riksdagspartier ibland inte verkar förstå förutsättningarna för oss som lever på glesbygd i norrlands inland.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Drömmer är, såklart, egen majoritet. Uppfylls inte detta söker vi samarbeten som gör att vi får igenom så mycket som möjligt av vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sveriedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öka det lokala inslaget i maten till våra barn och äldre.",
+        "description": "Genom att göra det möjligt för småskaliga livsmedelsproducenter att leverera till de kommunala verksamheterna får våra barn och äldre tillgång till lokalt producerade livsmedel, samtidigt som vi gynnar de lokala producenterna."
+      },
+      {
+        "category": "Skapa fler gemensamma mötesplatser för alla åldrar.",
+        "description": "Att träffas och umgås är viktigt för alla åldrar och med den ökande digitaliseringen ser vi ett ökat behov av mötesplatser.  Detta vill vi göra tillsammans med t.ex. föreningar, företag och andra organisationer. Detta är viktigt ur många perspektiv, men bl.a. för att minska psykisk ohälsa och ensamhet."
+      },
+      {
+        "category": "Gratis kollektivt resande för seniorer.",
+        "description": "Vi har redan nu gratis kollektiv resande för våra barn och unga. Vi vill utreda möjligheten att erbjuda det även för seniorer."
+      }
+    ],
+    "motivateVote": "Vi är det gröna, liberala alternativet. Vi värnar det unika i vår kommun och står upp för hållbar tillväxt.",
+    "name": "Centerpartiet Berg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-berg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "93",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f55088d493f06dd2e72d14e517f0ba4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bergsmoderaterna ser gärna att privata fastighetsägare äger och underhåller vissa lokaler, detta för att frigöra kommunens eget kapital för att renovera och underhålla det egna fastighetsbeståndet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bfb43c11c4d1342e2750261bebb2bdea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Befolkningen runt om Rätan har varit tydlig, ingen mer vindkraft i bygden. Vi lyssnar på opinionen och har tagit ställning mot etableringen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "debfd6819b9a130735e8ab69c31b6dec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f5b58a9b507db6875287a84c4db28f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi Bergsmoderater ser hellre en ökad grundbemanning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "18f9365023be328a9b1a049a92f35bec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3165ee578f7d9e65eeed904e392f81fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "För våra äldres skull måste vårdgivaren kunna göra sig förstådd. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a695b62f143929dfb3df3b7d5a854085",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19507a662c5b7dee5217b03daa4ea8d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör inte subventionera bostäder med skattemedel.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0a19a278acb601499ef0970f4939535c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som situationen ser ut i Bergs kommun så ser vi inga möjligheter till detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7654a4604dbb7733d6526c2228d76bc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är upp till näringen att utveckla ladd infrastrukturen. Kommunen bör istället lägga fokus på att hjälpa till med erforderliga tillstånd.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e726faf86d441ebfe0f8bf9f84bf619f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har historiskt tagit stort ansvar och bör integrera dom befintliga först.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d1aea4c2fa45192a9dd89747af1bd454",
+        "questionType": "RANGE",
+        "reasoning": "Vi är nöjda med den skolstruktur som finns idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "027f6e681a0ba5009c7d78de4c4b3b8a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4417aee0c6e1dcee157029bd99d6b93",
+        "questionType": "RANGE",
+        "reasoning": "Målet är att sänka skattekollektivets börda.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "bed6680c1e6280a0d41793a30ad57da5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;D;A;C;D;B;A;B;A;C;2/5;2/5;1/5;_",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Med (M) som samlar kraften och besluten i kommunen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, men det skall finnas en borgerlig framtoning i alla beslut!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jämtländska fredagar",
+        "description": "Lokal mat i våra kök på fredagar. Allt för att främja den lokala maten och traditionen runt den!"
+      },
+      {
+        "category": "Fritidsledare på rymmen.",
+        "description": "Skapa en ambulerande fritidsgård som tar tillvara på årstiderna, föreningslivet och den fantastiska miljö vi har i Bergs kommun."
+      },
+      {
+        "category": "Ökad grundbemanning inom Särskilda boenden",
+        "description": "Bergsmoderaterna vill likt vårt förslag i budgetprocessen inför 2022 öka på grundbemanningen inom Säbo med 5 miljoner per år."
+      }
+    ],
+    "motivateVote": "För att få ut så mycket som möjligt av den kommunala skattekronan.",
+    "name": "Moderaterna Berg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-berg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "94",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f55088d493f06dd2e72d14e517f0ba4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "När kommunen äger äger vi även möjligheterna att anpassa lokalerna efter behov och hantera hyresnivåer. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfb43c11c4d1342e2750261bebb2bdea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "debfd6819b9a130735e8ab69c31b6dec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men vi kommer aldrig att sälja ut allmännyttan då vi anser att det är viktigt att det finns ett offentligt ägt alternativ till bostäder.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f5b58a9b507db6875287a84c4db28f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utredning för 6 timmars arbetsdag pågår i Bergs kommun, vi avvaktar resultat och dialog med medarbetarna.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "18f9365023be328a9b1a049a92f35bec",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3165ee578f7d9e65eeed904e392f81fe",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a695b62f143929dfb3df3b7d5a854085",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "19507a662c5b7dee5217b03daa4ea8d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att i en expansiv kommun även kunna erbjuda bra hyreslägenheter till vettiga priser. Vi kommer att fortsätta vårt arbete för att hitta fler boendemöjligheter i Bergs kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0a19a278acb601499ef0970f4939535c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här är vi lika tydliga som vid förra valrörelsen - Vi säger NEJ till privat äldreomsrog.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7654a4604dbb7733d6526c2228d76bc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men vi ska definitivt jobba för fler laddstolpar genom olika påverkansinsatser. Kommunen ska jobba med fler laddstolpar för egna elbilar inom verksamheterna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e726faf86d441ebfe0f8bf9f84bf619f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar emot få flyktingar i dag. Vi har möjlighet att ta emot fler, dessutom behöver vi välkomna människor till vår kommun för att klara arbetskraftsförsörjningen. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d1aea4c2fa45192a9dd89747af1bd454",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "027f6e681a0ba5009c7d78de4c4b3b8a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b4417aee0c6e1dcee157029bd99d6b93",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bed6680c1e6280a0d41793a30ad57da5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D;_;C;C;C;C;D;D;A;B;A;2/5;3/5;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det är klart att det finns frågor som vi har olika syn på. Socialdemokraterna är ett stort parti med många medlemmar och det är inte konstigt att man ibland har olika uppfattningar. När vi har annan uppfattning så jobbar vi med påverkan uppåt. Vi har bra kanaler som vi använder.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi styr innevarande mandatperiod  med Centerpartiet och det fungerar bra. Vi går nu till val som de två enskilda partier vi är, sedan får valresultatet ge en grund för nya diskussioner för majoritet i Berg. Vi jobbar såklart för en Socialdemokratiskt styrd kommun.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ja, Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsningar på omsorgen!",
+        "description": "Skippa ofrivilliga delade turer.\r\nFler kollegor, genom att fortsätta höja grundbemanningen.\r\nSluta med minutjakten inom hemtjänsten.\r\nMer delaktighet för medarbetarna."
+      },
+      {
+        "category": "Barn och unga - vår framtid!",
+        "description": "En utökad elevhälsa med fokus på förebyggande arbete och psykisk hälsa.\r\n\r\nÖkat förebyggande arbete för att välja rätt till gymnasiet och för att slutföra studierna.\r\n\r\nInspirerande och trygga miljöer.\r\n\r\nEn bra start för alla barn i våra förskolor."
+      },
+      {
+        "category": "Bostäder ",
+        "description": "Vi ska fortsätta skapa förutsättningar för fler bostäder i Bergs kommun.\r\n\r\nVi som bor här ska ha möjlighet att välja olika sorters boende och fler ska kunna flytta in.\r\n\r\nHyresrätter med ok hyra.\r\n\r\nDetaljplaner för villor\r\n\r\nNästa Trygghetsboende planeras i Myrviken."
+      }
+    ],
+    "motivateVote": "Socialdemokraterna i Berg ber om väljarnas förtroende för att fortsätta utveckla Bergs kommun. Ett utvecklingsfokus som skapar möjligheter att behålla och skapa ännu bättre service för kommunens invånare. Bergs kommun ska vara en riktigt bra kommun att bo och verka i.\r\nSamhället förändras snabbt nuförtiden och då spelar det stor roll vilka värderingar som ligger till grund för snabba beslut.",
+    "name": "Socialdemokraterna Berg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-berg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "95",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f55088d493f06dd2e72d14e517f0ba4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om kommunen äger förskolelokaler så blir det lättare att få igenom det som behöver åtgärdas såsom reparationer, lekparker, ombyggnader mm\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfb43c11c4d1342e2750261bebb2bdea",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "debfd6819b9a130735e8ab69c31b6dec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men det är ok om kommunen äger bostäder och lokaler.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f5b58a9b507db6875287a84c4db28f7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "18f9365023be328a9b1a049a92f35bec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra företrädare måste lyssna på vad medborgarna/skattebetalarna tycker.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3165ee578f7d9e65eeed904e392f81fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ser vi som en självklarhet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a695b62f143929dfb3df3b7d5a854085",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "19507a662c5b7dee5217b03daa4ea8d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte finansiera privata bostadsbolag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0a19a278acb601499ef0970f4939535c",
+        "questionType": "PROPOSITION",
+        "reasoning": "SD är eg för privata företag men i vår kommun har vi dålig erfarenhet av tidigare upphandlingar som gjorts av privata vårdbolag som gjort att vi blivit tvungna att ta tillbaka hemtjänst/äldreboende i kommunal regi. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7654a4604dbb7733d6526c2228d76bc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inget som kommunen ska ansvara för.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e726faf86d441ebfe0f8bf9f84bf619f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men vi accepterar de som kvoteras.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d1aea4c2fa45192a9dd89747af1bd454",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "027f6e681a0ba5009c7d78de4c4b3b8a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b4417aee0c6e1dcee157029bd99d6b93",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "bed6680c1e6280a0d41793a30ad57da5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "832",
+          "834",
+          "828"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;B;D;D;B;A;A;A;D;2/5;2/5;1/5;[832,834,828]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "----",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det blågula blocket.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "nej, vi kan tänka oss att styre med alla partier. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi säger nej till mer vindkraft i Bergs kommun",
+        "description": "Vi säger nej till vidare etablering av vindkraftverk i kommunen. Det kommunala vetot ska gälla när ett nej till nyetablering av vindkraftverksbeslut tages. Eftersom Bergs kommun är ett samiskt förvaltningsområde så kommer den traditionella renskötseln att påverkas negativt. Vi anser också att djurlivet i övrigt kan påverkas ogynnsamt. Värdet på kommunens fastighetsägares närliggande fastigheter oc"
+      },
+      {
+        "category": "Vård-och omsorg",
+        "description": "Vi vill vara mer lyhörda över personalens önskemål ang. bl. a arbetsrutiner, vi vill ha kvar önskeschema för att kunna ta tillvara på personalens olika önskemål att jobba vissa tider på dygnet och helger. Vi vill ha som krav att all personal ska ha goda kunskaper i svenska i tal och skrift för att kunna ha en god kommunikation med vårdtagarna/brukarna samt kollegor och arbetsgivare."
+      },
+      {
+        "category": "Bevara byskolorna i största möjliga mån",
+        "description": "Vi vill inte stänga någon skola den kommande mandatperioden. Långa resor skulle bli oacceptabelt för skolbarn om deras skola skulle läggas ner. Skolan är den absoluta dragkraften för att barnfamiljer ska finna en attraktiv och fungerande kommun att etablera sig i. Det underlättar även för företagsetablering att det finns en framtida kompetensförsörjning på lång sikt."
+      }
+    ],
+    "motivateVote": "Vi vill ha ordning och reda i skolan.\r\nMed fler folkomröstningar stärker vi det politiska engagemanget och demokratin.\r\nHela kommunen ska leva.\r\nGenom en röst på oss kommer vi vara en garant för att inga flera vindkraftsetableringar kommer att ske inom kommun.\r\nTrygghetslarmen ska vara gratis.\r\nVårdtagare ska inte behöva träffa så många olika vårdpersonal, allt för att skapa trygghet och lugn.\r\n",
+    "name": "Sverigedemokraterna Berg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-berg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "96",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "f55088d493f06dd2e72d14e517f0ba4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att äga och förvalta sina egna lokaler blir billigare i längden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bfb43c11c4d1342e2750261bebb2bdea",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi förordar förnybar energi men vi anser i detta fall att området redan har nått sin fulla potential med befintliga vindkraftverk. I närområdet finns både Kungsörn som häckar samt två samebyar som bedriver rennäring, vilket vi vill ta hänsyn till. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "debfd6819b9a130735e8ab69c31b6dec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan inte förvänta oss att ett rent vinstdrivet företag tillhandahåller allt som krävs i en kommun. Det finns redan regler och lagar som reglerar på vilket sätt kommuner får bedriva näringsverksamhet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5f5b58a9b507db6875287a84c4db28f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalen inom äldreomsorgen är hårt ansatta med högt arbetstempo, delade turer och underbemanning. I andra kommuner har sex timmars arbetsdag varit ett framgångskoncept med friskare och gladare personal, och man har dessutom haft lättare att rekrytera. Vi anser att de som byggde landet ska få en vård värd namnet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "18f9365023be328a9b1a049a92f35bec",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkets röst är viktig så en folkomröstning kan vara på sin plats ibland, samtidigt som det är de folkvalda politikerna som ska lyfta och stärka folkets röst. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3165ee578f7d9e65eeed904e392f81fe",
+        "questionType": "PROPOSITION",
+        "reasoning": "God omvårdnad är viktigare än ett statiskt språktest som är lika för alla. Hur duktig du är på grammatik påverkar inte hur väl du kan erbjuda vård, omvårdnad och omsorg. Däremot är det eftersträvansvärt att du ska ha viss utbildning, exempelvis undersköterska, om du jobbar inom äldreomsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a695b62f143929dfb3df3b7d5a854085",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "19507a662c5b7dee5217b03daa4ea8d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Givetvis, en förutsättning för att alla som vill leva och verka i Bergs kommun ska kunna göra det. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0a19a278acb601499ef0970f4939535c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett hur vinst går före de äldres vård och omhändertagande, vilket är oacceptabelt. Givetvis ska det kontrolleras att kommunen uppfyller kraven för en värdig vård och omsorg. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7654a4604dbb7733d6526c2228d76bc8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som ett led i den gröna omställningen är detta ett mycket bra förslag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e726faf86d441ebfe0f8bf9f84bf619f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står upp för asylrätten. Samtliga EU länder måste ta ett större samlat ansvar för mottagandet av människor på flykt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d1aea4c2fa45192a9dd89747af1bd454",
+        "questionType": "RANGE",
+        "reasoning": "Vinst får aldrig gå före barnens lärande och utveckling.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "027f6e681a0ba5009c7d78de4c4b3b8a",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en nyckel till välmående, därför bör kommunen fortsätta sitt riktade arbete för kulturen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b4417aee0c6e1dcee157029bd99d6b93",
+        "questionType": "RANGE",
+        "reasoning": "För en fungerande välfärd behöver skatten bibehållas som den är idag. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bed6680c1e6280a0d41793a30ad57da5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "830",
+          "835",
+          "828"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;A;D!;C;B;D;D!;A;D;A;0/5;3/5!;2/5;[830,835,828]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vänsterpartiet förordar förnybar energi såsom exempelvis vindkraft, vilket vi i Berg också gör, men vi säger nej till vindkraft i skyddade områden och där det finns höga naturvärden. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se en majoritet som förverkligar en vänsterpolitik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorg med både de äldre och personalen i fokus",
+        "description": "För att vi ska kunna behålla kompetent personal och ge de äldre den bästa vården behöver vi göra ett par förändringar.\r\n\r\nPandemin har visat hur sårbar vården kan vara, vi behöver därför öka grundbemanningen.\r\nTrygga anställningsformer med heltid som norm, med möjlighet att gå ner i tid. Delade turer skall undvikas.\r\nPersonalen ska få vara delaktiga i schemaläggningen."
+      },
+      {
+        "category": "Grön omställning på landsbygden",
+        "description": "Omställningen till ett fossilfritt samhälle har redan startat, men behöver intensifieras för att kunna komma i mål. Vi behöver titta på lösningar för oss på landsbygden, och detta behöver vi göra tillsammans - kommunen, företagare och invånare."
+      },
+      {
+        "category": "Levande landsbygd",
+        "description": "Bergs kommun ska vara attraktivt att leva och verka i.\r\nFör detta krävs bättre förutsättningar för företagande på landsbygd. Människor måste garanteras grundläggande samhällsservice oavsett var de bor. Vår landsbygdspolitik bygger på långsiktighet, en utvecklad samverkan, ett större regionalt inflytande och att staten ska ta ett större ansvar för landsbygdsfrågorna."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet arbetar för allas lika värde, en välfärd för alla, en levande landsbygd, en pension värdig namnet, en bra sjukförsäkring, och för miljön och klimatet.",
+    "name": "Vänsterpartiet Berg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-berg"
+  }
+]

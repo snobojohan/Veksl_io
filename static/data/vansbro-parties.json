@@ -1,0 +1,784 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1971",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9de23a037c92f7e201de139e4d20b54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi hade gärna sett en fortsättning på den privata driften. Dock inkom inga anbud. Enligt lag gäller olika förutsättningar för kommunal och privat drift, vilket är olyckligt. Driftformen är dock inte avgörande för kvalitén.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "a0eb34896db94af187493c472fe17af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. Elevinflytandet kring kosten ska öka. Vi vill öka andelen när och svenskproducerade råvaror och därmed bidra till ökad självförsörjningsgrad och att upphandla i enlighet med svensk djurskyddslagstiftning \r\n",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4fc703337effd03479105b983c66eae6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall följa den lagstiftning som finns gällande konkurrens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78ae2b87e86b24d3df2c86580c07d3a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte genomförbart varken ekonomiskt, kompetensmässigt eller gällande  tillgång på arbetskraft.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b4487e3f43a23a2f7e21bb3db87ef4cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den politiska församlingen är folkvald. folkomröstning skall ske i undantagsfall.  Dock är det viktigt med förankring och medborgardialog i stora frågor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cbf453d1f825daf30c5ca40450267fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Brukare och personal måste kunna kommunicera med varandra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce4a9dd885eed9f9b914777b82bef8c5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lika villkor skall gälla för både offentlig och privat regi inom alla verksamhetsområden. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f2b61782f70f7bb5c401cd39c7a631bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver skyndsamt bygga hyresrätter. Vi anser inte att  kommunen kan subventionera  hyror i nybyggda lägenheter. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef6597e3993108eaaa082e68bf09afca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall vara en möjliggörare för etableringar av andra aktörer. Däremot behöver vi se över behovet för kommunens egna verksamheter och  personal.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc06d203538361a45f85c1c6f5124737",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget har vi inget stort mottagande. Vi behöver dock arbetskraft. Vi tar emot enligt anvisning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7929f9deeeb6088e3a57178ef5b76ccf",
+        "questionType": "RANGE",
+        "reasoning": "Driftformen är inte det viktigaste utan kvalitén på verksamheten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "05f09ec32bb2087a7c2d308db83d5822",
+        "questionType": "RANGE",
+        "reasoning": "Vi gärna avsätta mer pengar  men vi har underskott på driftkostnader och i dagsläget finns inget utrymme för utökning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ac34555f0d8bf8aa89c324f57f959cbe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0faf0aed42a17d0ee2129ab513e53bb7",
+        "questionType": "PRIORITY",
+        "reasoning": "Arbetet med att få till bostäder pågår i form av bla planarbeten och samråd. \r\nEn meningsfull fritid för unga är en förutsättning för god hälsa trivsel.\r\nEn god och nära samverkan med alla parter är av största vikt för tidig upptäckt och rätt insats för att skapa goda uppväxtvillkor.",
+        "value": [
+          "2718",
+          "2717",
+          "2719"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;A!;D!;A;B;C;D;A!;B;B;2/5;2/5;2/5;[2718,2717,2719]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I stort har vi samma uppfattning som på riksnivån. Dock kan vissa lokala skillnader förekomma om vi anser det bättre för Vansbro kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi avvaktar valresultatet. Självklart vill vi ha många mandat.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tillsammans för varje barn",
+        "description": "Vi har stora sociala utmaningar. Vi vill fortsätta det påbörjade arbetet att utforma en modell efter kommunens förutsättningar där vi följer, upptäcker och säkerställer att varje barn får goda uppväxtvillkor och rätt stöd i rätt tid. Detta ställer stora krav på samverkan och att individen är i fokus."
+      },
+      {
+        "category": "Framtidens välfärd",
+        "description": "Ett brett arbete behövs för att möta morgondagens utmaningar och möjligheter inom välfärden. Här krävs samlad kraft och nya innovativa lösningar. Det handlar bl. a om kompetensförsörjning, delaktighet, nya samverkansformer, att riva gärdesgårdar, förebyggande och hälsofrämjande arbete. För oss i Centerpartiet är helhetsperspektivet viktigt."
+      },
+      {
+        "category": "Attraktiv och hållbar utveckling",
+        "description": "Vi måste jobba på alla områden, hela tiden. Det är den lilla kommunens stora utmaning. För att skapa långsiktig hållbarhet (ekonomiskt, socialt och miljömässigt) måste vi fortsätta göra satsningar som bidrar till att vi är en attraktiv kommun för medborgare, företag och besökare."
+      }
+    ],
+    "motivateVote": "I Centerpartiet i Vansbro kommun är vi många drivande ,engagerade personer med olika intressen, bakgrund och åldersfördelning. Vi ser helheten och förstår vikten av att jobba på alla områden samtidigt.",
+    "name": "Centerpartiet Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-vansbro"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1972",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9de23a037c92f7e201de139e4d20b54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom inget anbud inkom vid upphandling är det klart att Berghedens äldreboende ska drivas i kommunens regi igen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a0eb34896db94af187493c472fe17af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte styra matsedeln i detalj. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4fc703337effd03479105b983c66eae6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag ska inte konkurrera med privata näringslivet. Dock har Vansbro kommun enbart ett helägt kommunalt bolag, Vansbro Teknik AB, och är delägare i Dala Vatten & Avfall. De konkurrerar inte med det privata näringslivet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78ae2b87e86b24d3df2c86580c07d3a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Låter bra med förkortad arbetstid, men det skulle öka kostnaderna för kommunen i ett ansträngt ekonomiskt läge och dessutom är det svårt att rekrytera den extra personal som behövs.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b4487e3f43a23a2f7e21bb3db87ef4cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ifall det finns någon fråga som initieras av befolkningen och är lämplig för en kommunal folkomröstning välkomnar vi den.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cbf453d1f825daf30c5ca40450267fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att alla anställda inom hemtjänst och särskilt boende för äldre kan svenska. Samtidigt kan det vara svårt att i alla lägen kräva kunskap i svenska för alla i ett läge där det råder brist på personal.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce4a9dd885eed9f9b914777b82bef8c5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att friskolor även tar emot nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2b61782f70f7bb5c401cd39c7a631bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler lägenheter och bostadsstiftelsen Vansbrohem kan bygga, men kommunen ska inte subventionera byggandet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ef6597e3993108eaaa082e68bf09afca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara aktiv part med näringslivet gällande laddstolpar för elbilar, men marknaden ska stå för finansieringen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cc06d203538361a45f85c1c6f5124737",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vansbro kommun ska ta emot de flyktingar som anvisas till kommunen. Sedan får vi hoppas att färre människor behöver fly från sina hemländer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7929f9deeeb6088e3a57178ef5b76ccf",
+        "questionType": "RANGE",
+        "reasoning": "I Vansbro kommun finns enbart en friskola, Olympicaskolan. Kommunen avgör inte om Olympicaskolan ökar eller minskar sin verksamhet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "05f09ec32bb2087a7c2d308db83d5822",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig och kommunen ska fortsatt stödja kulturen i budgeten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ac34555f0d8bf8aa89c324f57f959cbe",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna har inga planera på att ändra den kommunala utdebiteringen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0faf0aed42a17d0ee2129ab513e53bb7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2718",
+          "2717",
+          "2719"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;B;D;A;C;C;D;A;A;B;2/5;2/5;2/5;[2718,2717,2719]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kristdemokraterna i Vansbro ser ingen fråga där vi har annan uppfattning än vad partiet har på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Kristdemokraterna verkar för största möjliga inflytande efter valet 2022 och ser det som naturligt med ett samarbete med Moderaterna, Centerpartiet och Liberalerna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi lyssnar på förslag från alla partier, men styr endast med M, C och L.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Levande landsbygd",
+        "description": "Skapa förutsättningar för att bo, leva och driva företag på landsbygden. Attraktiva bostäder, bra kommunikationer samt rimliga skatter och avgifter."
+      },
+      {
+        "category": "Prioritera skolan och äldreomsorgen",
+        "description": "Skolan och äldreomsorgen prioriteras i den kommunala budgeten. Särskild satsning på förskolan och grundskolan för att ge elever rätt stöd."
+      },
+      {
+        "category": "Goda uppväxtvillkor och trygga familjer",
+        "description": "Insatser för unga. Satsning på elevhälsa, breddning av fritidsaktiviteter samt stöd till föräldrar och ideella krafter."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna arbetar för en levande landsbygd - Det ska gå att leva, arbeta och driva företag i hela kommunen. Vi arbetar för attraktiva bostäder, bra kommunikationer samt rimliga skatter och avgifter.\r\nKristdemokraterna arbetar för goda uppväxtvillkor för unga - särskild satsning på elevhälsa samt stöd till föräldrar och ideella krafter.\r\nKristdemokraterna prioriterar skola och äldreomsorg.",
+    "name": "Kristdemokraterna Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-vansbro"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1974",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9de23a037c92f7e201de139e4d20b54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då offentliga utförare inte behöver tillstånd för sin verksamhet kan den bedrivas i lokaler som privata utförare inte för tillstånd för. Kvaliteten försämras. Precis det som skett på Bergheden.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a0eb34896db94af187493c472fe17af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas alternativ alla dagar. En varierad och näringsriktig kost är det viktiga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4fc703337effd03479105b983c66eae6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det instämmer vi i. Vi har dock inget sådant bolag. Däremot bör samma sak gälla frivilliga kommunala verksamheter som inte drivs i bolagsform.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "78ae2b87e86b24d3df2c86580c07d3a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetstiden är redan lägre än avtalet säger och vi har redan svårt att rekrytera till verksamheterna. Däremot ser vi gärna ett lönelyft för personal med rätt utbildning/kompetens.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b4487e3f43a23a2f7e21bb3db87ef4cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "I frågor av större betydelse kan det absolut vara ett alternativ. Ännu mer nödvändigt är det dock att stärka medborgarnas inflytande på andra sätt. T.ex. genom bättre medborgardialog.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cbf453d1f825daf30c5ca40450267fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett rimligt krav inom den verksamheten då det är äldre och ofta utsatta personer man jobbar med.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce4a9dd885eed9f9b914777b82bef8c5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f2b61782f70f7bb5c401cd39c7a631bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste definitivt byggas fler lägenheter. Det är däremot inte möjligt att bygga \"billiga\" lägenheter. Att kommunen ska subventionera hyreskostnader tycker vi inte.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ef6597e3993108eaaa082e68bf09afca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska uppmuntra, underlätta och vara behjälpliga till etablering av laddstationer. Det är däremot inte ett kommunalt ansvar att ansvara för det.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "cc06d203538361a45f85c1c6f5124737",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte en kommunal fråga. Vi får de flyktingar vi blir tilldelade och dem ska vi ta hand om. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7929f9deeeb6088e3a57178ef5b76ccf",
+        "questionType": "RANGE",
+        "reasoning": "Vem som bedriver skolverksamheten är inte viktigt för oss men det ska ställas samma krav oavsett utförare.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "05f09ec32bb2087a7c2d308db83d5822",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska uppmuntra och underlätta kulturella aktiviteter och arrangemang men inte finansiera dem annat är vad vi gör idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ac34555f0d8bf8aa89c324f57f959cbe",
+        "questionType": "RANGE",
+        "reasoning": "Vi skulle gärna sänka skatten men ser hellre att vi sköter våra verksamheter och har ett överskott på minst 2% för att klara kommande investeringsbehov.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0faf0aed42a17d0ee2129ab513e53bb7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2718",
+          "2717",
+          "2719"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;B;D;A;C;D;D;C;A;B;2/5;2/5;2/5;[2718,2717,2719]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte på riksnivå. På lokal nivå förekommer det dock inte så ofta ideologiska frågor. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna vill att kommunen ska styras av en majoritet. Inte som nu med varje parti var för sig. Vi ser givetvis helst att vi ingår i den majoriteten.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej men vi ser helst ett samarbete mellan oss, KD, C och L.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bostäder",
+        "description": "Vi måste bygga och underlätta för andra att bygga bostäder. Det pågår försök med bostadsrätter och det är bra men vi behöver även hyresrätter. Dessa är det svårt att få någon extern att bygga så det måste vi göra själva."
+      },
+      {
+        "category": "Investeringar",
+        "description": "Vi måste våga investera för framtiden. Vi behöver nya lokaler för förskolan och lågstadiet i Vansbro, vi behöver en idrottshall och vi behöver rusta stationshuset. Dels för att försköna centrum men även för att kunna flytta ur alla externt hyrda lokaler."
+      },
+      {
+        "category": "Stärka kommunen som arbetsgivare",
+        "description": "Vi behöver höja lönen för utbildad/behörig personal inom verksamheter med lägst löneläge för att göra dessa jobb mer attraktiva och att uppmuntra kompetensutveckling."
+      }
+    ],
+    "motivateVote": "Moderaterna i Vansbro vill att det börjar hända saker. Vi vill framför allt bygga bostäder så att alla vi behöver för att tillgodose efterfrågan från näringslivet kan ta jobben och bosätta sig  i kommunen.\r\nVi vill få saker gjorda. En ny idrottshall har det pratats om i nästan femtio år. Det är dax nu! \r\nVi vill göra kommunen mer attraktiv. Det är nu vi har chansen. Vi kan inte bromsa nu.\r\n",
+    "name": "Moderaterna Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-vansbro"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1975",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "a9de23a037c92f7e201de139e4d20b54",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a0eb34896db94af187493c472fe17af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den finns bra valmöjligheter i Vansbro kommun idag, och socialdemokraterna tänker inte verka för att minska valfriheten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4fc703337effd03479105b983c66eae6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte konkurrera med det privata näringslivet, men det är idag inte ett problem i Vansbro kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "78ae2b87e86b24d3df2c86580c07d3a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Attraktiviteten för yrken inom äldreomsorgen behöver stärkas, och en väg framåt kan vara en lägre arbetstid med bibehållen lön.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b4487e3f43a23a2f7e21bb3db87ef4cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inom socialdemokraterna vill vi istället arbeta för att öka det politiska engagemanget hos våra medborgare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cbf453d1f825daf30c5ca40450267fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att alla som arbetar inom äldreomsorgen kan kommunicera med våra hemtjänsttagare samt boende på särskilda boenden, men särskilda språktest vid rekryteringen är fel väg. Däremot är det viktigt att se till att det finns goda utbildningsmöjligheter inom svenska för alla som är intresserade av att arbeta inom äldreomsorgen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ce4a9dd885eed9f9b914777b82bef8c5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor ska ha samma skyldigheter som kommunala skolor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f2b61782f70f7bb5c401cd39c7a631bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är väldigt viktigt att det byggs fler hyresrätter i Vansbro kommun. I första hand bör inte kommunen vara den som bygger ut, men när andra intresserade aktörer saknas är det viktigt att kommunen tar ansvaret och ser till att utbyggnad sker.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef6597e3993108eaaa082e68bf09afca",
+        "questionType": "PROPOSITION",
+        "reasoning": "I första hand bör laddinfrastruktur byggas ut av privata aktörer, men när utbyggnad uteblir eller går för långsamt behöver kommunen gå in och ta ett ansvar så att turistnäringen inte blir lidande, eller att boende i lägenheter inte kan köpa elbilar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cc06d203538361a45f85c1c6f5124737",
+        "questionType": "PROPOSITION",
+        "reasoning": "Organisering av mottagande av flyktingar är i huvudsak inte en kommunal fråga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7929f9deeeb6088e3a57178ef5b76ccf",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "05f09ec32bb2087a7c2d308db83d5822",
+        "questionType": "RANGE",
+        "reasoning": "Ett sätt att skapa mer meningsfulla aktiviteter på fritiden för medborgarna i kommunen är att stärka bidraget till föreningar, bland annat kulturföreningar.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ac34555f0d8bf8aa89c324f57f959cbe",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0faf0aed42a17d0ee2129ab513e53bb7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2718",
+          "2717"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A;C;C;B;B;D;D!;D;A;0/5;3/5;2/5;[2718,2717]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bostadsbyggande",
+        "description": "Vansbro kommun behöver bygga fler bostäder, främst hyresrätter. Idag saknas planlagda områden för detta samt ett ordentligt bostadspolitiskt handlingsprogram som tydligt beskriver nu- och närmaste framtidens behov. Det måste åtgärdas skyndsamt!"
+      },
+      {
+        "category": "En attraktiv kommun",
+        "description": "Vansbro kommun saknar en politisk långsiktig vision vart vi vill och därmed målinriktning hur vi ska nå utveckling för kommunens verksamheter och alla kommundelar.  Här vill vi med bred dialog i samklang med medborgare, närings- och föreningsliv sätta detta i främsta rummet för att skapa dynamik och framtidstro."
+      },
+      {
+        "category": "Skola, utbildning och bildning.",
+        "description": "Skapa en stark grund-, gymnasie- och vuxenutbildning och förbättra attityder till dessa genom bildning och dialog med våra medborgare. Genom stärkande av demokratin och dess grundläggande rättigheter såväl som skyldigheter och möjligheter ge våra medborgare verktyg att självständigt och gemensamt vidmakthålla ett fritt samhälle och därmed förbereda en stärkt framtid."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-vansbro"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1976",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Sverigedemokraterna Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-vansbro"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1977",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "a9de23a037c92f7e201de139e4d20b54",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår kommunala service skall inte vara någon mjölkko för privata företag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a0eb34896db94af187493c472fe17af3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med varierad kost och den ska så långt det är möjligt närproducerad",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4fc703337effd03479105b983c66eae6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att våra skattepengar används så att vi, Vansbroborna, får ut så mycket som möjligt av dem och att de inte berikar privata företagsägare.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "78ae2b87e86b24d3df2c86580c07d3a1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skall vi kunna behålla vår personal och minimera de höga sjuktal vi har på området är 6 timmars arbetsdag den väg vi måste gå. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b4487e3f43a23a2f7e21bb3db87ef4cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun har det under ett flertal år pågått en utarmning av demokratin där nästan alla frågor idag avgörs av kommunstyrelsens AU. Att hålla kommunala folkomröstningar i för Vansbroborna viktiga frågor vore att återta den demokratiska processen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cbf453d1f825daf30c5ca40450267fc2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personal skall kunna förstå och göra sig förstådd på vardagssvenska och skall erbjudas den utbildning som krävs för att uppnå detta",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce4a9dd885eed9f9b914777b82bef8c5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som bedriver skolor är skyldiga att ta emot alla elever om någon skola sorterar ut sökande med ej tillåten motivering så skall tillståndet att driva skola dras in",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f2b61782f70f7bb5c401cd39c7a631bc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Byggandet av bostäder är för vår kommun en överlevnadsfråga, om bostäder inte byggs kan de företag som nu expandera flytta till annan ort och Vansbro mista arbetstillfällen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ef6597e3993108eaaa082e68bf09afca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laddstolpar vid offentliga lokaler som ex kommunhus och vårdcentral är och måste vara kommunens ansvar i det miljöarbete vi är skyldiga att bedriva. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cc06d203538361a45f85c1c6f5124737",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vansbro kommun skall ta emot procentuellt samma antal flyktingar som övriga svenska kommuner",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7929f9deeeb6088e3a57178ef5b76ccf",
+        "questionType": "RANGE",
+        "reasoning": "Privata företag har inget i våra skolor att göra, vår skola kan samarbeta med företag avseende utbildningar som företagen efterfrågar men utbildningarna skall ske av skolan och skolans lärare",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "05f09ec32bb2087a7c2d308db83d5822",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en motor för kommunens välbefinnande och ett stort kulturutbud är en del av friskvården. Bibliotek och kulturskola är en mycket viktig del i det kulturella utbudet.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ac34555f0d8bf8aa89c324f57f959cbe",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskattens storlek avgörs av den kommunala service kommunens innevånare efterfrågar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0faf0aed42a17d0ee2129ab513e53bb7",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D!;C;A!;D!;C!;C;D;D!;C;A;2/5;4/5!;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vänsterpartiet Vansbro vill vara en del av en styrande majoritet med målet att den kommunala servicen är tillgänglig för samtliga Vansbrobor var de än bor i vår kommun. Om det ej är möjligt på plats skall alla Vansbrobor garanteras att det finns möjlighet att ta sig till den eftersökta servicen med kollektivtrafik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet Vansbro kan samarbeta med samtliga partier med samma mål",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hyresbostäder",
+        "description": "Vansbro Kommun måste komma igång med byggande av hyresbostäder om vi vill behålla de just nu mycket expansiva industrisatsningar som är i vår kommun om vi inte kan se till att det byggs bostäder för den personal dessa satsningar är i behov av kan de flytta till annan ort där detta finns."
+      },
+      {
+        "category": "Utbildning Undersköterskor",
+        "description": "Alla de som idag arbetar som biträden inom äldreomsorg och hemtjänst skall erbjudas utbildning till undersköterska på betald arbetstid med målet att samtlig personal på dessa områden har en undersköterskeutbildning. Vi vill även införa 6 timmars arbetsdag inom äldreomsorg och hemtjänst med bibehållen lön."
+      },
+      {
+        "category": "Skola och Förskola",
+        "description": "Vänsterpartiet Vansbro ser det som viktigt med en massiv satsning på skola och förskola för att ge våra barn och elever en riktig chans till en god utbildning. För att uppnå detta måste vi först se till att vi har legitimerade lärare där bla lönenivån måste höjas mycket för att Vansbro skall kunna konkurrera om legitimerade lärare"
+      }
+    ],
+    "motivateVote": "Vänsterpartiet Vansbro ser Vansbro kommun som en helhet där DalaJärna , Nås, Äppelbo och Vansbro tätort är lika delar, vi anser att den kommunala servicen skall finnas där behoven finns och inte som den borgliga majoriteten idag gör; all service centreras i tätorten och övriga bostadsorter i kommunen utarmas. som exempel kan tas det särskilda boendet i Äppelbo planeras att läggas ned och flyttas.",
+    "name": "Vänsterpartiet Vansbro",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-vansbro"
+  }
+]

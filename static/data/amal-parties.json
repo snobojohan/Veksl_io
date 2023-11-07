@@ -1,0 +1,1406 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2248",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Åmåls kommun har vi många sjöar och fina strandnära ställen där man skulle kunna bygga bostäder utan att för den delen störa allmänhetens tillgång till strandområden",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dalslandskommunerna har idag välfungerande kommuner och har ett gott samarbete.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åmåls ekonomi är i dagsläget ansträngd och då behöver vi prioritera kärnverksamheterna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att övervakningskameror medför att kommuninvånarna kommer att känna större trygghet att vistas utanför hemmet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste med skolmaten är att den är till största del är närproducerad och att det alltid finns vegetariska alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag löser inte problem inom äldreomsorgen. De löses bättre genom att arbetslagen tillsammans med arbetsledning planerar sitt arbete på ett hållbart sätt. Samhället måste bli åldersvänligt och äldreomsorgen hålla hög kvalitet.  Vårt mål är att max tio medarbetare ska besöka den äldres hem sett över en två veckorsperiod. Äldre med hemtjänst ska få en fast omsorgkontakt.           ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att anställda inom äldreomsorgen ska kunna svenska, men det säkras bäst genom att anställa utbildade undersköterskor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs olika former av bostäder för att passa alla kommuninvånare.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi värnar valfriheten, att den äldres personliga önskemål och behov ska stå i fokus och vara utgångspunkten för den omsorg som ges. Att kunna välja också som äldre skapar egenmakt och ökad trygghet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturen är avgörande för tryggheten i att köpa elbil. Omställningen kommer att underlättas om staten och kommuner går in tidigt och säkerställer att det finns en infrastruktur för att möjliggöra utbyggnad av laddstolpar. Samma sak gäller för andra drivmedel som utbyggnad av mackar för biogas och vätgas. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står för en reglerad invandring, en migrationspolitik som förenar ordning och reda med medmänsklighet och humanism. På samma sätt som det är viktigt att EU:s medlemsländer tar ett gemensamt ansvar för flyktingar ska Sveriges kommuner ta ansvar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": "Alla skolor ska vara bra skolor och likvärdigheten ska stärkas samtidigt som det är viktigt med valfrihet för elever och föräldrar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att alla ska få ta del av kultur av olika slag oavsett var i landet man bor. Kulturen ska vara fri från politiker som vill styra vad den ska handla om.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": " Vi vill att människor ska kunna bo och leva i hela Sverige. Därför är frågan om ett rättvist, kommunalt utjämningssystem viktig för oss.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2972",
+          "2973",
+          "2971"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;B;B;B;A;B;C;D;D!;A!;2/5;2/5;2/5;[2972,2973,2971]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete förankrat i mitten av politiken för Åmåls bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, det är valresultatet som styr.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler jobb genom att satsa på våra företagare!",
+        "description": "Vi måste förbättra företagsklimatet i kommunen och lyssna på vad företagen anser är  problematiskt. De allra flesta nya jobben skapas av företag, särskilt i småföretagen. För att fler ska få chansen att försörja sig som företagare måste företagsklimatet förbättras. Näringslivsrådet måste väckas upp och utvecklas."
+      },
+      {
+        "category": "En tillgänglig omsorg med bra arbetsmiljö för de anställda",
+        "description": "Det är en trygghetsfråga att veta att man får hjälp när man behöver det. Vi vill bl.a. stärka den medicinska kompetensen i kommunerna för att kunna ge mer vård i hemmet. Kommunen ska vara en god arbetsgivare, inte minst för att kunna rekrytera kompetent och engagerad personal till omsorgen. Det är arbetsgrupperna själva som är experter på att lägga upp sitt arbete."
+      },
+      {
+        "category": "Hela Åmåls kommun ska utvecklas!",
+        "description": "Oavsett var i vår kommun man bor ska man kunna förverkliga sina drömmar och leva det liv man vill. Det ska vara lättare att bygga bostäder, också i strandnära lägen. Fler behöver tillgång till bra kollektivtrafik, vi behöver bättre underhåll och snöröjning på våra små vägar, . De gröna näringarna i vår kommun spelar en viktig roll i den gröna omställningen och för en ökad livsmedelsproduktion."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt och borgerligt parti som vill skapa lika villkor för alla människor i hela landet, både på landsbygden och i städer. \r\nEn röst på Centerpartiet är en röst för klimatets bästa - för grön omställning. Vi arbetar för ökad jämställdhet och en trygg sjukvård. \r\nVi vill se en ökad demokratisk dialog mellan politiken och företagen och medborgarna i Åmål.",
+    "name": "Centerpartiet Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-amal"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2249",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget avråder vi pga mycket svårförutsägbara ekonomiska tider. Vi avvaktar just nu!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns idag redan vegetariska alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en fråga för de fackliga parterna. Det kan vara ett sätt att minska sjukskrivningstalen i denna sektor,",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Risk för social dumping vid ett sådant arbetssätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gärna också i stiftelseform. En kommun mår bra av konkurrens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste solidariskt bidra.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2979",
+          "2973",
+          "2971"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;B;D;B;C;D;B;D;D;B;2/5;2/5;2/5;[2979,2973,2971]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Önskan om maktskifte",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Thomas Lindströms parti",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kommunens långsiktiga och kortsiktiga ekonomi måste ha hög prioritet",
+        "description": "Investeringar i form av onödiga satsningar i simhallen är ett exempel på hur kommunens kortsiktiga och långsiktiga ekonomi påverkas negativt."
+      },
+      {
+        "category": "Det nya äldreboendet skall drivas  av någon annan än kommunen",
+        "description": "Det är dags att låta nästa äldreboende drivs i en alternativ driftsform, gärna i form av en stiftelse."
+      },
+      {
+        "category": "Skolan och barnomsorgensarbetsmljö är prioriterad",
+        "description": "Skola och barnomsorg skall vara trygga arbetsplatser för både elever och personal."
+      }
+    ],
+    "motivateVote": "Vi står för kontinuitet i Åmål, och vill vara konstruktiva och pragmatiska.",
+    "name": "Kristdemokraterna Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-amal"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2250",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns gott om sjöar i Sverige, och kvalitativt boende i sjönära områden skulle få fler att välja flytta ut från trånga och förtätade storstäder",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Framtiden ser dyster ut för små kommuner att kunna klara de utmaningar och kostnadsökningar som ligger framför oss. Det finns synergi-effekter att slå ihop mindre kommuner",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det saknas både underlag och pengar till ett bygge.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behövs mer övervakning av offentliga platser, allt för mycket sker som inte kan redas ut av rättsväsendet ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Köttfritt? Varför då?",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan få personal att jobba längre utan att bli utslitna, samt öka attraktiviteten för yrket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart! De personer som kräver hemtjänst och äldreomsorg ska inte behöva ha människor runt sig som inte kan svenska, där det i många fall ska delas ut div mediciner och annat dagligt som kräver att man kan svenska",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finansiering och ev byggande kan ske av andra aktörer än kommunen",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med konkurrens.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen kommunal uppgift. Kan administreras av elbils-tillverkarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bör ske i samförstånd med staten och i förhållande till kommunens storlek",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": "Fungerar bra idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Fungerar bra idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": "Med en ansvarsfull kommunal ekonomisk politik, bättre och noggrannare planering av investeringar, skulle skatten kunna sänkas, vilket skulle fä fler att välja att flytta in, alldeles för hög skatt idag.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2979",
+          "2972",
+          "2973"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;B;D;A;C;D;B;D;B;A;2/5;2/5;0/5;[2979,2972,2973]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Elektrifieringen av fordonsflottan, hastigheten av denna måste harmoniera bättre med verkligheten för alla som bor på landsbygden.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgerlig koalition med Liberaler, Moderater, Centern och Kristdemokrater",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokrater.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Balans i den kommunala ekonomin ",
+        "description": "Dagens majoritetsstyre (S, V och Mp) har under sina år aldrig haft balans i ekonomin, utan lånat till det mesta. \r\nDetta har inneburit att kommunen, under lång tid levt över sin skattekraft.\r\nVi Liberaler vill återskapa en sund ekonomi, där investeringar/kostnader tas i den takt som ekonomin tillåter, och återskapa det 1,5% överskott i budgeten som är föreskrivet."
+      },
+      {
+        "category": "Sänka sjukskrivningstal inom äldrevården, ge personalen makt över schemaläggning",
+        "description": "Sjukskrivningstalen inom speciellt äldrevården har under väldigt lång tid varit väldigt högt, samtidigt som schemaläggning inte fungerat.\r\nVi ser ett samband i detta och vill kunna erbjuda personalen att själv bestämma över sina arbetstider i samråd, och därigenom kunna ökar trivsel och sänka sjukskrivningstalen"
+      },
+      {
+        "category": "Ekologisk satsning",
+        "description": "F n klipps alldeles för många kommunala gröna ytor i onödan.\r\nVi vil satsa på att lämna fler ytor oklippta, så att humlor, bin och andra arter av insekter att kunna hitta ställen att kunna leva på. Allt för ekologisk mångfald."
+      }
+    ],
+    "motivateVote": "Liberalerna är det parti som värnar om skola, vård och omsorg, människors fri- och rättigheter,  människors lika värde. Vi är det enda parti som i grunden är för en större valfrihet för individen.",
+    "name": "Liberalerna Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-amal"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2251",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både för allmänhetens tillgänglighet och för den biologiska mångfalden behöver strandskyddet fortsatta att vara starkt.  Samtidigt behövs attraktiva boenden för att locka människor att flytta till Åmål. Men detta bör ske på ställen där bebyggelse redan finns. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Åmål ska fortsatt att erbjuda möjligheter till en aktiv fritidssysselsättning och tillsammans med idrottsföreningarna utveckla deras möjligheter att växa och utvecklas. Därför är en idrottshall en viktig pusselbit. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Övervakningskameror är ingen generell lösning på problem. Däremot kan det finnas områden där det kan vara motiverat men då i första hand som en insats tillsammans med andra för att få bukt med problemen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan idag så erbjuds vegetarisk kost i kommunens skolor och det ska vi fortsätta med. Inbladningen av vegetariska råvaror kan öka i all mat för att minska kött användningen inom kommunens skolor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för en sådan förändring om den kan genomföras på ett ansvarsfullt sätt gentemot brukare och en ansträngd ekonomi. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska genom sitt fastighetsbolag ÅKAB erbjuda boenden som motsvarar det som efterfrågas på marknaden till en rimlig kostnad för hyresgästen. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att Åmål kan erbjuda en infrastruktur för laddning av elbilar. Om ingen aktör är beredda att göra detta måste vi som kommun vara beredda att göra det. Antingen själva eller genom våra kommunala bolag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "När världen drabbas av katastrofer som gör att gör att människor sätts på flykt måste vi solidariskt hjälpa dessa människor. Därför är det viktigt att alla kommuner tar emot och erbjuder hjälp i lika stor utsträckning ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Åmål satsar på ett rikt kulturliv för både barn och äldre. Det ökar möjligheterna till god livskvalitet",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2977",
+          "2974",
+          "2973"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;C;C;C;B;B;D!;A;2/5;2/5;2/5;[2977,2974,2973]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Miljöpartiet ska ingå i kommunens styre efter valet 2022 för att säkerställa att Åmål drivs framåt på ett hållbart sätt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hållbar vardag för alla",
+        "description": "Människor behöver en hållbar vardag och möjlighet till vettig sysselsättning. Genom detta kan vi motverka utanförskap och psykisk ohälsa. \r\nFörbättra kollektivtrafiken - Både inom kommunen och för att kunna pendla till jobb på annan ort. \r\nFlexibel barnomsorg \r\nÖka tillgängligheten för människor med funktions variationer  genom tillgänglighets fond och ritningsgranskningsråd"
+      },
+      {
+        "category": "Miljö och hälsa",
+        "description": "Vi i Åmåls kommun behöver ta vårt ansvar för att kunna nå målen i Parisavtalet\r\nKommunens bilar ska vara elbilar så långt det är möjligt.\r\nVi behöver verka för en bättre ladd infrastruktur\r\nBättre och fler cykelbanor.\r\nMer närproducerat och ekologiskt i kommunens mat.\r\nVerka för biologisk mångfald och medvetenhet genom exempelvis stads nära ängsmark\r\nVärna Vänern genom ett bättre skötsel av våra öar."
+      },
+      {
+        "category": "Barn och unga",
+        "description": "Barn och unga behöver satsningar för att minska risken för framtida utanförskap. \r\nÅmål ska ha en bra skola. \r\nStötta föreningar och verksamheter som engagerar barn och unga - idrott, kultur, friluftsliv t.ex. \r\nUtveckla samverkan mellan socialtjänst, skola och närhälsa för att motverka psykisk ohälsa. \r\nGe unga ferierkort i kollektivtrafiken under långa lov. \r\nSkapa en giftfri förskola"
+      }
+    ],
+    "motivateVote": "Miljöpartiet de gröna i Åmål är ett resultat- och framtidsinriktat parti med politiska idéer för ett modernt och hållbart Åmål. Miljöpartiet vill att Åmål ska vara en självklar del i den omställning som är nödvändig för att stoppa klimatförändringarna och säkerställa en trygg och hållbar framtid för alla Åmålsbor. ",
+    "name": "Miljöpartiet Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-amal"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2252",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Betydelsefullt att människor ska få leva och bo där man finner önskvärt. Dalsland är ett landskap helt dominerat av sjöar och tillgången på strandnära läge är en konkurrensfördel som kan garantera landsbygdens överlevnad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": "De olika kommunerna i Dalsland har, med anledning av bl.a. geografisk placering och annat, helt skilda förutsättningar inom ett flertal kommunala angelägenheter. Vi menar att beslut bör fattas så nära den som berörs som möjligt och att ett utökat samarbete är att föredra före en sammanslagning. Man utökar samarbetet inom de områden där den gemensamma nyttan är positiv. Utöka 4D till 5D - Dalsland",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Just för tillfället är kommunen riktigt investeringstung och har helt nyligen färdigställt en ny gymnastikhall. Sunt är att låta utvärdera effekten av den investeringen innan nya planeras. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Otryggheten breder ut sig i Sverige men också i småkommuner som de i landskapet Dalsland. Kameraövervakning är en god hjälp och ett effektivt sätt att kunna utreda kriminalitet av olika art. Man ska kunna känna sig trygg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vår hållning är att det fria valet måste få råda. Dagens ordning där man själv kan välja måltid med olika uppbyggnad är för oss en självklarhet. Där kan finnas många skäl till varför en viss typ av mat väljs.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kompetent arbetskraft inom yrket kommer att bli (och är redan) en bristvara. Att förändra yrkesrollen över tid så att personalen trivs, finner sig behövd och uppskattad gör att livsviktig kompetens stannar kvar inom branschen. Att yrkesrollen förändras över tid leder också till att personalen orkar med den stundtals tunga arbetsbelastning yrket innebär. Yrkets status måste återupprättas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att kunna göra sig förstådd och att förstå vad som sägs är inom vissa yrkeskategorier absolut nödvändigt. Omsorgsyrket är en sådan kategori eftersom vi här talar om främst patientsäkerhet och äldres rättighet att bli förstådda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun har ett ansvar genom det så kallade bostadsförsörjningsansvaret. Kommunen har också ett ansvar att inte snedvrida en konkurrensutsatt verksamhet om där finns andra aktörer. Kommunens roll, vid en fullt fungerande bostadsmarknad, är att tillse att där finns byggbara tomter i rätt omfattning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan aldrig vara driftformen för en tjänst som är avgörande. Det måste vara kvaliteten på tjänsten som avgör om den ska få finnas eller ej. Den enskildes möjlighet att själv välja måste också beaktas. Ett större utbud av arbetsgivare inom området ger också valfrihet till den anställde.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att hjälpa omställningen på traven kan det vara nödvändigt att initialt ta det ansvaret. På sikt bör det hanteras av privata intressen - modell bensinmack. Tjänsten ska naturligtvis vara avgiftsfinansierad.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "En rättvis fördelning i grunden bör råda. Kommunen har bäst kännedom om hur läget är angående tillgång på bostäder, arbetsmarknad, integrationsmöjligheter och utbildningsvägar. Att då i större utsträckning, kunna påverka sin egen situation kan tyckas rimligt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": "En bra balans av konkurrens är positivt. Alla skolor måste avkrävas att hålla en god kvalitet, både kommunala och privata aktörer. Om god kvalitet inte upprätthålls så ska verksamheten inte tillåtas. Driftsformen är inte det viktiga.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Ny organisation och ny inriktning är under framtagande. Kultur är viktigt för människans mående och livskvalitet. Att se över kulturstödens fördelning är ett naturligt och viktigt nästa steg i processen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": "Vår kommun har ett högt skattetryck. För att framstå som ett gott alternativ att sätta bo i bör kommunen eftersträva att närma sig vad som är en medelnivå för riket. Detta för att stimulera inflyttning av både privatpersoner och företag. Skattesänkningar kan först ske när ekonomin så tillåter.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2972",
+          "2973",
+          "2978"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;C;D!;A;A;D;B;D;C;C;2/5;2/5;1/5;[2972,2973,2978]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En budget i balans och god ekonomisk hushållning",
+        "description": "En kommun ska ägna sig åt sina kärnverksamheter. \r\nVid felprioriteringar lämnas inget handlingsutrymme för kvalitetshöjande förändringar och god service inom kommunen. Vi vill säkerställa att skattemedel används på rätt sätt. På så sätt kan skattetryck lättas och enskilda individer får egen rådighet över sina ekonomiska val och prioriteringar."
+      },
+      {
+        "category": "Alla anställda i kommunen ska kunna trivas och må bra på jobbet.",
+        "description": "Att känna stolthet och att känna sig behövd är ledord vi menar måste få vara dominerande. Vi har avsatt 5 miljoner kronor i vår budget för 2022, som riktade medel. I första hand behöver omsorgspersonalen i kommunen få en bättre situation med minskad sjukfrånvaro. Personal som trivs och mår bra är en stor vinna vinna-fråga. Åmål ska vara en bra arbetsgivare."
+      },
+      {
+        "category": "Bättre företagsklimat och fler jobb",
+        "description": "I svenskt näringslivs ranking år 2021 placerade sig Åmål på plats 283. Kommunen som servicegivare behöver jobba på sin lyhördhet och service emot företagen för ett bättre näringsliv. Att ha ett bra näringslivsklimat är avgörande för att få fler jobb och för en levande kommun. Åmål behöver få ner den höga arbetslösheten och den mycket höga ungdomsarbetslösheten. Ett bra företagsklimat skapar jobb."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-amal"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2253",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt är att allmänheten inte stängs ute från att ha möjlighet nå vattnet. Vi anser att strandskyddet ska värna de platser som vi utpekat som skyddsvärda och inte tvärtom.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi blir inte starkare av en sammanslagning - tvärtom. Bättre att samarbeta mer!",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en förutsättning för att vissa idrotter ska fortsatt få möjlighet till att bedriva sin verksamhet. Idrotten är en viktig och betydande faktor för att Åmål ska fortsatt vara en attraktiv kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fråga är angelägen men här har Polisen redan de möjligheter som krävs för att fler kameror kan sättas upp. Vi kommer inte motarbeta ett sådant förslag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag finns det köttfria alternativ som erbjuds och det varje dag. Men vi tycker att detta ska vara genomgående för samtliga skolor.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Går det bara att få ekonomi med reformen så är detta ett bra förslag",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "En förutsättning för att klara av att upprätthålla trygghet och säkerhet för både brukare och personal.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas bostäder för alla plånböcker.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi säger nej till vinster i välfärden",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vara en attraktiv kommun för både boende och besökare, då krävs det mycket fler laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste solidariskt ta gemensamt ansvar. Det får inte bli som 2015.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig samhällsbärare. Den yttersta formen av demokrati och ska inte vara kontrollerad av privata och offentliga intressen utan måste få vara fri.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": "Helst lite mindre men det är inte praktiskt möjligt",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A;D!;C;B;D!;D!;D!;A!;D!;A!;2/5;3/5;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi anser att landsbygd- och glesbygdspolitiken måste innehålla mer och tar större hänsyn till regionala skillnader än vad partiet framför nationellt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I bästa av världar egen majoritet!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Inrättande av ett industricentrum. ",
+        "description": "Ett industricentrum kommer utgå från kompetensbehovet som finns inom industrin. Här kommer gymnasial och vuxenstuderande samordnas under ett och samma tak. Allt för att utbildningarna ska få rätt förutsättningar i form av lokaler, utrustning och lärarkompetens."
+      },
+      {
+        "category": "Anställd i Åmåls kommun",
+        "description": "För den som har Åmåls kommun som arbetsgivare vill vi garantera följande: utbud, kvalitét och tillgänglighet kommer fortsatt upprätthållas och utvecklas i samråd mellan verksamhet och personal. Medinflytande och möjlighet till att påverka sin egen arbetssituation är absolut nödvändigt. \r\nPersonal som jobbar inom vård- äldre- och barnomsorg ska ha de arbetskläder som krävs för att utföra sitt arbete"
+      },
+      {
+        "category": "Mötesplatser för unga i Åmål",
+        "description": "Vi kommer att genomföra det vi kallar ”Mötesplatser för unga i Åmål”. Vi kommer bygga ut ungdomsgårdsverksamheten rejält! Vi kommer tillföra mer verksamheter, så som kultur- och musikskola, vi kommer organisatoriskt flytta ansvaret från skolan till kulturen. Vi kommer ha en ungdomsgårdsverksamhet som sträcker sig från 7 års ålder till 25 år uppdelat i flera verksamheter."
+      }
+    ],
+    "motivateVote": "Vill man fortsatt ha ett växande Åmål? \r\nVill man att Åmål fortsatt ska var en industristad även i en grön framtid?\r\nVill man att unga i Åmål ska få mer mötesplatser?\r\nSäger man nej till vinster i välfärden.?\r\nVill man ha en dynamisk landsbygd?\r\nOm svaret är ja på dessa frågor då är Socialdemokraternas partiet man ska rösta på!\r\nÄr svaret ja på dessa frågor då är socialdemokraterna partiet för dig!",
+    "name": "Socialdemokraterna Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-amal"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2254",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Attraktiva lägen för bostäder krävs för ökad inflyttning till kommunen ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns redan idag visst samarbete men för tillfället inte aktuellt med sammanslagning",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vård, skola och omsorg går först och vi har inte råd med detta i nuläget",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alltför många invånare i kommunen är rädda för att röra sig utomhus under dygnets mörka timmar och för att öka tryggheten behövs övervakningskameror",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska själv få välja vad man vill äta",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan idag svårt att få tillräckligt många som vill jobba i äldreomsorgen och med 6 timmars arbetsdag skulle många fler behöva anställas",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vara säkra på att vårdtagarna förstår dom anställda och för att dom anställda ska förstå vårdtagarna behövs språktest",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver en blandning av bostäder, både hyresrätter, bostadsrätter och villor. Billiga hyreslägenheter behövs för att unga och studerande ska ges möjlighet att hyra sin bostad",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag ingen privat utförare av äldreboende eller hemtjänst i kommunen och för att öka valfriheten behöver vi få det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att andelen elbilar som ökar, inte bara inom kommunen utan även besökande till kommunen så behöver man ha möjligheten att ladda sin bil",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Andelen nyanlända som kommunen ska ta emot måste bygga på tidigare mottagande, möjligheten att få jobb och bostäder och detta har kommunen bäst kunskap om",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra mixa av kommunala och privata utförare i skolan idag, både i förskola och grundskola",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": "Kärnverksamheterna måste gå först",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": "Finns inte utrymme att sänka skatten men vi har också bland dom högsta i landet så höja går heller inte",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2979",
+          "2972",
+          "2973"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;A;D!;A;A;D!;C;D!;C;D!;2/5;1/5;2/5;[2979,2972,2973]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i dagsläget",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett samarbete mellan SD, M, KD och L",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Möjligen S, C, V och MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet",
+        "description": "Alla, gamla som unga ska kunna röra sig fritt i kommunen utan att behöva känna otrygghet. Det allmänna rummet är inte ett privilegium för dom som genom att sprida otrygghet håller andra inomhus vissa tider på dygnet. Ökad polisnärvaro, ordningsvakter, trygghetsvärdar och övervakningskameror kommer bidra till ökad trygghet"
+      },
+      {
+        "category": "Minskad invandring",
+        "description": "Kommunen har under många år nu tagit emot alldeles för många asylsökande jämfört med andra kommuner i samma storlek. Detta måste upphöra och vi kommer inte acceptera fler asylsökande om inte jämförbara kommuner först kommer upp i samma antal som vi redan tagit emot."
+      },
+      {
+        "category": "Ökad skolpeng",
+        "description": "Lärarna måste ges möjligheten att åter ta makten i skolan. Mer resurser kommer då att krävas, mer resurser krävs även för att eleverna ska ges möjlighet att klara dom uppsatta målen och att fler når gymnasiebehörighet efter grundskolan."
+      }
+    ],
+    "motivateVote": "Vi vill ha mindre invandring och mera  integration. Polisen måste få möjlighet att lösa fler grova brott och kriminalvården måste få fler fängelseplatser så dom som döms till fängelse också avtjänar sina straff omgående. Pensionerna måste höjas, särskilt för dom med låg pension.  ",
+    "name": "Sverigedemokraterna Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-amal"
+  },
+  {
+    "abbreviation": "TL",
+    "altingetCandidateId": "2255",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Tomas Lindström Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "tomas-lindstrom-amal"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2256",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0090bc1b6502c97761034c1e031531ad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "555161b13eae58891f82159b3e7fbf38",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "81900c429243d77b1cc9a97371d8c1f6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c97fd10a5d206f7af4840596bd0a3d5b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Måste ske med stor försiktighet och baserad på forskning. Dvs ger det effekt? Bättre att utöka uppsökande verksamhet från individ och familjeomsorgen och att vi som kommun fortsätter vara tydliga mot Polisen att vi förräntar oss en ökad polisiär närvaro. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "52f8b2d6ef9cd61ff7581048567c666f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den individuella friheten är det viktig för oss. Dvs att det alltid finns veganskt och vegetariskt som alternativ men för att göra den nödvändiga omställningen som krävs av oss alla så kan kommunen gå över till mer vegetarisk kost. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "71c70b74985857c40d6f8ed53e362333",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed745fcb2628355607f0e3dae09effcb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nyanställda ska ha klarat utbildning i gymnasienivå och där ska eleverna ha fullgod svenska. Annars måste vi se över dessa utbildningar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "de24466cb70d0c96e6e5384dca0ea0f7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra och kostnadseffektiva bostäder är en mänsklig rättighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4f372cf118131a0e34879c07948c4cb0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0c37d69e26be308b48bb3d95726fb273",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi som offentlig aktör bör gå i bräschen för detta. I ett första skede kommer inte marknaden lösa detta på egen hand.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "da471ed752671160ffccd6cd165510ff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fördelning ska ske utifrån dialog och att alla kommuner är med och tar ansvar. Både historiskt och i nuläget så är det många välbärgade kommuner inte är med och tar ansvar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6597038d6211ca6f7858b63a0623f417",
+        "questionType": "RANGE",
+        "reasoning": "De privata aktörer som finns i Åmåls kommun idag är exemplariska men också undantag om man tittar på de stora koncerner som finns i många andra delar av landet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0c4b996580ebafb2cad32573466b5cd2",
+        "questionType": "RANGE",
+        "reasoning": " ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "7b59761f53c605d95c1e71e32253402e",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6982a043a01d480f2d2e0d3d306e8812",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2976",
+          "2972",
+          "2978"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;B;D;B;C;D!;B;D!;D;C!;A;2/5!;3/5;2/5;[2976,2972,2978]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Att det är ett politiskt styre där Vänsterpartiet har så stort inflytande som möjligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Enligt kongressbeslut kommer vi inte samarbeta med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stark offentlig service",
+        "description": "Vänsterpartiet vill fortsätta utveckla kommunens offentliga service. Tex när det gäller kunskap om våld i nära relationer och andra jämställdhetsfrågor. Åmåls kommun ska ligga högt i de skattningar som görs om nöjdhet med kommunens service. Detta är till nytta för både brukare inom omsorgen, elever inom skolan, för kommunal personal, lokala företag och medborgare."
+      },
+      {
+        "category": "Ett kommun för alla - oavsett adress, bakgrund eller storlek på plånbok.",
+        "description": "Målet för Vänsterpartiet är ett jämlikt samhälle. Vi vill fortsätta det påbörjade arbetet för att hela kommunen ska leva. Under mandatperioden har vi bl.a. varit drivande i frågan om ny skola i Tösse och den s.k. \"landsbyggsmiljonen\". Vi vill också fortsätta satsa på allas rätt till ett arbete genom den s.k. \"Åmålsmodellen\". Alla barn har rätt till bra skolgång och fritid."
+      },
+      {
+        "category": "Miljöarbete",
+        "description": "Åmåls kommun måste fortsätta att driva ett aktivt miljöarbete. Ett exempel är energieffektiviseringar och att byta ut kommunens fordon till miljövänligare alternativ eller rent av minska kommunens fordonspark. Vänsterpartiet vill också stötta de inom kommunen belägna företag som redan idag ligger i framkant när det kommer till miljöinovationer."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet Åmål vill fortsätta utveckla den kommunala välfärden. En bra skola för alla, trygghet för de som behöver vård och rätt till arbete. Vi ska ha ett bra samarbete med våra förtagare och vara en självklar plats för nyetableringar för nya företag. Vänsterpartiet Åmål är din garant för fortsatt arbete mot ojämlikhet och skillnader i levnadsvillkor.  \r\n\r\nDin trygghet är politikens ansvar.\r\n",
+    "name": "Vänsterpartiet Åmål",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-amal"
+  }
+]

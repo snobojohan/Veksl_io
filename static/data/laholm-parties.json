@@ -1,0 +1,1677 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "902",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för havsbaserad vindkraftverk.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Endast där det verkligen behövs, det finns en risk att bråk och stök bara flyttar till en annan plats.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt med en modern fungerande högstadieskola i centralorten. Bra med bad och idrottsmöjligheter i närheten, nära till stadsparken och centrum.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör diskuteras och beslutas om på en högre nivå.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att erbjuda språkträning på arbetsplatsen. Genom att arbeta utvecklas språket snabbare än med bara utbildning. Tvåspråkighet kan också vara en tillgång i dessa yrken.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett varierat utbud av bostadsformer är viktigt och ett bra exempel är ungdomsbostäderna som har byggts i Laholm och Våxtorp.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan peka ut lämpliga strategiska platser och möjliggöra så att det finns mark för energiföretag att etablera publika laddstolpar. Det ska vara möjligt att ladda sin elbil hemma oavsett bostadsform.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte en kommunal fråga, hur många flyktingar som en kommun ska ta emot. Det är viktigt att alla som kommer hit får ett gott bemötande och goda förutsättningar för en bra integration.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Laholm är känt som den lilla staden med de många konstverken. Vi har ett bra och varierat kulturutbud som kan utvecklas med motsvarande ekonomi som idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "331",
+          "326",
+          "329"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "321",
+          "317",
+          "319"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;C;C;D!;A;A;C;C;C;A;2/5;2/5;2/5;[331,326,329]!;[321,317,319]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det har fungerat bra att styra i Samverkan Laholm och vi vill fortsätta ha den ledande rollen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Föreningslivet är en viktig resurs",
+        "description": "Det är viktigt för föreningslivet att ha bra ledare. Centerpartiet vill att kommunen stöttar föreningslivet med bidrag till ledarskapsutbildningar för ungdomar upp till 25 år. Föreningar bidrar till att stärka orternas utveckling och drivkraft. Deras arbete är förebyggande och en viktig del av integrationen."
+      },
+      {
+        "category": "Bo och arbeta i hela kommunen",
+        "description": "Centerpartiet vill se ett starkare, grönare och mer företagsamt Laholm. Människor ska kunna leva och arbeta i hela kommunen. Samverkan mellan kommunens olika verksamheter och förebyggande arbete ger förutsättningar åt varje människa att må bra och skapa sin framtid. Det är viktigt att alla delar av kommunen erbjuder arbetstillfällen, goda livsmiljöer och likvärdig service."
+      },
+      {
+        "category": "Skola och äldreboende ska ha bra lokaler och hög kvalitet",
+        "description": "Lokalerna ska hålla en standard som ger elever och personal hög trivsel och studiero. Personalen måste få stöd i att möta de utmaningar som finns på våra högstadieskolor. Olika boendeformer för äldre, med eller utan vårdbehov, ska finnas runt om i hela kommunen. Trygghetsboenden ska ha gemensam lokal och boendevärd. Bra ledarskap och fortbildning tryggar personalförsörjningen."
+      }
+    ],
+    "motivateVote": "Centerpartiet är känt för stort ansvarstagande och med starkt ledarskap har vi under mandatperioden sett till att utvecklingen i Laholms kommun har gått framåt. Människor ska kunna leva och arbeta i hela kommunen. Klimatförändringarna kräver ansvar och åtgärder. Vi vill skapa ett samhälle med förutsättningar åt varje människa att må bra och skapa sin framtid.",
+    "name": "Centerpartiet Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-laholm"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "903",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Värna den lokala demokratin med bibehållet kommunalt veto. Ge både kommuner liksom enskilda fastighetsägare incitament att bejaka vindkraft. Titta gärna på erfarenheter från Danmark och Finland.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Övervakningskameror hjälper till att öka uppklarande processer.    ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laholm växer och vi behöver en nyare högstadieskola. Vi behöver ta ett beslut på att bygga en nya skola på den mark som tillhör skolan. Då behöver vi inte evakuera eleverna under byggtiden som vi skulle behövt om vi bara skulle renoverat den. Vi behöver även se över renoverings behovet för alla våra skolor",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det blir svårt att fylla upp de platser som kommer att fattas.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata aktörer kan vara bra för valfriheten",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "I en flykting kris så måste alla ställa upp",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "Jag skulle vilja säga samma som idag men ser man realistiskt på ekonomin och hur mycket resurser vård och omsorg kostar, så kommer det bli ohållbart på sikt med samma kommunal skatt som idag",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": "En elev som är orolig eller utsätts för obehagligheter måste få komma till någon som lyssnar till dem, inte bara deras mentorer. Vi behöver även ha en sorts överenskommelse, ett ansvarskontrakt, som ger alla inblandade klara och tydliga riktlinjer för vad de olika parterna förväntas uppfylla",
+        "value": [
+          "326",
+          "328",
+          "329"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "321",
+          "325",
+          "319"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;A;D!;B;B;B;C;B;B;2/5;2/5;3/5;[326,328,329]!;[321,325,319]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte vad jag kan komma på ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgligt styre",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är ett borgligt parti och ser helst ett borgligt styre",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vi vill införa en servicegaranti",
+        "description": "Vi vill införa en servicegaranti - med tydliga besked om vad det blir för konsekvenser för kommunen om garantin inte uppfylls. Servicegarantin kan exempelvis omfatta handläggningstider för bygglov och tillståndsansökningar. En kommun måste vara mer serviceinriktad och vilja  tillgodose näringslivet och kommuninvånarna. Långa handläggningstider kan faktiskt skrämma bort ny etableringar"
+      },
+      {
+        "category": "Laholm ska ha säkra vägar utan pott-hål i hela kommunen",
+        "description": "För att kunna hålla farten uppe i Landsbygden så måste underhållet på vårt vägnät ses över. Det skall inte behöva vara så dålig standard på vägarna att de är trafikfarliga. Vi vill därför att Laholm ska ha säkra vägar utan pott-hål i hela kommunen. Gång- och cykelvägar ska ha bra beläggning och belysning och vara fria från sly så att de känns trygga och uppmuntrar till hållbara resor."
+      },
+      {
+        "category": "Vi vill ta fram en lekplatsplan ",
+        "description": "Vi vill ta fram en lekplatsplan tillsammans med barnen så att lekplatser planeras och byggs i alla kommundelar för att uppmuntra till rörelseglädje över generationsgränserna. Dessa ska ha ett bra underhåll och god tillgänglighet så att alla barn kan vara med och leka! När nya bostadsområden planläggs vill vi att kommunen tittar extra på aktivitetsytor."
+      }
+    ],
+    "motivateVote": "Vi är det partiet som har tagit upp Landsbygds och transportfrågorna från de andra partierna. Vi är även det partiet som har drevet kampen om kärnkraften i Sverige.",
+    "name": "Kristdemokraterna Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-laholm"
+  },
+  {
+    "abbreviation": "Lap",
+    "altingetCandidateId": "904",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja ,det är nödvändigt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte priset som skall styra, utan man måste informera folk om att det  vattnet är våra kranar är till för att konsumeras som vilket livsmedel som helst.\r\nOch skall in vara till för att fylla swimmingpooler till det skall man  använda tekniskt vatten.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte bygga någon ny Lagaholmsskola, utan vi vill bygga en ny gymnasieskola vi stationen, och efter en ombyggnad flytta över Lagaholmsskolan till Osbecks nuvarande lokaler.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett bra förslag som vi kommer att kämpa för.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att vårdanställda kan svenska bra.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många fattigpensionärer och andra ekonomiskt svaga grupper har svårt att kunna betala ett bra boende.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vård och omsorg skall drivas av kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej kommunen driver inte några bensinmackar, och det är samma gäller för ledstolpar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Laholms kommun har tagit emot många flyktingar, och det har man inte rikligt klara av, så man måste nog göra en paus för att få all dess in i samhället innan mat tar på sig fler flyktingar. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "När det gäller grundskolan inga alls. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "För att klara av de utmaningar kommunen kommer att få, så är det helt nödvändigt att kommunalskatten höjs.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "330",
+          "333",
+          "327"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;B;A!;A!;D!;D!;C!;A!;A;C!;0/5!;2/5;3/5!;[330,333,327];_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har inget riksparti att ta hänsyn till.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill ha ett nytt styre efter valet i september.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan valtekniskt sett göra uppgörelser med alla partier.\r\n\r\n\r\nnej\r\n\r\n\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "skolan",
+        "description": "Vi har en skola som är i fritt fall, där våld och hot är ar allmänt förekommande, och endast 60 %  av pojkarna kommer in på gymnasieskolan, detta måste det bli en ändring på.\r\nVi vill göra en genomlysning av hela grundskola av utomstående experter för att få fram orsakerna, och där efter skapa en trygg och säker plats för barnen i skolan."
+      },
+      {
+        "category": "Ekonomin",
+        "description": "Laholms kommun står inför stora utmaningar nu, framförallt med en växande befolkning, det kommer att medföra stora kostnader för kommunen.  \r\nVi ser idag, att socialnämndens verksamheter är underfinansierade med 40 miljoner och det kanske kommer att behövas tillföras ännu mer.\r\nOch det kommer att behövas en skattehöjning för att klara av dessa kostnader, vi har under att antal år påtalat detta."
+      },
+      {
+        "category": "Personalfrämjande åtgärder inom vården",
+        "description": "Det blir allt svårare att rekrytera vårdpersonal inom åldringsvården, och det  till nya grepp för att få unga människor att  satsa på vårdyrkena.\r\nBättre löner och arbetstider m.m. måste ses över. Därför vill vi prova på att införa  6 timmars arbetsdag med bibehållen lön för de anställda inom vårdyrkarna."
+      }
+    ],
+    "motivateVote": "Vi är ett lokalt parti som driver de lokala frågorna, och är inte beroende av ett riksparti som dirigera oss uppifrån.\r\nVi driver all lokala frågor som är viktiga för kommuninvånarna, så som vård och omsorg skolan ,lag och ordning ekonomi samt andra viktiga frågor.",
+    "name": "Laholmspartiet Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "laholmspartiet-laholm"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "905",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ha stort inflytande och ska kunna säga nej. Mer miljövänligt el behövs från vindkraftverken, men ska alltid avgöras från fall till fall.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Otrygga platser och skadegörelse medför ökade kostnader för kommunen. Enklare regler för att sätta upp kameror ska till för att minska skadegörelsen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med redan höga priser på drivmedel, el, mat osv. behöver vi i nuläget inte fler prisökningar. Informera om risken till och konsekvenserna av vattenbrist så blir förbrukningen mer hållbar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eleverna ska ges bästa förutsättningar för att lyckas i skolan. Nya, tillräckligt stora klassrum där elever inte behöver trängas är några av förutsättningarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på bristen på personal inom yrket så ska prioriteringen vara att se till att det finns tillräckligt många arbetstagare så att dagens anställda ska få sin dygnsvila och sin semester som de förtjänar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Yrken där det ofta är stressigt och i kombination att man jobbar med människor så är det av högsta vikt att arbetstagaren behärskar i alla fall fackspråket som gör att arbetet kan utföras på bästa sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas variation på bostäder i kommunen där kanske de med lägre inkomst ska ges möjlighet till bostad. Framförallt ska unga ges möjlighet till sin första bostad om de väljer att flytta hemifrån.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Statens roll i sjukvården ska tydliggöras. Detaljstyrningen ska minska, men staten behöver ta ett större ansvar för sjukvårdens strategiska planering, beredskap och långsiktiga kompetensförsörjning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi går mot elektrifiering och mer miljövänliga alternativ så efterfrågan borde styra utbudet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många kommuner kämpar med bostadsbristen så även Laholm och det måste vi ha i åtanke, men kvoten som kommunen blir tilldelad ligger på rimliga nivåer.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "\r\nVi vill bevara friskolor och det fria skolvalet. Välskötta skolor med höga kunskapsresultat och välutbildade lärare tillför både elever och samhället stora fördelar. Det ska vara förbjudet med all form av vinstutdelning som går ut över elevernas undervisning. Skolan ska alltid vara till för eleverna, inte tvärtom.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att ett rikt och varierat kulturliv lyfter fram det bästa i en stad eller i ett samhälle. Med fler kulturella inslag och föreningar sätter vi Laholm på kartan och som lockar fler turister till Laholm.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "Med tanke på alla prisökningar vi har idag så får vi allt fler som har svårt att klara den privata ekonomin. Därför anser vi att skatten ska vara oförändrad.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "332",
+          "329",
+          "334"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "321",
+          "317",
+          "325"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;B;D!;C;C;C;B;C;C;1/5!;3/5;2/5;[332,329,334]!;[321,317,325]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Liberalerna är ett fullsortimentsparti både på riksnivå och så även Lokalt. Bland alla viktiga frågor så fokuserar vi lite extra på föreningslivet och hur den kan stärkas i Laholm.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I Laholm har vi haft fungerande samarbete inom Samverkan Laholm, men samarbetet kan och ska bli bättre för Laholms alla invånares bästa. Samtidigt är det viktigt att vid stora frågor som rör budget, stora kommunala byggen nås så bred majoritet som möjligt i Kommunfullmäktige.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, ideologiskt är vi varandras motsatser.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola för en bättre framtid",
+        "description": "alla ska klara skolan, elever med särskilda behov ska ha särskilt stöd, liksom högpresterande elever ska utmanas för att nå ännu högre mål."
+      },
+      {
+        "category": "Bygga skola och boende för äldre vid kusten",
+        "description": "möjliggöra för äldre att bo kvar i sin hemmiljö och att elever går i skolan i sin hemkommun."
+      },
+      {
+        "category": "Värna om folkhälsan",
+        "description": "stärk föreningarnas roll i samhället så att alla, oavsett kön, ålder, bakgrund eller fysisk/psykisk förmåga ska bli sitt bästa jag."
+      }
+    ],
+    "motivateVote": "För att vi sätter individen i centrum från start. Vi vill ge individen möjlighet att klara skolan, möjlighet till utveckling, meningsfull fritid hela livet samt bra och nära vård när individen behöver i livets olika faser. Liberalerna Laholm jobbar för att Laholm ska vara möjligheternas kommun. Det uppnår vi med ökat samarbete mellan kommun, näringsliv och föreningslivet. ",
+    "name": "Liberalerna Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-laholm"
+  },
+  {
+    "abbreviation": "MED",
+    "altingetCandidateId": "906",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "330",
+          "333",
+          "328"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "319",
+          "322",
+          "323"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;B;C!;B;C;C;D!;B;C;3/5;2/5;1/5;[330,333,328];[319,322,323]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Narkotika politiken och sexköps politiken",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Medborgerlig Samling i Laholm vill se ett tydligt borgligt styre. \r\nVi lägger stor vikt vid din frihet och vill öka Ditt livsval – men betonar att vi alla har både rättigheter och skyldigheter. Därför ser vi det självklart med ett borgligt styre där Medborgerlig Samling ingår. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Medborgerlig Samling är öppen för samarbetar med alla demokratiskt valda partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En tryggare och utbildande skola",
+        "description": "VI har satt fingret på att grundskolan i Laholm måste göras tryggare och kunna ge våra ungdomar en chans att klara alla ämnen i skolan."
+      },
+      {
+        "category": "Ett tryggare välfärd centrerad kring individen",
+        "description": "Laholm har ett läge där hela socialtjänsten står vid ett vägval. Vi vill se att de med behov av stöd från socialtjänsten ( äldre, funktionsvarierade, missbrukare, barn /unga som far illa mfl ) får en mer humanistisk hjälp. Vi vill se en tydligare brukarmedverkan,"
+      },
+      {
+        "category": "Ett stärkt näringsliv",
+        "description": "VI vill se ett mer utvecklande näringsliv, vi vill bland annat införa en upphandlingslots"
+      }
+    ],
+    "motivateVote": "MED Laholm vill stärka kommunens roll genom:\r\nAtt ge erforderliga ekonomiska och personella resurser till kommunens verksamhet.\r\nGe ökade resurser till skolbarnens trygghet och undervisning\r\nSe till att alla elever får ett fullständigt betyg\r\nSe till att ge en god omsorg som utgår från individens behov\r\nAtt kommunen är en bra och trygg arbetsplats för alla anställda\r\n",
+    "name": "Medborgerlig Samling Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "medborgerlig-samling-laholm"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "907",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver fossilfri energi i södra Sverige. Havsbaserad vindkraft är en del av lösningen. Dock skall det vid byggande och drift tas stor hänsyn till livet i havet och fågellivet. Skall inte byggas i Reservat eller i Natura 2000 områden. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan minska skadegörelse och öka tryggheten",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är konsumtionen alltså antalet förbrukade liter vi skall betala för.  Om den kostnaden är hög, ökar viljan att använda mindre och man kan satsa på dubbla system, använda BDT vatten att spola med, tekniskt vatten där det går m.m.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett helhetsgrepp behövs för samtliga högstadier i kommunen, då även kustens högstadiebehov måste lösas. Lagaholmsskolan måste ersättas. En utredning som lägger fram olika förslag och kostnader för en kommunal helhetslösning där även gymnasieskolan involveras måste fram snabbt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte säkert det är lösningen. Kan vara det. Lyssna och var flexibel till olika anställdas behov. Finns många olika lösningar men bättre arbetsvillkor och bättre lön är måsten.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket viktigt att kunna kommunicera med våra äldre och sjuka.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kan inte köpa sig ett boende, då behövs allmännyttan. För yngre, för äldre, för dem med begränsad ekonomi eller de som behöver bostad för en kortare period måste det finnas.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan själva driva detta. Säkrare, billigare och bättre kontroll på kvaliteten om vi beslutar oss för detta. Bättre planering kan dock behövas. Långsiktig satsning på personal och utbildning behövs, mer resurser.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ju fler publika laddstolpar, ju fler elbilar. Jämlikhetsfråga, då inte alla kan ha egen laddning. Bidrag kan sökas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ta vår del av ansvaret för de människor som behöver en trygg och bra plats att leva på.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "Så lite som möjligt. Dyrare och inte en skola för alla. Urholkar  vår skolbudget, men det behövs familjekooperativ på mindre orter för att lägre stadier skall finnas kvar på småorterna.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Kultur stärker människan. Ökar samhörigheten och ger oss trygghet både bakåt i tiden och i framtiden. Kommunen skall fortsätta  uppmuntra och stödja förenings- och kulturlivet.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "För att upprätthålla och öka den kommunala servicen till kommuninvånarna behövs mer medel. Detta speciellt när vi blir fler.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "332",
+          "326",
+          "329"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "325",
+          "320",
+          "323"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C;D!;C!;B;D!;C!;A!;D;A;2/5;2/5;3/5!;[332,326,329]!;[325,320,323]!",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har kanske en mer restriktiv syn på privata aktörer inom skola och omsorg.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Samarbete med S och C.\r\nI sakfrågor måste breda politiska lösningar kompromissas fram.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Effektivare användning och minskat slöseri med vatten",
+        "description": "I Sverige är tillgången på vatten god och det har lett till att svenskar inte hushållar med vatten. Vi vill att samhället underlättar för användning av BDT-vatten vid exp. toalettspolning samt att Va-taxorna ändras på så sätt att det stimulerar till ett sparande av vatten."
+      },
+      {
+        "category": "Den goda jorden och den biologiska mångfalden måste värnas.",
+        "description": "I Sverige är självförsörjningsgraden av livsmedel omkring 50%, måste öka. Vi vill begränsa byggande och exploateringen på jordbruksmark. Samtidigt måste våra ekosystem, skogar, hav, vatten och ängar fungera o skyddas, så att de ger oss vad vi behöver, ren luft, rent vatten, mat, timmer, rekreation o en rik natur."
+      },
+      {
+        "category": "Medborgarnas rätt till trygghet i livets alla skeden! ",
+        "description": "I offentliga sektorns miljöer, har samhället extra stort ansvar för att våra kommuninvånare ska känna sig trygga och få den hjälp de behöver i livets alla skeden. Det behöver avsättas tillräckligt med resurser av olika slag. En bra skola för alla är viktigt för både för individen och samhället o för en hållbar framtid."
+      }
+    ],
+    "motivateVote": "Vi är partiet som genom tuffa, ibland obekväma beslut nu, inom klimat, natur och miljö skapar en hållbar framtid på jorden, även för kommande generationer.",
+    "name": "Miljöpartiet Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-laholm"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "908",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser generellt att kommunen ska ha vetorätt i frågor som rör kommunen.\r\nYtterst beror detta på vilka konsekvenser det blir för Laholmarna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nuvarande åtgärder för att minska skadegörelse och brottslighet har inte gett önskvärd effekt.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att höja avgiften på viktiga saker som vatten, el och drivmedel för att minska konsumtion går bara ut över de resurssvaga. Sverige är rikt på vatten, det måste till tekniska lösningar på detta och inte straffbeskattningar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bygg hellre ny gymnasieskola och låt högstadiet flytta in i Osbecksgymnasiet lokaler. Vi vill få fram ett förslag över vad det skulle kosta att iordningställa Campus till en välfungerande högstadieskola. En högstadieskola centralt i Laholm måste vi ha. Det är dock inte självklart att den ska förläggas till samma plats som idag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dag har de som arbetar heltid 37 timmars arbetsvecka och man har mer semester som kommunanställd än vad tex industriarbetare har. Att ytterligare minska arbetstiden när det kommer vara brist på personal att rekrytera i framtiden motverkar syftet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja absolut. Hur ska man annars klara utbildningar, följa anvisningar om medicinska eller rehabiliterande åtgärder?",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Generellt finns redan system genom bostadsbidrag och bostadstillägg.\r\nBostadsbolag, även kommunala, måste drivas på marknadens villkor.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns principiella skäl till att man ska kunna välja sin skola eller äldreomsorg och att det inte är vi politiker som ska göra det.\r\nNär det gäller äldreboende så slipper dessutom kommunen skuldsätta sig för att bygga stora dyra byggnader.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska underlätta för de företag och privatpersoner som vill göra detta själva. Men marknaden får reglera detta.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med en stor reservation för kriget i Ukraina. Generellt är flyktingpolitiken statens domän och vi anser det fel att staten skickar konsekvenserna av sina beslut till kommunerna. Men Ukrainas sak är vår och vårt parti vill prioritera detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att elever och föräldrar ska ha stor valfrihet. Så för oss är det som prioriteras. Då är driftsformen inte viktig för oss, vi tror inte kommunal drift garanterar bättre kvalitet.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Kärnverksamheten: skola, vård, omsorg, socialtjänst och infrastruktur måste prioriteras. Utifrån exempelvis äldreomsorgens ekonomiska situation kan vi inte öka anslagen till kultur.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "Det kanske kommer en dag när Laholm är landets mest kostnadseffektiva kommun som bara prioriterar kärnverksamheten och då kan komma att behöva höja kommunalskatten. Men vi är inte där ännu.\r\nVi ser det som orealistiskt att sänka skatten med de utmaningar som vi ser framför oss.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "331",
+          "328",
+          "334"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "321",
+          "319",
+          "322"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;A!;C;A;D!;A;D;B;C!;3/5;2/5;2/5;[331,328,334];[321,319,322]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Riksorganisationen vill invänta ett nationellt regelverk om förbud mot tiggeri. Vi tycker att kommunerna ska kunna kunna avgöra detta själv redan nu. I övrigt så har partiets utveckling av politiken nationellt även fått genomslag lokalt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Idag har vi en stomme av gamla Allianspartier med stöd av två andra partier. Det känner vi oss inte låsta av, men ytterst så styr mandatfördelningen denna fråga efter valet. För att möta framtidens krav måste vi politiska partier i Laholm bli bättre på att samarbeta, men valresultatet får avgöra det.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inte egentligen. Vi prioriterar att få igenom vår valplattform.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Breda och långsiktiga överenskommelser",
+        "description": "De närmaste åren kommer antalet barn i förskole- och skolålder öka, antalet invånare äldre än 80 år  ökar. Samtidigt visar prognoserna att antalet personer i yrkesverksam ålder inte ökar särskilt mycket. \r\nFör att möta denna utmaning måste vi politiska partier i Laholm bli bättre på att samarbeta. Vi kan inte låta särintressen och prestige hindra oss från viktiga beslut om framtiden."
+      },
+      {
+        "category": "Stärk arbetslinjen",
+        "description": "Genom en stram hållning kring ekonomiskt bistånd och ett starkt företagarklimat skapar vi en tydlig arbetslinje i Laholm. Målsättningen ska vara att Laholm har Sveriges lägsta kostnad för försörjningsstöd och Hallands bästa företagarklimat."
+      },
+      {
+        "category": "Trygghet i skolan och samhället",
+        "description": "Trygga elever lär sig mer. Därför ska det råda ordning och reda i skolan. Det är lärare, elever och föräldrars ansvar. Trygghet i skolan och stöd till utåtagerande elever ska helst hanteras med tidiga insatser i samverkan med socialtjänst och elevhälsa. Men i lägen där det inte varit tillräckligt måste också aktivt trygghetsskapande åtgärder prioriteras i mellan- och högstadiet."
+      }
+    ],
+    "motivateVote": "Moderaterna är det parti i Laholm som har högst trovärdighet att prioritera rätt frågor så att inte prestige, bypolitik eller symbolfrågor präglar det politiska styret. Vi värnar kärnverksamheten och är kommuninvånarnas företrädare gentemot den kommunala organisationen och inte tvärtom som andra partier.",
+    "name": "Moderaterna Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-laholm"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "909",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att det finns utanför siktlinjen från land",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste stävja brottsligheten och förstörelsen allt för att öka tryggheten",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Intefel att ha en taxa som gynnar sparsamheten men det krävs då att den fasta delen sänks",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill samla utbildning och friskvårdssatsningar inom samma område",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med detta förslag krävs det att de är fler händer i vården och att lönen följer med",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är rimligt att ställa detta krav",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bygga fler ungdomsbostäder",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ingen anledning att öka våra kostnader",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden får stå för detta",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ta vårt ansvar",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "Vi skall ha ned kostnaderna och bättre kvalite",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "Behoven måste styra kostnadern",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "331",
+          "332",
+          "329"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "317",
+          "325",
+          "324"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;C;D;C;C;D;A;B;A;0/5;4/5;3/5;[331,332,329];[317,325,324]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "LSS tillämpningen och kollektivtrafiken gällande tågtrafiken på Markarydsbanan",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är beredda att ta ett aktivt ansvar att leda och styra kommunen\r\nVi vill vara din röst i den kommunala verksamheten\r\nKommunens tillgänglighet och bemötande skall förbättras",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "hemtjänstteam",
+        "description": "Vi vill skapa hemtjänstens kring brukare för att säkra kvalitet och medbestämmande"
+      },
+      {
+        "category": "barn skall ha möjlighet att lyckas i skolan",
+        "description": "Se till att Alla barn kan läsa, skriva och räkna innan de lämnar åk 3\r\nAvlasta lärarna genom att anställa lärarassistenter och bygga ut tvålärarsystem i flerskolor"
+      },
+      {
+        "category": "samma rättigheter och skyldigheter för alla",
+        "description": "Att personer medfunktionsvariatioerskages möjlighet till inflytande över sin livssituation\r\nVerka förbyggnation av  nya gruppboende\r\nHöja ersättningen till personer som deltar idaglig verksamhet"
+      }
+    ],
+    "motivateVote": "Vård ,skola och omsorg är våra hjärtefrågor\r\nVi garanterar att våra äldre får ett värdigt åldrande\r\nVi arbetar för tidiga insatser för barn och unga vi arbetar för att ge aktivt stöd till utsatta ungdomar tidigt\r\nHög tillgänglighet och kvalitet och rätt till inflytande ska prägla äldreomsorgen L Laholms kommun",
+    "name": "Socialdemokraterna Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-laholm"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "910",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver inte mer intermittent elproduktion utan stabil energitillgång med en återgång till effektivisera kärn-, och vattenkraften. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ökar tryggheten, brottspreventiv och ökar uppklarningsmöjligheterna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett samhälle mår bäst av att utvecklas varsamt i den hastighet det klarar av. Vattenbrist är ett tecken på att befolkningen ökat mer än samhället mår bra av. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Visserligen är Lagaholmsskolan i behov av renovering eller utbyte. Dock anser vi att skolans problem först behöver lösas. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta förslag gäller bara en verksamhet och yrkesgrupp. Det finns fler som borde innefattas i en reform som denna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser detta som i första hand gällande ungdomslägenheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "En mix av kommunal och privata alternativ för att stimulera effektiviteten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är inget kommunalt ansvar. Däremot att underlätta för att privata aktörer kan bygga ut systemet. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste kunna skilja på verkliga flyktingar och ekonomiska migranter. Verkliga flyktingar har vi ett ansvar att hjälpa. EUs direktiv får följas i varje enskild situation. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "I en allt mer trängd ekonomisk situation får de lagstadgade verksamheterna prioriteras. Vi tvingas prioritera inom vård, skola och omsorg. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "333"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "319",
+          "322",
+          "323"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;B;B;B;D;C;C;A;D!;2/5;1/5;2/5;[333]!;[319,322,323]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett ansvarstagande styre som genomför även obekväma åtgärder, då kan nödvändiga förändringar genomföras. De som förorsakat problemen vi nu upplever kommer knappast att ha förmågan att kunna lösa dem.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Våra invånare upplever otrygghet. I samhället pågår en förändring till det sämre även om Laholm inte tillhör de värst drabbade.  Vi har fått vår beskärda del av bränder, elever trakasseras, stölder mm. Medias rapportering ifrån våldsdåd som vi inte är vana vid får en lokal förankring med lokala inslag. Oron sprider sig i samhället och folk stänger om sig."
+      },
+      {
+        "category": "Skolan. ",
+        "description": "Utbildningen, individens förberedelse för vuxenlivet är vår ödesfråga. Målet är självförsörjning men också ett gott liv med goda möjligheter till personlig utveckling och eget ansvar. Vi tror att en god utbildning motverkar psykisk ohälsa och stärker individens självkänsla. En god studiemiljö med lugn och ro och tillbakagång till den kunskapsbaserade och lämna värdegrundsflummet."
+      },
+      {
+        "category": "Omsorgen",
+        "description": "Alla kommer förr eller senare vara i behov av vård och omsorg. Våra äldsta har efter ett långt arbetsliv med värdens högsta skatter att se fram emot en värdig ålderdom i respekt för deras tidigare arbetsinsats. Vi anser att detta skall speglas i den omsorg som vi i realiteten erbjuder dem. Respekt och värdig ålderdom är för oss en självklarhet och ska därför prioriteras."
+      }
+    ],
+    "motivateVote": "SD har argumenterat sen Millennieskiftet för en politik som om denna hade fått gehör definitivt hade lett samhället till det bättre. Få kan förneka de problem som nu upplever. \r\nVi var aldrig naiva, vi såg det komma!",
+    "name": "Sverigedemokraterna Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-laholm"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "912",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7ee099d40af43de60218f06ee3978800",
+        "questionType": "PROPOSITION",
+        "reasoning": "Klimatkrisen är akut och vi måste snabbt ställa om Sverige för att minska utsläppen. Här spelar energifrågan en avgörande roll. Politikerna i Södra Halland Kraft måste driva på om att öka den förnybara energin genom att bygga ut sol- och vindkraft. Vi vill att Laholm sätter solpaneler på alla offentliga byggnader.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "5a7a493f84c290ff92259c98f02e1f2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varje inskränkning som godtas bereder väg för fler och mer ingripande skärpningar. Argumentet att den som har rent samvete inte har något att frukta riskerar att bli en urvattnad floskel ju fler inskränkningar av den personliga integriteten som accepteras. Konsekvenserna för samhällsklimatet och demokratin på lång sikt är svåra att överblicka.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "1a8702ebfd02c965f07afc1fde7bef81",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste bli dyrare att konsumera vatten i onödan och de hushåll och verksamheter som står för det stora slöseriet ska också betala mest. Därför vill vi införa progressiva va-avgifter. En rimligt låg grundavgift beräknad på hushållets storlek, och sedan en progressiv avgiftstrappa.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "95717e82c86f550f0f0f6f442d086b3a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "405eccad737a6bd33f71392be1afe95c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor behöver få mer tid att hinna med livspusslet och fritiden, utan att slitas ut i förtid. Vi föreslår att Laholm startar sex timmars arbetsdag på våra äldreboenden så att de som jobbar där får en bättre arbetsmiljö och de äldre får möta piggare personal.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "02a91f88113362db58a22454653879a0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Krav på specifika språkkunskaper blir fyrkantigt och kan inte kompensera för att vården och omsorgen får för lite resurser.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "64174e2f659d0d291c03786034843498",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi föreslår att det byggs klimatsmarta hyresrätter med rimliga hyror som folk har råd med i Laholms inland.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "705be72162210af54ea8327dac14e266",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har sett inom andra välfärdsområden hur privata riskkapitalister plockat de enkla russinen ur kakan, och lämnat kvar det dyraste och mest komplicerade kvar i offentlig regi. För en likvärdig och rättvis äldreomsorg måste den ske under en och samma huvudman, kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2e3358e08a0920d2786b46ea00e53251",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste bli fossilfri, och en stor del av de fossila utsläppen kommer från trafiken. De medborgare som står i begrepp att byta bil behöver på ett enkelt sätt få veta hur möjligheterna att ladda en elbil ser ut inom kommunen. En uppenbar risk är att man återigen investerar i en fossil bil om möjligheterna att ladda elbil är dåliga. Det vore en mycket dålig utveckling för klimatet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fc586dd23b5ca99019dadcbb48aeaed0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska vara lyckliga att vi lever i ett land människor vill fly till, inte ett land människor flyr ifrån. Fördelningen av flyktingar över landet borde styras av var de har bäst förutsättningar att snabbt bli delaktiga i samhället. Men så ser det inte ut idag. Därför behöver vi ändra lagstiftningen så att alla kommuner blir skyldiga att ta emot flyktingar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "b584790a3f2d31852f572380e286551f",
+        "questionType": "RANGE",
+        "reasoning": "Laholm är tacksamt nog förskonad från riskkapitalister som bara använder skolan som en pengamaskin. Icke vinstdrivande organisationsformer som ideella föreningar, stiftelser och kooperativ är helt i linje med vår politik.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "863b5d3e3153fbb3ad4ae1b0d94f6634",
+        "questionType": "RANGE",
+        "reasoning": "Kultur ska vara till för alla, inte bara en lyx för några få. Den ska vara lätt att uppleva och att utöva oavsett var man bor eller vem man är. Därför behövs mer teater, musik, kulturevenemang i kommunal regi.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ca0c6aff6a138f1e1738887d171b0d02",
+        "questionType": "RANGE",
+        "reasoning": "En rättvis och solidarisk välfärd bygger på att vi alla bidrar genom att betala skatt till kommun, region och stat och att vi gör det tillsammans. Det är så vi får ett samhälle med välfärd lika för alla, oavsett storlek på plånboken. Vi vill inte höja skatten för sakens skull men om vi ska ha en hållbar framtid med en välfärd värd namnet så måste vi.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "d70838f1887bcbae234b3f4d51b9b131",
+        "questionType": "PRIORITY",
+        "reasoning": "Ökat samarbete mellan skola, socialtjänst och polis.",
+        "value": [
+          "332",
+          "328",
+          "334"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "7eaac44a1cff02502b3128e20b2ece21",
+        "questionType": "PRIORITY",
+        "reasoning": "Starta persontrafik på Markarydsbanan nu.\r\nMer investeringar och resurser i Laholms inland.",
+        "value": [
+          "325",
+          "320",
+          "323"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;A;D;C;D!;A;D!;A!;D;A;2/5!;3/5!;4/5;[332,328,334];[325,320,323]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En klar vänstermajoritet, eftersom det är enda garantin för att välfärden åter ska kunna byggas upp igen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Idag kan vi inte se något organiserat samarbete med L, M, KD, SD eller MED.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En socialtjänst värd namnet",
+        "description": "Att socialtjänsten tillförs de resurser som behövs för att kunna ge de som har behov det stöd och den hjälp som de har rätt till, samt för att kunna utveckla det förebyggande arbetet som idag är nästan obefintligt"
+      },
+      {
+        "category": "Förbättra och utveckla arbetsvillkoren inom välfärdsområdet",
+        "description": "Förbättra arbetssituationen inom välfärdsområdet med fler anställda, vilket ger mindre grupper i förskolan, möjligheter att testa sex timmars arbetsdag inom äldreomsorgen, fler fritidsgårdar med längre öppettider i samarbete med socialtjänsten"
+      },
+      {
+        "category": "Hela kommunen ska leva!",
+        "description": "Hela kommunen ska leva! Rejäla satsningar i de östra delarna av kommunen, på hållbart boende, kollektivtrafik, skola vård och omsorg med en utvecklad lokal/ närproducerad matproduktion"
+      }
+    ],
+    "motivateVote": "Vänsterpartiet är den enda oppositionen i Laholm när det gäller klimat, miljö och sociala frågor. Vi står för en socialistisk demokrati vilket innebär jämställdhet, en hållbar värld, en gemensam välfärd för alla och en tydlighet i kampen mot nyliberalismen. Vi vill att hela Laholm ska vara attraktivt att leva, bo och utvecklas i, inte bara kuststräckan. ",
+    "name": "Vänsterpartiet Laholm",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-laholm"
+  }
+]

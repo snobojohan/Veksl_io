@@ -1,0 +1,1463 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1408",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2193",
+          "2194",
+          "2196"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;C;C;D;B;A;A;B;A;C;3/5;3/5;1/5;[2193,2194,2196]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I Ronneby kommun arbetar vi för ett fortsatt alliansstyre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och vänsterpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ronneby ska vara en trygg, jämställd och hållbar kommun",
+        "description": "Vår värdegrund inkluderar alla människor. Centerpartiet står upp för de värderingar som utgör grunden för ett fritt, tryggt och jämställt samhälle där all brottslighet bekämpas och där vården finns nära och tillgänglig när vi behöver den. Miljö- och klimatfrågorna är i fokus i vår politik för att nå en samhällsutveckling som är långsiktig hållbar för såväl människan som naturen."
+      },
+      {
+        "category": "I Ronneby kommun ska alla kommundelar utvecklas.",
+        "description": "I vår kommun ska kommunal grundservice finnas i alla kommundelar, alla ska ha tillgång till fibernät för bredband där man bor, man ska kunna åka kollektivtrafik mellan kommundelarna och företagen ska kunna utvecklas och ges möjlighet att skapa jobb. Livskvalitet ska finnas i hela kommunen."
+      },
+      {
+        "category": "Ronneby kommun ska ha ett bra företagsklimat och ett kulturutbud av betydelse.",
+        "description": "En politik som bejakar entreprenörskap gör det möjligt för människor att förverkliga sina drömmar. Goda villkor för företagen är avgörande för att skapa nya jobb. Ronneby ska vara en kommun där man kan växa inom kulturen såväl som amatör som professionell utövare, likaså ska det finnas ett rikt och brett utbud att konsumera."
+      }
+    ],
+    "motivateVote": "För oss är det viktigt att hela kommunen, stad som landsbygd, utvecklas. Förenkla regelverk och möjligheter för företag att utvecklas och skapa jobb. Hållbar utveckling med bl a miljö, närodlat, förenklat strandskydd är centrala begrepp i vår politik. Kulturen och föreningslivet ska utvecklas vidare i kommunen.",
+    "name": "Centerpartiet Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-ronneby"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1409",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ronneby är egentligen ingen särskilt otrygg stad om man ser till statistiken. Men den upplevda otryggheten är stor. Därför är det viktigt att invånarna får till sig korrekt information för att motverka ryktesspridning och oro. Att fler människor engagerar sig för vår stad är också viktigt, till exempel genom nattvandring och liknande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ungdomar som gjort sig skyldiga till brott ska hanteras av rättssystemet beroende på ålder och ungdomsrabatten ska tas bort. Utåtagerande och våldsamma elever ska kunna ges det stöd de behöver för att komma tillrätta med sina problem innan de riskerar att dras in i kriminell verksamhet eller droganvändning. Mer samverkan mellan sociala myndigheter och polis behövs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på medbestämmande och på att arbetstagare i möjligaste mån ska ges utrymme att påverka sin egna arbetsmiljö och schemaläggning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela Sverige ska fungera. Det ska gå att bo och leva i Sveriges hjärtland; de små- och medelstora städerna, och landsbygden. Jordbruket är av central betydelse för produktionen av livsmedel, för att landsbygden ska vara levande och öppna landskap ska kunna vidmakthållas. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet och mångfald innebär ökad kvalitet, ökad makt åt den enskilde och fler arbetsgivare att välja på för den anställda. Att förbjuda vinstdrivande företag skulle innebära att utbudet av alternativ minskade, vilket vore en inskränkning i medborgarens valmöjligheter. Den som drivs av ett vinstsyfte har ett incitament att utveckla kvaliteten för att locka till sig fler kunder.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att fler ska arbeta mindre kan leda till att fler kommer i arbete totalt sett. Men det är tyvärr en relativt dyr reform varför Kristdemokraterna är tveksamma i nuläget.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kristdemokraterna är för valfrihet för individen och det gäller inte minst vad gäller vilken kost man vill äta. Att det finns köttfria alternativ är utmärkt men det ska inte vara något tvång att avstå från kött.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Större möjligheter för invånarna att påverka sin egen vardag och den kommun man lever i är bra. Men det måste vara rimligt och behöver inte innebära folkomröstningar utan kan vara genom medborgardialog och möten mellan beslutsfattare och invånare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är nyckeln till integration och för att komma in i ett nytt samhälle och kultur. Dessutom har de äldre rätt att kunna både göra sig förstådda och till att förstå den som vårdar dem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyresrätten behövs för en välfungerande och rörlig bostadsmarknad. Det behöver bli enklare att bygga så att vi kan bygga oss ur bostadskrisen. KD vill se regelförenklingar för byggsektorn och bättre planprocesser.7 av 10 vill bo i villa, men hyresrätten dominerar byggandet. Bygg fler småhus och inför en planeringsstimulans till kommunerna som ökar utbudet av byggbar mark.\r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ronneby har redan under flyktingkrisen 2015-2017 tagit emot ett stort antal flyktingar per capita. Vi måste ändå kunna hjälpa även flyktingar från t ex Ukraina men viktigt att satsa på integrationen och inte bara ta emot utan motkrav.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": "Ronneby har idag två friskolor inom grundskolan men ingen privatägd gymnasieskola. KD tror på att ett skolsystem som medger valfrihet och mångfald kan vara kvalitetsdrivande och rätt använt en faktor som minskar segregationen.  Inför ett obligatoriskt och aktivt skolval och kommunalt samordnad antagning. Skolor som inte följer skollagen och läroplanen ska stängas oavsett driftsform.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": "Det offentliga ska ha en stödjande roll - inte spela huvudrollen. För att bredda kulturen och hitta nya sätt att finansiera kulturlivet är det viktigt att det privatas möjlighet att agera i kulturlivet utvecklas. Kristdemokraterna vill införa ett fritidskort för alla barn mellan årskurs 2 och 9, laddat med ekonomiskt stöd för deltagaravgifter i aktiviteter i föreningslivet, samt kulturskolan.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna anser att det totala skattetrycket är för högt. Vi välkomnar en sänkning av kommunalskatten, inte minst för att locka nya invånare. Samtidigt måste kommunen kunna tillhandahålla grundläggande och god service till invånarna före att till varje pris sänka skatten.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": "Man ska kunna bo och leva i hela kommunen. Arbete hemifrån måste underlättas. Integrationen måste intensifieras och här är språket nyckeln. Den upplevda känslan av otrygghet måste tas på allvar och synliga poliser som känner invånarna i staden har en viktig roll.",
+        "value": [
+          "2193",
+          "2195",
+          "2196"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D;C;D!;B;A;C!;D!;B;C!;3/5!;3/5!;1/5!;[2193,2195,2196]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill bilda regering med Moderaterna baserat på ett samarbete med Liberalerna och Sverigedemokraterna. I Ronneby samtalar vi med alla partier och kommer välja det samarbete som ger oss mest möjlighet att få igenom vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Miljöpartiet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ett tryggt och levande Ronneby!",
+        "description": "Vi vill att såväl centrum som hela kommunen ska leva och anser att kommunen måste kunna fokusera på både utveckling av Viggenområdet och centrum samtidigt. Vi vill att alla ska känna sig trygga att gå ut i vår stad. Vårt mål är att Ronneby ska bli Årets Stadskärna 2025!"
+      },
+      {
+        "category": "Fortsätt satsa på integrationen",
+        "description": "Ronneby har fortsatt en stor befolkningsandel med utländsk härkomst men trots att staden är liten är den väldigt segregerad. Vi vill intensifiera arbetet med integrationen och framför allt satsa på ungdomarna så att de inte dras in i kriminalitet och droganvändning. Vill vill att Ronneby ska vara en stad för alla som sköter sig och vill bidra till samhället."
+      },
+      {
+        "category": "En aktiv fritid för alla familjer",
+        "description": "Att vara med i en idrotts- eller kulturförening kan innebära en stor kostnad för många familjer, framför allt om man har flera barn. Vi anser att en aktiv fritid är viktig för alla och vill därför ge alla familjer i Ronneby kommun möjligheten till ett aktivt fritidsliv genom införande av ett fritidskort."
+      }
+    ],
+    "motivateVote": "KD är partiet som har både hjärta och hjärna. Vi tror både på individen och på att visa solidaritet mot andra och mot omvärlden. Vi vill vara med och skapa, och tar ansvar för, ett tryggt och ordnat samhälle där alla kan utvecklas efter bästa förmåga. Vi lovar inte allt till alla, men vi håller vad vi lovar.",
+    "name": "Kristdemokraterna Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-ronneby"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1410",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ronneby ska vara en trygg kommun för både invånare och besökare.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är den som stör och mobbar man ska flytta på. Inte den som blir utsatt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla bör på något sätt få vara delaktiga men det är cheferna som bestämmer i slutändan.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": "För det mesta men samtidigt måste vi vara med i utvecklingen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha rätt att välja sitt boende när man blir äldre. Det ska finnas både kommunala som privata alternativ.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": "Först måste vi få en fungerande vård och omsorg där den äldre sätt i fokus och inte behöver möta olika anställda varje gång. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": "I skolan ska det finnas två alternativ varje dag. En vegetarisk och en animalisk måltid att välja mellan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara en förutsättning att kunna det svenska språket om man ska bli anställd inom kommunens verksamhet gällande äldre och skolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den privata marknaden bör sköta detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ronneby kommun har tagit emot många flyktingar och behöver nu se till så att alla kommer i arbete eller utbildning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": "Kommer det privata intiativ så är det bra. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2189",
+          "2195",
+          "2196"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;C;D!;A;A;A;D!;B;D;2/5;2/5;1/5;[2189,2195,2196]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ganska ense med vad vårt parti på riks tycker. Kan vara trygghetsfrågor där man kan göra mer än vad partiet anser på riks.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det politiska styret i Ronneby vill vi ska vara liknande det är idag. Men det räcker med M, L och C i styret och sedan kan Kd och Sd vara stödpartier.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänstern ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En jämlik skola",
+        "description": "Alla ska ha möjlighet till bästa möjliga utbildning oavsett var man befinner sig. Elever som har det svårt med sin skola ska få den hjälp de behöver för att klara kunskapsmålen och elever som har det lätt för att lära sig ska få de utmaningar de behöver för att inte stoppas upp i sin utbildning. Elever med språksvårigheter ska få extra hjälp i att lära sig det svenska språket i språkförskola."
+      },
+      {
+        "category": "Trygghet",
+        "description": "Ronneby ska vara en trygg kommun att bo i. Kommunen, polisen, föreningslivet och ideella krafter ska samarbeta med näringslivet för att gemensamt uppnå trygghet. Ett verktyg är trygghetskameror och ett levande centrum. Bekämpa droger och missbruk genom fältassistenter. Information gällande trygghet i skolan och föreningslivet. Arbeta för synliga poliser på gatorna."
+      },
+      {
+        "category": "Vård och Omsorg",
+        "description": "På äldre dag ska man ha en trygg och bra ålderdom. Valmöjligheten för den äldre är viktigt och det ska finnas både kommunala som privata boenden och trygghetsboenden att fritt välja mellan. Den personal som anställs i kommunen ska tala och förstå det svenska språket, även kunna läsa skriftliga instruktioner. Det ska finnas tillräckligt med personal så den äldre känner sig trygg och säker."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som agerar även mellan valen. Vi satsar på skola, trygghet, försvar och äldre. ",
+    "name": "Liberalerna Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-ronneby"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1411",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vill framhålla att trygghetsfrågor arbetas med i de verksamheter och organisationer där de ska implementeras i ej i särskildorganisation. Kompetenserna i de aktuella verksamheterna finns i deras organisation och därmed behöver arbetet drivas i denna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Varje elev ska mötas utifrån sina behov i grundskolan. Miljöpartiet arbetar för att fler pedagoger ska anställas i skolan för att det ska bli färre elever per pedagog inom hela grundskolan. När varje individ ska mötas utifrån sina behov behövs insatser för att möta de behov som finns. Tidiga insatser ska prioriteras för att varje elev ska ges möjlighet att kunna söka gymnasiet i slutet av åk 9. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att ges möjlighet att delta vid planering av sitt schema skapas en delaktighet. Personalen är de som känner verksamheten och även ska ges möjlighet att påverka sina egna livsförhållande vilka arbetstiderna är en del av.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är otroligt viktigt att värdefull åkermark brukas för att självförsörjningen i samhället måste öka. Detta är viktigt för att Sverige men även Blekinge och Ronneby kommun ska få de bästa möjligheterna att bli mer självförsörjande för framtiden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att kommunen ska kunna garantera att alla får samma kvalite och tillgång till plats på äldreboende för boende i kommunen vill Miljöpartiet försäkra sig om detta genom att verksamheterna drivs i kommunalregi. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anställda inom vård och omsorg ska erbjudas möjlighet att prova ha 6 timmars arbetsdag med bibehållen lön. Detta utifrån att en relativt hög sjukfrånvaro finns i verksamheterna och detta kan vara ett sätt att påverka detta. Projekt har genomförts med goda resultat i andra kommuner.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att minska mängden kött som var och en äter är en viktig del för att nå upp till klimatmålen.  Miljöpartiet är för mindre kött och mer ekologisk samt KRAV-märkt mat i skolan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ge kommunens invånare möjlighet att påverka de beslut som tas i kommunen är av största vikt för att politiken ska närma sig invånarna mer. Demokratin och medborgares möjlighet att påverka måste prioriteras, bevaras och öka.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är självklart att de äldre ska förstå den personal som besöker dem. Detta är Miljöpartiet övertygade om att chefer i kommunala verksamheter kan avgöra vid en anställningsintervju. Därav anser Miljöpartiet att en anställningsintervju är det redskap som är tillräckligt för att avgöra detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver ha en bra blandning av olika typer av bostäder i kommunen och alla ska ha råd till ett bra boende i en hyresrätt. De senaste åren har det i kommunen byggts en del bostadsrätter och hyresrätter i en högre prisklass, detta behöver kompletteras med fler billigare hyresrätter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har historiskt tagit emot många personer som flytt till Sverige. Under våren har invånare i Ronneby visat att de öppnat upp för mottagande av flyktingar från krig. Miljöpartiet menar att personer som flytt krig måste tas emot och erbjudas en plats i vårt land.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": "Miljöpartiet vill att pengarna i svenska skolan ska gå till eleverna som finns där och på det sättet skapa en ännu bättre verksamhet med bland annat högre lärartäthet och inte försvinna iväg i vinst till ägare av privata friskolor.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska prioritera kulturskolan och dess verksamhet för att alla elever ska ges möjlighet att nås av kultur genom sin skoltid. Elever ska även ges möjlighet att delta i kulturskolans verksamhet, de som så önskar. Alla invånare i kommunen ska ges möjlighet att berikas av kulturaktiviteter och arrangemang och evenemang.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": "Skattesänkningen som alliansen drivit igenom ska återställas till tidigare nivå. Istället för en skattesänkning ska pengarna användas i de kommunala verksamheterna och på så sätt komma kommunens invånare till gagn.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": "I kommunen skolverksamhet behöver antalet pedagoger öka för att varje elev ska få möjlighet till mer pedagogtid.\r\nGenom att erbjuda skolfrukost till elever ser vi till att varje elev har samma startmöjlighet i början på dagen vilket är ett sett att få ökad möjlighet att ta till sig undervisningen.\r\n",
+        "value": [
+          "2189",
+          "2191",
+          "2194"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;C;D!;A;D!;D!;D;B;D;A;1/5;4/5;3/5;[2189,2191,2194]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Miljöpartiet kommer att prioritera att vi får maximalt inflytande för vår politik- efter valet. Det allra bästa för Sverige vore en rödgrön majoritet i regeringen där S, MP, C och V ingår.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skydda värdefull åkermark",
+        "description": "Vi har en låg självförsörjningsgrad i Sverige och är beroende av livsmedelsimport. Inte minst har kriget i Ukraina visat att vi måste öka vår självförsörjningsgrad, som en del av vårt totalförsvar.\r\nGod åkermark är en förutsättning för att kunna producera svenska livsmedel, klimatförändringar innebär att viss åkermark framöver kommer att gå förlorad. Vi vill därför skydda åkermark från exploatering"
+      },
+      {
+        "category": "Barne vår framtid",
+        "description": "Barnen är vår framtid och frågor gällande dem och deras framtid kommer vi att prioritera. Gröna skolgårdar där motorikbanor i naturmaterial byggs för att främja motorik. Rörelse är viktigt för barn. Sommarlovspeng för barn i familjer med långvarigt behov av ekonomiskt bistånd-för att förgylla sommaren med något. Fler pedagoger i skolan så att lärartätheten ökar, alla barn ska ges möjligheter."
+      },
+      {
+        "category": "Fler behöriga lärare i skolan",
+        "description": "God utbildning kräver utbildad personal. Vi vill se till att det finns fler utbildade lärare i skolan och därigenom färre elever per pedagog. Detta är en förutsättning för att i god tid säkerställa att så många elever som möjligt har gymnasiekompetens när de slutar åk 9."
+      }
+    ],
+    "motivateVote": "Miljöpartiet är det enda partiet som prioriterar miljö och klimat på riktigt. Miljöpartiet driver på för klimatomställningen i hela Sverige. Gång på gång får Miljöpartiet högsta betyg från miljörörelsen. Vi är det parti som kommer ta kampen för människa, natur, djur och miljö. Vi vill prioritera och stärka klimatarbetet, stärka välfärden och öka jämlikheten.",
+    "name": "Miljöpartiet Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-ronneby"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1412",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns idag och fungerar bra.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2189",
+          "2192",
+          "2196"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C!;B;C;D!;A;A!;A;D;A;D!;3/5;1/5;0/5;[2189,2192,2196]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alliansstyre",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "V, MP och S",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler jobb",
+        "description": "Hur vi skapar fler arbetstillfällen i kommunen"
+      },
+      {
+        "category": "Nya och fler moderna bostäder",
+        "description": "Hur vi moderniserar vårt bostadsbestånd och skapar nya attraktiva bostadsområden."
+      },
+      {
+        "category": "Hur stärker vi välfärden",
+        "description": "En modern välfärd för 2000-talet. vilka förväntningar finns hos brukare och elever samt personal. Valfrihet."
+      }
+    ],
+    "motivateVote": "För trygghet i alla situationer. För att få det stöd man behöver i olika livssituationer. För en fortsatt utveckling av Ronneby kommun med fler företag och nya bostäder.",
+    "name": "Moderaterna Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-ronneby"
+  },
+  {
+    "abbreviation": "ROP",
+    "altingetCandidateId": "1413",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Ronneby kommun finns många invandrare. Rykten går att folk blir utsatta för våld och stöld från invandrarna. De fåtal fall som skett har fått oproportionella effekter genom ryktesspridning. Se filmen \"När världen kom till Ronneby\". ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste fånga upp de elever som är utagerande innan de dras in i grövre brottslighet. Med välutbildade pedagoger går detta att genomföra.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgspersonalen skall vara med vid schemaläggning av sina\r\narbetstider, så att det inte görs över huvudet på dem.\r\nDelade turer skall avskaffas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall undvika nybyggnationer på, och värna om,\r\nodlingsbar jordbruksmark. Odlingsbar mark behövs för framtida försörjning av innevånarnas behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": "De privata aktörerna inom äldreomsorgen har, i många fall, en förmåga att ge plats åt de som är \"friskare\" och vägra dem som är i stort vårdbehov.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste värna om omsorgspersonalen så att de stannar kvar inom yrket och orkar arbeta fram till pension,",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Av miljöskäl mer än hälsoskäl. Det skall alltid finnas veganskt alternativ i bespisningen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns många frågor där medborgarna har synpunkter på hur förslag behandlas av kommunens politiker. Enkelt att genomföra med hjälp av digitalt-id. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Jättedumt förslag. Att arbeta inom omsorgen är många gånger en inkörsport till det svenska samhället och språket. Däremot skall man få gå bredvid en svensktalande fram till att man klarar terminologin och  kan göra sig förstådd på svenska.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väldigt viktigt och även då satsa på de mindre orterna, dit många barnfamiljer önskar bosätta sig och att skolorna i de mindre orterna behålls.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste bereda plats för de som är i behov av skydd. Ronneby kommun har en god erfarenhet av att ta emot flyktingar och klarade av det trots den stora anstormningen 2015.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": "De privata skolorna dränerar kommunens ekonomi genom att få 100 % av skolpengen och att de har färre lärare med behörighet. De sätter dessutom för höga betyg, vilket visar sig då elever går vidare till högre utbildningar.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": "Ronneby kommun har ett bra kulturutbud och är välvilligt inställd till att ge verksamhets- och arrangemangsbidrag.  ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": "Ronneby kommun behöver satsa på att utbilda mer skolpersonal och att ge dem högre lön. Samma sak inom äldreomsorgen.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2189",
+          "2190",
+          "2194"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;D!;D;B;C;C;D!;A;D;B;0/5;2/5!;3/5;[2189,2190,2194]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är ett lokalt parti utan anknytning till något parti på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi önskar ett styre där samverkan är nyckelordet och integrationen sätts främst på agendan, tillsammans med skola och omsorg.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och KD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "3.\tOmsorgspersonalen ska vara med vid schemaläggningen",
+        "description": "3.\tOmsorgspersonalen ska vara med vid schemaläggning av sina arbetstider och inte att det görs över huvudet på dem. Nattpersonal skall ej behöva vara med på möten dagen efter nattarbetspass."
+      },
+      {
+        "category": "Satsningar på integration",
+        "description": "Integration är en nyckeln till Ronneby kommuns utveckling  Krav skall  om att delta i SFI-undervisning, delta i aktiviteter och göra praktik för att få utökat försörjningsstöd."
+      },
+      {
+        "category": "! Inför studiestöd.  och gör skolan läxfri.",
+        "description": "Det är oacceptabelt att Ronnebys högstadieelever har de lägsta\r\nbetygen i Blekinge. Något måste göras! Inför studiestöd.\r\nVi kräver en läxfri skola som gör det likvärdigt och rättvist oavsett\r\nvilka förhållanden eleverna kommer från."
+      }
+    ],
+    "motivateVote": "Ronnebypartiet värnar om kommunens innevånare.\r\nDet är oacceptabelt att Ronnebys högstadieelever har de lägsta betygen i Blekinge. \r\nVi kräver en läxfri. \r\nInom äldreomsorgen måste standareden höjas. Omsorgspersonalen skall vara med vid schemaläggning. Delade turer skall avskaffas.\r\nVi vill att hela Ronneby kommun ska leva. \r\nRonnebyhus skall låta bygga lägenheter till familjer i de mindre tätorterna. ",
+    "name": "Ronnebypartiet Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "ronnebypartiet-ronneby"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1414",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att personal som inte kan göra sig förstådd i anställningsförfarandet inte heller anställs av våra chefer. Språk är en förutsättning för arbetet.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": "Viktigt att kunna leverera kvalitet i verksamheten. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2189",
+          "2195",
+          "2192"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;D;D;A;C;C;A;A;D;B;0/5;4/5;3/5;[2189,2195,2192]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Majoritetsstyre med Socialdemokratisk ledning",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "vård och omsorg",
+        "description": "Högre kontinuitet, utbildade undersköterskor, kommunala boenden, hjälp utan biståndsbedömning med diverse sysslor \"fixarlag\"."
+      },
+      {
+        "category": "skola",
+        "description": "Alla barn lämnar grundskolan med godkända betyg. För att nå detta vill vi ha fler vuxna i skolan såsom heltidsmentorer, socialpedagoger en stark elevhälsa. Schemalagd läxhjälp på skoltid, skolfrukost och två lärarsystem för då har de större möjlighet att hjälpa de elever som behöver hjälp och kollegialt samarbete."
+      },
+      {
+        "category": "trygghet ",
+        "description": "Ett tryggt samhälle grundar sig på tillit mellan människor. Ett starkt föreningsliv som bygger broar mellan människor inom olika kulturer. En god skolgång, meningsfull fritid och ett jobb skapar livstrygghet."
+      }
+    ],
+    "motivateVote": "Vi är ett parti dom sätter välfärden främst. Driver utveckling av vård, omsorg, skola och ett rikt föreningsliv med en aktiv politik",
+    "name": "Socialdemokraterna Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-ronneby"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1415",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2195",
+          "2192",
+          "2196"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;C;D;B;A;C;D;C;D;2/5;3/5;2/5;[2195,2192,2196]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverigedemokraterna ser gärna ett samarbete med Moderaterna och Kristdemokraterna i Ronneby.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, alla partier är tänkbara - så länge SD politik kan genomföras.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghetsorganisation",
+        "description": "Vi bygger upp en ny organisation vars huvuduppgift blir att höja kommuninvånarens trygghetskänsla. I denna organisation kommer det att bland annat anställas trygghetsvärdar som på daglig basis kommer att samverka med fastighetsägare, näringlivsidkare och våra kommunala verksamheter. I denna organisation kommer vi att koncentrera samtliga frågor som rör tryggheten i kommunen."
+      },
+      {
+        "category": "Plikskola/Jourklass",
+        "description": "Idag är det vanligt förekommande att störande elever får sitta kvar i klassrummet under tiden lektion pågår - Detta är ett problem för samtliga elever och personal.\r\n\r\nGenom att införa pliktskola, dit elever omedelbart flyttas, om de stör eller på andra sätt på ett negativt sätt påverkar undervisningen, möjliggörs studiero för skötsamma elever."
+      },
+      {
+        "category": "Vård och Omsorg - öka personaltäthet från 0,57-0,63",
+        "description": "Genom att öka personaltätheten förbättrar vi vårdtagarens och vårdgivarens livskvalite och arbetsmiljö.\r\nDetta innebär att varje vårdtagare får mer individuell tid med brukaren och personalens stressnivå minskar betydligt, vilket också motverkar sjukskrivningar. \r\n\r\nEn aktiv fritid på de äldres villkor ska främjas."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna har varit det enda partiet som under många år lyft de frågor som idag är de centrala frågora för samtliga partier.\r\nSverigedemokraterna är det enda partiet som stått fast vid sin hållning oavsett vad andra partier tyckt om våra frågor.",
+    "name": "Sverigedemokraterna Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-ronneby"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1416",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "915de43b33585c8ad0742879b09aa025",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har redan flera i organisationen som arbetar med detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "18682115095a2d2d3ac38a2cb3bbb6b9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ingen forskning som stöder detta. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "64fc6f0a4a17847b2afcbe679cf6e11b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs nytänk och omtag när det gäller arbetstiderna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "49b69d2a9886abff6633b91d70c04b69",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ccec84f953b80da778dfa40193ac220c",
+        "questionType": "PROPOSITION",
+        "reasoning": "När man blir äldre ska man kunna lita på att boendet fungerar över tid och att skattepengarna går till just boendet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "a784925d52a1d1e429d5b7e938c6c503",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är ett vänsterförslag som måste genomföras på sikt, och bör prövas omgående. Det finns positiva resultat på olika håll i landet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c801cf86d3083508c645b25c66e63d48",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns idag så många bra alternativ och så många bra ersättningar att det låter tråkigt att använda orden \"obligatoriskt\". Kanske ordet \"nödvändigt\" klingar lite bättre?  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ef41b85e893a9f1b695475df68fb8e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Medborgarnas insyn och olika vägar in i kommunpolitiken behöver synliggöras och transparensen behöver förbättras. Om någon fråga behöver lyftas i en folkomröstning ska det kunna göras med dagens regler. Att utfästa ett \"minimum\" av folkomröstningar är därför vanskligt. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e425e352c0572492df2130dcc7a20864",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns redan språktester och språkkrav och givetvis ska de anställda kunna kommunicera både muntligt och skriftligt och också förstå tal och skrift. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "bcfbb4e2ecc956c93c9130d2ac795420",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommunala bostadsbolagen har flera uppgifter - detta är en av de viktigaste.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "aa0df3bbd58a2667351b27b0edb209f9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ett demografiskt problem vi måste adressera. Vi blir äldre och äldre och någon ska ta hand om de arbetsuppgifter som uppstår. Sedan finns det en flyktingpolitisk diskussion som är lite svårare att föra idag, men där det finns statistik att tillgå. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d7c8a9216d6de69b5fba12293e2a8a3b",
+        "questionType": "RANGE",
+        "reasoning": "0%",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "196b0a01685a374c09d78c7c36f7c124",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f39a95d38cf3267848c936aabbc649cc",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c63983969f3c432e044574e338ba8bd6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C;A;D;D;B;D;C;B;B;D;B;0/5;3/5;2/5;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det ska vara vänster/socialism",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "En del parti till höger är så långt från våra ideal så det finns det.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghetsboenden i kommunal regi med utökad service hemma",
+        "description": "I takt med att befolkningen blir äldre behövs satsningar på både trygghetsboenden och åtgärder för att hjälpa människor att  kunna bo kvar hemma så länge man vill. Vi tycker att det behövs mer kommunal service till de äldre. Vi löser inte problemet med rut- och rot-avdrag."
+      },
+      {
+        "category": "Frukost i skolan och mellanmål med kvalité",
+        "description": "För att orka med hela dagen och även skapa en lugnare miljö vill vi se över hur skoldagen egentligen ser ut. Det finns forskning som visar att många hoppar över frukosten och istället sover lite längre, det kan också bero på trångboddhet och att det egentligen inte finns någon mat i kylskåpet. Tidigare försök med skolfrukost i Ronneby visade på många positiva saker."
+      },
+      {
+        "category": "Fritid och arbete",
+        "description": "Vi vill se en satsning på meningsfullare fritid för  de äldre men också fortsätta med de arbetsmarknadsprojekt som visat bra resultat. Vi vill också satsa på både musikföreningen, folkteatern och kulturskolan. Deras insatser för kulturen i Ronneby är oskattbara."
+      }
+    ],
+    "motivateVote": "För att politiken måste börja satsa på kärnuppdraget skola, vård och  omsorg. Privatiseringarna är förödande, både på kort men framför allt lång sikt.Även kultur och fritid behöver befrias från kommersialismens skadliga verkningar. ",
+    "name": "Vänsterpartiet Ronneby",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-ronneby"
+  }
+]

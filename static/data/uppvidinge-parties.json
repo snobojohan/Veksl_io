@@ -1,0 +1,1110 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1931",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Innan man börjar bygga måste man kartlägga behovet i de olika orterna. Viktigt för Centern är att det finns en flexibilitet som möter behoven.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagverksamheten är en viktig del för många människor och här måste vi pröva om det kan ske på annat sätt innan beslut tas. Detta är ingen kärnverksamhet. Önskvärt är naturligtvis att tillgodose så många behov som möjligt men allt måste vägas mot annat inom de ekonomiska ramar vi har.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall aldrig konkurrera med privata bolag. Centern värnar företagande och inte minst småföretagande.-",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ha en allsidig och näringsrik kost och behöver därför inte fatta beslut om detta. Ansvariga för kosten sköter detta mycket bättre än vi poitiker.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi skall upprätthålla Sverige som ett av världens bästa välfärdsländer kan vi inte ha det så. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Positivt med medborgare som engagerar sig. Ofta är det  dock i en specifik fråga. Även här måste en viss frågeställning vägas mot annat.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart att våra anställda måste kunna kommunicera med brukarna. Hur kunskaperna säkerställs kan ske på olika sätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan vara ett bra förslag men det är vårt bostadsbolag Uppvidingehus som, i dialog med kommunen, kommer med förslag på boenden utifrån behov och kostnader. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centern värnar det privata företagandet och detta kan vara en möjlighet för enskilda näringsidkare att komma igång. Kvalitén får man dock aldrig ge avkall på.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall  inte vara den som sätter upp stolpar, men skall försöka trycka på att ladd infrastrukturen förbättras inom vår kommun. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppvidinge har genom åren tagit ett stort ansvar för att ta emot flyktingar och skall även i fortsättningen kunna göra detta, men inte mer än i förhållande till vår folkmängd. Människor i nöd skall få hjälp.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Kan gärna få öka om det finns behov och engagerade personer lokalt, som är villiga att driva detta. Dock tveksamt om större koncerner skall göra det i vår kommun.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig för många människor. Om utrymme finns ekonomiskt får det gärna öka lite. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "Idag är vi näst högst i länet olch behöver komma ner en del.\r\nCentern verkar för det.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2679",
+          "2676",
+          "2675"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;A;D;C;C;D;C;D;C;B;3/5;3/5;1/5;[2679,2676,2675]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I huvudsak, nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Alla måste prata med alla. För C är det viktigt med en breda lösningar där det går att styra och utveckla kommunen. Målsättningen är att få igenom så mycket som möjligt av vår politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "\"Man kan inte sälja skinnet förrän björnen är skjuten.\"",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Maten",
+        "description": "Centern vill pröva att tillaga maten där den äts. Matsvinnet måste minska. Ex. vis testa på Björkåkra förskola."
+      },
+      {
+        "category": "Investeringar",
+        "description": "Återhållsamhet i nybyggnationer innan man inventerat befintliga lokaler. Utnyttjande av egna lokaler måste öka för att undvika kostnader för tomma lokaler, som inte ger något mervärde för våra medborgare. Viktigt med en  prioriteringslista vad som är nödvändigt.\r\n\r\n\r\nViktigt att bidra för att stötta det stor ideella engagemanget som gör att vi har ett aktivt föreningsliv med aktiviteter."
+      },
+      {
+        "category": "Alternativa driftsformer",
+        "description": "Centerpartiet är öppna för andra att driftsformer såsom intraprenad eller privata alternativ. Vi har goda exempel såsom Smedsgård och Vårdcentralen Falken."
+      }
+    ],
+    "motivateVote": "Hela Uppvidinge skall leva och utvecklas, varje elev skall mötas utifrån sina Alla elever skall mötas utifrån sina behov.  Äldreboenden i alla kommundelar, stärka näringsliv och föreningsliv.\r\nÖppna för samarbete med andra då detta blir nödvändigt. Stärkt medborgardialog. Ordning och reda i ekonomin. Det ger möjlighet för satsningar framåt.",
+    "name": "Centerpartiet Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-uppvidinge"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1932",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lämpliga äldrebostäder behövs,\r\n men i dagsläget blir hyrorna för höga på nybyggnation då byggnadskostnaderna är för höga.\r\nKD förslår därför att befintliga lokaler används i både Norrhult och Älghult.\r\n      Att det blir lättare att för äldre att flytta in i äldreboende",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Värdighet i vården innefattar också att det finns något att göra då och då.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Näringslivet betalar vår skattefinansierade verksamhet.\r\nVi får inte konkurrera ut näringsliv.\r\nDetta gäller i huvudsak näringar som inte är skattefinansierad.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns ingen närproducerad protinrik ersättning till kött.\r\nDen måste i första hand importeras från andra kontinenter.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trevligt, om man kan lösa det inom befintlig budget.\r\nUtan besparingsmöjligheter krävs en skattehöjning på ett par kronor för att finansiera.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det finns mycket god anledning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att kommunikationen med äldre och medarbetare fungerar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsbyggandet behöver prioriteras så att man kan bo på orten där det finns arbete och därmed också underlätta företagens rekryteringsmöjligheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknaden bör själv lösa sina behov likställt med att \"tanka bensin\" \r\nKommunen ska ansvara för  ngn stolpe men ev. möjliggöra för allmänheten att tanka vid de egna kommunala laddstolparna mot ersättning.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget är mottagandet i stort obefintligt.\r\nVi ska absolut ta emot flyktingar i rimliga nivåer som motsvarar övriga kommunSverige.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Engagerade skolmänniskor kan göra underverk.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Lokala  ideella föreningar ska alltid stöttas i en bygd som Uppvidinge.\r\nDe bygger ett otroligt mervärde för samhället.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "Kristdemokraterna har föreslagit skattesänkning under flera år och arbetar för att människor ska få behålla så mycket som möjligt av sin inkomst.\r\nJust nu avvaktar vi att sänka skatten då vi ser många orosmoln och måste tänka långsiktigt och hållbart  för skola, vård och omsorg.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": "Gymnasieskolans betyg byggs genom att satsa på de yngre åldrarna.\r\n Uppvidinge har gjort det förut och lyckats bli näst bäst i Kronoberg genom långsiktigt lärande.",
+        "value": [
+          "2678",
+          "2676",
+          "2675"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;C!;C!;B!;B;C;D;C;D;B;B;3/5;3/5!;2/5!;[2678,2676,2675]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "En majoritet som förstår att sköta  omsorg, utbildning, personal, byggnader och invånare, så att skatten ger så hög kvalitet som möjligt. \r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De partier som lovar att investera hundratals miljoner utan trovärdig kalkyl.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "ÅTERÖPPNA SOLGÅRDEN NORRHULT för ÄLDREBOENDE",
+        "description": "KD ser behovet och önskemålet av fler äldrevårdsplatser. \r\nDärför föreslår vi att  att återöppna Solgården för äldreboende med.\r\nLokalerna är \"FULLT FUNKTIONELLA\" för det de är byggda för, dvs äldrevård."
+      },
+      {
+        "category": "UNDERVISNINGSLOKALER I LENHOVDA",
+        "description": "Högsta prioritet att påskynda processen för en lösning på bristen av undervisningslokaler på Lenhovdaskolan."
+      },
+      {
+        "category": "Budget 2023",
+        "description": "KD omprioriterar  budgetmedlen från alltför många nyinvesteringar till:\r\n\r\n* riktad satsning på de tidiga åldrarna inom skolan,  Läsa- Skriva-Räkna garantin.\r\n* 2 högstadieskolor behålls.\r\n* Lokalbehov  skolan och förskola i Lenhovda och Norrhult.\r\n*Återöppna Solgården inkl. demensavd.\r\n*att optimera våra resurser genom att planera hållbart, långsiktigt och flexibelt i både lokaler och organisation."
+      }
+    ],
+    "motivateVote": "För KD är HELA UPPVIDINGE vår hjärtefråga. \r\nVI är vana att streta på, söka samarbete  o föreslå lösningar  för att \r\nUPPVIDINGE ska bli en välskött kommun, \r\nsom noga optimerar resurserna och prioriterar våra invånare och dess behov,\r\noch därför vet vikten av ett bra näringsliv. \r\nGod och nära utbildning och omsorg till våra barn och äldre kommer av\r\nskatten som företagande och arbete skapar. \r\n\r\n\r\n\r\n",
+    "name": "Kristdemokraterna Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-uppvidinge"
+  },
+  {
+    "abbreviation": "LPo",
+    "altingetCandidateId": "1933",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att trygghetsboenden ses som ett komplement till våra äldreboenden och inte som en ersättning för dem.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att våra äldre som har byggt upp det samhälle som vi lever i idag får en kvalitativ ålderdom.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är för oss en icke fråga eftersom vi anser att de kommunala bolagen inte konkurrerar med några privata.\r\nDe 2 kommunala bolagen i Uppvidinge (Uppvidingehus och Uppcom) finns och verkar där marknaden för privata aktörer är för svag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att det ska finnas någon köttfri dag i skolan.\r\nEftersom vi verkar för den lilla människans rätt tycker vi att det ska vara individens val om den vill äta kött eller inte.\r\nVi anser därför att det likt vegetariskt alternativ som finns varje dag även ska finnas ett kött alternativ varje dag.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man kan lösa finansieringen och arbetstidschemat  skulle vi inte vara främmande för sådana framtida lösningar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man kan samla ihop namn till en kommunal folkomröstning är det för oss självklart att den ska hållas.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska man kunna bra svenska för att arbeta inom hemtjänst och äldreomsorg.\r\nDet krävs ju på i stort sett alla andra arbetsplatser så varför skulle hemtjänst och äldreomsorg vara ett undantag. \r\nNär det gäller våra äldre är det ju dessutom faktiskt extra viktigt eftersom många i denna gruppen behöver få känna den trygghet det innebär att veta att man faktiskt blir förstådd.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppvidinge kommun behöver fler moderna hyresrätter.\r\nVi ser gärna att Uppvidingehus bygger hyresrätter både med enklare och högre standard.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss får det gärna finnas privata företag som driver äldreboenden och hemtjänst om de drivs seriöst.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser helst att detta lämnas till privata aktörer.\r\nDetta är en kommersiell verksamhet som inte finns i kommunens kärnområden, dessutom kan frågan uppstå om kommunen konkurrerar på en öppen marknad med skattemedel vilket inte är tillåtet enligt lag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har tenderat på senare år att de flyktingar som inte har lyckats etablera sig blir kvar i den kommunen där de hamnade från början eftersom det ofta handlar om kommuner där det finns billiga boenden.\r\nKostnaden för dessa flyktingar hamnar då hos kommunen vilket resulterar i att kostnads och resurs fördelningen för dessa blir skev för riket som helhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill behålla nuvarande skolstruktur.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror att genom att modernisera mycket av kultursektorn och arbeta lånsiktigt ska vi kunna utöka det kulturella utbudet i kommunen med samma mängd ekonomiska medel.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det viktigt att öka inflyttningen i kommunen.\r\nSkattesatsen kan vara en bidragande orsak till att man väljer att inte bosätta sig i kommunen.\r\nVi vill därför verka för att man i Uppvidinge får en skattesats som gör kommunen attraktiv som inflyttningskommun.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2676",
+          "2675",
+          "2674"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;B;A;C;C;C;C;C;B;C;2/5;2/5;1/5;[2676,2675,2674]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns frågor på riksnivå som är icke frågor i vår kommun i nuläget.\r\nVi arbetar därför på kommunalnivå endast med frågor som rör vår kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Eftersom Landsbygdspartiet LPO är just oberoende återfinns vi inte på någon höger / vänster skala.\r\nVi tänker därför samarbeta med det eller de partier som ger oss mest genomslag för vår politik.\r\nVåra Huvudfrågor är Vindkraft, Skolan och Äldreomsorgen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Älghultsskolan",
+        "description": "Vi vill bevara Älghultsskolans högstadie.\r\nVi inom Landsbygdspartiet tror att våra barn är vår framtid.\r\nVi vill därför sätta upp ett mål där vi på långsikt ska sträva mot landets bästa skola."
+      }
+    ],
+    "motivateVote": "Inom Landsbygdspartiet Uppvidinge tror vi på den lillla människans möjligheter att verka oavsett var man bor.\r\nVi vill ha en F-6 skola i varje kommundel och 2 högstadier.\r\nVi vill ha minst ett äldreboende i varje kommundel.\r\nVi vill ha ett stopp på nyetablering av Vindkraftsindustri och vill också markera resterande mark som \"icke lämplig för storskalig vindkraft\" i den kommande översiktsplanen.",
+    "name": "Landsbygdspartiet Oberoende Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "landsbygdspartiet-oberoende-uppvidinge"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1934",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna boendeform finns inte i Uppvidinge och de nya äldre vill ha fler valmöjligheter.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mycket viktigt med sysslsättning för livskvalitet!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver nytänk och flera kan verkställa kommunala beslut. Det privata har ofta en annan fart på verkställighet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "En köttfri dag räcker. Tanken är god, men vi vill gynna svenska bönder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett vänsterförslag! Denna möjlighet finns redan för de som vill öka sin yrkeskompetens. Studera på delad arbetstid.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ställer oftast till mer oreda än hjälp till beslut. Det gäller att lyssna av och träffa invånarna för samtal.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för de äldres trygghet. Alla vill förstå och bli förstådda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett av flera förslag för att få igång inflyttningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppvidinge har redan ett privat äldreboende och det har bästa ekonomin och bästa ryktet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bråttom!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inte många nu och det finns plats för fler.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en friskola F-6. Finns det önskemål om fler, så är jag positiv.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Biblioteken har fått en för stor besparing. Bibliotekariernas arbete är viktig för elever, barn, äldre och allmänhet. Återställ tidigare budget för biblioteken. Vi behöver ett kulturhus.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "Skattesänkning är beslutad, men då behöver vi ökad inflyttning för att det ska fungera.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2680",
+          "2676"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;B;A;A;D!;D;D!;D!;B;2/5;4/5!;1/5!;[2680,2676]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "moderat, center och som stödparti socialdemokrater",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "KD och det endast därför där har en mycket kontroversiell person anslutit sig. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Tomtmark för bostadsbyggande och industri",
+        "description": "Vi är i stort behov av inflyttning.  Vi behöver bli fler invånare. Uppvidinge kommun har många inpendlare. Företagen behöver industrimark och boende till sina anställda."
+      },
+      {
+        "category": "skola utbildning",
+        "description": "Fler elever ska ha godkända betyg och fler elever ska med goda betyg få jobb efter gymnasiet. Vi måste höja kunskapsnivån."
+      },
+      {
+        "category": "Nybyggnation och satsning på eftersatt underhåll på kommunala byggnader.",
+        "description": "Förskolor, skolor behöver upprustas eller helt byggas nya. Vi vill satsa på ytterligare en boendeform för äldre - Trygghetsboende. Svårt att bara bygga om ett f.d. äldreboende. Nytänk och nysatsning."
+      }
+    ],
+    "motivateVote": "moderaterna står för raka, snabba beslut. Ekonomi i balans och det bästa möjliga för invånarna utefter de förutsättningar som finns.",
+    "name": "Moderaterna Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-uppvidinge"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1935",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många äldre är friskare nu än tidigare och Trygghetsboende ger en kombination av frihet och trygghet, med tillgång till hemtjänst vid behov.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stimulans för äldre",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det gäller vård och omsorgsföretag, så får de alla inkomster från skattebetalarna, men kommunen får oftast stå för det största ansvaret ändå",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen åsikt",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är ekonomiskt försvarbart",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en representativ demokrati, med val var 4:e år. Det måste vara mycket speciella frågor, som går över partigränserna, annars inte.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt för de äldre att känna trygghet och möjlighet att kommunicera med personalen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens uppgift och skulle vara orättvist mot övriga boende i kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helst inte, då de inte tar ansvaret för alla äldre, utan kommunen får det största ansvaret. Ett privat bolag kan gå i konkurs och vem tar då ansvar för de äldre?",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är egentligen inte kommunens ansvar, men kommunen skall understödja alla projekt i den här riktningen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det beror på omständigheterna. Vi bör ta emot Ukrainaflyktningar, men om vi tar emot många flyktingar permanent, så riskerar vi att få ytterligare utanförskap.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen tar alltid det största ansvaret ändå. Små privata kollektiv eller andra lokala privata skolor kan diskuteras, men det stora skolkoncernerna som finns idag, gör alltför stora vinster, som borde återföras till eleverna och undervisningen.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Vi värderar kultur och fritidsverksamhet högt, för att få fler innevånare till vår kommun.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "Det är viktigt för alla kommuninnevånare att kommunen har en stabil ekonomi och då behöver vi nuvarande kommunalskatt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;C;B!;C;C;B;C;A;B;B;B;0/5!;3/5!;2/5;_",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Egen majoritet för S, d v s 18 mandat av 35 i KF.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Boende / Samhällsmiljö",
+        "description": "•\tFortsätta byggandet av lägenheter utifrån marknadens och varje samhälles behov\r\n•\tTillskapa attraktiva tomter för både villor och flerfamiljshus \r\n•\tUtveckla möjligheterna med digitala tjänster för våra invånare"
+      }
+    ],
+    "motivateVote": "För att vi är bäst på att styra Uppvidinge kommun. Fokusområden Jobb/Ekonomi, Skola/Barnomrorg, Omsprg, vård och stöd, Boende/Samhällsmiljö, Kultur/Fritid samt Hållbarhet.",
+    "name": "Socialdemokraterna Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-uppvidinge"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1936",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi kan redan idag erbjuda fina boenden i markplan alternativt särskilt boende, där vi ser möjligheter att öka boendekvaliteten från nuvarande situation. Vi har inte märkt av de underlag som finns att behovet av trygghetsboende är stort, om det i framtiden ändras och invånarna hellre vill ha trygghetsboende och färre särskilda boenden så får vi ta ny ställning i frågan.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagverksamheten är en viktig pusselbit för att kunna nå vårt mål om livskvalitet på våra särskilda boenden. Att ha en trevlig miljö och trivsam vardag är viktigt om man bor på ett särskilt boende.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppvidinge kommuns bolag har en bra balans när det kommer till konkurrenssituationer, vi finner ingen anledning att avveckla något bolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är inte intresserade av att begränsa matsedeln för eleverna på Uppvidinges skolor utan bevisbara positiva effekter. Det kan finnas anledning att ha ett vegetariskt alternativ men att införa köttfria dagar ser vi ingen positiv effekt med.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser ingen fördel i att begränsa arbetstiden till 6tim, möjlighet till deltidsarbete finns redan.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är positiva när det kommer till stora förändringar som får effekt över lång tid. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": "God språkförståelse är en förutsättning för att kunna erbjuda god vård och omsorg. Vi arbetar aktivt för att detta skall bli verklighet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att erbjuda ett varierat utbud av boenden är viktigt för att tillgodose behovet hos olika individer i kommunen. Uppvidingehus har en bra mix av nyare och äldre hyresrätter med olika hyror i nuläget.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att privata företag driver särskilt boende i kommunen har hitills fungerat bra.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser inte att kommunen skall ligga före i att investera i infrastruktur som bara gagnar en liten del av invånarna. Däremot så skall kommunen se till att det finns tillgång till laddstolpar för de egna verksamheter som använder elbilar.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Uppvidinge har tagit emot en orimligt stor andel människor från länder med kultur som är mycket olik vår egen och det anser vi vara olyckligt för alla inblandade. Vi skall inte ta emot fler än vi kan hjälpa. Vi har tagit emot fler än så vilket leder till otrygghet, bidragsberoende och segregation.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": "Vi är positiva till företag som vill etablera sig i vår kommun och hjälpa till att göra den bättre. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": "Uppvidinge har en stark och livskraftig kultur som är baserad på företagande och idrott, vi tycker att samverkan mellan kultur och kommun är mycket viktigt. Föreningsverksamheten i kommunen är ett kitt som genom mycket ideellt arbete bidrar till att samhället håller ihop. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": "Uppvidinges skatt måste sänkas. Första steget till det är att få vår skola och omsorg att fungera med god kvalitet. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": "Uppvidinge behöver 5 särskilda boenden där man kan leva med god livskvalitet när man har behov av hjälp på äldre dar.",
+        "value": [
+          "2675"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B!;D!;B;A;B;C;D!;C;C;B;D!;2/5;2/5!;0/5!;[2675]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Stabilt",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Låt lärarna undervisa",
+        "description": "Minimera administration för lärare - analysera vilka arbetsuppgifter som kan överlåtas på annan personal"
+      },
+      {
+        "category": "Värdig och nära omsorg med behövande i fokus",
+        "description": "Ett särskilt boende i varje kommundel. Vi vill att individen får ett större inflytande över sin situation och mer fokus på livskvalitet på våra särskilda boenden. Kvalitativ hemtjänst där vikten ligger på relationen mellan behövande och hemtjänstpersonal."
+      },
+      {
+        "category": "Ekonomisk hushållning",
+        "description": "Kvalitativ kärnverksamhet i första hand och mindre utrymme för verksamhet som inte kommer kommuninnevånarna till gagn. Driftskostnader måste kunna upprätthållas över tid, nyinvestering måste alltid vägas mot kostnader för skötsel och underhåll."
+      }
+    ],
+    "motivateVote": "Det behövs en förändring till långsiktig hållbarhet och prioritet på kärnverksamheterna skola, omsorg och samhällsbyggnad i Uppvidinge. Just nu befinner vi oss i en situation där styrande politiker planerar enorma investeringar i en tid då aldrig varit dyrare att bygga. Vi lägger hellre medel på underhåll och renovering av våra byggnader och prioriterar skola, omsorg och samhällsbyggnad.",
+    "name": "Sverigedemokraterna Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-uppvidinge"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1937",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bf338570654f3ce0c92a09d28d678585",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man har inte kollat om det finns ett intresse för det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4208ec479421bfece61510355da6757d",
+        "questionType": "PROPOSITION",
+        "reasoning": "De äldre har blivit ensamma och isolerade vilket leder till psykisk ohälsa och försämring i hälsotillståndet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "15f9bce7fc55980f260dbc55ebcc7f09",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "263bfcd194566437f8d3a61089d0137e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "736a484fb4d24305f02538f81c4f4e50",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer att vara en attraktionskraft, för att få arbetskraft till äldreomsorgen ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f56f5fa5d7c5e56562a4dcbef0496193",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkdemokratin är viktig. Väljarna är mer viktiga än bara var fjärde år.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "25b2c19374fbfb9d33629a7b5d01e2f2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b0bc5cf8ed09a09f1b12a27ea750cb58",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ha en bostad är en mänsklig rättighet ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "72dbc6ba111cc3716302bbd54b085481",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, pengarna ska gå till de äldre, inte i fickorna på privata företag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c6d9d329f6014535f197076194e45553",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c375aaeebf6463d8da11b67cd91c5f1c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8bb6e0e0c16fa5897f2d49d77a154bca",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "b119a5360d587d10310a766aa9a7dd44",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ab4f4c32a20787d240c5a21a97e9cf11",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "f84f1daff5875368ed6e4e54cb6cac64",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2682",
+          "2677",
+          "2675"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D;B;C;D;D;C;D;A;D;B;0/5;3/5;4/5;[2682,2677,2675]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "80+ garanti",
+        "description": "Alla som fyllt 80 är garanterade en plats på särskilt boende om man så önskar\r\nDärför vill vi öppna upp alla stängda platser i Älghult och Norrhult"
+      },
+      {
+        "category": "Öppna upp dagverksamheten ",
+        "description": "Vi vill öppna upp dagverksamheten för äldre igen. Vi ser att den psykiska ohälsan och den ofrivilliga ensamheten hos äldre ökar. Detta gör också en avlastning på alla de anhörigvårdare som gör en enorm insats."
+      },
+      {
+        "category": "Barns psykiska ohälsa",
+        "description": "Vi vill lägga mer pengar på att ha en fast psykosocial resurs tillgänglig på varje skola. Öka anslagen till barn som är ”hemmasittande” så att de åter kommer igång med sin skolgång."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Uppvidinge",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-uppvidinge"
+  }
+]

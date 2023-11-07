@@ -1,0 +1,1119 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "193",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tvärtom, det är vitaliserande med en mångfald av skolformer som ger valmöjlighet för familjer att välja. Självklart ska det vara kvalitetskrav på varje skola och dessa ska följas upp och åtgärdas om det brister. Likvärdig, men inte lika, skola för alla barn är målet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hela livet får vi göra val. Att den möjligheten ska tas bort då vi får ett behov av hemtjänster är absurt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nära vård är viktigt och vi bedömer att det finns ett underlag för en vårdentral i Åkarp.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Delar av Burlövs Bostäder kan säljas, exempelvis för att omvandlas till bostadsrätter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fel om kommunen konkurrerar med privata aktörer på ojämlika villkor.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konstigt förhållningssätt att vara politisk och dömande í kostval. Menyerna ska vara baserade på Livsmedelsverkets rekommendationer och ge en allsidig kost. Gärna vegetariskt men inte obligatoriskt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetet bör vara utformat så att man orkar och kan arbeta 8 timmar per dag. Lönen ska vara vettig.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stor risk för populistiska och ej ekonomiskt förenliga beslut.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": "På något sätt ska språkkunskaper verifieras. Det kan handla om utveckling genom att lägre kunskaper godtas för att sedan klara större språkkrav.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyresmarknaden ska vara mer marknadsanpassad än idag, vilket skulle ge tillgång till både lägre och högre hyror.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar inte emot många flyktingar idag. Framöver kan alla kommuner behöva ta sin del av ansvaret när flyktingströmmar ökar p g a klimatförändringar eller krig och svält.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": "Vi har bara kommunal grundskola och de som önskar gå i någon friskola får söka sig till andra kommuner. Vi vill erbjuda en privat friskola inom kommunen. Vi har sedan lång tid mycket positiva erfarenheter av flera privata förskolor i kommunen.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": "Vi gör flera bra saker på det kulturella området, exv genom \"Kulturgarantin\" som  ger barn en garanterad tillgång till kulturella upplevelser under uppväxtåren i förskola och skola. Kulturgarantin kan byggas ut.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": "Vi är en kommun med god ekonomi vilket motiverar att inte höja skatten. samtidigt har vi behov av att lyfta kommunal service, skolresultat och kvalitet inom äldreomsorg för att ta några exempel. Med effektiviseringar kan dessa förbättringar genomföras utan skattehöjningar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "928",
+          "923",
+          "924"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;D;C;C;A!;A;A;C;B;A!;3/5!;3/5;2/5;[928,923,924]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill i första hand styra Burlövs kommun tillsammans med Alliansen, dvs M och L.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vill inte styra tillsammans med SD eller V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygg och säker vård i hela kommunen",
+        "description": "Ökad kompetens inom vård och omsorg genom att alla som arbetar med omvårdnad ska ha den utbildning som behövs för god och säker vård. En vårdcentral i Åkarp ger närmare vård och ökad valfrihet i kommunen."
+      },
+      {
+        "category": "Satsning på grundskolan med ökad elevpeng",
+        "description": "Utökade resurser inom skolan så att våra elever lämnar nian med bättre betyg. Valfrihet inom barnomsorg och skola, etablering av en friskola, exv Internationella Engelska Skolan, i kommunen."
+      },
+      {
+        "category": "Lättare för kommuninvånare att leva klimatsmart.",
+        "description": "Det ska vara attraktivt att åka tåg och vi ser fram emot att fyrspåret i Burlöv innebär minskat buller. Vi satsat på förnyelsebar energi. Kommunen ska ge bra information om hur man skaffar solceller och bygga ut infrastruktur med laddstolpar. Rusta upp cykelvägar. Underlätta för kommuninvånarna att minska plastavfallet."
+      }
+    ],
+    "motivateVote": "Centerpartiet vill ta ansvar och forma en levande kommun där du har bra möjligheter att bo, leva, arbeta och studera. Vi vill öka din valfrihet och arbeta för livskvalitet och trygghet i hela kommunen. Vi ska värna om miljön och göra det lättare att leva klimatsmart i vår kommun. Vi vill satsa på att ge alla barn en förskola och grundskola som möter deras behov och rustar dem väl för livet.",
+    "name": "Centerpartiet Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-burlov"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "194",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla föräldrar vill ha så bra skola för sina barn. Det innebär att vi vill värna rätten att välja eller välja bort en skola som inte håller måttet. Vi ser gärna att fler friskolor etableras i Burlöv så att barnen slipper pendla till grannkommunerna. Däremot är vi Liberaler för att införa fler kontroller på kvaliteten hos dessa friskolor och motverka kortsiktiga lycksökare och andra oseriösa parter",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska även äldre kunna välja vem eller vilka som kommer hem till en. Om man inte är nöjd med kommunens hemtjänst så måste man kunna välja någon annan. Vi har precis genomfört LOVen och det kommer inom kort att tillsättas en utredning för att sätta upp regler och prissättning för hur man ska kunna välja hemtjänstutövare och hur dessa ska få betalt utan att detta urholkar kommunens ekonomi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har drivet denna fråga länge och det finns långtgående planer på etablering från en intressent. Det är jätteviktigt att Åkarpsborna har möjlighet att välja en bra vårdcentral lokalt och inte behöva åka till Hjärup eller Lomma, om de inte vill förstås.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Burlövsbostäder är ett välskött bolag och en jättetillgång för kommunen. Delar av bolaget skulle dock med fördel kunna säljas ut till de boende som vill bilda bostadsrättsförening och själva äga och driva sin förening. Burlövs (som ägare till BB) skulle då vid en försäljning genom ett ägaredirektiv kunna få in medel för att kunna finansiera framtida utbyggnad av skolor och äldreboenden, etc",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns bara ett kommunalt bolag i Burlöv och det är Burlövsbostäder. VI är INTE för en total avveckling av detta! Däremot ser vi gärna ökad konkurrens på bostadsmarknaden med större variation på boende och mer attraktiva bostäder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": "NEJ, det viktiga är att vi har näringsrik och god mat som barnen faktiskt äter! Vi har redan vegatariskt alternativ 5 dagar i veckan så att alla barn kan välja detta om de så önskar. Vi Liberaler är emot tvång och kollektiva lösningar. Om våra duktiga kockar i kommunen kan laga mat som barnen äter så presterar de bättre i skolan och då kan de gärna äta vegetariskt fler dagar än 2 men utan tvång!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla vill säkert jobba mindre och få mer/lika mycket betalt. I verkligheten leder detta förslag dock till att kostnaderna stiger med 33%. Varför ska sen bara anställda inom äldreomsorgen få gå ned till 6h arbetstid, varför inte anställda inom förskolan, skolan eller någon annan kommunal sektor? Nej detta är dyr plakatpolitik som inte leder till bättre kvalitet utan bara högre skatt!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. vI har representativ demokrati i Sverige och allmänna val vart 4:e år. Tycker invånarna i kommunen sen att politikerna fattar dåliga beslut så är det fritt att rösta bort dem i nästa val. Lokala folkomröstningar tenderar att leda till populistiska kortsiktiga beslut och enkla svar på komplicerade frågor.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart, detta bör även gälla inom förskolan och skolan! Mångspråkighet är jättepositivt men om du inte kan svenska så får du förr eller senare problem med att sköta dina arbetsuppgifter med bästa möjliga kvalitet. Äldre, behövande och andra måste kunna kommunicera med de som kommer och hjälper en i hemmet på ett språk som de förstår och i Sverige så är detta svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Burlöv har idag ett av landets största bestånd av hyresrätter i förhållande till det totala antalet bostäder. Många av dem har väldigt billig hyra jämfört med grannkommunerna vilket gör att socialt utsatta i ex. Malmö flyttar till oss redan idag. Burlövsbostäder bygger redan idag mycket nytt och det gör även andra privata hyresvärdar. Kommunen ska inte subventionera ännu fler!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på en human flyktingpolitik där Sverige och Burlöv tar sitt ansvar. Burlöv har dock tagit ett mycket större ansvar än de flesta grannkommuner under många år och därför reflekteras detta redan idag när Migrationsverket fördelar nyanlända. Vi kommer alltså ta emot relativt sätt färre flyktingar framöver. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": "8/10 föräldrar idag utnyttjar redan rätten att välja skola. I Burlöv innebär det att väldigt många barn går i en skola i en grannkommun och tvingas pendla till skolan varje dag. Vi tycker att det hade varit bättre att det etablerades friskolor i Burlövs kommun istället så att barnen kan gå eller cykla till skolan. Långtgående samtal förs redan med flera intressenter.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att Kultur- och fritidsbudgeten räknas upp i takt med att vi blir fler invånare i kommunen. På så sätt kan vi satsa mer på kulturskolan, föreningarna och annan kultur.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": "På sikt ser vi gärna att kommunalskatten sänks. Innan dess vill vi se till att fortsätta förböttra äldreomsorgen och resultaten i skolan. När vi har byggt en mer attraktiv kommun så kommer detta att möjliggöras av sig självt.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi har precis (i juni 2022) fattat beslut om att bygga en ny skola i Åkarp. Arbete pågår sedan 2018 med att anlägga fler ängsgräsmattor och rusta upp cykelvägar. Självklart ska kommunen vara anpassad för personer med funktionsnedsättning! Barngrupperna i förskolan ska aldrig vara för stora men här måste man se till lokaler och tid på dagen. \r\nDet viktigaste framöver är dock att höja skolpengen!",
+        "value": [
+          "926",
+          "924",
+          "927"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;D;B!;B;A;A;A;D;A;C;3/5;3/5;1/5;[926,924,927]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte vad vi vet. Liberalerna är ett lyssnande parti där det är högt i tak och där vi fritt och öppet diskuterar svåra frågor och val och sen bestämmer vi oss demokratiskt och är trygga med det. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi önskar fortsätta att styra Burlöv tillsammans med Moderaterna och Centern. (Kd finns inte i Burlöv) Vi respekterar och förhåller oss självfallet till valresultatet och är öppna för att söka stöd för att genomföra vår politik från samtliga partier i kommunfullmäktige vilket vi gjort under den senaste mandatperioden 2018-2022.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Se ovan!",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på skolan - Höj skolpengen",
+        "description": "Skolan i Burlöv har länge varit underfinansierad. Vi har successivt höjt skolpengen under de senaste 3 åren (sedan 2018) men vill fortsätta höja den under nästa mandatperiod. Detta behövs eftersom utbildningsnivån i Burlöv är lägre än snittet i riket, de socioekonomiska utmaningarna större men öven för att alla barn och ungdomar ska nå sin fulla potential och inte hållas tillbaka i sin utveckling."
+      },
+      {
+        "category": "Bygg ett trygghetsboende i Burlöv samt förbättra hemtjänsten genom  LOVen. ",
+        "description": "Trygghetsboende är för äldre som är för friska för äldreboende men som vill ha mer trygghet och social samvaro än vad de kan få i sitt nuvarande hem.\r\n\r\nLagen om valfrihet (LOV) inom hemtjänsten handlar om att den som har behov av detta ska kunna välja fritt mellan kommunala eller privata utövare."
+      },
+      {
+        "category": "Bygg ett ännu mer attraktivt Burlöv, inte bara höga och stora lägenhetshus.",
+        "description": "Satsa på mer varierat boende. Burlöv har gott om små lägenheter, både hyres- och bostadsrätter. Det saknas dock ofta nybyggda alternativ för de som vill ta steget mot ett radhus eller villa. Utöka antalet tomter för nybyggnation av villor och radhus och skapa fler tillhörande grönytor."
+      }
+    ],
+    "motivateVote": "Därför att vi är det enda partiet i Sverige som verkligen satsar på skolan. Därför att vi verkligen tror på individens förmåga att själv fatta beslut rörande sitt liv men att när det går mindre bra i livet så ska det samtidigt finnas ett väl utbyggt socialt skyddsnät att fall tillbaka på. Men framförallt därför att vi får saker och ting gjorda!",
+    "name": "Liberalerna Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-burlov"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "195",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kvaliteten är viktigast och om skolan är bra och större delen av pengarna går till eleverna är friskolor inte sämre än kommunala. Vi tycker inte vinst i skolorna ska gå till bankkonton utomlands. Men om de återinvesteras i verksamheten är det ett bra komplement till de kommunala. Skattepengarna tillhör invånarna i kommunen, och bör behandlas därefter! Alltså med stor varsamhet! ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att de som är vårdtagare ska få påverka sin egen situation genom att själv bestämma, om de nu vill välja! Det viktiga är att hemtjänsten är bra och fungerar! Också här är det viktigt att inte döma ut verksamheten bara för att den är kommunal. Att säga att kommunal verksamhet är dålig och privat som bra eller tvärtom är ska inte vara självklart!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inga problem med detta! Kan fler komma till i vården idag är det bara bra! ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska fortsätta ägas av Burlövsbostäder och kommunen ska äga Burlövsbostäder. Det är viktigt att påverka och ha kontroll över bostadsmarknaden i kommunen! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser inte att det skulle  vara problem med att kommunen driver verksamhet som finns i kärnverksamheten. Bara för att kommunen driver en verksamhet så är den inte automatiskt dålig! Att kommunen även kan erbjuda arbete till kommunens invånare är bra!",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi människor äter rent för mycket kött i vår vardag, och att två dagar i veckan ha en köttfri dag är inte helt fel och är även nyttigt för eleven! Men det är viktigt att den köttfria rätten är ordentligt gjord med bra råvaror. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som arbetar borde ha sex timmars arbetsdag! Men om kommunen kan få bra och motiverad personal i äldreomsorgen finns det mycket att vinna i längden på detta både för arbetsmiljön och för den enskilde vårdtagaren.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar kostar en del, men är ett bra sätt att låta kommunens innevånare demokratiskt kan påverka en viktig fråga! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kunna språket både för den anställde och för vårdtagaren ! \r\nFör att den anställde ska kunna förstå instruktioner mm, och för att vårdtagaren ska känna sig säker.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är viktigt för alla! Hyreslägenheter som är billiga behövs för den som etablerar sig på bostadsmarknaden. Kan inte ungdomar flytta hemifrån, kommer de inte vidare i livet! För dem som inte har råd att köpa en lägenhet för 2 miljoner är detta också viktigt. Även äldre som vill flytta ifrån sitt nuvarande boende till något billigare skulle gilla detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": " Burlöv har visserligen tagit emot en hel del flyktingar redan! Men det är viktigt med solidariteten till andra kommuner. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": "Huvudsaken är att skolan är bra och att större delen av skattemedlen återinvesteras i eleverna och skolan! Åter, här är det skattemedel och elevens framtid som är viktigast",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är viktig! Den påverkar både individen och samhället! Utan kultur mår vi inte bra!",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker inte att skatten ska varken öka eller minska! Bra som det är idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "922",
+          "923",
+          "925"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;C;D;B;D;C;D;C;C;A;2/5;4/5;2/5;[922,923,925]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej! ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill vara en del av styret i Burlöv de närmaste 4 åren! Det är det enda sättet som vi, ett litet parti kan påverka och få våra hjärtefrågor på dagordningen.\r\nVi ser gärna ett samarbete med S och V! Men kan även tänka oss andra konstellationer!",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Ser det mycket svårt att styra med Sd! De har inte samma värderingar som vi",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Slopa den kommunala avgiften för att installera solceller",
+        "description": "Vi vill att avgifter för att installera solceller slopas för att främja övergången till mer hållbara energialternativ"
+      },
+      {
+        "category": "att kommunen inför sk. sociala upphandlingar.",
+        "description": "Kommunen ska införa sk. Sociala upphandlingar . dvs att man kräver att företag som vinner kommunala upphandlingar måste erbjuda praktikplatser eller jobb åt  kommuninnevånare  som lever på försörjningsstöd"
+      },
+      {
+        "category": "Att inrätta en hållbarhetsnämnd",
+        "description": "En hållbarhetsnämnd inrättas med politiskt makt. Som ska arbeta förebygande med kommunens hållbarhetsarbete samt följer upp och kvalitetssäkrar att kommunen verkar för ett hållbart samhällsbyggande."
+      }
+    ],
+    "motivateVote": "Miljöpartiet de Gröna i Burlöv har varit med och verkat i den kommunala politiken sedan 1986. Vi har försökt påverkat och även drivit hjärtefrågor i många mandatperioder! Mp Burlöv behövs verkligen och ännu mer nu en nånsin! Om inte annat för att vara det enda Klimatpartiet.",
+    "name": "Miljöpartiet Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-burlov"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "196",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi önskar valfrihet för eleverna i Burlöv",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi driver frågan om LOV i kommunen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "928",
+          "924",
+          "927"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D;D;C;C;B;A;A;C;A;C;3/5;3/5;1/5;[928,924,927]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "",
+    "name": "Moderaterna Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-burlov"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "197",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Så länge lagen inte reglerar de vinstuttag vi har idag där våra skattepengar rinner iväg till skatteparadis utomlands så arbetar vi för att motverka etableringar av friskolor i kommunen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Denna fråga handlar om ifall hemtjänsten ska privatiseras. Såväl erfarenheter från närliggande kommuner, samt kommunens egen riskanalys, visar att privatiseringar i äldreomsorgen inte leder till en bättre verksamhet. Det är kostsamt och riskerar snarare leda till lägre bemanning och sämre arbetsvillkor. Vi vill stärka den kommunala hemtjänsten och äldreomsorgen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är främst en fråga för Region Skåne. Vi på kommunal nivå ser behov av en vårdcentral även i Åkarp. Bra samverkan mellan kommunen och regionen är viktigt för att våra invånare ska få en bra service.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Burlövsbostäder ska vara en positiv kraft för utvecklingen av Burlöv. Ett starkt kommunalt bostadsbolag är en viktig medspelare på vägen mot en socialt ansvarstagande, trygg och hållbar kommun.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala och privata bolag kompletterar varandra. I kommunala bolag finns det möjlighet att ta ett stort socialt ansvar utan vinstkrav. Inom vård, skola och omsorg anser vi att verksamheterna drivs bäst i offentlig regi.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": "Maten är en viktig del av skoldagen. För många barn är skolmåltiden ofta den enda måltiden på hela dagen. Viktigast för oss är att utbudet ska vara näringsrikt och gott där det finns flera alternativ.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsmiljö och arbetsvillkor inom äldreomsorgen är en stor utmaning för såväl oss i Burlöv som i många kommuner. Mer tid till återhämtning och fritid har ett stort värde för den enskilde. Arbetstidsförkortning är för oss en fråga som är med i diskussionerna kring arbetsvillkor i äldreomsorgen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kan dyka upp frågor där folkomröstning är aktuellt. Medborgardialog är viktigt och ska utvecklas. Folkomröstningar är inte första alternativet då det kräver mycket resurser, men det är inget vi utesluter i stora frågor.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att kommunen ska ta ett större ansvar i att utveckla kompetensen hos våra anställda. Detta gäller såväl språk- som omsorgskunskaper. Det ska ställas krav vid anställning och kommunen ska arbeta aktivt för att utveckla och höja kompetensen hos våra anställda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Burlöv har idag en relativt sett hög andel hyreslägenheter med förhållandevis låg hyra. För oss är det mer prioriterat att rusta upp dessa befintliga fastigheter och bostadsområden och skapa en trivsam och hållbar miljö för alla boende. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi i Burlöv har tagit ett stort ansvar när det gäller mottagandet, vilket också innebär stora utmaningar på såväl kort som lång sikt. Fler kommuner behöver göra sin del och vi kommer inte acceptera att andra kommuner slipper undan sitt ansvar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget har vi inga friskolor i kommunen. Vi vill stärka och utveckla vår befintliga kommunala skolverksamhet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": "En meningsfull fritid är viktigt för att alla ska ha möjlighet att växa som människor och känna delaktighet i samhället. Vi vill erbjuda fler fritidsaktiviteter, utveckla kulturskolan och ge mer stöd till vårt fantastiska föreningsliv. Det behövs mer resurser för detta, vilket vi också arbetar hårt för att tillhandahålla.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": "För personer med låga inkomster kan för höga skatter påverka vardagen negativt. På kommunal nivå kommer vi arbeta hårt för att erbjuda en stark välfärd inom de ramar vi har. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": "Integration och trygghet\r\nArbete och sysselsättning\r\nVälfärd",
+        "value": [
+          "928",
+          "923",
+          "929"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A!;D;D!;A;B;C;B;D!;B;D!;2/5;4/5;2/5;[928,923,929]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I de övergripande frågorna att bekämpa kriminalitet och utanförskap, ta tillbaka den demokratiska kontrollen över välfärden, samt att skapa jobb genom en grön omställning så är vi helt överens. Sen dyker det ibland upp enskilda frågor där vi från ett kommunalt perspektiv kan ha vissa synpunkter.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Socialdemokraterna går till val som eget parti. Vi kommer arbeta hårt för att få igenom så mycket av vår politik som möjligt, oavsett om vi som idag är i opposition eller ingår i en styrande koalition. Vissa partier står vi närmare och andra längre ifrån i olika frågor. När väljarna har sagt sitt så ser vi vilka förutsättningar som finns och vilka samarbeten som är möjliga.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sakfrågorna är viktigast. Väljarna avgör förutsättningarna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Stärk välfärden, nej till privatiseringar",
+        "description": "Att stärka välfärden är en av våra absoluta huvudfrågor. Personal i omsorgsyrken ska ha rätt utbildning och kunskaper för att kunna möta våra kommuninvånare på ett bra sätt. Att även arbetsvillkoren behöver vara hållbara har vi sett tydligt under pandemin. Välfärden måste vara rustad att möta kriser såväl nu som i framtiden. Vi säger därför nej till högerns privatiseringspolitik."
+      },
+      {
+        "category": "Stärkt förskola, skola och meningsfulla fritidsaktiviteter",
+        "description": "För att bekämpa utanförskap behöver vi jobba brett. Förskolan behöver stärkas och ha mindre barngrupper. Skolan ska vara en trygg miljö och behöver mer resurser för att främja studiero. Vi behöver en ny skola i Åkarp. Vuxna ska få rätt stöd för att komma in i arbete. Våra kommuninvånare ska även ha tillgång till meningsfulla fritidsaktiviteter och mötesplatser för alla."
+      },
+      {
+        "category": "Burlöv ska vara tryggt",
+        "description": "Utemiljöer och bostadsområden ska kännas trygga att vistas i och ska utvecklas. Vi säger nej till utförsäljning av vårt kommunala bostadsbolag Burlövs Bostäder. Det förebyggande arbetet mot missbruk och våld är viktigt och behöver stärkas. Det ska tidigt finnas stöd och insatser att få för att bryta negativa spiraler. Alla har rätt att känna sig trygga i sina hem."
+      }
+    ],
+    "motivateVote": "En trygg kommun bygger vi bäst tillsammans. Vi ska vända på varje sten för att motverka kriminalitet, utanförskap och otrygghet. Vi vill se en kommun som håller ihop, där alla har möjlighet att utvecklas och få det stöd som var och en behöver, i livets alla skeden. Fler behöver klara skolan, hitta en meningsfull fritid, och vägar in i arbete. Välfärden och äldreomsorgen behöver rustas upp.",
+    "name": "Socialdemokraterna Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-burlov"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "198",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall motverka etablering av religiösa friskolor",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "928",
+          "923",
+          "929"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D;D;D;D;A;C;B;D;C;D;0/5;2/5;2/5;[928,923,929]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "SD + M",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Medborgarna ska känna trygghet i och utanför hemmet, skolan och på allmänna platser."
+      },
+      {
+        "category": "Skolan",
+        "description": "Skolan måste bil bättre på undervisning och lärarna måste återta rollen som ledare."
+      },
+      {
+        "category": "Äldreomsorg",
+        "description": "I vår kommun får äldreomsorgen mycket kritik. Arbetsmiljö och trivseln måste förbättras"
+      }
+    ],
+    "motivateVote": "Våra huvudfrågor är trygghet, äldreomsorg, skola och kriminalitet.",
+    "name": "Sverigedemokraterna Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-burlov"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "199",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "25be2ef5bfa2903fc3fbbaf5f2d4a1dc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor skapar en segregerad skola. En eventuell etablering kommer skapa höga kostnader för den kommunala verksamheten. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "690c4f906cf0474ddded01576f9dcbf7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hemtjänsten i kommunal regi skall hålla hög kvalité och äldre ska kunna känna sig trygga med det. Erfarenheter från andra kommuner visar på höga kostnader för administration och mindre insyn i hemtjänstverksamheten. Kommunens egna utredning angående detta visar på detsamma.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "82d1ed5951796f7fe12afa587440bb9c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionen är de som beslutar i dessa frågor och Burlöv kan meddela dem om det finns intresse av en vårdcentral i Åkarp.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "ce6b415d9ed5f123540b878cf6e1d6d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunalt ägda bostäder utgör en bra grund för medborgarna i val av bostad, dvs. hyresbostäder behövs som alternativ. Det kommunala bostadsbolaget kan agera samhällsnyttigt istället för att fokusera på vinst. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d526a9b87d3e3078f301b31e6b05ebdb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns det en samhällsnyttig aspekt av bolaget bör det finnas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ede4c5a522640d7ba9475b85871d3127",
+        "questionType": "PROPOSITION",
+        "reasoning": "I grunden är det viktigt att barnen äter men man måste ha miljötänk i alla kommunala verksamheter.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b7e962c44d673f81bd7c21dde185bc88",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att arbeta inom välfärden kan vara slitsamt för kroppen och ett bra sätt att kunna ha ett hållbart arbetsliv är att ha kortare arbetsdagar. De studier som finns om detta visar att personal som arbetar kortare gör samma insats som om de arbetat längre dagar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "68df1f6e1f8230f7a991842b4f0c7fad",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån det finns frågor som är av den karaktär att det behövs folkomröstningar är Vänsterpartiet inte emot dem.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "76a3bbcdd29796356fbbf5cda7c3674d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Man ska kunna det språk som man bedriver hemtjänst eller äldreomsorg på. Behövs det extra utbildning för att kunna ge god omvårdnad är det kommunens ansvar. Det lättaste sättet att lära sig språk bra är i yrkeslivet och ett test får inte användas i syfte att gallra.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "39a7e8d9ef231863c4d158f2bdc05991",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska ha råd att bo till en rimlig kostnad. En förutsättning för att unga ska kunna flytta hemifrån är att det finns bostäder de har råd att bo i. Detta gäller även äldre och personer som får förändrade livsförhållanden. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c2ac8c74d686b7297e5f9edbfe26de14",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska ta emot de flyktingar som vi blir anvisade samt de som själva söker sig hit.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e5133f19825994d493c7a155bbf3f1dd",
+        "questionType": "RANGE",
+        "reasoning": "Då ingen skola bedrivs i privat regi så är vi tillfreds med detta. Den enda förskola som bedrivs av ett förtag får dock gärna byta bolagsform.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "f79fe323369999a4c7f785aa3ab6829a",
+        "questionType": "RANGE",
+        "reasoning": "Det är långa köer till kulturskolan och kulturutbudet i övrigt är nästan obefintligt. Här behövs en ordentlig plan för att komma tillrätta med problemet.\r\nDet saknas även lokaler för föreningsverksamhet.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "51fc02c8068aea39dd5736cb527589df",
+        "questionType": "RANGE",
+        "reasoning": "Inte mer än vad som krävs för att ge en god välfärd till våra innevånare.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d66a57aab7dabbe4fa1d7a32419044f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "923",
+          "929"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;C;D!;A;C;D!;B;C;D!;A;1/5;4/5;2/5;[923,929]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inget väsentligt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett kommunalt styre bestående av Vänsterpartiet, Socialdemokraterna och Miljöpartiet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det finns inga förutsättningar för ett samarbete med Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Friskoleetablering söndrar den kommunala skolan",
+        "description": "Vänsterpartiet vill att kommunen skall arbeta aktivt för att förhindra en etablering av friskolor i kommunen. Anledningen är att de pengar som elever tar med sig behövs bäst i den kommunala skolan som löper stor risk att bli underfinansierad om elever med god studievana lämnar och elever med större behov av stöd stannar."
+      },
+      {
+        "category": "Behåll offentlig verksamhet offentlig",
+        "description": "Vänsterpartiet vill att kommunen utvecklar den befintliga verksamheten exempelvis äldreomsorg, hemtjänst och daglig verksamhet i offentlig regi. De kommunala verksamheterna syftar till att uppfylla lagstadgade krav samt ge en god levnadsstandard för individer som inte kan klara sig själva. Vi anser att det inte är lämpligt att låta privata utförare med vinstintressen bedriva dessa verksamheter."
+      },
+      {
+        "category": "Utemiljö",
+        "description": "Den kommunala utemiljön behöver rustas upp och hålla högre kvalité. Det finns många bra exempel men också allt för många dåliga. Skötseln av gator och parker bör återtas i kommunal regi, det är uppenbart att kvalitén är sämre än vad kommunens innevånare förtjänar. Flertalet insatser behövs för att uppnå godtagbar nivå."
+      }
+    ],
+    "motivateVote": "För att säkra tillgängligheten av bra välfärd i offentlig regi.\r\n",
+    "name": "Vänsterpartiet Burlöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-burlov"
+  }
+]

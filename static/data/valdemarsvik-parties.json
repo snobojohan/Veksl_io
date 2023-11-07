@@ -1,0 +1,1140 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1955",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "Marknadsföring är bra men alla positiva invånare ger också kommunen bra reklam.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att det finns äldreboende kvar i Gusum och Gryt både för de anställda och de som bor där. Trygghetsboenden behöver underlättas att startas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra med valfrihet, viktigt att kvaliteten hålls.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigare att ha en så pass bra arbetsmiljö så att all personal mår bra av att jobba heltid om de vill det, och att tid finns för återhämtning.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett anpassat språktest är bra så att arbetsuppgifterna kan utföras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ingen direkt bostadsbrist i vår kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan komma att behövas eftersom fordonsflottan går mot mera elektrifiering. Men viktigt att främja alla fossilfria bränslen!",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigast är att man är medveten om var maten kommer i från och hur den har producerats. Det är bättre med närproducerade morötter från Östergötland än kravodlade från ett land 200mil bort! Vi ska värna våra lokala matproducenter!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid behov är det bra om alla hjälps åt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra att det finns vissa riktlinjer för att det ska fördelas rättvist över landet. Och inte centreras på vissa orter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar ska ske om behov finns.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": "Det fungerar bra som det är i dag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": "Kultur evenemang är bra att  ha i hela kommunen alla delar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Ingen höjning behövs!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2707",
+          "2704",
+          "2705"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;D!;C;A;C;B;C;A!;C;A;A;2/5;2/5;2/5;[2707,2704,2705]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "På lokal nivå arbetar de flesta partier för kommunens bästa fast med lite olika vägar till målet. C rikspolitik stämmer väl överens hur vi resonerar lokalt.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "C vill ha en politik och ett samarbete förankrat i mitten av politiken för Sveriges bästa.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD och V\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Omsorgsboende i hela kommunen",
+        "description": "Vi har en befolkningskurva inom Valdemarsvik som kräver ett fortsatt ökat behov av olika omsorgsplatser. Detta kräver gott samarbete med regionen för att få ett så optimalt arbetssätt som möjligt. Det är också viktigt att behålla de mindre boendena som vi har såsom Åldersro i Gryt och Gusums Äldreboende. Det är även behövligt att vara behjälplig med att starta ett trygghetsboende snarast!"
+      },
+      {
+        "category": "Boendefrågan: öka antalet lediga attraktiva tomter.",
+        "description": "Vi har en attraktiv kommun som vi kan vara stolta över! Detta medför att det är många som kan tänka sig att bosätta sig här, då är det viktigt att det finns lediga tomter. Vi kan underlätta detta genom att ha färdiga planer och snabba beslutsvägar."
+      },
+      {
+        "category": "En hållbar kommun är av yttersta vikt för framtidens kommuninvånare!",
+        "description": "Att ha en hållbar kommun innebär allt från en attraktiv arbetsgivare, bra skola och omsorg till lokal energiförsörjning och en biologisk mångfald. Vi har många tak inom kommunen som man kan använda till solenergi. Det finns flera gräsytor som enkelt kan omvandlas till blomsterängar som ökar det biologiska mångfalden. Det är viktigt med att enbart rent vatten släpps ut!"
+      }
+    ],
+    "motivateVote": "C är ett grönt liberalt parti som vill skapa lika villkor för alla människor i hela landet, både på landsbygden och i städer. En röst på C är en röst för klimatets bästa; för minskade utsläpp och gröns omställning. Vi är för ökad jämställdhet. Vår politik får fler i jobb. Vi försvarar den liberala demokratin och humanistiska värderingar mot främlingsfientlighet och rasism.",
+    "name": "Centerpartiet Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-valdemarsvik"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1956",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver bli fler invånare för att kunna upprätthålla bra kärnverksamhet och service och vara en kommun med levande landsbygd.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill gärna ha kvar boenden, evt som senior- eller trygghetsboende så att det finns valmöjlighet för de äldre. Alla över 85 år ska ha rätt till anpassat boende om den så önskar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ger valfrihet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att varje människa ska kunna arbeta utifrån sin och sin familjs situation och att det lönar sig att arbeta. Vi vill att kommunen underlättar att arbeta i deltid om man så önskar. Vårdpersonal ska ha bra arbetsmiljö och göra det de är utbildade till. En ny yrkesgrupp ska göra serviceinsatserna som städ och tvätt. Det avlastar under- och sjuksköterskorna.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation mellan brukare/vårdtagare och personal är viktig. Den som inte klarar språktestet ska erbjudas utbildning i svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Hyreslägenheter är ingen kärnverksamhet. Privata hyresvärdar gör det bättre än kommunen. Den enskilda personen kan söka bostadsbidrag vid behov.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är positivt när kommunen underlättar etablering för företag att installera laddstolpar. Om kommunen har egna laddstolpar ska det tas betalt vid laddning.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns dagligen ett vegetariskt alternativ för den som vill.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla nyanlända har rätt att ansöka om plats på friskola och samma regler ska gälla för alla elever.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste vara med och ta ansvar för nyanlända flyktingar utifrån gemensamma kriterier och hänsyn behöver tas till den enskilda kommunens förutsättningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": "I undantagsfall kan en kommunal folkomröstningar vara bra men annars räcker det med demokrati, kommunval mm.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": "Det är bra att det finns både kommunal och friskola inom vår kommun.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att kulturskolan och fritidsaktiviteter inte bara erbjuds i centralorten men även i de andra orter.\r\n",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Vi har hög skattesats men det behövs. Vi vill sänka på sikt men då är det viktigt att få fler skattebetalarna i kommunen.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2701",
+          "2704",
+          "2705"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;C;A!;D!;A;C;A;A;B;B;2/5;3/5!;2/5!;[2701,2704,2705]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser fram emot att ha ett borgerligt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är beredda att förhandla med alla partier för vår sakpolitik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygg skola med kunskap i centrum och valfri barnomsorg",
+        "description": "Alla skolor inom kommunen ska vara kvar. Här står barn och ungdomars intellektuella utveckling i centrum. Alla får vid behov tidig stödinsats för att kunna uppnå bästa möjliga nivå. I skolan finns tillit och förtroende mellan elever, lärare och vårdnadshavare så att eleverna utvecklas till trygga människor. Inom barnomsorgen erbjuds möjligheten att välja mellan förskola och familjedaghem."
+      },
+      {
+        "category": "Trygg och värdig äldreomsorg i hela kommunen",
+        "description": "Vi vill ha en trygg och värdig äldreomsorg i hela kommunen. De mindre boendena i Gryt och Gusum ska finnas kvar, evt i en annan boendeform. Det ska finnas senior- och trygghetsboenden. Alla över 85 år har rätt till anpassat boende om den så önskar. Äldres möjligheter till gemenskap ska stärkas. Vi vill att anställda inom äldreomsorgen har goda arbetsvillkor och möjlighet att utvecklas inom yrket."
+      },
+      {
+        "category": "Främja näringslivet genom bra och snabb service och kommunikation",
+        "description": "Valdemarsvik behöver ett positivt och uppmuntrande näringslivsklimat som lägger grunden för fler jobb. Vi vill att kommunen erbjuder bästa möjliga service och stöd till näringsidkare genom gedigen kommunikation, utveckling av digitala tjänster, snabba svar på frågor och tillstånd samt gemensamt brottsbekämpning. Vi vill att kommunen arbetar mer planmässigt och strategiskt mot en realistisk vision."
+      }
+    ],
+    "motivateVote": "Hela Valdemarsvik med alla kommundelar ska leva. Vi vill ett tryggt och hållbart Valdemarsvik för alla åldrar med valfri barnomsorg, stöd till föräldrar och barn/ungdomar, lärande skolmiljö, tillgång till fritidsaktiviteter och kultur, värdig äldreomsorg med god och nära vård. Anställda ska ha utvecklingsmöjligheter och en bra arbetsmiljö. Ett bra näringslivsklimat och inflyttning ska prioriteras.",
+    "name": "Kristdemokraterna Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-valdemarsvik"
+  },
+  {
+    "abbreviation": "LPo",
+    "altingetCandidateId": "1957",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "En ökad inflyttning är av största vikt för att kommunen ska kunna utvecklas på sikt. Vi måste marknadsföra kommunen för att människor ska hitta hit - syns vi inte så finns vi inte.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreboenden i hela kommunen är viktigt. De äldre ska inte tvingas flytta ifrån sin hembygd när de inte längre orkar att bo kvar hemma.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom den ekonomiska verkligheten i vår kommun ser ut som den gör bör kommunen i första hand fokusera på kärnverksamheten, vård, skola och omsorg. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eftersom den ekonomiska verkligheten i vår kommun ser ut som den gör bör kommunen i första hand fokusera på kärnverksamheten, vård, skola och omsorg. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte tvinga på eleverna olika matvanor. Det står dock var och en fritt att äta kött eller ej. Köttfria alternativ ska erbjudas till de som av olika anledningar inte äter kött, men inte tvingas på alla elever.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Valdemarsviks kommun har idag en av de högsta kommunalskatterna. Detta har en negativ påverkan på kommunens attraktivitet. Skatten behöver därför sänkas rejält för att fler människor ska vilja bosätta sig här.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": "Företagsklimatet i kommunen är idag riktigt dåligt. Det är det privata näringslivet som är motorn i kommunen. För att utveckla Valdemarsvik behöver samarbetet mellan näringslivet och kommunen bli bättre. Kommunen ska jobba med och inte möt näringslivet.",
+        "value": [
+          "2705"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;C;A;C;B;B;A;C;D;C;2/5;1/5;0/5!;[2705]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vår lokala politik utgår i grund och ifrån Landsbygdspartiet Oberoendes partiprogram på riksnivå. Vi har dock tagit fasta och fokuserar lokalt på de frågor som är relevanta för Valdemarsviks kommun.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett nytt styre efter valet som ser till kommunens bästa och som arbetar för att lyfta och utveckla vår kommun.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan tänka oss att samarbeta med alla partier i den frågor där vi tycker lika.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbättring av kommunförvaltningen och sänkt skatt",
+        "description": "Kommunen måste bli mer professionell när det gäller fastighetsaffärer.\r\nVi har inte råd att fastna i moment 22 med ett flertal oavslutade affärer\r\noch dyra återköp, vilket blivit en följetong i Kommunen.\r\n\r\nKommunförvaltningen ska genomsyras av god arbetsmiljö och\r\nmedarbetare som jobbar åt samma håll.\r\n\r\nSka vi kunna konkurrera med våra grannkommuner måste vi ha en skattesats i rimlig nivå."
+      }
+    ],
+    "motivateVote": "Landsbygdspartiet Oberoende är ditt lokala parti som jobbar just för dig.\r\n\r\nVår vision är ett Valdemarsvik där hela kommunen lever och utvecklas, där alla\r\nkommuninvånare har goda möjligheter till ett gott liv och där människor och\r\nföretag kan känna att kommunen arbetar i sann demokrati med\r\npåverkningsmöjligheter i stora frågor.",
+    "name": "Landsbygdspartiet Oberoende Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "landsbygdspartiet-oberoende-valdemarsvik"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1958",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen måste vända trenden med minskad befolkning. Marknadsföring är nödvändig för att få fler att upptäcka kommunen och vad den har att erbjuda. Detta i kombination med att ta fram tomter både för bostäder och näringsliv.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att det bibehålls kommunal service i hela kommunen. Centralisering är inte lösningen på alla problem.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": "Äldreboenden kan absolut drivas av privata företag. Vi har inget principiellt emot att hemtjänsten drivs av privata företag dock möter det vissa problem i en liten men till ytan utsträckt kommun som Valdemarsvik. Svårt att få till en ekonomi i verksamheten om den delas upp för mycket.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sympatiskt förslag men orealistiskt i dagens läge.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, det är bra för alla inblandade parter. Är inte minst en viktig fråga om säkerheten i vården.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns redan billiga hyreslägenheter i kommunen. Det som är en brist är lätt tillgängliga lägenheter ( med hiss eller i markplan). Kommunen ska undvika att gå in och bygga bostäder. Kommunen har inget eget bostadsbolag det är bättre att få andra aktörer att bygga.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, se till att det finns, dock inte drifta dem själv. Finns aktörer som är bättre på detta. Viktigt att det finns både för invånare och besökare. En god tillgång på laddstolpar kommer att vara viktigt för besöksnäringen och handeln.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall inte styra vad eleverna äter. Valfrihet att välja bort kött ska finnas, dock inte obligatoriskt. Satsa på lokalproducerade råvaror.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget större fråga i Valdemarsvik. Dock ska alla skolor vara beredda att\r\nta emot nyanlända.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner ska ta sitt ansvar. Möjlighet att säga nej om kommunen får en\r\nalltför stor andel.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har hittills inte varit någon. Folkomröstningar skall bara genomföras i frågor av stor vikt för utvecklingen av kommunen. Dialogen med medborgarna måste dock förbättras i kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": "Lika som idag. Vi har en lokal friskola. Ser inte att det finns utrymme för fler\r\nmed det elevunderlag som finns idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag. Mycket av kulturen i kommunen är föreningsdriven. Kommunen har tack vare det ett relativt rikt kulturliv.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Lika som idag men med sikte på att sänka. Skatten är en faktor för viljan till inflyttning till kommunen. Kommunen har idag en relativt hög kommunalskatt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2707",
+          "2704",
+          "2705"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;C;A;D;B;D;A;C;C;B;2/5;2/5;2/5;[2707,2704,2705]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Ingen stor avgörande fråga. Vissa frågor finns, t.ex ser vi svårigheter med införande av LOV inom hemtjänsten i en kommun som Valdemarsvik. De lokala förutsättningarna måste få avgöra i vissa frågor. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi siktar på ett borgerligt styre om valresultatet ger möjlighet till det.\r\n\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi kan prata och samarbeta med alla. Dags att lämna sandlådepolitiken.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad inflyttning ",
+        "description": "Marknadsföring av Valdemarsvik som den fantastiska boendekommun den är. Ta vara på trenden med utflyttning från de stora städerna. Framtagande av mark för bostadsbyggande prioriteras."
+      },
+      {
+        "category": "Bevara de mindre äldreboendena i kommunen.",
+        "description": "En renovering av Ringgården och Vammarhöjden med en nivå som ger möjlighet att behålla äldreboendena i Gryt och Gusum."
+      },
+      {
+        "category": "Förbättrade skolresultat. Fler elever ska klara behörighet för gymnasiestudier.",
+        "description": "Fler elever måste klara behörighet för gymnasiestudier.\r\nGoda resultat i skolan kräver: studiero i klassrummet, hög närvaro, minskad administration för lärarna vilket ger mer tid i klassrummet, en bra dialog med föräldrar, en satsning på elevhälsan."
+      }
+    ],
+    "motivateVote": "Vi är ett öppet och lyssnande parti som lyssnar på kommuninvånarna och har förmågan att samarbeta med övriga partier. Vi inser de utmaningar som kommunen står inför. Hellre realistiska och genomförbara förslag än valfläsk och drömmar. Vi prioriterar kommunens grunduppdrag och kärnverksamheter. Vi kommer att jobba för en förbättrad service och dialog för näringslivet i kommunen.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "name": "Moderaterna Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-valdemarsvik"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1960",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2701",
+          "2704",
+          "2703"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D;A;B;C;A;C;A;D;B;A;2/5;3/5;1/5;[2701,2704,2703]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Strandskyddet skulle behöva förändras mer än man vill på nationella planet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill fortsätta styra kommunen ihop med de/det parti som kan tänka sig driva så mycket som möjligt av våra frågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD, Landsbygdspartiet de oberoende, Nyans, Alternativ för sverige",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolresultaten och villkoren för barn och unga!",
+        "description": "Skolresultaten och villkoren för barn och unga!"
+      },
+      {
+        "category": "Äldreomsorgen och människors hälsa med ett Vårdcentrum och Nära vård!",
+        "description": "Äldreomsorgen och människors hälsa med ett Vårdcentrum och Nära vård!"
+      },
+      {
+        "category": "Fortsatt utveckling av Valdemarsvik som en trygg miljö - och boendekommun!",
+        "description": "byggande, miljö, uppsnyggning, arbete/utbildning, kultur och fritid, förenings och näringsliv"
+      }
+    ],
+    "motivateVote": "",
+    "name": "Socialdemokraterna Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-valdemarsvik"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1961",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "För en liten landsbygdskommun är det mycket viktigt att vi vänder trenden med utflyttning. Marknadsföring är en åtgärd bland flera som vi vill satsa på för att få fler att flytta till Valdemarsviks kommun.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "När man blir äldre är det viktigt att man ska kunna ha valfrihet var min vill bo den sista tiden av sitt liv. Ofta har man anhöriga och vänner på orten där man levt under lång tid, då ska man också kunna välja att bo där.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata alternativ som komplement till det kommunala uppdraget ger mer frihet att kunna välja.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med personalbrist och signaler om brukare som inte får den omsorg som de har rätt till så är det inte rätt tillfälle att förkorta arbetstiderna för den personal som nu finns tillgänglig.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att personal, brukare och anhöriga kan kommunicera varandra utan risk för missförstånd på grund av språkförbistringar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valdemarsviks kommun har tidigare visat att rätt kompetens för att driva kommunalt bostadsbolag inte fanns. Situationen idag är på samma vis sådan att det i nuläget inte finns förutsättning för ett kommunalt bostadsbolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att vi kommunen skall skapa förutsättningar för privata bolag att etablera publika laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som vi ser det finns det inget som motiverar två köttfria dagar skoldagar i veckan. Varje elev bör själv få välja om man vill avstå att äta kött.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": "Friskolor skall själva ha rätt att bestämma vilka elever de vill ta emot.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": "Borde vara en självklarhet som inte behöver motiveras.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en representativ demokrati där vi politiker väljs att företräda medborgarna. Ett behov av att hålla kommunala val ser vi som ett misslyckande av den demokratiska ordningen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag endast en privat skola. Vi ställer oss positiva till ytterligare etablering av privata skolalternativ.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": "Prioriteringen bör vara de kärnuppdrag som kommunen har. Utöver det har naturligtvis kulturen sin givna plats bland de åtaganden som kommunen har. Behöver verksamheter med kärnuppdrag ytterligare resurser för att klara sina uppdrag så bör vi skära ner på andra uppdrag som till exempel kultur.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Ska vi bli en attraktiv kommun med inflyttning från de större städerna får inte skatteskillnaderna vara så stora som de är idag. På sikt vill vi få till en rejäl skattesänkning vilket är möjligt när skatteintäkterna ökar.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2708",
+          "2707",
+          "2704"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;B;D!;B;B;A;A;D!;B;3/5;1/5;0/5!;[2708,2707,2704]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverigedemokraterna styr med två eller tre av de andra partierna som idag sitter i opposition.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, Sverigedemokraterna kan samarbeta med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öka antalet invånare i kommunen",
+        "description": "Genom att kommunen detaljplanerar mark skapar vi förutsättningar för attraktiv a tomter. Genom markanvisning kan vi styra så att vi får fler seniorboenden."
+      },
+      {
+        "category": "En kommun för äldre",
+        "description": "Vi vill skapa förutsättningar för moderna bostäder anpassade för seniora invånare med attraktiva lägen. Kommunen skall erbjuda aktiviteter för våra seniorer dels genom egna initiativ men också genom att stötta lokala föreningar. Med en närsjukvård i toppklass menar vi att dessa åtgärder tillsammans skapar förutsättningar för seniorer att trivas och må bra i vår kommun."
+      },
+      {
+        "category": "Utreda framtidens seniorbostäder",
+        "description": "Vi föreslår en utredning att titta på alla lösningar som finns och planeras för seniorbostäder. Allt bör genomlysas såsom fastigheternas geografiska belägenhet, planlösningar, teknik och annat för att kunna erbjuda det allra senaste och de bästa bostadslösningarna för våra seniorer."
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna har flera förslag på hur vi skall vända den negativa befolkningsutvecklingen i Valdemarsviks kommun. På sikt kommer det att innebära att vi har mer skatteintäkter som kan användas för satsningar inom vård, skola och omsorg.",
+    "name": "Sverigedemokraterna Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-valdemarsvik"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1962",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0dff8f55fb7e3c6c44d022e80e9f9213",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valdemarsviks kommun har inte hittat sin roll i ett större sammanhang. Här kan marknadsföring vara en del i att ge människor en anledning till att bosätta sig i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "98a33f496d57b780dc7b96630cfb360e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågeställningen är för enkel. Kommunen måste utveckla sina vårdboenden efter behoven och inte efter lokalt vurmande. \r\nDäremot ser vi att formen Trygghetsboende fortfarande saknas. Denna brist vill vi ändra på och här kan boendeorten vara aktuell att belysa.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b8226aed8d793ab761a0d076f923ac42",
+        "questionType": "PROPOSITION",
+        "reasoning": "Erfarenheten från vår egen kommun, men framförallt grannkommunen Söderköping är i högsta grad avskräckande.\r\nIneffektivt, kostnadsdrivande, försämrade arbetsvillkor samt att marknaden ser landsbygden som totalt ointressant. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "2eb06f2b0e9fbfaad08784a729ebd636",
+        "questionType": "PROPOSITION",
+        "reasoning": "I det längre perspektivet kommer vi att hamna där. För att man ska välja detta yrke och orka stanna kvar under många år, utan förslitningsskador, krävs en högre grad av återhämtning. Man ska även beakta att åldern för pension skjuts framåt för varje generation.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8eca4b8110f40216f0a554237dfa8414",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att sätta hinder för människor med annat språk löser inte arbetskraftsbristen inom äldreomsorgen eller integrationen. All forskning pekar på snabbare språkinlärning i samband med arbete och större sociala samband. Vår kommun har mycket goda erfarenheter av nya medarbetare med annat språk.  ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0bd45abc34fd729a12ff83941997e82a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vore mycket trevligt förslag i vår kommun. Men tyvärr har kommunen inget eget bostadsbolag att kunna driva en sådan fråga.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "93a9f4a4525e3b09af2a3c11cdcd173b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska vara den som ser till att en laddinfrastruktur skapas inom kommunen. Publika och avgiftsfria laddpunkter kan vara aktuellt vid besöksmål. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2c3e1f27268e984744b59e4095022dfa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är fel ingång i ett kostperspektiv. Vi ser hellre att vår kostenhet får arbeta vidare med ekologiska och närproducerade varor. Att lära de unga att välja mat och råvaror efter miljövänliga och lokala förutsättningar ger större miljönytta än två strikta köttfria dagar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "47930a2afb12916657f7772f96dbc777",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är egentligen en icke fråga i vår kommun. Det finns en friskola och om de skulle få möjligheten att ta emot nyanlända så skulle de nog göra detta.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8b64b61f35274d03d8b3226b023ea858",
+        "questionType": "PROPOSITION",
+        "reasoning": "En dialog med berörd kommun ska alltid ske. Valdemarsviks kommun har både goda och mindre goda erfarenheter av Migrationsverkets hantering av flyktingar. Kommunen har en mycket god kapacitet och kunnande av att ta emot flyktingar, och det har gett flera nya medborgare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f74bfc85f7a0586c7f00ec5f8741ef0d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala folkomröstningar ska man vara restriktiv med. Vi har val var fjärde år och det är upp till varje parti att driva sina frågor under valkampanjen. Åren mellan valen ska viljan förverkligas. Folkomröstning bör endast hållas om det är ett exceptionellt läge eller unik fråga för kommunen och av stor vikt.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "692fe9d51e7721917b5594519f958ff4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8acd102398ec822db4e7d9ad6b5b1df5",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen har i realiteten fått minskade anslag de senaste åren. Med ett rikt kulturliv berikas kommunen vilket kan ge positiva effekter som nya verksamheter och inflyttning.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "28c572d80a10cd5fa48111f73333e79d",
+        "questionType": "RANGE",
+        "reasoning": "Med en rödgrön regering kommer förutsättningarna för de små kommunerna förbättras. På längre sikt även en möjlighet till sänkt kommunal skatt.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "19a2dd2c41811e352e07ca64ca9273f9",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2707",
+          "2706",
+          "2704"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;B!;A;D!;A!;C;C;B;C;B;A;2/5;3/5!;2/5!;[2707,2706,2704]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Med så få partier i styret. Sikte på rödgrönt styre.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Kulturhus.",
+        "description": "Folkets hus i Valdemarsvik, som är i kommunal ägo, ska börja omdanas till ett kulturhus för kommunens medborgare. Utställningslokaler för konstnärer och hantverkare ska skapas och teatersalongen med scen ska moderniseras stegvis för att kunna bredda lokalens möjligheter."
+      },
+      {
+        "category": "Rusta Gusums badhus för ungas simundervisning och rehab för äldre.",
+        "description": "Den simundervisning eller rehabträning som nu bedrivs i kommunens badhus går inte att införliva i andra kommuners simhallar. Behoven ökar och badhusets funktion därtill. Vi vill rusta badhuset inför framtiden och därmed säkra medborgarnas behov av simundervisning och rehabträning."
+      },
+      {
+        "category": "Likvärdig skola.",
+        "description": "Oavsett uppväxt i Sverige ska våra barn ges samma möjligheter. Så är det inte nu. Valdemarsviks skolor har alldeles för lite resurser till att möta alla barns behov av stöd. Vi vill ge skolan mer resurser så att kommunens barn får en likvärdig utbildning."
+      }
+    ],
+    "motivateVote": "Vi värnar utbildningen av våra barn i kommunen! Vi ser behovet av mer resurser till skolorna. Kommunen måste påbörja omställningsarbetet inför kommande klimatförändringar. Vi vill omdana Folkets hus till ett kulturhus och rusta badhuset i Gusum. Vi vill införa kostnadsfria arbetsskor inom äldreomsorgen.\r\nSedan krävs det ordning och reda i kommunen - något vi kämpat med för de senaste åren.",
+    "name": "Vänsterpartiet Valdemarsvik",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-valdemarsvik"
+  }
+]

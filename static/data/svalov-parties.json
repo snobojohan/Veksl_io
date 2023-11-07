@@ -1,0 +1,1128 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1655",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror att det är bra att känna sig delaktig och bidra till samhället på den nivå man klarar av. Det får dock inte hämma en positiv utveckling.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja förtätning är mycket viktigt på de platser det fungerar. På alla ställen är det dock inte möjligt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja det är angeläget eftersom vi inte kan se nyttan med koncernen. Det har aldrig presenterats någon fullödig utredning som visar att det skulle vara bra för vår kommun. Den är dyr och oekonomisk och den gör att många viktiga beslut endast tas och är synliga för ett fåtal politiker i styret. Insyn och påverkansmöjlighet för oppositionen är näst intill obefintlig och demokratin blir lidande.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Absolut inte, det behövs en miljömässigt hållbar köttproduktion i Sverige om den svenska livsmedelsförsörjningen ska klara sig och där behöver även det offentliga se till att köpa produkterna. Svenskt kött är nyttigt och gott och något ungdomar behöver och vill ha, det ska inte kommunen förvägra dem.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är nog inte möjligt att genomföra med tanke på den personalbrist som redan råder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om frågor dyker upp som är lämpliga att folkomrösta om så är det. I så fall ska också kommunen lyssna på vad människor vill och hjälpa dem att ta välavvägda beslut.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att kommunens bostadsbolag oftare ska vara med och bygga, gärna till låga kostnader.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är bra med konkurrens. För oss är driftsformen av mindre betydelse, det viktiga är att valmöjligheter för de som nyttjar tjänsten och god kvalitet finns.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas ett välavvägt antal laddstolpar på lämpliga platser.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett litet antal flyktingar så här finns plats till fler.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "Det finns ett par skolor idag men om intresse och behov av fler finns så är vi öppna för det.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Vår kommun lägger minst pengar på kultur av alla kommuner i Skåne. Det finns numera inte ens en kulturchef så vi ser absolut behov av att ge kulturen mer resurser i olika former.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2403",
+          "2402",
+          "2407"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;C;D!;B;A!;B;C;C;C;C;B;2/5;4/5;2/5;[2403,2402,2407]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det kan vara nyansskillnader i vissa frågor men i det stora hela har vi samma uppfattningar.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det beror på valresultatet men vi kan tänka oss att samarbeta med alla partier i kommunfullmäktige förutom Sverigedemokraterna. Detta beror på att de står alltför långt ifrån våra egna värderingar.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygd",
+        "description": "Vi vill att man både ska kunna bo och verka inom kommunen, därför behövs ett stort fokus på näringslivs- och företagarfrågor. Det finns behov av en landsbygdsutvecklare och alla invånare ska ha tillgång till bredband. Upphandling av lokala livsmedel prioriteras inom gällande lagstiftning. Näringslivsfrågorna måste upp på agendan och servicen till företagen måste förbättras rejält."
+      },
+      {
+        "category": "Vård och Omsorg",
+        "description": "Trygghetsboende ska finnas i alla tätorter och i hemtjänsten ska vårdtagarna möta färre anställda. Korttids- och avlastningsboende ska utvecklas och förbättras. Vid behovsprövning av insatser ska det personliga behovet/önskemålet ges ökad tyngd. Vårdtagarnas bästa ska vara vägledande i allt arbete. Som anställd ska man må bra och vara stolt över att arbeta i kommunen."
+      },
+      {
+        "category": "Bostäder",
+        "description": "Det ska finnas möjlighet att bo, verka och driva företag i hela kommunen. Alla kommundelar kan byggas ut, även våra småbyar och på rena landsbygden. För att spara på åkermarken är det angeläget att förtäta och bygga på höjden i lämpliga lägen. Att skapa och bibehålla bykänsla och därmed ge möjlighet för ett bra serviceutbud i de större orterna är angeläget."
+      }
+    ],
+    "motivateVote": "Vi är landsbygdens, näringslivets och föreningslivets starkaste part i kommunen.     Vi är jordnära och gör inget politiskt arbete för egen vinning, vi vill bara göra vår kommun bättre för alla invånare och använda skattepengarna på det allra mest effektiva sättet. Vi värnar om det demokratiska samtalet och beslutsgången och vill att beslut tas så nära den det berör som möjligt. ",
+    "name": "Centerpartiet Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-svalov"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1657",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Känns bättre för individen att efter förmåga själv bidraga.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Skåne är det särskilt viktigt att spara på den goda jordbruksmarken. Samtidigt måste det finnas plats för gröna områden inom tätorterna",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Koncernbildningen gynnar invånarna genom att skattepengarna stannar inom kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommnunala bolag ska bara syssla med verksamhet som direkt berör invånarna och inget annat.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte enbart positivt. Ska inte vara obligatoriskt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "De som arbetar inom äldreomsorgen har utan tvekan ett slitsamt jobb. Men en fråga för arbetsmarknadens parter. På minussidan: Med kortare arbetsdag måste de äldre möta ännu mer personal!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Meningsskiljaktligheter kan i de flesta fall lösas med bättre information om alternativen, om bara viljan finns att ta till sig argument.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör sträva efter att byggkostnaderna för hyreslägenheter inte blir för höga. Dessutom finns ju möjligheter med bostadsbidrag för dem som så behöver.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om det är kända välrenommerade företag är det OK. Konkurrens sporrar även kommunen att själv göra ett bra jobb",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Krävs att kommunen engagerar sig för att få en snabb utbyggnad.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en bra balans och klarar av det antal vi redan tar emot.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "Har redan Montessori som gör en bra insats. Fler behövs ej.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Vi är en liten kommun och har inte möjlighet att driva all slags kulturverksamhet utan tar även del av utbudet i omgivande kommunen. En viss ökning av kulturskolans anslag är dock önskvärt.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": "En skattehöjning gör det mindre attraktivt att bo i kommunen.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2404",
+          "2405",
+          "2402"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C!;A!;B;B;C;A;B;C!;D!;A!;2/5!;3/5!;2/5!;[2404,2405,2402]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser gärna fortsätt samarbete med SD och M.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler personer ska komma i egen försörjning",
+        "description": "Framför allt känns det bättre för individen att ha en egen inkomst än att gå på försörjningsstöd."
+      },
+      {
+        "category": "Den som får försörjningsstöd ska efter sin förmåga utföra någon motprestation.",
+        "description": "Känns bättre för bidragstagaren om denne själv kunnat bidra med någon prestation, som kanske längre fram kan underlätta för att få jobb."
+      },
+      {
+        "category": "Öppna ungdomsmottagning på Familjecentralen Guldkornet.",
+        "description": "Detta skulle lösa många problem för våra ungdomar."
+      }
+    ],
+    "motivateVote": "Vi tar tag i vardagsfrågorna för medelsvensson.",
+    "name": "Kristdemokraterna Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-svalov"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1658",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att ställa krav är att bry sig. Att ställa krav baserat på individuell förmåga är att verkligen bry sig. Rätt krav på motprestation är ett viktigt steg framåt för att hjälpa människor ur utanförskap och in i ett sammanhang och få känna sig behövda.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "En svår fråga som måste beaktas från situation till situation. Förtätning är bra för att det sparar på viktig mark som behövs till annat. tex produktion av livsmedel. Men förtätning tar också bort livsbetingelserna mellan bostadsområden. Parker, strövområden mm. Detta måste hanteras med stor varsamhet.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viss verksamhet i en kommun passar utmärkt i bolag. Främst stödverksamheter. Tex gata och parkskötsel, måltidsproduktion, uthyrning av bostäder mm. Genom en koncernbildning kan man mer effektivt använda skattebetalarnas pengar. Kommunal kärnverksamhet inom skola, vård och omsorg bör inte bolagiseras.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner skall inte konkurrera med näringslivet. Kommunala bolag skall bara syssla med verksamhet som helt faller inom kommunens ansvarsområden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det individuella fria valet skall inte styras av kommuner. Att ha köttfria måltider ska vara grundat på varje persons egen vilja. Även för barn och gamla. Däremot kan information och utbildning leda till att man själv gör dessa val",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "En sådan lösning riskerar att ta fokus från den absolut viktigaste frågan att skapa en arbetsmiljö inom äldreomsorgen som är så bra att man klarar en 8 timmars arbetsdag. För att klara välfärden behöver vi jobba mer. Inte mindre. En sådan lösning skulle också ge effekten att våra äldre träffar ännu fler medarbetare inom vården än de gör idag. Vi måste minska antalet olika personer de äldre träffar",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala folkomröstningar ska genomföras i frågor där det finns tydliga alternativ och som har stor principiell betydelse. Att bara ha antalet folkomröstningar som ledstjärna tar också ansvar från politikerna. Blir det fel är det svårt att ställa politikerna till svars för detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla hyreslägenheter skall finansieras av bostadsbolaget, med hjälp av de intäkter bolaget har. Bla hyror. Kommunala skattemedel skall inte finansiera bostäder. De skall gå till skola, vård och omsorg. De kommunala bostadsbolagen skall däremot bygga lägenheter folk har råd att bo i.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka valfriheten är detta ett mycket bra förslag. Men även inom vården så är fokus på kvalitet viktigt. Privata företag är till för att bidra till god omsorg om våra äldre. Inte för att generera övervinster till sina ägare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturen för laddning av bilar måste byggas ut för att möta behoven. Men ansvaret hos kommunen handlar om att tillhandahålla plats och att erbjuda möjligheter. Ansvaret handlar inte om att äga och driva denna infrastruktur. Det finns företag som är specialiserade på detta och kan göra det mer kostnadseffektivt än en kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner måste solidariskt ta utmaningen att hjälpa till med flyktingar och deras behov. Det är situationen som avgör. Antalet flyktingar som kommer till Sverige är en nationell utmaning. Inte en kommunal.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "I sak är inte driftsformen intressant. Det är kvalitén på skolan som är intressant. Skolan är till för barnen. Inte för att generera vinster. Men i en kommun som i princip saknar andra alternativ än det kommunala alternativet så finns det ingen valfrihet. Då kan en ökning av andra alternativ vara positivt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Summan pengar saknar intresse. Det är vad man får för pengarna som är intressant. Kommunen skall vara en del av det utbud av kultur som finns. Är det brist på utbud kanske kommunen får vara en starkare motor. Finns ett bra utbud är det inget självändamål att lägga mer skattepengar på detta.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": "I dag har vi en rimlig skattenivå. Kan kommunen bli effektivare och få pengar över, så får man se till vilka behov som finns. Ett av flera behov kan vara att sänka skatten. Men inte till priset av lägre kvalité i välfärden. En bra skola är viktigare än sänkt skatt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi måste skapa en skola som ser till barnens behov. Vissa barn klarar sin skola utmärkt med dagens klasstorlekar. Men vissa barn behöver radikalt mindre klasser och särskilt duktiga pedagoger. Vi måste genom att införa särskilda mindre klasser säkerställa att även barn med större utmaningar kan klara sin skola.",
+        "value": [
+          "2406"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;A;D;B;B;B;A;D;C;B;3/5;2/5;2/5;[2406]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skola – Eleverna skall växa",
+        "description": "Skolan skall förstatligas. Inte styras av kommunpolitiker. Resursklass med speciallärare skall utvecklas. Alla elever skall kunna bli så duktiga de bara kan. Förskolans barngrupper skall följa nationella riktlinjer. Andelen elever som erhåller examen från gymnasieskolan skall höjas och Svalövs gymnasium skall utveckla sina högskoleförberedande program. Duktiga elever skall belönas med stipendier."
+      },
+      {
+        "category": "Arbetsmarknad – Individen ska växa",
+        "description": "Det skall löna sig att arbeta i stället för att få bidrag. Antalet jobb som inte kräver utbildning skall öka. Krav på motprestation för att få socialbidrag. Så många som möjligt skall ha egen försörjning. Bidragsfusk skall stoppas för att skapa resurser till de som verkligen behöver det. Komvux skall byggas ut så att fler kan få plats. De yrkesinriktad gymnasieutbildning skall leda till arbete."
+      },
+      {
+        "category": "Tillväxt – Alla orter i kommunen ska växa",
+        "description": "Alla orter i kommunen måste växa för att värna samhällsservicen som finns idag. Antalet företag måste öka. Mark för både byggande och företagsetableringar måste öka. I stationsorter med bra möjlighet till pendling måste fler detaljplaner beslutas. Röstångabadet skall renoveras och utvecklas. Samhällsbyggnad och näringsliv hänger ihop. Därför skall en Samhällsbyggnads- och Näringslivsnämnd skapas."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-svalov"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1660",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Sverige ska man försörja sig själv. Den svenska välfärdsmodellen bygger på att de allra flesta arbetar.\r\nDen stigande arbetslösheten är Sveriges största ekonomiska problem. Framför allt för den enskilde som förlorar sitt arbete och mister möjligheterna till egen försörjning. Men också för samhället som helhet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att Svalövs kommun ska kunna växa måste vi bygga och vi måste möjliggöra både byggnation för bostäder och näringsliv. Samtidigt har vi ett stort värde i vår jordbruksmark som vi måste värna. Det innebär att vi i främsta hand ska förtäta våra samhällen genom att bygga på oanvänd mark och/ eller bygga flera våningar, i de fall där så är lämpligt. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Koncernen innebär att vi effektivt kan organisera våra kommunala bolag, samtidigt som vi värnar varje skattekrona.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens bolag ska ej verka i direkt konkurrens med det privata näringslivet utan ska enbart vara ett verktyg i de fall marknaden inte tillhandahåller tjänsterna inom kommunen på ett kostnadseffektivt sätt. Bolagens existensberättigande måste kontinuerligt utvärderas utifrån rådande situation.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna är emot tvång och anser att det är upp till individen att själv få välja sina matpreferenser. Utifrån ett hållbarhetsperspektiv anser vi att det är viktigare att maten är närproducerad.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är övertygade om att vårdyrkets status måste uppgraderas genom att exempelvis renodla arbetsuppgifterna till omvårdnad och att kunna erbjuda attraktiva karriärvägar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser positivt på ett ökat inslag av medborgardialog. Folkomröstningar är dock väldigt dyra att genomföra och det är inte alla beslut som lämpar sig för detta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen kan erbjuda kostnadseffektiva boendeformer när livssituationen så kräver det. Dock ser vi helst att det privata näringslivet uppmuntras och att kommunen enbart ska stötta i de fall så är absolut nödvändigt. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi uppmuntrar privata huvudmän då det ökar valfriheten för våra brukare och anhöriga. Självklart är uppföljning och en kvalitetssäkran av yttersta vikt, oavsett vem som ansvarar för verksamheten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaternas politik för Sveriges infrastruktur innehåller stora satsningar på att ställa om transportsektorn i hållbar riktning. Sverige ska ta täten för den snabbaste utbyggnaden av laddinfrastruktur i världen. Familjer och företag ska känna trygghet när de köper en eldriven bil att den ska gå att ladda i hela landet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att människor behöver fly från sina hem är en stor tragedi vilket skapar ett stort lidande.\r\nSvalövs kommun är en liten kommun och vi har tagit ett stort ansvar både under flyktingkrisen 2015 och nu i samband med kriget i Ukraina.\r\nFör att kunna hjälpa de som har kommit hit på bästa sätt och ta vårt gemensamma ansvar för integrationen måste vi ta emot färre flyktingar en tid. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser gärna att fler privata huvudmän etablerar sig i Svalövs kommun. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna uppmuntrar föreningslivet. Satsningarna på Allaktivitetshuset är ett led i detta.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna vill alltid att skatten ska vara så låg som möjligt då vi värnar våra skattebetalare.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2409",
+          "2404",
+          "2405"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;A!;D!;A;A;B;B;D!;D!;D!;3/5!;2/5;0/5!;[2409,2404,2405]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna i Svalöv tycker att samarbetet vi har haft under mandatperioden, Framgång för Svalöv, har fungerat väl. Men Moderaterna är ett samlingsparti och vi samarbetar och samtalar gärna med alla partier för att på bästa sätt kunna driva moderat politik.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Moderaterna kommer att prata med alla partier för att enas kbästa styret för Sva",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Läxhjälp för alla",
+        "description": "Det är inte alla familjer som har möjlighet eller resurser att kunna hjälpa sina barn med läxorna i hemmet.\r\nDärför ser vi att skolorna ska erbjuda läxhjälp för alla barn i samband med fritidsverksamheten."
+      },
+      {
+        "category": "Låt vårdpersonalen fokusera på omvårdnad",
+        "description": "Idag hjälper vårdpersonal till med sysslor som inte är en del av själva omvårdnaden av brukarna. Moderaterna tycker att det vore bättre att renodla ansvaret så att vårdpersonalen kan fokusera på omvårdnad då vi är övertygade om att det skulle ge en bättre tydlighet för både brukare och vårdgivare."
+      },
+      {
+        "category": "Trygga kompetensförsörjningen och minska regelkrångel för Svalövs företag",
+        "description": "Företagen är motorn i Svalövs ekonomi. För att man ska kunna driva och utveckla sin verksamhet måste rätt kompetens finnas, vid rätt tillfälle och samarbetet mellan näringsliv och kommunen måste vara så smidigt som möjligt. Det innebär att vi måste säkerställa ett tätare samarbete mellan Svalövs gymnasium och näringsliv exempelvis genom lärlingsplatser och en god dialog kring framtida behov."
+      }
+    ],
+    "motivateVote": "Moderaterna står för en politik som får ordning på Sverige.\r\nVi har konkreta lösningar på de största samhällsproblemen och reformer för framtiden. Vi är partiet för ordning och reda, som ser att staten inte ska vara överallt, men vara stark där den behövs som mest.",
+    "name": "Moderaterna Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-svalov"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1661",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som kan ska arbeta och därmed bidra till sin egen självförsörjning. Personer som är i behov av och inte kan lösa sin situation på annat sätt ska självklart få försörjningsstöd. Viktigt med tidiga insatser och samverkan mellan myndigheter för personer ska komma så snabbt som möjligt till egen försörjning. Därför är det av stor vikt att individen är delaktig och följer planerad planering. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktig fråga för oss, problemet är att vi inte har markreserver för att klara av detta. Vi kommer därför inventera i hela kommunen för att hitta och införskaffa strategisk byggbar mark för blandad bebyggelse. En förtätning är viktig med tanke på att kommunen efter Söderåsbanans igångsättande har tågstation i 5 av våra 6 orter. Närheten till närliggande storstäder har därmed kommit oss närmare. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill avskaffa koncernbildningen som nuvarande styre skapat. Vi skall inte äventyra kommunala skattemedel genom skatteplanering. Kommunala bolag kommer vi att ha kvar, framförallt utifrån kommuninvånarnas bästa. Bland annat allmännyttan och lokalförsörjning i kommunen. En översyn kommer att göras utifrån nuvarande bolagsbildningar. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Konkret svar Ja. Vidare skall det inte skapas kommunala bolag med skattefinansierade medel, så som vård och omsorg, gata park och skola. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ur ett hållbarhets perspektiv är det av stor vikt att se över olika aspekter för att klara av detta, och då är detta en del i att skapa ett hållbart Sverige och Svalöv. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att  Införa fler händer och fötter i vården som säkerställer en kvalitets höjning och säkrar en hög kvalitet och värdig ålderdom för våra äldre som var med och skapade det generella välfärdssamhället.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ok när ett folkinitativ skapas. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom eget bolag i allmännyttan kan vi gemensamt med boende och kommunen skapa förutsättning för modesta hyror över tid.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vara i framkant i den utveckling som sker inom fordonsindustrin, är det extra viktigt att ladd infrastrukturen byggs ut i en takt som gör att man skall känna en trygghet att investera i ett miljö positivt alternativ genom att köpa en ladd hybrid eller elbil. Kommunen skall därför alltid ha örat till marken för att känna av och möta behovet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall ta emot vad vi klarar. I",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "De som finns har en etablerad verksamhet och styrs bra i nära samarbete med kommunen. Tydliga regleringar emot vinster i välfärden skall skapas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen har fått stå till sidan under en period. Biblioteksverksamhet skall tryggas i alla våra 6 orter. En avgiftsfri kulturskola som skall vara till gänglig för alla i kommunen. ",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": "Vi ligger just nu på en stabil nivå utifrån de sotandes vi har. Men skulle det visa sig att ekonomin går bättre så är inte miljonvinster ett självändamål, då kan vi tänka oss skattesänkningar.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": "Alla elever skall bli sedda, varje elevs individuella behov skall styra den pedagogiska verksamheten. Varje elev som inte klara behörighet till gymnasiet är ett kommunalt misslyckande. Anpassning skall göras för att undanröja misslyckanden. Genom ökat stöd till föreningslivet vill vi bidra till ökade mötesplatser för juniorer och seniorer. Avgiftsfri kulturskola är ett jämställdhets krav från oss.",
+        "value": [
+          "2406",
+          "2408",
+          "2407"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;D!;D!;D!;C!;A!;C!;D!;A!;D!;A!;2/5!;4/5!;2/5!;[2406,2408,2407]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Skattepolitiken där kommunala koncerner tillåts skatteplanera med skattemedel. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi har som ambition att få egen majoritet, samtidigt är vi realister och förstår att detta nog inte kan uppnås i detta valet. Vi är därför beredda att samtala med andra partier i kommunfullmäktige för att skapa en stabil majoritet. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "De partier som inte står för en humanistisk värdegrund. Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jämlik skola, fritid och kultur",
+        "description": "Stressen och den psykiska ohälsan hos eleverna i skolan är fortsatt hög. En av de grupper som är särskilt utsatta är elever med NPF och autism. Ett stort ansvar för att komma tillrätta med det ligger på elevhälsan. Det går att minska barngrupperna på olika sätt. Möjligheten att delta i avgiftsfri kulturskola skall byggas ut i alla orter. Utöka stöd till föreningslivet ur ett folkhälsoperspektiv."
+      },
+      {
+        "category": "Arbete åt alla bland annat genom att ge förutsättningar till näringslivet",
+        "description": "Att ha ett arbete stärker människors känsla av kontroll över det egna livet och deras delaktighet i samhället. Arbete är en bas för människors identitet och sociala liv. Människor som arbetar har i regel också bättre hälsa än de som saknar ett arbete eller en sysselsättning. I Svalövs kommun skall vi erbjuda goda möjligheter till boende, arbete, företagsetableringar, utveckling och välbefinnande."
+      },
+      {
+        "category": "Byggnation för att möta framtiden.",
+        "description": "Ett viktigt verktyg i kommunens arbete med bostadsförsörjning är det kommunala markinnehavet. Genom markförvärv och en strategisk långsiktig plan för nyttjande, förvaltning och utveckling av det kommunala markinnehavet har kommunen möjlighet att säkerställa att det finns tillgång till mark för blandad bebyggelse bostäder, verksamheter, allmänna ändamål, naturvård och friluftsliv."
+      }
+    ],
+    "motivateVote": "Vi står för långsiktig ekonomisk politik som bygger på att värna om de skattepengar vi får in. Skattemedel skall användas till välfärd, inte spekulation. Insyn och transparens är vägledande aspekter i all kommunal och politisk verksamhet. Alla människors lika värde i ett jämlikt och jämställdhets perspektiv. Socialdemokraterna i Svalöv skall trygga välfärd åt alla oavsett storlek på plånbok. ",
+    "name": "Socialdemokraterna Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-svalov"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1662",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2405",
+          "2403"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;A!;C;A;B;C;B;B;C;D;2/5;2/5;2/5;[2405,2403]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i dagsläget.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Främst hoppas vi på en egen Sverigedemokratisk majoritet. Om det nu inte skulle bli verklighet och väljarna vill, så ser vi en stor potential i ett fortsatt arbete tillsammans med de partier som var villiga att styra kommunen tillsammans med oss Sverigedemokrater under den gångna mandatperioden.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet och Vänstern",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Medarbetarinvolvering",
+        "description": "VI vill införa riktig medarbetarinvolvering där kommunens personal är delaktiga i det som rör deras  arbetsplatser, arbetsuppgifter och arbetsmiljö. Det kommer att göra oss attraktivare som arbetsgivare. Ge personal som trivs, en bättre service och fler nöjda kommuninvånare."
+      },
+      {
+        "category": "Trygghet i fokus",
+        "description": "Trygghetsskapande insatser i offentliga miljöer för att tryggheten fortsatt ska vara hög i våra orter och för att hantera kända otrygga miljöer och minska skadegörelse."
+      },
+      {
+        "category": "I Svalövs kommun talar personalen svenska",
+        "description": "All kommunanställd personal skall kunna kommunicera obehindrat på svenska, såväl i tal som skrift."
+      }
+    ],
+    "motivateVote": "Vi vill bygga det kommunpolitiska arbetet på rimlig lokal förankring ute i kommunens samhällen. Det tror vi är värdefullt för vår kommun. Kommunens invånare, företag och personal ska kunna känna sig trygga med de politiskt fattade besluten och att vi försöker skapa mer för fler. Vi lovar inte mer än vad vi kan hålla. Med detta skapar vi tillsammans en starkare och mer attraktiv kommun.",
+    "name": "Sverigedemokraterna Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-svalov"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1663",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "7d76ee400bfd3dfde88b5e0a03f848d1",
+        "questionType": "PROPOSITION",
+        "reasoning": "Försörjningsstöd ska vara en sista utväg och en tillfällig lösning. Resurser bör satsas för att hjälpa dessa människor så att de en dag kan söka jobb och försörja sig själva. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2903804c8b534bd80fd07adb9c78c718",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bör värna odlingsmarken och vår egen förmåga till livsmedelsförsörjning. Endast i undantagsfall får jordbruksmark bli tomtmark. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9a1d10f6ee1bd1ea3f6b3939cb22db57",
+        "questionType": "PROPOSITION",
+        "reasoning": "Insynen för medborgarna minskar då det blir bolagiserat. \r\nEndast ett fåtal personer kommer sitta i varje bolagsstyrelse. Hur väljarna har röstat i valet får helt enkelt mindre inflytande. En bolagisering behöver inte gynna medborgarna. Exempel på det är Svalövsbostäder som gått fram med rekordhöga hyreshöjningar. Det ekonomiska perspektivet blir det enda viktiga och medborgarna glöms lätt bort.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ce4bd84c0c2812f6fe1ba34b617a393f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor som står långt ifrån arbetsmarknaden bör kommunen stödja på olika sätt så de också får en sysselsättning. Utomhusbadet i Röstånga bör fortsätta vara kommunalt. Om ingen privat näringsidkare vill starta t ex ett café i en by, är det bättre att ett byalag eller liknande gör det, än att kommunen gör det.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4b859028a025c0e20b29943afdd73759",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kött kan absolut vara gott, näringsrikt och en viktig del av kulturarvet. Däremot kan det vara värt att ge avkall på kött ett par dagar i veckan för att en annan dag kunna avnjuta ett lokalproducerat naturbeteskött. Vi måste tänka på klimatet! Att äta vegetariskt måste bli lika normaliserat som köttätande.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b89459601816733002a5505acf824514",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många inom äldreomsorgen arbetar deltid idag. Detta eftersom deras viktiga arbete kan vara tungt både fysiskt och psykiskt. Vi behöver verkligen satsa på personalen här. Det är ödesfråga för hur vi ska lyckas rekrytera i framtiden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "303d4ff7baf60aa214691a7588d6e984",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar tar både tid och energi av medborgarna och de som driver frågan. I särskilt stora frågor som påverkar framtiden för många kan det ibland dock behövas en folkomröstning. Det är då viktigt att de styrande väntar in resultatet i folkomröstningen innan de fattar beslut i frågan (annars finns det ingen mening att hålla folkomröstningar).",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "8cf2ba7b4160699904a24dd0d6ce9c3a",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag plockar Svalövsbostäder ut vinst ur bolaget. Vinst som egentligen är en extra skatt för hyresgästerna. Vill istället att kommunen investerar i nya hyresbostäder! Alla har inte en pappa som köper en bostadsrätt när man vill flytta hemifrån. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "d30ea62f4b89a3152eb5a18eeef39495",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata företag som har vinstsyfte har inget i vården att göra. Kommuninvånarnas skattepengar ska ge god omvårdnad till gamla och sjuka och inte hamna i skatteparadis i Bahamas. Varje skattekrona ska användas rätt! Icke-vinstdrivande aktörer kan under vissa omständigheter tillåtas. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f1d07629744dfe0a5582cb54c2b8b0fb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha ett särskilt stöd för att sätta laddstolpar vid flerbostadshus, alltså lägenheter. Att köra miljövänligt ska inte vara en klassfråga. Det är inte enbart kommunen som ska bekosta dessa, utan staten ska vara en viktig aktör. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e416d3626c2a73ccce5a198d1410fd4e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en mycket orolig omvärld. Kommunen bör ha kapacitet för att ta emot fler flyktingar oavsett om de är ukrainska kvinnor och barn eller män som flyr från att bli tvingade till att bli soldater i ett vidrigt inbördeskrig i Syrien. Arbetet för fred i världen, så att människor slipper fly från krig och konflikter är viktigt. Kommunen bör uppmuntra demokratiskt utbyte med sina vänorter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "837d6693c73efeab0392f63b8b871232",
+        "questionType": "RANGE",
+        "reasoning": "Svalövs Montessoriskola är inte vinstdrivande, så den har vi inget problem med:) Vi vill inte se fler privata aktörer inom skolan i kommunen då vi vet att friskolor ökar segregationen. Det blir ofta isolerade öar för barn till högutbildade föräldrar och försvårar den gynnsamma blandningen av elever med olika bakgrund. Att veta om man har valt rätt skola eller inte är idag stressande för föräldrar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "403db217daac9b792adfd2683c1eebc1",
+        "questionType": "RANGE",
+        "reasoning": "Med en kunnig kulturchef som vet hur vi kan söka bidrag till kulturarrangemang i olika stiftelser och hos kulturrådet kan vi få riktigt mycket kultur för pengarna.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8dd1019809b9819c047aceb29dec0c96",
+        "questionType": "RANGE",
+        "reasoning": "Den senaste budgeten har gjort att två chefer som varit väldigt omtyckta av sin personal tyvärr har fått lämna kommunen. Vi kommer inte bli en fungerande kommun om de som ska leda kommunens verksamheter försvinner, en efter en.  De neddragningar vi ser inom skolan kan vi inte acceptera. Om det krävs att vi höjer skatten är vi beredda att göra det. Hög skatt är dock inget självändamål. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "e5664b43c0630c2ae56252bdd2b004d2",
+        "questionType": "PRIORITY",
+        "reasoning": "Svalövs kommun har idag avgifter som ligger långt över snittet för hur andra skånska kommuner har sina avgifter till kulturskolan. Alla barn oavsett förälders plånbok ska ha rätt till kultur! \r\nVissa barn har svårt att gå i stora klasser. De behöver mindre grupper. Det måste det finnas resurser till. ",
+        "value": [
+          "2406",
+          "2408"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;D!;B;D;D!;C;D!;A!;D;A!;2/5;3/5;3/5;[2406,2408]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill vara ett parti som väljaren kan lita på. Det är viktigt att politiken på alla nivåer hänger samman.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill se ett nytt styre som lyssnar på medborgarna och den politiska oppositionen. Ett styre som bekämpar tystnadskultur och som inte utlyser en folkomröstning för att sedan fatta beslut i frågan innan folkomröstningen är genomförd.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för att samarbeta med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Avveckla bolagiseringen av kommunens verksamhet. ",
+        "description": "Svalövs kommun ska inte leka affär med skattebetalarnas pengar. De två senaste exemplen på kommunens affärsmässighet är att vi istället för att äga våra verksamhetslokaler så kommer vi i framtiden att hyra förskola i Billeberga och äldreboende i Svalöv. Varenda människa vet att det i längden är bättre ekonomi i att äga än att hyra."
+      },
+      {
+        "category": "Utveckla demensvården ",
+        "description": "Demenssjukdom är idag ofta sett som naturligt åldrande. Men det är en sjukdom där den negativa utvecklingen kan bromsas något genom en stimulerande vardag. Vi vill utöka dagverksamheten för äldre dementa till fler orter. Vi vill också införa en dagverksamhet för dementa som inte fyllt 65 år. Vi vill också ha anpassade trygghetsboenden i flera tätorter i kommunen än idag."
+      },
+      {
+        "category": "Svalövs kommun ska vara en attraktiv arbetsgivare",
+        "description": "Genom att kapa några chefsled, avveckla några strateger och kommunikatörer kan vi skapa förutsättningar en vettig arbetsmiljö för de som faktiskt utför arbete inom kommunens kärnverksamhet. Kan vi inte konkurrera med lön ska vi åtminstone kunna konkurrera med arbetstidsförkortning och vettig arbetsmiljö."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet Svalöv vill att kommunen ska vara en god arbetsgivare och göra generella satsningar på förkortad arbetstid, möjlighet till kompetensutveckling och tillitsbaserad styrning.\r\nMedarbetarna ska också känna stolthet och glädje över att jobba på Svalövs kommun, därför är arbetsmiljöfrågor högt prioriterade för oss samtidigt som det är en ödesfråga i hur vi kan klara kompetensförsörjningen.",
+    "name": "Vänsterpartiet Svalöv",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-svalov"
+  }
+]

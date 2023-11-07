@@ -1,0 +1,1439 @@
+[
+  {
+    "abbreviation": "ALV",
+    "altingetCandidateId": "25",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste se till att varje invånare har bra tillgång till rekreation i närområdet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte bränna skattemedel på vinster i privata näringslivet utan vill hellre använda medlen till att förbättra den kommunala vården\r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar dels om en utveckling av järnvägstrafik och dels att inte förstöra boende och trafikmiljön i Alvesta",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte verka för bolagsdrivna friskolor men ser det som självklart att dessa inte bara  skall plocka russinen ur kakan.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "För många är skolmåltiden det  enda lagade målet  om dagen. Därför är det viktigt att alla tillgodogörs sig detta. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det går inte att dra över en kamm. Bostadsföretag och renhållnings bolag är acceptabla medN andra säkert kan avvecklas eftersom många styrs av politiker utan minsta kännedom om näringslivet.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är först och främst lösningen på bemanningen so är frågan. Kanske bättre att höja lönerna så man kan vara säker på en bibehållen bemanning\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Prisnivån är alldeles för hög för att ungdomarna skall kunna flytta hemifrån.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är marknaden som måste stå för denna kostnad. Alla andra drivmedel står marknaden för så varför skall skattekollektivet stå för denna.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste bli en jämnare fördelning mellan kommunerna. Vår kommun har alltsedan 1956 tagit emot en avsevärt högre andel än genomsnittkommunen. Vi har allt svårare att etablera människor i arbetslivet och behöver tid att komma ifatt.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "självklart skall våra skattemedel gå till skolverksamheten och inte till vinster.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "vi inbegriper idrott och föreningsliv som utgör 90% av det vi anser vara kultur. Stödet för detta behöver en kraftig ökning eftersom detta bedrivs ideellt.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Vi kan inte ligga långt högre än grannkommunerna om vi tror att vi ska locka till oss nya invånare.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "D!;B!;D!;D!;A!;B!;B!;_;C!;A!;C!;0/5!;4/5!;1/5!;_",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi finns bara lokalt så några sådana problem har vi inte.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att vi får ett så starkt väljarstöd att varje tänkbar majoritet tvingas till förhandlingar med vårt valprogram som grund.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi blockera ingen möjlighet så länge vårt program blir grunden för ett nytt styr",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förbifart 126:an i Alvesta",
+        "description": "I många år har vi arbetat med frågan att få väg 126 utflyttad från Alvesta centrum till ett läge väster om Alvesta för att få bort mycket tung trafik från en sträckning genom  bostadsområden, skola, vårdcentral, kulturcentra och handelsområde."
+      },
+      {
+        "category": "Att få trafikverkets placering av triangelspår förlagd utanför Alvesta.",
+        "description": "Vi har i 20 års tid arbetat för en utflyttad bangård tillsammans med ett triangelspår och ett logistikcentra. När vi nu äntligen fått Trafikverket med på vår fråga om triangelspåret så gör man en placering av detta mitt inne i centrala Alvesta till fåfäng för både boende och verksamheter och befäster också den centrala dragningen av väg 126."
+      },
+      {
+        "category": "Bryta plomberingen av lägenheter inom särskilt boende.",
+        "description": "I sin iver att spara pengar har omsorgsnämnden plomberat 18 lägenheter på två olika särskilt boende i kommunen. För att kunna göra detta har man helt enkelt höjt tröskeln för en placering på särskilt boende och på så vis hävdat att man inte har någon kö. I stället låter man behövande bo kvar i sitt ordinarie boende med utökad hemtjänst som följd. Vi ser inga besparingar i förslaget."
+      }
+    ],
+    "motivateVote": "9Vi tar oss ann de lokala frågorna på ett för väljarna konkret sätt som riksdagspartierna pga riksanknytningar har svårt att genomföra\r\n Exempel är t.ex. infrastrukturfrågor\r\nsom placering av triangelspår  och utflyttning av väg 126.",
+    "name": "Alvesta Alternativet Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "alvesta-alternativet-alvesta"
+  },
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "26",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Spånenområdet är ett viktigt område för Alvesta för både rekreation, föreningsliv och friluftsliv, vilket det även i framtiden också bör vara. Däremot är vi tveksamma till att generellt göra detta till ett reservat. En utveckling med exempelvis boenden måste även kunna ske framöver, men då i samklang med de värden som finns i området. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet är ett liberalt parti som är för den fria företagsamheten och valfrihet på olika sätt. Däremot är det viktigt att det sker en god uppföljning av verksamheterna, både dem kommunala och de privata, för att säkerställa bra kvalitet samt att skattekronor används på rätt sätt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en fråga som avgörs av regeringen och trafikverket. Däremot är det viktigt att Alvesta kommun medverkar och påverkar att det alternativ som dessa nämnda instanser beslutar genomförs och blir så  bra som möjligt för Alvesta kommuns invånare. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att vår gemensamma välfärd ska fungera och bidra till inkludering bör ingen selektering kunna ske av huvudmannen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Maten i vår verksamhet är oerhört viktigt för Centerpartiet. Den ska vara av hög kvalitet. Det är viktigare för oss att maten lagas med närproducerade varor samt lagas så nära den som ska äta den som möjligt än att bestämma om vi ska ha köttfria dagar eller inte.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktigaste är att offentlig sektor inte konkurrerar på andra villkor än det privata näringslivet kan göra. Det ska vara på lika villkor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är naturligtvis viktigt att kunna för att kunna utföra sitt arbete och kunna kommunicera med de äldre på ett bra sätt. Men ett generellt språktest tror inte vi på. Det beror också på vilken tjänst som det gäller vilka krav som ska ställas. Inom omsorgen har vi omsorgstagare med annat modersmål än Svenska som vi behöver kommunicera med, vilket gör att kompetens inom andra språk är viktigt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en viktig fråga att det produceras bra bostäder i hela kommunen som många har råd att bo i.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att den gröna omställningen tar fart och att fossila drivmedel fasas ut är en prioriterad fråga för Centerpartiet. Att ansvara för laddstolpar för elbilar är i grunden inget kommunalt ansvar, men för att få fart på utbyggnaden tror vi att offentlig sektor måste gå före ta ett ansvar tillsammans med det privata näringslivet.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alvesta kommun har stolt tagit emot många från andra länder genom årtionden. Att solidariskt ta ansvar för att ge personer på flykt en nystart i livet och stå upp för de mänskliga rättigheterna är en prioriterad fråga för oss. Däremot är det viktigt att integrationen och vägen till utbildning och jobb fungerar bättre än vad det gör på flera ställen idag.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "Vi tror inte på att ställa upp ett mått på hur mycket som ska drivas offentligt eller privat. Kvalitet måste alltid komma i första rum! Däremot är det så att Centerpartiet är för fri företagsamhet och valfriheten. Därmed tror vi även på att konkurrens är bra för utvecklingen.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "Att vi bedriver skola, vård och omsorg med hög kvalitet förutsätter våra invånare. Däremot är det så att kultur, fritids och föreningslivet bidrar i hög utsträckning till kommunens attraktivitet och en kommun som man vill bo i och flytta till. Därför tror vi att vi ska satsa mer inom detta område på olika sätt.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen ska bedriva offentlig verksamhet med hög kvalitet efter invånarens behov. Detta ska vi göra så kostnadseffektivt som möjligt. Idag har Alvesta kommun glädjande nog bra ekonomi vilket borde göra det möjligt att diskutera en sänkning av skatten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "755",
+          "752",
+          "756"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;A;D;A!;C;A;B;C;C!;A!;3/5;3/5!;1/5;[755,752,756]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa mer på utbildning",
+        "description": "Skola, utbildning och livslångt lärande är viktigt för Centerpartiet. Att kommunen erbjuder utbildning inom förskola, grundskola, gymnasium och vuxenutbildning av hög kvalitet är avgörande för kommunens utveckling inom flera områden."
+      },
+      {
+        "category": "Fortsatt utveckling av hela kommunen",
+        "description": "För Centerpartiet är Landsbygdens förutsättningar en viktig fråga. Hela kommunen måste kunna växa och utvecklas. Allt från lokalproducerad mat till enskilda vägar, bredband, stödjande av förnyelsebar energi, och bra boende är viktigt inom detta område."
+      },
+      {
+        "category": "Fortsätt arbeta för ett ännu bättre näringslivsklimat",
+        "description": "Näringslivsfrågorna är viktiga ur många aspekter. Den är viktig för kommunens attraktivitet, för att motverka arbetslöshet, för en fungerande integration, för en hållbar tillväxt där vi kan finansiera en välfärd av hög kvalitet."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Centerpartiet Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-alvesta"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "27",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "757",
+          "752",
+          "756"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;D;D;A;A;A;D!;D!;A;D!;3/5;2/5;1/5!;[757,752,756]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna Kristdemokraterna liberalerna sverigedemokraterna",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "trygghet",
+        "description": "Trygghetskamror"
+      },
+      {
+        "category": "omsorgen",
+        "description": "Fler händer inom omsorgen"
+      },
+      {
+        "category": "skolan",
+        "description": "Fler händer inom skolan"
+      }
+    ],
+    "motivateVote": "Bättre omsorg inom hela kommunen",
+    "name": "Kristdemokraterna Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-alvesta"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "28",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Säkerställa grönområdet för de boende i tätorten. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det borde vara en självklarhet idag att man själv styr över sin vardag och bestämmer vem  som kommer till ens hem. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att dra triangelspåret i tätorten påverkar flera villaområden och slår sönder befintlligt industriområde vilket sannolikt får som konsekvens att industrier/företag flyttar från kommunen. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då det endast finns en friskola i kommunen och den är liten hänger det helt på skolan om det finns plats. Men idén är bra. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här handlar det om valfrihet och individens självklara möjligheter att själv bestämma vad man vill äta. Att skolan tillhandahåller flera maträtter per dag borde vara en självklarhet",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag skall endast syssla med sådant som är lagstadgat . Bolag som konkurrerar med lokalt näringsliv skall avvecklas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Här är problemet kostnaden. Generelllt är vårdpersonal underbetald vilket ger få sökande till tjänster. Att förkorta arbetsdagen skulle ge akut personalbrist oavsett lönenivå. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "En självklarhet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ger en mycket kraftig snedfördelning och konkurrerar direkt med privata fastighetsägare. Skattepengar skall inte användas till att subventionera boende för ett fåtal. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte en kommunal angelägenhet. Här bör istället näringslivet se en nisch.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alvesta har historiskt tagit emot en stor andel asylanter. Det har inneburit problem med skolresultat,trångboddhet och arbetslöshet bland dessa. Alvesta behöver komma ifatt och först få en fungerande integration innan man tar emot fler. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "Alvesta har 1 friskola samt en privat förskola (Vislanda) . Det finns absolut möjlighet för fler aktörer och Liberalerna är positiva om så sker. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "Skola och omsorg går främst. Sedan skall våra bibliotek värnas men mycket kultur bör drivas i föreningsform och inte i kommunal regi. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Alvesta har i förhållande till vår stora grannkommun lite för hög kommunalskatt. Men utrymmet för minskning beror på hur vi klarar de utmaningar kommunen har i skolan och omsorgen. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "755",
+          "756",
+          "751"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D;C;A;D;C;D;A;B;C;3/5;2/5;1/5;[755,756,751]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Liberalerna går till val tillsammans i Alliansen,Moderaterna och Kristdemokraterna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Liberalerna kommer inte att styra ihop med S,SD eller Vänstern",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Se till att kommunen har tillräckliga skollokaler",
+        "description": "Bristen på plats är stor på många av kommunens skolor. Liberalerna vill därför bygga ny förskola och grundskola på Spåningslandaområdet, använda Stenlyckeskolan återigen till skola samt se över och eventuellt bygga ut skolan i Grimslöv och Vislanda. Utreda om det finns möjlighet att återöppna skolan i Lönashult. Säkerställa Hagaskolans behov av   lokaler samt att sporthall finns i anslutning ."
+      },
+      {
+        "category": "Värna kommunens äldreboenden ",
+        "description": "Alvesta kommun har i dagsläget 5 äldreboenden. Dessa vill vi behålla då man har rätt att åldras i den kommundel man bott o verkat i. Se över behov av trygghetsbostäder och seniorlägenheter  i alla kommundelar. Se över regler för tillgång till särskilt boende.Är dagens regler rimliga?"
+      },
+      {
+        "category": "Införa LOV,lagen om valfrihet i Alvesta kommun. ",
+        "description": "Med införande av denna lag möjliggör man för andra aktörer att verka i Alvesta kommun. Det ökar valmöjligheterna för äldre att själv bestämma över hemtjönst  och ev. boende. Det ger också anställda möjlighet att välja annan arbetsgivare än kommunen."
+      }
+    ],
+    "motivateVote": "Liberalerna Alvesta vill satsa mer på skola samt äldreomsorg. Vi behöver fler skollokaler,trygghetsboenden samt garantera plats på särskilt boende för 80+ om de så önskar. Förstärka skolans resurser med skolsocionomer samt att skolbibliotek och skolbibliotekarier finns på varje skola. Att varje skola har de lokaler som behövs och att eleverna får den hjälp de behöver med läxor m.m ",
+    "name": "Liberalerna Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-alvesta"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "29",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att skydda centrum-nära natur och öka människors och djurs välmående.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den hemtjänst som erbjuds ska hålla hög kvalitet, vem som än utför den. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att barn vill äta maten som serveras och att den är näringsrik. Maten som lagas i skolkök ska vara till så hög andel som möjligt, ekologisk, närproducerad och klimatsmart.  ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett intressant förslag som bör testas och utredas. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som arbetar inom vården ska givetvis ha den kompetens som krävs för att utföra ett gott arbete. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att billiga bostäder för unga, studenter och äldre finns tillgängliga i en kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ta emot så många som vi kan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "Kultur i ett samhälle har många positiva effekter. Den ger glädje, ökar förståelse, utmanar, förvånar och ger mervärden som tjänar människor och samhälle.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Om en skattehöjning krävs för att bibehålla och bygga välfärd som är rättvis och håller god kvalitet kan detta dock vara befogat.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "757",
+          "752",
+          "751"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;B;D!;_;C;C;C;B;C;D;A;2/5;4/5;2/5;[757,752,751]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte som vi kan komma på.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas att få förtroende att sitta i styret och ser gärna samarbeten med S, C och V.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "M, SD och KD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Gör Spånenområdet till kommunalt reservat",
+        "description": "Skulle gynna den biologiska mångfalden, friluftslivet och folkhälsan."
+      },
+      {
+        "category": "Inrätta social investeringsfond",
+        "description": "Fonden skall hantera medel för oförutsedda och preventiva hälsofrämjande insatser riktade mot barn och unga i socioekonomiskt utsatta levnadsförhållanden."
+      },
+      {
+        "category": "Att de särskilda boendena för äldre klimatanpassas",
+        "description": "Boenden bör ses över så att de är rustade för kommande värmeböljor. Höga temperaturer är riskfyllt för äldres hälsa. Kylanläggningar, markiser och skuggande växtlighet mm."
+      }
+    ],
+    "motivateVote": "Vi tycker att varje politiskt beslut ska göras med grund i hållbarhet för människa, djur och natur. Beslut ska fattas med långsiktighet,  där miljö och klimat ska tas hänsyn till.",
+    "name": "Miljöpartiet Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-alvesta"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "30",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill värna friluftsmiljön i området med badplats, strövområden med mera, utan att för den delen hindra fortsatt utveckling av området så som bostadsutveckling med natursköna tomter och allmänna ytor.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet och egenbestämande skall prägla våra invånares vardag. Moderaterna kommer arbeta aktivt för att utveckla fler valmöjligheter för våra äldre. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är för stor för Alvesta kommun då den ligger på trafikverket och andra externa aktörer.  Moderaterna förordar dock att tringelspåret skulle ha minsta möjliga inverkan på våra bostads och näringslivsområden.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barn är inga integrationsverktyg. Moderaterna säger nej till förslag om bussning, kvotering och lottning av elever. De viktigaste åtgärderna för att bryta segregationen handlar om kvaliteten i undervisningen och det svenska språket. Men vi vet att många fristående skolor med kö också gärna vill vara med och dela på ansvaret och då bör de ha möjlighet att kunna ta emot, dock ingen skyldighet.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skall finnas ett köttfritt och ett köttalternativ varje dag så att eleverna kan välja vad de önskar äta och äta sig mätta i skolan. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vissa kommunala bolag behöver finnas då det i vår kommun saknas intressenter av att driva den typen av företag. Det är av största vikt att de kommunala bolag som finns inte konkurrera ut det privata näringslivet som finns eller som i framtiden etablerar sig i Alvesta kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Politik är att prioritera och fördela resurser, moderaterna fokuserar på att höja statusen på undersköterskor genom att vidareutveckla vårt arbete med att införa fler kompetens-steg inom vården så som serviceassistenter. Våra äldre skall ha rätt stöd, i rätt tid av rätt kompetens och våra medarbetare skall använda den utbildning och den kompetens de besitter i sitt arbetsutförande. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att man talar begriplig svenska och förstår instruktioner på svenska är en säkerhet och trygghetsfråga för våra medarbetare och våra äldre. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen skall verka för att fler privata aktörer skall bygga billiga hyresrätter i vår kommun. Det kommunala bostadsbolaget skall fortsätta utveckla och underhålla sitt befintliga bestånd.  Det är av största vikt att det finns flera olika boendeformer i olika prisklasser till våra invånare. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "En laddplats är till sin funktion att likna vid en bensinstation för elbilar och kommunerna anlägger inga bensinstationer. Här är det av särskild vikt att kommun och privata aktörer samverkar. Tankning av el skall ej subventioneras av skattebetalarnas pengar. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alvesta kommun har idag stora integrationsproblem, allt för stor del av våra invånare befinner sig i ett långvarigt utanförskap och bidragsberoende. Vi behöver fokusera på att integrera de invånare vi idag har innan vi tar på oss fler. Här är det viktigt att vi arbetar med Alvesta löftet som innebär en positiv förväntan på våra invånare, en tro på deras förmågor och krav på motprestation.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "Alvesta kommun har under de senaste två mandatperioderna inte agerat i följd med vår tillväxt och lokalbehov, detta har resulterat i att många av våra skolor idag är trångbodda och lokalerna i stora behov av renovering och tillbyggnad. Fristående skolor skulle kunna vara oss behjälpliga i denna situation och även öka familjers och elevers valfrihet. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "En aktiv fritid med varierande valmöjligheter är av stor vikt för att attrahera nya invånare och kommunens fortsatta utveckling. Vi ser stora investeringsbehov de närmsta åren inom kulturområdet så som ny ishall och fler idrottshallar. Moderaterna vill se till att våra invånare skall ha ut största möjliga effekt av varje skattekrona . ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Moderaterna investerar försiktigt och tar tillvara på de resurser som redan finns. För att sänka skatten krävs ett moderatlett styre, där vi skapar en stabil grund för skattesänkning. I en osäker tid ska våra invånares välfärd säkerställas med bra reserver för att upprätthålla god samhällsservice i hela kommunen.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": "Moderaterna erbjuder ansvarsfull, långsiktig och hållbar politik med en stark, tydlig och stabil ekonomisk styrning med Alvesta kommuns invånare i fokus.  \r\nDetta är vad ekonomisk politik i grunden handlar om, att möjliggöra att ekonomin växer, att ha förmågan att föra en klok stabiliseringspolitik och sedan ha förmågan att prioritera och fördela resurser där de behövs som mest. ",
+        "value": [
+          "752",
+          "754",
+          "756"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;D;B;A;C;A;D!;B;B;D!;3/5;2/5;0/5!;[752,754,756]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi går till val tillsammans med Liberalerna och Kristdemokraterna. Vi har under mandatperioden gemensamt bedrivit oppositionspolitik som haft stor genomslagskraft och som gjort skillnad för våra medborgare. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Moderaterna går till val med L och KD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ekonomi",
+        "description": "Med fler jobb och ansvar för ekonomin kan vi satsa på välfärden samtidigt som vi sänker skatten och se till att familjer får mer pengar i plånboken."
+      },
+      {
+        "category": "Fungerande integration",
+        "description": "Arbetslösheten skall minska med ett Alvesta löfte som kräver att bidragstagare söker jobb, lär sig svenska och utbildar sig. En tydlig Sverige introduktion med examination ger fungerande integration."
+      },
+      {
+        "category": "Fokus på kunskap i skolan.",
+        "description": "En trygg skola med skickliga lärare ger alla chansen att lära sig mer. I Alvesta kommun ska inte personal och elever behöva trängas, nya skolor, förskolor behövs och ska skapas. Vi förstärker våra tidiga och förebyggande insatser. Logoped tjänst riktad till förskola och de tidiga åren i skolan, anpassad förskoleklass till de barn med stora särskilda behov, fler behöriga lärare, två skolsocionomer."
+      }
+    ],
+    "motivateVote": "Moderaterna är den starkaste rösten för ett sammanhållet Alvesta kommun. Vi talar om de utmaningar vi står inför, för att sedan lägga fram ansvarsfulla, långsiktiga och hållbara lösningar. Vi lovar inte allt till alla men vi håller vad vi lovar. Vi har kraften, modet och viljan att styra, ge oss möjligheten så skall vi göra vad som krävs för att utveckla Alvesta kommun.",
+    "name": "Moderaterna Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-alvesta"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "31",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "750",
+          "752",
+          "756"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;B;D;C;A;B;D;C;C;B;0/5;3/5;2/5;[750,752,756]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Att vi Socialdemokrater fortsätter och är med och styr vår kommun.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Alla elever i grundskolan ska gå ut med godkända betyg",
+        "description": "För att vi ska lyckas med detta behöver vi sätta in tidiga insatser i lågstadiet genom läsa – skriva – räkna-garanti och jobba vidare med specialpedagoger inom förskolan för att säkra upp att vi möter upp varje barns unika behov."
+      },
+      {
+        "category": "Inom omsorgen ska vi alla ha en bra arbetsmiljö, goda utvecklingsmöjligheter",
+        "description": "Förbättra personalens arbetsmiljö och arbetstider genom till exempel sammanhängande arbetstid och avskaffande av delade turer. \r\nUtbildning och utveckling för vår personal är och kommer bli en allt viktigare del inom vård och omsorg. Välutbildad och trygg personal ger trygga och välmående omsorgstagare."
+      },
+      {
+        "category": "Stärka föreningslivet inom kultur och fritid",
+        "description": "Vi ska ha ett rikt föreningsliv i kommunen och en utbyggd och tillgänglig kulturskola. Vi vill också ha bra och tillgängliga anläggningar för såväl kultur som idrott och satsa vidare på friluftslivet."
+      }
+    ],
+    "motivateVote": "En stark kommun och dess välfärd är vårt bästa verktyg för ökad trygghet och jämlikhet. Välfärden ger lika bra förskola och skola åt alla barn oavsett föräldrarnas ekonomi och sjukvård efter behov – inte efter plånbok. Den ger samma trygga äldreomsorg till byggnadsarbetaren som till direktören. Pengarna till välfärden ska gå till just välfärden. Det är grunden för ett starkt och tryggt samhälle",
+    "name": "Socialdemokraterna Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-alvesta"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "32",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beroende på om det är privat eller kommunalt ägd mark behöver ett sådant ställningstagande diskuteras djupare",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra att kunna välja själv men alla företag ska arbeta under samma premisser",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen kommentar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ingen kommentar",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vegetarisk rätt och kötträtt ska erbjudas varje dag. Här ska även aspekter på lantbruksnäringen och kulturmiljöer vägas in.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privat näringsliv ska prioriteras",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "En förändrad arbetsordning torde ge lika god effekt till en lägre kostnad.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att alla förstår och kan göra sig förstådda, både personal och brukare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Görs redan idag genom hyresbidrag till den som är i behov av detta.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta ligger utanför kommunens ansvarsområde, bör drivas av andra aktörer på marknaden. I princip är vi för fler laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inhumant att ta emot fler än man kan integrera, både gentemot flyktingar och övriga medborgare",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "Ingen kommentar",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "Vi prioriterar kärnverksamheten. Satsningar på kulturen ska ska bidra till en känsla av sammanhållning i Sverige.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "När ekonomin så tillåter ser vi gärna en varsam sänkning av skattesatsen.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "750",
+          "755",
+          "752"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;C;C;A;B;B;D;B;B;D;2/5;2/5;2/5;[750,755,752]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi ser flera samarbetspartners då många andra partier anammat mycket av vår politik under senaste tiden, inte minst på riksplanet. Främst är det nuvarande opposition vi vill se i styret i någon form.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Inte i nuläget",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad trygghet för alla",
+        "description": "Trygghet är viktigt för att man som individ ska känna sig fri, man ska inte behöva känna rädsla för att utsättas för brott i tätort eller på landsbygd.\r\nI skola/barnomsorg ska såväl barn/elever som personal känna sig trygga.\r\nI vården innebär det en trygghet att känna sin personal, kunna förstå och göra sig förstådd. Personal måste ha tid att utföra sina arbetsuppgifter utan stress."
+      },
+      {
+        "category": "Möta behov i skola/barnomsorg",
+        "description": "Barn och ungdomar har individuella behov, många klarar inte målen. Kommunens verksamheter ska anpassas efter olika behov, t.ex. gruppstorlek och stödbehov. \r\nGällande barnomsorg finns ett varierat behov då många har oregelbundna arbetstider. Kommunen ska sträva efter att tillgodose detta.\r\nDroger i skolmiljö ska aktivt motverkas.\r\nRespekt för varandras åsikter och demokratifrågor är av största vikt."
+      },
+      {
+        "category": "En sund ekonomi",
+        "description": "Kommunen hanterar medborgarnas pengar, detta ska göras varsamt.\r\nGoda villkor för företagande och entreprenörskap skapar arbete, vilket är en förutsättning för ekonomisk tillväxt. \r\nTaxor och avgifter ska vara välgrundade och rättvisa. \r\nKommunen ska prioritera kärnverksamheter innan andra ekonomiska åtagande görs."
+      }
+    ],
+    "motivateVote": "Vi vill att alla ska känna gemenskap och tillit till varandra i hela Alvesta kommun. Känna stolthet över vår kultur och vilja vara en del av och bidra till vårt samhälle. Man gör sin plikt innan man kräver sin rätt.",
+    "name": "Sverigedemokraterna Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-alvesta"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "33",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "9e97a4794b7bb56fa59f034412d7121b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett gott samhälle behöver frilufts och aktivitetsområden som är tillgängliga för alla invånare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "276d12162168cae662bc46a8d5b7014c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om valet innebär någon form av diskriminering, tex kön eller etnicitet, så ska det inte vara möjligt att välja bort någon på dessa grunder. Dock skall brukaren i största möjliga mån kunna ha så få personer som möjligt som kommer till dem, om de så önskar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "65184dcecb7909bb857db8564264c690",
+        "questionType": "PROPOSITION",
+        "reasoning": "I och med ett triangelspår kommer vi kunna minska godstrafiken genom centrum och öka en bättre förbindelse med Värnamo och Älmhult. Det kommer även innebära snabbare resa till och från Stockholm samt andra delar av Sverige.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "b39f3f90edc935a1d335ece642d868ae",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi i Vänsterpartiet ser stora problem med friskolornas verksamheter i de flesta fall. Om friskolor överhuvudtaget ska tillåtas att vara kvar bör de lyda under samma lagar och med samma förutsättningar som kommunala skolor. De kommunala skolorna bör stärkas och rustas ekonomiskt. Självklart ska friskolorna ta sitt ansvar även gällande nyanlända elever.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "47192a81e6c7bdc7e657ec43f7a2373d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett gott liv innebär att man tidigt i livet lär sig att äta en sund och varierad kost. Köttfria dagar kan ersättas med goda fisk och grönsaksrätter tillagade med samma omsorg som andra rätter. Detta innebär också en tydlig markering om vikten av ett hållbart ekologiskt perspektiv.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "85691652a88c4b6a4bed2f50a07e1aaa",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej. Kommunala bolag värnar på ett tydligare sätt om lokala arbetstagare och om tillväxten och utvecklingen av det lokala samhället. Privata näringslivsidkare kan sätta vinstaspekter före dessa värden och vi har sett många privata företag som outsourcar produktion och arbetstillfällen till andra länder för ökat vinstuttag. Kommunala bolag bör finnas kvar för lokalsamhällets bästa. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "d9bc6184c3f3e28ec053310a98e0404b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att arbeta inom omsorgen för människor innebär ofta ett psykiskt och fysiskt påfrestande arbete. Detta gäller såväl inom omsorgen av barn och äldre som inom exempelvis socialtjänsten. Då lönerna generellt är låga, under medelinkomst, är detta förslag en möjlig väg till återhämtning. Detta innebär en trolig sänkning av sjukfrånvaro och sjukersättning för dessa arbetstagare.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "59b61690232643a6e032e21bdc05c96f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunikation mellan människor är centralt för en god omsorg. Sverige hade inte klarat av omsorgen om inte så många invandrare hade sökt arbete inom hemtjänst och äldreomsorg. Dock bör kommunerna och de enskilda företagen erbjuda stöd och utbildning till de arbetstagare som behöver vidareutbildas i svenska språket. Detta bör ske på betald arbetstid, med handledsstöd och praktik inom arbetsplatsen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "4006862df2f000091a67b7fa2a339952",
+        "questionType": "PROPOSITION",
+        "reasoning": "Två tredjedelar av Sveriges kommuner har bostadsbrist. Detta drabbar främst låginkomsttagare och ungdomar. Då många kommuner har svårt att få tag i arbetskraft är detta en nyckelfråga. Kommunen bör därför satsa på att bygga hyresrätter.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2729ce3d2059a429199510e01d15bb0c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alvesta kommun är en kommun med stor omgivande landsbygd. Många är beroende av bil för sitt arbete. Då klimatkrisen är en realitet behöver omställningen till fordon utan fossila bränslen skyndas på. Både genom utökad kommunaltrafik men även tillgången till publika laddstolpar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "090c3ead773770f05ef698da44407031",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi bor i ett land som varit förskonat från krig i över 200 år. Så är inte fallet för människor i många andra länder. Om medmänsklighet och solidaritet inte längre hålls högt ger detta utrymme för högernationalistiska och främlingsfientliga åsikter. Vi har inte råd att sluta visa solidaritet med människor på flykt undan krig och förföljelse. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f160fba67ee03055f37b093a12199822",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska vara jämlik och jämställd samt lyda under samma lagar och förutsättningar. Så länge som privata friskolor inte gör detta så är kommunala skolor ett bättre alternativ.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ed303e949886d12de565ac8b63eed9d8",
+        "questionType": "RANGE",
+        "reasoning": "Kultur bidrar till ett gott liv. Kultur ger perspektiv på den samtid som den är skapad i. Kultur är utbildning, fortbildning samt skapar ibland en förutsättning för åsikter, samtal och kreativitet. Barn ska erbjudas en variation och bred inom olika kulturföreteelser och evenemang.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "8ed0b94527f1b46f79d798745c07adc5",
+        "questionType": "RANGE",
+        "reasoning": "Den kommunala skatten värnar om möjligheten till en god omsorg och välfärd och minskar behovet av privata vinstdrivande företag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "80a81d46c6dc2f0d97078ed48d5635e6",
+        "questionType": "PRIORITY",
+        "reasoning": "Den omsorg som är till nytta för alla kommuninvånare i olika skeden av livet behöver prioriteras och förstärkas.",
+        "value": [
+          "750",
+          "757",
+          "753"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;B;C;D!;D!;A!;D!;C;D!;D;A;0/5;3/5;2/5;[750,757,753]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi anser att vårt samarbete med Socialdemokraterna och Centerpartiet har gett goda förutsättningar för alla i kommunen och att vi fortsatt har fler uppdrag och frågor som vi behöver samverka kring och leda utvecklingen av även i fortsättningen.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och andra högernationalistiska partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Omsorgförbättring",
+        "description": "Fler händer i vården"
+      },
+      {
+        "category": "skol och förskola förbättring",
+        "description": "Fler händer i förskola/skola"
+      },
+      {
+        "category": "Mötesplatser för äldre",
+        "description": "En tryggad ålderdom innebär inte bara ett boende, mat och kläder. Ensamhet och isolering är en grogrund för psykiskt ohälsa hos äldre. Vi vill bryta den ofrivilliga isoleringen genom att skapa trygga mötesplatser med kompetens personal som i samråd med de äldre utformar inriktningen på verksamheten. Detta för att möjliggöra till ett gott liv samt psykisk och fysisk hälsa."
+      }
+    ],
+    "motivateVote": "Vi i Vänsterpartiet vill att invånarna i kommunen ska kunna få rätt förutsättningar och möjligheter till arbete, boende och välfärd i Alvesta. Vi värnar om jämlikhet och jämställdhet. Vi driver även kommunens hbtqi+ certifiering för allas lika värde. Äldre ska ha fler mötesplatser i kommunen. Vi vill slopa karensdagen i sjukförsäkringen, till att börja med för personal inom omsorgen.",
+    "name": "Vänsterpartiet Alvesta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-alvesta"
+  }
+]

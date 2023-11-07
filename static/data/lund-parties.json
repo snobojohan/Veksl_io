@@ -1,0 +1,1573 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1054",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte bilarna vi vill ha bort. Vi vill ha en tillgänglighet i staden även för bilburna. Men vi behöver arbeta mer för att få fossilfria transporter.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det skulle bygga ihop stadens västra och östra delar om vi istället för järnvägsspår kunde ha bostäder, kontor och butiker på den ytan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Valfrihet för brukare är viktig och det kvaliteten är inte avhängig vem som utför tjänsten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska vara öppna för människor som flyr från krig och förföljelse.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Vi har en bra balans mellan privata och kommunala utförare idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1681",
+          "1682"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;B;D;A;C;B;C;C;D!;D!;A!;2/5!;2/5;1/5;[1686,1681,1682]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill gärna fortsätta styra tillsammans med de andra partierna i Lundakvintetten.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna, Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hela Lund ska leva",
+        "description": "Centerpartiets mål är att hela Lunds kommun ska leva, med utveckling av både landsbygd och stad. Vi ska fortsätta verka för en blandad och levande kommun med en variation av verksamheter, bostäder och grönytor. Tillgången till service som skolor och liknande ska finnas tillgänglig kommunens alla delar."
+      },
+      {
+        "category": "Producera mat på vår åkermark",
+        "description": "Råvaror till våra tillagningskök ska vara producerade i Sverige och råvaror och recept väljs utifrån minskad miljö- och klimatpåverkan och lägre utsläpp av växthusgaser. Vi ska använda vår fina åkermark till livsmedelsproduktion, inte padelhallar"
+      },
+      {
+        "category": "Medmänsklighet och trygghet för alla",
+        "description": "Vi är ett liberalt jämställt parti ochLund ska vara en öppen plats där människor på flykt ska kunna skapa sig en trygg tillvaro och där alla är välkomna. Medmänsklighet och trygghet för den som flyr våld, krig och katastrofer är självklart för oss att erbjuda."
+      }
+    ],
+    "motivateVote": "Vi är ett liberalt jämställt parti. Alla människors har rätt att få vara den man är. Kön, etnicitet, sexuell läggning, ålder, social bakgrund ska inte begränsa möjligheter att bestämma över sitt eget liv. Lund är en öppen plats där människor på flykt kan skapa sig en trygg tillvaro och där alla är välkomna.\r\nVi kommer att fortsätta vara den gröna, liberala kraften som vill att hela Lund ska leva.",
+    "name": "Centerpartiet Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-lund"
+  },
+  {
+    "abbreviation": "FI",
+    "altingetCandidateId": "1055",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste bygga staden och mötesplatser för människor, inte för bilar. De som inte kan röra sig utan bil ska ha företräde. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på förändringar i samhället stort och hos individen. Det krävs rätt förutsättningar och rätt insatser för att komma åt problematiken. Särskilja barn från det normala ger inte önskad effekt. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att det innebär stora kostnader och stora risker",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "All negativ miljöpåverkan måste motverkas med all kraft. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor måste kunna hålla ett helt arbetsliv för ett ekonomiskt och ssocialt hållbart samhälle. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Arbetsplats kan vara en plats där människor kan lära sig svenska . ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostad är mänsklig rättighet. Rimliga hyresrätter förutsättning för välbefinnande och förutsättningar att bidra till samhället ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utan vinstmöjligheter. Skattepengar ska inte användas till tjäna stora pengar ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allt som är miljövänlig ska prioteras",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds kommun ska ta globalt ansvar för flyktingar ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill inte se vinster med våra skattepengar. Våra gemensamma resurser ska direkt komma Lundaborna tillgodo. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är jätte viktig för demokratin och sammanhållningen. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": true,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1682",
+          "1688"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "C!;A;A!;D!;B;D!;A!;D!;B;D!;A!;0/5!;4/5;_;[1686,1682,1688]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i nuläget. Vi tillämpar intersektionell analys till alla våra ställningstagande. Det är viktigt att de som besitter problemet definierar problemet. Vi har olika individer i partiet och  vi brinner för olika frågor och driver frågor inom ramen för nationella partipolitik med lokal touch. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill att det politiska styret ska givetvis vara ideologisk nära oss. Vi vill ha ett styre och ingå i ett styre som värnar om alla inviders välbefinnande. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är ideoligisk motpol till Sd som vi kommer aldrig att samarbete på något sätt",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet på riktigt ",
+        "description": "Vi kommer att jobba för inkludering, trygghet i hemmet samt det offentliga rummet.  Med trygghet menar vi ett gott liv fritt från våld, diskriminering & förtryck.  Lundaborna ska känna samhörighet med sin stad, bidra utifrån sina förutsättningar och känna möjligheter att påverka det som händer i Lund.  Stöd och vägledning till Lundaborna i behov ska vara flexibelt, snabbt och adekvat."
+      },
+      {
+        "category": "Lika villkor och förutsättningar ",
+        "description": "Sociala och ekonomiska förutsättningar eller funktionalitet ska inte påverka möjligheter för att delta. Lunds kommun ska jobba rättighetsbaserad och stärkande med Lundabor med särskilda behov. Vi vill titta på undanröja hinder så att människor kan utvecklas och delta i samhällslivet."
+      },
+      {
+        "category": "Hållbar Lund",
+        "description": "Vi kommer att verka för ett ekologiskt, ekonomiskt och social hållbar Lund. Vi kommer jobba långsiktigt investera kommunens resurser för samhället  och till individen i alla livets delar med siktet inställt mot många generationer framåt."
+      }
+    ],
+    "motivateVote": "För att alla våra beslut utgår ifrån ekonomiskt, ekologiskt och socialt hållbarhet. Jämlikhet, jämställdhet och hållbarhet genomsyrar all våra ställningstagande. ",
+    "name": "Feministiskt initiativ Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "feministiskt-initiativ-lund"
+  },
+  {
+    "abbreviation": "FöNyL",
+    "altingetCandidateId": "1056",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds stadskärna ska vara tillgänglig för alla. Redan idag är stadskärnan i stor utsträckning prioriterad för gående och cyklister. Vi anser att cityhandeln är mycket viktig och göra stadskärnan helt bilfri kommer att påverka handeln negativt. Detta hindrar inte att ytterligare förbättra för gående och cyklister.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Lund identifieras och åtgärdas kränkningar systematiskt. De flesta elever med svårigheter kan hjälpas på sin skola av specialpedagoger och speciallärare. Mobbande elever kan stängas av från skolan under viss tid. Jourskolor löser inga problem utan riskerar att förvärra och permanenta problemen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Helst ska hela stationen förläggas under jord så att stadens östra och västra sida kan läka ihop. Under alla omständigheter ska ytterligare spår i samband med järnvägsutbyggnaden förläggas under jord. Vi ser i så fall gärna att godstågen går under jord för att minska olycksriskerna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den planerade avfarten vid Ideon är helt nödvändig för att forskningsbyn ska kunna utvecklas med fler viktiga arbetsplatser. I samband med detta är det naturligt att lägga till ytterligare en fil. I fortsättningen kommer vi att inta en mycket restriktiv hållning till ytterligare motorvägsutbyggnader, speciellt på åkermark.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Cityhandeln är viktig och trängselskatt skulle bara innebära att fler väljer externa köpcenter. Biltrafiken i centrum ska minskas genom att gång- och cykel- och kollektivtrafiken görs mer attraktiv. Vi ser gärna att centrum trafikeras av små elektriska bussar istället för de stora bussarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personalen inom äldreomsorgen utför ett viktigt arbete som är undervärderat. Att sänka arbetstidsmåttet för just denna personalkategori är inte rättvist mot andra yrkesgrupper som också har krävande arbeten. Vi tycker att man ska ha höjd lön, fler heltidstjänster och mer utbildning.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgstagarna ska kunna kommunicera med personalen för att känna trygghet och få rätt hjälp. Testet ska avse språkförståelse och talad svenska. Nivån ska vara så att den anställde och omsorgstagaren kan förstå varandra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att det saknas billiga hyresrätter är ett stort problem som inte kan åtgärdas av kommunen. Hyrorna i kommunens bostadsbolag (LKF) sätts i förhandlingar med Hyresgästföreningen enligt bruksvärdesprincipen. Att hyrorna är höga i nyproduktionen beror främst på de mycket höga byggkostnaderna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en pragmatisk syn på driftformerna. Om ett privat företag gör ett bra jobb så ser vi inga hinder i detta. Om de däremot gör ett mindre bra jobb så ska kontraktet inte förnyas. Kommunen ska dock alltid ha vissa äldreboenden i egen regi för att bibehålla kompetensen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska se till att Kraftringen upprättar sådana laddstolpar men inte finansiera dem. Detta ska ske på affärsmässiga villkor av Kraftringen. Att möjliggöra för dem som inte kan ladda hemma är ett viktigt bidrag till den gröna omställningen. Även de som är hänvisade till gatuparkering ska kunna ha en elbil.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har ett ansvar för att ta emot de flyktingar som staten bestämmer. Detta ska göras på ett bra sätt. Det är inte acceptabelt att kringliggande kommuner placerar sina tilldelade flyktingar i Lunds kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen råder inte över i vilken utsträckning privata skolor etablerar sig i kommunen. Detta är mycket problematiskt eftersom detta försvårar kommunens planering. Många friskolor gör ett utmärkt arbete men i vissa fall leder friskolor till segregation.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Stöd till kulturen är en mycket viktig uppgift för kommunen. Detta gäller inte minst stöd till kultur för barn och unga. Vi har bidragit till att införa musikchecken och vill gärna att denna byggs ut med fler kulturaktiviteter. Kommunens kulturentreprenörer behöver också ökat stöd.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Det går att sänka skatten om det förs en ansvarsfull politik och om inget oförutsett inträffar. Äventyrliga prestigeprojekt måste bannlysas. Skattesänkningar får aldrig genomföras till priset av lägre kvalitet i kärnverksamheten. Att redan nu lova skattesänkningar är ansvarslöst.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1681",
+          "1688",
+          "1683"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;D!;B;D!;B;D!;B;C;D!;B;2/5;4/5!;1/5!;[1681,1688,1683]!",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi har ingen riksnivå och behöver därför inte ta hänsyn till vad Stockholm tycker.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Eftersom vi inte tillhör något av de traditionella blocken i politiken kan vi tänka oss styren av olika slag. Det viktigaste för oss är de politiska sakfrågorna. Därför vill vi skapa ett styre där vi får störst genomslag för vår politik och de frågor som  är viktigast för Lundaborna.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Åkermark ska odlas - inte asfalteras",
+        "description": "Lunds fantastiskt fina åkermark, som ju funnits i tusentals år, ska användas för livsmedelsproduktion – inget annat. För ny bebyggelse kan mark användas som tidigare varit bebyggd, till exempel på Västerbro, och i de östra delarna finns mark med lägre klassificering som kan användas för nybyggnation. Att fortsätta med exploatering på den bästa åkermarken är ansvarslöst mot kommande generationer."
+      },
+      {
+        "category": "Vårda stadskärnan",
+        "description": "I stadskärnan har de flesta husen högst tre till fyra våningar och så vill vi att det  ska det förbli. FörNyaLund lyckades stoppa planer på tolvvåningshus söder om Mårtenstorget. Risken är ändå stor för fler ogenomtänkta byggprojekt, inte minst vid Lund C. Kommunen bör förnya torg och gröna platser och lyssna på Kulturen, när äldre byggnader renoveras och får nya funktioner."
+      },
+      {
+        "category": "Lunds ungdomar ska ha företräde till Lunds gymnasier",
+        "description": "Fritt Sök till gymnasiet måste omförhandlas så att Lundaungdomar inte trängs ut från de attraktiva programmen och skolorna. Idag kommer 2 av 3 elever på de kommunala gymnasierna från andra kommuner."
+      }
+    ],
+    "motivateVote": "Vi arbetar för att göra Lund till Sveriges bästa kommun – på riktigt! Vi struntar i blockpolitiken och samverkar med alla goda krafter i Lunds kommun. Vi är inte bakbundna av gamla politiska överenskommelser eller direktiv från ett partihögkvarter i Stockholm. Vi arbetar bara för Lundabornas bästa. Vi som kandiderar till fullmäktige, nämnder och styrelser är kunniga och engagerade. ",
+    "name": "FörNyaLund Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "fornyalund-lund"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1057",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är positiva till gågata utan både bil och cyklister, men emot att hela stadskärnan ska bli bilfri. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lund ska självklart ta ansvar för de flyktingar som vi blir tilldelade, men vi tycker att andelen flyktingar som Lund tilldelats är oproportionerligt stor. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "För oss är det inte relevant vem som driver skolan utan kvaliteten på utförandet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen måste prioritera sina kärnverksamheter främst.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Lunds medborgare förtjänar mer pengar i plånboken i slutet av månaden. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1687",
+          "1680",
+          "1688"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;D;A;D;B;D;B;D;C;C;2/5;1/5;0/5;[1687,1680,1688]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "",
+    "name": "Kristdemokraterna Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-lund"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1058",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi delar ambitionen att främja minskat bilåkande i stadskärnan och att prioritera gång, cykel och kollektivtrafik. Att helt förbjuda all biltrafik motsätter vi oss dock eftersom bilen i enskilda fall kan vara en nödvändighet för att få vardagspusslet att gå ihop, till exempel om man bor på landsbygden eller har ett funktionshinder.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas kraftfulla verktyg att sätta in mot elever som stör för att säkerställa att det råder lugn och ro i Lunds skolor. Det är den som mobbar som ska flyttas, inte den som mobbas. Men jourskolor där alla som stör flyttas till en och samma skola skapar nya problem. Vi tror istället på särskilda undervisningsgrupper med fokus på lärande med kvalificerade lärare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En tågtunnel under Lunds station skulle leda till avsevärt minskat buller och partikelutsläpp samt eliminera den barriäreffekt som järnvägen utgör i dagsläget. Det skulle läka ett sår i centrala Lund och frigöra nya ytor för bebyggelse i centrala lägen. En sådan lösning förutsätter dock medfinansiering från staten eftersom det rör sig om ett infrastrukturprojekt av nationell angelägenhet.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Beslutet att bygga ut E22 är taget av den rödgröna regeringen (S tillsammans med MP då de styrde ihop), och inte av Lunds kommun. Om regeringen vill ompröva beslutet att bygga ut E22 motsätter vi oss inte det. Avfarten som planeras vid Ideon är dock en grundförutsättning för att staten, via Länsstyrelsen, ska godkänna den expansion som planeras vid Medicon Village och Ideon Science Park.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Biltullar i en stad som Lund skulle bli ett hårt slag mot stadskärnan, mot landsbygden där tillgången på kollektivtrafik är begränsad och mot vardagspusslet för många invånare. I storstäder med biltullar finns oftast tunnelbana som alternativ medan här kan man knappt ta sig med buss om man bor i Genarp. De rödgrönas biltullar riskerar att leda till ökade utsläpp när fler gör inköp på annat håll.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Redan idag har Lunds kommun ett lägre arbetstidsmått, alltså en kortare arbetstid inom äldreomsorgen. Frågor av detta slag bör diskuteras och förhandlas mellan arbetsmarknadens parter och inte fattas som ett politiskt beslut.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grundläggande språkkunskaper i svenska språket är en förutsättning för att personal och brukare ska kunna kommunicera med varandra. Därför är vår ambition att alla som jobbar inom hemtjänsten och äldreomsorgen och som är i kontakt med brukare ska kunna grundläggande svenska.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi prioriterar blandad bebyggelse och byggnation även av hyresrätter redan idag. Bland annat får det kommunala bostadsbolaget redan förmånliga villkor för att bygga. Idag behöver vi större bostäder för exempelvis barnfamiljer, där många önskar bo i småhus och villor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi välkomnar seriösa och ansvarstagande företag som vill vara med och utveckla vår gemensamma välfärd. För oss är inte driftsformen ett självändamål i sig, utan det viktigast är att vi har god kvalitet och valmöjligheter för den enskilde inom äldreomsorgen.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill säkerställa bra laddinfrastruktur i kommunens parkeringshus, bostäder och vid större offentliga verksamheter som skolor och vårdhem, och i byarna. Vi vill utreda möjligheten att ladda från lyktstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lund ska ta sitt ansvar för flyktingmottagandet precis som alla andra kommuner. I dagsläget tar Lund dock ett oproportionerligt stort ansvar i förhållande till många andra skånska kommuner. Vi vill se en jämnare fördelning av flyktingar mellan de skånska kommunerna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "För oss är inte driftsformen det viktiga, utan kvaliteten i skolan. Vi välkomnar seriösa och ansvarstagande företag som vill bidra till att ge våra barn och unga bra utbildning i Lund. Däremot vill vi begränsa hur mycket vinst som tas ut från sådana företag. Kommunala skolor ska alltid finnas som ett grundalternativ som erbjuder utbildning av hög kvalitet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "För att vi som bor i Lund ska trivas i kommunen, se våra barn växa upp här och våra ungdomar bli kvar, krävs långt mer än bara en väl fungerande kommun. Det krävs ett levande kulturliv och en aktiv fritid, med idrottsmöjligheter, konserter, föreningsliv, bra bibliotek och kulturskola. Vi vill därför fortsätta satsa på ett rikt kultur-, förenings- och nöjesliv.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Att vi på sikt kan få ett lägre skattetryck är bra. Men det får inte gå ut över kvaliteten i välfärdens kärna. Att vi har hög kvalitet i förskola och skola är en av anledningarna till att många vill bosätta sig i vår kommun. Men kvaliteten måste bli ännu bättre. Därför vill vi prioritera resurser till skolan framför stora skattesänkningar i kommande budgetar.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1682",
+          "1688"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;D;B;D;A;D;B;C;C;B;2/5;3/5;1/5;[1686,1682,1688]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Alla partier är välkomna att ingå i vårt styre, med undantag för V och SD. Vi söker dock lundabornas mandat att fortsätta leda ett styre med Lundakvintetten (med M, C, KD och FNL) eftersom den konstellationen ger störst möjlighet att genomdriva liberal politik som är bäst för Lund.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det är inte aktuellt för oss att styra med vare sig SD eller V.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En förskola och skola där alla barn utmanas och får utvecklas i sin egen takt",
+        "description": "Alla barn, oavsett bakgrund, ska nå sin fulla potential i Lunds skolor. För att nå dit vill vi prioritera en individanpassad skola med fokus på kunskap och kvalitet. Varje barn ska ses utifrån sina egna förutsättningar. Vid behov ska särskilt stöd sättas in tidigt. Särskilda undervisningsgrupper kan vara ett alternativ för elever i svårigheter. Även högpresterande elever ska utmanas i skolan."
+      },
+      {
+        "category": "En äldreomsorg där den enskildes egna önskemål och behov står i centrum",
+        "description": "De äldre är inget kollektiv. Individens behov av service och omsorg, rätt att välja och rätt till självbestämmande ska stå i centrum. Vi värnar valfriheten och tillgången till olika boendeformer. Vi vill inrätta en IT-fixare som kan komma hem och hjälpa äldre med IT-tjänster. Vi vill även införa en träningscheck för personer som är 75 år eller äldre för att hålla igång kroppen."
+      },
+      {
+        "category": "Ett Lund som fortsätter utvecklas hållbart",
+        "description": "Vi vill fortsätta utveckla Lund som ett av Europas främsta kunskaps- och innovationscentrum. Vi värnar våra parker och grönområden samt den medeltida stadskärnan. Vi vill även att byarna utvecklas utefter sina egna särdrag och historik. Vi ska bejaka grön teknik och främja resande med kollektivtrafik och cykling för att underlätta omställningen till ett klimatsmart samhälle."
+      }
+    ],
+    "motivateVote": "Vi står för en politik med både hjärta och hjärna som förenar tron på att det ska löna sig att utbilda sig, arbeta och göra rätt för sig med en bra välfärd som ger stöd då den egna förmågan inte räcker till. Skolan och förskolan är särskilt viktiga frågor för oss eftersom det är där grunden läggs för varje människas möjlighet att styra över sitt eget liv. Vi tror på både valfrihet och eget ansvar.",
+    "name": "Liberalerna Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-lund"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "1059",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "En bilfri stadskärna skulle ge en trevligare och mer levande stad. Det skulle skapa plats för fler uteserveringar, grönska, lekplatser, sittplatser, evenemang, cyklister och fotgängare. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill inte skapa särskilda skolor för elever som uppfattas som stökiga, utan istället ge eleverna och lärarna det stöd och de resurser som behövs för att alla elever ska klara sin skolgång och lärarna ska ha tid med varje elev.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att minska utsläppen från trafiken vill Miljöpartiet storsatsa på järnvägen. Miljöpartiet vill tidigarelägga färdigställandet av den nya järnvägen mellan Lund och Hässleholm. Att nu bygga en tågtunnel genom Lund skulle tvärtom försena den nya järnvägen och därmed göra det svårare att nå klimatmålen. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om motorvägen E22 byggs ut kommer det att leda till mer trafik och ökade utsläpp. Att investera i mer motorväg mitt i en klimatkris är helt fel. Lunds kommun borde istället investera mer i att göra det lättare att cykla och åka kollektivt. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att införa trängselskatt är ett förslag som kommit från Lunds kommuns klimatpolitiska råd. I klimatpolitiska rådet sitter några av landets främsta klimatexperter. För oss är det viktigt att lyssna på experterna.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill förbättra arbetsmiljön och höja lönerna i äldreomsorgen. Detta är en viktig fråga för att locka fler till yrket och kunna erbjuda en god omsorg. Det är också en viktig jämställdhetsfråga, eftersom yrkena i äldreomsorgen i hög grad är kvinnodominerade. På sikt vill vi införa sex timmars arbetsdag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att de som arbetar inom hemtjänst och äldreomsorg har goda kunskaper i svenska. Miljöpartiet menar att arbetsgivaren bör erbjuda utbildning och att den anställda får lära sig svenska på jobbet. Tester kan ingå i detta, men det viktiga är att arbetsgivaren erbjuder den anställda möjlighet att lära sig svenska. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds kommun har stor bostadsbrist. Vi vill därför ha en ambitiös bostadspolitik med stort fokus på att bygga billiga hyresrätter och studentlägenheter. Vi vill bygga billiga hyresrätter genom det kommunala bostadsbolaget LKF, genom att minska parkeringsnormen och genom att testa nya modeller för att bygga billiga hyresrätter med inspiration av andra kommuner, exempelvis Mallbo i Malmö. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör vara tillåtet för privata aktörer att driva äldreboenden och hemtjänst, förutsatt att dessa ej är vinstdrivande. Skattepengar som ska gå till välfärden ska inte betalas ut i vinst. Vi vill få bort de kommersiellt inriktade aktörerna och i stället främja idéburna verksamheter som komplement till den kommunala servicen. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet vill underlätta hållbart resande. Utsläppen från trafiken måste minska. Det ska var enkelt för alla att ladda elbilen eller tanka hållbart bränsle. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "I maj 2022 fanns det för första gången någonsin över 100 miljoner människor på flykt i världen. Då har Sverige som rikt land och Lund som rik kommun ett stort ansvar att välkomna människor och ge dem en möjlighet att bygga ett liv här. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Alla utförare inom välfärden ska ha som främsta motiv att bedriva en verksamhet med hög kvalitet. Syftet med verksamheten ska inte vara att dela ut vinst. Vi vill därför få bort de kommersiellt inriktade aktörerna och i stället främja idéburna verksamheter som komplement till de kommunala aktörerna. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": " Alla som lever och verkar i Lund ska ges tillgång till ett konst- och kulturliv med kvalitet och mångfald, och uppmuntras till eget skapande. Att satsa mer på kultur är också att satsa på en meningsfull fritid för alla barn och unga.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "De senaste åren har vi föreslagit en skattehöjning om 25 öre per intjänad hundralapp. Vi ser att det är nödvändigt för att kunna erbjuda en god välfärd, inte minst satsa på en bra förskola och skola. Vi behöver också accelerera vårt klimartarbete och stora investeringar behövs för att Lund ska lyckas bli klimatneutralt 2030.  Miljöpartiet ser inget egenvärde i att höja skatten men anser att skatte",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1685",
+          "1683"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;B;D!;A!;D;B;D;C;D!;A!;0/5;4/5;3/5;[1686,1685,1683]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Maxtak för antal elever per kurator och skolpsykolog",
+        "description": "Ungas psykiska ohälsa har ökat mycket de senaste åren. Akademikerförbundet SSR och Psykologförbundet rekommenderar ett maxtak om 300 elever per kurator och 500 elever per skolpsykolog för att det förebyggande och främjande elevhälsoarbetet ska hinnas med. Vi vill att kommunen beslutar om maxtak i linje med professionens rekommendationer och investerar i elevhälsan för att nå upp till dessa nivåer."
+      },
+      {
+        "category": "Supercykelstråk Malmö-Lund",
+        "description": "Många pendlar mellan Lund och Malmö eller från någon av orterna däremellan. MP vill därför att cykelvägen byggs ut och rustas upp ordentligt till ett supercykelstråk, med stor kapacitet i båda riktningar för alla typer av cyklar. Ur klimatsynvinkel gör kommunens investeringar i cykelvägar störst nytta genom att erbjuda alternativ till bilpendling, vilket också erfarenhet från t.ex. Köpenhamn visar"
+      },
+      {
+        "category": "Bilfri stadskärna",
+        "description": "Vår vision är en levande stad som ger plats åt grönska, handel, uteserveringar och lekande barn. Därför vill vi att Lunds stadskärna ska bli bilfri. Grönska bidrar till trivsel och psykisk hälsa, samtidigt som det är en kolsänka och luftrenare. Till dess att stadskärnan är helt bilfri vill vi att Lunds kommun inför sommargågator i centrum för att främja gående och cyklister."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Miljöpartiet Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-lund"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1060",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bilen är för många ett nödvändigt transportmedel. Dessutom är risken stor för att centrumhandeln påverkas negativt om hela stadskärnan görs oåtkomlig med bil. Med bättre kollektivtrafikförbindelser och parkeringshus kan personbilarna ta mindre plats i stadskärnan. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds skolor ska präglas av trygghet och studiero. En viktigt del i detta är att det är eleven som mobbar eller stökar som ska flytta på sig och inte övriga elever som ska drabbas. Jourskolor skulle kunna fungera som ytterligare ett verktyg för trygghet och studiero. Sådana bör kombineras med särskilda insatser för att socialt och medicinskt hjälpa eleverna med deras skolgång och beteende. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En tågtunnel under staden verkar naturligtvis lockande. Samtidigt måste det ställas i relation till kostnaden. Den stora delfinanisering som krävs från Lunds kommun för att förslaget ska bli verklighet kommer innebära ett enormt ekonomiskt åtagande som är oförenligt med ordning och reda i ekonomin. Skulle staten fullt ut finansiera en tunnel är vi positiva till en sådan, men det är inte sannolikt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att Trafikverket utreder en överbyggnad av E22:an. Det skulle möjliggöra fler bostäder och grönområden. Nästan 12 000 Lundabor pendlar från Lund till Malmö. Flera av dessa åker med bil och kör på E22:an. Även en framtida fossilfri fordonsflotta behöver bra vägar att köra på. För att underlätta för biltrafiken och minska olycksrisken vill vi därför att ut E22:an byggs ut och blir sexfilig.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bilen kommer även i framtiden att behövas av många människor. Utsläppen ska sänkas och slutligen helt upphöra när fordonsflottan blir fossilfri genom exempelvis elbilar. Bilen är för många ett viktigt transportmedel för att få livspusslet att gå ihop. Biltullar slår hårdast mot människor med små och vanliga inkomster som behöver bilen i sin vardag.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige och Lund behöver fler arbetade timmar för att stärka välfärden, möta kompetensbristen och de demografiska utmaningarna vi står inför. Det vill vi åstadkomma genom att göra det mer lönsamt att arbeta samt satsa på yrkesutbildning och bättre möjligheter till omställning. Inte genom att ändra arbetstiden.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill säkerställa att den personal som arbetar inom hemtjänsten och äldreomsorgen kan begriplig svenska. Därför vill vi se en kartläggning av språkkunskaperna i kommunens välfärdstjänster och i de fall dessa brister erbjuda utbildning i svenska. Detsamma gäller vid nyanställning. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommer att byggas fler kommunala hyresrätter. Moderaterna vill inte subventionera hyror med Lundabornas skattepengar. Ett större problem är den långa kötiden som gör det svårt för framför allt unga att få in en fot på bostadsmarknaden. Moderaterna vill därför se särskilda köer för Lundaungdomar och nyexaminerade studenter. Detta för fler unga ska ha möjlighet att stanna kvar och bo i Lund.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för den valfrihet som erbjuds Lundaborna genom att kommunen och privata aktörer driver äldreboenden och hemtjänst. Samtidigt vill vi se skarpare kvalitetskrav i välfärden. Vi vill införa nolltolerans mot misskötsel i välfärden och att kommunen mer aktivt än idag följer upp kvaliteten i både privat och offentlig regi. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill att kommunen arbetar aktivt med att få fram fler publika laddstolpar i kommunen. Det är viktigt att kommunen tar ansvar för och bidrar till att möjliggöra för fler Lundabor att kunna köra fossilfritt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna tycker att Sverige ska ta emot färre flyktingar. För Lunds del skulle det innebära att färre flyktingar anvisas hit. Det krävs en mer restriktiv migrationspolitik för att Sverige ska klara av de stora integrationsproblemen som märks med utanförskap och brottslighet. De flyktingar som anvisas till Lund ska mötas av tydliga krav på självförsörjning och att lära sig svenska.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Det viktiga är att Lunds skolor håller en hög kvalitet oavsett utförare. De fristående skolorna kan i många fall utgöra ett bra komplement till de kommunala skolorna. I den mån det finns en efterfrågan bland Lundaborna och ett intresse hos fristående aktörer att expandera välkomnar vi en viss tillökning av antalet fristående skolor. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att Lundaborna ska få ut mer kultur för de skattepengar som läggs på kulturverksamheter. Idag går miljoner av Lundabornas skattepengar till invånare i andra kommuners kultur- och idrottsaktiviteter. Detta vill vi ändra på genom att ändra bidragsregler till föreningslivet och sänka priserna för kultur- och idrottsaktiviteter för medborgare i Lunds kommun. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Lundaborna betalar nästan Skånes högsta skatt. För detta får vi, enligt kommunens effektiviseringspolitiska råd, en genomsnittlig kvalitet i välfärden till mycket höga kostnader. Det har blivit dyrt att vara Lundabo. Vi vill minska slöseriet och göra det mer lönsamt att arbeta. Vår skattesänkning på 60 öre skulle innebära ungefär 5000 kronor mer i plånboken om året för en familj där båda jobbar. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": "Vi vill göra det mer lönsamt att jobba och bo i Lunds kommun genom sänkt skatt med 5000 kronor om året för en familj där båda jobbar. Vi vill prioritera tryggheten i hela kommunen med ordningsvakter, poliser, kameror och förebyggande insatser. Vi vill se en byggnadspolitik där stadens och byarnas karaktärer värnas och möjliggöra fler småhus med trädgård samt fler  fribyggartomter. ",
+        "value": [
+          "1680",
+          "1682"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;B;A;D!;B;D!;B;D;C;C;3/5;2/5;0/5!;[1680,1682]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Moderaterna i Lund vill att elpriset för Lundaborna ska sänkas och att skåningarna slutar straffbeskattas. Därför tycker vi att elprisområdena ska avskaffas. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Moderaterna söker förtroende att bilda ett borgerligt moderatlett styre efter valet. Vi samarbetar gärna fortsatt med de partier som ingår i det nuvarande borgerliga styret. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi utesluter inte samarbete med något parti. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "5000 kronor mer i familjens plånbok – sänk skatten med 60 öre",
+        "description": "Lundaborna betalar nästan Skånes högsta skatt.  För detta får vi, enligt kommunens effektiviseringspolitiska råd, en genomsnittlig kvalitet i välfärden till mycket höga kostnader. Det har blivit dyrt att vara Lundabo. Vi vill minska slöseriet och göra det mer lönsamt att arbeta. Vår skattesänkning skulle innebära ungefär 5000 kronor mer i plånboken om året för en familj där båda jobbar."
+      },
+      {
+        "category": "Trygghetsskapande insatser i staden och byarna",
+        "description": "Lund ska vara Sveriges tryggaste kommun att bo och vistas i. Ska Lund vara tryggt i framtiden krävs rätt politiska beslut idag. Vi vill se fler ordningsvakter i staden och byarna, fler poliser, bättre belysning, kamerabevakning på fler platser och förebyggande insatser mot brottsbenägna unga."
+      },
+      {
+        "category": "Bygg fler småhus, villor och radhus i Lunds kommun",
+        "description": "Ett eget boende med trädgård är en dröm för många. Samtidigt har Lund, efter Malmö, lägst andel småhus i hela Skåne. Vi vill att kommunen prioriterar upp byggandet av småhus genom att erbjuda fler fribyggartomter, planera för så kallade trädgårdsstäder och utreda vilka verktyg som finns för att fler Lundabor med små och vanliga inkomster ska få råd och möjlighet att bo i ett eget hus med trädgård."
+      }
+    ],
+    "motivateVote": "När ekonomin blir osäkrare och det mesta dyrare ska man välja oss. Vi lovar att hålla ordning i ekonomin och göra det mer lönsamt att jobba, driva företag och bo i Lund. Med minskat slöseri kan välfärden förstärkas och skatten sänkas med ungefär 5000 kronor för en familj där båda jobbar. Vi kommer också prioritera tryggheten. Ska Lund vara tryggt i framtiden krävs rätt politiska beslut idag.",
+    "name": "Moderaterna Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-lund"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1061",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vill vi möjliggöra en god tillgänglighet och en mer levande stadskärna med handel, service och nöjen. Därför vill vi se fler satsningar för främst gående, cyklister och kollektivtrafik. Men man måste också kunna ta sig till centrum med bil. Vi vill förbättra möjligheten till parkering i utkanterna av centrum och införa gågator så att stadskärnan kan avlastas från mer biltrafik.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Att inrätta jourskolor för elever som stör är inte rätt väg att gå. Skolan behöver fler lärare, inte färre. Sedan 2018 har det borgerliga styret sett till att det blivit färre lärare trotts att det samtidigt blivit 600 fler elever. Det håller inte. Vi vill istället ha fler lärare, mindre klasstorlekar och mindre administrativa pålagor för lärarna. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En tågtunnel under staden hade kunnat vara en bra lösning för Lund. Men Trafikverket har varit mycket tydliga med att den kostnaden på ca 15 miljarder hade i så fall kommunen fått stå för själv. Det blir alldeles för dyrt och hade motsvarat alla investeringar i skolor, äldreboenden, parker mm i över tio år. Vi kräver ett yttre godsspår väster om Lund som gör att godstrafiken inte går genom centrum",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att breddningen av E22 genom Lund omprövas, däremot behövs den nya avfarten. En breddning ökar trafikstörningarna och utsläppen och är inte nödvändig för framkomligheten. Vi vill att stora delar av E22 genom Lund däckas över så att den blir i tunnel. Då kan man bygga bostäder ovanpå, minska barriärerna mellan östra och västra delarna av staden och få bort buller. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi socialdemokrater är inte för trängselskatt i Lund. Resultatet av en sådan skatt skulle vara att resurssvaga familjer och individer betalar ett högre pris i relation till sin inkomst jämfört med de som tjänar mer. I stället behöver förutsättningarna för kollektivtrafik, cyklister och gående stärkas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "\r\nArbetsvillkoren inom äldreomsorgen måste förbättras väsentligt. Vi vill steg för steg minska arbetstiden för personalen med målsättningen att på sikt nå 6 timmars arbetsdag. Det arbetet ska starta under den kommande mandatperioden genom minskad arbetstid. Vi socialdemokrater vill även att fler ska anställas inom omsorgen.\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "\r\nAtt införa ett språktest för nyanlända är inte rätt väg att gå. Däremot vill Socialdemokraterna utforma en modell för språkträning för anställda i välfärden som behöver förbättra sin svenska och införa en språkplikt som innebär att det blir obligatoriskt för asylsökande att delta i språkträning.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds kommun ska vara för alla, inte för de få. Därför måste kommunen verka för att det byggs fler bostäder med rimliga boendekostnader. Inte minst genom ökat byggande av kommunens bostadsbolag LKF. Idag är det mycket svårt att få tag på en hyresrätt, framför allt för unga. För oss är det av stor vikt att alla har möjlighet att flytta till en bostad. Utbudet måste möta efterfrågan. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vinstdrivande företag hör inte hemma i välfärden. Skatten ska gå till välfärd och inte vinster. Vi vill att välfärden ska drivas av kommunen, men också med möjlighet till inslag av andra icke-vinstdrivande aktörer. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Lund ska det vara lätt att göra rätt och ta ansvar för minskad klimatpåverkan. Därför behöver kommunen se till att hållbara alternativ finns tillgängliga, inte minst genom att öka tillgången till laddstolpar. Det gäller såväl inne i centrum som ute i stadsdelarna och i våra östra tätorter. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor i flykt ska känna sig trygga och få ett bra bemötande i kommunen. Vi styr inte över hur många personer i flykt vi tar emot, utan det styrs av nationella bestämmelser. Lund ska ta sin del av ansvaret. Människor i flykt ska känna sig trygga och få ett bra bemötande av kommunen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Skolan spelar en nyckelroll i barns framtid. Våra gemensamma skattemedel ska investeras i skolans kvalitet och personalens arbetsmiljö, inte tas ut i vinst av riskkapitalister. Vinstdrivande företag hör inte hemma i välfärden, men det ska finnas möjlighet till inslag av andra icke-vinstdrivande aktörer. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill se en kommun där tillgången till kulturliv inte avgörs av tjockleken på plånboken eller var du bor. Det fria kulturlivet ska främjas, men även den kommunala kultur- och fritidsverksamheten ska stärkas. Ett viktigt steg är att det ska finnas kulturverksamhet för barn och unga i alla delar av kommunen.  \r\n",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "För att stärka välfärden behöves mer resurser. Den senaste mandatperioden har skolan, äldreomsorgen och fritidsverksamheten försvagats till följd av stora nedskärningar. Lärarna har blivit 60 färre trots att eleverna blivit 600 fler. För att möta framtidens kan en mindre skattehöjning behövas. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1687",
+          "1688"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;A;C;D;D;D;A;D;A;D;A;0/5;4/5;3/5;[1686,1687,1688]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Socialdemokraterna prioriterar ett stabilt ledarskap med ordning och reda. Vi säger som det är och gör vad som krävs. Vi har traditionellt samarbetet bra med de rödgrönrosa partierna i Lund, men ser också goda förutsättningar med ett mittenparti som (C) men även med (L).",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Det enda parti vi helt utesluter samarbete med är Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler lärare i skolan",
+        "description": "För oss socialdemokrater är det självklart att skolan ska prioriteras och värnas. Vi vet att en bra skola också är en bra start i livet. Därför måste den borgerliga nedskärningspolitiken, där lärarna blir färre trots att eleverna blir fler, vändas till omfattande satsningar. Vi behöver högre lärartäthet, mindre barn- och elevgrupper i förskola och skola och bra läromedel till alla elever"
+      },
+      {
+        "category": "Ta tillbaka den demokratiska kontrollen över äldreomsorgen ",
+        "description": "Välfärden ska sätta individens behov i centrum – inte aktörers vinstintressen. Vi vill att det ska gå att bli äldre i Lunds kommun oavsett tjocklek på plånboken. Därför måste vi anställa med personal, ge våra medarbetare bättre villkor, ta bort avgifterna på hjälpmedel och se till att varje brukare får den hjälp den behöver."
+      },
+      {
+        "category": "Hela Lunds kommun ska utvecklas",
+        "description": "Välfärden måste stå stark och alla invånare måste få samma tillgång till lika bra service, oavsett var i kommunen du bor. Därför prioriterar vi lokala satsningar runtom i hela kommunen. Dessutom vill vi att de boende i stads- och kommundelarna ska ha större inflytande över utvecklingen i sitt närområde. Vi vill också rusta kommunen inför framtiden genom hållbara och klimatsmarta lösningar."
+      }
+    ],
+    "motivateVote": "Vi står för ett samhälle med en stark välfärd där alla ges möjlighet att utvecklas och får stöd och hjälp utifrån sina förutsättningar. När samhället står upp för den enskilde skapar vi också förutsättningar för välmående för alla. Vi är det parti som satsar på välfärden och skapar bättre förutsättningar för fler jobb, samtidigt som vi genomför den gröna omställning som klimatfrågan kräver.",
+    "name": "Socialdemokraterna Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-lund"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1062",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturligtvis ska Lunds stadskärna vara åtkomlig för alla, bilister, cyklister och resande med kollektivtrafik. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Elever som stör ska flyttas till särskilt inrättade jourskolor, så att övriga elever kan tillgodogöra sig skolarbetet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förslaget är ganska bra, men frågan är om den ens är genomförbart eller bara ett projekt som slukar massa pengar i utredningar för att sen i slutändan inte kunna genomföras. Riskerar också att bli ett projekt med ofantligt stora kostnader. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "En breddad E22 behövs för att biltrafiken ska flyta bättre. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, alla förslag om trängselskatt ska avvisas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det är inte möjligt att bibehålla en heltidslön och endast arbeta sex timmar. Däremot måste vi arbeta för att äldreomsorgen ska vara en mer attraktiv arbetsplats. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är otroligt viktigt för våra äldre att kunna kommunicera med personal inom hemtjänst och äldreomsorg på svenska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vilka ska bo i dessa billiga hyreslägenheter? ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska privata bolag tillåtas driva äldreboenden och hemtjänst, men det är viktigt att kvalitén kontrolleras. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej, det är inte kommunens uppgift att lägga skattepengar på att bygga publika laddstolpar. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja, helt rätt. Lunds kommun har under flera år tagit emot flest kvotflyktingar i Skåne. Vår kommun måste få ta en paus och fokusera på de som redan finns här. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Det är en fungerande balans i Lunds kommun. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen och Historiska Muséet behöver mer stöd. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Lunds kommun kan inte fortsätta att ha så högt skattetryck. Det medför bara att personer bosätter sig i andra kommuner och jobbar i Lund och då går kommunen miste om de skattepengarna helt och hållet. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1680"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;C;A;D;A;D!;A;D;A;D!;2/5;3/5;0/5!;[1680]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vår ambition är att ingå i styret i Lund tillsammans med Moderaterna, Kristdemokraterna, För Nya Lund (lokalt parti) och eventuellt även Liberalerna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är öppna för samarbete och samtal med samtliga partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghet",
+        "description": "Öka/förbättra tryggheten - både i centrala Lund och i byarna.\r\nTrygghetsvärdar i byarna hade vi med i vår budget för 2022.\r\nÄven ökade anslag till ordningsvakter och utökat stöd till våra nattvandrare."
+      },
+      {
+        "category": "Äldreomsorg",
+        "description": "Fler kommunala ålderdomshem för att minska ensamheten bland äldre och bygga kommunala 55+ boende för äldre som vill bo kvar i byarna"
+      },
+      {
+        "category": "Skola",
+        "description": "Färre mellanchefer, resurser ska gå till utbildning, inte administration. Återinföra skolvärd/skolvärdinna i våra skolor. Med kommunal subvention stötta vidareutbildning till behörighet för obehöriga lärare. Jourskolor för elever som stör och fler mindre skolor med färre elever."
+      }
+    ],
+    "motivateVote": "Vi värnar om Lunds kommuninvånare på bästa sätt. Lund ska fokusera på sin kommunala kärnverksamhet och vara aktsam med skattemedel. Lund ska också växa i lagom takt så att bykänslan bevaras i våra tätorter. ",
+    "name": "Sverigedemokraterna Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-lund"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1063",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "054095afba9dad9d4505e7627158e8a3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns goda möjligheter att göra fler gator i innerstaden bilfria vilket skulle gynna handel och restauranger samt vara positivt för klimatet. Vi vill prioritera kollektivtrafik och cykel i all stadsplanering.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "489255f4c0747b3d96f3110741454955",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill öka resurserna till skolan så att alla elever får det stöd de behöver men vi tror att rektorer, lärare och specialpedagoger bäst kan avgöra hur undervisningen ska bedrivas.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "95bfe6bb1f94bb5b11f5ba9cc5f65ee9",
+        "questionType": "PROPOSITION",
+        "reasoning": "En sådan satsning riskerar stå i vägen för andra mer brådskande satsningar på kollektivtrafiken. Vi vill se bättre tillgänglighet till Lund C och övriga stationer men också bättre kollektivtrafik till de östra kommundelarna.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "e2975d60f5d05873023e121c4441daf6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är helt nödvändigt för klimatet och för miljön i staden. Utbyggnad av E22 genom Lund leder till ökade utsläpp och ökat buller. På sikt får vi ökad trafik. Vi vill hellre satsa på kollektivtrafiken.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "dc34b7f2c1c47c306e275e946cb5b837",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trängselskatt kan vara en lösning för att minska trafikbelastningen och i förlängningen kunna satsa på nya klimatanpassade trafiklösningar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "11dd66459c33adc1775398f0544b0742",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta har Vänsterpartiet föreslagit i många år. Det skulle sannolikt få positiva effekter på sjukfrånvaro och trivsel och därmed skulle det kunna öka våra möjligheter att rekrytera till omsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "36300cde4cb5fa421585f095fdd14930",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språk är en av många viktiga kompetenser som behövs inom omsorgen men arbetet kan också vara ett mycket effektivt sätt att lära sig svenska. Det är onödigt att införa extra tester som gör rekrytering ännu krångligare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ed0bf6738d845b1356f3e507f8184a0e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostad är en del av välfärden och kommunen har allt att vinna på att det finns bostäder för alla.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "dfff2eead69c802299dd6c4796ad72c0",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste återta kontrollen över välfärden som finansieras med skattepengar. Vi föreslår att kommunen ska återta äldreboenden i kommunal regi så att vi ökar insyn och inflytande i verksamheten.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f11d7a80f01b217661fd40b35ae47570",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver göra mer för att underlätta omställningen från fossila till förnybara drivmedel.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3c77e94d8306ff8ec8dcad7f818cc258",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lunds kommun har god kapacitet för att ta emot flyktingar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0d2c23b19d97e42d332deeeb6ba35eb3",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste återta kontrollen över välfärden som bekostas av skattemedel. Privata friskolor försvårar kommunens planering och ger ingen möjlighet till insyn i verksamheten.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "d754809b134bedbbac94efe2074f2546",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill se ett brett utbud som kommer så många som möjligt till del. Särskilt vill vi satsa på Kulturskolan och på att sänka avgifterna för barn inom både kultur- och idrottsverksamhet.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "10e13bae74fa11231ca0bb9dc7936c02",
+        "questionType": "RANGE",
+        "reasoning": "Vi ser hellre statliga skatter på de riktigt höga inkomsterna än höjd kommunalskatt. Men i valet mellan låga skatter och generös välfärd väljer vi alltid välfärden.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "c07c2fadab10c252ee4c449a6e5faa25",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1686",
+          "1687",
+          "1688"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A!;B;D!;A;D!;A;D;A!;C;A;0/5!;4/5;3/5;[1686,1687,1688]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi hoppas få ökat förtroende i valet så att vi växer och därmed kan få mer inflytande över politiken i Lund.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Minska barngrupperna i Lunds förskolor och grundskolor",
+        "description": "Genom att minska barngruppernas storlek i förskolan och i grundskolan kan vi skapa en jämlik skola i världsklass. En skola där lärare ges förutsättningar att se och hjälpa varenda barn utifrån dess förutsättningar. Idag är barngrupperna i Lunds förskolor och grundskolor alldeles för stora."
+      },
+      {
+        "category": "Värna den högklassiga åkermarken",
+        "description": "Lunds kommun är full med bördig åkermark av hög klass. Särskilt kring Lunds tätort skapar detta begränsningar kring var och hur vi kan bygga. Vi motsätter oss mer bebyggelse på den bördiga åkermarken.\r\n\r\nVi vill istället se varsam förtätning i staden och mer nybyggnation i tätorterna öster om staden för att undvika att ta värdefull åkermark i anspråk. Lund ska växa, men på rätt ställen."
+      },
+      {
+        "category": "Stoppa dubbelbeskattningen av LKF:s hyresgäster",
+        "description": "LKF:s överskott kommer till största del från de hyror som hyresgästerna betalar. Att finansiera välfärden med hjälp av vinstuttag ur bolaget innebär att hyresgästerna betalar mer till Lunds välfärd än andra lundabor.\r\n\r\nLKF:s pengar ska användas till att rusta upp befintliga lägenheter och bostadsområden utan höga hyreshöjningar inte till att finansiera välfärden."
+      }
+    ],
+    "motivateVote": "Väljarna ska rösta på Vänsterpartiet för att vi är en garant för ökad jämlikhet och jämställdhet. Dessutom har vi den bästa politiken för klimatet.",
+    "name": "Vänsterpartiet Lund",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-lund"
+  }
+]

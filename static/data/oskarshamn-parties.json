@@ -1,0 +1,1130 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1343",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Centerpartiet anser att kommunen ska verka för en omställning till förnybar och fossilfri energi. Under omställningstiden som måste ske snabbt behövs alla energislag, även den befintliga kärnkraften. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolorna som finns idag är trångbodda och det finns inga möjligheter att bygga ut på befintliga skolor. Vi anser att en ny skola ska prioriteras då vi ser det som viktigt att vi satsar på barn och unga. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att det är viktigt att det finns en valfrihet inom äldreomsorgen. Att det finns alternativ att välja på än enbart kommunens.  Genom fler aktörer så tror vi att kvalitén ökar. Vi anser dock att all omsorg ska vara skattefinansierad. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att motverka utanförskap och isolering så kan arbete eller praktik skapa ett sammanhang vilket underlättar för personer att komma ur bidragsberoende. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att privata aktörer får möjlighet att verka på marknaden utan att konkurreras ut av kommunala bolag. Vissa kommunala bolag fyller en viktig funktion för samhällsnyttan. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": "I dagsläget är det en stor utmaning att bemanna vår äldreomsorg med rätt kompetens. Det är viktigt att hitta olika vägar att göra yrket attraktivt och heltidsmåttet kan behöva justeras ytterligare. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar kan behövas i undantags fall. Som folkvalda är vi beredda att ta ansvar för de beslut som måste fattas i olika frågor i en demokratisk process.  ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är viktigt för att de som är i behov av omsorg ska kunna göra sig förstådda och förstå. Med den brist på personal som idag finns så anser vi att de som inte kan språket så bra kan utföra andra arbetsuppgifter inom äldreomsorg där språket inte är lika viktigt. Detta i ett första steg för att sedan kunna utbilda sig och arbeta inom vård och omsorg med alla arbetsuppgifter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen bör ha ett ansvar att underlätta för de aktörer som vill etablera publika laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med målet att bli 30000 invånare behöver vi bli fler.  Det behöver finnas en bra strategi för mottagande där kommunen och  näringslivet tillsammans med civilsamhället hjälps åt för att få människor att trivas, komma in i arbete och stanna kvar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": "Det viktigaste är en skola med hög och god kvalité, inte ägandeformen. De två friskolor som finns i kommunen är kooperativ på mindre orter som startat när kommunen lagt ner sin verksamhet. Detta visar att det är viktigt att möjliggöra för olika aktörer att etablera sig. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen ska vara öppen och tillgänglig för alla medborgare i Oskarshamn, unga, äldre, personer med funktionsvariationer, boende i staden eller på landsbygden. För alla är kulturen lika viktig. Kulturevenemang av olika slag är lika viktiga i våra yttertätorter som inne i staden.  ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1959",
+          "1958",
+          "1960"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A!;B!;D;C;B;B;B!;B;C;A;3/5;3/5;1/5;[1959,1958,1960]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Centerpartiet vill sitta i majoritet där vi får största möjliga inflytande att driva igenom vår politik. Under denna mandatperiod har vi samarbetat parlamentariskt kring olika frågor. Ett samarbete som fungerat väl och vi kan därför se flera möjligheter till samverkan. Men valresultatet måste säga sitt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna då vi står för långt ifrån varandra värderingsmässigt. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Levande landsbygd",
+        "description": "Vi behöver göra det möjligt att bo, leva och arbeta i hela kommunen. Både i och utanför tätorter. En god kommunal service med förskola, skola och äldreomsorg. Bredbandsutbyggnad för att skapa goda villkor för företagande utanför tätorterna."
+      },
+      {
+        "category": "En skola med fokus på eleven",
+        "description": "Barn och ungdomar ska ges möjlighet att få en bra utbildning med hög kvalite och  känna trygghet i skolan. Centerpartiet i Oskarshamn vill ge mer resurser till elevhälsan då rapporter visar att många barn och ungdomar mår psykiskt dåligt. Förebyggande arbete där olika professioner ges förutsättningar så att eleverna får den hjälp de behöver."
+      },
+      {
+        "category": "Vård och omsorg i hela kommunen ",
+        "description": "Centerpartiet vill ge möjlighet för äldre att bo i hela kommunen. Både genom trygghetsboende och särskilt boende. Boende där varje individ bestämmer över sin vardag och vara delaktig över den hjälp de får och kunna fortsätta leva som de tidigare gjort. Personalen ska ha kompetens och möta varje individs behov. Det ska också finnas en hemtjänst med hög kvalite som gör det möjligt att bo kvar hemma."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett grönt, liberalt parti som står för en hållbar utveckling i hela Oskarshamns kommun. Vi vill skapa en attraktiv kommun både för våra medborgare och för våra företag. Våra prioriterade områden är landsbygd, företagande, hållbarhet, utbildning, föreningsliv och nära vård och omsorg. För Oskarshamns bästa vill vi ge kraft åt varje människa. ",
+    "name": "Centerpartiet Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-oskarshamn"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1344",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver mer el. Den behöver vara utsläppsfri och kunna planeras 365 dagar om året. Därför behövs kärnkraften.  Oskarshamn ( simpvarp) är det mycket lämpligt att bygga ut kärnkraften där finns kunskap, arbetskraft och kraftledningar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs en ny skola F-9-skola i Oskarshamn. Elevantalet ökar och dagens skolor är mycket trångbodda. För att Oskarshamn ska vara en attraktiv kommun behövs bra skolor",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om flera aktörer bedriver äldreomsorg höjs kvalitén och valfriheten",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Från att vara helt ute från arbetsmarknaden är det bra med en mjuk ingång på arbetsmarknaden.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska inte bedriva verksamheter som det privat näringslivet kan utföra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett mycket dyrt förslag hellre anpassade scheman och karriärmöjligheter i äldreomsorgen ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Lokala folkomröstningar ökar den lokala demokratin. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att ha en hög kvalitet och att omsorgstagarna känner sig förstådda är det mycket viktigt att personalen talar svenska. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommun ska skapa förutsättningar för att hyreslägenheter byggs i Oskarshamns kommun",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuns ska skapa förutsättningar att det finns tillgång till ladd stolpar i hela Oskarshamns kommun. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste ta hand om de flyktingar som kommer till Oskarshamn på ett bra sätt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": "I dag finns det bara en privat friskola på grundskolenivå det behövs fler för att öka kvalitén och valmöjligheterna ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": "Kommunalskatten i Oskarshamns kommun ska sänkas till ett medel för Kalmar län. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1960",
+          "1957",
+          "1962"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A!;A!;C;D;A;C;D;A;B;C;4/5;3/5;1/5;[1960,1957,1962]",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i några stora frågor",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgligt styre  ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej vi kan samarbeta med alla partier",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreboendegaranti ",
+        "description": "Att de som är äldre än 85 år garanteras en plats på vård- och omsorgsboende utan biståndsbeslut. Vi kristdemokrater menar att rådande ordning där många äldre många gånger tvingas vara väldigt sjuk innan man får  komma in på ett boende är en oacceptabel omsorg av våra äldre."
+      },
+      {
+        "category": "Minska barngrupperna i förskolan",
+        "description": "Barngrupperna i förskolan behöver bli mindre. För de minsta barnen är det särskilt viktigt. Ett litet barn klarar inte att relatera till alltför många personer. Mindre barngrupper ger också pedagogerna möjlighet att bedriva en bra verksamhet. Vi vill införa ett maxtak för barngruppernas storlek baserat på aktuell aktuell forskning kring barns välmående i förskolan."
+      },
+      {
+        "category": "Ett landsbygdsprogram för Oskarshamns kommun",
+        "description": "En attraktiv och levande landsbygd skapar goda förutsättningar för att bo, verka och leva i hela vår kommun. Vi vill att ett långsiktigt hållbart  landsbygdsprogram tas fram där olika aktörer, däribland lokala företagare och lokal samhällsförändringar involeras."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna sätter människovärdet främst och vill prioritera det som är nödvändigt för att bygga ett Oskarshamn som håller ihop. Vården , äldrefrågor och trygghetsfrågor är våra prioriterade frågor. Vill du ha en äldreboendegaranti, maxtak i förskolan och en levande landsbygd så ska du rösta på Kristdemokraterna.",
+    "name": "Kristdemokraterna Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-oskarshamn"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1345",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har goda förutsättningar med både kunskap och infrastruktur att bidra med utökad kärnkraftsverksamhet i Oskarshamn, något som har varit historiskt viktigt för Oskarshamn som kommun och det kompetensbestånd vi besitter. Det är viktigt för vårt näringsliv och kommunens attraktivitet. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi står fast vid inriktningsbeslutet som togs, vi vill att våra barn och ungdomar ska ha de bästa förutsättningarna för utbildning. Dagens lokaler är inte ändamålsenliga och idag bedrivs undervisning i paviljonger istället för lämpliga klassrum. Vi behöver även möta den demografiska utvecklingen i Oskarshamns kommun genom att bygga en ny F-9 skola. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser nu utfallet av vad som hände genom nedläggningen av Hultgården/Charlottagården. En skattehöjning till ett boende som ännu inte öppnat, samt en folkomröstning som kostade drygt 1,2 miljoner kr. Vi har drivit frågan om att öppna upp för privata aktörer som kan göra ett bättre jobb för mindre kostnader. I april 2022 stod 35 personer i kö till kommunens boenden, vilket är helt oacceptabelt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Utanförskapet är en av Sveriges mest tuffa utmaningar. Över 1,3 miljoner människor i arbetsför ålder arbetar så pass lite att de behöver komplettera sin inkomst med olika bidragsformer. Liberalerna står bakom en offensiv företagspolitik för att göra fler anställningsbara. Vi vill införa en ny anställningsform med något lägre ingångslön och avskaffade arbetsgivaravgifter för unga och nyanlända. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": "Grundförutsättningarna är att inga kommunala företag ska konkurrera ut det privata näringslivet. Vi behöver värna om det lokala näringslivet. Det har emellertid inte varit ett stort problem i Oskarshamns kommun, de kommunala aktörerna idag har en fungerande verksamhet som inte utgör ett direkt hot mot näringslivet, och således bör inga kommunala bolag i dagsläget avvecklas. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": "De kommuner som har provat att införa detta har återgått till att jobba 40 timmars arbetsvecka igen. Nackdelarna visade sig vara för många. Det har varit svårt att hitta bemanning för alla tider, vilket lett till ökat tryck på verksamheten och mer övertidsarbete. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar tenderar till att ha betydligt lägre valresultat, som politiker sedan fattar beslut kring. Folkomröstningar underminerar den representativa demokratin och är ofta kostsamma. Den senaste folkomröstningen kostade skattebetalarna i Oskarshamns kommun över 1,2 miljoner kronor - pengar som skulle kunna användas till satsningar på resurser i skolan. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Detta är en fråga som handlar om brukarens vårdsäkerhet. Vi vill fortsätta anställa kompetent personal, men samtliga inom äldreomsorgen behöver klara grundläggande språkkunskaper i svenska. IVO har rapporterat om bristande språkfärdigheter inom äldreomsorgen - nu krävs åtgärder. Allt för många talar inte tillräckligt bra svenska, och då får fler äldre också sämre omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oskarshamns kommun har genom sitt bostadsbolag Byggebo också möjliggjort för detta redan. Det finns lediga lägenheter för omedelbar inflyttning och kommunen har redan säkerställt en flexibel och rörlig bostadsmarknad. Det är dock viktigt att upprätthålla lägenheter som passar olika människor efter plånbok för att fortsätta vara en attraktiv kommun att leva och bo i. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inte kommunens uppgift att tillhandahålla laddstolpar, sälja el och därmed subventionera el. Det är dock viktigt att bemöta den omställning som nu sker i samhället. Det är oftast hemma man vill ladda bilen, så vi vill istället satsa på att fler hyresgäster i kommunen får utökade möjligheter att ladda bilen hemma. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett solidariskt ansvar att ta emot de flyktingar som har beviljats att vistas i vårt land. Oskarshamns kommun ska fortsätta ta det ansvar som det nationella flyktingmottagandet innebär. Vi ser detta som en långsiktig tillgång till Oskarshamns kommun och vår tillväxt. Kommunens ekonomi påverkas inte särskilt hårt då mycket regleras genom statligt stöd för mottagandet. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": "Fler aktörer inom skolan ökar elevernas och föräldrarnas möjlighet att välja en skola som passar dem. Finns det ett intresse från privata aktörer, bör kommunen underlätta för etableringen av nya friskolor. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": "Det finns ett gott föreningsstöd till olika kulturföreningar för att vara en kommun av vår storlek och vi har vi ett bra utbud av kultur för både stora och små. Vi vill möjliggöra goda förutsättningar för ett rikt kulturliv. Idag har t.ex. Camerata Nordica stora problem att hitta bra lokaler för sin verksamhet då \"Forum\" är en av få lämpliga platser för kulturverksamhet. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill sänka skatten! Redan innan majoriteten (S+M) höjde skatten som en följd av utfallet i folkomröstningen, har Liberalerna drivit frågan om en skattesänkning för att öka invånarnas köpkraft till det lokala näringslivet. Vi vill ta större ansvar för varje skattekrona och vara försiktiga med den ökade driftkostnaden kommunen åtar sig. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": "Detta är alla frågor som handlar om skolan och dess resurser, allt från mindre barngrupper, tillräckliga resurser till elevhälsa och sociala team i skolan, samt extra medel till kommunens skolor. Detta är också avgörande faktorer för att vi ska vara en attraktiv kommun att bo och leva i. Skola och utbildning är en grundsten i vårt liberala demokratiska samhälle. ",
+        "value": [
+          "1959",
+          "1957",
+          "1962"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A!;A!;D;B;A;A;D!;B;B;B;3/5;2/5;1/5;[1959,1957,1962]!",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi kommer sträva efter ett majoritetsskifte där vi vill se de borgerliga partierna som leder kommunen framåt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer inte samarbeta med Sverigedemokraterna, men vi kommer samtala med alla",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på kommunens skolor - på riktigt",
+        "description": "Vi kommer alltid sätta skolan först. Vi har alltid presenterat de största satsningarna i budgeten gällande skolan. Vi vill se mindre barngrupper, nya förskolor, särskilda undervisningsgrupper och extra resurser för skolorna att implementera sociala team för att möta alla barn efter deras behov. Det innebär fler lärarassistenter, elevcoacher och heltidsmentorer så att lärarna kan undervisa istället"
+      },
+      {
+        "category": "Inför krav på språkkunskaper vid arbete inom äldreomsorg och hemtjänst",
+        "description": "Vi vill ha en äldreomsorg som präglas av god vård och trygga relationer. Vi vill inte hindra någon från att arbeta inom äldreomsorgen, utan se till att de besitter den kompetens som krävs för att utföra sitt jobb. IVO har rapporterat om bristande språkfärdigheter inom äldreomsorgen - nu krävs åtgärder. Allt för många talar inte tillräckligt bra svenska, och då får fler äldre också sämre omsorg."
+      },
+      {
+        "category": "Sänk skatten i Oskarshamns kommun",
+        "description": "Sänkt skatt ger ökat självbestämmande och en starkare ekonomi som kommer det lokala näringslivet till gagn. Vår kommun blir mindre attraktiv att bo i för högutbildad arbetskraft, och i nuläget skriker företag efter rätt kompetens. Cirka 250 kommuner i Sverige har lägre kommunalskatt än Oskarshamn. En sänkt skatt ökar attraktiviteten och viljan att bo och leva i Oskarshamn."
+      }
+    ],
+    "motivateVote": "Vi vill sänka skatten, men ändå få ut mer av skattebetalarnas pengar. Vi är en stabil borgerlig röst. Många borgerliga väljare är besvikna efter senaste valet när Moderaterna gick in i ett underligt majoritetsstyre med Socialdemokraterna, och bidrog bland annat till högre kommunal skattesats. Vi är det tydligaste borgerliga partiet i Oskarshamn. ",
+    "name": "Liberalerna Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-oskarshamn"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1346",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kärnkraft är den enda planerbara, miljövänliga och hållbara kraft källan idag. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": "Det skall upprättas en plan som stegvis jobbar med att få ner kommunala skatten till en bättre nivå. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1962"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;A;A;D;B;B;A;D;B;B;B;3/5;2/5;1/5!;[1962]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "jobb",
+        "description": "Personer som kan jobba ska få möjlighet till att komma till egenförsörjning.\r\nDetta kräver stödåtgärder men även åtaganden från individerna. \r\nArbetsmarknadsenheten är viktig för att lyckas med detta."
+      },
+      {
+        "category": "Lagen om valfrihetssystem (LOV)",
+        "description": "LOV ska utökas till hela äldreomsorgen"
+      },
+      {
+        "category": "Arenabyggnation ",
+        "description": "Kommunen ska ha en ny ishockeyarena i drift under nästa mandatperiod"
+      }
+    ],
+    "motivateVote": null,
+    "name": "Moderaterna Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-oskarshamn"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1347",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om näringslivet vill bygga mer kärnkraft så är vi positiva. Om det ska byggas mer kärnkraft så tycker vi att det ska göras där det redan finns kärnkraft. Vi tycker därför Simpevarp i Oskarshamns kommun är en bra plats för näringslivet att satsa på mer kärnkraft. Vi ser dock inte att kommunen ska bekosta ny kärnkraft. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oskarshamns kommun växer med fler barn och unga. Det är idag trångt i våra skolor vilket innebär att elever inte får plats i sin närmaste skola. Vi tycker att unga ska ha rätt till bra skollokaler där undervisning bedrivs av utbildade lärare.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omsorgen bedrivs bäst utan vinstintressen. Därför vill vi att omsorgen ska bedrivas i kommunal regi. Personal inom omsorgen ska aldrig behöva fundera på om aktieägarna är nöjda med avkastningen, utan ska fokusera på att de äldre har det bra. Vi säger därför nej till utförsäljning av kommunens verksamheter.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla som är arbetsföra och får ekonomiskt bistånd ska mötas av en förväntan. Vi vet att alla kan bidra till samhället och därför ska alla också få möjlighet att göra det. Den som är arbetsför och får bidrag ska därför arbeta ett antal timmar per vecka. Den som inte kan svenska ska arbeta ett visst antal timmar per vecka och delta i undervisning i svenska för att lära sig språket. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": "Oskarshamns kommun har ett kommunalt bostadsbolag, Byggebo. Vi vill ha kvar det och anser att allmännyttan är viktigt för att kunna erbjuda lägenheter som alla har råd med. Några andra kommunala bolag som konkurrerar med det privata näringslivet finns inte i Oskarshamns kommun och vi, socialdemokrater, har ingen ambition att starta några sådana bolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är arbetsmiljön för de som arbetar hos kommunen en prioriterad fråga och vi tror att det finns många olika insatser att göra för att förbättra arbetsmiljön. Vi stänger inte dörren för förslaget om sex timmars arbetsdag, men tror mer på avskaffande av de ofrivilliga delade turerna och att undersköterskor får ägna sig åt rätt saker. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun kan inte styras genom lokala folkomröstningar. Vi tror att det är viktigt att man ser till helheten när beslut ska tas så att inte en stark grupp kan genomföra saker på bekostnad av en tystare grupp. Valdeltagandet i kommunala folkomröstningar brukar också vara väldigt lågt. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "För oss är det viktigt att den som är äldre kan förstå de som arbetar i hemtjänsten och äldreomsorgen och därför ska de medarbetare, som behöver, få utbildning i svenska. Vi tror inte att ett språktest gör att fler lär sig språket och därför vill vi istället satsa mer på utbildning i språket. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker inte att kommunen ska betala för billiga hyreslägenheter, men vi vill gärna att kommunen stödjer företag att bygga billiga hyreslägenheter. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror inte att kommunen ska bygga publika laddstolpar för elbilar. Vi vet att det finns företag som gör det bättre. Vi vill att kommunen medverkar för att det ska kunna bli fler publika laddstolpar för elbilar, men inte att kommunen bygger dessa. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att alla kommuner ska ta sin solidariska del av de flyktingar som kommer till Sverige. När nu människor flyr från Ukraina så vill vi att kommunen snabbt och enkelt hjälper de människor som är på flykt och kommer till vår kommun. Vi vill att människor snabbt ska etablera sig och börja arbeta. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": "Vi tycker att förskola och skola är för viktigt för att låta vinstdrivande företag ansvara för verksamheten. Vi säger därför nej till att stora företag ska etablera sig i vår kommun för att driva förskolor och skolor för att tjäna pengar. \r\n\r\nVi har dock inget emot de mindre förskolor och skolor som idag drivs i kommunen och som inte har som målsättning att göra stora vinster. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill att Oskarshamns kommun ska ha en tillgänglig kultur där människor möts av olika kulturformer på olika platser. Därför vill vi att arbetet med fler vägg- och elskåpsmålningar fortsätter i hela kommunen. Vi vill också att den musikaliska resan med olika former av mötesplatser för musik ska fortsätta att utvecklas.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": "Vi prioriterar välfärden före skattesänkningar. De pengar som kan effektiviseras på olika verksamheter vill vi använda till vår gemensamma välfärd istället för att sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1954",
+          "1960",
+          "1957"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;A;D;D;C;B;A;B;C;B;B;2/5;3/5;2/5;[1954,1960,1957]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är generellt mer positiva till kärnkraft och ser dess betydelse för vår kommun och region. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I första hand skulle vi vilja styra med egen majoritet, i andra hand med Vänsterpartiet och i tredje hand blocköverskridande. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte tänka oss styra tillsammans med Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En bra och hållbar arbetsmiljö för kommunens medarbetare",
+        "description": "Oskarshamns kommun ska vara en attraktiv arbetsgivare med bra villkor, löner och utvecklingsmöjligheter för anställda. Vi vill ta bort de delade turerna, som innebär ett flera timmar långt obetalt uppehåll under arbetsdagen. Vi vill också att alla medarbetare erbjuds att arbeta heltid. När kommunen genomför förändringar så ska medarbetare vara delaktiga och kunna påverka."
+      },
+      {
+        "category": "Stoppa brotten och öka tryggheten",
+        "description": "Trygghet är en förutsättning för ett jämlikt samhälle. Därför behöver vi minska klyftorna, bryta segregationen, bekämpa brottsligheten och stärka sammanhållningen i hela kommunen. Vi vill därför satsa mer resurser på förskola, skola, vuxennärvaro utomhus, samverkan med Polisen samt organiserade aktiviteter för unga. Vi ska bryta brottens orsak samtidigt som vi straffar den som begår brott."
+      },
+      {
+        "category": "Alla som kan jobba ska jobba",
+        "description": "Alla som är arbetsföra och får ekonomiskt bistånd ska mötas av en förväntan. Vi vet att alla kan bidra och därför ska alla också få möjlighet att göra det. Den som är arbetsför och får bidrag ska därför arbeta ett antal timmar per vecka. Den som inte kan svenska ska också få en förväntan på att lära sig svenska. Det innebär att man ska arbeta ett visst antal timmar per vecka och lära sig svenska."
+      }
+    ],
+    "motivateVote": "Vi är partiet som tar ett helhetsansvar för hela Oskarshamn och som har förmågan att genomföra förslag för att det ska bli bättre för alla hederliga människor. Vi har välfärden i fokus vid alla beslut. Vi säger som det är och gör det som krävs. ",
+    "name": "Socialdemokraterna Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-oskarshamn"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1348",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverige behöver mer planerbar kraftproduktion och där regeringens förtida nedstängning av välfungerande kärnkraftsreaktorer nu slår hårt mot näringslivet och hushållen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1955",
+          "1960",
+          "1957"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;B;D;C;B;C;D!;C;C;D!;2/5;2/5;1/5;[1955,1960,1957]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det finns givetvis nyansskillnader i enstaka frågor med utgångspunkt i de lokala förutsättningarna, men inget där vi går helt på tvärs.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Oskarshamns kommun behöver ett nytt politisk ledarskap efter 100 år av socialdemokratiskt styre. Vi är som det största och ledande oppositionspartiet beredda att ta över makten. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samverkar med alla partier som vill genomföra vår politik.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Motverka den växande otryggheten",
+        "description": "Otryggheten breder ut sig i samhället såväl i städerna som på landsbygden. Mer insatser behövs för att vända denna utveckling."
+      },
+      {
+        "category": "Språkkrav i äldreomsorgen",
+        "description": "I kommunen finns det ett växande problem med outbildade vikarier, men framförallt att många av dessa inte pratar tillräckligt bra svenska. Något som leder till språkförbistringar mellan personal och boenden, vilket kan få katastrofala följder."
+      },
+      {
+        "category": "Stoppa uppförandet av en storskola i kommunen",
+        "description": "På bekostnad av mindre skolor avser man att bygga en ny F-9 skola som ska inrymma med närmre 1000 elever. Något som gör det svårt att fortsatt bedriva verksamheter i mindre skolor i yttertätorterna, men även i centralorten."
+      }
+    ],
+    "motivateVote": "Det behövs ett parti som sätter våra äldre och barn i de kommunala verksamheterna och tryggheten främst. Ett bättre företagsklimat där politiken ska jobba med näringslivet istället för mot. ",
+    "name": "Sverigedemokraterna Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-oskarshamn"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1349",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "39dc9199e7aa8694884e8216244aa77c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill att förnybar energi ska byggas ut som havsbaserad vindkraft, stora solcellsanläggningar och mindre solanläggningar på alla fastigheter och inte medverka till satsningar i en dyr och osäker energikälla som dessutom kräver lagförändringar. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4f47466f065cd7ab96e75555ca582156",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att alla elever i Oskarshamn ska få en bra utbildning, i tillgängliga och moderna lokaler behövs det byggas en ny F-9 skola, som placeras centralt för att motverka segregering och bidrar till ett bra skolresultat.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4fa3c6123d47736e703cb6415cb4b3bd",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att bidra till trygga anställningar och bra arbetsvillkor, att resurserna inte försvinner till privata vinster och att fler platser byggs ut efter behov så krävs det att all äldreomsorg i Oskarshamns bedrivs i kommunal regi. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "2d835d5103a2fed5ceeebe61edfbe2a2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att arbeta några timmar per vecka kan det bidra erfarenhet, referenser samtidigt som man känner att man bidrar till samhället och det är positivt. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e68d7443b6579c423d3d7f14ac713435",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Oskarshamns finns några få kommunala bolag där de flesta är rätt viktiga. Byggebo, allmännyttan, som ser till att det finns hyreslägenheter som vanligt folk har råd med, UTAB, som äger en asfaltsyta som innan 2016 var en flygplats. Oskarshamns Hamn, som bedriver hamnverksamheten tillsammans med Västervik och Hultsfreds kommuner samt Oskarshamns Energi som tillsammans med EON levererar el.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "6b536afc9bae917afbf16b41e49ae873",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag med bibehållen lön för personal i hemtjänst och omsorg är viktig för att fler ska orka med och det skulle bidra till bättre arbetsmiljö och hälsa. Med en sänkning av arbetstiden kan man öka grundbemanningen och personalen får förutsättningar att ge bättre omvårdnad.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "954bda128bb3c930532dc630eca68c90",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Sverige lever vi i en demokrati med fria val vart fjärde år. Därför är det viktigt för invånarna att ta ställning, själv vara med och påverka och även engagera sig i de olika politiska partierna. Om viktiga frågor hela tiden istället avgjordes i folkomröstningar bidrar det till att färre väljer att engagera sig och i förlängningen kommer sakfrågor att bli viktigare än helheten.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3b4618ef3e67cef2db1e3c2794eea3e9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart ska man kunna kommunicera med både brukare och sina medarbetare.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "73c4171043fa35d0896b31b88973e98f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det behövs fler billiga bostäder med rimliga hyror som vanligt folk har råd med!",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "b99afc8fc1018343cf77444e8259aaff",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bidra till att fler laddstolpar byggs ut, men det behövs även byggas ut laddinfrastruktur i områden med flerfamiljsbostäder och hyreslägenheter. Laddstolpar får inte bli en klassfråga!",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "01329c9d624ac3844fcb524c5c345c6c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver bli fler i vår kommun och vi behöver fler som kan arbeta och kan bidra till att vi får fler skatteintäkter som bekostar välfärden, vår skola vård och omsorg.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "e7ddc3828f4d0954786f8cadfaedb1a3",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns det bara ett privat företag som bedriver privat gymnasie - ETEC.\r\nÖvriga skolor bedrivs av kommunen, föräldrakooperativ och vi har en förskola som drivs av svenska kyrkan.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6573a97112cb7e4145ca0bffe18a5757",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är en viktig del av välfärden som ska stå fri från såväl kommersiell som politisk styrning. En fri kultur kan motverka segration och är avgörande för en stark demokrati.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d548ea36457dec3c4b6a00f7c2099271",
+        "questionType": "RANGE",
+        "reasoning": "Varje skattekrona är viktig för att vi ska ha en bra skola, äldreomsorg, omsorg och hemtjänst!",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "70bb60991b9d5adc5c64b0ba3daa4243",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1955",
+          "1957",
+          "1961"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A!;D;C;A;D!;B;C;D!;C!;A;2/5;3/5;2/5;[1955,1957,1961]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Kärnkraften måste finnas kvar tills förnybar energi är så pass utbyggd så att den kan ersätta, inte bara komplettera.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett starkt Vänsterparti som styr tillsammans med Socialdemokraterna. Vi kan även samarbeta med Centerpartiet så vi har flera gemensamma frågor.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ingen privatisering av omsorg i Oskarshamns kommun!",
+        "description": "En trygg och bra omsorg att lita på ska vara utan vinstintresse. Därför vill vi att hemtjänst, äldrevård och omsorgsboende ska bedrivs av Oskarshamns kommun för att kunna säkerställa bra arbetsvillkor, god kontinuitet och att inga skattepengar plockas ut i vinst."
+      },
+      {
+        "category": "Bygg en träningshall till ishockeyn",
+        "description": "Bygg en ny träningshall för ishockey så att barn- och ungdomsverksamheten kan få bra förutsättningar och fortsätta utvecklas samtidigt som Be-Ge Hockey Center byggs om för att anpassas efter A-lagets och damhockeyns behov."
+      },
+      {
+        "category": "Kollektivtrafiken ska vara billig och tillgänglig för fler!",
+        "description": "Oskarshamn kommun ska avtala med Kalmar länstrafik om ett subventionerat 30-dagarskort, som gäller i hela kommunen, så att fler kan resa kollektivt. Billig kollektivtrafik är både en insats för att fler ska ha råd att åka buss och för miljön!"
+      }
+    ],
+    "motivateVote": "För att det är bara med Vänsterpartiet som man får vänsterpolitik och människor som inte förhandlar bort sina väljares åsikter. Vill man se mer jämlikhet, mindre klyftor och reella satsningar på välfärden är det på oss man ska rösta!",
+    "name": "Vänsterpartiet Oskarshamn",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-oskarshamn"
+  }
+]

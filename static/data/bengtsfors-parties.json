@@ -1,0 +1,1074 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "85",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunerna behöver samarbeta och samverka ännu mera, men för att ta vara på de lokala utvecklingsmöjligheterna bör man inte slå samman kommunerna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har visat sig att boendet behövs idag. Så länge vi inte har några andra alternativ bör boendet vara kvar.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Stora delar av den nuvarande verksamheten bör fortsätta och samtidigt förstärkas med några andra linjer, som kommer att tas fram i det konsultarbetet som har startats upp.\r\nEn modernisering krävs.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ej motiverat idag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": "Privata näringslivet skall ha rättvisa villkor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste förbättra för våra anställda, men just nu har vi inte möjlighet, varken ekonomiskt eller personalmässigt, att genomföra detta. Förbättringar får ske på annat sätt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": "S\r\nDet är svårt att tolka resultaten. Ofta lågt valdeltagande.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kraven skall anpassas efter typ av arbete.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårt bostadsbolag har kraften att hantera de här frågorna. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är nog tvungna att i vissa fall delfinansiera denna utbyggnad. Detta för att ytterligare stärka attraktionskraften.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag ett lagom antal flyktingar, som bidrar till utvecklingen av våra verksamheter, som anställda och t.ex. elever i våra skolor.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": "Vi har idag en bra fungerande skola. Väl anpassad till elevantalet. Eleverna som gick ur högstadiet i år har mycket fina resultat.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": "Man önskar sig alltid mer medel, men svårt att genomföra idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": "Ej lämpligt.att höja. Oförändrat krävs för att bibehålla servicenivån",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "820",
+          "825",
+          "819"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;C;B!;B;D;B;B;C;B;C;B;2/5;2/5;2/5;[820,825,819]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Egentligen inte",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Idealet vore c, m, Kd, L",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Frågan tas upp efter valet.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ombyggnad av Franserudsskolan",
+        "description": "För att få bästa utveckling av grundskolan krävs en satsning på vår största låg och mellanstadieskola, Franserudsskolan."
+      },
+      {
+        "category": "Satsning på lokala bygdeutvecklingskontor gärna i samverkan med våra bygdegårdar",
+        "description": "Landsbygdens attraktionskraft har ökat tack vare våra satsningar på bredband på landsbygden. En satsning på lokala utvecklingskontor/ grannskapskontor/ coworking plages\r\nskulle förstärka trenden med nya företag och fler boende på landsbygden."
+      },
+      {
+        "category": "Rimliga regler för enskilda avlopp ",
+        "description": "De lokala bestämmelserna och hanteringen av enskilda avlopp på landsbygden måste förenklas.\r\nDet är orimligt att investera i system som sett till kostnaden har mycket liten effekt på miljön. Nya bättre lösningar måste stöttas av ex. Miljönämnden. Och.\r\nse på de faktiska utsläppen på befintliga anläggningar, som i de flesta fall är minimala.\r\nSunt förnuft krävs i denna handläggning."
+      }
+    ],
+    "motivateVote": "Vi står för satsningar i hela kommunen. För att få bästa utveckling behöver vi ta vara på alla goda idéer och krafter. \r\nVård, skola och omsorg skall ha bästa kvalitet. \r\nUtveckla jord och skogsbruk \r\nMer lokala livsmedel och produkter.\r\nÖkade lokala satsningar på sol, vind och bioenergi.\r\nLätta på strandskyddet o reglerna för enskilda avlopp.\r\nDalslands sjukhus måste utvecklas.\r\n\r\n\r\n\r\n",
+    "name": "Centerpartiet Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-bengtsfors"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "86",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bättre att kommunerna samverkar, men på sikt kan  kanske kommunerna bli en kommun.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Platserna på Kolaregården behövs. En utökning med ytterligare platser skulle vara möjlig.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tiggeri är inget stort problem.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": "För närvarande tar vi knappt emot några alls, men skulle behovet uppstå och flyktingar blir anvisade till vår kommun så ska vi visa att vi är en kommun där flyktingen kan känna sig trygg och finna en ny framtid. Kommunen ska vara bra på integration.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": "Idag finns  en personalkooperativ förskola.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": "Önskvärt med lägre skatt men för att behålla servicenivån så går det inte att sänka skatten.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "B;D;C;B;B;B;B;D;B;B;A;2/5;2/5;2/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Trygghetsboende",
+        "description": "Vi har fler tätorter i kommunen. Vi vill att det ska finnas ett Trygghetsboende i varje tätort. Trygghetsboende är ett mellanting mellan att bo kvar hemma med hemtjänst och att bo på ett särskilt boende med bemanning dygnet runt.\r\nEn viktig lösning av boende för de som känner sig ensamma. I ett Trygghetsboende finns alltid en värdinna som ordnar aktiviteter."
+      },
+      {
+        "category": "Kärnverksamheterna; skola, vård och omsorg",
+        "description": "Kommunens kärnverksamheter är viktiga att satsa på. Vi har en bra skola, men kan bli ännu bättre. Inom äldreomsorgen vill vi jobba för att antalet platser på särskilda boenden (SÄBO) inte blir färre."
+      },
+      {
+        "category": "Ett konkurrenskraftigt och differentierat näringsliv",
+        "description": "Ett konkurrenskraftigt och differentierat näringsliv är en förutsättning för det goda samhället och en god välfärd, Detta innebär att ett gott klimat måste finnas och vidmakthållas för ett dynamiskt småföretagande, där enskilda människors idéer, kreativitet och entreprenörskap får möjlighet att blomma ut."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Kristdemokraterna Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-bengtsfors"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "87",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kompetensförsörjning och ekonomi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Just nu går det inte att lägga ner Kolaregården pga platsbrist, men på sikt ska vi ha en annan struktur på äldreboenden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Skolan måste ändra inriktning för att ha någon framtid.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är inget problem.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har fn inget sådant bolag.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget som vi ska gå före med.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget självändamål att hålla folkomröstning, men i vissa frågor kan det vitalisera demokratin. Viktigt hur man isf formulerar frågan.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt för vårdtagarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vår kommun är det snarare ett problem att det finns för många billiga hyresrätter.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nu i början kan det vara motiverat att kommunen hjälper till, men på sikt är det branschen som kommer att lösa denna fråga.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tar för närvarade knappt några alls så det blir svårt att ta emot färre. En lagom ström av nyanlända till vår kommun vore bra.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": "Just nu finns endast en personalkooperativ förskola. Om någon privat vill ta över vårt gymnasium vore intressant.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D;A;D;A;B;B;C;D;B;A;A;2/5;2/5;2/5;_",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi vill bidra så att styret blir ett fungerande lag, det kan se ut på lite olika sätt.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan i princip samarbeta med alla partier.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "kommunen som arbetgivare.",
+        "description": "Vi vill stärka kommunen som en modern arbetsgivare som bygger på tillit och förtroende. Mindre av kontroll och mer av proffesionellt frihet. Det måste börja med att vi som politiker visar att vi litar på och uppskattar våra tjänstepersoner."
+      },
+      {
+        "category": "Ett samhälle.",
+        "description": "Befolkningen minskar, men kraven på service ökar. Bästa sättet att möta detta är att göra ett samhälle av fyra tätorter. Det är till stor del en mental resa, men det måste också göras något på marken. Vår idé är då att som en del av ”Det goda livet i Dalsland” tillsammans med Västtrafik göra en satsning på fri kollektivtrafik med buss, och så småningom även med rälsbuss binda samman tätorterna."
+      }
+    ],
+    "motivateVote": "För att vi inser att kommunens befolkning har minskat, och kommer att minska även de närmaste åren. Det bästa är då att anpassa verksamheter och lokaler till detta faktum, annars blir det inga resurser över till framtidssatsningar som skulle kunna vända trenden. Vi har också förmågan att samarbeta med andra partier istället för meningslös ptolemeisk.",
+    "name": "Liberalerna Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-bengtsfors"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "88",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "820",
+          "819",
+          "821"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;C;C;D;B;C;D;C;C;C;2/5;3/5;1/5;[820,819,821]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Möjligen gruvdrift och vindkraftetablering",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "I första hand ett alliansstyre som leds av M och som innefattar så många partier lokalt som kan och vill samarbeta.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, inte lokalt.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "God ekonomisk hushållning",
+        "description": ""
+      },
+      {
+        "category": "Ordning och reda i samhället",
+        "description": ""
+      },
+      {
+        "category": "God social omsorg, fortsatta förbättringar inom äldreomsorgen",
+        "description": ""
+      }
+    ],
+    "motivateVote": "Vi vill ha ordning och reda i Bengtsfors. Det innefattar god ekonomisk hushållning som gör kommunen intressant att bo i eller att flytta till, attraktivitetshöjande åtgärder och framåtriktade beslut som utvecklar för boende, fritid och arbete.",
+    "name": "Moderaterna Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-bengtsfors"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "89",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom samverkan kan vi klara av en bra service till våra invånare, men om befolkningsminskningen inte avstannar så kan det säkert bli en Dalslandskommun. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är galenskap att stänga ett väl fungerande äldreboende. Utveckla med fler platser istället för att avveckla. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra ungdomar ska ha möjligheten till att utbilda sig lokalt. Det behövs ett kraftigare fokus på handslag med våra lokala företag, exempelvis industriprogram med processteknisk inriktning. Marknadsföring är också A och O",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Tiggeri är inte förekommande i Bengtsfors, men företeelsen i sig är förskräcklig och ska inte få förekomma i ett välfärdssamhälle. Ställ högre krav på socialt ansvarstagande i de länder som ev. tiggare kommer ifrån. Att utnyttja människor samt göda kriminalitet är inte okej. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunala bolag som ger ett mervärde för invånarna är bra. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en svår fråga då arbetsvillkoren för de anställda inom äldreomsorgen är alldeles för usla för närvarande. Men risken är att sex timmars arbetsdag ökar stressen bland personalen. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förhoppningsvis så får vår kommun ett nytt Socialdemokratiskt styre som är lyhörda och lyssnar på kommuninvånarnas behov samt fattar bra beslut. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att klara av språket för att kunna göra sig förstådd på sin arbetsplats och bland våra vårdtagare. Det bidrar till trygghet såväl för den anställde som för vårdtagaren. Yrkes-SFI där man är med och praktiserar kan vara ett bra sätt för nysvenskar att stärkas. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra och prisvärt boende för alla är viktigt för utvecklingen av vår kommun. Det gäller att testa nya vägar för att få till byggnation. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den gröna omställningen kommer att kräva tillgång till ny teknik. Om inte marknaden tror på Bengtsfors kommun och investerar i laddstolpar, så får vi själva göra det. Det är inte minst viktigt för våra företag att vi har laddare för de som besöker oss. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": "För närvarade tar vi inte emot någon flykting. Om kriget i Ukraina utökas så anser vi att kommunen ska vara aktiv i att visa att vi är villiga att erbjuda en trygghet och framtid i vår kommun\r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": "Skolan bedrivs bäst i offentlig regi utan krav på vinstutdelning. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen är viktig för oss människor. Det är allt från bra öppettider på biblioteken till konstnärlig utsmyckning i offentliga miljöer. Kulturen bidrar till ökad trivsel och folkhälsa. Kultur kan även bidra till näringslivsutveckling. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": "Hög skatt är inget självändamål men kan vara nödvändig för att klara av invånarnas behov av välfärd. Vi är inte främmande för att höja skatten om alternativen till drastisk försämring av den kommunala servicen är alternativet\r\n\r\n ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "825",
+          "819",
+          "822"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "B;D!;B!;B;A;C;B;D;C!;C;B;2/5!;3/5!;2/5;[825,819,822]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Det måste ges möjligheter att bygga strandnära med lokalt inflytande. Vi har 399 sjöar och det vore ju kul om man fick bygga vid nån av dom. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill styra tillsammans med andra människor som har framtidstro och en positiv syn till samarbete. Vi tror på laget före jaget. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Moderaterna, Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Nystart för gymnasieskolan i samverkan med industrin",
+        "description": "Fler elever ska nå gymnasieexamen. Med den ökar möjligheten till ett arbete, egen försörjning och ett bra liv. En ny gymnasieutbildning i samverkan med industrin och andra företag bidrar till företagens möjlighet till kompetensförsörjning samt ger bra jobb lokalt. Vi tog initiativet till Campus Dalsland vilket nu glädjande är i uppstartsfasen, men vi behöver även ett gymnasium med hög kvalitet."
+      },
+      {
+        "category": "Trygghetspaketet",
+        "description": "Vi lever i en tid där såväl den faktiska som den upplevda otryggheten har ökat i vår kommun. Vi vill se en kraftsamling som tar fram förslag på åtgärder ”trygghetspaketet” för att göra vår kommun trygg och säker. Ett långsiktigt trygghetsarbete där samtliga våra verksamheter inklusive våra bolag bidrar. Vi ska också ha med oss föreningsliv, näringsliv samt ha kontakt med civilsamhället i stort."
+      },
+      {
+        "category": "Utveckla Kolaregården istället för att avveckla",
+        "description": "Det finns särskilda boenden i Billingsfors, Bengtsfors, Bäckefors, och Dals Långed. Vår uppfattning är att de även fortsättningsvis ska finnas kvar. Vi anser att kommunen ska se på möjligheten att öppna upp fler platser på Kolaregården istället för att lägga ned som den moderatledda minoriteten har beslutat. Vi vill även se en ökning av personaltätheten från 0.68 till 0.70 för bra kvalitet."
+      }
+    ],
+    "motivateVote": "Vi Socialdemokrater tror på och pratar väl om vår kommun till omvärlden. Vi står upp för våra invånares behov av god kommunal service genom hela livet, samt står upp för bra villkor för våra anställda som ska utföra servicen. I vår kommun upplever fler människor trygghet, alla som kan arbetar, vården och omsorgen är stark när behoven är som störst, och vi tar klimat- och miljöfrågorna på allvar. ",
+    "name": "Socialdemokraterna Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-bengtsfors"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "90",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": "Var och en kommun bör sköta och ta ansvar för sej och sina invånare. Skapar större gemenskap och större ansvarstagande inom kommunen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett boende som absolut behövs. Utvecklingsmöjlighet att öppna upp för 10 platser till utan större kostnad. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Potentialen finns men här behövs ett nytänk och en nystart.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": "Men gäller inte bostadsbolag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": " Sett ur ett rent personalvårdande perspektiv då det ofta är ett tungt arbete både fysiskt och psykiskt .",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": "Patientsäkerheten fungerar inte annars.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": "För de som väljer att tex studera i vår kommun.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": "Måste anpassas efter behovet. Finns även andra aktörer i samhället som  tillhandahåller laddstolpar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": "Det vore klart önskvärt om man kunde markerat \"Mycket mindre\"\r\nMen det är inte varken realistiskt eller möjligt idag.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "826",
+          "819"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;D!;D!;D;D!;C;D!;C;B;D;3/5;2/5;2/5;[826,819]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "I nuläget är det NATO-frågan.\r\n",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett borgerligt styre där SD har en framträdande roll ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Lurig fråga ,med partier som står långt ifrån oss blir ju givetvis svårare.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorgen",
+        "description": "Att man \"inventerar\" vad vi har idag. Vad har vi för boenden, vad har vi människor med behov och hur ser deras behov ut . Hur gör vi det bästa möjliga av det vi har genom renovering och ev omstrukturering ?"
+      }
+    ],
+    "motivateVote": "För oss är det viktigt att \"göra allt man kan för att det ska bli så bra som möjligt\" för vår kommun och kommuninvånare .",
+    "name": "Sverigedemokraterna Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-bengtsfors"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "91",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bdd65c560ac1280c2da9d6cb1ec77b35",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "5ff5159609dae7f5eab1af9adfb6302d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "3c61e51711f401d292345d36cdf1c5b6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9fce2b08e8549abe5ccaa093dffffe6e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7ca3088bc8682d79a78e2343738be285",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "779b33e914511e9cf7e2e7db07d1fc80",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "13c63e8af20fb72f80d3748e27f0ed22",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "6beecfa60c1c957d7ffd5216322b62d3",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "7bae0fd7a8a075b0d8c61d002c6f856d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "82cd47eb6d7149d25ce86150840b6084",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "be0334c46babd6adb053ae1652a73668",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "b03bdeb57398132f044a9aca8f2fe4c4",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "9cf055e92c4e6c7c34fb4e44a6fbb09f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "67ff87220d35bd94fd7cf0997093649f",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "c6b8b38e5839edce96a4504734fa08fe",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 0,
+    "answersString": "_;_;_;_;_;_;_;_;_;_;_;_;_;_;_",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": null,
+    "name": "Vänsterpartiet Bengtsfors",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-bengtsfors"
+  }
+]

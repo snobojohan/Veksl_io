@@ -1,0 +1,881 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2341",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att klara vården, så snabbt som möjligt, behövs både offentliga och privata aktörer. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vården är regionens största sakområde och sjukvårdens utveckling handlar om den Nära vården där vårdcentralerna är oerhört viktiga. Regionerna har samtidigt flera andra sakområden som också måste tillskjutas medel, så som regional utveckling och kollektivtrafik. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionen ska alltid erbjuda attraktiva löner, samtidigt är andra saker så som arbetsmiljö och möjlighet till karriärvägar också viktiga delar för att vara en attraktiv arbetsgivare.  ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att CLV-tomten kan utvecklas till en viktig och central mötesplats nära Växjösjön. När sjukhuset flyttas från CLV-tomten hade ett kulturens hus på delar av tomte varit ett mycket bra sätt att skapa en ny mötesplats. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Genom att mammografi erbjuds högre upp i åldrarna kan vi prioritera en bättre hälsa för äldre kvinnor. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Idag betalar regionen ca hälften av priset på varje bussbiljett. Vi prioriterar mer att det ska finnas en bra täckning av busslinjer över hela länet. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Vi har stärkt budgetramen för trafiknämnden så budgetramen omfattar408 miljoner kronor för 2023 och vidare ökning de kommande åren. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Vi är positiva till privata aktörer i vården och ser gärna att fler får möjlighet att etablera sig. Hur efterfrågan ser ut är en viktig del i detta. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": "Principen är att skatten inte ska vara högre än vad som är nödvändigt. För kommande år anser vi att skattesatsen ska vara oförändrad (12 procent). ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2080",
+          "2085",
+          "2081"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;C;C;D!;D!;A;3/5;3/5;2/5;[2080,2085,2081]!",
+    "color": "#32a532",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Centerpartiet vill ha en politik och ett samarbete som är förankrad i mitten. I Region Kronoberg och i flera kommuner har vi ett gott samarbete med Alliansen. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Centerpartiet=mittenpolitik utan främlingsfientlighet. Vi styr inte med V och SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utveckla den nära vården till en trygg vård med patienten i fokus.",
+        "description": "Den nära vården behöver konkretiseras. Vi vill att den nära vården ska vara nära medborgaren både vad gäller service och påverkan. Alla ska kunna välja fast vårdkontakt/läkarkontakt. Vi vill även skärpa vårdgarantin, satsa på E-hälsa och jobba mer med förebyggande hälsosamtal på länets vårdcentraler."
+      },
+      {
+        "category": "Vi vill utreda möjligheten för ett kulturens hus vid Växjösjön på CLV-tomten.",
+        "description": "När sjukhuset flyttas till Räppe måste den gamla tomten vid Växjösjön utvecklas till något nytt. Vi vill utreda möjligheten för ett ”Kulturens hus” på delar av gamla CLV-tomten. Olika kulturverksamheter kan mötas här, t.ex. kan Regionteatern vara en av dem. Restauranger, caféer och andra mötesplatser kompletterar och gör platsen öppen och levande."
+      },
+      {
+        "category": " Stärk företagen i Kronobergs län",
+        "description": "Vi vill se upphandlingar som gynnar lokala aktörer och möjlighet till mikrostöd vid företags nyetablering. Stöd till småföretag ska utvecklas, t.ex. genom ”konsluttimmen\". Hållbarhetsarbetet ska utvecklas genom satsning på grön el, etablering av vätgascentrum i länet, ökat träbyggande och bättre förutsättningar för livsmedelsproduktion i länet."
+      }
+    ],
+    "motivateVote": "Centerpartiet är ett liberalt och grönt parti som vill skapa goda villkor för människor oavsett om de bor på landsbygden, en tätort eller stad.  Vi värnar vår miljö och vårt klimat och skapar förutsättningar för att såväl människor som företag ska kunna göra hållbara val. Vi arbetar för jämställdhet och god vård. Vi värnar den demokratin och mänskliga rättigheter mot främlingsfientlighet. ",
+    "name": "Centerpartiet Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-region-kronoberg"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2342",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla tillgängliga resurser behövs för att kunna erbjuda patienter vård i tid. Privata aktörer har visat sig vara en viktig tillgång för att skapa en tillgänglig och högspecialiserad vård. Inte minst kan vi se det efter att vi etablerat Vårdvalet inom barn och ungdomspsykiatrin i Kronoberg. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svensk sjukvård är idag sjukhustung. För att hela vårdkedjan ska fungera behöver primärvården byggas ut. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har den här mandatperioden gjort de största lönesatsningarna än någon annan region. Det ska vi fortsätta med, men framförallt behöver vi bättre statlig styrning och samordning för att klara av hela landets kompetensförsörjning. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den marken kommer behöva användas till betydligt viktigare ändamål som t.ex bostäder till seniorer och studenter. Möjlighet till central vårdcentral m.m\r\nFör oss Kristdemokrater går välfärden först. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Livet har inget bäst före datum. Det ska finnas möjlighet för de kvinnor som önskar screening genom hela livet. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Svenska skattemedel räcker inte till att erbjuda gratis till allt och alla utan måste hushållas med för att räcka till växande vårdbehov och en åldrande befolkning. Redan idag är nästintill halva biljetten skattefinansierad. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag eller möjligen något mindre utifrån läget att vi skulle behöva prioritera mellan vårdens behov och kollektivtrafiken. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Med rätt lagstiftning och kontroll över privata aktörer har dessa vårdföretag visat sig kunna både öka tillgängligheten och kvalitén i vården. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": "Önskvärt är en skattesänkning. Men med de investeringar vi behöver göra finns ingen rimlighet att nu sänka skatten. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2085",
+          "2079"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;C!;D!;A!;D;A;2/5;3/5;2/5;[2082,2085,2079]!",
+    "color": "#331D79",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi söker samarbete med allianspartierna regionalt. \r\n\r\n",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "I Region Kronoberg har vi en tryggt och gott samarbete tillsammans med allianspartierna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi är tydliga med att våra samarbetspartner är, M, C och L.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Århundradets sjukvårdsreform - statlig styrning av hälso- och sjukvården.",
+        "description": "Landstingssystemet som togs fram för över 160 år sedan i Sverige har spelat ut sin roll. Vi skall inte sitta fast med ett gammalt system som uppenbart inte klarar av att möta dagens och framtidens behov. Vi behöver därför lägga ner regionerna och ersätta dem med en helt ny organisation där staten är huvudman. Vi sätter människan före systemet."
+      },
+      {
+        "category": "Fler barnmorskor. Stärk förlossningsvården och eftervården.  ",
+        "description": "Varje kvinna skall kunna känna trygghet under sin graviditet samt inför, under och efter sin förlossning. Därför vill vi stärka det förlossningsförberedande arbetet, ta till vara på äldre medarbetares kompetens och erbjuda ett tryggt eftervårdspaket till nyförlösta kvinnor. Kronoberg behöver fler barnmorskor."
+      },
+      {
+        "category": "Stärk primärvården.  ”Dygnet- runt- öppen” vårdcentral. - Inför Närakuten. ",
+        "description": "Primärvården måste byggas ut. Vi vill stärka den nära vården genom att starta upp dygnet-runt-öppna vårdcentraler. Detta ger ökad tillgänglighet till hela primärvården samtidigt som vi säkerställer att de patienter med störst behov får tillgång till avancerad sjukvård på våra två akutsjukhus. Samt erbjuda fast läkarkontakt inom primärvården."
+      }
+    ],
+    "motivateVote": "Kristdemokraterna är det partiet som sätter vården främst i sin valrörelse. Det enda partiet som aktivt driver på för att lägga ner landstingen och bygga en ny och modern sjukvård som ger vård i tid, precis som i våra grannländer. När vi satt i regeringen la vi innovativa förslag för en mer tillgänglig vård och förkortade vårdköerna. Sveriges patienter förtjänar inget mindre. ",
+    "name": "Kristdemokraterna Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-region-kronoberg"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2343",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fler vårdaktörer ger den enskilda kronobergaren möjlighet att välja den vård som passar henne bäst. \r\nSamtidigt är det viktigt att region Kronoberg tar ansvar för att de vårdgivare i länet vi samarbetar med håller högsta kvalitet.\r\n\r\nGenom personalstyrda så kallade intraprenader vill L ta till vara personalens kompetens och initiativförmåga för att kunna erbjuda kronobergaren ännu bättre vård.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "L kommer alltid att prioritera den nära vården och vårdcentralerna.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Anställda i Region Kronoberg ska garanteras en bra löneutveckling därför att de gör en god arbetsinsats och förtjänar bra löner. Om detta också innebär att regionen kan behålla personal är det bra.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett nytt scenkonsthus ska byggas redan innan sjukhuset flyttar. Det är för sent att vänta till efter en eventuell sjukhusflytt. Lämplig plats får bestämmas tillsammans med Växjö kommun och Regionteatern Blekinge/Kronoberg.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har satsats för lite på kvinnors hälsa. Det är en självklarhet att mammografi ska erbjudas högre upp i åldrarna. Det bidrar till att förhindra sjukdom, onödigt lidande och för tidig död.\r\n\r\n",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Region Kronoberg har stora ekonomiska åtaganden i framtiden. L prioriterar god och nära vård framför att alla ska åka gratis i kollektivtrafiken. \r\n\r\nSamtidigt är en väl fungerande kollektivtrafik med hög turtäthet och rimliga priser för resande till och från arbete och skola nödvändig för att klara företagens kompetensförsörjning och för att skapa ett mer klimatsmart och miljövänligt Kronoberg.\r\n",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Idag finansieras omkring hälften av kollektivtrafikens kostnader av skattemedel och hälften av intäkter från resenärer. Det är en rimlig fördelning.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Frågan är svår att svara på. Det är i första hand kronobergarna själva som genom sina val av vårdgivare avgör vem eller vilka som ska bedriva vård i Kronoberg och var den ska finnas.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": "Region Kronoberg har en av de högsta regionskattesatserna i Sverige. L vill arbeta för att på ett ansvarsfullt sätt sänka regionskatten till mer rimlig nivå. Detta kan behöva ske i flera steg.\r\n\r\nRegion Kronobergs innevånare ska inte behöva betala högre regionskatt än nödvändigt. Hur mycket skatten kan sänkas avgörs av vilket ekonomiskt utrymme det finns.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2085",
+          "2081"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "C!;D!;D!;D;D!;B!;2/5;2/5!;1/5!;[2082,2085,2081]",
+    "color": "#1e69aa",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "När det gäller frågor som rör regionpolitik är vi eniga med Liberalerna på riksnivå.",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi vill styra i majoritet, tillsammans med M, C och KD.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi avser att styra tillsammans med M, C och KD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Vård i hela Kronoberg. Satsa på vårdcentralerna. ",
+        "description": "L oroas över kostnadsutvecklingen för det nya sjukhuset i Räppe. Vi kommer alltid  prioritera vårdcentralerna och sjukvården i hela länet och en ekonomi som ger möjlighet att bedriva en personalpolitik som innebär att Region Kronoberg kan erbjuda god löneutveckling och goda arbetsvillkor med stort inflytande över det egna arbetet, både för att kunna behålla personal och locka nya medarbetare."
+      },
+      {
+        "category": "Satsa på ungas psykiska hälsa.",
+        "description": "Ungas psykiska hälsa har dramatiskt försämrats över tid. L vill korta köerna till BUP och se mer psykiatrisk kompetens på vårdcentralerna.  Vi vill också utveckla samarbetet med kommunernas elevhälsa, både vad det gäller den fysiska och den psykiska hälsan bland barn och unga. Rätt insatser i rätt tid och på rätt nivå ska vara ledstjärnan för arbetet med ungas psykiska hälsa."
+      },
+      {
+        "category": "Satsa på kultur och upplevelser i hela Kronoberg.",
+        "description": "Regionteatern behöver ett nytt scenkonsthus för en teaterverksamhet med bredd, spets och kvalitet nu och i framtiden.\r\n\r\nKronobergs slottsruin ska räddas från förfall och verksamheten där ska utvecklas tillsammans med Kulturparken Småland, Växjö kommun och länsstyrelsen.\r\n\r\nRegion Kronobergs kulturinstutioner ska verka i hela länet."
+      }
+    ],
+    "motivateVote": "Liberalerna vill arbeta för ett mer frihetligt och liberalt samhälle. Vi förenar viljan med att ge varje individ så stor frihet som möjligt samtidigt som vi betonar att vi människor har ansvar för varandra.\r\n\r\nI regionpolitiken vill föra en ansvarsfull ekonomisk politik, som gör att Region Kronoberg alltid kan fullgöra sitt ansvar att ge medborgarna god och lättillgänglig vård snabbt och effektivt.\r\n",
+    "name": "Liberalerna Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-region-kronoberg"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2344",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2079",
+          "2084"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D!;C;D!;B;C;A;2/5;2/5;2/5;[2082,2079,2084]",
+    "color": "#7dbee1",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "VI vill fortsätta styra regionen med Alliansen",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna, Vänsterpartiet",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Korta vårdköerna genom samarbete med andra regioner och privata aktörer",
+        "description": "Både innan och framförallt efter pandemin har vårdköerna ökat, dessa måste kortas. Ingen region klarar detta ensamt, vi måste hjälpas åt och vi måste ta hjälpa av de privata aktörer som kan hjälpa till."
+      },
+      {
+        "category": "Minska hyrberoendet genom att utbilda fler sjuksköterskor och läkare",
+        "description": "Vi har brist på de flesta specialistläkare, specialistsköterskor och allmänsjuksköterskor. Det enda sättet att kunna anställa fler är att utbilda fler."
+      },
+      {
+        "category": "Skynda på omställningen mot den nya nära vården",
+        "description": "Vi måste öka takten i omställningen, detta gör vi genom att flytta resurser närmare patienten, digitalisering och förebyggande arbete."
+      }
+    ],
+    "motivateVote": "Vårt parti kommer alltid ha fokus på tillgänglighet och valfrihet. Vi ska kapa vårdköer och göra det enklare att ta sig fram till vården. Varje medborgare ska ha möjlighet att påverka sin vård, därför är valfrihet så viktig. Vår viktigaste resurs för att klara av framtiden är vår personal, därför måste vi fortsätta att satsa på dem.",
+    "name": "Moderaterna Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-region-kronoberg"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2345",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla vårdaktörer bör hjälpas åt att på kort sikt minska köerna och se till att fler får vård i tid. Det är däremot viktigt att det finns en plan på lång sikt för hur den offentliga vården, och andra aktörer som har långa avtal med regioner, ska kunna möta det vårdbehov som finns. Att korta köer tillfälligt med hjälp av privata aktörer är inte en hållbar lösning på vårdens tillgänglighetsproblem.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna vill att vårdcentralerna ska få mer resurser så att de kan anställa fler och förbättra sin tillgänglighet, så att fler patienter kan få vård snabbt. Regionens resurser behöver i första hand satsas på att stärka personalpolitiken. Utan medarbetare kan vi inte bedriva vård, varken på sjukhus eller vårdcentraler. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi socialdemokrater tycker att Region Kronobergs medarbetare förtjänar bättre arbetsmiljö och stärkta arbetsvillkor. Lön är inte allt men väldigt viktigt för att rekrytera och behålla personal. Region Kronoberg måste ha konkurrenskraftiga löner.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna har inte bestämt sig i frågan om vad som ska hända med sjukhustomten i centrala Växjö. Vi har inte heller bestämt oss i frågan om nytt kulturhus eller var det i så fall ska ligga. Ett kulturhus på CLV-tomten kan vara en bra idé. Vi vill också se över vilka andra regionverksamheter som kanske kan rymmas i de gamla lokalerna och/eller på den gamla tomten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Socialdemokraterna vill erbjuda mammografi högre upp i åldrarna. Vi vill också se över möjligheten att införa individuell bröstcancerscreening och utreda möjligheten att avgiftsbefria all bröstcancerscreening. I oktober 2021 skickade vi in en motion med dessa förslag till regionfullmäktige. Motionen är inte behandlad än.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska inte vara gratis för alla att resa med kollektivtrafiken. Däremot vill vi socialdemokrater att pensionärer ska ha rabatt både på månadskort och enkelbiljetter. Socialdemokraterna skickade redan 2019 in ett förslag om detta men fick avslag av regionfullmäktige. Vi vill också erbjuda ungdomar sommarlovskort och se över möjligheten att ta fram ett sommarkort även för vuxna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Nya biljetter, hållplatser och linjer kan kosta, särskilt i uppstartsfasen. Socialdemokraterna tror dock att bättre priser och fler möjligheter att resa kollektivt gör att fler väljer buss och tåg. Det i sin tur innebär högre intäkter för Länstrafiken. Därför tror vi att kostnaderna kan ligga kvar på ungefär samma nivå som idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Socialdemokraterna motsätter sig inte privata aktörer för att de är privata. Däremot tycker vi att det är bra om så mycket som möjligt av välfärden bedrivs i offentlig regi. Vi tror att det ger bäst kontroll över vad våra skattepengar används till. I Kronoberg vill vi att det finns offentligt drivna vårdcentraler i alla kommuner (saknas idag i Älmhult). Vi vill inte heller starta fler vårdval.",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2078",
+          "2081"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "B;C;D!;C;D;B;2/5;0/5;2/5;[2082,2078,2081]",
+    "color": "#e02e3d",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bättre arbetsmiljö och lönevillkor för medarbetarna",
+        "description": "Vi måste behålla de medarbetare vi har och rekrytera nya. För att lyckas måste flera saker göras:\r\n• Budgeten för löner utökas\r\n• Fler medarbetare ska ha rätt till kompetensutveckling\r\n• Tillägget för arbete på obekväm arbetstid ska höjas för alla medarbetare - inte bara några\r\n• Medarbetarna ska få bättre möjligheter till återhämtning och stöttning, exempelvis samtalsstöd\r\n• Delade turer ska avskaffas"
+      },
+      {
+        "category": "Stärk vårdcentralerna och samarbetet med kommunerna",
+        "description": "• Det måste bli lättare att få kontakt med och tid på vårdcentralen. Det behövs ökade resurser och nya arbetssätt, exempelvis digitala tjänster.\r\n• Mer utbyte och samarbete mellan kommun och region. Patienten ska inte behöva fundera på om det är kommunen eller regionen som är vårdgivare.\r\n• Ökad läkarnärvaro i äldreomsorgen och på särskilda boenden, exempel medicinskt ansvarig läkare i varje kommun."
+      },
+      {
+        "category": "Satsningar på att stärka kvinnovården",
+        "description": "Kvinnors vård och hälsa måste stärkas på flera områden. (S) föreslår bland annat:\r\n• Bröstcancerscreeningen ska utökas att gälla högre upp i åldrarna.\r\n• Satsa mer på vård kopplat till graviditet: mödravård, förlossningsvård och eftervård.\r\n• Fler ställen att ta cellprov på, möjlighet att göra det hemma och snabbare svarstider.\r\n• Ultraljud ska återinföras på Ljungby lasarett."
+      }
+    ],
+    "motivateVote": null,
+    "name": "Socialdemokraterna Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-region-kronoberg"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2346",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdköer är skadligt och alla patientsäkra sätt att korta dem behöver användas",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionens resurser måste satsas balanserat på alla delar inom hälso och sjukvård.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mer än bara lönerna som behöver sarsas på, arbetsmiljö och bra arbetsvilkor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inget Regionen skall lägga pengar på.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det bör ske på patientens vilkor. Risken ökar med stigande ålder.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kollektivtrafiken är redan skattefinansierad med ca 50%.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Kollektivtrafik är viktigt för att knyta ihop Kronoberg och omkringliggande Regioner.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Vi har inget emot privata företag så länge de levererar på samma vilkor.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": "Vi sänker gärna skatten men då ska det ske på ett hållbart sätt.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2085",
+          "2081"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "D;C;C;B;D;A;2/5;2/5;2/5;[2082,2085,2081]!",
+    "color": "#ffc346",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej. ",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vi eftersträvar ett politiskt styre som ger Kronoberg så mycket Sverigedemokratisk politik som möjligt. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Krav på svenska språket ",
+        "description": "För att man ska få jobba patientnära ska där finnas krav på att man behärskar det svenska språket."
+      },
+      {
+        "category": "Fast bemanning på vårdcentraler ",
+        "description": "Genom god personalpolitik och fokus på utbildning av vårdpersonal ska primärvården återuppbyggas med fast personal där patienten får tryggare vård."
+      },
+      {
+        "category": "Bort med de skadliga vårdköerna ",
+        "description": "Med fler standardiserade vårdförlopp, ändamålsenliga lokaler och bättre nationell samverkan vill vi få bort de skadliga vårdköerna. Vi anser att vårdköer skapar ohälsa, lidande och död."
+      }
+    ],
+    "motivateVote": "Vi prioriterar Region Kronobergs kärnverksamhet. En långsiktig personalförsörjning till i första hand hälso och sjukvård. Vi tar även grepp för att göra situationen här och nu så bra som möjligt för både patienter och personal. Fler kollegor i arbetslaget och bra flöden med patienten i centrum. Vi är måna om att kollektivtrafik och Regional utveckling skall vara tillgänglig i hela Kronoberg.  ",
+    "name": "Sverigedemokraterna Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-region-kronoberg"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2347",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "bb895d23facc59d7ab0d3db709863d68",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdköerna ska kortas av regionala aktörer för att vården ska ges enbart efter behov, vården ska samordnas regionalt och skattepengarna ska inte gå till vinster.  ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "9868d6bea76045931b30332fc480ab2f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vårdcentralerna är kronobergarnas viktigaste och \"närmaste\" vårdgivare. Med bra fungerande vårdcentraler minskar trycket på akuterna och på övrig vård. Vårdcentralerna behöver resurser att jobba förebyggande, vilket sparar både pengar för samhället men framför allt lidande.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0d10148e7c9a0df653dcb49372bc1f46",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regionen behöver ge konkurrenskraftiga löner för att behålla och rekrytera personal , som ju är en bristvara. Men det är också viktigt att ge andra bra arbetsvillkor som kompetensutveckling, arbetstidsförkortning och, inte minst, möjlighet att påverka sitt arbete. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "edb0b079afac86e5997d7697e5f0e44e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet är mycket tveksamma till byggandet av nya sjukhuset, framför allt av ekonomiska skäl. Detta har förstärkts under våren då byggpriserna ökat och beräknas fortsätta att öka. Vi är oroliga för att vi får ett nytt sjukhus, men inte har råd att fylla det med bra vård och att det även påverkar regionens övriga verksamhet . ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72672a5250f18f224ba144761c7fa6b8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Mammografi är en enkel undersökning som kan hitta tidiga tecken på bröstcancer, vilket är en mycket vanlig cancerform. Socialstyrelsen och Cancerfonden har en övre gräns för allmän mammografi till 74 år. Men om en kvinna över 74 år misstänker cancer ska hon självklart få göra en kostandsfri mammografi. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "fb59226cb5d522ffe9622d66af2d2d90",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiets mål är att kollektivtrafiken ska vara avgiftsfri och det har förstärkts med de accelererande klimatförändringarna. I vårt nuvarande program vill vi ha ett årskort för 3650:-, fritt seniorkort och sommarlovskort. Vi vill fylla bussar och regiontåg och anser att det är ett bra läge nu när bensinen blivit så dyr och fler inser allvaret med klimatkrisen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "9fe85804e6da66d22be5a8275c6eda46",
+        "questionType": "RANGE",
+        "reasoning": "Genom lägre pris fyller vi bussarna, det kostar inte mer. Men det måste finnas möjlighet att starta nya linjer, och då kan det kosta mer den första tiden innan resenärerna \"upptäckt\" den. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "0976834dff1efcb4dcfaa5508b255f47",
+        "questionType": "RANGE",
+        "reasoning": "Sjukvården ska drivas, samordnas och styras av regionen för att det ska bli effektivt och utgå från vårdbehoven, inte av vinstintresset. Idag kan privata vårdcentraler etablera sig var som helst med rätt till ersättning från regionen, istället för att utgå från var det finns störst behov. ",
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "bb934411132282f592966012103e2324",
+        "questionType": "RANGE",
+        "reasoning": "Det finns pengar att spara, framför allt på bolagen som hyr ut personal,  genom att satsa på regionens egen personal. Då kan det också finnas resurser för viktiga satsningar t.ex. på behandling för psykisk hälsa och förebyggande vård. Men det nya sjukhuset är ett stort orosmoment som kan tvinga fram skattehöjningar.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "852493dfbc02087fcd0705ca8ba0d0f8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "2082",
+          "2078",
+          "2081"
+        ]
+      }
+    ],
+    "answersCount": 10,
+    "answersString": "A!;D!;D!;A;C;D!;3/5!;0/5!;2/5;[2082,2078,2081]",
+    "color": "#911414",
+    "electionType": "region",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti Regionalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueRegionalNational"
+      },
+      {
+        "answer": "Vänsterpartiet, socialdemokraterna och miljöpartiet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förstärk vårdcentralerna",
+        "description": "Vårdcentralerna är viktigaste vårdgivaren och behöver därför ha bra resurser t.ex. psykiska och psykosociala behandlingsresurser. Bra arbetsvillkor för läkarna , med max 1100 listade invånare per läkare,så att de stannar kvar och kan utveckla verksamheten."
+      },
+      {
+        "category": "Mödra- och förlossningsvården behöver förstärkas liksom akuterna",
+        "description": "Förkorta arbetstiden med bibehållen lön för personal på akuterna och förlossningen, för att personalen ska orka med sitt arbete   Det är också ett sätt att underlätta rekryteringen och få behålla personalen."
+      },
+      {
+        "category": "Billigare kollektivtrafik",
+        "description": "Årskort för 3650:-, samt seniorkort och sommarlovskort  För klimatets skull men också för att minska ensamheten och öka livskvaliteten för de äldre. Sommarlovskort för att ge alla barn möjlighet till ett roligt sommarlov."
+      }
+    ],
+    "motivateVote": "Vi vill satsa på personalen för att få en stabil personalgrupp istället för hyrpersonal. Personalen måste få mer inflytande över sitt arbete, istället för klåfingriga politiker och tjänstemän. Vi vill också satsa på kollektivtrafiken, med lägre priser, både för klimatets  men också för landsbygdens, skull. Seniorkort o sommarlovskort ger högre livskvalitet för både barn o äldre. ",
+    "name": "Vänsterpartiet Region Kronoberg",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-region-kronoberg"
+  }
+]

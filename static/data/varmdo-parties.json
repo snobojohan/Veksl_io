@@ -1,0 +1,1340 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "2061",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är orimligt att Värmdöborna ska straffbeskattas två gånger för att ta sig in till Stockholms stad. Först med broavgift och sedan vägtullar.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Då skolpengen är lika för friskolor och kommunala skolor är det rimligt att ansvaret för nyanlända elever delas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det måste finnas en boende i kommunen för livets alla skeenden och situationer. I dag är det en utmaning för unga att hitta sitt första boende i kommunen.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att kommunen möjliggör för publika laddstolpar. Däremot bör dessa driftas av privata företag och ej av kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "VI måste givetvis dela på ansvaret för att erbjuda människor som flytt från krig. Däremot är det viktigt att kommuner ska kunna ha en dialog med migrationsverket om detta för att säkerställa ett så bra mottagande som möjligt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är bra verktyg i vissa frågor som delar medborgarna. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "För oss är kvaliteten på skolan och inte driftsformen som är den avgörande. Vi har skolor att vara stolta över i vår kommun, både i kommunal och i fristående regi. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är otroligt viktigt och det är viktigt att att kommunen möjliggör för främst barn och unga att ta del av ett rikt kulturutbud. Att fritt få skapa och ta del av tankar om livet och samhället vi lever i. Kulturen har en viktig del i detta. Därför måste kulturen få vara fri. Det är viktigt för demokratin. Därför ska politiker inte försöka styra vad kulturen handlar om.",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Vi måste sträva efter att maximera nyttan med varje skattekrona, därför måste vi hela tiden titta på hur vi kan arbeta smartare. Principen måste vara att inte beskatta invånare mer än vad vår kommuns verksamheter behöver.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "652",
+          "648",
+          "649"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "641",
+          "645",
+          "646"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D!;D!;D!;C;D!;D!;C;B!;B;2/5!;3/5;1/5!;[652,648,649];[641,645,646]!",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är emot avgifter på Skurubron",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "VI vill ju givetvis vara med och ta ansvar, men avvaktar valresultatet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Vänsterpartiet ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ökad framkomlighet",
+        "description": "Värmdös vägar är hårt belastade, särskilt sommartid. För att öka framkomligheten måste vi bygga fler cykelvägar, titta på nya väglösningar i tex Mölnvik, och givetvis ska pendelbåten från Ålstäket in till Stockholm bli verklighet den kommande mandatperioden."
+      },
+      {
+        "category": "Satsa på miljö och klimat",
+        "description": "Vi som bor och lever i Värmdö påverkas av de globala klimatförändringarna, men utsläpp och nedskräpning påverkar också vår närmiljö & hälsa. Värmdö bör satsa på att möjliggöra den fossila omställning genom att stötta satsningar på förnybar energi (tex. havsbaserad vindkraft, solceller & vätgas)"
+      },
+      {
+        "category": "Vi sätter Värmdö i rörelse",
+        "description": "Vi vill att fler barn och unga fortsätter med föreningsverksamhet högre upp i åldrarna! Att barn och unga slutar med idrott i unga år är idag välkänt och en trend föreningarna kämpar för att bryta. De sociala och hälsomässiga följderna är med fysisk aktivitet är viktiga och vi vill därför se en särskild satsning där vi tillsammans med föreningarna möjliggör för en aktiv fritid högt upp i åldrarna."
+      }
+    ],
+    "motivateVote": "Vi är en grön liberal kraft som står upp för din rätt att bestämma mer över din vardag vart på Värmdö du än bor. Vi har en positiv framtidstro, vi vet att klimatutmaningen går att lösa, och står upp för allas lika rätt och värde. \r\nVi vet hur viktig skolan är för barnens lärande och utveckling, att det finns trygga vuxna och aktiviteter på fritiden för våra barn och unga.",
+    "name": "Centerpartiet Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-varmdo"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "2062",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att vindkraftsprojektet utanför Sandhamn skulle innebära ett allvarligt ingrepp i vår unika natur- och skärgårdsmiljö. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver planera för t ex utveckling av Gustavsberg centrum och Hemmesta centrum. Givetvis måste infrastrukturen klara av det. Vi vill se en småskalig bebyggelse i form av moderna trädgårdsstäder. Ingen förtätningshysteri och höga hus. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är orimligt att Värmdöborna enda fasta förbindelse till fastlandet ska beläggas med avgifter",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att en del av friskolornas platser kan öronmärkas för nyanlända. Många har kötid som urval till sina platser vilket kan göra det svårt att ta emot nyanlända elever. Vi ser det som en möjlighet, men inte tvång. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en generell bostadspolitik i Sverige och de kommunala bostadsbolagen måste drivas på samma villkor som de privata. Genom att öka planläggningen och förenkla byggreglerna kan vi få ned kostnaderna för byggandet. Men det dyraste boendet är alltid det nya. Genom att bygga nytt får vi igång flyttkedjor och billigare boende frigörs.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tror på konkurrens och valfrihet. Privata företag har tillfört att kvaliteten har ökat i välfärden.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Istället för att jaga personbilism måste vi underlätta elektrifiering",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Är deras verksamhet inte en nödvändig kommunal angelägenhet\r\nbör de privatiseras. Även Konkurrensverket har krävt att de kommunala bolag som konkurrerar på en privat marknad skall avvecklas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun måste få ha stort inflytande över hur många nyanlända den kan ta emot",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har en representativ demokrati i Sverige och den verkliga demokratiska delaktigheten sker när kommuninvånarna röstar i kommunvalet vart fjärde år och utser sina representanter.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Vi har några fristående skolor och förskolor, de kan blir fler. Men varje ansökan ska prövas var för sig, om en ytterligare skola passar in i helheten. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Vi har stora utmaningar och behov de kommande åren. Vi vill prioritera våra kärnverksamheter i form av skola, barn och omsorg.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "•Kommunalskatten ska sänkas stegvis med målet att kommunalskatten på sikt ska tillhöra den lägre kvartilen i länet. ",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "653",
+          "652",
+          "648"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "642",
+          "645",
+          "640"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;C!;D!;B;A;D!;C;D!;C;B;3/5!;2/5;0/5!;[653,652,648]!;[642,645,640]!",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi är redo att fortsätta styra i Värmdö och vi gör det helst med de partier som driver en borglig politik. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan inte tänka oss styra varken med Socialdemokraterna eller Vänsterpartiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Värmdö ska ha Sveriges bästa äldreomsorgen",
+        "description": "Äldreomsorgen ska utvecklas utifrån de äldres behov och önskemål och präglas av en hög kompetens och kontinuitet.  För att motverka ensamheten vill vi att Värmdö ska ha ett seniorhus. I kommunen ska finnas en bred variation av aktiviteter för äldre. •Det ska finnas många olika former av boende för äldre utöver särskilt boende, exempelvis seniorboende och trygghetsboende."
+      },
+      {
+        "category": "Värna Värmdös unika skärgårdskaraktär vid planering av ny bebyggelse. ",
+        "description": "Småskalighet framför storskalighet , moderna trädgårdsstäder framför höghus. Minskat regelkrångel vid ny och tillbyggnad. Det behövs en omfattande satsning på Värmdös infrastruktur."
+      },
+      {
+        "category": "Fortsatt satsning på Värmdös skolor.",
+        "description": "Nollvision för skolmisslyckande. Alla barn måste klara skolan. Ingen ska hållas tillbaka, ingen lämnas efter. •Kommunen ska fortsatt värna valfrihet och mångfald med flera alternativa utförare av barnomsorg och förskola. •\tdigital elevhälsa bör utvecklas i Värmdö.• Vi ser gärna att skolorna inför betyg från årskurs 4."
+      }
+    ],
+    "motivateVote": "Vi fokuserar på frågor såsom familj, barn, unga, skolan samt äldreomsorgen.  Vi ser hellre fler småhus än höga flervåningshus. Särskild hänsyn bör tas till arkitektoniska och kulturella värden samt Värmdös unika småskaliga skärgårdskaraktär. Vi behöver en ordentlig utbyggnad och upprustning av Värmdös infrastruktur.",
+    "name": "Kristdemokraterna Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-varmdo"
+  },
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "2063",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna Värmdö ställer sig positiva till en havsbaserad vindkraftspark i skärgården där det är möjligt utifrån förutsättningar med hänsyn till människa och miljö. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är mindre bra att vi tvingas skriva ned målet om antalet nybyggda bostäder på grund av att våra statliga vägar inte prioriteras. Värmdö växer och det är bra, men övrig infrastruktur måste utvecklas i harmoni med detta. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Liberalerna Värmdö vill verka för en avgiftsfri Skurubro tillsammans med Nacka kommun. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Självklart! Konkurrens mellan kommunala och privata skolor är bra – men konkurrensen måste ske på lika villkor. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns en behov i samhället att öka andelen hyresrätter. Vi vill se mer blandad bebyggelse – att man bygger flera olika upplåtelseformer och boendeformer som fler kan efterfråga. Det gäller särskilt boende till unga som står långt från bostadsmarknaden. Men det är inte sagt att en billig hyresrätt är den bästa boendeformen för en ung person som söker sitt första boende. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se mer valfrihet i äldreomsorgen – absolut ska privata aktörer få driva denna typ av verksamhet men det får inte ske utan kontroll. Det ska heller inte vara \"för mycket\" valfrihet så att det blir svårt för brukaren att anlita den service som hen kräver. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en viktig roll i energiomställningen och har en viktig insyn och möjlighet att påverka utbyggnaden av elinfrastrukturen som möjliggör fler laddstolpar. Vi ser att kommunen behöver skapa en särskild strategi för laddstolpar. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ska kommunen driva bolag i aktiebolagsform? Det är en fråga som vi ställer oss, men har inte enats i partiet ännu om ett motiverat svar.  ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser att det är viktigt att den samordnande myndigheten Migrationsverket har en viktig roll i fördelningen och just samordningen av flyktingmottagandet. Det är inte OK att vissa kommuner smiter undan ansvar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill se en ökad dialog mellan kommunen, politiken, medborgarna och civilsamhället. T ex genom skoldialog (som vi nyss infört) och fler medborgarförslag. Däremot har vi inte tagit ställning till just fler folkomröstningar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Varje skattekrona ska användas väl. Vi är för en skattesänkning när det är möjligt utan att montera ned service och kvalitet för medborgaren. ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "650",
+          "652",
+          "649"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "641",
+          "645",
+          "640"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;C;D;C;B;D;C!;B;A;B;2/5;2/5;1/5!;[650,652,649];[641,645,640]",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Oklart. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi är öppna för samarbete med alla partier utom Vänsterpartiet och Sverigedemokraterna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vänsterpartiet och Sverigedemokraterna. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Satsa på infrastrukturen – nu!",
+        "description": "Tryck på Trafikverket att prioritera Värmdös statliga vägar, särskilt väg 222 Grisslingerakan och rondellen i Mölnvik som är två stora trafikinfarkter i kommunen just nu.\r\nVerka för en avgiftsfri Skurubro tillsammans med Nacka kommun.\r\nBygg ut gång- och cykelvägsnätet genast. Exempel Björkvik, Stavsnäsvägen mot Sollenkroka och flera ställen på Ingarö där det saknas cykelvägar. Det ska vara möjligt a"
+      },
+      {
+        "category": "Bostäder och infrastruktur ska gå i takt",
+        "description": "Värmdö växer som aldrig förr. Det är bra. Vi måste dock se till att utveckling och tillväxt sker i harmoni med övriga satsningar på bostäder, infrastruktur, VA-utbyggnad och elnätsutbyggnaden. Vi måste trycka på för att våra statliga vägar ska prioriteras, så att Värmdöborna slipper spendera så mycket tid i bilköer. Vi måste också se till att vi inte blir en kommun som bygger på bostadsmarknadens"
+      },
+      {
+        "category": "Trygg skolgång för alla",
+        "description": "Värmdö ska vara en attraktiv skolkommun – både för personal och elev. En trygg skola är en en plats där elevers lärande står i centrum och lärarnas profession respekteras. Värna valfriheten i skolan! Du ska själv få bestämma vart ditt barn ska gå i skolan. Konkurrens mellan friskolor och den kommunala skolan är bra, det främjar utveckling. Alla har rätt till en likvärdig skolgång."
+      }
+    ],
+    "motivateVote": "Vi vill att Värmdö ska vara möjligheternas kommun för alla. Det betyder att du ska ha frihet att forma ditt eget liv utifrån dina förutsättningar på bästa sätt.\r\n\r\nTillsammans skapar vi det Värmdö som vi vill lämna vidare till kommande generationer. Det kräver medvetenhet och satsningar på klimat, infrastruktur, samhällsbyggnad, bostadsbyggande och en levande skärgård.",
+    "name": "Liberalerna Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-varmdo"
+  },
+  {
+    "abbreviation": "MP",
+    "altingetCandidateId": "2064",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "All energi behöver vara förnybar. Tekniken för vindkraft utvecklas enormt och kan försörja Sveriges behov samt även bidra till energibehoven i andra länder. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nybyggnation kan ske i kollektivtrafiknära lägen som t ex Gustavsbergs centrum. Nybyggnation som genererar mer trafik, framförallt på Grisslingerakan, bör undvuikas. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet anser att det inte bör vara avgifter på Skurubron då det är Värmdöbornas enda landsförbindelse. Vi ser gärna att kollektivtrafiken prioriteras via speciella eller flexibla körfält. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Miljöpartiet är för integration och ser positiv på alla former till att motverka segregering. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Värmdö behöver alla slags boendeformer och eftersom det finns få hyresrätter är vi framförallt för att bygga fler hyresrätter. Vi vill även att det ska finnas billiga hyresrätter. Alla ska ha råd att bo! ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi hade gärna bevarat valfrihet (LOV) och kommunal hemtjänst men de utredningar som gjorts har visat att LOV inte fungerar i en liten kommun som Värmdö. För att fortsätta erbjuda god kvalitet i omsorgen till ett ökande antal äldre var det nödvändigt att gå vidare med en upphandling av hemtjänsten.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Omställningen till fossilfri trafik är en självklarhet och ska stimuleras. Vi vill att kommunen skapar en laddstrategi som möjliggör laddning av elbilar via publika laddstolpar som tillhandahålls både av kommunen och privata aktörer. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunal verksamhet är ibland nödvändigt för att en verksamhet som kan skötas via det privata näringslivet ska fungera på ett tillfredsställande sätt. ",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser dialog mellan kommunerna och migrationsverket som en grundbult för mottagande av människor som kommer till Sverige. Dessa nya resurser ska självklart fördelas över hela vårt land och hänsyns tas till var de behövs. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi behöver framförallt mer dialog mellan medborgare och politiker. Om det sker via folkomröstningar eller på andra sätt är inte det viktiga, det viktiga är att dialogen finns och är levande. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Det finns idag en blandning av kommunala och privata aktörer inom skolan i Värmdö, vilket vi anser är positivt. Vi ser inte att Värmdö behöver fler skolor som drivs av privata företag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Värmdö har ett brinnande, rikt kulturliv. Vi ser mycket gärna att kommunen är en mer delaktig och stimulerande aktör än den är idag. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver framförallt säkerställa att skola, vård och omsorg fungerar på ett tillfredsställande sätt för medborgarna. Vi vill därför inte sätta en skattesats utan snarare kvalitetsmått på att kärnverksamheterna ses som tillförlitliga och goda av Värmdös medborgare. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "650",
+          "652",
+          "649"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "641",
+          "645",
+          "646"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B!;C;C;D;C;D!;B;B!;C;2/5;3/5;2/5;[650,652,649];[641,645,646]",
+    "color": "#82c882",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill självklart fortsätta verka för bästa möjliga miljö och klimatpolitik, oavsett vilka partier vi samarbetar med. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förnybar energi & energilagring",
+        "description": "Vi stöttar förslaget om att bygga den havsbaserade vindkraftsparken utanför Sandhamn. Vi vill även genomföra pilotprojekt med lagring av energi i vätgas, verka för alla slag av förnyelsebar energi och se till att arbetstillfällen relaterade till vindkraftsparken hamnar i Värmdö."
+      },
+      {
+        "category": "Utvärdera självstyre i skärgården. ",
+        "description": "Öar utan fast landförbindelse är bland de ”glesaste” delarna vi har i Sverige. Många beslut flyttar sakta och säkert allt längre bort från de som bor och verkar i glesbygd. Ökat självstyre är ett sätt att stärka demokratin, anpassa verksamheten till förutsättningarna och göra politiska beslut mer anpassade till de förutsättningar som råder på platsen."
+      },
+      {
+        "category": "Levande kultur & demokrati",
+        "description": "Vi vill stärka det lokala kulturlivet. Formulera en kulturvision med lokala aktörer, se till att det finns lokaler för aktiviteter, göra biblioteken till centrum för lokal kultur och historia - inkorporera det gamla i det nya och fortsätta utveckla ett levande, aktivt kulturliv i Värmdö."
+      }
+    ],
+    "motivateVote": "Klimatfrågan är en akut ödesfråga för mänsklighetens överlevnad. Därför ser vi den som prioriterad. Dessutom står Miljöpartiet för beslut som tar framtida generationer och hela världens befolkning i beaktande. Det gör inga andra partier. ",
+    "name": "Miljöpartiet Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "miljopartiet-varmdo"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "2065",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns en risk att kabeldragningar och etableringen av vindkraftparken kommer att ha stor påverkan på miljön. Likaså befarar vi att flyttfåglar kan påverkas negativt då några av de föreslagna parkerna finns i viktiga flyttstråk för flyttfåglar. Gestaltningen och landskapsbilden i ytterskärgårdsmiljön kommer också att påverkas negativt.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nya detaljplaner går att bromsa men inte redan beslutade detaljplaner. Vi har beslutat att halvera byggtakten tills infrastrukturen hinner ikapp. Till skillnad från (S) prioriterar vi detaljplaner i utpekade fritidshusområden med hög grad av permanent boende framför nya flerbostadshus. Dessutom prioriterar vi detaljplaner som har en avgörande betydelse för infrastrukturen och tryggheten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Värmdömoderaterna har alltid motsatt sig avgifter på Skurubron och har uppvaktat regeringarna Reinfeldt, Löfven och Andersson om att slopa avgifterna på Skurubron. Kommunstyrelsen har bjudit in infrastrukturministern till möte för att diskutera frågan vilket han inte har svarat på. Vi säger bestämt nej till avgifter då det är vår enda fasta förbindelse till Stockholm. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "I den mån de har plats så ska de självklart ta emot nyanlända elever vilket vi inte tror de motsätter sig. Det som står i vägen är kön som ofta är lång. Där är det svårt för politiken att lägga sig i då det går ut över befintliga elever som köat i många år.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det finns inga billiga hyresrätter utan det är byggkostnaderna som avgör hyran. Om kommunen ska finansiera mellanskillnaden för att hålla hyran låg, innebär det att välfärdspengar som ska gå till förskola, skola, äldreomsorg mm kommer att gå till att subventionera folks hyror. Det är inte rätt och det är inte hållbart. Lös bostadsfrågan såsom Finland och möjliggör hyresrätt inom ett år överallt.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är hur jobbet utförs och inte vem som betalar ut lönen till anställda som avgör kvalitén. Idag har vi flera äldreboenden som drivs av fristående aktörer som levererar hög kvalitet och har nöjda brukare. I grund och botten handlar det alltid om hur en verksamhet leds, vilket kan variera oavsett om det är kommunal eller fristående regi.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "I takt med ökningen av antalet elfordon ska kommunen tillsammans med näringslivet möjliggöra en utbyggnad av publika laddstolpar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som grundprincip ska en kommun inte genom skattefinansierad verksamhet konkurrera med näringslivet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har brist på bostäder och har en lång bostadskö. Därför är det viktigt att kommunen kommer till tals i samband med att man fördelar nyanlända till kommuner. Det är viktigt att bostäderna för nyanlända främjar   integrationen, samt att de inte tränger undan Värmdös unga som idag står i kö.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "I Sverige har vi representativ demokrati vilket innebär att vid allmänna val väljs förtroendevalda för att representera folket. Det innebär också att deras uppdrag är att prioritera och fördela kommunens resurser ansvarfullt. Folkomröstningar är kostsamma, har otydliga formuleringar och utfallet blir otydligt på grund av lågt valdeltagande. Då är det bättre att jobba med dialog och lösningar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Så länge det finns en efterfrågan på fler fristående skolor ska kommunen öka de fristående alternativen. Det är i slutändan föräldrarna som avgör var de sätter sina barn i skolan och inte kommunbyråkrater. ",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Kommunen erbjuder ett brett kulturutbud för barn och unga genom kulturskolan vilket vi värnar om. Kulturella inslag i samhällsplaneringen och gestaltning är också något vi värnar om. Kommunens ska däremot inte syssla med subventionering av kulturutbudet som vänder sig till vuxna köpstarka målgrupper. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Vi ska inte ta ut mer skatt än vad som behövs för att satsa på och utveckla kärnverksamheten.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "650",
+          "653",
+          "652"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": "Kommunen har redan ett brottsförebyggande råd. ",
+        "value": [
+          "647",
+          "645",
+          "644"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;D!;D!;C;B;D!;C;D;D!;B;3/5;2/5;1/5!;[650,653,652];[647,645,644]!",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte i dagsläget. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi vill växa och få ut så mycket av vår politik som möjligt och det är utifrån den utgångspunkten som vi kommer att jobba efter. Vi hoppas att våra leveranser under senaste åren har kunnat visa på att vi tar ansvar för välfärden, framtiden, investeringarna och är måna om skattebetalarnas pengar. Samma utgångspunkt och långsiktiga inställning kommer att vara villkoret för att samarbeta med oss. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kommer att samarbeta med dem som har samma ansvarfulla inställning som oss. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ordning och reda i kommunens ekonomi för ett välskött Värmdö nu och i framtiden",
+        "description": "Värmdöbornas skattepengar ska gå till kärnverksamheten förskola, skola, äldreomsorg, socialtjänst, trygghet och samhällsplanering/infrastruktur. Vi vill effektivisera bort onödig administration så att mer pengar går till kärnverksamheten. Vi vill minska kommunens skulder och vi lovar inte allt till alla. Vi lovar heller inte miljonregn till politiska experiment utan det vi lovar, det håller vi."
+      },
+      {
+        "category": "Värmdös skolor ska vara Sveriges bästa!",
+        "description": "Värmdö ska tillhöra de bästa kommunerna i landet vad gäller betyg, andelen elever som uppnår kunskapskraven i alla ämnen och andel elever med genomförd gymnasieutbildning. Kommunen har gjort en utvecklingsresa vad gäller betygen och meritvärden för årskurs 9 men vi är inte nöjda förrän vi blir bäst i landet."
+      },
+      {
+        "category": "Värmdöborna måste fram - Värmdös infrastruktur måste prioriteras",
+        "description": "Trafikverket har under lång tid inte prioriterat Värmdös vägar vilket påverkar värmdöborna negativt. Därför har vi halverat byggtakten under mandatperioden tills infrastrukturen har hunnit i kapp. Vi kommer att arbeta för ökade statliga satsningar på Värmdös vägar. Vi vill rusta upp Gustavsberg- och Hemmesta centrum samt lägga om hela trafiklösningen i Mölnvik."
+      }
+    ],
+    "motivateVote": "Vi kommer att sätta kärnverksamheten först, dvs förskola, skola, äldreomsorg, socialtjänst, trygghet och infrastruktur. Vi lovar inte miljonregn eller miljardinvesteringar på politiska experiment utan vi kommer att fortsatt fokusera på kvalitén i våra verksamheter, effektivisera bort onödig administration och få ut så mycket nytta som möjligt för kommuninvånarnas skattepengar. ",
+    "name": "Moderaterna Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-varmdo"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "2066",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att klara klimatomställningen behöver vi genomföra vår tids elektrifiering av transporter och industri. Då krävs tillgång till stora mängder el till bra pris, redan de närmaste åren. Vi är positiva till havsbaserad vindkraft förutsatt att miljökraven uppfylls. Det kan leda till arbetstillfällen i vår skärgård. Vi är för alla fossilfria kraftslag.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Infrastrukturproblemen måste lösas. Då behövs en ny kommunledning som får saker att hända. Vi vill se ett byggstopp där infrastrukturen inte fungerar och istället genomföra en framkomlighetsplan de kommande åren. Genom ett maktskifte i region Stockholm vill vi också bygga ut kollektivtrafiken och skapa fler avgiftsfria infartsparkeringar i hela Värmdö.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaternas avtal om broavgifter från 2009 med regeringen Reinfeldt är en usel idé som vi varit emot från början. Vi säger tydligt NEJ till avgifter på Skurubron. Om avgiften inte helt kan skrotas kräver vi ett undantag för Värmdöbor. Lidingöborna fick ett undantag från trängselskatterna för att de skulle komma ut på de stora vägarna utan avgift. Vi kräver samma lösning för oss som bor här!",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Samma regler ska gälla för alla skolor oavsett driftsform. Integrationen underlättas när alla hjälper till. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunens allmännyttiga bostadsbolag Värmdö Bostäders uppdrag är att bygga och förvalta hyresrätter. Idag råder en brist på hyresrätter i kommunen. När det väl byggs vill vi se fler hyresrätter i kollektivtrafiknära områden med rimliga hyror som också unga och äldre har råd med. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi är för valfrihet. Men vi är emot vinstjakten i välfärden som går ut över våra äldre och omsorgens kvalitet. Vi vill ta tillbaka kontrollen över välfärden. Vi vill också värna valfriheten genom att rädda kvar den kommunala äldreomsorgen som är under ständiga hot från Värmdömoderaternas privatiseringsiver.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Som kommun har vi ett ansvar för att se till så att vi bidrar till att klimatmålen kan nås och göra det enklare för Värmdöbor att ställa om till fossilfria transporter. Vi vill sjösätta en framkomlighetsplan där vi också elektrifierar Värmdö. Det ska ske i samarbete med näringslivet och bostadsaktörer så att vi kan erbjuda fler laddplatser snabbare. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen ska bara ägna sig åt det som är kommunens uppdrag. Vi vill fokusera på att förbättra skolan, lösa trafikkaoset och trygga äldreomsorgen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om vi ska lyckas bryta segregationen och knäcka gängen måste alla kommuner hjälpas åt. Det är orimligt att några av Sveriges minsta och rikaste kommuner vägrar. ",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna har slutat lyssna efter 15 år vid makten. Engagerade föräldrar har protesterat mot M:s återkommande förslag om att lägga ner skolor och förskolor genom att kräva folkomröstningar. Vi vill inte att folkomröstningar ska behövas av det skälet. Vi vill öka inflytandet för värmdöborna genom ett skolråd, bättre medborgardialoger och att återinföra allmänhetens frågestund i kommunfullmäktige.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill ha en blandning av kommunala och fristående skolor. Vi vill göra Värmdö till en attraktiv skolkommun där alla skolor ska är bra skolor. Vi vill:\r\n1)\tInföra en långsiktigt stark och rättvis finansiering av skolan\r\n2)\tÖka kunskapen genom fler lärare och specialpedagoger \r\n3)\tMinska barn-gruppernas storlek med fler förskollärare\r\n",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Kulturen och föreningslivet är viktigt för att hålla ihop vår kommun och för vår livskvalitet. Vi vill:\r\n1. Skapa det riktiga kulturhus som Värmdöborna förtjänar\r\n2. Ha en kulturskola för alla genom sänkta avgifter\r\n3. Ge föreningslivet bättre förutsättningar – bygg fler idrottsytor och ishallar.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Genom att använda skattepengarna rätt har vi råd att satsa mer på skolan och äldreomsorgen. Vi ska sätta stopp för Moderaternas slösaktiga politik där mångmiljonbelopp går till konsulter, dyra bemanningslösningar och där andra bygger och kommunen sedan hyr tillbaka dyra lokaler. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "650",
+          "648",
+          "649"
+        ]
+      },
+      {
+        "important": false,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "647",
+          "645",
+          "640"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D!;D!;D;D;C;D;D;A;B;2/5!;3/5!;2/5;[650,648,649]!;[647,645,640]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tvekar inte att stå upp för Värmdöbornas intressen, de går först!",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Värmdö behöver en ny lyssnande kommunledning. Vi är ett samarbetsinriktat parti. Vi är öppna för att samarbeta med alla partier som ser att skolan behöver bli bättre, att framkomligheten behöver förbättras i hela kommunen och att det är angeläget att öka tryggheten för våra äldre. Rent konkret så handlar det om partier som kan stå upp för alla människors lika värde.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "En bättre skola: fler lärare och mer kunskap",
+        "description": "Skolkaoset i Värmdö med ständiga nedläggningshot måste få ett slut. Vi vill göra Värmdö till en attraktiv skolkommun med ledande resultat. Därför vill vi att skolan, förskolan och fritidshemmen ska få mer resurser genom höjd skolpeng. Vi vill se mer kunskap genom mindre elevgrupper. Varför vi också vill anställa fler förskollärare, lärare och specialpedagoger."
+      },
+      {
+        "category": "Byggstopp till infrastrukturen fungerar och framkomligheten är löst ",
+        "description": "Värmdöborna sitter fast i trafikköer alltför ofta och länge. Moderaterna har misslyckats trots 15 år vid makten. Nu behövs en ny kommunledning. Vi vill genomföra ett framkomlighetsprogram. Bygg bara där infrastrukturen fungerar. Bygg ut kollektivtrafiken. Värmdö behöver förbättrad framkomlighet på Grisslingerakan, i Mölnvik, mellan Ålstäket och Hemmesta samt en säkrare Stavsnäsväg."
+      },
+      {
+        "category": "En trygg äldreomsorg för hög livskvalitet hela livet",
+        "description": "Äldreomsorgen har brister. Därför vill vi genomföra ett arbetslyft för välfärdens hjältar där heltid blir norm, införa vikariepooler med fast personal och erbjuda mer kompetensutveckling. Vi står upp för valfrihet inom hemtjänsten som också ska erbjuda god och näringsriktig mat. Den ofrivilliga ensamheten bland äldre ska brytas genom ökat stöd till äldreorganisationernas sociala verksamhet."
+      }
+    ],
+    "motivateVote": "Efter 15 år med Moderaterna och en kommunledning som slutat lyssna på värmdöborna behövs förändring. Vi vill:\r\n1) Alla skolor i Värmdö ska bli bra skolor med fler lärare och en starkare finansiering\r\n2) Med en framkomlighetsplan och byggstopp där infrastrukturen inte fungerar ska vi lösa trafikkaoset\r\n3) En tryggare äldreomsorg- rädda den kommunala hemtjänsten och valfriheten.\r\nVårt Värmdö kan bättre!",
+    "name": "Socialdemokraterna Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-varmdo"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "2067",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vindkraftverken för dyr och har för dålig effektivitet. Skadar dessutom fågellivet.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill ha totalt byggstopp för flerbostadshus på Värmdö. Endast nödvändig byggnation för service, omsorg och trygghetsboende.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ingen annan möjlighet att komma ut från Värmdö. Vi ser det som naturligt att staten skall se till att vi kan komma ifrån Värmdölandet då det är en ö, utan att behöva betala för det.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "En friskola är ett eget bolag och skal ha rätten att själva bestämma hur deras elevmottagande ser ut.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med mycket billiga hyresrätter finns risk för segregation och separata samhällen. Det är inget vi vill ha på Värmdö. Vi vill inte bli som andra sidan stan.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas valfrihet i vår mening.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska se till att alla har möjlighet att ladda sina bilar för att värna vår miljö på  Värmdö. Det  ska vara lätt att välja en elbil.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det kommunala ska inte konkurrera med det privata. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Enligt oss är det av största vikt att kommunen själv får bestämma hur många man kan ta emot. Vilken kapacitet man har att integrera de som kommer in i vårt samhälle. Återigen vi vill inte ha ett Värmdö som på andra sidan stan.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Det är bra att vi har privata aktörer som driver skolor på Värmdö. För oss är det viktigt med valfrihet. Föräldrar skall kunna välja det de anser är bäst för deras barn.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Vi vill gärna se en skattesänkning om det är möjligt. Det är något som gynnar alla Värmdöbors plånbok.",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "650",
+          "653",
+          "654"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "647",
+          "645",
+          "640"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A!;D!;D;B;A!;D;C;C;D!;B;2/5;2/5;1/5;[650,653,654]!;[647,645,640]!",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi r redo att styra Värmdö mot en ljus framtid. Vi kan styra med de partier som vi  finner samsyn med.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi kan styra med alla där vi tycker lika. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Effektivare infrastruktur och totalt byggstopp för att motverka bilköerna",
+        "description": "SD vill att all nybyggnation som inte är av samhällsnödvändig karaktär, fryses med anledning av de svåra trafikproblemen. Den stora inflyttningen till Värmdö har gjort att det interna vägnätet inte räcker till samt att bristfälliga in- och utfarter blir överbelastade. SD vill därför som åtgärd införa byggstopp i syfte att få andrum och utarbeta en handlingsplan för att lösa befintliga köproblem."
+      },
+      {
+        "category": "Stärk skola och äldreomsorg",
+        "description": "SD vill prioritera skola och omsorg i den kommunala budgeten som garanterar hög kvalitet i skolans utbildning samt en trygg arbetsmiljö för både lärare och elever. Äldreomsorgen i kommunen ska tillföras de resurser som krävs för att säkerställa att våra äldre får vård av hög kvalitet, personal som behärskar svenska språket samt en mångfald av stimulerande aktiviteter som förgyller vardagen."
+      },
+      {
+        "category": "Trygghet och säkerhet",
+        "description": "SD vill att kommunen inleder samtal med Polismyndigh. om att återetablera ett närpoliskontor i Värmdö. Närhet till lokal polis skapar både trygghet och nya möjligheter till samverkan mellan polisen och kommunen i det trygghetsskapande arbetet. Det bör även införas kameraöverv. i kommunens centrumområden samt ronderande väktare. För att styra detta arbete behöver ett Brottsförebyggande råd inrättas"
+      }
+    ],
+    "motivateVote": "Vill de ha förändring på riktigt är det Sverigedemokraterna de skall rösta på.\r\nVi värnar trygghet och tradition och vår landsbygd skall leva. Vi ska bevara vår skärgårdskommun och inte exploateras och växa för fort. Värmdö ska inte bli som andra sidan stan vi vill inte att Värmdö blir ett utsatt område.",
+    "name": "Sverigedemokraterna Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-varmdo"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "2068",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "0eb30aeddc6e962f10abac0f705abf4b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Energiförsörjningen är en ödesfråga när samhället elektrifieras. Värmdö har stor potential för våg- och vindkraft, inte minst utanför skärgården. Vänsterpartiet anser att kommunen bör verka för att fler hållbara energikällor etableras. Ett villkor är dock att det marina livet inte kommer till skada. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0330c7afce80d1c8b70ca171ffbc8e38",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bostadsbristen är ett stort problem och lösningarna kan inte vänta. Men bostadsbyggandet måste koncentreras till kollektivtrafiknära lägen för att minska bilberoendet och inte överbelasta våra vägar. Dock så behövs det även fler bostäder längre ut i kommunen men den nybyggnationen behöver hålla jämna steg med utvecklingen av infrastruktur.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "e7e49af31d92b66517433d8bc1f661e5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet anser att samhället ska stå för finansieringen och ansvara för utbyggnad av vägar.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "6c394c194f993145b070f22d1d0c1842",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagens marknadsdrivna skolsystem är ett misslyckande. Ett problem är att många vinstdrivna skolor marknadsför sig mot lättundervisade elever för att maximera sin vinst. För oss är det inte acceptabelt att en del skolor väljer bort vissa elever. För att skapa en jämlik och sammanhållen skola vill vi förbjuda aktiebolag från att äga och driva skolor.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cd151ebb543aaab3c708675e88f3cb52",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi vill bygga 500 bostäder om året i Värmdö så länge vi har bostadsbrist. Vi vill utveckla bostadsområden med blandad bebyggelse, med kvaliteter för såväl ungdomar som barnfamiljer och pensionärer. Det ska bland annat ske genom ett tydligt ägardirektiv till det kommunala bostadsbolaget Värmdö Bostäder. För att ytterligare stimulera bostadsbyggandet vill vi införa ett kommunalt investeringsstöd. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "af9b089c3f1a3bba2a9bfd5069d16277",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet vill att den kommunala äldreomsorgen ska utvecklas och byggas ut. Alla äldre i Värmdö ska kunna välja hemtjänst och serviceboenden i kommunal regi. För många äldre är omsorgen en fråga om integritet. Därför ska ingen vara utelämnad till vinstdrivande aktörer där det saknas insyn och demokratisk kontroll. Kommunen är alltid ytterst ansvarig för att äldreomsorgen fungerar.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bd1dde9fcbe660e83a95fad329547238",
+        "questionType": "PROPOSITION",
+        "reasoning": "Många värmdöbor är beroende av bilen som arbetsredskap eller bor långt ifrån närmsta busshållplats. Därför går det inte att helt avskaffa privatbilismen. För att minska utsläppen behöver andelen elbilar öka. Vänsterpartiet vill bygga fler laddstationer och anordna en kommunal elbilspool. Alla fordon som ägs eller används av kommunen bör drivas av förnybara bränslen. \r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "eb54fed68181f4b7e00b565520e7e345",
+        "questionType": "PROPOSITION",
+        "reasoning": "När samhällsfunktioner privatiseras förlorar vi den demokratiska kontrollen. Det går inte att att trygga kvaliteten eller ställa de ansvariga till svars om politikerna lagt ut verksamheten på entreprenad. Därför är det mycket viktigt att kommunen tar ansvar för skola, äldreomsorg och andra samhällsfunktioner och driver dem i egen regi.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "659d1733a17e275dccf57ed6b18f40eb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner ska ta sitt ansvar för att hjälpa människor på flykt, så att alla kommuner får en hanterbar situation. Det behövs för att minska segregationen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "01e3b5a31c8413705b654eeb6f02535e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Demokratin förutsätter att politiker lyssnar. Ändå har politiken i Värmdö präglats av beslut som inte förankrats med värmdöborna. Förändringar i skolorganisationen som inte varit förankrat hos barnen. Omorganisationer inom kommunens egna verksamheter, som gått stick i stäv med den egna personalens rekommendationer. Vänsterpartiet vill istället stärka demokratin.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "61da51eadf32638f71dc81ce92c4b622",
+        "questionType": "RANGE",
+        "reasoning": "Marknadsskolan är ett misslyckande som har skapat mycket oreda i Värmdös skolor. Skolkoncerner kan starta nya skolor även om det inte finns ett behov av fler skolplaster. Det leder till att de kommunala skolorna får tomma skolbänkar och lägre intäkter, trots att kostnaderna för lokaler och lärare förblir desamma. Vänsterpartiet anser att skolsystemet bör göras om i grunden.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "d8c9afc62d376a2447abf8aacbda728b",
+        "questionType": "RANGE",
+        "reasoning": "Värmdös kultur har tyvärr varit hårt ansatt på senare år. Högerpartierna har sålt ut viktiga kulturlokaler, lagt ner Gustavsbergs konsthall och dragit in resurser för föreningslivet. Samtidigt har coronapandemin gjort att biljettintäkterna minskat och en del verksamheter fick stänga ner. Under de kommande åren är det helt nödvändigt att bygga upp nya arenor för fritt kulturutövande.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "1a8884ab0c510fd94dd2a5e1a93dd0c7",
+        "questionType": "RANGE",
+        "reasoning": "Vänsterpartiet anser att välfärden behöver stärkas, även om det kostar. Helst vill vi dock inte finansiera välfärdsreformer med höjd inkomstskatt för alla, utan genom att höja skatten för de rikaste, i form av bland annat höjd kapitalskatt, arvsskatt och fastighetsskatt. ",
+        "value": "3"
+      },
+      {
+        "important": true,
+        "questionId": "31e7d84021c0e2ec33656824aec6d7fa",
+        "questionType": "PRIORITY",
+        "reasoning": "Arbetsbelastningen inom äldreomsorgen är hög och arbetsmiljön är ofta bristfällig. Personalen har inte tillräckligt mycket tid för de äldre.För att råda bor på detta vill Vänsterpartiet öka personaltätheten inom äldreomsorgen. För att höja kvaliteten och minska personalomsättningen vill Vänsterpartiet satsa särskilt på kompetensutveckling.",
+        "value": [
+          "650",
+          "652",
+          "648"
+        ]
+      },
+      {
+        "important": true,
+        "questionId": "6e9125daec6ae04df858a2a2c811f402",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "643",
+          "645",
+          "640"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;B;D;C;D;A!;D!;A;A!;C;0/5!;3/5!;3/5;[650,652,648]!;[643,645,640]!",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vänsterpartiet vill att Värmdö ska utvecklas till ett mer jämlikt och hållbart samhälle. För att det ska hända så är vårt inflytande nödvändigt. För att ingå i en koalition eller släppa fram ett annat styre, så kommer vi att kräva inflytande i form av mer resurser till skola, förstärkning av den kommunala äldreomsorgen, en bättre kulturpolitik och mer ambitiösa klimatmål.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi samarbetar inte med SD.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Mer resurser till skolan",
+        "description": "Vänsterpartiet vill skapa en jämlik och sammanhållen skola. För att elever ska uppleva trygghet är det viktigt med kontinuitet och god kontakt med lärarna. Genom högre lärartäthet och bättre arbetsvillkor kan personalomsättningen minska och långsiktigheten öka. Men detta bygger på att alla skolor, stora som små, har resurser som möjliggör långsiktighet."
+      },
+      {
+        "category": "Ökad personaltäthet och kontinuitet i äldreomsorgen",
+        "description": "Vänsterpartiet vill att den kommunala äldreomsorgen ska utvecklas och byggas ut. En särskilt viktig fråga gäller arbetsbelastningen och arbetsmiljön. Idag har personalen inte tillräckligt mycket tid för de äldre. Hjälpen blir ofta skyndsam och mekanisk. Det finns inte tid att komma utomhus eller ägna sig åt meningsfulla aktiviteter. För att råda bot på detta vill vi öka personaltätheten."
+      },
+      {
+        "category": "Använd kulturpolitik för att främja turism, demokrati och integration",
+        "description": "En bra kulturpolitik främjar integrationen, stärker demokratin och ökar livskvaliteten. Tyvärr har högerpartierna på senare år sålt ut lokaler, lagt ner konsthallen och snålat in på föreningslivet. Vänsterpartiet vill vända detta och satsa på stärkt stöd till föreningar, avgiftsfri kulturskola och ökat läsfrämjande genom biblioteken."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet går till val på att skapa ett tryggare, mer hållbart Värmdö. Efter många år av marknadslösningar och privatiseringar vill vi ta tillbaka kontrollen över välfärden och göra livet bättre för vanligt folk. Vår politik genomsyras också av ett klimat- och hållbarhetstänk.",
+    "name": "Vänsterpartiet Värmdö",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-varmdo"
+  }
+]

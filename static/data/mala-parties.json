@@ -1,0 +1,810 @@
+[
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "1095",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "ded9b0b3d6d9b7cd2e0c128f34218a5d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4ea04f2f66ebb296f83f4936d804bb05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förtätning på redan i anspråkstagen mark bör kunna vara möjligt.\r\nDet kommunala vetot bör finnas kvar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "34d7dabfb777d320f830e8cd3b71c36d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a9a0cae39c2e48845b1f4f78413995",
+        "questionType": "PROPOSITION",
+        "reasoning": "Livsmedelsproduktion är en viktig näring i Malå, det finns gott om lokalproducerat högkvalitativt kött i kommunen.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "15d64e5fceac086a58c3d445b89d267f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0912af8d5d0c7fede33cf42415948a36",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "e327849369bb3407b20197396f42f8a9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "8215f557272c125b7ccba5f7c0072581",
+        "questionType": "PROPOSITION",
+        "reasoning": "Finns ingen friskola i Malå.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bbafdcde9a396859e5f4030cc18374d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Görs redan idag.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5e9933df41b08c360021a289cd9450f6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "812b8857cc7e73c92bcaafea13b1cb47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan inte vara främst ett kommunalt ansvar.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f60e658f64e10af04d0abb084f1fa976",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla ska vara beredda att ta emot. De kommuner som vill ta emot ett högre antal ska få göra det. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72e8557e05350797b9c33e76e9993933",
+        "questionType": "RANGE",
+        "reasoning": "Det finns ingen privat skola i kommunen idag. Kommunen är nog för liten för kompletterande aktörer.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3928c69047a64e463c3061dcf16ad1d0",
+        "questionType": "RANGE",
+        "reasoning": "Är framförallt ett regionalt ansvar anser vi.\r\nVi värnar kulturskolan och stöd till föreningslivet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "632dc1643afa2b45d8531efd51486e22",
+        "questionType": "RANGE",
+        "reasoning": "På sikt bör skatten sänkas, genom nationell utjämning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a4fc8eb6537b5fd6f7a718da520c33c8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C!;B;C;B;C;A;D!;C;B;D!;B;C;2/5;2/5!;2/5;_",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Landsbygdsprofilen borde vara ännu tydligare för att underlätta att bo, leva och verka i hela landet.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Malåliberalerna vill ha så stort inflytande som möjligt och  är beredda att ta ansvar för Malås utveckling. Vi kommer att samverka med den konstellation som känns mest ansvarstagande och där vi får genomslag för våra idéer.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi vet i dagsläget inte vilka partier som kommer att vara representerade i KF.\r\n",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Öka valfriheten inom äldreomsorgen",
+        "description": "Valfrihet inom mat, boendeformer, servicetjänster, inför LOV (Lagen Om Valfrihet)"
+      },
+      {
+        "category": "Badhus",
+        "description": "Planera för att bygga ett nytt badhus i Malå"
+      },
+      {
+        "category": "Flera attraktiva boendealternativ",
+        "description": "Allt från egnahemstomter, fritidshustomter till väl underhållna pensionärslägenheter. Detta för en fungerande bostadsmarknad\r\nför Malåborna hela livet."
+      }
+    ],
+    "motivateVote": "Vi är ett parti som tror på ett växande Malå.\r\nEtt Malå där man kan leva och bo hela livet.",
+    "name": "Liberalerna Malå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-mala"
+  },
+  {
+    "abbreviation": "ML",
+    "altingetCandidateId": "1096",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "ded9b0b3d6d9b7cd2e0c128f34218a5d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är ett måste för att barnen ska kunna klara av att nå kravet om god kunskap i simning och även för övriga Malåbor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4ea04f2f66ebb296f83f4936d804bb05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Malå Kommun har redan 5 st vindkraftsparker inom sina kommun gränser så vi anser att vi redan har fullgjort våran del i den gröna omställningen.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "34d7dabfb777d320f830e8cd3b71c36d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Där utvinning sker oavsett vad så skall skatteintäkter stanna inom den berörda kommunen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "35a9a0cae39c2e48845b1f4f78413995",
+        "questionType": "PROPOSITION",
+        "reasoning": "Barnen ska kunna välja fritt vad som dom vill äta till sin skollunch.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "15d64e5fceac086a58c3d445b89d267f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Malå kommun kan lösa många av dessa frågor när man har dialog möten med de lokala företagen.\r\nI dag så sker det inte så mycket konkurrens mellan kommunala bolag och det privata näringslivet.\r\n",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0912af8d5d0c7fede33cf42415948a36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om man kan hitta lösningar på att kunna genomföra det så vore det en fantastisk dröm för människor som jobbar inom en extremt tung och slitsam miljö.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e327849369bb3407b20197396f42f8a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ett bra sätt att lära sig att prata ett nytt språk är att så snabbt som möjligt komma sig ut i arbetslivet och därigenom lära sig språket.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8215f557272c125b7ccba5f7c0072581",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har inga friskolor inom Malå kommun.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "bbafdcde9a396859e5f4030cc18374d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen kan finansiera det genom att bygga så billigt som möjligt för att hålla nere byggkostnader och därigenom få till billiga hyreslägenheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5e9933df41b08c360021a289cd9450f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska vara kommunen som driver äldreboendet och hemtjänsten.\r\n",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "812b8857cc7e73c92bcaafea13b1cb47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker att det är Svenska staten som har fattat detta beslut om att vi ska ställa om vår fordons park till elbilar som även ska ta sitt ansvar när det gäller att publika laddstolpar byggs där dessa behövs inom kommunen gränser.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f60e658f64e10af04d0abb084f1fa976",
+        "questionType": "PROPOSITION",
+        "reasoning": "En kommun vet bäst om hur många nyanlända flyktingar som den klarar av att ta hand om och ge den bästa omsorgen för.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "72e8557e05350797b9c33e76e9993933",
+        "questionType": "RANGE",
+        "reasoning": "Skolan ska drivas av det kommunala men framförallt så ska Svenska staten driva alla skolor i Sverige så att alla barn och ungdomar får samma rättvisa utbildning oavsett varst i landet man än bor.",
+        "value": "0"
+      },
+      {
+        "important": true,
+        "questionId": "3928c69047a64e463c3061dcf16ad1d0",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är en stor och viktig del i samhällets utveckling!\r\nKultur kan bestå av så många olika saker men det är en viktig del i människors liv och ett brett utbud gör att mera människor finner Malå som en attraktiv kommun att bo och verka i.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "632dc1643afa2b45d8531efd51486e22",
+        "questionType": "RANGE",
+        "reasoning": "Det kostar att driva och utveckla företaget Malå Kommun och om vi fick till en ännu större inflyttning till kommunen så skulle skatteintäkterna öka och då först så skulle vi kunna börja titta på en skattesänkning.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a4fc8eb6537b5fd6f7a718da520c33c8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1717",
+          "1716",
+          "1721"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;D!;D!;B;C!;C;B;A;C!;A;A;D;0/5;4/5!;2/5!;[1717,1716,1721]",
+    "color": "#8c8c8c",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi hoppas ju självklart på ett bra val resultat och att  hela alliansen gör ett bra val tillsammans.\r\nFör ensam är inte stark utan vi kommer att måsta samarbeta för att kunna utveckla Malå Kommun.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, vi jobbar för alla invånare i Malå Kommun.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Synlig göra resurserna",
+        "description": "Att göra invånarna mer delaktiga i besluten som fattas av politiken.\r\nAtt öka förståelsen mellan politiken och företagen som finns inom kommunen.\r\nAtt tillsammans arbeta för en samhällsutveckling.\r\nAtt vara kreativ med kommunens ekonomi samt hitta hållbara ekonomiska lösningar för att kunna växla upp kapitalet.\r\nAtt jobba för ett cirkulärt och hållbart samhälle."
+      },
+      {
+        "category": "Bolagens Fastigheter / Kommunala fastigheter",
+        "description": "Att bygga nya attraktiva bostäder i en attraktiv miljö.\r\nAtt utveckla de boenden som finns så de blir attraktiva bostäder,\r\nAtt bistå våra kommun ägda bolag så att utveckling sker i positiv anda.\r\nAtt utveckla våra kommunala fastigheter mot framtidens behov."
+      },
+      {
+        "category": "Samsyn när det gäller utveckling av Malå Kommun",
+        "description": "Att politiken ska jobba tillsammans med kommun invånarna mera när det gäller utvecklingen av kommunen som helhet för att öka förståelsen mellan invånarna och politiken.\r\nAtt vi tillsammans finner lösningar så att vi har de bästa möjliga boende möjligheter för den åldrande befolkningen.\r\nAtt vi tillsammans med Företagarna finner de bästa lösningarna för utveckling /tillväxt inom kommunens gränser."
+      }
+    ],
+    "motivateVote": "Beslut ska grundas på en rak och öppen dialog.\r\nVi vill skapa ett inkluderande klimat där alla görs delaktiga och vi vill stärka tryggheten ock kvalitetssäkra äldreomsorgen och vården.\r\nVi vill ha en kvalitativ barnomsorg, skola och vuxenutbildning så att människorna stannar i kommunen och att kommunen ska ha ett nära och ett gott samarbete med företagen.\r\n",
+    "name": "Malålistan Malå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "malalistan-mala"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1097",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "ded9b0b3d6d9b7cd2e0c128f34218a5d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Bra för alla våra invånare och besökare.\r\nViktigt med vattenvana och simkunskap, det är  ett lagkrav från skolan\r\n",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "4ea04f2f66ebb296f83f4936d804bb05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi anser att vi kan inte säga nej utan utredning till ytterligare vindkraftsbyggen.\r\nSocialdemokraterna jobbar med den gröna omställningen och klimatfrågorna.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "34d7dabfb777d320f830e8cd3b71c36d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Regeringen bör utreda frågan",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "35a9a0cae39c2e48845b1f4f78413995",
+        "questionType": "PROPOSITION",
+        "reasoning": "För det första är det inte miljövänligt att äta kött flera gånger i veckan. Det krävs tio gånger mer energi för att producera kött än vad det krävs för att producera grönsaker.\r\nFör det andra kan du äta bönor och svamp som ger dig proteiner, det är bra för miljön. Det leder till att efterfrågan till kött minskar och då blir det ett hållbar miljö.\r\nFör det tredje är det bra med varierad kost",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "15d64e5fceac086a58c3d445b89d267f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser i dagsläget ingen privat som är i behov av verksamheterna i våra kommunala bolag. Dock är vi inte emot det om frågan kommer upp.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "0912af8d5d0c7fede33cf42415948a36",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka attraktiviteten av att jobba inom äldreomsorgen och locka fler att vilja utbilda sig.\r\n",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "e327849369bb3407b20197396f42f8a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Brukarna tillsammans med personalen ska känna trygghet i sin vardag. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "8215f557272c125b7ccba5f7c0072581",
+        "questionType": "PROPOSITION",
+        "reasoning": "Eleverna ska välja skola inte skola välja eleverna.\r\nVinstjakt hör inte hemma i skolan. Resurser avsatta för välfärden ska användas till att förbättra skolresultaten.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "bbafdcde9a396859e5f4030cc18374d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Våra skattemedel ska användas till skola , vård och omsorg.\r\n",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "5e9933df41b08c360021a289cd9450f6",
+        "questionType": "PROPOSITION",
+        "reasoning": " Vi socialdemokrater är emot LOV.\r\nVi vill ta tillbaka kontrollen över välfärden.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "812b8857cc7e73c92bcaafea13b1cb47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ansvaret tas för elbilar i kommunens verksamheter. Viktigt att ladd infrastruktur planen genomförs.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "f60e658f64e10af04d0abb084f1fa976",
+        "questionType": "PROPOSITION",
+        "reasoning": "Gemensamt ansvar för alla kommuner. Risk för socialdumpning.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "72e8557e05350797b9c33e76e9993933",
+        "questionType": "RANGE",
+        "reasoning": "I Malå har vi en skola som drivs av kommunen. ",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "3928c69047a64e463c3061dcf16ad1d0",
+        "questionType": "RANGE",
+        "reasoning": "Vi anser att vi ligger på en bra nivå det finns inte mer utrymme i budgeten.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "632dc1643afa2b45d8531efd51486e22",
+        "questionType": "RANGE",
+        "reasoning": "Dagens skattesats behövs för att klara av vårt kommunala uppdrag",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "a4fc8eb6537b5fd6f7a718da520c33c8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1715",
+          "1716",
+          "1721"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;C!;D!;D!;C!;D!;D!;D!;A!;A!;D!;A!;2/5!;2/5!;2/5!;[1715,1716,1721]!",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Socialdemokraterna i majoritet",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Hälsa vård och omsorg",
+        "description": "Att känna sej behövd, leva tryggt med god livskvalité ska vara en självklarhet. I Malå ska alla ha rätt till en bra vård och omsorg. \r\nVåra äldre ska känna trygghet och få en god omvårdnad"
+      }
+    ],
+    "motivateVote": "Vi vill se ett jämlikt samhälle. \r\nAtt bryta segregationen och få bort brottsligheten\r\nTa tillbaka den demokratiska kontrollen över välfärden \r\nAnvända klimatomställningen för att skapa framtidens jobb med bra villkor i hela landet.\r\nLokalt : Vi tar ansvar för ekonomin med en budget i balans\r\nVi satsar på skolan, vård och omsorg\r\nFör oss är demokrati viktig  i politiken och samhället ",
+    "name": "Socialdemokraterna Malå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-mala"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1098",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "ded9b0b3d6d9b7cd2e0c128f34218a5d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ea04f2f66ebb296f83f4936d804bb05",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "34d7dabfb777d320f830e8cd3b71c36d",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "35a9a0cae39c2e48845b1f4f78413995",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "15d64e5fceac086a58c3d445b89d267f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0912af8d5d0c7fede33cf42415948a36",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e327849369bb3407b20197396f42f8a9",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "8215f557272c125b7ccba5f7c0072581",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "bbafdcde9a396859e5f4030cc18374d2",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5e9933df41b08c360021a289cd9450f6",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "812b8857cc7e73c92bcaafea13b1cb47",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f60e658f64e10af04d0abb084f1fa976",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "72e8557e05350797b9c33e76e9993933",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3928c69047a64e463c3061dcf16ad1d0",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "632dc1643afa2b45d8531efd51486e22",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "a4fc8eb6537b5fd6f7a718da520c33c8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1718",
+          "1719",
+          "1721"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D!;D;C;B;B;D;C;C;C;C;B;C;2/5;2/5;2/5;[1718,1719,1721]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "Vi lyssnar in vad kommuninvånarna vill och gör sedan vad vi kan för att uppfylla det.",
+    "name": "Sverigedemokraterna Malå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-mala"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1099",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "ded9b0b3d6d9b7cd2e0c128f34218a5d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet har och kommer att fortsätta arbeta med simhallsfrågan.\r\nSamverkan med andra aktörer och ett tydligt statligt ansvar kommer att behövas. Vi måste hitta lösningar vad gäller ekonomi för investeringen och för framtida drift. Malåborna är värda en simhall men vi måste klara kommunens huvuduppgifter inom skola, vård och omsorg. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4ea04f2f66ebb296f83f4936d804bb05",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet menar att regelverket om ersättning till de bygder och kommuner som berörs ska tydliggöras. Mer resurser för nyttjandet av våra naturresurser ska tillbaka till oss som bor och verkar här. Norrland är rikt! Den  nya gröna omställningen kräver energi och om vi kan producera och mer lokalt förädla och utveckla klimatsmarta lösningar är vi vinnare.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "34d7dabfb777d320f830e8cd3b71c36d",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet arbetar för att betydligt större del av de rikedomar som naturresurserna skapar ska stanna i de områden som exploateras. För oss är det också viktigt att exploateringen sker på ett miljömässigt hållbart sätt.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "35a9a0cae39c2e48845b1f4f78413995",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi måste fundera över konsumtion, produktion och transporter. Vänsterpartiet vill utveckla närodlade livsmedel. Då kan bl.a. långa transporter undvikas. Vi vill arbeta med de lokala förutsättningarna. Vi ska se på de lokala förutsättningarna.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "15d64e5fceac086a58c3d445b89d267f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Allmännyttan behövs. I t.ex. Malå fungerar inte alltid marknadslösningar vad gäller t.ex. industrilokaler. Kommunens roll är att komplettera privata aktörer.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0912af8d5d0c7fede33cf42415948a36",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är dags för en arbetstidsförkortning men det är i grunden en nationell fråga där arbetslivets parter är centrala aktörer. Vänsterpartiet ser gärna att försöksverksamhet bedrivs. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e327849369bb3407b20197396f42f8a9",
+        "questionType": "PROPOSITION",
+        "reasoning": "Naturligtvis är språkkunskaper viktiga men förutsättningar måste ges. Vänsterpartiet menar att alla behövs för att vi ska klara personalbehovet inom hemtjänst och äldreomsorg. Kombination av språkundervisning och praktik kan vara en väg.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "8215f557272c125b7ccba5f7c0072581",
+        "questionType": "PROPOSITION",
+        "reasoning": "Frågan är inte aktuell i Malå kommun. Vi är tack och lov befriade från friskolor.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "bbafdcde9a396859e5f4030cc18374d2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet menar att finansieringsfrågan är avgörande. En reformerad bostadspolitik inklusive finansieringsfrågorna behövs om bostaden ska kunna bli en rättighet och inte en klassmarkör. ",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "5e9933df41b08c360021a289cd9450f6",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet säger nej till vinster i välfärden.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "812b8857cc7e73c92bcaafea13b1cb47",
+        "questionType": "PROPOSITION",
+        "reasoning": "Statligt stöd är en förutsättning. Det handlar om rättvisa och tillgänglighet. På landsbygden kan det vara svårt att hitta de marknadslösningar som finns i tätbebyggda områden. Därför behöver staten ta ett övergripande ansvar.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f60e658f64e10af04d0abb084f1fa976",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det handlar om solidaritet och här måste alla kommuner ta ett ansvar.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "72e8557e05350797b9c33e76e9993933",
+        "questionType": "RANGE",
+        "reasoning": "Friskolor finns inte och ska inte finnas i Malå kommun.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "3928c69047a64e463c3061dcf16ad1d0",
+        "questionType": "RANGE",
+        "reasoning": "Kultur är ett vitt begrepp. För den som inte har möjlighet eller ekonomi att åka iväg över sommarlov och semester är hemmamiljön det som finns. Den demokratiska rätten att kunna röra sig fritt och kunna nyttja den gemensamma miljön ifrågasätts allt mer. Vänsterpartiet menar att tillgång till kultur i vid mening är viktigt för människors välbefinnande. ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "632dc1643afa2b45d8531efd51486e22",
+        "questionType": "RANGE",
+        "reasoning": "En kommunalskattereform måste genomföras!\r\nKommunalskatten är lika oavsett inkomst och består dels av skatt till regionen dels av skatt till hemmakommunen. En lågavlönad betalar samma kommunalskatt som en miljonär. Det beror också på var i landet du bor hur mycket kommunalskatt du betalar. En Malåbo betalar fem kronor mer för varje intjänad hundring än en stockholmare.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "a4fc8eb6537b5fd6f7a718da520c33c8",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1715",
+          "1716",
+          "1721"
+        ]
+      }
+    ],
+    "answersCount": 16,
+    "answersString": "D;B;D;B;B;C;B;D;C;A!;C;A;2/5;2/5;1/5;[1715,1716,1721]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Lokalt har vi en radikalare landsbygdspolitik. Vi menar att betydligt större\r\nhänsyn ska tas till de utmaningar och förutsättningar vi på landsbygden har.\r\nVi kommer i alla sammanhang lyfta fram Malå som ett exempel på god livsmiljö på landsbygden. Staden ska inte alltid vara normen.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett styre där Vänsterpartiets inflytande blir så stort som möjligt. Ett styre som fortsätter att göra Malå kommun till en bra plats att leva och verka i.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Ny simhall",
+        "description": "Vänsterpartiet har och kommer att fortsätta arbeta med simhallsfrågan.\r\nSamverkan med andra aktörer och ett tydligt statligt ansvar kommer att behövas. Vi måste hitta lösningar vad gäller ekonomi för investeringen och för framtida drift. Det handlar i grunden om rättvisa. Malåborna är värda en simhall men vi måste klara kommunens huvuduppgifter inom skola, vård och omsorg."
+      },
+      {
+        "category": "Öka Malåbornas möjlighet till delaktighet och inflytande",
+        "description": "Demokrati ska finnas i hela samhället inte bara i sammanträdesrummen. Därför vill vi skapa och finnas på mötesplatser där aktuella frågor diskuteras. Vi vill bättre ta till vara på Malåbornas åsikter och idéer. Vi vill fortsätta med det arbete vi gjort under de senaste åren."
+      },
+      {
+        "category": "Utveckla samverkan mellan offentlig, privat och ideell sektor",
+        "description": "Fortsätta utveckla en korrekt och likvärdig service till Malås näringsliv.\r\nUtveckla dialogerna med det lokala näringslivet.\r\nDen ideella sektorns engagemang i form av byautveckling, idrott och kulturverksamhet ska synliggöras och utvecklas i kommunen."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet – Malå arbetar utifrån de grundläggande värderingarna om allas lika värde. Solidaritet, jämlikhet, jämställdhet och rättvisa utgör grunden för partiets politiska arbete i Malå. Vi vill fortsätta arbetet med att utveckla kommunen vad gäller livskvalité, näringsliv, skola, vård, omsorg och invånarnas möjlighet till dialog och inflytande ",
+    "name": "Vänsterpartiet Malå",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-mala"
+  }
+]

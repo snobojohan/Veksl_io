@@ -1,0 +1,695 @@
+[
+  {
+    "abbreviation": "L",
+    "altingetCandidateId": "302",
+    "answers": [
+    ],
+    "answersCount": 0,
+    "answersString": "",
+    "color": "#1e69aa",
+    "electionType": "municipality",
+    "eligible": false,
+    "generalQuestionAnswers": [
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Fler elever som har gymnasiebehörighet ",
+        "description": "Tvålärarsystemet, flera behöriga lärare samt nödvändiga resurser för elever i behov av stöd"
+      },
+      {
+        "category": "Trygghetsboende för pensionärer",
+        "description": ""
+      },
+      {
+        "category": "Flera arbetstillfälle för ungdomar som befinner sig i riskzonen",
+        "description": ""
+      }
+    ],
+    "motivateVote": null,
+    "name": "Liberalerna Fagersta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "liberalerna-fagersta"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "303",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "86759e51c1fd54a50d19402b69acc660",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behöver fler sjönära bostäder.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4157fa76d216678956a4e7bac8fb7b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att minska brottsligheten behöver vi öka tryggheten i Fagersta.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d0b99c5874f2fe382e42589a6c26460c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Moderaterna vill erbjuda ett brett utbud av olika bostads- och upplåtelseformer.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d8812b0a95ff600d3accf256d676f1fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas en mix av privat näringsliv och kommunala bolag.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "cbc9c90dccea9531a0c54ef768a1544b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förhandlingsfråga.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "39195e3d08b8b8d04e5ae332cdf358cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Avgörs i fullmäktige.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "973e084c40ba2a3d150b100df8657cd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Språket är viktigt.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2949df6d7d6b7cfa5abbe930c8857b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Brett utbud av bostadsformer behövs.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "6aff654c40ce3316b3da917c3396367b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Om behov och intresse finns.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c9541b19506a1ab9b061871e5b62b2ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Behovet kommer att öka.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0989f4820908d88088cce261febb593b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Överenskommelse görs länsvis.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d6446a75b863b5a668cf3d089b97161",
+        "questionType": "RANGE",
+        "reasoning": "Har en bra mix idag.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ceffcce722f5807b4a822f00c8cc3675",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "dcde4129e749965f8342c69a90211981",
+        "questionType": "RANGE",
+        "reasoning": "Samma som idag",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6dcb274c2129e32f04bf36090258836",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1025",
+          "1032",
+          "1030"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;C;B;B;C;C;C;C;B;2/5;2/5;2/5;[1025,1032,1030]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej inte i de grundläggande politiska värderingarna. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ingå i majoritetsstyre",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Valutgången avgör ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Jobben och näringslivets utveckling",
+        "description": "Flytten av arbetsförmedlingen från Fagersta. Hög arbetslöshet, framför allt bland unga. Behovet av fler företag lokalt."
+      },
+      {
+        "category": "Trygghetsfrågor",
+        "description": "Med tanke på vad som händer i världen blir trygghetsfrågor viktiga.\r\nKamerabevakningen bör utökas. Belysning vid utsatta platser."
+      },
+      {
+        "category": "Integrationen",
+        "description": "Viktigt att få nyanlända invånare in i samhället.\r\nKan ske genom föräldrautbildning, information, tillgång till fler bostäder."
+      }
+    ],
+    "motivateVote": "För framtidens Fagersta. Underlätta för företag att etablera och utvecklas. Planera för sjönära boende. Åtgärdsplan för kameraövervakning. Erbjuda en trygg och värdig äldreomsorg. Fler mötesplatser för unga. Som ny i Sverige få tydliga krav men också få förutsättningar för att bli en del av samhället. \r\n",
+    "name": "Moderaterna Fagersta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-fagersta"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "305",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "86759e51c1fd54a50d19402b69acc660",
+        "questionType": "PROPOSITION",
+        "reasoning": "Strandskyddet är viktigt, men orimligt begränsande i mindre kommuner. Det kan byggas hela sjöstäder i storstadsområden, men det går inte att sätta ett skjul intill en bäck i små städer. Det måste ändras.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4157fa76d216678956a4e7bac8fb7b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kameraövervakning är i grunden bra och ett viktigt komplement för att minska upplevd otrygghet. Men det är inte hela lösningen. För det krävs ett aktivt förebyggande arbete.",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d0b99c5874f2fe382e42589a6c26460c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är redan beslutat att det ska byggas ett nytt modernt särskilt boende med 100 platser, man ska få åldras med värdighet och känna trygghet i att kommunen finns där när man behöver den.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d8812b0a95ff600d3accf256d676f1fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommuner ska inte bedriva verksamhet som sker på kommersiella grunder och i konkurrens med näringsidkare. Däremot kan kommunala bolag finnas för exempelvis allmännyttiga bostäder, energi och elproduktion. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cbc9c90dccea9531a0c54ef768a1544b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sex timmars arbetsdag är högst önskvärt. Det är en fråga som egentligen borde lagstadgas i en nationell reform, det är svårt för en kommun att genomföra något sådant i alla verksamheter.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "39195e3d08b8b8d04e5ae332cdf358cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Folkomröstningar är ett bra verktyg i stora omvälvande frågor, men ännu bättre och enklare vore att nyttja medborgardialog och medborgarinflytande i fler frågor, så att invånare kan vara med och påverka. Det arbetet pågår redan i kommunen och bör utvecklas ännu mer.",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "973e084c40ba2a3d150b100df8657cd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är viktigt att man behärskar språket i alla kommunens verksamheter, och kommunen ska kunna ställa höga krav på detta men också erbjuda språkutbildningar i samband med nyanställning. Det är inte bra att skapa onödiga barriärer i samhället, utan hellre visa vägen in till ett eget arbete och egen försörjning.",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "e2949df6d7d6b7cfa5abbe930c8857b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen startar under år 2022 bostadsbolag och har en hög ambition att få fram fler lägenheter i olika upplåtelseformer. En bra bostad är en rättighet för våra invånare och kommunen måste vara en stark aktör.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "6aff654c40ce3316b3da917c3396367b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Fagersta kommun ska driva dessa verksamheter i egen regi. Här ska det inte finnas utrymme för vinstutdelning till marknadsintressen. Människors välfärd ska inte avgöras av krav på lönsamhet, utan utgå från människors behov.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "c9541b19506a1ab9b061871e5b62b2ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen har en viktig roll att möjliggöra utbyggnad av infrastruktur för såväl eldrivna fordon som för andra miljövänliga drivmedel som exempelvis biogas och vätgas.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "0989f4820908d88088cce261febb593b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Alla kommuner ska ta lika stort ansvar och ta emot proportionerligt lika många flyktingar, med hänsyn till arbetsmarknadsförutsättningar. Det är inte värdigt att placera orimligt många människor i mindre orter på landsbygd, med långa avstånd till eget arbete och egen försörjning. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "0d6446a75b863b5a668cf3d089b97161",
+        "questionType": "RANGE",
+        "reasoning": "Det finns en privat aktör i form av Lindgårdsskolan och förskolan Linden, som drivs av församlingen. Det viktiga är att det inte etableras fler privat drivna skolor, där lönsamhet står framför elevernas behov.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "ceffcce722f5807b4a822f00c8cc3675",
+        "questionType": "RANGE",
+        "reasoning": "Det ska byggas ett allaktivitetshus med nya lokaler för bland annat bibliotek och kulturskola, som bör göras avgiftsfri. Det satsas redan idag i budgeten stora pengar på aktiviteter för unga - det behövs ännu mer, för en rik fritid och ett rikt kulturliv är något som bygger god hälsa  och välfärd.",
+        "value": "4"
+      },
+      {
+        "important": true,
+        "questionId": "dcde4129e749965f8342c69a90211981",
+        "questionType": "RANGE",
+        "reasoning": "Vi lever allt längre och blir äldre, skulle vi inte göra någon förändring så kommer det krävas skattehöjning för att klara av att leverera den samhällsservice som krävs. Därför måste kommunen jobba aktivt med att bli mer effektiv och få ut större nytta av varenda skattekrona. Innan man börjar fundera ens på skattehöjning. Ett arbete har pågått sedan 2016 kring detta.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6dcb274c2129e32f04bf36090258836",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1032",
+          "1028",
+          "1026"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;D!;B;C;C;C;D!;A!;D!;A!;2/5!;4/5!;2/5!;[1032,1028,1026]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Inte ideologiskt. ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Det avgörs helt av valresultatet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Utbildning som ger jobb",
+        "description": "I Fagersta ska man kunna växa och växla genom hela livet och rustas med rätt kompetens. I Fagersta har det varit stort fokus på att skapa fler jobb och fler och bättre möjligheter till arbetspendling. Det måste fortsätta, och de utbildningsmöjligheter som erbjuds måste se till arbetsmarknadens kompetensbehov. Med fler jobb minskar klyftorna i samhället."
+      },
+      {
+        "category": "Framtiden börjar i förskolan",
+        "description": "Förskolan ska vara lärorik och stimulerande för alla barn. Elevgrupperna ska fortsätta minska så att barnen erbjuds en trygg miljö. Vi har satsat rejält på skolorna i Fagersta, byggt ut lokalerna, sett över utemiljöerna, infört\r\nen pedagogisk modell för undervisning, förstärkt med fler lärare och resurspersoner. Vi har vänt utvecklingen. Det arbetet måste fortsätta. Ingen elev ska lämnas efter."
+      },
+      {
+        "category": "Det ska vara tryggt att bli gammal",
+        "description": "Man ska få åldras med värdighet och bestämma över sitt liv och sin vardag. Vården ska komma till dig när du behöver den. Det ska byggas ett helt nytt\r\noch modernt äldreboende. Det behövs bättre förutsättningar för personalens viktiga arbete. Det behövs en fast omsorgskontakt i hemtjänsten och ökat stöd till pensionsärsorganisationer, frivilligverksamhet och föreningar."
+      }
+    ],
+    "motivateVote": "Det har hänt mycket i Fagersta de senaste åtta åren, med exempelvis utbyggnad av skolorna, ny förskola, nytt produktionskök och stora reformer, som heltid som norm  - men vi är inte färdiga. Vi vill fortsätta satsa på framtidens Fagersta och prioritera investeringar i utbildning, äldreomsorg, välfärd, infrastruktur och bostäder samt insatser som skapar jobb.",
+    "name": "Socialdemokraterna Fagersta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-fagersta"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "306",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "86759e51c1fd54a50d19402b69acc660",
+        "questionType": "PROPOSITION",
+        "reasoning": "Viktigt att ha attraktiva tomter ocb en god boendemiljö för att få innevånare att stanna och öka inflyttningen till kommunen",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c4157fa76d216678956a4e7bac8fb7b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att stävja kriminalitet och en ökad trygghet i samhället ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d0b99c5874f2fe382e42589a6c26460c",
+        "questionType": "PROPOSITION",
+        "reasoning": "De äldre skall ha en säker och trygg omvårdnad i en god miljö.\r\nLikväl som personalen skall ha en god arbetsmiljö i arbetet med de äldre\r\n",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d8812b0a95ff600d3accf256d676f1fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi skall stödja det privata näringslivet i Fagersta för  att främja fler företag och hög sysselsättning ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "cbc9c90dccea9531a0c54ef768a1544b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Med tanke på den arbetsbelastning det är att jobba inom vård och omsorg  är det befogat att sänka arbetstiden  för att behålla personalen med bibehållen lön",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "39195e3d08b8b8d04e5ae332cdf358cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "I vissa frågor kan det vara befogat för att  att det öka människors medinflytande\r\ni övergripande frågor",
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "973e084c40ba2a3d150b100df8657cd7",
+        "questionType": "PROPOSITION",
+        "reasoning": "Väldigt viktigt att kunna kommunicera när man arbetar med människor för att undvika misstag och fel .\r\nDetta är en säkerhetsfråga både för personal och klienter",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "e2949df6d7d6b7cfa5abbe930c8857b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nej . Vi anser att människor måste rätta munnen efter matsäcken . Det är inte skattebetalarnas uppgift ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6aff654c40ce3316b3da917c3396367b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kan privata företag bedriva verksamhet av högre kvalitet än normen och klienterna är tillfreds är det ett utmärkt alternativ  . ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "c9541b19506a1ab9b061871e5b62b2ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Drivmedelsföretagen skall ansvara för detta ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0989f4820908d88088cce261febb593b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Kommunen vet bäst vad det finns för möjligheter att kunna ta emot nyanlända på ett värdigt sätt",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "0d6446a75b863b5a668cf3d089b97161",
+        "questionType": "RANGE",
+        "reasoning": "Friskolornas verksamhet är väl avvägd i kommunen idag ",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ceffcce722f5807b4a822f00c8cc3675",
+        "questionType": "RANGE",
+        "reasoning": "Nytt kulturhus behövs. Mer satsningar på musik , teater och historiska platser .\r\nVi föreslår 2,7 miljoner kronor mera till dessa verksamheter.\r\n",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "dcde4129e749965f8342c69a90211981",
+        "questionType": "RANGE",
+        "reasoning": "Vi behöver sänka skatten för att göra kommunen attraktiv . ",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d6dcb274c2129e32f04bf36090258836",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1032",
+          "1027",
+          "1026"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;D;D;D;D;C;D!;B;D;B;D;2/5;3/5;1/5;[1032,1027,1026]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Att Sverigedemokraterna har majoritet antingen själva eller i koalition",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Samtliga partier är välkomna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Äldreomsorgen",
+        "description": "Våra äldre skall ha en trygg och värdig ålderdom"
+      },
+      {
+        "category": "Skolan",
+        "description": "Fler resurser till skolan . Utbildning skall ske i den mest gynnsamma miljö för både elever och personal"
+      },
+      {
+        "category": "Energiefrågor",
+        "description": "Ingen vindkraft i Fagersta med omnejd. All verksamhet skall bedrivas med fokus på energiebesparing  och på ekonomisk fördelaktigaste vis .\r\nSatsa mer på solenergie och vätgas ."
+      }
+    ],
+    "motivateVote": "Vi vill ha ett tryggt och rättvist samhälle och en välfärd värd namnet",
+    "name": "Sverigedemokraterna Fagersta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-fagersta"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "307",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "86759e51c1fd54a50d19402b69acc660",
+        "questionType": "PROPOSITION",
+        "reasoning": "En satsning på attraktiva tomter görs så att folk inte  vill eller måste söka sig till grannkommunerna. Strandnära tomter kan vara ok om det inte  påverkar människors tillträde  och närhet till naturen. Allas tillträde till vår natur är viktig. Vi måste värna allemansrätten. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "c4157fa76d216678956a4e7bac8fb7b5",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den här frågan är svår att svara på tycker jag, kameraövervakning är ingen lösning för att stävja brott men de kan underlätta identifiering för att klara upp utförda brott. Ett brottsförebyggande arbete, både vad gäller utformning av de offentliga rummet och sociala åtgärder, är mer effektivt mot brott. Vi tror mer på förebyggande arbete, men som sagt, en mycket svår fråga att ha ett klart svar på",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "d0b99c5874f2fe382e42589a6c26460c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Ja vi måste ta hand om våra äldre och ett nytt äldreboende är redan på gång att byggas. ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "d8812b0a95ff600d3accf256d676f1fc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det viktiga är att välfärden prioriteras, vinstbegränsningar inom välfärden ska säkerställa att skattemedel  avsatta för välfärden används till att förbättra skolresultaten och ge våra äldre en trygg omsorg – inte till stora vinstuttag. ",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "cbc9c90dccea9531a0c54ef768a1544b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är något som Vänsterpartiet har kämpat för länge. Vi måste vara rädd om vår viktiga personal. ",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "39195e3d08b8b8d04e5ae332cdf358cc",
+        "questionType": "PROPOSITION",
+        "reasoning": "Både ja och nej. Det är viktigt att ha en bra kontakt med kommunens medborgare, fler e-förslag, lyssna in vad medborgarna tycker om specifika frågor, skapa möten mellan politiker och medborgare. Lyckas vi med det kanske inte folkomröstningar behövs? ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "973e084c40ba2a3d150b100df8657cd7",
+        "questionType": "PROPOSITION",
+        "reasoning": " För att skapa trygghet bland våra äldre är det viktigt att de blir förstådda och att kommunikationen är flytande. Vi behöver mångfalt även inom äldreomsorgen och då  är det viktigt att fler språk än Svenska används. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "e2949df6d7d6b7cfa5abbe930c8857b2",
+        "questionType": "PROPOSITION",
+        "reasoning": "Inte som det ser ut nu. Vi har rätt många lägenheter som skall byggas till,  \r\n Gamla kommunhusen på Norbergs vägen, Solliden om de skall byggas om till lägenheter,  koltrasten, kolarbyn. Behöver vi verkligen fler lägenheter? ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "6aff654c40ce3316b3da917c3396367b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vänsterpartiet är emot privata företag som inte värnar om välfärden, pengarna skall gå tillbaka till välfärden och inte hamna i riskkapitalisternas fickor. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "c9541b19506a1ab9b061871e5b62b2ca",
+        "questionType": "PROPOSITION",
+        "reasoning": "Efterfrågan avgör hur många publika laddstolpar vi behöver. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "0989f4820908d88088cce261febb593b",
+        "questionType": "PROPOSITION",
+        "reasoning": "Den 1 mars blev det en ny lag som säger att alla kommuner är tvungna att ta emot flyktningar. Det som avgör hur många flyktingar som varje kommun ska ta emot är storleken på kommunen, hur många flyktingar som kommit tidigare och hur arbetsmarknaden ser ut i området. Alla kommuner bör/ skall hjälpas åt.",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "0d6446a75b863b5a668cf3d089b97161",
+        "questionType": "RANGE",
+        "reasoning": "Den kommunala skolan bör vara så attraktiv att elever och föräldrar väljer den i första hand. Om de inte gör det anser jag att den kommunala skolan har en del att förbättra. ",
+        "value": "1"
+      },
+      {
+        "important": true,
+        "questionId": "ceffcce722f5807b4a822f00c8cc3675",
+        "questionType": "RANGE",
+        "reasoning": "Någon exakt siffra har jag inte , men kultur är viktigt och bör utvecklas. ",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "dcde4129e749965f8342c69a90211981",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d6dcb274c2129e32f04bf36090258836",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1025",
+          "1032",
+          "1029"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;B;D!;A;D!;C!;C;B;B;C;B;1/5;4/5!;2/5;[1025,1032,1029]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej, men kommunpolitik och rikspolitik kan se lite annorlunda ut. Vi fokuserar mer på de kommunala frågorna då vi representerar de boende i Fagersta i första hand.  ",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Då vi lever i en demokrati är det svårt att svara på den frågan innan valet, men Vi tror på samarbete i politiken, samråd o samverkan mellan kommunerna  och vårt mal är att lyssna på kommuninvånarna och göra Fagersta Attraktivt att bo o leva i. Vi vill skapa ett bättre Fagersta tillsammans med kommuninvånarna. ",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Vi avvaktar den frågan då diskussionen pågår i partiet. ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Förskola och skola",
+        "description": "Barngrupperna ska minska  i förskolan och personaltätheten öka. Grundskolan och gymnasiets lärare får ägna sig år att lära ut den kunskap de är utbildade till, elevhälsan behöver förstärkas så alla barn med behov av särskilt stöd och särbegåvade barn skall få den hjälp och utmaningar de har rätt till.  Komvux och SFI ska ha attraktiva utbildningar så människor kommer i egen försörjning."
+      },
+      {
+        "category": "Äldreomsorg ",
+        "description": "De äldre får tillräckligt stöd och en fungerande kedja av äldreboende, särskilt boende, trygghetsboende, bostadsanpassningar och en bättre kontinuitet i hemtjänsten.  Kompetensutveckling för personalen behöver förstärkas."
+      },
+      {
+        "category": "Kultur o natur",
+        "description": "Kultur och natur är viktigt för själen. Bibliotek och kulturskolan skall få ändamålsenliga lokaler i ett allaktivitetshus för alla åldrar. \r\nKommunens skogar ska inte skövlas, fler stigar görs iordning med informationstavlor om vilka djur och växter som finns där. Intresse för stads nära odling undersöks. Fler fiskebryggor byggs där det är möjligt."
+      }
+    ],
+    "motivateVote": "Vänsterpartiet  är ett  socialistiskt och feministiskt parti som präglas av medmänsklighet, solidaritet och rättvisa. Vi kommer att lyssna på kommuninvånarna och göra Fagersta attraktivt att bo o verka i. Vi prioriterar kommunens viktigaste verksamheter framför storstilade planer, ogenomtänkta fastighetsaffärer och dyra utköp av chefer. ",
+    "name": "Vänsterpartiet Fagersta",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-fagersta"
+  }
+]

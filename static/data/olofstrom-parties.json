@@ -1,0 +1,965 @@
+[
+  {
+    "abbreviation": "C",
+    "altingetCandidateId": "1314",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är en preventiv åtgärd som underlättar polisens utredningsarbete när något hänt. Det är svårt att få tillstånd till kameraövervakning som det är nu, det borde underlättas. För något år sedan stals det datorer i Kyrkhults skola för över en miljon kronor. Kanske det hade förhindrats om man haft kameraövervakning.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": true,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi tycker absolut inte man ska \"brännmärka\" kött och prata om \"köttfria dagar\". Svenskt kött är klimatsmart. Man kan ändå äta fisk och soppa, gärna en dag i veckan var, men det är inte nån \"köttfri dag\". Det är fiskdagen och soppdagen. På soppdagen ska det vara pannkakor också!",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det har vi gjort för länge, det är därför Olofströmhus ekonomi är som den är.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det hade varit utmärkt med fler aktörer som investerar i Olofströms kommun, förutom vi skattebetalare. Bra för personal att ha fler arbetsgivare att välja på.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": "Olofströms kommun ska ta vår del av ansvaret. I nuläget har vi tagit emot fler än andra, så just nu är det andra som behöver ta ett större ansvar. ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": "Vi har ju inget privat alls idag, det vore roligt om någon med lite driv kunde starta en alternativ pedagogik, typ Ur o Skur eller Montessori.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1919",
+          "1922",
+          "1923"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D;C;C;A!;B;B;D;D;A;D;B;3/5;2/5;2/5;[1919,1922,1923]",
+    "color": "#32a532",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej!\r\nKommer inte på någon.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Ett stort Centerparti som samarbetar inom Alliansen.\r\nDen kan kombineras med fler.\r\nAllt för Olofströms bästa.\r\n",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I enskilda sakfrågor med alla.\r\n ",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Landsbygdens utveckling, tillväxt och attraktionskraft till glädje för alla.",
+        "description": "Vi vill satsa på marklägenheter i byarna, småskolornas utveckling, Cykel/permobilvägar till Kyrkhult, Gränum, Vilshult.\r\nHalverade avstånd till skolskjuts för landsbygdsbarnen.\r\nBevara jordbruksmark. Handla lokalt som EKO-ringen.\r\nSäkra livsmedelsförsörjningen. \r\nTurismen utvecklas med naturupplevelser."
+      },
+      {
+        "category": "Fler händer i vården. inför ",
+        "description": "Vi måste ge de anställda i vården bättre villkor och högre löner. De ska ha inflytande över schemaplanering och vara delaktiga i hur arbetsplatsen och vårdutförande kan förbättras.\r\nÖkade möjligheter till utevistelse för våra äldre på boendena."
+      },
+      {
+        "category": "Tryggheten i samhället ska öka och brottsligheten minska.",
+        "description": "Centerpartiet kräver fler kameror på utsatta platser och byggnader med höga värden. En betydligt ökad polisnärvaro i Olofström är nödvändigt för att snabbare gripa in vid stölder, övergrepp, missbruk av droger och skadegörelse"
+      }
+    ],
+    "motivateVote": "Vi står för ett tydligt ledarskap.\r\nVi har kompetens och erfarenhet av kommunens kärnfrågor som är vård, skola och omsorg. Landsbygden är viktig. Våra kandidater förnyar Olofström.\r\nDärutöver företagande, energi, miljö, cykelvägar, trygghet.\r\n",
+    "name": "Centerpartiet Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "centerpartiet-olofstrom"
+  },
+  {
+    "abbreviation": "KD",
+    "altingetCandidateId": "1315",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+        ]
+      }
+    ],
+    "answersCount": 13,
+    "answersString": "C;C;D;B;A;B;C;C;_;D;B;3/5;2/5;1/5;_",
+    "color": "#331D79",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi ställer oss helt bakom riksnivån uppfattning.  Men vi är också realister och inser vad som är möjligt just nu.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Givetvis vore det bäst att vi själva hade egen majoritet. Men så blir det nog inte. Men det är viktigt att man kan skapa en majoritet som styr kommunen tillsammans.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "I kommunpolitiken ser vi inte till ideologin utan till vilka människor det är.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bygg 90 platser på det nya äldreboendet",
+        "description": "Vi tycker att vi måste ta höjd för en verklighet. Vi blir äldre! Socialnämnden har i sin utredning sagt att vi kommer behöva 90 platser. Vi förstår att det kommer behövas inte idag men framöver."
+      },
+      {
+        "category": "Respekt, valfrihet, värdighet och tillgänglighet inom vård och omsorg",
+        "description": "Respekt, valfrihet, värdighet och tillgänglighet inom vård och omsorg"
+      },
+      {
+        "category": "Realistisk och Nyttig kommunpolitik",
+        "description": "VI kommer arbeta positivt och konstruktivt för att utveckla Olofströms kommun genom att försöka påverka och styra beslut till det bästa för kommunen, oavsett vem som  har uttalat förslaget."
+      }
+    ],
+    "motivateVote": "Ordning och reda i de kommunala besluten!\r\n\r\n*Mindre barngrupper i förskolor och ökad valfrihet inom barnomsorgen.\r\n*Respekt, valfrihet, värdighet och tillgänglighet inom vård och omsorg.\r\n*Verka för en god samhällsgemenskap i både skola och arbetsliv.\r\n*Frivilliga insatser måste uppmuntras.\r\n.*Bättre vägunderhåll och bättre kollektivtrafik.\r\n\r\n\r\nKD ger människan frihet att fatt format sitt eget liv.\r\n",
+    "name": "Kristdemokraterna Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "kristdemokraterna-olofstrom"
+  },
+  {
+    "abbreviation": "M",
+    "altingetCandidateId": "1316",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Trygghetskameror har visat sig vara ett bra verktyg att förebygga brott samt identifiera förövarna om brott begås men även för att höja känslan av trygghet hos invånarna.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagbarnvårdare får närmare relation till föräldrar och föräldrar får en närmare relation till de som ansvarar för deras barn under arbetstid än det är möjligt i stora barngrupper på förskolan. Dagbarnvårdare tillhör en förlorad generation som vi återigen vill väcka till liv.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har genom åren gått miste om en polisutbildning ort på grund av de styrandes slapphet, att behålla den nu världskända Sweden Rock i kommunen samt misslyckats att världens mest kända hyperbilsmärken Koenigsegg stannat kvar i kommunen. Alla dessa företag hade fått ringar på vattnet i form av bredare arbetsmarknad. S har förlitat sig på Volvo. Så kan vi inte ha det om kommunen ska utvecklas.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det ska finnas alternativ till kött i form av fågel eller fisk ",
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": "Någon ska bekosta kalaset och då handlar det om fördelningen av gemensamma resurser.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vid principiellt viktiga, frågor kan det finnas skäl för en folkomröstning.  Ett komplement att involvera invånarna i kommunens utveckling och framtid. Det är viktigt att lyssna på folkviljan i en sann demokrati",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": "Personal måste tala svenska  inom äldreomsorgen och hemtjänsten. Hur ska de annars veta vad de äldre säger eller vill. Väldigt viktigt vid delegering av medicin. Vi ska ha som regel att språktesta alla nya medarbetare. Befintlig personal som är i behov av att förbättra språket kommer att erbjudas verksamhetsanpassad språkkurs.  ",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har idag fritt skolval och det ska behållas samt det kösystem vi har idag för alla. Vi ska däremot inte syssla med kvotering och bussning av elever till \"bättre\" fungerande skolor.\r\n",
+        "value": "B"
+      },
+      {
+        "important": true,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Olofströms kommun har genom kommunala Olofströmshus AB en särställning med väldigt många hyresrätter i förhållande till hela bostadsmarknaden. Vi bör omvandla en del av hyresrätter till bostadsrätter istället.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ska ge våra seniorer rätten att bestämma över sina liv och sin livssituation.  Både äldre och funktionshindrade har olika individuella önskemål och behov.  Vi vill ha konkurrens i kvalitet inom äldrevården och hemtjänsten. Lagen om valfrihetssystem inom service, vård och omsorg (LOV) infördes 2009. Det är hög tid för Olofströms kommun att tillåta denna driftsform. Bra för äldre och personalen.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": "Det är numera allmänt känt att det förda integrationspolitiken är ett totalt misslyckande. Vi måste få bukt med de problem vi upplever idag innan vi kan tänka oss annat.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": "I dagsläget har vi inga privata företag som driver skolverksamhet. Därför ser vi fram emot nya etableringar.",
+        "value": "4"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": "Vi har mycket kulturverksamhet i kommunen i dagsläget.",
+        "value": "2"
+      },
+      {
+        "important": true,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": "Under mandatperioden kommer vi arbeta för sänkt kommunalskatt. Det ska genomföras genom fokus på kommunal kärnverksamhet. Kommunen tar på sig uppgifter vilka varken är lagstadgade eller är kommunal kärnverksamhet. Alla onödiga kostnader ska kapas. Varje krona ska användas på ett smart sätt som gynnar våra invånare och företagare. Avgifter ska anpassas till en skälig nivå.",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1919",
+          "1922",
+          "1924"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "D!;D;D!;B;A;D;D!;B;A!;D!;D;4/5;2/5;1/5!;[1919,1922,1924]",
+    "color": "#7dbee1",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vi tycker att hyrläkarsystemet måste skrotas då detta system gynnar regioner som har muskler att ge de höga lönerna.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "50 år av S vanstyret räcker. Viktigt att bryta maktstrukturer som byggts upp under denna tid. I en demokrati tjänar alla på att makten skiftar sida genom tiden. Vi Moderaterna tänker oss styra gemensamt med Sverigedemokraterna då vi redan har ett bra budgetsamarbete men vi tänker att de partier som vill ha förändring som vill arbeta progressivt för kommunens utveckling är välkomna till samarbete.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Socialdemokraterna och MP",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Polisnärvaro 24/7, Trygghetskameror på offentliga platser",
+        "description": "Polisnärvaro i kommunen alla veckans dagar. Trygghetskameror ska sättas upp på allmänna platser. Vi kommer att genomföra översyn av offentliga områden, parker, lekplatser, promenadstråk, motionsspår, cykelvägar, mörka gator - för att eliminera  otrygga platser med mer belysning kvälls och nattetid i hela kommunen."
+      },
+      {
+        "category": "Multihall - En hjärtefråga för Moderaterna i mer än 10 år",
+        "description": "Multihall - Vi vill påbörja planeringen för kommande hallbygge. Vi har vid tidigare tillfällen motionerat i frågan men fått kalla handen ifrån det styrande partiet. Olofströms kommun är en aktiv idrottskommun men det råder brist på halltider En ny Multihall behövs. Det har varit Moderaternas hjärtefråga i många år. Privata initiativ som vill bygga och driva multihallen välkomnas varmt."
+      },
+      {
+        "category": "Landsbygdens tillväxt och strandskydd",
+        "description": "Företagande ska bejakas. Vi vill stärka företagande på landsbygden, bland annat genom att tillåta gårdsförsäljning av vin och öl men också genom att göra det lättare att starta livsmedelsföretag. Ta vara på landsbygdens tillväxtpotential. Det måste också bli mer attraktivt att bosätta sig på landsbygden. Det måste bli enklare att bygga nära vatten. Strandskyddsreglerna måste förändras ytterligare."
+      }
+    ],
+    "motivateVote": "Vi är ett progressivt parti med liberal-konservativ ryggrad. Genom åren har vi varit drivande  för utvecklingen av Olofströms kommun inom flera områden trots oppositionsrollen. Vi har individen i fokus, företagen, jobb, boende infrastruktur och fritid, bättre skola och omsorg. Vi begränsas inte av ideologin och goda idéer tillvaratas oavsett var de kommer ifrån.",
+    "name": "Moderaterna Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "moderaterna-olofstrom"
+  },
+  {
+    "abbreviation": "S",
+    "altingetCandidateId": "1317",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi ser ständigt över om det finns specifika områden eller platser som vi behöver extra insatser till. Om behov finns så kommer vi att säkra upp de platser som vi finner. ",
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1922",
+          "1921",
+          "1924"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "C;A;D;A;C;B;D;D;C;A;C;2/5;3/5;2/5;[1922,1921,1924]",
+    "color": "#e02e3d",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Fler bemannade polisstationer i småkommuner och i utsatta områden. Fler Servicekontor i småkommuner. Återinföra Arbetsförmedlingens arbete och tillgänglighet i småkommuner.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Vi går till val för att få egen majoritet.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Sverigedemokraterna och Moderaterna",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Bo och leva",
+        "description": "Vi vill att våra invånare ska ha alternativ till hur man vill leva och bo och då behövs också extra satsningar på både villor, hyresrätter, marklägenheter, trygghetsboende och särskilt boende. Det ska finnas tomter för bebyggelse i hela kommunen. Vi ska fortsätta utveckla både skola, omsorg och fritid så att alla kommunens invånare oavsett ålder ska känna sig hemma här."
+      },
+      {
+        "category": "Tryggt och säkert",
+        "description": "Alla invånare ska känna sig trygga och säkra i kommunen. Vi har ett väl utvecklat samarbete med polis, räddningstjänst och civilsamhället för ökad trygghet. Trygghetsvandringar för tryggare offentliga miljöer. Skolan ska vara en trygg plats för alla våra barn och ungdomar och därför vill vi satsa mer på bland annat elevhälsan och skolvärdar."
+      },
+      {
+        "category": "Näringsliv och företag",
+        "description": "Vi ska verka för ett framsynt, växande, jämställt och attraktivt Olofström där förutsättningarna är goda för att driva och utveckla företag på ett hållbart sätt inom hela kommunen. Kommunens befintliga näringsliv ska ges förutsättningar för att behålla och skapa nya arbetstillfällen. Vi ska sträva efter att ge goda möjligheter för nya företag och företagsformer att starta och etablera sig."
+      }
+    ],
+    "motivateVote": "Under föregående mandatperiod med Socialdemokraterna så har kommunen en fortsatt god ekonomi, denna ekonomi vill vi fortsätta att förvalta och utveckla så att Du som medborgare ska känna Dig trygg och säker. Vi fortsätter utveckla och investera där behoven finns, genom att prioritera och väga vad vi vill göra, vad vi måste göra, vad vi kan göra och vad vi inte ska göra.\r\n",
+    "name": "Socialdemokraterna Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "socialdemokraterna-olofstrom"
+  },
+  {
+    "abbreviation": "SD",
+    "altingetCandidateId": "1318",
+    "answers": [
+      {
+        "important": true,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att minska risken för skadegörelse och ökad trygghet",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Dagbarnvårdare ger ökad valfrihet och gör det lättare att erbjuda platser på helger kvällar och nätter.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Nu är kommunen en av de kommuner som är mest beroende av en enda arbetsgivare. Det är mycket angeläget att få till fler arbetsgivare i andra branscher.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna ser hellre att det alltid finns ett vegetariskt alternativ till huvudrätten för att öka valfriheten och näringsintaget under skoldagen.",
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": "Förutan att det är ekonomiskt ohållbart så riskerar det gå ut över arbetsmiljön genom att det riskerar leda till uteblivna satsningar på personalen.\r\nSverigedemokraterna ser andra lösningar för en bättre arbetsmiljö.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna verkar för att demokratin ska komma närmare kommuninvånarna och att de ska få möjlighet att tycka till i viktiga kommunala frågor.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": "För att öka tryggheten och minska risken för missförstånd och försämrad omsorg.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": null
+      },
+      {
+        "important": false,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": "Vi har ett överskott på bostäder i kommunen.",
+        "value": "A"
+      },
+      {
+        "important": true,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": "Människor är genom hela livet vana vid att välja sin livssituation och det bör de få fortsätta med hela livet.",
+        "value": "D"
+      },
+      {
+        "important": true,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": "Sverigedemokraterna anser att kommunen själv ska bestämma över hur många kommunen kommunen kan ta hand om.",
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": "Om elevunderlaget finns ser vi inget hinder för friskolor.",
+        "value": "3"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": "Dagens utbud av kultur är brett och bidrar till kommunens attraktivitet.",
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": "Med ett sverigedemokratiskt styre skulle vi kunna sänka skatten med bibehållen kvalite i de kommunala verksamheterna.\r\n",
+        "value": "1"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1919",
+          "1925",
+          "1923"
+        ]
+      }
+    ],
+    "answersCount": 14,
+    "answersString": "D!;D!;D!;A!;A;D!;D!;_;A;D!;D!;3/5;2/5;1/5;[1919,1925,1923]",
+    "color": "#ffc346",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Nej.",
+        "question": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "title": "Finns det någon politisk fråga där ert parti lokalt har en annan uppfattning än vad partiet har på riksnivå?",
+        "type": "PoliticalIssueLocalNational"
+      },
+      {
+        "answer": "Sverigedemokraterna eftersträvar alltid att få största möjliga inflytande för att få igenom vår politik, därför sätter vi politiken i centrum istället för vilka vi samarbetar med.",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "Nej, Sverigedemokraterna anser att politik är viktigare än prestige.",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+      {
+        "category": "Skolan och barnomsorg",
+        "description": "Anställa skolcoach vars främsta uppgift är att hålla ordning och ge studiero\r\nAnställa lärarassistenter\r\nÖka säkerheten i skolan med passerkort\r\nÖka trygghetsbevakningen runt skolan\r\nInföra en yrkesutbildning för dagbarnvårdare"
+      },
+      {
+        "category": "Trygghet",
+        "description": "Införa med trygghetskameror. \r\nVerka för ett utökat alkoholförbud på allmän plats"
+      },
+      {
+        "category": "Äldreomsorgen och vård.",
+        "description": "Anställa fler vårdbiträde och teamleader \r\nAtt ge de anställda i kommunen rätt att välja sin egen sysselsättningsgrad.\r\nHöja friskvårdsbidrag för det anställda"
+      }
+    ],
+    "motivateVote": "Sverigedemokraterna är inte ett parti som alla andra. Medan andra partier i åratal monterat ner skola, vård och omsorg vill Sverigedemokraterna öka lärartätheten, skapa ett tryggt samhälle präglat av gemenskap och sammanhållning samt ha en äldrevård invånarna kan kännas sig trygga med. ",
+    "name": "Sverigedemokraterna Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "sverigedemokraterna-olofstrom"
+  },
+  {
+    "abbreviation": "V",
+    "altingetCandidateId": "1319",
+    "answers": [
+      {
+        "important": false,
+        "questionId": "2b0b91350b3b79249b0a0dafacf8e3f8",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "a6981761659489d806ed290e4c9e504e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "ff1d46350ec3ec8b5a0d3a3666f37deb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "240f781529ad70cceec92574c4f131d4",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "7ea6ae68946631f74952aa3d4a191941",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "f7ec9edd798c75960ef3b0601d7021cb",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "B"
+      },
+      {
+        "important": false,
+        "questionId": "cc218447b4880cc0c1b3b2e90584d638",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "C"
+      },
+      {
+        "important": false,
+        "questionId": "344a4c0bd3add1d0f3d36327fb43627f",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "5f814b5f7a6159e8ab19512c4b9eec2e",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "D"
+      },
+      {
+        "important": false,
+        "questionId": "4a3aeee7416879ae483fcebe0e38c73c",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "66320333476dff66d45c35a0fcafa323",
+        "questionType": "PROPOSITION",
+        "reasoning": null,
+        "value": "A"
+      },
+      {
+        "important": false,
+        "questionId": "038b35de8296964f9d861c0115112c99",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "0"
+      },
+      {
+        "important": false,
+        "questionId": "ce593ebf7c183cb616736dd9e4f52b2b",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "6cadad3004f6700881a26ce8e23d9ecd",
+        "questionType": "RANGE",
+        "reasoning": null,
+        "value": "2"
+      },
+      {
+        "important": false,
+        "questionId": "d7fb4b92170a874856c9680668f339f5",
+        "questionType": "PRIORITY",
+        "reasoning": null,
+        "value": [
+          "1919",
+          "1927",
+          "1923"
+        ]
+      }
+    ],
+    "answersCount": 15,
+    "answersString": "A;A;D;B;D;B;C;D;D;A;A;0/5;2/5;2/5;[1919,1927,1923]",
+    "color": "#911414",
+    "electionType": "municipality",
+    "eligible": true,
+    "generalQuestionAnswers": [
+      {
+        "answer": "Vänster",
+        "question": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "title": "Hur vill ert parti att det politiska styret ska se ut efter valet 2022?",
+        "type": "PoliticalGovEndElection"
+      },
+      {
+        "answer": "SD",
+        "question": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "title": "Finns det något parti som ert parti INTE kan tänka er att styra tillsammans med efter valet i höst?",
+        "type": "OtherPartyNotSympathy"
+      }
+    ],
+    "inGovernment": false,
+    "keyIssues": [
+    ],
+    "motivateVote": "Vänsterpartiet lyssnar på sina väljare och jobbar för att det ska vara ett jämnvikt samhälle att leva i",
+    "name": "Vänsterpartiet Olofström",
+    "parliamentarySeats": null,
+    "partyLeaders": null,
+    "politicalProposals": [
+    ],
+    "priorityPoliticalProposals": [
+    ],
+    "slug": "vansterpartiet-olofstrom"
+  }
+]
